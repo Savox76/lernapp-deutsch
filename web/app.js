@@ -28,7 +28,7 @@ let W = [], S = [], T = [], MAN = {};
 let WBYID = {}, SBYID = {};
 let P = Object.assign({ w: {}, s: {}, newDay: 0, newCount: 0, fehler: {}, seenVersion: 0, drafts: {}, schreibenDone: {} }, LS.get("dl-prog", {}));
 let ST = Object.assign({ days: {} }, LS.get("dl-stats", {}));
-let SET = Object.assign({ name: "", niveau: "alle", perDay: 15, goal: 60, leicht: false, rate: 0.9, onboarded: false }, LS.get("dl-set", {}));
+let SET = Object.assign({ name: "", niveau: "alle", perDay: 15, goal: 60, leicht: false, rate: 0.9, onboarded: false, auto: true, tapSay: true }, LS.get("dl-set", {}));
 function saveP() { LS.set("dl-prog", P); }
 function saveST() { LS.set("dl-stats", ST); }
 function saveSET() { LS.set("dl-set", SET); }
@@ -191,7 +191,7 @@ function pickCard0() {
 /* ================= Übungen =================
    Jede Übung: build(host, done) – ruft done(ok) genau einmal auf, wenn die Lernerin "Weiter" drückt. */
 const EX = {};
-const TYPE_NAMES = { karte: "Karteikarten", bauen: "Satz bauen", verb: "Wo steht das Verb?", rf: "Richtig oder falsch?", diktat: "Diktat", bedeutung: "Bedeutung", artikel: "der/die/das", luecke: "Lückentext", wortart: "Wortart", schreiben: "Schreiben" };
+const TYPE_NAMES = { hoeren: "Hörtraining", karte: "Karteikarten", bauen: "Satz bauen", verb: "Wo steht das Verb?", rf: "Richtig oder falsch?", diktat: "Diktat", bedeutung: "Bedeutung", artikel: "der/die/das", luecke: "Lückentext", wortart: "Wortart", schreiben: "Schreiben" };
 
 function nextBtn(host, done, ok) {
   const b = document.createElement("button"); b.className = "btn primary"; b.textContent = "Weiter →";
@@ -230,7 +230,7 @@ EX.karte = function (host, done, opt = {}) {
       $("#yes", host).onclick = () => g(true); $("#no", host).onclick = () => g(false);
     }
   }
-  draw(); return true;
+  draw(); if (SET.auto && dir === "de") setTimeout(() => say(deLabel(w)), 250); return true;
 };
 
 /* --- Satz bauen (auch Diktat) --- */
@@ -248,7 +248,7 @@ function buildSentence(host, done, sent, mode) {
   host.innerHTML = `
     <div class="card">
       <div class="row between"><span class="pill">${dikt ? "Diktat · hören und bauen" : "Satz bauen"} · ${esc(sent.lv)}</span>${HAS_TTS ? `<button class="say" id="sp" aria-label="Vorlesen">🔊</button>` : ""}</div>
-      ${dikt ? `<p class="hint">Hör zu und bau den Satz. <span class="ru">Послушай и собери предложение.</span></p><button class="btn small ghost" id="helpRu" style="align-self:flex-start">Hilfe: auf Russisch zeigen</button>` : ""}
+      ${dikt ? `<p class="hint">Hör zu und bau den Satz. <span class="ru">Послушай и собери предложение.</span></p><button class="btn small ghost" id="helpRu" style="align-self:flex-start">Hilfe: auf Russisch zeigen</button>` : task("Bau den Satz. Tippe die Wörter in der richtigen Reihenfolge an.", "Собери предложение.")}
       <div class="rubox" id="ruHint" ${dikt ? "hidden" : ""}>${sent.ru ? "<b>По-русски:</b> " + esc(sent.ru) : "<b>Слово:</b> " + esc(sent.hint || "")}</div>
       <div class="zone" id="zone" aria-label="Dein Satz"></div>
       <div class="pool" id="pool" aria-label="Wörter"></div>
@@ -267,12 +267,15 @@ function buildSentence(host, done, sent, mode) {
     if (checked && end) { const s = document.createElement("span"); s.textContent = end; s.style.fontSize = "22px"; zone.appendChild(s); }
     pool.forEach((x, k) => {
       const b = document.createElement("button"); b.className = "tile"; b.textContent = x.t;
-      b.onclick = () => { if (checked) return; pool.splice(k, 1); placed.push(x); render(); };
+      b.onclick = () => { if (checked) return; if (SET.tapSay) say(x.t); pool.splice(k, 1); placed.push(x); render(); };
       pl.appendChild(b);
     });
   }
   render();
-  if ($("#sp", host)) $("#sp", host).onclick = () => say(plainSent(sent.de));
+  if ($("#sp", host)) $("#sp", host).onclick = () => {
+    if (dikt || checked) say(plainSent(sent.de));
+    else say("Bau den Satz. Die Wörter sind: " + pool.concat(placed).map(x => x.t.replace(/,$/, "")).join(", "));
+  };
   if (dikt) { setTimeout(() => say(plainSent(sent.de)), 300); $("#helpRu", host).onclick = e => { $("#ruHint", host).hidden = false; e.target.hidden = true; }; }
   $("#reset", host).onclick = () => { if (checked) return; pool = shuffle(pool.concat(placed.filter(x => !x.fixed))); placed = placed.filter(x => x.fixed); render(); };
   $("#chk", host).onclick = () => {
@@ -309,17 +312,19 @@ EX.verb = function (host, done, opt = {}) {
   host.innerHTML = `
     <div class="card">
       <span class="pill" style="align-self:flex-start">Wo steht das Verb? · ${esc(sent.lv)}</span>
-      <p class="hint">Tippe auf die Lücke, in die das Verb gehört. <span class="ru">Куда ставится глагол?</span></p>
+      <div class="row between"><p class="hint" style="flex:1">Tippe auf die Lücke, in die das Verb gehört. <span class="ru">Куда ставится глагол?</span></p>${HAS_TTS ? `<button class="say" id="sayV" aria-label="Aufgabe vorlesen">🔊</button>` : ""}</div>
       <div style="text-align:center"><span class="vchip">${esc(verb)}</span></div>
       <div class="vline" id="vl"></div>
       ${sent.ru ? `<div class="rubox">${esc(sent.ru)}</div>` : ""}
       <div id="res" class="panel" hidden></div>
     </div>`;
   const vl = $("#vl", host); let answered = false;
+  if ($("#sayV", host)) $("#sayV", host).onclick = () => say(answered ? plainSent(sent.de) : "Wo steht das Verb? Das Verb ist: " + verb.replace(/,$/, "") + ". Die anderen Wörter: " + rest.join(" "));
+  if (SET.auto) setTimeout(() => say("Das Verb ist: " + verb.replace(/,$/, "")), 250);
   for (let i = 0; i <= rest.length; i++) {
     const g = document.createElement("button"); g.className = "vgap"; g.textContent = "+"; g.setAttribute("aria-label", "Lücke " + (i + 1)); g.dataset.i = i;
     vl.appendChild(g);
-    if (i < rest.length) { const s = document.createElement("span"); s.className = "vword"; s.textContent = rest[i] + (i === rest.length - 1 ? end : ""); vl.appendChild(s); }
+    if (i < rest.length) { const s = document.createElement("span"); s.className = "vword"; s.textContent = rest[i] + (i === rest.length - 1 ? end : ""); s.onclick = () => SET.tapSay && say(rest[i]); vl.appendChild(s); }
   }
   vl.onclick = e => {
     const g = e.target.closest(".vgap"); if (!g || answered) return; answered = true;
@@ -360,13 +365,14 @@ EX.rf = function (host, done, opt = {}) {
   host.innerHTML = `
     <div class="card">
       <span class="pill" style="align-self:flex-start">Richtig oder falsch? · ${esc(sent.lv)}</span>
-      <p class="hint">Ist die Wortstellung richtig? <span class="ru">Порядок слов правильный?</span></p>
+      <div class="row between"><p class="hint" style="flex:1">Ist die Wortstellung richtig? <span class="ru">Порядок слов правильный?</span></p>${sayBtn(shown, "Satz vorlesen")}</div>
       <p class="sent">${esc(shown)}</p>
       ${sent.ru ? `<div class="rubox">${esc(sent.ru)}</div>` : ""}
       <div class="choices two"><button class="choice" data-a="1">✓ Richtig</button><button class="choice" data-a="0">✗ Falsch</button></div>
       <div id="res" class="panel" hidden></div>
     </div>`;
   let answered = false;
+  if (SET.auto) setTimeout(() => say(shown), 250);
   host.querySelectorAll(".choice").forEach(b => b.onclick = () => {
     if (answered) return; answered = true;
     const ok = (b.dataset.a === "1") === isRight;
@@ -382,14 +388,20 @@ EX.rf = function (host, done, opt = {}) {
 };
 
 /* --- Quiz-Grundgerüst --- */
-function mcq(host, done, { type, label, prompt, options, right, cls, after, word, ref }) {
+/* Hilfe-Zeile: Aufgabe auf Deutsch (wird vorgelesen) + kurz auf Russisch */
+function task(de, ru) { return `<p class="hint">${esc(de)}${ru ? ` <span class="ru">${esc(ru)}</span>` : ""}</p>`; }
+function mcq(host, done, { type, label, prompt, options, right, cls, after, ref, word, say: sayText, sayAfter, aufgabe, aufgabeRu }) {
+  const readAll = () => say([aufgabe, sayText, "Antworten: " + options.join(", ")].filter(Boolean).map(x => x.trim().replace(/[.!?]$/, "")).join(". "));
   host.innerHTML = `
     <div class="card">
-      <div class="row between"><span class="pill">${esc(label)}</span>${word ? sayBtn(deLabel(word)) : ""}</div>
+      <div class="row between"><span class="pill">${esc(label)}</span>${HAS_TTS ? `<button class="say" id="sayTask" aria-label="Aufgabe vorlesen">🔊</button>` : ""}</div>
+      ${aufgabe ? task(aufgabe, aufgabeRu) : ""}
       <div>${prompt}</div>
       <div class="choices ${cls || "two"}" id="ch"></div>
       <div id="res" class="panel" hidden></div>
     </div>`;
+  if ($("#sayTask", host)) $("#sayTask", host).onclick = readAll;
+  if (SET.auto && sayText) setTimeout(() => say(sayText), 250);
   const ch = $("#ch", host); let answered = false;
   options.forEach(o => {
     const b = document.createElement("button"); b.className = "choice" + (cls === "art" ? " " + o : ""); b.textContent = o;
@@ -401,6 +413,7 @@ function mcq(host, done, { type, label, prompt, options, right, cls, after, word
       if (word && P.w[word.id] && !ok) { P.w[word.id].d = dayNum(); saveP(); }
       const r = $("#res", host); r.hidden = false;
       r.innerHTML = `<div class="feedback ${ok ? "ok" : "bad"}">${ok ? "Richtig! <span class='ru'>Верно!</span>" : "Leider falsch. <span class='ru'>Неверно.</span>"}</div>${after ? after() : ""}`;
+      if (sayAfter) say(sayAfter);
       nextBtn(host.firstElementChild, done, ok);
     };
     ch.appendChild(b);
@@ -409,23 +422,28 @@ function mcq(host, done, { type, label, prompt, options, right, cls, after, word
   return true;
 }
 function wordInfo(w) {
-  return `<div class="rule"><b class="${w.t === "Nomen" ? artClass(w.a) : ""}">${esc(deLabel(w))}</b>${w.f ? " · " + esc(w.f) : ""} — <span class="ru">${esc(w.ru)}</span>${w.x ? `<br><i>${esc(w.x)}</i>` : ""}</div>`;
+  return `<div class="rule"><div class="row" style="flex-wrap:nowrap;align-items:flex-start"><div style="flex:1"><b class="${w.t === "Nomen" ? artClass(w.a) : ""}">${esc(deLabel(w))}</b>${w.f ? " · " + esc(w.f) : ""}${w.b ? `<br>${esc(w.b)}` : ""}${w.x ? `<br><i>${esc(w.x)}</i>` : ""}<br><span class="ru">${esc(w.ru)}</span></div>${sayBtn(deLabel(w) + (w.x ? ". " + w.x : ""))}</div></div>`;
 }
+/* Bedeutung: nur Deutsch – Wort ↔ deutsche Erklärung. Russisch erscheint erst nach der Antwort. */
 EX.bedeutung = function (host, done, opt = {}) {
-  const list = prefSeen(wordPool().filter(w => w.ru));
+  const list = prefSeen(wordPool().filter(w => w.b && w.b.length > 5));
   if (list.length < 4) return false;
-  const w = opt.word || rnd(list);
-  const same = W.filter(x => x.id !== w.id && x.t === w.t && x.ru !== w.ru);
-  const others = shuffle(same.length >= 3 ? same : W.filter(x => x.id !== w.id)).slice(0, 3);
-  const rev = Math.random() < .4;
-  if (rev) return mcq(host, done, { type: "bedeutung", label: "Russisch → Deutsch", prompt: `<div class="big ru" style="font-family:var(--body)">${esc(w.ru)}</div>`, options: shuffle([w, ...others].map(deLabel)), right: deLabel(w), after: () => wordInfo(w), ref: w.id });
-  return mcq(host, done, { type: "bedeutung", label: "Deutsch → Russisch", prompt: `<div class="big">${esc(deLabel(w))}</div>`, options: shuffle([w, ...others].map(x => x.ru)), right: w.ru, word: w, after: () => wordInfo(w), ref: w.id });
+  const w = opt.word && opt.word.b ? opt.word : rnd(list);
+  const same = W.filter(x => x.id !== w.id && x.b && x.t === w.t && x.b !== w.b);
+  const others = shuffle(same.length >= 3 ? same : W.filter(x => x.id !== w.id && x.b)).slice(0, 3);
+  if (Math.random() < .5) {
+    return mcq(host, done, { type: "bedeutung", label: "Was bedeutet das Wort?", aufgabe: "Was bedeutet das Wort? Wähle die richtige Erklärung.", aufgabeRu: "Выбери правильное объяснение.",
+      prompt: `<div class="big">${esc(deLabel(w))}</div>`, say: deLabel(w), options: shuffle([w, ...others].map(x => x.b)), right: w.b, cls: "one", word: w, after: () => wordInfo(w), sayAfter: deLabel(w) + ". " + w.b, ref: w.id });
+  }
+  return mcq(host, done, { type: "bedeutung", label: "Welches Wort passt?", aufgabe: "Welches Wort passt zu der Erklärung?", aufgabeRu: "Какое слово подходит к объяснению?",
+    prompt: `<p class="sent">${esc(w.b)}</p>`, say: w.b, options: shuffle([w, ...others].map(deLabel)), right: deLabel(w), word: w, after: () => wordInfo(w), sayAfter: deLabel(w), ref: w.id });
 };
 EX.artikel = function (host, done, opt = {}) {
   const list = prefSeen(wordPool().filter(w => w.t === "Nomen" && ["der", "die", "das"].includes(w.a)));
   if (!list.length) return false;
   const w = opt.word && opt.word.a ? opt.word : rnd(list);
-  return mcq(host, done, { type: "artikel", label: "der · die · das", prompt: `<div class="big">${esc(w.w)}</div><p class="hint ru" style="text-align:center">${esc(w.ru)}</p>`, options: ["der", "die", "das"], right: w.a, cls: "art", word: w, after: () => wordInfo(w), ref: w.id });
+  return mcq(host, done, { type: "artikel", label: "der · die · das", aufgabe: "Welcher Artikel ist richtig?", aufgabeRu: "Какой артикль правильный?",
+    prompt: `<div class="big">${esc(w.w)}</div><p class="hint ru" style="text-align:center">${esc(w.ru)}</p>`, say: w.w, options: ["der", "die", "das"], right: w.a, cls: "art", word: w, after: () => wordInfo(w), sayAfter: deLabel(w), ref: w.id });
 };
 function stemOf(w) { let s = w.toLowerCase().replace(/^sich\s+/, "").replace(/\s*\(.*$/, "").trim(); if (/\s/.test(s)) return null; const n = Math.max(3, Math.min(5, s.length - 2)); return s.slice(0, n); }
 function clozeFor(w) {
@@ -444,19 +462,46 @@ EX.luecke = function (host, done, opt = {}) {
   const src = same.length >= 3 ? same : all.filter(x => x.w.id !== c.w.id && x.token.toLowerCase() !== c.token.toLowerCase());
   const opts = []; shuffle(src).forEach(x => { if (opts.length < 3 && !opts.includes(x.token)) opts.push(x.token); });
   const shown = c.toks.map((t, i) => i === c.i ? esc(t).replace(esc(c.token), '<span class="gapword">&nbsp;?&nbsp;</span>') : esc(t)).join("");
-  return mcq(host, done, { type: "luecke", label: "Lückentext", prompt: `<p class="cloze">${shown}</p><p class="hint" style="text-align:center">Gesucht: <span class="ru">${esc(c.w.ru)}</span></p>`, options: shuffle([c.token, ...opts]), right: c.token, after: () => `<div class="solution" style="text-align:center">${esc(c.w.x)}</div>`, ref: c.w.id });
+  const spoken = c.toks.map((t, i) => i === c.i ? t.replace(c.token, "… Lücke …") : t).join("");
+  return mcq(host, done, { type: "luecke", label: "Lückentext", aufgabe: "Welches Wort fehlt im Satz?", aufgabeRu: "Какое слово пропущено?",
+    prompt: `<p class="cloze">${shown}</p><p class="hint" style="text-align:center">Hilfe: <span class="ru">${esc(c.w.ru)}</span></p>`, say: spoken, options: shuffle([c.token, ...opts]), right: c.token,
+    after: () => `<div class="solution" style="text-align:center">${esc(c.w.x)}</div>`, sayAfter: c.w.x, ref: c.w.id });
 };
 EX.wortart = function (host, done) {
   const list = prefSeen(wordPool().filter(w => w.t !== "Redemittel"));
   if (!list.length) return false;
   const w = rnd(list);
   const opts = ["Nomen", "Verb", "Adjektiv", "Adverb", "Präposition", "Konjunktion"];
-  return mcq(host, done, { type: "wortart", label: "Was für ein Wort ist das?", prompt: `<div class="big">${esc(w.w)}</div>${w.x ? `<p class="hint" style="text-align:center">„${esc(w.x)}“</p>` : ""}`, options: opts, right: w.t, after: () => wordInfo(w), ref: w.id });
+  return mcq(host, done, { type: "wortart", label: "Wortart", aufgabe: "Was für ein Wort ist das?", aufgabeRu: "Какая это часть речи?",
+    prompt: `<div class="big">${esc(w.w)}</div>${w.x ? `<p class="hint" style="text-align:center">„${esc(w.x)}“</p>` : ""}`, say: w.w + (w.x ? ". " + w.x : ""), options: opts, right: w.t, after: () => wordInfo(w), ref: w.id });
 };
+/* Hörtraining: Wort oder Satz nur hören, dann das Gehörte auswählen (alles auf Deutsch) */
+EX.hoeren = function (host, done, opt = {}) {
+  if (!HAS_TTS) return false;
+  if (Math.random() < .5) {
+    const pool = prefSeen(wordPool().filter(w => w.t !== "Redemittel" && !/\s/.test(w.w)));
+    if (pool.length < 4) return false;
+    const w = rnd(pool);
+    const same = W.filter(x => x.id !== w.id && x.t === w.t && !/\s/.test(x.w) && x.w[0].toLowerCase() === w.w[0].toLowerCase());
+    const others = shuffle(same.length >= 3 ? same : W.filter(x => x.id !== w.id && x.t === w.t && !/\s/.test(x.w))).slice(0, 3);
+    return mcq(host, done, { type: "hoeren", label: "Hörtraining · Wort", aufgabe: "Hör zu. Welches Wort hörst du?", aufgabeRu: "Послушай. Какое слово ты слышишь?",
+      prompt: `<div style="text-align:center"><button class="btn big" id="play">🔊 Anhören</button></div>`, say: deLabel(w), options: shuffle([w, ...others].map(deLabel)), right: deLabel(w), word: w, after: () => wordInfo(w), sayAfter: deLabel(w), ref: w.id })
+      && bindPlay(host, deLabel(w));
+  }
+  const s0 = pickSentence(false); if (!s0) return false;
+  const same = S.filter(x => x.id !== s0.id && x.k === s0.k && Math.abs(plainSent(x.de).length - plainSent(s0.de).length) < 40);
+  const others = shuffle(same.length >= 2 ? same : S.filter(x => x.id !== s0.id)).slice(0, 2);
+  const right = plainSent(s0.de);
+  return mcq(host, done, { type: "hoeren", label: "Hörtraining · Satz", aufgabe: "Hör zu. Welchen Satz hörst du?", aufgabeRu: "Послушай. Какое предложение ты слышишь?",
+    prompt: `<div style="text-align:center"><button class="btn big" id="play">🔊 Anhören</button></div>`, say: right, options: shuffle([right, ...others.map(x => plainSent(x.de))]), right, cls: "one",
+    after: () => `${s0.ru ? `<div class="rubox">${esc(s0.ru)}</div>` : ""}`, sayAfter: right, ref: s0.id })
+    && bindPlay(host, right);
+};
+function bindPlay(host, text) { const b = $("#play", host); if (b) b.onclick = () => say(text); return true; }
 
 /* ================= Auswertung ================= */
 const SB_TYPES = ["bauen", "verb", "rf", "diktat"];
-const W_TYPES = ["karte", "bedeutung", "artikel", "luecke", "wortart"];
+const W_TYPES = ["karte", "bedeutung", "artikel", "luecke", "wortart", "hoeren"];
 function analyse(days) {
   const since = days ? Math.floor(Date.now() / 1000) - days * 86400 : 0;
   const ev = LOG.filter(e => e.t >= since);
@@ -526,7 +571,7 @@ function sessionEnd(host) {
 /* Pläne */
 const PLAN = {
   mix: i => {
-    const order = ["karte", "bauen", "karte", "verb", "bedeutung", "rf", "karte", "bauen", "artikel", "diktat", "karte", "verb", "luecke", "bauen", "karte", "rf", "bedeutung", "bauen", "verb", "bauen"];
+    const order = ["karte", "bauen", "karte", "verb", "bedeutung", "rf", "karte", "bauen", "artikel", "diktat", "karte", "verb", "hoeren", "bauen", "karte", "rf", "luecke", "bauen", "verb", "hoeren"];
     const type = order[i % order.length];
     // Satzbau-Aufgaben im Tagesmix: jede zweite aus den schwächsten Grammatik-Themen
     if (["bauen", "verb", "rf", "diktat"].includes(type) && i % 2 === 1) return { type, opt: { cats: weakCats() } };
@@ -537,7 +582,8 @@ const PLAN = {
   satzbau: (i, t) => ({ type: t > 1 ? "bauen" : ["bauen", "verb", "rf", "bauen", "diktat", "verb", "bauen", "rf"][i % 8] }),
   bauen: () => ({ type: "bauen" }), verb: () => ({ type: "verb" }), rf: () => ({ type: "rf" }), diktat: () => ({ type: "diktat" }),
   karten: () => ({ type: "karte" }),
-  quiz: (i, t) => ({ type: t > 2 ? "bedeutung" : ["bedeutung", "artikel", "luecke", "bedeutung", "wortart", "artikel", "luecke"][i % 7] }),
+  quiz: (i, t) => ({ type: t > 2 ? "bedeutung" : ["bedeutung", "artikel", "luecke", "hoeren", "wortart", "artikel", "bedeutung", "hoeren"][i % 8] }),
+  hoeren: () => ({ type: "hoeren" }),
   bedeutung: () => ({ type: "bedeutung" }), artikel: () => ({ type: "artikel" }), luecke: () => ({ type: "luecke" }), wortart: () => ({ type: "wortart" }),
   fehler: i => {
     const refs = Object.entries(P.fehler).sort((a, b) => b[1] - a[1]).map(x => x[0]);
@@ -654,7 +700,8 @@ VIEWS.woerter = function () {
     <h2>Quiz</h2>
     <div class="menu">
       <button data-q="quiz"><span class="ic">✱</span><b>Gemischt</b><span>alle Quizarten</span></button>
-      <button data-q="bedeutung"><span class="ic">Ru</span><b>Bedeutung</b><span>Deutsch ↔ Russisch</span></button>
+      <button data-q="bedeutung"><span class="ic">?</span><b>Bedeutung</b><span>Wort ↔ Erklärung auf Deutsch</span></button>
+      <button data-q="hoeren" ${HAS_TTS ? "" : "disabled"}><span class="ic">🔊</span><b>Hörtraining</b><span>${HAS_TTS ? "hören und erkennen" : "Vorlesen nicht verfügbar"}</span></button>
       <button data-q="artikel"><span class="ic">d/d/d</span><b>der, die, das</b><span>Artikel trainieren</span></button>
       <button data-q="luecke"><span class="ic">_</span><b>Lückentext</b><span>Wort im Satz finden</span></button>
       <button data-q="wortart"><span class="ic">Aa</span><b>Wortart</b><span>Nomen, Verb, …</span></button>
@@ -681,6 +728,7 @@ VIEWS.satzbau = function () {
     </div>
     <div class="card"><h3>Die 3 wichtigsten Regeln</h3>
       <div class="ex">1. Hauptsatz: Verb auf <b>Position 2</b>.<br>2. Nebensatz (weil, dass, wenn …): Verb <b>ganz am Ende</b>.<br>3. Zwei Verbteile: Teil 2 <b>ans Ende</b> (Satzklammer).</div>
+      ${HAS_TTS ? `<button class="btn small" data-say="Erstens: Im Hauptsatz steht das Verb auf Position 2. Zweitens: Im Nebensatz mit weil, dass oder wenn steht das Verb ganz am Ende. Drittens: Wenn das Verb zwei Teile hat, steht der zweite Teil ganz am Ende." style="align-self:flex-start">🔊 Regeln vorlesen</button>` : ""}
       <div class="rubox">1. Главное предложение: глагол на <b>2-м месте</b>. 2. Придаточное: глагол <b>в конце</b>. 3. Вторая часть глагола — <b>в конец</b>.</div>
       <button class="btn small" id="toRules">Alle Regeln ansehen</button>
       <label class="check"><input type="checkbox" id="leicht" ${SET.leicht ? "checked" : ""}> Leichter Modus: erstes Wort ist schon gesetzt</label>
@@ -872,6 +920,11 @@ VIEWS.mehr = function () {
 VIEWS.regeln = function () {
   app.innerHTML = `${head("Grammatik", "Mehr")}<div class="panel" id="rg"></div>`;
   $("#rg").appendChild($("#tpl-regeln").content.cloneNode(true));
+  if (HAS_TTS) app.querySelectorAll("details.g .gbody").forEach(g => {
+    const b = document.createElement("button"); b.className = "btn small"; b.textContent = "🔊 Regel vorlesen"; b.style.alignSelf = "flex-start";
+    b.onclick = () => { const c = g.cloneNode(true); c.querySelectorAll(".rubox, button").forEach(x => x.remove()); say(c.innerText.replace(/\s+/g, " ")); };
+    g.prepend(b);
+  });
 };
 VIEWS.liste = function () {
   app.innerHTML = `${head("Wortliste", "Mehr")}<input id="q" placeholder="Suchen: Deutsch oder Russisch …" autocomplete="off"><div class="card"><div class="list" id="ls"></div></div>`;
@@ -893,10 +946,10 @@ VIEWS.aufgabe = function () {
   const t = T.find(x => x.id === viewArg); if (!t) return go("schreiben");
   app.innerHTML = `${head(esc(t.t), "Schreiben")}
     <div class="card">
-      <span class="pill" style="align-self:flex-start">${esc(t.lv)} · ca. ${t.w} Wörter</span>
+      <div class="row between"><span class="pill">${esc(t.lv)} · ca. ${t.w} Wörter</span>${HAS_TTS ? `<button class="btn small" id="sayT">🔊 Aufgabe vorlesen</button>` : ""}</div>
       <p>${esc(t.s)}</p><ul style="margin:0;padding-left:20px">${t.p.map(x => `<li>${esc(x)}</li>`).join("")}</ul>
       <div class="rubox">${esc(t.ru)}</div>
-      ${t.rm && t.rm.length ? `<div><p class="hint small" style="margin-bottom:6px">Hilfreiche Sätze:</p><div class="chips">${t.rm.map(x => `<span>${esc(x)}</span>`).join("")}</div></div>` : ""}
+      ${t.rm && t.rm.length ? `<div><p class="hint small" style="margin-bottom:6px">Hilfreiche Sätze:</p><div class="chips">${t.rm.map(x => `<span data-say="${esc(x)}" style="cursor:pointer">${esc(x)}</span>`).join("")}</div></div>` : ""}
     </div>
     <div class="card">
       <label>Dein Text <textarea id="tx" spellcheck="false" placeholder="Sehr geehrte …"></textarea></label>
@@ -909,6 +962,7 @@ VIEWS.aufgabe = function () {
       <div class="row"><button class="btn" id="showM">Musterlösung zeigen</button><button class="btn primary" id="doneT">Fertig</button></div>
       <div id="mo" hidden><h3>Musterlösung</h3><div class="model">${esc(t.m || "")}</div>${HAS_TTS ? `<button class="btn small" id="sayM" style="margin-top:8px">🔊 Vorlesen</button>` : ""}</div>
     </div>`;
+  if ($("#sayT")) $("#sayT").onclick = () => say(t.s + " Schreiben Sie etwas zu diesen Punkten: " + t.p.join(" ") + " Schreiben Sie etwa " + t.w + " Wörter.");
   const tx = $("#tx"); tx.value = P.drafts[t.id] || "";
   const wc = () => { const n = (tx.value.trim().match(/\S+/g) || []).length; $("#wc").textContent = `${n} Wörter · Ziel: ca. ${t.w}`; };
   tx.oninput = () => { P.drafts[t.id] = tx.value; saveP(); wc(); }; wc();
@@ -930,11 +984,13 @@ VIEWS.einstellungen = function () {
       <label>Tagesziel (Aufgaben) <select id="sGoal"><option>40</option><option>60</option><option>80</option><option>100</option><option>150</option></select></label>
       <label>Vorlese-Tempo <select id="sRate"><option value="0.7">langsam</option><option value="0.9">normal</option><option value="1">schnell</option></select></label>
       <label class="check"><input type="checkbox" id="sLeicht"> Satzbau leichter: erstes Wort ist schon gesetzt</label>
+      <label class="check"><input type="checkbox" id="sAuto"> Wörter und Sätze automatisch vorlesen</label>
+      <label class="check"><input type="checkbox" id="sTap"> Wörter beim Antippen vorlesen</label>
       <button class="btn primary" id="sSave">Speichern</button>
       ${HAS_TTS ? `<button class="btn small" id="sTest">🔊 Vorlesen testen</button>` : `<p class="hint small">Vorlesen ist auf diesem Gerät nicht verfügbar.</p>`}
     </div>`;
-  $("#sLv").value = SET.niveau; $("#sPer").value = String(SET.perDay); $("#sGoal").value = String(SET.goal); $("#sRate").value = String(SET.rate); $("#sLeicht").checked = SET.leicht;
-  $("#sSave").onclick = () => { SET.name = $("#sName").value.trim(); SET.niveau = $("#sLv").value; SET.perDay = +$("#sPer").value; SET.goal = +$("#sGoal").value; SET.rate = +$("#sRate").value; SET.leicht = $("#sLeicht").checked; saveSET(); toast("Gespeichert"); };
+  $("#sLv").value = SET.niveau; $("#sPer").value = String(SET.perDay); $("#sGoal").value = String(SET.goal); $("#sRate").value = String(SET.rate); $("#sLeicht").checked = SET.leicht; $("#sAuto").checked = SET.auto; $("#sTap").checked = SET.tapSay;
+  $("#sSave").onclick = () => { SET.name = $("#sName").value.trim(); SET.niveau = $("#sLv").value; SET.perDay = +$("#sPer").value; SET.goal = +$("#sGoal").value; SET.rate = +$("#sRate").value; SET.leicht = $("#sLeicht").checked; SET.auto = $("#sAuto").checked; SET.tapSay = $("#sTap").checked; saveSET(); toast("Gespeichert"); };
   if ($("#sTest")) $("#sTest").onclick = () => say("Guten Tag! Ich lerne jeden Tag Deutsch, weil ich die Prüfung bestehen möchte.");
 };
 VIEWS.sicherung = function () {
