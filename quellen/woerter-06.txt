@@ -1,0 +1,107 @@
+# Berufe, Arbeitswelt, Schule, Ausbildung
+Beruf|der|Berufe|N|профессия|die Arbeit, die man gelernt hat|Was sind Sie von Beruf?|B1|Arbeit
+Arzt|der|Ärzte|N|врач|Person, die Kranke behandelt|Mein Bruder ist Arzt.|B1|Berufe
+Ärztin|die|Ärztinnen|N|врач (женщина)|Frau, die Kranke behandelt|Die Ärztin ist sehr freundlich.|B1|Berufe
+Verkäufer|der|Verkäufer|N|продавец|Person, die im Geschäft verkauft|Der Verkäufer hat mich gut beraten.|B1|Berufe
+Verkäuferin|die|Verkäuferinnen|N|продавщица|Frau, die im Geschäft verkauft|Sie arbeitet als Verkäuferin.|B1|Berufe
+Koch|der|Köche|N|повар|Person, die beruflich kocht|Der Koch arbeitet im Restaurant.|B1|Berufe
+Köchin|die|Köchinnen|N|повариха|Frau, die beruflich kocht|Meine Tante ist Köchin.|B1|Berufe
+Kellner|der|Kellner|N|официант|bringt im Restaurant das Essen|Der Kellner bringt die Rechnung.|B1|Berufe
+Friseur|der|Friseure|N|парикмахер|schneidet Haare|Ich habe morgen einen Termin beim Friseur.|B1|Berufe
+Fahrer|der|Fahrer|N|водитель|fährt beruflich ein Auto, einen Bus oder einen LKW|Mein Mann ist LKW-Fahrer.|B1|Berufe
+Handwerker|der|Handwerker|N|ремесленник, мастер|macht Reparaturen im Haus|Der Handwerker kommt am Montag.|B1|Berufe
+Elektriker|der|Elektriker|N|электрик|repariert Strom und Kabel|Wir brauchen einen Elektriker.|B1|Berufe
+Mechaniker|der|Mechaniker|N|механик|repariert Autos und Maschinen|Der Mechaniker repariert mein Auto.|B1|Berufe
+Reinigungskraft|die|Reinigungskräfte|N|уборщик, уборщица|macht beruflich sauber|Sie arbeitet als Reinigungskraft im Hotel.|B1|Berufe
+Lehrerin|die|Lehrerinnen|N|учительница|Frau, die an der Schule unterrichtet|Die Lehrerin erklärt die Aufgabe.|B1|Berufe
+Polizist|der|Polizisten|N|полицейский|arbeitet bei der Polizei|Der Polizist hat mir den Weg gezeigt.|B1|Berufe
+Buchhalterin|die|Buchhalterinnen|N|бухгалтер (женщина)|macht die Finanzen einer Firma|Sie war in Kiew Buchhalterin.|B1|Berufe
+Ingenieur|der|Ingenieure|N|инженер|plant technische Dinge|Mein Vater ist Ingenieur.|B1|Berufe
+Programmierer|der|Programmierer|N|программист|schreibt Computerprogramme|Programmierer werden überall gesucht.|B1|Berufe
+Altenpflegerin|die|Altenpflegerinnen|N|сиделка для пожилых|pflegt alte Menschen|Sie macht eine Ausbildung zur Altenpflegerin.|B1|Berufe
+Krankenpfleger|der|Krankenpfleger|N|медбрат|pflegt Kranke im Krankenhaus|Der Krankenpfleger bringt die Medikamente.|B1|Berufe
+Hausfrau|die|Hausfrauen|N|домохозяйка|Frau, die sich um Haushalt und Familie kümmert|Früher war ich Hausfrau.|B1|Berufe
+Rentner|der|Rentner|N|пенсионер|Person, die nicht mehr arbeitet und Rente bekommt|Mein Nachbar ist Rentner.|B1|Berufe
+Chef|der|Chefs|N|начальник|Person, die eine Firma oder ein Team leitet|Mein Chef ist sehr nett.|B1|Arbeit
+Chefin|die|Chefinnen|N|начальница|Frau, die eine Firma oder ein Team leitet|Die Chefin hat mir gratuliert.|B1|Arbeit
+Firma|die|Firmen|N|фирма|Unternehmen|Die Firma hat 200 Mitarbeiter.|B1|Arbeit
+Unternehmen|das|Unternehmen|N|предприятие, компания|Firma|Das Unternehmen sucht neue Mitarbeiter.|B2|Arbeit
+Fabrik|die|Fabriken|N|фабрика, завод|hier werden Waren produziert|Er arbeitet in einer Fabrik.|B1|Arbeit
+Werkstatt|die|Werkstätten|N|мастерская|Ort für Reparaturen|Das Auto ist in der Werkstatt.|B1|Arbeit
+Kantine|die|Kantinen|N|столовая (на работе)|Restaurant in einer Firma|Mittags esse ich in der Kantine.|B1|Arbeit
+Gewerkschaft|die|Gewerkschaften|N|профсоюз|Organisation der Arbeitnehmer|Die Gewerkschaft fordert mehr Lohn.|B2|Arbeit
+Streik|der|Streiks|N|забастовка|Arbeitnehmer arbeiten aus Protest nicht|Wegen des Streiks fahren keine Züge.|B2|Arbeit
+Betriebsrat|der|Betriebsräte|N|производственный совет|vertritt die Mitarbeiter in der Firma|Sprich doch mit dem Betriebsrat.|B2|Arbeit
+Arbeitslosengeld|das|(kein Plural)|N|пособие по безработице|Geld vom Staat, wenn man keine Arbeit hat|Er bekommt Arbeitslosengeld.|B2|Arbeit
+Minijob|der|Minijobs|N|мини-работа (подработка)|kleine Arbeit mit wenig Lohn|Sie hat einen Minijob im Supermarkt.|B1|Arbeit
+Vollzeit|die|(kein Plural)|N|полный рабочий день|alle normalen Stunden arbeiten|Ich arbeite in Vollzeit.|B1|Arbeit
+Schichtarbeit|die|(kein Plural)|N|сменная работа|Arbeit in wechselnden Zeiten|Schichtarbeit ist anstrengend.|B1|Arbeit
+Nachtschicht|die|Nachtschichten|N|ночная смена|Arbeit in der Nacht|Diese Woche habe ich Nachtschicht.|B1|Arbeit
+Feierabend|der|Feierabende|N|конец рабочего дня|Ende der Arbeit am Tag|Endlich Feierabend!|B1|Arbeit
+Gehaltserhöhung|die|Gehaltserhöhungen|N|повышение зарплаты|mehr Geld für die Arbeit|Ich möchte um eine Gehaltserhöhung bitten.|B2|Arbeit
+Fortbildung|die|Fortbildungen|N|повышение квалификации|Kurs für den Beruf|Nächste Woche habe ich eine Fortbildung.|B1|Arbeit
+Qualifikation|die|Qualifikationen|N|квалификация|was man beruflich gelernt hat|Welche Qualifikationen haben Sie?|B2|Arbeit
+Berufserfahrung|die|(kein Plural)|N|опыт работы|Erfahrung im Beruf|Ich habe fünf Jahre Berufserfahrung.|B1|Arbeit
+Anschreiben|das|Anschreiben|N|сопроводительное письмо|Brief bei einer Bewerbung|Das Anschreiben sollte kurz sein.|B2|Arbeit
+Arbeitsbedingungen|die|(nur Plural)|N|условия труда|wie die Arbeit organisiert ist|Die Arbeitsbedingungen sind gut.|B2|Arbeit
+Kündigungsfrist|die|Kündigungsfristen|N|срок уведомления об увольнении|Zeit zwischen Kündigung und Ende|Die Kündigungsfrist beträgt einen Monat.|B2|Arbeit
+Stundenlohn|der|Stundenlöhne|N|почасовая оплата|Lohn pro Stunde|Der Stundenlohn ist 14 Euro.|B1|Arbeit
+brutto|-|-|Adv|брутто (до вычета налогов)|vor den Steuern|Ich verdiene 2500 Euro brutto.|B2|Arbeit
+netto|-|-|Adv|нетто (после вычета налогов)|nach den Steuern|Netto bleiben etwa 1800 Euro.|B2|Arbeit
+arbeitslos|-|-|A|безработный|ohne Arbeit|Er ist seit drei Monaten arbeitslos.|B1|Arbeit
+berufstätig|-|-|A|работающий|man hat eine Arbeit|Beide Eltern sind berufstätig.|B1|Arbeit
+selbstständig machen (sich)|-|macht sich selbstständig – machte sich selbstständig – hat sich selbstständig gemacht|R|открыть своё дело|eine eigene Firma gründen|Sie will sich mit einem Café selbstständig machen.|B2|Arbeit
+einarbeiten|-|arbeitet ein – arbeitete ein – hat eingearbeitet|V|вводить в курс дела|jemandem eine neue Arbeit zeigen|Meine Kollegin arbeitet mich ein.|B2|Arbeit
+vertreten|-|vertritt – vertrat – hat vertreten|V|заменять; представлять|für jemanden arbeiten, wenn er fehlt|Wer vertritt Sie im Urlaub?|B2|Arbeit
+erfüllen|-|erfüllt – erfüllte – hat erfüllt|V|выполнять; исполнять|eine Bedingung oder einen Wunsch machen|Ich erfülle alle Voraussetzungen.|B2|Arbeit
+verlangen|-|verlangt – verlangte – hat verlangt|V|требовать|fordern|Der Chef verlangt zu viel.|B2|Arbeit
+fordern|-|fordert – forderte – hat gefordert|V|требовать|stark verlangen|Die Mitarbeiter fordern mehr Geld.|B2|Arbeit
+erreichen (Ziel)|-|erreicht – erreichte – hat erreicht|R|достигать (цели)|ein Ziel schaffen|Wir haben unser Ziel erreicht.|B2|Arbeit
+zusammenarbeiten|-|arbeitet zusammen – arbeitete zusammen – hat zusammengearbeitet|V|сотрудничать|gemeinsam arbeiten|Wir arbeiten gut zusammen.|B1|Arbeit
+planen|-|plant – plante – hat geplant|V|планировать|vorher überlegen, was man macht|Wir planen ein Fest.|B1|Arbeit
+organisieren|-|organisiert – organisierte – hat organisiert|V|организовывать|planen und vorbereiten|Sie organisiert die Weihnachtsfeier.|B1|Arbeit
+kontrollieren|-|kontrolliert – kontrollierte – hat kontrolliert|V|проверять, контролировать|prüfen|Bitte kontrollieren Sie die Rechnung.|B1|Arbeit
+prüfen|-|prüft – prüfte – hat geprüft|V|проверять|genau ansehen, ob alles richtig ist|Wir prüfen Ihren Antrag.|B1|Arbeit
+verpacken|-|verpackt – verpackte – hat verpackt|V|упаковывать|in eine Verpackung tun|Ich verpacke die Waren im Lager.|B1|Arbeit
+sortieren|-|sortiert – sortierte – hat sortiert|V|сортировать|in eine Ordnung bringen|Sie sortiert die Post.|B1|Arbeit
+bedienen|-|bedient – bediente – hat bedient|V|обслуживать; управлять|Kunden helfen; eine Maschine benutzen|Wer bedient hier?|B1|Arbeit
+Schule|die|Schulen|N|школа|Ort, wo Kinder lernen|Die Schule beginnt um acht.|B1|Bildung
+Grundschule|die|Grundschulen|N|начальная школа|Schule für die Klassen 1 bis 4|Meine Tochter geht in die Grundschule.|B1|Bildung
+Gymnasium|das|Gymnasien|N|гимназия|Schule bis zum Abitur|Nach der Grundschule geht er aufs Gymnasium.|B1|Bildung
+Oberschule|die|Oberschulen|N|средняя школа (в Саксонии)|Schule nach der Grundschule|Mein Sohn besucht die Oberschule.|B1|Bildung
+Abitur|das|(kein Plural)|N|аттестат о среднем образовании (выпускной экзамен)|Abschluss am Gymnasium|Sie macht nächstes Jahr Abitur.|B1|Bildung
+Klasse|die|Klassen|N|класс|Gruppe von Schülern; Schuljahr|In ihrer Klasse sind 24 Kinder.|B1|Bildung
+Schüler|der|Schüler|N|ученик|Kind, das zur Schule geht|Die Schüler haben Pause.|B1|Bildung
+Schülerin|die|Schülerinnen|N|ученица|Mädchen, das zur Schule geht|Sie ist eine gute Schülerin.|B1|Bildung
+Fach|das|Fächer|N|предмет (школьный)|Mathe, Deutsch, Sport …|Welches Fach magst du am liebsten?|B1|Bildung
+Stundenplan|der|Stundenpläne|N|расписание уроков|wann welches Fach ist|Hast du den neuen Stundenplan?|B1|Bildung
+Zeugnisnote|die|Zeugnisnoten|N|оценка в табеле|Note im Zeugnis|Seine Zeugnisnoten sind gut.|B1|Bildung
+Prüfer|der|Prüfer|N|экзаменатор|Person, die eine Prüfung abnimmt|Die Prüfer waren sehr freundlich.|B1|Bildung
+Universität|die|Universitäten|N|университет|Hochschule zum Studieren|Sie studiert an der Universität Leipzig.|B1|Bildung
+Lehrbuch|das|Lehrbücher|N|учебник|Buch zum Lernen|Bitte öffnet das Lehrbuch auf Seite 30.|B1|Bildung
+Wörterbuch|das|Wörterbücher|N|словарь|Buch mit Wörtern und Erklärungen|Ich benutze ein Wörterbuch.|B1|Bildung
+Übung|die|Übungen|N|упражнение|Aufgabe zum Üben|Macht bitte Übung 3.|B1|Bildung
+Grammatik|die|(kein Plural)|N|грамматика|Regeln einer Sprache|Die deutsche Grammatik ist schwer.|B1|Bildung
+Satz|der|Sätze|N|предложение|Wörter mit Verb, die zusammen einen Sinn haben|Bilde einen Satz mit „weil“.|B1|Bildung
+Wort|das|Wörter|N|слово|kleinste Einheit mit Bedeutung|Dieses Wort kenne ich nicht.|B1|Bildung
+Bedeutung|die|Bedeutungen|N|значение|was ein Wort sagt|Was ist die Bedeutung von „Kaution“?|B1|Bildung
+Muttersprache|die|Muttersprachen|N|родной язык|erste Sprache, die man lernt|Meine Muttersprache ist Russisch.|B1|Bildung
+Fremdsprache|die|Fremdsprachen|N|иностранный язык|Sprache aus einem anderen Land|Deutsch ist meine erste Fremdsprache.|B1|Bildung
+Sprachkurs|der|Sprachkurse|N|языковой курс|Kurs zum Lernen einer Sprache|Der Sprachkurs ist am Abend.|B1|Bildung
+Lernziel|das|Lernziele|N|цель обучения|was man lernen möchte|Mein Lernziel ist B2.|B1|Bildung
+lernen|-|lernt – lernte – hat gelernt|V|учить, учиться|sich Wissen aneignen|Ich lerne jeden Tag Deutsch.|B1|Bildung
+studieren|-|studiert – studierte – hat studiert|V|учиться (в вузе)|an der Universität lernen|Sie studiert Medizin.|B1|Bildung
+sich merken|-|merkt sich – merkte sich – hat sich gemerkt|V|запоминать|im Kopf behalten|Ich kann mir die Artikel schwer merken.|B1|Bildung
+korrigieren|-|korrigiert – korrigierte – hat korrigiert|V|исправлять|Fehler verbessern|Die Lehrerin korrigiert unsere Texte.|B1|Bildung
+übersetzen|-|übersetzt – übersetzte – hat übersetzt|V|переводить|in eine andere Sprache bringen|Kannst du mir das übersetzen?|B1|Bildung
+buchstabieren|-|buchstabiert – buchstabierte – hat buchstabiert|V|произносить по буквам|ein Wort Buchstabe für Buchstabe sagen|Können Sie Ihren Namen bitte buchstabieren?|B1|Bildung
+ankreuzen|-|kreuzt an – kreuzte an – hat angekreuzt|V|отмечать крестиком|ein Kreuz machen|Kreuzen Sie die richtige Antwort an.|B1|Prüfung
+ergänzen|-|ergänzt – ergänzte – hat ergänzt|V|дополнять|fehlende Teile hinzufügen|Ergänzen Sie die Sätze.|B1|Prüfung
+zuordnen|-|ordnet zu – ordnete zu – hat zugeordnet|V|соотносить|zusammenpassende Dinge verbinden|Ordnen Sie die Texte den Überschriften zu.|B1|Prüfung
+markieren|-|markiert – markierte – hat markiert|V|отмечать|kennzeichnen|Markieren Sie die richtige Lösung.|B1|Prüfung
+Lösung (Aufgabe)|die|Lösungen|R|ответ, решение (задания)|richtige Antwort|Vergleichen Sie Ihre Lösung.|B1|Prüfung
+Überschrift|die|Überschriften|N|заголовок|Titel eines Textes|Lesen Sie zuerst die Überschrift.|B1|Prüfung
+Anzeige|die|Anzeigen|N|объявление|kurzer Text in der Zeitung oder im Internet|Ich habe eine Anzeige gelesen.|B1|Prüfung
+Aussage|die|Aussagen|N|высказывание, утверждение|was jemand sagt|Welche Aussage ist richtig?|B1|Prüfung
+mündlich|-|-|A|устный|gesprochen|Die mündliche Prüfung ist am Freitag.|B1|Prüfung
+schriftlich|-|-|A|письменный|geschrieben|Die schriftliche Prüfung dauert drei Stunden.|B1|Prüfung

@@ -1,0 +1,104 @@
+# Wohnung, Haushalt, Technik, Natur, Wetter
+Wohnung|die|Wohnungen|N|квартира|Räume zum Wohnen in einem Haus|Wir suchen eine größere Wohnung.|B1|Wohnen
+Haus|das|Häuser|N|дом|Gebäude zum Wohnen|Das Haus hat einen Garten.|B1|Wohnen
+Schlafzimmer|das|Schlafzimmer|N|спальня|Raum zum Schlafen|Das Schlafzimmer ist ruhig.|B1|Wohnen
+Kinderzimmer|das|Kinderzimmer|N|детская|Zimmer für die Kinder|Das Kinderzimmer ist sehr bunt.|B1|Wohnen
+Badezimmer|das|Badezimmer|N|ванная комната|Raum mit Dusche und Toilette|Das Badezimmer hat ein Fenster.|B1|Wohnen
+Flur|der|Flure|N|прихожая, коридор|Raum zwischen den Zimmern|Die Schuhe stehen im Flur.|B1|Wohnen
+Balkon|der|Balkone|N|балкон|kleine Fläche draußen an der Wohnung|Im Sommer frühstücken wir auf dem Balkon.|B1|Wohnen
+Garten|der|Gärten|N|сад|Fläche mit Pflanzen am Haus|Die Kinder spielen im Garten.|B1|Wohnen
+Aufzug|der|Aufzüge|N|лифт|fährt die Leute nach oben und unten|Der Aufzug ist leider kaputt.|B1|Wohnen
+Treppe|die|Treppen|N|лестница|Stufen nach oben oder unten|Ich nehme lieber die Treppe.|B1|Wohnen
+Tür|die|Türen|N|дверь|damit geht man in einen Raum|Mach bitte die Tür zu!|B1|Wohnen
+Fenster|das|Fenster|N|окно|Öffnung in der Wand mit Glas|Öffne bitte das Fenster.|B1|Wohnen
+Wand|die|Wände|N|стена|Seite eines Raumes|Wir streichen die Wände weiß.|B1|Wohnen
+Boden|der|Böden|N|пол|unten im Raum|Die Spielsachen liegen auf dem Boden.|B1|Wohnen
+Decke|die|Decken|N|потолок; одеяло|oben im Raum; warm zum Schlafen|Die Lampe hängt an der Decke.|B1|Wohnen
+Möbel|die|(nur Plural)|N|мебель|Tisch, Stuhl, Schrank …|Wir brauchen neue Möbel.|B1|Wohnen
+Schrank|der|Schränke|N|шкаф|Möbel für Kleidung oder Geschirr|Die Kleider hängen im Schrank.|B1|Wohnen
+Tisch|der|Tische|N|стол|Möbel zum Essen oder Arbeiten|Der Tisch ist zu klein für sechs Personen.|B1|Wohnen
+Stuhl|der|Stühle|N|стул|Möbel zum Sitzen|Wir brauchen noch zwei Stühle.|B1|Wohnen
+Sofa|das|Sofas|N|диван|bequemes Möbel für mehrere Personen|Wir sitzen abends auf dem Sofa.|B1|Wohnen
+Bett|das|Betten|N|кровать|Möbel zum Schlafen|Das Bett ist sehr bequem.|B1|Wohnen
+Regal|das|Regale|N|полка, стеллаж|Möbel für Bücher|Die Bücher stehen im Regal.|B1|Wohnen
+Lampe|die|Lampen|N|лампа|macht Licht|Die Lampe ist kaputt.|B1|Wohnen
+Teppich|der|Teppiche|N|ковёр|liegt auf dem Boden|Der Teppich ist schmutzig.|B1|Wohnen
+Vorhang|der|Vorhänge|N|штора|Stoff vor dem Fenster|Mach bitte den Vorhang zu.|B1|Wohnen
+Steckdose|die|Steckdosen|N|розетка|hier bekommt ein Gerät Strom|Wo ist hier eine Steckdose?|B1|Wohnen
+Herd|der|Herde|N|плита|Gerät zum Kochen|Der Herd ist noch heiß.|B1|Wohnen
+Backofen|der|Backöfen|N|духовка|Gerät zum Backen|Der Kuchen ist im Backofen.|B1|Wohnen
+Spülmaschine|die|Spülmaschinen|N|посудомоечная машина|wäscht das Geschirr|Räumst du die Spülmaschine aus?|B1|Wohnen
+Waschmaschine|die|Waschmaschinen|N|стиральная машина|wäscht die Wäsche|Die Waschmaschine läuft gerade.|B1|Wohnen
+Staubsauger|der|Staubsauger|N|пылесос|Gerät zum Saubermachen|Der Staubsauger ist zu laut.|B1|Wohnen
+Geschirr|das|(kein Plural)|N|посуда|Teller, Tassen, Gläser|Ich spüle das Geschirr.|B1|Wohnen
+Wäsche|die|(kein Plural)|N|бельё, стирка|Kleidung zum Waschen|Die Wäsche hängt auf dem Balkon.|B1|Wohnen
+Wasserhahn|der|Wasserhähne|N|кран|daraus kommt Wasser|Der Wasserhahn tropft.|B1|Wohnen
+Dusche|die|Duschen|N|душ|damit wäscht man sich|Die Dusche funktioniert nicht.|B1|Wohnen
+Toilette|die|Toiletten|N|туалет|WC|Wo ist die Toilette?|B1|Wohnen
+Nachbarschaft|die|(kein Plural)|N|соседство, соседи|die Menschen und Häuser in der Nähe|In unserer Nachbarschaft wohnen viele Familien.|B1|Wohnen
+Einzug|der|Einzüge|N|въезд (в квартиру)|wenn man in eine Wohnung zieht|Beim Einzug bekommen Sie die Schlüssel.|B1|Wohnen
+Auszug|der|Auszüge|N|выезд (из квартиры)|wenn man eine Wohnung verlässt|Vor dem Auszug muss man renovieren.|B1|Wohnen
+Untermiete|die|(kein Plural)|N|субаренда|man mietet von einem Mieter|Ich wohne zur Untermiete.|B2|Wohnen
+Wohnungsgeberbestätigung|die|Wohnungsgeberbestätigungen|N|подтверждение арендодателя (для регистрации)|Papier vom Vermieter für die Anmeldung|Für die Anmeldung brauchen Sie die Wohnungsgeberbestätigung.|B2|Behörden
+spülen|-|spült – spülte – hat gespült|V|мыть посуду|Geschirr mit Wasser sauber machen|Wer spült heute?|B1|Wohnen
+staubsaugen|-|saugt Staub – saugte Staub – hat staubgesaugt|V|пылесосить|mit dem Staubsauger sauber machen|Am Samstag sauge ich Staub.|B1|Wohnen
+streichen|-|streicht – strich – hat gestrichen|V|красить (стены)|Farbe an die Wand machen|Wir streichen das Wohnzimmer gelb.|B1|Wohnen
+einrichten|-|richtet ein – richtete ein – hat eingerichtet|V|обставлять (мебелью)|Möbel in eine Wohnung stellen|Wir haben die Wohnung neu eingerichtet.|B1|Wohnen
+heizen|-|heizt – heizte – hat geheizt|V|отапливать|warm machen|Im Winter heizen wir viel.|B1|Wohnen
+Computer|der|Computer|N|компьютер|elektronisches Gerät zum Arbeiten|Mein Computer ist sehr langsam.|B1|Technik
+Laptop|der|Laptops|N|ноутбук|tragbarer Computer|Ich arbeite am Laptop.|B1|Technik
+Handy|das|Handys|N|мобильный телефон|kleines Telefon zum Mitnehmen|Mein Handy ist kaputt.|B1|Technik
+Akku|der|Akkus|N|аккумулятор, батарея|speichert Strom im Handy|Der Akku ist fast leer.|B1|Technik
+Ladekabel|das|Ladekabel|N|зарядный кабель|Kabel zum Aufladen|Hast du ein Ladekabel für mich?|B1|Technik
+Drucker|der|Drucker|N|принтер|Gerät zum Ausdrucken|Der Drucker hat kein Papier mehr.|B1|Technik
+Gerät|das|Geräte|N|прибор, устройство|eine Maschine im Haushalt oder Büro|Das Gerät funktioniert nicht.|B1|Technik
+Anleitung|die|Anleitungen|N|инструкция|Text, der erklärt, wie etwas funktioniert|Lies zuerst die Anleitung!|B1|Technik
+Internetanschluss|der|Internetanschlüsse|N|подключение к интернету|Verbindung zum Internet in der Wohnung|Der Internetanschluss funktioniert seit gestern nicht.|B1|Technik
+WLAN|das|(kein Plural)|N|Wi-Fi|Internet ohne Kabel|Wie ist das WLAN-Passwort?|B1|Technik
+App|die|Apps|N|приложение|Programm auf dem Handy|Ich lerne mit einer App Deutsch.|B1|Technik
+Nachricht (Handy)|die|Nachrichten|R|сообщение (в телефоне)|Text auf dem Handy|Schreib mir eine Nachricht!|B1|Technik
+aufladen|-|lädt auf – lud auf – hat aufgeladen|V|заряжать|Strom in den Akku bringen|Ich muss mein Handy aufladen.|B1|Technik
+einschalten|-|schaltet ein – schaltete ein – hat eingeschaltet|V|включать|anmachen|Schalten Sie bitte den Computer ein.|B1|Technik
+ausschalten|-|schaltet aus – schaltete aus – hat ausgeschaltet|V|выключать|ausmachen|Bitte schalten Sie die Handys aus.|B1|Technik
+funktionieren|-|funktioniert – funktionierte – hat funktioniert|V|работать (о технике)|richtig laufen|Die Heizung funktioniert wieder.|B1|Technik
+installieren|-|installiert – installierte – hat installiert|V|устанавливать|ein Programm auf das Gerät bringen|Ich habe die App installiert.|B1|Technik
+Sonne|die|(kein Plural)|N|солнце|gibt Licht und Wärme|Heute scheint die Sonne.|B1|Natur
+Regen|der|(kein Plural)|N|дождь|Wasser fällt vom Himmel|Bei Regen bleiben wir zu Hause.|B1|Natur
+Schnee|der|(kein Plural)|N|снег|weißes, kaltes Wetter|Die Kinder spielen im Schnee.|B1|Natur
+Wind|der|Winde|N|ветер|bewegte Luft|Heute ist starker Wind.|B1|Natur
+Gewitter|das|Gewitter|N|гроза|Regen mit Blitz und Donner|Heute Abend soll es ein Gewitter geben.|B1|Natur
+Wolke|die|Wolken|N|облако|weiß oder grau am Himmel|Am Himmel sind viele Wolken.|B1|Natur
+Himmel|der|(kein Plural)|N|небо|oben über der Erde|Der Himmel ist ganz blau.|B1|Natur
+Temperatur|die|Temperaturen|N|температура|wie warm oder kalt es ist|Die Temperaturen steigen auf 30 Grad.|B1|Natur
+Grad|das|Grad|N|градус|Einheit für Temperatur|Heute sind es minus fünf Grad.|B1|Natur
+Wettervorhersage|die|Wettervorhersagen|N|прогноз погоды|was das Wetter morgen macht|Laut Wettervorhersage wird es morgen kalt.|B1|Natur
+Jahreszeit|die|Jahreszeiten|N|время года|Frühling, Sommer, Herbst, Winter|Welche Jahreszeit magst du am liebsten?|B1|Natur
+Frühling|der|Frühlinge|N|весна|Jahreszeit nach dem Winter|Im Frühling blühen die Blumen.|B1|Natur
+Sommer|der|Sommer|N|лето|die warme Jahreszeit|Im Sommer fahren wir ans Meer.|B1|Natur
+Herbst|der|Herbste|N|осень|Jahreszeit nach dem Sommer|Im Herbst fallen die Blätter.|B1|Natur
+Winter|der|Winter|N|зима|die kalte Jahreszeit|Der Winter in Russland ist sehr kalt.|B1|Natur
+Natur|die|(kein Plural)|N|природа|Pflanzen, Tiere, Wälder, Berge|Am Wochenende sind wir gern in der Natur.|B1|Natur
+Baum|der|Bäume|N|дерево|große Pflanze mit Stamm|Vor dem Haus steht ein großer Baum.|B1|Natur
+Blume|die|Blumen|N|цветок|schöne, bunte Pflanze|Ich habe dir Blumen mitgebracht.|B1|Natur
+Pflanze|die|Pflanzen|N|растение|wächst in der Erde|Gieß bitte die Pflanzen!|B1|Natur
+See|der|Seen|N|озеро|Wasser im Land|Im Sommer schwimmen wir im See.|B1|Natur
+Meer|das|Meere|N|море|großes Salzwasser|Wir machen Urlaub am Meer.|B1|Natur
+Fluss|der|Flüsse|N|река|fließendes Wasser|Die Elbe ist ein großer Fluss.|B1|Natur
+Strand|der|Strände|N|пляж|Sand am Meer|Die Kinder bauen am Strand eine Burg.|B1|Natur
+Hund|der|Hunde|N|собака|Haustier, das bellt|Unser Nachbar hat einen großen Hund.|B1|Natur
+Katze|die|Katzen|N|кошка|Haustier, das miaut|Die Katze schläft auf dem Sofa.|B1|Natur
+Vogel|der|Vögel|N|птица|Tier, das fliegen kann|Die Vögel singen am Morgen.|B1|Natur
+Haustier|das|Haustiere|N|домашнее животное|ein Tier, das in der Wohnung lebt|Sind Haustiere hier erlaubt?|B1|Natur
+scheinen|-|scheint – schien – hat geschienen|V|светить; казаться|Licht geben (Sonne)|Die Sonne scheint.|B1|Natur
+regnen|-|es regnet – es regnete – es hat geregnet|V|идти (о дожде)|Wasser fällt vom Himmel|Es regnet seit Stunden.|B1|Natur
+schneien|-|es schneit – es schneite – es hat geschneit|V|идти (о снеге)|Schnee fällt|In der Nacht hat es geschneit.|B1|Natur
+blühen|-|blüht – blühte – hat geblüht|V|цвести|Blüten haben|Im Mai blühen die Bäume.|B1|Natur
+gießen|-|gießt – goss – hat gegossen|V|поливать|Wasser auf Pflanzen geben|Ich gieße die Blumen jeden Tag.|B1|Natur
+sonnig|-|sonniger – am sonnigsten|A|солнечный|mit viel Sonne|Morgen wird es sonnig.|B1|Natur
+bewölkt|-|-|A|облачный|mit vielen Wolken|Der Himmel ist bewölkt.|B1|Natur
+neblig|-|-|A|туманный|mit Nebel, man sieht nicht weit|Am Morgen ist es oft neblig.|B1|Natur
+heiß|-|heißer – am heißesten|A|жаркий, горячий|sehr warm|Im August war es sehr heiß.|B1|Natur
+kühl|-|kühler – am kühlsten|A|прохладный|ein bisschen kalt|Am Abend wird es kühl.|B1|Natur
+nass|-|nasser – am nassesten|A|мокрый|voll Wasser|Meine Schuhe sind ganz nass.|B1|Natur
+trocken|-|trockener – am trockensten|A|сухой|ohne Wasser|Die Wäsche ist schon trocken.|B1|Natur
+glatt|-|glatter – am glattesten|A|скользкий|man kann leicht fallen (Eis)|Vorsicht, die Straße ist glatt!|B1|Natur

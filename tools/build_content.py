@@ -39,6 +39,8 @@ for path in sorted(glob.glob(os.path.join(SRC, "woerter-*.txt"))):
         if len(f) != 9:
             errors.append(f"{os.path.basename(path)}:{n}: {len(f)} Felder statt 9"); continue
         w, a, fo, wa, ru, bed, bsp, lv, th = f
+        if ru in ("", "-"):
+            continue  # Platzhalter ohne Übersetzung überspringen
         if wa not in WA: errors.append(f"{os.path.basename(path)}:{n}: Wortart '{wa}' unbekannt"); continue
         if lv not in ("A2", "B1", "B2"): errors.append(f"{os.path.basename(path)}:{n}: Niveau '{lv}'"); continue
         if wa == "N" and a not in ("der", "die", "das"): errors.append(f"{os.path.basename(path)}:{n}: Nomen ohne Artikel"); continue

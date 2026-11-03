@@ -1,0 +1,110 @@
+# Körper, Gesundheit, Kleidung, Lebensmittel
+Kopf|der|Köpfe|N|голова|der oberste Teil des Körpers|Mir tut der Kopf weh.|B1|Körper
+Hals|der|Hälse|N|горло; шея|zwischen Kopf und Körper|Ich habe Halsschmerzen.|B1|Körper
+Bauch|der|Bäuche|N|живот|der mittlere Teil vorne am Körper|Mein Bauch tut weh.|B1|Körper
+Arm|der|Arme|N|рука (от плеча)|Körperteil zwischen Schulter und Hand|Er hat sich den Arm gebrochen.|B1|Körper
+Bein|das|Beine|N|нога|Körperteil zum Gehen|Mein linkes Bein tut weh.|B1|Körper
+Fuß|der|Füße|N|стопа, нога|der unterste Teil des Beins|Ich gehe zu Fuß zur Arbeit.|B1|Körper
+Hand|die|Hände|N|кисть руки, рука|damit greift man Dinge|Wasch dir die Hände!|B1|Körper
+Finger|der|Finger|N|палец|fünf an jeder Hand|Ich habe mich in den Finger geschnitten.|B1|Körper
+Knie|das|Knie|N|колено|Gelenk in der Mitte des Beins|Beim Treppensteigen tut mir das Knie weh.|B1|Körper
+Schulter|die|Schultern|N|плечо|zwischen Hals und Arm|Meine Schultern sind ganz verspannt.|B1|Körper
+Zahn|der|Zähne|N|зуб|damit beißt man|Putz dir die Zähne!|B1|Körper
+Auge|das|Augen|N|глаз|damit sieht man|Sie hat blaue Augen.|B1|Körper
+Ohr|das|Ohren|N|ухо|damit hört man|Das Kind hat Ohrenschmerzen.|B1|Körper
+Nase|die|Nasen|N|нос|damit riecht man|Meine Nase läuft.|B1|Körper
+Herz|das|Herzen|N|сердце|Organ, das das Blut pumpt|Mein Herz schlägt sehr schnell.|B1|Körper
+Haut|die|Häute|N|кожа|die äußere Schicht des Körpers|Im Winter ist meine Haut trocken.|B1|Körper
+Blut|das|(kein Plural)|N|кровь|rote Flüssigkeit im Körper|Die Ärztin nimmt mir Blut ab.|B1|Gesundheit
+Schnupfen|der|(kein Plural)|N|насморк|die Nase läuft|Ich habe Schnupfen und Husten.|B1|Gesundheit
+Grippe|die|(kein Plural)|N|грипп|eine starke Krankheit mit Fieber|Er liegt mit Grippe im Bett.|B1|Gesundheit
+Kopfschmerzen|die|(nur Plural)|N|головная боль|Schmerzen im Kopf|Ich habe starke Kopfschmerzen.|B1|Gesundheit
+Bauchschmerzen|die|(nur Plural)|N|боль в животе|Schmerzen im Bauch|Das Kind hat Bauchschmerzen.|B1|Gesundheit
+Wunde|die|Wunden|N|рана|eine Verletzung der Haut|Die Wunde muss genäht werden.|B1|Gesundheit
+Pflaster|das|Pflaster|N|пластырь|kleiner Verband für eine Wunde|Hast du ein Pflaster für mich?|B1|Gesundheit
+Salbe|die|Salben|N|мазь|ein Medikament für die Haut|Die Salbe hilft gegen den Ausschlag.|B1|Gesundheit
+Tropfen|der|Tropfen|N|капля (мн. капли)|flüssiges Medikament|Nehmen Sie 20 Tropfen vor dem Essen.|B1|Gesundheit
+Spritze|die|Spritzen|N|укол, шприц|Medikament mit einer Nadel geben|Der Arzt gibt mir eine Spritze.|B1|Gesundheit
+Krankenwagen|der|Krankenwagen|N|скорая помощь (машина)|Auto, das Kranke ins Krankenhaus bringt|Rufen Sie sofort einen Krankenwagen!|B1|Gesundheit
+Notarzt|der|Notärzte|N|врач скорой помощи|Arzt für Notfälle|Der Notarzt war nach zehn Minuten da.|B1|Gesundheit
+Patient|der|Patienten|N|пациент|eine kranke Person beim Arzt|Der Patient wartet im Wartezimmer.|B1|Gesundheit
+Kinderarzt|der|Kinderärzte|N|педиатр|Arzt für Kinder|Morgen gehen wir zum Kinderarzt.|B1|Gesundheit
+Frauenarzt|der|Frauenärzte|N|гинеколог|Arzt für Frauen|Ich habe einen Termin beim Frauenarzt.|B1|Gesundheit
+Untersuchungsergebnis|das|Untersuchungsergebnisse|N|результат обследования|was der Arzt bei der Untersuchung findet|Das Untersuchungsergebnis ist gut.|B2|Gesundheit
+Diät|die|Diäten|N|диета|weniger oder anders essen|Der Arzt hat mir eine Diät empfohlen.|B1|Gesundheit
+Stress|der|(kein Plural)|N|стресс|zu viel Druck und Arbeit|Ich habe im Moment viel Stress.|B1|Gesundheit
+husten|-|hustet – hustete – hat gehustet|V|кашлять|Luft laut aus dem Hals stoßen|Er hustet die ganze Nacht.|B1|Gesundheit
+bluten|-|blutet – blutete – hat geblutet|V|кровоточить|Blut verlieren|Die Wunde blutet stark.|B1|Gesundheit
+sich übergeben|-|übergibt sich – übergab sich – hat sich übergeben|V|рвать (тошнить)|Essen aus dem Magen kommt aus dem Mund|Das Kind hat sich zweimal übergeben.|B1|Gesundheit
+atmen|-|atmet – atmete – hat geatmet|V|дышать|Luft in die Lunge holen|Atmen Sie bitte tief ein.|B1|Gesundheit
+brechen|-|bricht – brach – hat gebrochen|V|ломать|etwas kaputt machen, z. B. einen Knochen|Sie hat sich das Bein gebrochen.|B1|Gesundheit
+heilen|-|heilt – heilte – ist geheilt|V|заживать; лечить|wieder gesund werden|Die Wunde heilt gut.|B1|Gesundheit
+krankmelden (sich)|-|meldet sich krank – meldete sich krank – hat sich krankgemeldet|V|сообщить о болезни|dem Arbeitgeber sagen, dass man krank ist|Ich habe mich heute krankgemeldet.|B1|Gesundheit
+müde sein|-|-|R|быть уставшим|Schlaf brauchen|Nach der Nachtschicht bin ich sehr müde.|B1|Gesundheit
+Kleidung|die|(kein Plural)|N|одежда|was man am Körper trägt|Wir brauchen warme Kleidung für den Winter.|B1|Kleidung
+Jacke|die|Jacken|N|куртка|Kleidung für draußen|Zieh deine Jacke an!|B1|Kleidung
+Mantel|der|Mäntel|N|пальто|lange warme Jacke|Der Mantel ist zu teuer.|B1|Kleidung
+Hose|die|Hosen|N|брюки|Kleidung für die Beine|Die Hose ist zu lang.|B1|Kleidung
+Rock|der|Röcke|N|юбка|Kleidung für Frauen ohne Hosenbeine|Sie trägt einen roten Rock.|B1|Kleidung
+Kleid|das|Kleider|N|платье|Kleidung für Frauen|Für die Hochzeit kaufe ich ein Kleid.|B1|Kleidung
+Hemd|das|Hemden|N|рубашка|Oberteil mit Knöpfen|Er trägt ein weißes Hemd.|B1|Kleidung
+Pullover|der|Pullover|N|свитер|warmes Oberteil|Der Pullover ist aus Wolle.|B1|Kleidung
+Schuh|der|Schuhe|N|ботинок, туфля|Kleidung für die Füße|Ich brauche neue Schuhe.|B1|Kleidung
+Stiefel|der|Stiefel|N|сапог|hoher Schuh|Im Winter trage ich Stiefel.|B1|Kleidung
+Mütze|die|Mützen|N|шапка|Kleidung für den Kopf|Setz eine Mütze auf, es ist kalt!|B1|Kleidung
+Handschuh|der|Handschuhe|N|перчатка|Kleidung für die Hände|Ich habe einen Handschuh verloren.|B1|Kleidung
+Schal|der|Schals|N|шарф|Kleidung für den Hals|Der Schal ist sehr warm.|B1|Kleidung
+Unterwäsche|die|(kein Plural)|N|нижнее бельё|Kleidung direkt am Körper|Pack genug Unterwäsche ein!|B1|Kleidung
+Brille|die|Brillen|N|очки|damit sieht man besser|Ich brauche eine neue Brille.|B1|Kleidung
+Tasche|die|Taschen|N|сумка; карман|etwas zum Tragen; Teil der Kleidung|Das Handy ist in meiner Tasche.|B1|Kleidung
+Geldbeutel|der|Geldbeutel|N|кошелёк|kleine Tasche für Geld|Mein Geldbeutel ist weg!|B1|Kleidung
+tragen (Kleidung)|-|trägt – trug – hat getragen|R|носить (одежду)|Kleidung anhaben|Sie trägt gern Kleider.|B1|Kleidung
+passen zu|-|passt – passte – hat gepasst|R|подходить к|gut zusammen aussehen|Die Schuhe passen gut zu dem Kleid.|B1|Kleidung
+eng|-|enger – am engsten|A|узкий, тесный|nicht weit|Die Hose ist mir zu eng.|B1|Kleidung
+bequem|-|bequemer – am bequemsten|A|удобный|angenehm zu tragen|Die Schuhe sind sehr bequem.|B1|Kleidung
+modern|-|moderner – am modernsten|A|современный, модный|neu und aktuell|Das ist ein modernes Kleid.|B1|Kleidung
+Brot|das|Brote|N|хлеб|Lebensmittel aus Mehl|Ich kaufe frisches Brot beim Bäcker.|B1|Lebensmittel
+Brötchen|das|Brötchen|N|булочка|kleines Brot|Zum Frühstück esse ich zwei Brötchen.|B1|Lebensmittel
+Butter|die|(kein Plural)|N|сливочное масло|aus Milch gemacht, für das Brot|Kannst du mir die Butter geben?|B1|Lebensmittel
+Käse|der|(kein Plural)|N|сыр|aus Milch gemacht|Ich nehme 200 Gramm Käse.|B1|Lebensmittel
+Wurst|die|Würste|N|колбаса|Fleischprodukt|Die Kinder essen gern Wurst.|B1|Lebensmittel
+Fleisch|das|(kein Plural)|N|мясо|Lebensmittel von Tieren|Ich esse wenig Fleisch.|B1|Lebensmittel
+Hähnchen|das|Hähnchen|N|курица (блюдо)|Fleisch vom Huhn|Heute gibt es Hähnchen mit Reis.|B1|Lebensmittel
+Fisch|der|Fische|N|рыба|Tier im Wasser; Lebensmittel|Am Freitag essen wir Fisch.|B1|Lebensmittel
+Ei|das|Eier|N|яйцо|vom Huhn|Ich brauche sechs Eier für den Kuchen.|B1|Lebensmittel
+Milch|die|(kein Plural)|N|молоко|weißes Getränk von der Kuh|Die Milch ist sauer.|B1|Lebensmittel
+Joghurt|der|Joghurts|N|йогурт|Milchprodukt|Zum Nachtisch gibt es Joghurt.|B1|Lebensmittel
+Obst|das|(kein Plural)|N|фрукты|Äpfel, Bananen, Birnen …|Obst ist gesund.|B1|Lebensmittel
+Gemüse|das|(kein Plural)|N|овощи|Karotten, Tomaten, Kartoffeln …|Ich koche eine Suppe mit viel Gemüse.|B1|Lebensmittel
+Kartoffel|die|Kartoffeln|N|картофель|Gemüse aus der Erde|Möchtest du Kartoffeln oder Reis?|B1|Lebensmittel
+Zwiebel|die|Zwiebeln|N|лук|scharfes Gemüse|Ich schneide die Zwiebeln klein.|B1|Lebensmittel
+Reis|der|(kein Plural)|N|рис|Getreide aus Asien|Der Reis braucht 20 Minuten.|B1|Lebensmittel
+Nudeln|die|(meist Plural)|N|макароны|Lebensmittel aus Mehl und Wasser|Die Kinder wollen Nudeln mit Tomatensoße.|B1|Lebensmittel
+Mehl|das|(kein Plural)|N|мука|weißes Pulver zum Backen|Für den Kuchen braucht man 500 Gramm Mehl.|B1|Lebensmittel
+Zucker|der|(kein Plural)|N|сахар|macht das Essen süß|Trinkst du den Kaffee mit Zucker?|B1|Lebensmittel
+Salz|das|(kein Plural)|N|соль|macht das Essen salzig|Die Suppe braucht noch etwas Salz.|B1|Lebensmittel
+Öl|das|Öle|N|растительное масло|Fett zum Kochen und Braten|Brate das Fleisch in etwas Öl.|B1|Lebensmittel
+Saft|der|Säfte|N|сок|Getränk aus Obst|Ein Glas Orangensaft, bitte.|B1|Lebensmittel
+Kuchen|der|Kuchen|N|пирог, торт|süßes Gebäck|Am Sonntag backe ich einen Kuchen.|B1|Lebensmittel
+Nachtisch|der|Nachtische|N|десерт|süßes Essen nach dem Hauptgericht|Was gibt es zum Nachtisch?|B1|Lebensmittel
+Frühstück|das|Frühstücke|N|завтрак|das erste Essen am Morgen|Das Frühstück ist um acht Uhr.|B1|Lebensmittel
+Mittagessen|das|Mittagessen|N|обед|Essen am Mittag|Was gibt es heute zum Mittagessen?|B1|Lebensmittel
+Abendessen|das|Abendessen|N|ужин|Essen am Abend|Zum Abendessen gibt es Suppe.|B1|Lebensmittel
+Rezept (Kochen)|das|Rezepte|R|рецепт (кулинарный)|Anleitung zum Kochen|Kannst du mir das Rezept geben?|B1|Lebensmittel
+Packung|die|Packungen|N|упаковка, пачка|eine Verpackung mit Inhalt|Eine Packung Milch, bitte.|B1|Lebensmittel
+Flasche|die|Flaschen|N|бутылка|Gefäß für Getränke|Kaufst du bitte zwei Flaschen Wasser?|B1|Lebensmittel
+Dose|die|Dosen|N|банка (консервная)|Behälter aus Metall|Eine Dose Tomaten reicht.|B1|Lebensmittel
+Glas|das|Gläser|N|стакан; стекло|zum Trinken; Material|Ein Glas Wasser, bitte.|B1|Lebensmittel
+Tasse|die|Tassen|N|чашка|zum Trinken von Kaffee oder Tee|Möchtest du eine Tasse Tee?|B1|Lebensmittel
+Teller|der|Teller|N|тарелка|darauf liegt das Essen|Stell die Teller auf den Tisch.|B1|Lebensmittel
+Messer|das|Messer|N|нож|zum Schneiden|Das Messer ist sehr scharf.|B1|Lebensmittel
+Gabel|die|Gabeln|N|вилка|zum Essen|Ich brauche noch eine Gabel.|B1|Lebensmittel
+Löffel|der|Löffel|N|ложка|zum Essen von Suppe|Gib mir bitte einen Löffel.|B1|Lebensmittel
+braten|-|brät – briet – hat gebraten|V|жарить|in Öl heiß machen|Ich brate die Kartoffeln.|B1|Lebensmittel
+frisch|-|frischer – am frischesten|A|свежий|neu, nicht alt|Das Brot ist ganz frisch.|B1|Lebensmittel
+süß|-|süßer – am süßesten|A|сладкий|mit viel Zucker|Der Kuchen ist mir zu süß.|B1|Lebensmittel
+sauer|-|saurer – am sauersten|A|кислый|wie eine Zitrone|Die Äpfel sind noch sauer.|B1|Lebensmittel
+scharf|-|schärfer – am schärfsten|A|острый|mit viel Pfeffer oder Chili; schneidet gut|Das Essen ist zu scharf für die Kinder.|B1|Lebensmittel
+salzig|-|salziger – am salzigsten|A|солёный|mit viel Salz|Die Suppe ist zu salzig.|B1|Lebensmittel
+hungrig|-|hungriger – am hungrigsten|A|голодный|man möchte essen|Nach der Arbeit bin ich immer hungrig.|B1|Lebensmittel
+durstig|-|durstiger – am durstigsten|A|испытывающий жажду|man möchte trinken|Bei der Hitze bin ich sehr durstig.|B1|Lebensmittel

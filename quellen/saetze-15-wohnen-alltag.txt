@@ -1,0 +1,64 @@
+# Wohnen und Alltag
+Unsere Wohnung *liegt* im vierten Stock ohne Aufzug.|Наша квартира находится на пятом этаже без лифта.|B1|Verb auf Position 2.|Wohnen
+Im Bad *tropft* seit gestern der Wasserhahn.|В ванной со вчерашнего дня капает кран.|B1|Ort auf Position 1 → Verb → Subjekt.|Wohnen
+Der Vermieter *will* die Miete ab Januar erhöhen.|Арендодатель хочет повысить аренду с января.|B1|Modalverb auf Position 2, Infinitiv am Ende.|Wohnen
+Ich *suche* eine Wohnung mit Balkon in der Nähe der Schule.|Я ищу квартиру с балконом рядом со школой.|B1|Verb auf Position 2; was → wo.|Wohnen
+Die Nebenkosten *sind* in der Miete schon enthalten.|Коммунальные расходы уже включены в аренду.|B1|sein + Partizip als Adjektiv.|Wohnen
+Wir *müssen* den Müll jeden Dienstag an die Straße stellen.|Нам нужно каждый вторник выставлять мусор на улицу.|B1|Modalverb Position 2, stellen am Ende.|Wohnen
+Bitte *trennen* Sie Papier, Plastik und Restmüll.|Пожалуйста, сортируйте бумагу, пластик и прочий мусор.|B1|Höfliche Aufforderung mit Sie.|Wohnen
+Der Hausmeister *kommt* nur am Vormittag.|Завхоз приходит только до обеда.|B1|Verb auf Position 2.|Wohnen
+In unserem Haus *wohnen* viele Familien mit Kindern.|В нашем доме живёт много семей с детьми.|B1|Ort auf Position 1 → Verb.|Wohnen
+Die Waschmaschine *steht* im Keller.|Стиральная машина стоит в подвале.|B1|stehen + in + Dativ (wo?).|Wohnen
+Ich *stelle* die Waschmaschine in den Keller.|Я ставлю стиральную машину в подвал.|B1|stellen + in + Akkusativ (wohin?).|Wohnen
+Das Bild *hängt* über dem Sofa.|Картина висит над диваном.|B1|hängen + über + Dativ (wo?).|Wohnen
+Wir *hängen* die Lampe über den Tisch.|Мы вешаем лампу над столом.|B1|hängen + über + Akkusativ (wohin?).|Wohnen
+Der Schlüssel *liegt* auf dem Tisch im Flur.|Ключ лежит на столе в прихожей.|B1|liegen + auf + Dativ.|Wohnen
+Leg den Schlüssel bitte in die Schublade.|Положи, пожалуйста, ключ в ящик.|B1|legen + in + Akkusativ (wohin?).|Wohnen
+Nach dem Einzug *müssen* Sie sich beim Bürgeramt anmelden.|После въезда вам нужно зарегистрироваться в бюро обслуживания граждан.|B1|nach + Dativ auf Position 1.|Behörden
+Ich *habe* den Mietvertrag gestern unterschrieben.|Я вчера подписала договор аренды.|B1|Perfekt: habe … unterschrieben.|Wohnen
+Wir *haben* die Kaution noch nicht zurückbekommen.|Нам ещё не вернули залог.|B1|nicht vor dem Partizip.|Wohnen
+Seit dem Umzug *brauche* ich länger zur Arbeit.|После переезда мне дольше добираться до работы.|B1|seit + Dativ auf Position 1.|Wohnen
+Der Nachbar *hat* mein Paket angenommen.|Сосед принял мою посылку.|B1|annehmen im Perfekt: angenommen.|Wohnen
+Könnten Sie mein Paket annehmen, wenn ich nicht da *bin*?|Не могли бы вы принять мою посылку, если меня не будет дома?|B1|wenn → Verb am Ende.|Wohnen
+Ich *habe* eine Nachricht im Briefkasten gefunden.|Я нашла записку в почтовом ящике.|B1|Perfekt: habe … gefunden.|Wohnen
+Die Treppe *wird* jeden Freitag geputzt.|Лестницу моют каждую пятницу.|B2|Passiv Präsens.|Wohnen
+Ab 22 Uhr *müssen* alle Bewohner leise sein.|После 22 часов все жильцы должны соблюдать тишину.|B1|Zeit auf Position 1 → Modalverb.|Wohnen
+Mein Mann *repariert* das Fahrrad selbst.|Мой муж сам чинит велосипед.|B1|Verb auf Position 2.|Wohnen
+Wir *streichen* am Wochenende das Kinderzimmer.|В выходные мы красим детскую.|B1|Verb auf Position 2.|Wohnen
+Das Licht im Flur *geht* nicht mehr an.|Свет в коридоре больше не включается.|B1|angehen: geht … an.|Wohnen
+Der Strom *ist* gestern Abend für zwei Stunden ausgefallen.|Вчера вечером на два часа отключили электричество.|B1|ausfallen im Perfekt mit sein.|Wohnen
+Ich *kaufe* ein Regal für das Wohnzimmer.|Я покупаю полку для гостиной.|B1|für + Akkusativ.|Wohnen
+Morgen *bekommen* wir einen neuen Kühlschrank.|Завтра нам привезут новый холодильник.|B1|Zeit → Verb → Subjekt.|Wohnen
+Die Möbel *werden* am Donnerstag geliefert.|Мебель доставят в четверг.|B2|Passiv: werden … geliefert.|Wohnen
+Wie viele Zimmer *hat* die Wohnung?|Сколько комнат в квартире?|B1|W-Frage: Verb auf Position 2.|Wohnen
+Ist die Wohnung noch frei?|Квартира ещё свободна?|B1|Ja/Nein-Frage: Verb vorn.|Wohnen
+Ab wann *kann* man einziehen?|С какого времени можно въехать?|B1|W-Frage mit Modalverb.|Wohnen
+Gibt es in der Nähe einen Supermarkt?|Есть ли поблизости супермаркет?|B1|es gibt in der Frage: gibt es.|Wohnen
+Ich *wache* jeden Morgen um halb sechs auf.|Я каждое утро просыпаюсь в половине шестого.|B1|aufwachen: wache … auf.|Alltag
+Danach *frühstücke* ich mit meiner Familie.|Потом я завтракаю с семьёй.|B1|danach → Verb sofort.|Alltag
+Um sieben Uhr *bringe* ich die Kinder zur Schule.|В семь часов я отвожу детей в школу.|B1|Uhrzeit auf Position 1.|Alltag
+Mittags *esse* ich meistens in der Kantine.|В обед я обычно ем в столовой.|B1|mittags auf Position 1 → Verb.|Alltag
+Abends *mache* ich mit meinem Sohn Hausaufgaben.|Вечером я делаю с сыном уроки.|B1|abends auf Position 1.|Alltag
+Am Wochenende *schlafe* ich gern lange.|В выходные я люблю долго спать.|B1|gern direkt nach dem Verb.|Alltag
+Ich *gehe* meistens um elf Uhr ins Bett.|Я обычно ложусь спать в одиннадцать.|B1|Zeit vor Ort.|Alltag
+Heute *habe* ich viel zu tun.|Сегодня у меня много дел.|B1|heute auf Position 1.|Alltag
+Ich *muss* noch Brot und Milch kaufen.|Мне ещё нужно купить хлеб и молоко.|B1|Modalverb + Infinitiv am Ende.|Alltag
+Hast du heute schon die Nachrichten gehört?|Ты сегодня уже слышал новости?|B1|Perfekt-Frage: hast vorn, gehört am Ende.|Alltag
+Mein Handy *ist* leer, ich *muss* es aufladen.|У меня сел телефон, мне нужно его зарядить.|B1|Pronomen es direkt nach dem Subjekt.|Alltag
+Ich *habe* meinen Geldbeutel im Bus verloren.|Я потеряла кошелёк в автобусе.|B1|Perfekt: habe … verloren.|Alltag
+Zum Glück *hat* jemand meine Tasche gefunden.|К счастью, кто-то нашёл мою сумку.|B1|zum Glück auf Position 1.|Alltag
+Wenn ich Stress *habe*, *gehe* ich spazieren.|Когда у меня стресс, я иду гулять.|B1|wenn-Satz zuerst → Verb vorn.|Alltag
+Ich *trinke* jeden Tag zwei Liter Wasser.|Я пью два литра воды каждый день.|B1|Zeit vor Objekt.|Alltag
+Bei Regen *nehme* ich immer den Bus.|В дождь я всегда езжу на автобусе.|B1|bei + Dativ auf Position 1.|Alltag
+Ich *finde* meine Brille nicht.|Я не могу найти очки.|B1|nicht am Satzende.|Alltag
+Wo *hast* du meine Brille hingelegt?|Куда ты положил мои очки?|B1|hinlegen im Perfekt: hingelegt.|Alltag
+Ich *habe* keine Ahnung, wo sie *ist*.|Понятия не имею, где они.|B1|wo → Verb am Ende.|Alltag
+Es *ist* schon spät, wir sollten nach Hause gehen.|Уже поздно, нам пора домой.|B1|zwei Hauptsätze: Verb jeweils auf Position 2.|Alltag
+Wie spät *ist* es?|Который час?|B1|W-Frage.|Alltag
+Ich *komme* in fünf Minuten.|Я приду через пять минут.|B1|in + Dativ = Zeit in der Zukunft.|Alltag
+Warte bitte auf mich!|Подожди меня, пожалуйста!|B1|warten auf + Akkusativ.|Alltag
+Ich *habe* zwanzig Minuten auf dich gewartet.|Я ждала тебя двадцать минут.|B1|Perfekt: habe … gewartet.|Alltag
+Entschuldige, ich *habe* den Bus verpasst.|Извини, я опоздала на автобус.|B1|Perfekt: habe … verpasst.|Alltag
+Es *ist* nicht so schlimm.|Ничего страшного.|B1|feste Wendung.|Alltag
+Kein Problem, das *kann* jedem passieren.|Не проблема, такое может случиться с каждым.|B1|Modalverb + passieren am Ende.|Alltag
+Ich *wünsche* dir einen schönen Tag!|Желаю тебе хорошего дня!|B1|wünschen + Dativ + Akkusativ.|Alltag

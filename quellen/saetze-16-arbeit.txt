@@ -1,0 +1,59 @@
+# Arbeit und Beruf
+Ich *arbeite* als Verkäuferin in einer Bäckerei.|Я работаю продавщицей в пекарне.|B1|als + Beruf ohne Artikel.|Arbeit
+Meine Arbeit *beginnt* jeden Tag um sechs Uhr.|Моя работа начинается каждый день в шесть часов.|B1|Verb auf Position 2.|Arbeit
+In der Frühschicht *muss* ich um fünf Uhr aufstehen.|В утреннюю смену мне нужно вставать в пять.|B1|Modalverb + trennbares Verb am Ende.|Arbeit
+Ich *arbeite* dreißig Stunden pro Woche.|Я работаю тридцать часов в неделю.|B1|pro + Zeit.|Arbeit
+Mein Chef *ist* sehr zufrieden mit meiner Arbeit.|Мой начальник очень доволен моей работой.|B1|zufrieden mit + Dativ.|Arbeit
+Die Kollegen *haben* mir am Anfang viel geholfen.|Коллеги в начале мне очень помогли.|B1|helfen + Dativ (mir).|Arbeit
+Ich *suche* eine neue Stelle in der Pflege.|Я ищу новую работу в сфере ухода.|B1|Verb auf Position 2.|Arbeit
+Für diese Stelle *braucht* man einen Führerschein.|Для этой работы нужны водительские права.|B1|man + Verb.|Arbeit
+Ich *habe* mich bei drei Firmen beworben.|Я подала заявления в три фирмы.|B1|sich bewerben im Perfekt.|Arbeit
+Leider *habe* ich bisher nur Absagen bekommen.|К сожалению, пока я получала только отказы.|B1|leider → Verb.|Arbeit
+Morgen *habe* ich ein Vorstellungsgespräch bei einer Spedition.|Завтра у меня собеседование в транспортной компании.|B1|Zeit → Verb → Subjekt.|Arbeit
+Ich *bin* sehr nervös, weil das Gespräch so wichtig *ist*.|Я очень нервничаю, потому что разговор так важен.|B1|weil → Verb am Ende.|Arbeit
+Erzählen Sie bitte etwas über sich.|Расскажите, пожалуйста, немного о себе.|B1|Imperativ mit Sie.|Arbeit
+Warum *möchten* Sie bei uns arbeiten?|Почему вы хотите работать у нас?|B1|W-Frage mit Modalverb.|Arbeit
+Ich *möchte* bei Ihnen arbeiten, weil mir der Kontakt mit Menschen gefällt.|Я хочу работать у вас, потому что мне нравится общение с людьми.|B1|weil → gefällt am Ende.|Arbeit
+In meiner alten Firma *war* ich für die Bestellungen verantwortlich.|В старой фирме я отвечала за заказы.|B1|verantwortlich für + Akkusativ.|Arbeit
+Ich *kann* sofort anfangen.|Я могу начать сразу.|B1|anfangen am Ende.|Arbeit
+Wann *wäre* der erste Arbeitstag?|Когда был бы первый рабочий день?|B1|höfliche Frage im Konjunktiv II.|Arbeit
+Der Vertrag *ist* zunächst auf ein Jahr befristet.|Договор сначала заключён на один год.|B2|befristet = nur für eine Zeit.|Arbeit
+Die Probezeit *dauert* sechs Monate.|Испытательный срок длится шесть месяцев.|B1|Verb auf Position 2.|Arbeit
+Ich *habe* im Jahr dreißig Tage Urlaub.|У меня тридцать дней отпуска в году.|B1|Verb auf Position 2.|Arbeit
+Im Sommer *nehme* ich zwei Wochen Urlaub.|Летом я беру две недели отпуска.|B1|Zeit auf Position 1.|Arbeit
+Ich *muss* meinen Urlaub rechtzeitig beantragen.|Мне нужно вовремя подать заявление на отпуск.|B1|Modalverb + Infinitiv.|Arbeit
+Wenn ich krank *bin*, *muss* ich dem Chef sofort Bescheid sagen.|Если я заболею, мне нужно сразу сообщить начальнику.|B1|wenn-Satz zuerst → Modalverb vorn.|Arbeit
+Ab dem dritten Tag *brauche* ich eine Krankmeldung vom Arzt.|С третьего дня мне нужен больничный от врача.|B1|ab + Dativ auf Position 1.|Arbeit
+Letzten Monat *habe* ich viele Überstunden gemacht.|В прошлом месяце я много работала сверхурочно.|B1|Zeit → Verb → Subjekt.|Arbeit
+Die Überstunden *werden* extra bezahlt.|Сверхурочные оплачиваются отдельно.|B2|Passiv Präsens.|Arbeit
+Mein Gehalt *wird* am Ende des Monats überwiesen.|Мою зарплату переводят в конце месяца.|B2|Passiv: wird … überwiesen.|Arbeit
+In der Pause *trinke* ich mit meinen Kollegen Kaffee.|В перерыв я пью кофе с коллегами.|B1|in der Pause = Position 1.|Arbeit
+Die Besprechung *ist* auf Donnerstag verschoben worden.|Совещание перенесли на четверг.|B2|Passiv Perfekt: ist … verschoben worden.|Arbeit
+Könnten Sie mir zeigen, wie die Kasse *funktioniert*?|Не могли бы вы показать мне, как работает касса?|B1|wie → Verb am Ende.|Arbeit
+Ich *habe* nicht verstanden, was ich machen *soll*.|Я не поняла, что мне нужно делать.|B1|was + soll am Ende.|Arbeit
+Darf ich morgen eine Stunde früher gehen?|Можно мне завтра уйти на час раньше?|B1|Ja/Nein-Frage mit Modalverb.|Arbeit
+Ich *muss* meinen Sohn vom Arzt abholen.|Мне нужно забрать сына от врача.|B1|abholen am Ende.|Arbeit
+Mein Kollege *vertritt* mich, wenn ich im Urlaub *bin*.|Коллега заменяет меня, когда я в отпуске.|B1|wenn → Verb am Ende.|Arbeit
+Ich *möchte* mich beruflich weiterbilden.|Я хочу повысить свою квалификацию.|B2|sich weiterbilden am Ende.|Arbeit
+Die Firma *bezahlt* mir einen Computerkurs.|Фирма оплачивает мне компьютерный курс.|B1|Dativ vor Akkusativ.|Arbeit
+Ohne Deutschkenntnisse *ist* es schwer, Arbeit zu finden.|Без знания немецкого трудно найти работу.|B1|ohne + Akkusativ; zu-Infinitiv am Ende.|Arbeit
+Mein Abschluss aus der Ukraine *wird* hier leider nicht anerkannt.|Мой украинский диплом здесь, к сожалению, не признаётся.|B2|Passiv: wird … anerkannt.|Arbeit
+Ich *habe* einen Antrag auf Anerkennung gestellt.|Я подала заявление на признание диплома.|B2|einen Antrag stellen.|Arbeit
+Seit ich die neue Stelle *habe*, *bin* ich viel zufriedener.|С тех пор как у меня новая работа, я гораздо довольнее.|B1|seit (Konjunktion) zuerst → Verb vorn.|Arbeit
+Ich *würde* gern in einem Kindergarten arbeiten.|Я бы хотела работать в детском саду.|B1|würde gern + Infinitiv.|Arbeit
+Dafür *brauche* ich eine Ausbildung als Erzieherin.|Для этого мне нужно образование воспитателя.|B1|dafür auf Position 1.|Arbeit
+Die Ausbildung *dauert* drei Jahre.|Обучение длится три года.|B1|Verb auf Position 2.|Arbeit
+Während der Ausbildung *bekommt* man ein kleines Gehalt.|Во время обучения получают небольшую зарплату.|B1|während + Genitiv.|Arbeit
+Mir *gefällt* an meiner Arbeit, dass sie so abwechslungsreich *ist*.|Мне нравится в моей работе то, что она такая разнообразная.|B2|dass → Verb am Ende.|Arbeit
+Der Nachteil *ist*, dass ich auch am Wochenende arbeiten *muss*.|Минус в том, что мне приходится работать и в выходные.|B1|dass + muss am Ende.|Arbeit
+Ich *bin* mit meinem Gehalt nicht zufrieden.|Я недовольна своей зарплатой.|B1|zufrieden mit + Dativ.|Arbeit
+Wir *haben* im Team eine sehr gute Atmosphäre.|У нас в команде очень хорошая атмосфера.|B1|Verb auf Position 2.|Arbeit
+Am Freitag *feiern* wir den Geburtstag unserer Chefin.|В пятницу мы празднуем день рождения нашей начальницы.|B1|Genitiv: unserer Chefin.|Arbeit
+Ich *habe* gekündigt, weil die Arbeitszeiten nicht zu meiner Familie *passten*.|Я уволилась, потому что рабочее время не подходило моей семье.|B2|weil + Präteritum am Ende.|Arbeit
+Die Kündigungsfrist *beträgt* vier Wochen.|Срок предупреждения об увольнении — четыре недели.|B2|betragen = sein (bei Zahlen).|Arbeit
+Bei der Arbeitsagentur *habe* ich mich arbeitslos gemeldet.|Я встала на учёт как безработная в агентстве по трудоустройству.|B2|sich arbeitslos melden.|Arbeit
+Mein Berater *hat* mir einige Stellen vorgeschlagen.|Мой консультант предложил мне несколько вакансий.|B1|vorschlagen: vorgeschlagen.|Arbeit
+Ich *arbeite* lieber im Team als allein.|Я предпочитаю работать в команде, а не одна.|B1|lieber … als.|Arbeit
+Kannst du am Samstag meine Schicht übernehmen?|Можешь взять мою смену в субботу?|B1|Modalverb-Frage, übernehmen am Ende.|Arbeit
+Ich *muss* noch zwei E-Mails beantworten, bevor ich nach Hause *gehe*.|Мне нужно ответить ещё на два письма, прежде чем пойти домой.|B1|bevor → Verb am Ende.|Arbeit
+Der Computer *ist* abgestürzt, deshalb *konnte* ich nicht weiterarbeiten.|Компьютер завис, поэтому я не могла продолжить работу.|B1|deshalb → Modalverb sofort danach.|Arbeit

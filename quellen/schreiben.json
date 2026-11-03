@@ -1,20 +1,377 @@
 [
- {"id":"vermieter-heizung","lv":"B1","t":"E-Mail an den Vermieter: Heizung kaputt","s":"In Ihrer Wohnung funktioniert die Heizung seit drei Tagen nicht. Schreiben Sie Ihrem Vermieter, Herrn Schulz, eine E-Mail.","p":["Beschreiben Sie das Problem.","Was haben Sie schon versucht?","Bitten Sie um einen Termin für die Reparatur.","Wann sind Sie zu Hause?"],"ru":"Три дня не работает отопление. Напишите арендодателю: опишите проблему, что вы уже пробовали, попросите о ремонте и напишите, когда вы дома.","w":80,"rm":["Sehr geehrter Herr …,","ich schreibe Ihnen, weil …","Könnten Sie bitte …?","Ich bin … zu Hause.","Mit freundlichen Grüßen"],
-  "m":"Sehr geehrter Herr Schulz,\n\nich schreibe Ihnen, weil die Heizung in meiner Wohnung seit drei Tagen nicht funktioniert. Die Heizkörper im Wohnzimmer und im Schlafzimmer bleiben kalt, obwohl ich sie ganz aufgedreht habe. Ich habe die Heizkörper schon entlüftet, aber das hat leider nicht geholfen.\n\nEs ist zurzeit sehr kalt und ich habe ein kleines Kind. Deshalb bitte ich Sie, so schnell wie möglich einen Handwerker zu schicken. Könnten Sie mir bitte einen Termin für die Reparatur nennen?\n\nIch bin von Montag bis Freitag ab 16 Uhr zu Hause. Am Samstag bin ich den ganzen Tag da.\n\nVielen Dank im Voraus.\n\nMit freundlichen Grüßen\nOlga Iwanowa"},
- {"id":"termin-absagen","lv":"B1","t":"Termin beim Jobcenter absagen","s":"Sie haben morgen einen Termin beim Jobcenter, können aber nicht kommen. Schreiben Sie an Frau Becker.","p":["Entschuldigen Sie sich.","Nennen Sie den Grund.","Schlagen Sie einen neuen Termin vor."],"ru":"Вы не можете прийти завтра в Jobcenter. Извинитесь, назовите причину и предложите новую дату.","w":60,"rm":["Sehr geehrte Frau …,","leider kann ich … nicht kommen, weil …","Es tut mir sehr leid.","Wäre es möglich, …?"],
-  "m":"Sehr geehrte Frau Becker,\n\nleider kann ich morgen um 10 Uhr nicht zu unserem Termin kommen. Es tut mir sehr leid. Meine Tochter ist krank und ich muss sie heute und morgen zu Hause betreuen.\n\nWäre es möglich, den Termin auf nächste Woche zu verschieben? Am Dienstag oder Donnerstag habe ich den ganzen Vormittag Zeit.\n\nIch bitte um Ihr Verständnis.\n\nMit freundlichen Grüßen\nOlga Iwanowa"},
- {"id":"einladung","lv":"B1","t":"Einladung zum Geburtstag beantworten","s":"Ihre Kollegin Anna lädt Sie zu ihrem Geburtstag am Samstag ein. Schreiben Sie ihr.","p":["Bedanken Sie sich.","Sagen Sie, ob Sie kommen.","Fragen Sie, was Sie mitbringen können."],"ru":"Коллега Анна пригласила вас на день рождения. Поблагодарите, скажите, придёте ли, и спросите, что принести.","w":60,"rm":["Liebe Anna,","vielen Dank für die Einladung!","Ich komme gern.","Soll ich etwas mitbringen?","Liebe Grüße"],
-  "m":"Liebe Anna,\n\nvielen Dank für deine Einladung! Ich freue mich sehr und komme gern zu deiner Feier am Samstag. Ich kann aber erst um 19 Uhr kommen, weil ich bis 18 Uhr arbeiten muss.\n\nSoll ich etwas mitbringen? Ich könnte zum Beispiel einen Salat oder einen Kuchen machen. Schreib mir einfach, was dir lieber ist.\n\nBis Samstag und liebe Grüße\nOlga"},
- {"id":"reklamation-jacke","lv":"B1","t":"Beschwerde: falsche Größe geliefert","s":"Sie haben im Internet eine Jacke bestellt. Sie haben die falsche Größe bekommen. Schreiben Sie an den Kundenservice.","p":["Was haben Sie bestellt?","Was ist das Problem?","Was soll die Firma jetzt tun?"],"ru":"Пришёл не тот размер куртки. Напишите: что заказали, в чём проблема, что фирма должна сделать.","w":80,"rm":["Sehr geehrte Damen und Herren,","am … habe ich … bestellt.","Leider …","Ich möchte Sie bitten, …","Mit freundlichen Grüßen"],
-  "m":"Sehr geehrte Damen und Herren,\n\nam 2. November habe ich in Ihrem Online-Shop eine Winterjacke in Größe 38 bestellt (Bestellnummer 45821). Das Paket ist gestern angekommen. Leider habe ich die Jacke in Größe 44 bekommen. Sie ist mir viel zu groß.\n\nIch möchte Sie bitten, mir die Jacke in der richtigen Größe zu schicken. Falls das nicht möglich ist, möchte ich mein Geld zurück. Bitte teilen Sie mir mit, wie ich die falsche Jacke zurückschicken soll.\n\nMit freundlichen Grüßen\nOlga Iwanowa"},
- {"id":"kita-krank","lv":"B1","t":"Kita: Kind ist krank","s":"Ihr Kind ist krank und kann heute nicht in die Kita gehen. Schreiben Sie der Erzieherin, Frau Lang.","p":["Informieren Sie über die Krankheit.","Wie lange bleibt das Kind zu Hause?","Fragen Sie nach Terminen oder Aktivitäten."],"ru":"Ребёнок заболел и не пойдёт в детский сад. Сообщите воспитательнице, на сколько дней, и спросите о мероприятиях.","w":60,"rm":["Liebe Frau …,","mein Sohn / meine Tochter ist krank.","Der Arzt sagt, …","Gibt es …?","Viele Grüße"],
-  "m":"Liebe Frau Lang,\n\nmein Sohn Maxim kann heute leider nicht in die Kita kommen. Er hat seit gestern Abend Fieber und Husten. Wir waren heute Morgen beim Kinderarzt. Der Arzt sagt, dass Maxim bis Freitag zu Hause bleiben soll.\n\nGibt es diese Woche besondere Termine oder Aktivitäten, die wir wissen müssen? Muss ich eine Bescheinigung vom Arzt mitbringen?\n\nVielen Dank und viele Grüße\nOlga Iwanowa"},
- {"id":"forum-handy","lv":"B1","t":"Meinung im Forum: Smartphone für Kinder","s":"In einem Forum wird gefragt: Sollen Kinder unter 12 Jahren ein Smartphone haben? Schreiben Sie Ihre Meinung.","p":["Ihre Meinung","ein Vorteil","ein Nachteil","Ihre Erfahrung"],"ru":"Нужен ли детям до 12 лет смартфон? Ваше мнение, плюс, минус, ваш опыт.","w":80,"rm":["Meiner Meinung nach …","Ein Vorteil ist, dass …","Ein Nachteil ist, dass …","Ich habe die Erfahrung gemacht, dass …"],
-  "m":"Meiner Meinung nach brauchen Kinder unter 12 Jahren noch kein eigenes Smartphone. Ein Vorteil ist natürlich, dass die Eltern ihr Kind immer erreichen können. Das gibt vielen Eltern Sicherheit.\n\nEin großer Nachteil ist aber, dass Kinder sehr viel Zeit am Handy verbringen. Sie spielen weniger draußen und treffen ihre Freunde seltener.\n\nIch habe die Erfahrung gemacht, dass meine Nichte mit zehn Jahren ein Smartphone bekommen hat. Seitdem liest sie kaum noch Bücher. Deshalb finde ich ein einfaches Handy ohne Internet besser."},
- {"id":"bewerbung-verkaeuferin","lv":"B2","t":"Bewerbung als Verkäuferin","s":"Ein Supermarkt sucht eine Verkäuferin in Teilzeit. Schreiben Sie eine Bewerbung.","p":["Warum interessieren Sie sich für die Stelle?","Ihre Erfahrungen","Wann können Sie anfangen?","Bitten Sie um ein Gespräch."],"ru":"Супермаркет ищет продавца на неполный день. Почему интересно, опыт, когда можете начать, попросите о собеседовании.","w":150,"rm":["Sehr geehrte Damen und Herren,","mit großem Interesse habe ich Ihre Anzeige gelesen.","Ich verfüge über …","Ich könnte ab … anfangen.","Über eine Einladung zu einem persönlichen Gespräch würde ich mich sehr freuen."],
-  "m":"Sehr geehrte Damen und Herren,\n\nmit großem Interesse habe ich Ihre Anzeige vom 1. November gelesen, in der Sie eine Verkäuferin in Teilzeit suchen. Ich interessiere mich sehr für diese Stelle, weil ich gern mit Menschen arbeite und Ihr Markt direkt in meiner Nähe liegt.\n\nIn meinem Heimatland habe ich fünf Jahre in einem Lebensmittelgeschäft gearbeitet. Dort war ich an der Kasse tätig, habe Waren eingeräumt und Kunden beraten. In Deutschland habe ich ein Praktikum in einer Bäckerei gemacht. Ich bin zuverlässig, pünktlich und arbeite gern im Team.\n\nDa meine Kinder vormittags in der Schule sind, passt eine Teilzeitstelle sehr gut zu meiner Situation. Ich könnte ab dem 1. Dezember anfangen.\n\nÜber eine Einladung zu einem persönlichen Gespräch würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nOlga Iwanowa"},
- {"id":"forum-homeoffice","lv":"B2","t":"Forumsbeitrag: Homeoffice","s":"Ein Online-Magazin fragt: Ist Arbeiten im Homeoffice besser als im Büro? Schreiben Sie einen Beitrag.","p":["Nennen Sie Vorteile und Nachteile.","Vergleichen Sie mit Ihrem Heimatland.","Begründen Sie Ihre Meinung."],"ru":"Работа из дома лучше, чем в офисе? Плюсы и минусы, сравнение с родной страной, ваше мнение.","w":150,"rm":["Einerseits …, andererseits …","Im Gegensatz zu …","In meinem Heimatland …","Zusammenfassend kann man sagen, dass …"],
-  "m":"Das Homeoffice ist seit einigen Jahren ein wichtiges Thema. Einerseits hat das Arbeiten zu Hause viele Vorteile. Man spart Zeit und Geld, weil man nicht zur Arbeit fahren muss. Außerdem kann man sich die Zeit flexibler einteilen, was besonders für Eltern wichtig ist.\n\nAndererseits gibt es auch Nachteile. Viele Menschen fühlen sich zu Hause allein und vermissen den Kontakt zu ihren Kollegen. Manchmal ist es auch schwer, Arbeit und Freizeit zu trennen.\n\nIn meinem Heimatland war Homeoffice früher kaum bekannt. Im Gegensatz zu Deutschland mussten fast alle Angestellten jeden Tag ins Büro gehen.\n\nZusammenfassend kann man sagen, dass eine Mischung die beste Lösung ist. Ich persönlich würde gern zwei oder drei Tage pro Woche zu Hause arbeiten, weil ich mich dort besser konzentrieren kann."},
- {"id":"hausverwaltung-laerm","lv":"B2","t":"Beschwerde an die Hausverwaltung: Lärm","s":"Ihre Nachbarn sind seit Wochen nachts sehr laut. Ein Gespräch hat nichts gebracht. Schreiben Sie an die Hausverwaltung.","p":["Beschreiben Sie die Situation genau.","Was haben Sie schon unternommen?","Welche Folgen hat das für Sie?","Was erwarten Sie von der Hausverwaltung?"],"ru":"Соседи шумят по ночам, разговор не помог. Ситуация, что делали, последствия, чего ждёте.","w":150,"rm":["Sehr geehrte Damen und Herren,","ich wende mich an Sie, weil …","Ich habe bereits …","Das hat zur Folge, dass …","Ich bitte Sie daher, …"],
-  "m":"Sehr geehrte Damen und Herren,\n\nich wende mich an Sie, weil es seit etwa vier Wochen ein großes Problem mit meinen Nachbarn in der Wohnung über mir gibt. Fast jede Nacht hören sie bis zwei oder drei Uhr laute Musik und feiern mit vielen Gästen.\n\nIch habe bereits zweimal persönlich mit den Nachbarn gesprochen und sie freundlich gebeten, leiser zu sein. Leider hat sich nichts geändert.\n\nDas hat zur Folge, dass ich kaum noch schlafen kann. Ich muss jeden Morgen um sechs Uhr aufstehen und bin bei der Arbeit sehr müde. Auch meine Kinder wachen nachts oft auf.\n\nLaut Hausordnung ist ab 22 Uhr Nachtruhe. Ich bitte Sie daher, mit den Mietern zu sprechen und dafür zu sorgen, dass die Hausordnung eingehalten wird.\n\nIch freue mich auf Ihre baldige Antwort.\n\nMit freundlichen Grüßen\nOlga Iwanowa"}
+ {
+  "id": "vermieter-heizung",
+  "lv": "B1",
+  "t": "E-Mail an den Vermieter: Heizung kaputt",
+  "s": "In Ihrer Wohnung funktioniert die Heizung seit drei Tagen nicht. Schreiben Sie Ihrem Vermieter, Herrn Schulz, eine E-Mail.",
+  "p": [
+   "Beschreiben Sie das Problem.",
+   "Was haben Sie schon versucht?",
+   "Bitten Sie um einen Termin für die Reparatur.",
+   "Wann sind Sie zu Hause?"
+  ],
+  "ru": "Три дня не работает отопление. Напишите арендодателю: опишите проблему, что вы уже пробовали, попросите о ремонте и напишите, когда вы дома.",
+  "w": 80,
+  "rm": [
+   "Sehr geehrter Herr …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich bin … zu Hause.",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrter Herr Schulz,\n\nich schreibe Ihnen, weil die Heizung in meiner Wohnung seit drei Tagen nicht funktioniert. Die Heizkörper im Wohnzimmer und im Schlafzimmer bleiben kalt, obwohl ich sie ganz aufgedreht habe. Ich habe die Heizkörper schon entlüftet, aber das hat leider nicht geholfen.\n\nEs ist zurzeit sehr kalt und ich habe ein kleines Kind. Deshalb bitte ich Sie, so schnell wie möglich einen Handwerker zu schicken. Könnten Sie mir bitte einen Termin für die Reparatur nennen?\n\nIch bin von Montag bis Freitag ab 16 Uhr zu Hause. Am Samstag bin ich den ganzen Tag da.\n\nVielen Dank im Voraus.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "termin-absagen",
+  "lv": "B1",
+  "t": "Termin beim Jobcenter absagen",
+  "s": "Sie haben morgen einen Termin beim Jobcenter, können aber nicht kommen. Schreiben Sie an Frau Becker.",
+  "p": [
+   "Entschuldigen Sie sich.",
+   "Nennen Sie den Grund.",
+   "Schlagen Sie einen neuen Termin vor."
+  ],
+  "ru": "Вы не можете прийти завтра в Jobcenter. Извинитесь, назовите причину и предложите новую дату.",
+  "w": 60,
+  "rm": [
+   "Sehr geehrte Frau …,",
+   "leider kann ich … nicht kommen, weil …",
+   "Es tut mir sehr leid.",
+   "Wäre es möglich, …?"
+  ],
+  "m": "Sehr geehrte Frau Becker,\n\nleider kann ich morgen um 10 Uhr nicht zu unserem Termin kommen. Es tut mir sehr leid. Meine Tochter ist krank und ich muss sie heute und morgen zu Hause betreuen.\n\nWäre es möglich, den Termin auf nächste Woche zu verschieben? Am Dienstag oder Donnerstag habe ich den ganzen Vormittag Zeit.\n\nIch bitte um Ihr Verständnis.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "einladung",
+  "lv": "B1",
+  "t": "Einladung zum Geburtstag beantworten",
+  "s": "Ihre Kollegin Anna lädt Sie zu ihrem Geburtstag am Samstag ein. Schreiben Sie ihr.",
+  "p": [
+   "Bedanken Sie sich.",
+   "Sagen Sie, ob Sie kommen.",
+   "Fragen Sie, was Sie mitbringen können."
+  ],
+  "ru": "Коллега Анна пригласила вас на день рождения. Поблагодарите, скажите, придёте ли, и спросите, что принести.",
+  "w": 60,
+  "rm": [
+   "Liebe Anna,",
+   "vielen Dank für die Einladung!",
+   "Ich komme gern.",
+   "Soll ich etwas mitbringen?",
+   "Liebe Grüße"
+  ],
+  "m": "Liebe Anna,\n\nvielen Dank für deine Einladung! Ich freue mich sehr und komme gern zu deiner Feier am Samstag. Ich kann aber erst um 19 Uhr kommen, weil ich bis 18 Uhr arbeiten muss.\n\nSoll ich etwas mitbringen? Ich könnte zum Beispiel einen Salat oder einen Kuchen machen. Schreib mir einfach, was dir lieber ist.\n\nBis Samstag und liebe Grüße\nOlga"
+ },
+ {
+  "id": "reklamation-jacke",
+  "lv": "B1",
+  "t": "Beschwerde: falsche Größe geliefert",
+  "s": "Sie haben im Internet eine Jacke bestellt. Sie haben die falsche Größe bekommen. Schreiben Sie an den Kundenservice.",
+  "p": [
+   "Was haben Sie bestellt?",
+   "Was ist das Problem?",
+   "Was soll die Firma jetzt tun?"
+  ],
+  "ru": "Пришёл не тот размер куртки. Напишите: что заказали, в чём проблема, что фирма должна сделать.",
+  "w": 80,
+  "rm": [
+   "Sehr geehrte Damen und Herren,",
+   "am … habe ich … bestellt.",
+   "Leider …",
+   "Ich möchte Sie bitten, …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nam 2. November habe ich in Ihrem Online-Shop eine Winterjacke in Größe 38 bestellt (Bestellnummer 45821). Das Paket ist gestern angekommen. Leider habe ich die Jacke in Größe 44 bekommen. Sie ist mir viel zu groß.\n\nIch möchte Sie bitten, mir die Jacke in der richtigen Größe zu schicken. Falls das nicht möglich ist, möchte ich mein Geld zurück. Bitte teilen Sie mir mit, wie ich die falsche Jacke zurückschicken soll.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "kita-krank",
+  "lv": "B1",
+  "t": "Kita: Kind ist krank",
+  "s": "Ihr Kind ist krank und kann heute nicht in die Kita gehen. Schreiben Sie der Erzieherin, Frau Lang.",
+  "p": [
+   "Informieren Sie über die Krankheit.",
+   "Wie lange bleibt das Kind zu Hause?",
+   "Fragen Sie nach Terminen oder Aktivitäten."
+  ],
+  "ru": "Ребёнок заболел и не пойдёт в детский сад. Сообщите воспитательнице, на сколько дней, и спросите о мероприятиях.",
+  "w": 60,
+  "rm": [
+   "Liebe Frau …,",
+   "mein Sohn / meine Tochter ist krank.",
+   "Der Arzt sagt, …",
+   "Gibt es …?",
+   "Viele Grüße"
+  ],
+  "m": "Liebe Frau Lang,\n\nmein Sohn Maxim kann heute leider nicht in die Kita kommen. Er hat seit gestern Abend Fieber und Husten. Wir waren heute Morgen beim Kinderarzt. Der Arzt sagt, dass Maxim bis Freitag zu Hause bleiben soll.\n\nGibt es diese Woche besondere Termine oder Aktivitäten, die wir wissen müssen? Muss ich eine Bescheinigung vom Arzt mitbringen?\n\nVielen Dank und viele Grüße\nOlga Iwanowa"
+ },
+ {
+  "id": "forum-handy",
+  "lv": "B1",
+  "t": "Meinung im Forum: Smartphone für Kinder",
+  "s": "In einem Forum wird gefragt: Sollen Kinder unter 12 Jahren ein Smartphone haben? Schreiben Sie Ihre Meinung.",
+  "p": [
+   "Ihre Meinung",
+   "ein Vorteil",
+   "ein Nachteil",
+   "Ihre Erfahrung"
+  ],
+  "ru": "Нужен ли детям до 12 лет смартфон? Ваше мнение, плюс, минус, ваш опыт.",
+  "w": 80,
+  "rm": [
+   "Meiner Meinung nach …",
+   "Ein Vorteil ist, dass …",
+   "Ein Nachteil ist, dass …",
+   "Ich habe die Erfahrung gemacht, dass …"
+  ],
+  "m": "Meiner Meinung nach brauchen Kinder unter 12 Jahren noch kein eigenes Smartphone. Ein Vorteil ist natürlich, dass die Eltern ihr Kind immer erreichen können. Das gibt vielen Eltern Sicherheit.\n\nEin großer Nachteil ist aber, dass Kinder sehr viel Zeit am Handy verbringen. Sie spielen weniger draußen und treffen ihre Freunde seltener.\n\nIch habe die Erfahrung gemacht, dass meine Nichte mit zehn Jahren ein Smartphone bekommen hat. Seitdem liest sie kaum noch Bücher. Deshalb finde ich ein einfaches Handy ohne Internet besser."
+ },
+ {
+  "id": "bewerbung-verkaeuferin",
+  "lv": "B2",
+  "t": "Bewerbung als Verkäuferin",
+  "s": "Ein Supermarkt sucht eine Verkäuferin in Teilzeit. Schreiben Sie eine Bewerbung.",
+  "p": [
+   "Warum interessieren Sie sich für die Stelle?",
+   "Ihre Erfahrungen",
+   "Wann können Sie anfangen?",
+   "Bitten Sie um ein Gespräch."
+  ],
+  "ru": "Супермаркет ищет продавца на неполный день. Почему интересно, опыт, когда можете начать, попросите о собеседовании.",
+  "w": 150,
+  "rm": [
+   "Sehr geehrte Damen und Herren,",
+   "mit großem Interesse habe ich Ihre Anzeige gelesen.",
+   "Ich verfüge über …",
+   "Ich könnte ab … anfangen.",
+   "Über eine Einladung zu einem persönlichen Gespräch würde ich mich sehr freuen."
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nmit großem Interesse habe ich Ihre Anzeige vom 1. November gelesen, in der Sie eine Verkäuferin in Teilzeit suchen. Ich interessiere mich sehr für diese Stelle, weil ich gern mit Menschen arbeite und Ihr Markt direkt in meiner Nähe liegt.\n\nIn meinem Heimatland habe ich fünf Jahre in einem Lebensmittelgeschäft gearbeitet. Dort war ich an der Kasse tätig, habe Waren eingeräumt und Kunden beraten. In Deutschland habe ich ein Praktikum in einer Bäckerei gemacht. Ich bin zuverlässig, pünktlich und arbeite gern im Team.\n\nDa meine Kinder vormittags in der Schule sind, passt eine Teilzeitstelle sehr gut zu meiner Situation. Ich könnte ab dem 1. Dezember anfangen.\n\nÜber eine Einladung zu einem persönlichen Gespräch würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "forum-homeoffice",
+  "lv": "B2",
+  "t": "Forumsbeitrag: Homeoffice",
+  "s": "Ein Online-Magazin fragt: Ist Arbeiten im Homeoffice besser als im Büro? Schreiben Sie einen Beitrag.",
+  "p": [
+   "Nennen Sie Vorteile und Nachteile.",
+   "Vergleichen Sie mit Ihrem Heimatland.",
+   "Begründen Sie Ihre Meinung."
+  ],
+  "ru": "Работа из дома лучше, чем в офисе? Плюсы и минусы, сравнение с родной страной, ваше мнение.",
+  "w": 150,
+  "rm": [
+   "Einerseits …, andererseits …",
+   "Im Gegensatz zu …",
+   "In meinem Heimatland …",
+   "Zusammenfassend kann man sagen, dass …"
+  ],
+  "m": "Das Homeoffice ist seit einigen Jahren ein wichtiges Thema. Einerseits hat das Arbeiten zu Hause viele Vorteile. Man spart Zeit und Geld, weil man nicht zur Arbeit fahren muss. Außerdem kann man sich die Zeit flexibler einteilen, was besonders für Eltern wichtig ist.\n\nAndererseits gibt es auch Nachteile. Viele Menschen fühlen sich zu Hause allein und vermissen den Kontakt zu ihren Kollegen. Manchmal ist es auch schwer, Arbeit und Freizeit zu trennen.\n\nIn meinem Heimatland war Homeoffice früher kaum bekannt. Im Gegensatz zu Deutschland mussten fast alle Angestellten jeden Tag ins Büro gehen.\n\nZusammenfassend kann man sagen, dass eine Mischung die beste Lösung ist. Ich persönlich würde gern zwei oder drei Tage pro Woche zu Hause arbeiten, weil ich mich dort besser konzentrieren kann."
+ },
+ {
+  "id": "hausverwaltung-laerm",
+  "lv": "B2",
+  "t": "Beschwerde an die Hausverwaltung: Lärm",
+  "s": "Ihre Nachbarn sind seit Wochen nachts sehr laut. Ein Gespräch hat nichts gebracht. Schreiben Sie an die Hausverwaltung.",
+  "p": [
+   "Beschreiben Sie die Situation genau.",
+   "Was haben Sie schon unternommen?",
+   "Welche Folgen hat das für Sie?",
+   "Was erwarten Sie von der Hausverwaltung?"
+  ],
+  "ru": "Соседи шумят по ночам, разговор не помог. Ситуация, что делали, последствия, чего ждёте.",
+  "w": 150,
+  "rm": [
+   "Sehr geehrte Damen und Herren,",
+   "ich wende mich an Sie, weil …",
+   "Ich habe bereits …",
+   "Das hat zur Folge, dass …",
+   "Ich bitte Sie daher, …"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nich wende mich an Sie, weil es seit etwa vier Wochen ein großes Problem mit meinen Nachbarn in der Wohnung über mir gibt. Fast jede Nacht hören sie bis zwei oder drei Uhr laute Musik und feiern mit vielen Gästen.\n\nIch habe bereits zweimal persönlich mit den Nachbarn gesprochen und sie freundlich gebeten, leiser zu sein. Leider hat sich nichts geändert.\n\nDas hat zur Folge, dass ich kaum noch schlafen kann. Ich muss jeden Morgen um sechs Uhr aufstehen und bin bei der Arbeit sehr müde. Auch meine Kinder wachen nachts oft auf.\n\nLaut Hausordnung ist ab 22 Uhr Nachtruhe. Ich bitte Sie daher, mit den Mietern zu sprechen und dafür zu sorgen, dass die Hausordnung eingehalten wird.\n\nIch freue mich auf Ihre baldige Antwort.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "arzttermin-verschieben",
+  "lv": "B1",
+  "t": "Arzttermin verschieben",
+  "s": "Sie haben am Montag einen Termin bei Dr. Weber. Sie müssen an diesem Tag arbeiten. Schreiben Sie an die Praxis.",
+  "p": [
+   "Warum schreiben Sie?",
+   "Warum können Sie nicht kommen?",
+   "Schlagen Sie einen neuen Termin vor."
+  ],
+  "ru": "У вас приём у врача в понедельник, но вы работаете. Напишите в кабинет: зачем пишете, почему не можете прийти, предложите новое время.",
+  "w": 60,
+  "rm": [
+   "Sehr geehrte Damen und Herren,",
+   "ich habe am … einen Termin.",
+   "Leider muss ich …",
+   "Wäre es möglich, …?"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nich habe am Montag, dem 14. November, um 9:30 Uhr einen Termin bei Dr. Weber. Leider kann ich an diesem Tag nicht kommen, weil ich kurzfristig arbeiten muss. Meine Kollegin ist krank und ich muss sie vertreten.\n\nWäre es möglich, den Termin auf Mittwoch oder Donnerstag zu verschieben? An diesen Tagen habe ich ab 14 Uhr Zeit.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "nachbarin-hilfe",
+  "lv": "B1",
+  "t": "Bitte an die Nachbarin",
+  "s": "Sie fahren für eine Woche in Urlaub. Schreiben Sie Ihrer Nachbarin, Frau Schulze, eine Nachricht.",
+  "p": [
+   "Wann und wohin fahren Sie?",
+   "Bitten Sie um Hilfe (Blumen, Post).",
+   "Wo ist der Schlüssel?"
+  ],
+  "ru": "Вы уезжаете на неделю. Напишите соседке: когда и куда едете, попросите помочь (цветы, почта), где ключ.",
+  "w": 60,
+  "rm": [
+   "Liebe Frau …,",
+   "Könnten Sie bitte …?",
+   "Den Schlüssel …",
+   "Vielen Dank im Voraus!"
+  ],
+  "m": "Liebe Frau Schulze,\n\nwir fahren am Samstag für eine Woche zu meiner Schwester nach Hamburg. Wir kommen am nächsten Sonntag zurück.\n\nKönnten Sie bitte in dieser Zeit meine Blumen gießen und die Post aus dem Briefkasten nehmen? Die Blumen brauchen nur zweimal Wasser.\n\nDen Schlüssel werfe ich Ihnen am Freitagabend in den Briefkasten.\n\nVielen Dank im Voraus! Ich bringe Ihnen etwas aus Hamburg mit.\n\nViele Grüße\nOlga Iwanowa"
+ },
+ {
+  "id": "kursanmeldung",
+  "lv": "B1",
+  "t": "Anmeldung zum Kurs",
+  "s": "Sie haben eine Anzeige für einen Computerkurs an der Volkshochschule gelesen. Schreiben Sie eine E-Mail.",
+  "p": [
+   "Warum interessieren Sie sich für den Kurs?",
+   "Fragen Sie nach dem Preis.",
+   "Fragen Sie, wann der Kurs stattfindet."
+  ],
+  "ru": "Вы прочитали объявление о компьютерном курсе. Почему вам интересно, спросите о цене и времени занятий.",
+  "w": 60,
+  "rm": [
+   "Sehr geehrte Damen und Herren,",
+   "ich interessiere mich für …",
+   "Könnten Sie mir bitte sagen, …?",
+   "Ich freue mich auf Ihre Antwort."
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nich habe Ihre Anzeige für den Computerkurs für Anfänger gelesen und interessiere mich sehr dafür. Für meine Arbeit muss ich bald mit Excel arbeiten, aber ich habe leider wenig Erfahrung.\n\nKönnten Sie mir bitte sagen, wie viel der Kurs kostet? Gibt es eine Ermäßigung für Arbeitssuchende?\n\nAußerdem möchte ich wissen, an welchen Tagen und um wie viel Uhr der Kurs stattfindet. Abends hätte ich am meisten Zeit.\n\nIch freue mich auf Ihre Antwort.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "dank-feier",
+  "lv": "B1",
+  "t": "Dank für die Feier",
+  "s": "Sie waren am Wochenende auf der Hochzeit Ihres Kollegen Paul. Schreiben Sie ihm.",
+  "p": [
+   "Bedanken Sie sich.",
+   "Was hat Ihnen besonders gefallen?",
+   "Laden Sie ihn und seine Frau zu sich ein."
+  ],
+  "ru": "Вы были на свадьбе коллеги Пауля. Поблагодарите, напишите, что особенно понравилось, пригласите его с женой к себе.",
+  "w": 60,
+  "rm": [
+   "Lieber Paul,",
+   "vielen Dank für …",
+   "Besonders gut hat mir … gefallen.",
+   "Habt ihr Lust, …?"
+  ],
+  "m": "Lieber Paul,\n\nvielen Dank für die wunderschöne Hochzeitsfeier am Samstag! Mein Mann und ich hatten einen tollen Abend.\n\nBesonders gut hat mir die Musik gefallen. Wir haben so viel getanzt wie seit Jahren nicht mehr. Auch das Essen war sehr lecker.\n\nHabt ihr Lust, uns bald zu besuchen? Ich würde gern für euch typisch russisch kochen. Wie wäre es mit dem nächsten Samstag?\n\nLiebe Grüße an deine Frau\nOlga"
+ },
+ {
+  "id": "vermieter-kuendigung",
+  "lv": "B1",
+  "t": "Wohnung kündigen",
+  "s": "Sie ziehen in eine andere Stadt. Kündigen Sie Ihre Wohnung bei Ihrem Vermieter, Herrn Braun.",
+  "p": [
+   "Kündigen Sie die Wohnung zu einem Datum.",
+   "Nennen Sie den Grund.",
+   "Fragen Sie nach einem Termin für die Übergabe."
+  ],
+  "ru": "Вы переезжаете в другой город. Расторгните договор аренды: дата, причина, попросите назначить передачу квартиры.",
+  "w": 80,
+  "rm": [
+   "Sehr geehrter Herr …,",
+   "hiermit kündige ich …",
+   "zum …",
+   "Bitte bestätigen Sie …"
+  ],
+  "m": "Sehr geehrter Herr Braun,\n\nhiermit kündige ich meine Wohnung in der Lindenstraße 12, 2. Stock links, fristgerecht zum 31. März.\n\nDer Grund ist, dass ich eine neue Stelle in Leipzig gefunden habe. Deshalb ziehen wir mit der ganzen Familie um.\n\nKönnten Sie mir bitte einen Termin für die Übergabe der Wohnung nennen? Am besten passt es mir in der letzten Märzwoche nachmittags.\n\nBitte bestätigen Sie mir den Erhalt der Kündigung schriftlich.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "forum-sport",
+  "lv": "B1",
+  "t": "Meinung im Forum: Sport im Alltag",
+  "s": "In einem Forum geht es um das Thema: Wie wichtig ist Sport? Schreiben Sie Ihre Meinung.",
+  "p": [
+   "Welchen Sport machen Sie?",
+   "Warum ist Sport wichtig?",
+   "Was ist schwierig?"
+  ],
+  "ru": "Форум: насколько важен спорт? Каким спортом вы занимаетесь, почему это важно, что трудно.",
+  "w": 80,
+  "rm": [
+   "Ich persönlich …",
+   "Meiner Meinung nach …",
+   "Leider ist es oft schwierig, …",
+   "Deshalb …"
+  ],
+  "m": "Ich persönlich gehe zweimal pro Woche schwimmen und fahre jeden Tag mit dem Fahrrad zur Arbeit.\n\nMeiner Meinung nach ist Sport sehr wichtig, weil man gesund und fit bleibt. Außerdem habe ich nach dem Sport weniger Stress und schlafe besser.\n\nLeider ist es oft schwierig, Zeit für Sport zu finden, besonders wenn man Kinder hat und arbeitet. Deshalb versuche ich, Sport in den Alltag einzubauen: Ich nehme zum Beispiel die Treppe statt den Aufzug."
+ },
+ {
+  "id": "beschwerde-internet",
+  "lv": "B2",
+  "t": "Beschwerde: Internet funktioniert nicht",
+  "s": "Ihr Internet funktioniert seit zwei Wochen nur sehr schlecht. Sie haben schon zweimal angerufen. Schreiben Sie an den Anbieter.",
+  "p": [
+   "Beschreiben Sie das Problem.",
+   "Was haben Sie schon unternommen?",
+   "Welche Folgen hat das für Sie?",
+   "Was fordern Sie?"
+  ],
+  "ru": "Интернет плохо работает две недели, вы уже звонили. Опишите проблему, что делали, последствия, ваши требования.",
+  "w": 150,
+  "rm": [
+   "Sehr geehrte Damen und Herren,",
+   "seit … funktioniert …",
+   "Ich habe bereits …",
+   "Ich erwarte, dass …",
+   "Andernfalls …"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nseit dem 20. Oktober funktioniert mein Internetanschluss (Kundennummer 778431) nur sehr unzuverlässig. Die Verbindung bricht mehrmals am Tag ab, und abends ist das Internet so langsam, dass man nicht einmal E-Mails öffnen kann.\n\nIch habe bereits zweimal bei Ihrer Hotline angerufen. Man hat mir versprochen, dass sich ein Techniker bei mir meldet. Leider ist bis heute nichts passiert.\n\nDas hat für mich ernste Folgen: Ich arbeite zwei Tage pro Woche im Homeoffice und meine Kinder brauchen das Internet für die Schule.\n\nIch erwarte, dass Sie das Problem innerhalb einer Woche lösen. Außerdem bitte ich Sie, mir für die Zeit der Störung einen Teil der Monatsgebühr zu erstatten. Andernfalls werde ich den Vertrag kündigen.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "forum-kinder-sprachen",
+  "lv": "B2",
+  "t": "Forumsbeitrag: Mehrsprachig aufwachsen",
+  "s": "In einem Elternforum wird diskutiert: Sollen Kinder in Deutschland zu Hause die Muttersprache der Eltern sprechen? Schreiben Sie einen Beitrag.",
+  "p": [
+   "Ihre Meinung",
+   "Vorteile der Mehrsprachigkeit",
+   "mögliche Probleme",
+   "Ihre Erfahrungen"
+  ],
+  "ru": "Должны ли дети дома говорить на родном языке родителей? Ваше мнение, плюсы, возможные проблемы, ваш опыт.",
+  "w": 150,
+  "rm": [
+   "Ich bin der Meinung, dass …",
+   "Ein großer Vorteil ist …",
+   "Andererseits kann es passieren, dass …",
+   "Ich habe die Erfahrung gemacht, dass …"
+  ],
+  "m": "Ich bin der Meinung, dass Kinder unbedingt die Muttersprache ihrer Eltern lernen sollten.\n\nEin großer Vorteil ist, dass die Kinder mit ihren Großeltern und Verwandten sprechen können. Außerdem zeigen Studien, dass mehrsprachige Kinder später oft leichter weitere Sprachen lernen.\n\nAndererseits kann es passieren, dass Kinder am Anfang beide Sprachen mischen oder in der Schule etwas langsamer Deutsch lernen. Deshalb ist es wichtig, dass sie auch viel Kontakt zu deutschen Kindern haben, zum Beispiel in der Kita oder im Sportverein.\n\nIch habe die Erfahrung gemacht, dass mein Sohn zu Hause Russisch und draußen Deutsch spricht. Mit sechs Jahren konnte er beide Sprachen gut. Für mich ist das ein großes Geschenk."
+ },
+ {
+  "id": "bewerbung-pflege",
+  "lv": "B2",
+  "t": "Bewerbung für einen Ausbildungsplatz",
+  "s": "Ein Pflegeheim bietet Ausbildungsplätze zur Pflegefachkraft an. Schreiben Sie eine Bewerbung.",
+  "p": [
+   "Warum möchten Sie diesen Beruf lernen?",
+   "Welche Erfahrungen haben Sie?",
+   "Was sind Ihre Stärken?",
+   "Bitten Sie um ein Vorstellungsgespräch."
+  ],
+  "ru": "Дом престарелых предлагает места для обучения на сотрудника по уходу. Почему эта профессия, опыт, сильные стороны, попросите о собеседовании.",
+  "w": 150,
+  "rm": [
+   "Sehr geehrte Frau …,",
+   "hiermit bewerbe ich mich um …",
+   "Schon in meiner Heimat …",
+   "Zu meinen Stärken gehören …",
+   "Über eine Einladung … würde ich mich freuen."
+  ],
+  "m": "Sehr geehrte Frau Hoffmann,\n\nhiermit bewerbe ich mich um einen Ausbildungsplatz zur Pflegefachkraft ab dem 1. September.\n\nIch möchte diesen Beruf lernen, weil mir die Arbeit mit Menschen sehr wichtig ist. Schon in meiner Heimat habe ich mich mehrere Jahre um meine kranke Großmutter gekümmert. In Deutschland habe ich ein dreimonatiges Praktikum in einem Altenheim gemacht. Dort habe ich bei der Körperpflege und beim Essen geholfen und viel mit den Bewohnern gesprochen.\n\nZu meinen Stärken gehören Geduld, Zuverlässigkeit und Freundlichkeit. Außerdem kann ich auch in stressigen Situationen ruhig bleiben. Zurzeit verbessere ich mein Deutsch in einem B2-Kurs.\n\nÜber eine Einladung zu einem persönlichen Gespräch würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ }
 ]

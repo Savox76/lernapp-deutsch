@@ -1,0 +1,116 @@
+# Zeit, Familie, Feste, Orte und Redemittel
+Tag|der|Tage|N|день|24 Stunden|Schönen Tag noch!|B1|Zeit
+Woche|die|Wochen|N|неделя|sieben Tage|Nächste Woche habe ich Urlaub.|B1|Zeit
+Jahr|das|Jahre|N|год|zwölf Monate|Ich wohne seit einem Jahr hier.|B1|Zeit
+Stunde|die|Stunden|N|час|60 Minuten|Der Kurs dauert zwei Stunden.|B1|Zeit
+Minute|die|Minuten|N|минута|60 Sekunden|Ich komme in fünf Minuten.|B1|Zeit
+Morgen|der|Morgen|N|утро|der Anfang des Tages|Am Morgen trinke ich Kaffee.|B1|Zeit
+Mittag|der|Mittage|N|полдень|12 Uhr, Mitte des Tages|Zu Mittag esse ich warm.|B1|Zeit
+Abend|der|Abende|N|вечер|die Zeit nach dem Nachmittag|Am Abend lese ich.|B1|Zeit
+Nacht|die|Nächte|N|ночь|wenn es dunkel ist und man schläft|Gute Nacht!|B1|Zeit
+Datum|das|Daten|N|дата|Tag, Monat und Jahr|Welches Datum ist heute?|B1|Zeit
+Kalender|der|Kalender|N|календарь|Liste der Tage im Jahr|Ich schreibe den Termin in meinen Kalender.|B1|Zeit
+Anfang|der|Anfänge|N|начало|der erste Teil|Am Anfang war alles neu.|B1|Zeit
+Mitte|die|(kein Plural)|N|середина|in der Mitte von etwas|Mitte Mai fahren wir in Urlaub.|B1|Zeit
+Vergangenheit|die|(kein Plural)|N|прошлое|die Zeit, die vorbei ist|In der Vergangenheit war vieles anders.|B1|Zeit
+Gegenwart|die|(kein Plural)|N|настоящее|die Zeit jetzt|Wir leben in der Gegenwart.|B2|Zeit
+Moment|der|Momente|N|момент|ein kurzer Zeitpunkt|Einen Moment, bitte!|B1|Zeit
+Pünktlichkeit|die|(kein Plural)|N|пунктуальность|immer zur richtigen Zeit|In Deutschland ist Pünktlichkeit wichtig.|B1|Zeit
+vorgestern|-|-|Adv|позавчера|vor zwei Tagen|Vorgestern war ich beim Arzt.|B1|Zeit
+übermorgen|-|-|Adv|послезавтра|in zwei Tagen|Übermorgen habe ich Geburtstag.|B1|Zeit
+heute Morgen|-|-|R|сегодня утром|am Morgen von heute|Heute Morgen war es sehr kalt.|B1|Zeit
+morgen früh|-|-|R|завтра утром|am Morgen von morgen|Morgen früh fahre ich los.|B1|Zeit
+gestern Abend|-|-|R|вчера вечером|am Abend von gestern|Gestern Abend waren wir im Kino.|B1|Zeit
+am Anfang|-|-|R|в начале|zuerst|Am Anfang war es schwer.|B1|Zeit
+zum Schluss|-|-|R|в конце|am Ende|Zum Schluss möchte ich mich bedanken.|B1|Zeit
+vor kurzem|-|-|R|недавно|vor kurzer Zeit|Vor kurzem bin ich umgezogen.|B1|Zeit
+in Zukunft|-|-|R|в будущем|später, ab jetzt|In Zukunft möchte ich mehr Sport machen.|B1|Zeit
+ab und zu|-|-|R|время от времени|manchmal|Ab und zu gehen wir essen.|B1|Zeit
+Familie|die|Familien|N|семья|Eltern und Kinder|Meine Familie wohnt in Kasachstan.|B1|Familie
+Mutter|die|Mütter|N|мать|weibliches Elternteil|Meine Mutter ist 60 Jahre alt.|B1|Familie
+Vater|der|Väter|N|отец|männliches Elternteil|Mein Vater arbeitet noch.|B1|Familie
+Sohn|der|Söhne|N|сын|männliches Kind|Unser Sohn ist acht.|B1|Familie
+Tochter|die|Töchter|N|дочь|weibliches Kind|Meine Tochter geht in die Kita.|B1|Familie
+Bruder|der|Brüder|N|брат|männliches Geschwister|Mein Bruder wohnt in Berlin.|B1|Familie
+Schwester|die|Schwestern|N|сестра|weibliches Geschwister|Meine Schwester ist Lehrerin.|B1|Familie
+Oma|die|Omas|N|бабушка|Mutter der Mutter oder des Vaters|Oma backt den besten Kuchen.|B1|Familie
+Opa|der|Opas|N|дедушка|Vater der Mutter oder des Vaters|Opa erzählt gern Geschichten.|B1|Familie
+Enkel|der|Enkel|N|внук|Kind des Sohnes oder der Tochter|Meine Mutter hat drei Enkel.|B1|Familie
+Onkel|der|Onkel|N|дядя|Bruder der Mutter oder des Vaters|Mein Onkel lebt in Kanada.|B1|Familie
+Tante|die|Tanten|N|тётя|Schwester der Mutter oder des Vaters|Meine Tante kommt zu Besuch.|B1|Familie
+Cousin|der|Cousins|N|двоюродный брат|Sohn von Onkel oder Tante|Mein Cousin studiert in Leipzig.|B1|Familie
+Cousine|die|Cousinen|N|двоюродная сестра|Tochter von Onkel oder Tante|Meine Cousine heiratet im Mai.|B1|Familie
+Partner|der|Partner|N|партнёр|Person, mit der man zusammenlebt|Wohnen Sie mit Ihrem Partner zusammen?|B1|Familie
+Freund|der|Freunde|N|друг; парень|eine Person, die man mag; fester Partner|Mein Freund kommt aus Polen.|B1|Familie
+Freundin|die|Freundinnen|N|подруга; девушка|eine Frau, die man mag; feste Partnerin|Ich treffe heute meine Freundin.|B1|Familie
+Bekannte|der/die|Bekannten|R|знакомый, знакомая|Person, die man kennt, aber kein enger Freund|Ein Bekannter hat mir die Wohnung empfohlen.|B1|Familie
+Kindheit|die|(kein Plural)|N|детство|die Zeit, als man ein Kind war|Ich hatte eine schöne Kindheit.|B1|Familie
+Ehe|die|Ehen|N|брак|wenn zwei Menschen verheiratet sind|Ihre Ehe ist sehr glücklich.|B1|Familie
+Scheidung|die|Scheidungen|N|развод|das offizielle Ende einer Ehe|Nach der Scheidung zog sie um.|B1|Familie
+Geburtstag|der|Geburtstage|N|день рождения|Tag, an dem man geboren ist|Herzlichen Glückwunsch zum Geburtstag!|B1|Feste
+Weihnachten|das|Weihnachten|N|Рождество|Fest am 24. bis 26. Dezember|Zu Weihnachten besuchen wir die Familie.|B1|Feste
+Ostern|das|Ostern|N|Пасха|christliches Fest im Frühling|An Ostern suchen die Kinder Eier.|B1|Feste
+Silvester|das|Silvester|N|канун Нового года|der 31. Dezember|An Silvester gibt es ein Feuerwerk.|B1|Feste
+Neujahr|das|(kein Plural)|N|Новый год (1 января)|der 1. Januar|Frohes Neujahr!|B1|Feste
+Feier|die|Feiern|N|праздник, торжество|ein Fest|Die Feier beginnt um 18 Uhr.|B1|Feste
+Party|die|Partys|N|вечеринка|ein lustiges Fest|Kommst du zu meiner Party?|B1|Feste
+Gast|der|Gäste|N|гость|Person, die man einlädt|Wir haben am Samstag Gäste.|B1|Feste
+Glückwunsch|der|Glückwünsche|N|поздравление|gute Wünsche|Herzlichen Glückwunsch!|B1|Feste
+Stadtzentrum|das|Stadtzentren|N|центр города|die Mitte der Stadt|Wir wohnen nicht im Stadtzentrum.|B1|Orte
+Stadtteil|der|Stadtteile|N|район города|Teil einer Stadt|In welchem Stadtteil wohnst du?|B1|Orte
+Dorf|das|Dörfer|N|деревня|ein kleiner Ort auf dem Land|Meine Eltern leben in einem Dorf.|B1|Orte
+Rathaus|das|Rathäuser|N|ратуша|Gebäude der Stadtverwaltung|Das Bürgeramt ist im Rathaus.|B1|Orte
+Kirche|die|Kirchen|N|церковь|Gebäude für den Gottesdienst|Die Kirche ist sehr alt.|B1|Orte
+Markt|der|Märkte|N|рынок|Ort, wo man draußen einkauft|Samstags gehe ich auf den Markt.|B1|Orte
+Bäckerei|die|Bäckereien|N|пекарня|Geschäft für Brot und Brötchen|Die Bäckerei öffnet um sechs.|B1|Orte
+Metzgerei|die|Metzgereien|N|мясная лавка|Geschäft für Fleisch und Wurst|In der Metzgerei kaufe ich Hackfleisch.|B1|Orte
+Kaufhaus|das|Kaufhäuser|N|универмаг|großes Geschäft mit vielen Abteilungen|Im Kaufhaus gibt es alles.|B1|Orte
+Bibliothek|die|Bibliotheken|N|библиотека|Ort, wo man Bücher ausleihen kann|Ich leihe Bücher in der Bibliothek aus.|B1|Orte
+Museum|das|Museen|N|музей|Ort mit Ausstellungen|Das Museum ist montags geschlossen.|B1|Orte
+Kino|das|Kinos|N|кинотеатр|Ort, wo man Filme sieht|Gehen wir ins Kino?|B1|Orte
+Theater|das|Theater|N|театр|Ort für Theaterstücke|Wir haben Karten fürs Theater.|B1|Orte
+Schwimmbad|das|Schwimmbäder|N|бассейн|Ort zum Schwimmen|Im Sommer gehen wir ins Schwimmbad.|B1|Orte
+Spielplatz|der|Spielplätze|N|детская площадка|Ort, wo Kinder draußen spielen|Die Kinder sind auf dem Spielplatz.|B1|Orte
+Polizei|die|(kein Plural)|N|полиция|sorgt für Sicherheit|Rufen Sie die Polizei!|B1|Orte
+Feuerwehr|die|Feuerwehren|N|пожарная служба|löscht Feuer|Die Feuerwehr kam sehr schnell.|B1|Orte
+Gebäude|das|Gebäude|N|здание|ein Haus|Das Gebäude ist sehr modern.|B1|Orte
+Eingang|der|Eingänge|N|вход|wo man hineingeht|Der Eingang ist auf der Rückseite.|B1|Orte
+Ausgang|der|Ausgänge|N|выход|wo man hinausgeht|Wo ist der Ausgang?|B1|Orte
+Erdgeschoss|das|Erdgeschosse|N|первый (цокольный) этаж|die Etage auf der Höhe der Straße|Die Praxis ist im Erdgeschoss.|B1|Orte
+Schalter|der|Schalter|N|окошко (в учреждении); выключатель|Platz, wo man bedient wird; Knopf für Licht|Bitte gehen Sie zu Schalter 4.|B1|Behörden
+Wie bitte?|-|-|R|Что, простите?|man hat etwas nicht verstanden|Wie bitte? Können Sie das wiederholen?|B1|Redemittel
+Wie geht es Ihnen?|-|-|R|Как у вас дела?|höfliche Frage nach dem Befinden|Guten Tag, Frau Müller, wie geht es Ihnen?|B1|Redemittel
+Es tut mir leid.|-|-|R|Мне жаль. / Извините.|Entschuldigung|Es tut mir leid, ich bin zu spät.|B1|Redemittel
+Keine Ursache.|-|-|R|Не за что.|Antwort auf „Danke“|Danke für die Hilfe! – Keine Ursache.|B1|Redemittel
+Gern geschehen.|-|-|R|Пожалуйста. (в ответ на спасибо)|Antwort auf „Danke“|Vielen Dank! – Gern geschehen.|B1|Redemittel
+Das macht nichts.|-|-|R|Ничего страшного.|es ist kein Problem|Entschuldigung! – Das macht nichts.|B1|Redemittel
+Alles klar.|-|-|R|Всё ясно. / Хорошо.|ich habe verstanden, okay|Alles klar, bis morgen!|B1|Redemittel
+Ich habe eine Frage.|-|-|R|У меня вопрос.|so beginnt man eine Frage|Entschuldigung, ich habe eine Frage.|B1|Redemittel
+Könnten Sie das bitte wiederholen?|-|-|R|Не могли бы вы повторить?|höfliche Bitte|Könnten Sie das bitte wiederholen? Ich habe es nicht verstanden.|B1|Redemittel
+Was bedeutet …?|-|-|R|Что означает …?|Frage nach der Bedeutung|Was bedeutet „Kaution“?|B1|Redemittel
+Wie sagt man … auf Deutsch?|-|-|R|Как сказать … по-немецки?|Frage nach einem Wort|Wie sagt man „пылесос“ auf Deutsch?|B1|Redemittel
+Ich bin dafür, dass …|-|-|R|Я за то, чтобы …|man ist einverstanden|Ich bin dafür, dass wir zusammen kochen.|B1|Redemittel
+Ich bin dagegen, weil …|-|-|R|Я против, потому что …|man ist nicht einverstanden|Ich bin dagegen, weil es zu teuer ist.|B1|Redemittel
+Da hast du recht.|-|-|R|Тут ты прав(а).|man stimmt zu|Da hast du recht, das ist besser.|B1|Redemittel
+Das stimmt nicht ganz.|-|-|R|Это не совсем так.|höflich widersprechen|Das stimmt nicht ganz, der Kurs beginnt um neun.|B1|Redemittel
+Ich sehe das genauso.|-|-|R|Я считаю так же.|man hat die gleiche Meinung|Ich sehe das genauso wie du.|B1|Redemittel
+Was hältst du davon?|-|-|R|Что ты об этом думаешь?|Frage nach der Meinung|Was hältst du davon, wenn wir am Samstag fahren?|B1|Redemittel
+Wollen wir …?|-|-|R|Давай …?|ein Vorschlag|Wollen wir zusammen einkaufen gehen?|B1|Redemittel
+Das klingt gut.|-|-|R|Звучит хорошо.|man findet den Vorschlag gut|Picknick am See? Das klingt gut!|B1|Redemittel
+Leider kann ich nicht, weil …|-|-|R|К сожалению, не могу, потому что …|höflich absagen|Leider kann ich nicht, weil ich arbeiten muss.|B1|Redemittel
+Wann passt es dir?|-|-|R|Когда тебе удобно?|nach einem Termin fragen|Wann passt es dir am besten?|B1|Redemittel
+Geht es auch am …?|-|-|R|А в … можно?|einen anderen Termin vorschlagen|Geht es auch am Dienstag?|B1|Redemittel
+Auf dem Bild sieht man …|-|-|R|На картинке видно …|Bildbeschreibung beginnen|Auf dem Bild sieht man zwei Kinder.|B1|Redemittel
+Ich vermute, dass …|-|-|R|Я предполагаю, что …|eine Vermutung äußern|Ich vermute, dass die Frau Ärztin ist.|B2|Redemittel
+Das erinnert mich an …|-|-|R|Это напоминает мне о …|eine Verbindung zu eigenen Erfahrungen|Das Bild erinnert mich an meine Kindheit.|B1|Redemittel
+Zusammenfassend kann man sagen, …|-|-|R|Подводя итог, можно сказать …|am Ende einen Text zusammenfassen|Zusammenfassend kann man sagen, dass beide Seiten recht haben.|B2|Redemittel
+Mit freundlichen Grüßen (Abkürzung MfG)|-|-|R|С уважением|formeller Gruß|Bitte nicht „MfG“ in der Prüfung schreiben!|B1|Briefe
+Sehr geehrte Frau …,|-|-|R|Уважаемая госпожа …,|formelle Anrede an eine Frau|Sehr geehrte Frau Schmidt, vielen Dank für Ihre E-Mail.|B1|Briefe
+Sehr geehrter Herr …,|-|-|R|Уважаемый господин …,|formelle Anrede an einen Mann|Sehr geehrter Herr Wolf, ich schreibe Ihnen wegen …|B1|Briefe
+Ich freue mich auf Ihre Antwort.|-|-|R|Жду вашего ответа.|formeller Briefschluss|Ich freue mich auf Ihre Antwort.|B1|Briefe
+Könnten Sie mir bitte mitteilen, …|-|-|R|Не могли бы вы сообщить мне, …|höfliche Bitte im Brief|Könnten Sie mir bitte mitteilen, wann der Kurs beginnt?|B1|Briefe
+Anbei sende ich Ihnen …|-|-|R|Прилагаю …|man schickt etwas mit|Anbei sende ich Ihnen meinen Lebenslauf.|B2|Briefe
+Leider war ich mit … nicht zufrieden.|-|-|R|К сожалению, я была недовольна …|Beschwerde formulieren|Leider war ich mit dem Service nicht zufrieden.|B1|Briefe
+Ich erwarte, dass …|-|-|R|Я ожидаю, что …|eine Forderung im Brief|Ich erwarte, dass Sie den Schaden bezahlen.|B2|Briefe
+Bitte entschuldigen Sie, dass …|-|-|R|Прошу прощения за то, что …|sich im Brief entschuldigen|Bitte entschuldigen Sie, dass ich mich erst jetzt melde.|B1|Briefe
+Liebe Grüße|-|-|R|С любовью / Всего хорошего (неформально)|informeller Gruß|Liebe Grüße an deine Familie!|B1|Briefe

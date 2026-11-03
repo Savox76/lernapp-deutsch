@@ -1,0 +1,62 @@
+# Familie, Freizeit, Reisen, Einkaufen
+Mein Sohn *geht* in die zweite Klasse.|Мой сын учится во втором классе.|B1|in die Klasse gehen.|Familie
+Meine Tochter *ist* fünf Jahre alt und *geht* in die Kita.|Моей дочери пять лет, она ходит в детский сад.|B1|und verbindet zwei Hauptsätze; Subjekt fällt weg.|Familie
+Die Kita *schließt* um 16 Uhr.|Детский сад закрывается в 16 часов.|B1|Verb auf Position 2.|Familie
+Heute *holt* mein Mann die Kinder ab.|Сегодня детей забирает мой муж.|B1|abholen: holt … ab.|Familie
+Am Donnerstag *ist* Elternabend in der Schule.|В четверг в школе родительское собрание.|B1|Zeit auf Position 1.|Familie
+Die Lehrerin *hat* gesagt, dass mein Sohn mehr lesen *soll*.|Учительница сказала, что сыну нужно больше читать.|B1|dass + soll am Ende.|Familie
+Meine Kinder *sprechen* besser Deutsch als ich.|Мои дети говорят по-немецки лучше, чем я.|B1|Komparativ + als.|Familie
+Zu Hause *sprechen* wir Russisch.|Дома мы говорим по-русски.|B1|zu Hause auf Position 1.|Familie
+Meine Eltern *kommen* uns im Sommer besuchen.|Мои родители приедут к нам летом в гости.|B1|kommen + Infinitiv am Ende.|Familie
+Ich *telefoniere* jeden Sonntag mit meiner Mutter.|Я каждое воскресенье разговариваю с мамой по телефону.|B1|telefonieren mit + Dativ.|Familie
+Meine Schwester *hat* letzte Woche ein Baby bekommen.|На прошлой неделе моя сестра родила ребёнка.|B1|ein Baby bekommen.|Familie
+Wir *haben* uns vor zehn Jahren kennengelernt.|Мы познакомились десять лет назад.|B1|vor + Dativ = Zeit in der Vergangenheit.|Familie
+Nächstes Jahr *feiern* wir unseren zehnten Hochzeitstag.|В следующем году мы празднуем десятую годовщину свадьбы.|B1|Zeit auf Position 1.|Familie
+Die Kinder *streiten* sich oft um das Tablet.|Дети часто ссорятся из-за планшета.|B1|sich streiten um + Akkusativ.|Familie
+Am Abend *lese* ich den Kindern eine Geschichte vor.|Вечером я читаю детям сказку.|B1|vorlesen: lese … vor; Dativ vor Akkusativ.|Familie
+Kannst du heute Abend auf die Kinder aufpassen?|Можешь сегодня вечером присмотреть за детьми?|B1|aufpassen auf + Akkusativ.|Familie
+Am Samstag *spielt* mein Sohn Fußball im Verein.|В субботу мой сын играет в футбол в клубе.|B1|Zeit → Verb → Subjekt.|Freizeit
+Ich *gehe* zweimal pro Woche ins Fitnessstudio.|Я хожу в спортзал два раза в неделю.|B1|zweimal pro Woche.|Freizeit
+Im Winter *gehen* wir gern Schlittschuh laufen.|Зимой мы любим кататься на коньках.|B1|gehen + Infinitiv.|Freizeit
+Hast du Lust, am Sonntag Fahrrad zu fahren?|Хочешь в воскресенье покататься на велосипеде?|B1|Lust haben + zu + Infinitiv.|Freizeit
+Leider *habe* ich am Sonntag schon etwas vor.|К сожалению, в воскресенье у меня уже есть планы.|B1|etwas vorhaben: habe … vor.|Freizeit
+Wollen wir uns am Samstag im Café treffen?|Давай встретимся в субботу в кафе?|B1|Vorschlag als Frage.|Freizeit
+Gute Idee, ich *komme* gern mit.|Хорошая идея, я с удовольствием пойду.|B1|mitkommen: komme … mit.|Freizeit
+Der Film *hat* mir sehr gut gefallen.|Фильм мне очень понравился.|B1|gefallen + Dativ; Perfekt.|Freizeit
+Am Wochenende *haben* wir einen Ausflug in die Sächsische Schweiz gemacht.|В выходные мы съездили в Саксонскую Швейцарию.|B1|Perfekt: haben … gemacht.|Freizeit
+Im Sommer *fahren* wir mit dem Auto an die Ostsee.|Летом мы едем на машине на Балтийское море.|B1|an + Akkusativ (wohin?).|Reisen
+Wir *waren* zwei Wochen am Meer.|Мы были две недели на море.|B1|an + Dativ (wo?).|Reisen
+Ich *habe* das Hotel schon im Januar gebucht.|Я забронировала отель ещё в январе.|B1|Perfekt: habe … gebucht.|Reisen
+Wie komme ich am schnellsten zum Hauptbahnhof?|Как быстрее всего добраться до главного вокзала?|B1|W-Frage; am schnellsten = Superlativ.|Reisen
+Nehmen Sie die Linie 7 bis zur Haltestelle Postplatz.|Садитесь на седьмой маршрут до остановки Постплац.|B1|Imperativ mit Sie.|Verkehr
+Dort *müssen* Sie in die Linie 3 umsteigen.|Там вам нужно пересесть на третий маршрут.|B1|dort → Modalverb; umsteigen am Ende.|Verkehr
+Der Zug *fällt* heute wegen eines Streiks aus.|Поезд сегодня отменён из-за забастовки.|B1|ausfallen: fällt … aus.|Verkehr
+Wir *haben* unseren Anschlusszug verpasst.|Мы опоздали на пересадку.|B1|Perfekt: haben … verpasst.|Verkehr
+Am Flughafen *mussten* wir zwei Stunden warten.|В аэропорту нам пришлось ждать два часа.|B1|Präteritum von müssen.|Reisen
+Mein Koffer *ist* leider nicht angekommen.|Мой чемодан, к сожалению, не прибыл.|B1|ankommen im Perfekt mit sein.|Reisen
+Wo *kann* ich eine Fahrkarte kaufen?|Где можно купить билет?|B1|W-Frage mit Modalverb.|Verkehr
+Ich *hätte* gern eine Fahrkarte nach Leipzig, hin und zurück.|Мне, пожалуйста, билет до Лейпцига туда и обратно.|B1|höflich bestellen.|Verkehr
+Ich *suche* eine Winterjacke in Größe 40.|Я ищу зимнюю куртку 40-го размера.|B1|in Größe … .|Einkaufen
+Kann ich die Hose anprobieren?|Можно примерить брюки?|B1|anprobieren am Ende.|Einkaufen
+Die Umkleidekabinen *sind* dort hinten links.|Примерочные вон там сзади слева.|B1|Ortsangabe nach dem Verb.|Einkaufen
+Die Schuhe *sind* mir leider zu klein.|Ботинки мне, к сожалению, малы.|B1|zu + Adjektiv + Dativ.|Einkaufen
+Haben Sie die Schuhe auch eine Nummer größer?|У вас есть эта обувь на размер больше?|B1|Ja/Nein-Frage.|Einkaufen
+Ich *nehme* die blaue Jacke.|Я беру синюю куртку.|B1|Adjektiv nach die: blaue.|Einkaufen
+Kann ich mit Karte bezahlen?|Можно оплатить картой?|B1|mit + Dativ.|Einkaufen
+Brauchen Sie eine Tüte?|Вам нужен пакет?|B1|Ja/Nein-Frage.|Einkaufen
+Der Fernseher *war* im Angebot, deshalb *habe* ich ihn sofort gekauft.|Телевизор был по акции, поэтому я его сразу купила.|B1|deshalb → Verb sofort; Pronomen ihn früh.|Einkaufen
+Ich *möchte* diese Hose umtauschen, weil sie nicht *passt*.|Я хочу обменять эти брюки, потому что они не подходят.|B1|weil → passt am Ende.|Einkaufen
+Haben Sie noch den Kassenbon?|У вас ещё есть чек?|B1|Ja/Nein-Frage.|Einkaufen
+Ohne Kassenbon *können* wir die Ware leider nicht zurücknehmen.|Без чека мы, к сожалению, не можем принять товар обратно.|B1|ohne + Akkusativ auf Position 1.|Einkaufen
+Ich *kaufe* lieber im Geschäft ein als im Internet.|Я предпочитаю покупать в магазине, а не в интернете.|B1|lieber … als.|Einkaufen
+Im Internet *kann* man die Preise leicht vergleichen.|В интернете легко сравнивать цены.|B1|im Internet auf Position 1.|Einkaufen
+Die Lieferung *dauert* drei bis fünf Werktage.|Доставка занимает от трёх до пяти рабочих дней.|B1|Verb auf Position 2.|Einkaufen
+Für das Abendessen *brauchen* wir noch Tomaten und Zwiebeln.|Для ужина нам ещё нужны помидоры и лук.|B1|für + Akkusativ auf Position 1.|Ernährung
+Was *möchtest* du heute kochen?|Что ты хочешь сегодня приготовить?|B1|W-Frage mit Modalverb.|Ernährung
+Ich *mache* heute Borschtsch, das *ist* unser Lieblingsessen.|Сегодня я варю борщ, это наше любимое блюдо.|B1|zwei Hauptsätze mit Komma.|Ernährung
+Zuerst *schneidet* man das Gemüse klein.|Сначала мелко режут овощи.|B1|kleinschneiden: schneidet … klein.|Ernährung
+Danach *kocht* man alles zwanzig Minuten.|Потом всё варят двадцать минут.|B1|danach → Verb.|Ernährung
+Möchten Sie bestellen?|Вы готовы сделать заказ?|B1|Modalverb-Frage.|Ernährung
+Ich *hätte* gern die Tomatensuppe und ein Wasser.|Мне, пожалуйста, томатный суп и воду.|B1|hätte gern = ich möchte.|Ernährung
+Können wir bitte zahlen?|Можно, пожалуйста, счёт?|B1|Höfliche Frage.|Ernährung
+Das Essen *war* sehr lecker, vielen Dank!|Еда была очень вкусной, большое спасибо!|B1|Präteritum von sein.|Ernährung

@@ -1,0 +1,53 @@
+# Drill: derselbe Inhalt mit verschiedenen Konnektoren (Verbposition vergleichen)
+Ich *gehe* nicht zur Arbeit, weil ich krank *bin*.|Я не иду на работу, потому что болею.|B1|weil → Verb ganz am Ende.|Drill
+Ich *gehe* nicht zur Arbeit, denn ich *bin* krank.|Я не иду на работу, ведь я болею.|B1|denn → Verb auf Position 2.|Drill
+Ich *bin* krank, deshalb *gehe* ich nicht zur Arbeit.|Я болею, поэтому не иду на работу.|B1|deshalb → Verb sofort danach.|Drill
+Weil ich krank *bin*, *gehe* ich nicht zur Arbeit.|Так как я болею, я не иду на работу.|B1|Nebensatz zuerst → Hauptsatz beginnt mit dem Verb.|Drill
+Es *regnet*, trotzdem *gehen* wir spazieren.|Идёт дождь, но мы всё равно идём гулять.|B1|trotzdem → Verb sofort danach.|Drill
+Obwohl es *regnet*, *gehen* wir spazieren.|Хотя идёт дождь, мы идём гулять.|B1|obwohl-Satz zuerst → Verb vorn.|Drill
+Wir *gehen* spazieren, obwohl es *regnet*.|Мы идём гулять, хотя идёт дождь.|B1|obwohl → Verb am Ende.|Drill
+Wir *gehen* spazieren, aber es *regnet*.|Мы идём гулять, но идёт дождь.|B1|aber → Verb auf Position 2.|Drill
+Ich *habe* Hunger, deshalb *mache* ich mir ein Brot.|Я голодна, поэтому делаю себе бутерброд.|B1|deshalb → Verb sofort danach.|Drill
+Ich *mache* mir ein Brot, weil ich Hunger *habe*.|Я делаю себе бутерброд, потому что голодна.|B1|weil → Verb am Ende.|Drill
+Ich *weiß*, dass er heute *kommt*.|Я знаю, что он сегодня придёт.|B1|dass → Verb am Ende.|Drill
+Ich *weiß* nicht, ob er heute *kommt*.|Я не знаю, придёт ли он сегодня.|B1|ob → Verb am Ende.|Drill
+Ich *weiß* nicht, wann er heute *kommt*.|Я не знаю, когда он сегодня придёт.|B1|wann → Verb am Ende.|Drill
+Er *kommt* heute.|Он сегодня придёт.|B1|Hauptsatz: Verb auf Position 2.|Drill
+Heute *kommt* er.|Сегодня он придёт.|B1|heute zuerst → Verb, dann Subjekt.|Drill
+Er *kann* heute kommen.|Он может прийти сегодня.|B1|Modalverb Position 2, Infinitiv am Ende.|Drill
+Heute *kann* er kommen.|Сегодня он может прийти.|B1|heute zuerst → Modalverb → Subjekt → Infinitiv.|Drill
+Ich *glaube*, dass er heute kommen *kann*.|Я думаю, что он сможет прийти сегодня.|B1|dass: Modalverb ganz am Ende, nach dem Infinitiv.|Drill
+Er *ist* gestern gekommen.|Он пришёл вчера.|B1|Perfekt: ist … gekommen.|Drill
+Gestern *ist* er gekommen.|Вчера он пришёл.|B1|gestern zuerst → ist → er → gekommen.|Drill
+Ich *weiß*, dass er gestern gekommen *ist*.|Я знаю, что он пришёл вчера.|B1|dass: ist ganz am Ende, nach dem Partizip.|Drill
+Der Bus *kommt* um acht Uhr an.|Автобус прибывает в восемь часов.|B1|trennbares Verb: kommt … an.|Drill
+Um acht Uhr *kommt* der Bus an.|В восемь часов прибывает автобус.|B1|Zeit zuerst; an bleibt am Ende.|Drill
+Ich *weiß*, dass der Bus um acht Uhr *ankommt*.|Я знаю, что автобус прибывает в восемь.|B1|Nebensatz: ankommt zusammen am Ende.|Drill
+Der Bus *muss* um acht Uhr ankommen.|Автобус должен прибыть в восемь.|B1|Modalverb + ankommen zusammen am Ende.|Drill
+Ich *rufe* dich morgen an.|Я позвоню тебе завтра.|B1|anrufen: rufe … an.|Drill
+Morgen *rufe* ich dich an.|Завтра я тебе позвоню.|B1|morgen zuerst → rufe → ich → dich → an.|Drill
+Ich *habe* dich gestern angerufen.|Я звонила тебе вчера.|B1|Perfekt: habe … angerufen.|Drill
+Ich *rufe* dich an, sobald ich zu Hause *bin*.|Я позвоню тебе, как только буду дома.|B1|sobald → bin am Ende.|Drill
+Sobald ich zu Hause *bin*, *rufe* ich dich an.|Как только буду дома, я тебе позвоню.|B1|Nebensatz zuerst → rufe vorn.|Drill
+Ich *lerne* Deutsch, um in Deutschland zu arbeiten.|Я учу немецкий, чтобы работать в Германии.|B1|um … zu: gleiche Person.|Drill
+Ich *lerne* Deutsch, damit meine Kinder stolz auf mich *sind*.|Я учу немецкий, чтобы мои дети гордились мной.|B1|damit: andere Person; Verb am Ende.|Drill
+Ich *gebe* dem Kind das Buch.|Я даю ребёнку книгу.|B1|zwei Nomen: Dativ vor Akkusativ.|Drill
+Ich *gebe* es dem Kind.|Я даю её ребёнку.|B1|Pronomen vor Nomen.|Drill
+Ich *gebe* ihm das Buch.|Я даю ему книгу.|B1|Pronomen (Dativ) vor Nomen (Akkusativ).|Drill
+Ich *gebe* es ihm.|Я даю её ему.|B1|zwei Pronomen: Akkusativ vor Dativ.|Drill
+Ich *kann* heute leider nicht kommen.|Я, к сожалению, не могу прийти сегодня.|B1|nicht vor dem Infinitiv am Ende.|Drill
+Ich *komme* heute nicht.|Я сегодня не приду.|B1|nicht am Ende des Satzes.|Drill
+Ich *komme* nicht heute, sondern morgen.|Я приду не сегодня, а завтра.|B1|nicht direkt vor dem Teil, der verneint wird.|Drill
+Das *ist* nicht mein Schlüssel.|Это не мой ключ.|B1|nicht vor dem verneinten Teil.|Drill
+Ich *habe* keinen Schlüssel.|У меня нет ключа.|B1|kein + Nomen statt nicht ein.|Drill
+Der Mann *wohnt* neben uns. Er *heißt* Peter.|Мужчина живёт рядом с нами. Его зовут Петер.|B1|zwei einfache Hauptsätze.|Drill
+Der Mann, der neben uns *wohnt*, *heißt* Peter.|Мужчину, который живёт рядом с нами, зовут Петер.|B1|Relativsatz: wohnt am Ende; danach heißt.|Drill
+Ich *kenne* den Mann, der neben uns *wohnt*.|Я знаю мужчину, который живёт рядом с нами.|B1|Relativsatz am Ende.|Drill
+Wenn ich Zeit *habe*, *helfe* ich dir.|Когда у меня есть время, я тебе помогаю.|B1|wenn = real.|Drill
+Wenn ich Zeit *hätte*, *würde* ich dir helfen.|Если бы у меня было время, я бы тебе помогла.|B2|wenn + Konjunktiv II = nicht real.|Drill
+Als ich Zeit *hatte*, *habe* ich dir geholfen.|Когда у меня было время, я тебе помогла.|B1|als = einmal in der Vergangenheit.|Drill
+Die Firma *repariert* das Auto.|Фирма чинит машину.|B2|Aktiv: Wer macht es?|Drill
+Das Auto *wird* repariert.|Машину чинят.|B2|Passiv Präsens: wird + Partizip.|Drill
+Das Auto *wurde* gestern repariert.|Машину починили вчера.|B2|Passiv Präteritum: wurde + Partizip.|Drill
+Das Auto *muss* repariert werden.|Машину нужно починить.|B2|Passiv mit Modalverb: muss … werden.|Drill
+Ich *lasse* das Auto reparieren.|Я отдаю машину в ремонт.|B2|lassen = jemand anders macht es.|Drill

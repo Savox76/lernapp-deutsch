@@ -1,0 +1,124 @@
+# Gesellschaft, Medien, Verkehr, Reisen, Geld, Nomen B2
+Alltag|der|(kein Plural)|N|повседневная жизнь|das normale Leben jeden Tag|Im Alltag spreche ich viel Deutsch.|B1|Alltag
+Ausweis (Personal-)|der|-|R|-|-|-|B1|-
+Personalausweis|der|Personalausweise|N|удостоверение личности (паспорт гражданина)|Dokument, das zeigt, wer man ist|Bitte zeigen Sie Ihren Personalausweis.|B1|Behörden
+Reisepass|der|Reisepässe|N|заграничный паспорт|Dokument für Reisen ins Ausland|Mein Reisepass ist noch fünf Jahre gültig.|B1|Behörden
+Visum|das|Visa|N|виза|Erlaubnis, in ein Land zu reisen|Für die Reise brauche ich ein Visum.|B1|Behörden
+Adresse|die|Adressen|N|адрес|wo man wohnt|Wie ist Ihre Adresse?|B1|Behörden
+Geburtsdatum|das|Geburtsdaten|N|дата рождения|Tag, an dem man geboren ist|Geben Sie bitte Ihr Geburtsdatum an.|B1|Behörden
+Familienstand|der|(kein Plural)|N|семейное положение|ledig, verheiratet, geschieden …|Familienstand: verheiratet.|B1|Behörden
+Staat|der|Staaten|N|государство|ein Land mit Regierung|Der Staat zahlt Kindergeld.|B2|Gesellschaft
+Regierung|die|Regierungen|N|правительство|die Leute, die ein Land leiten|Die Regierung plant neue Gesetze.|B2|Gesellschaft
+Partei|die|Parteien|N|партия|politische Gruppe|Welche Partei hat gewonnen?|B2|Gesellschaft
+Demokratie|die|Demokratien|N|демократия|das Volk wählt die Regierung|Deutschland ist eine Demokratie.|B1|Gesellschaft
+Grundgesetz|das|(kein Plural)|N|Основной закон (конституция ФРГ)|die Verfassung von Deutschland|Im Grundgesetz stehen die Grundrechte.|B1|Gesellschaft
+Bundesland|das|Bundesländer|N|федеральная земля|Teil von Deutschland, z. B. Sachsen|Deutschland hat 16 Bundesländer.|B1|Gesellschaft
+Hauptstadt|die|Hauptstädte|N|столица|die wichtigste Stadt eines Landes|Berlin ist die Hauptstadt von Deutschland.|B1|Gesellschaft
+Einwohner|der|Einwohner|N|житель|Person, die in einem Ort lebt|Dresden hat über 550 000 Einwohner.|B1|Gesellschaft
+Bevölkerung|die|(kein Plural)|N|население|alle Menschen in einem Land|Die Bevölkerung wird immer älter.|B2|Gesellschaft
+Gemeinde|die|Gemeinden|N|община, муниципалитет|kleine Stadt oder Dorf als Verwaltung|Die Gemeinde hat einen neuen Spielplatz gebaut.|B2|Gesellschaft
+Religion|die|Religionen|N|религия|Glaube an Gott|In Deutschland gibt es Religionsfreiheit.|B1|Gesellschaft
+Freiheit|die|Freiheiten|N|свобода|man darf selbst entscheiden|Die Meinungsfreiheit ist wichtig.|B1|Gesellschaft
+Sicherheit|die|(kein Plural)|N|безопасность|ohne Gefahr|Sicherheit ist mir wichtig.|B1|Gesellschaft
+Armut|die|(kein Plural)|N|бедность|wenn man sehr wenig Geld hat|Armut ist ein großes Problem.|B2|Gesellschaft
+Flüchtling|der|Flüchtlinge|N|беженец|Person, die aus ihrem Land fliehen musste|Viele Flüchtlinge lernen Deutsch.|B1|Gesellschaft
+Migration|die|(kein Plural)|N|миграция|wenn Menschen in ein anderes Land ziehen|Migration ist ein wichtiges Thema.|B2|Gesellschaft
+Nachbarland|das|Nachbarländer|N|соседняя страна|Land, das an ein anderes grenzt|Polen ist ein Nachbarland von Deutschland.|B1|Gesellschaft
+Generation|die|Generationen|N|поколение|Menschen im gleichen Alter|Die junge Generation lebt online.|B2|Gesellschaft
+Jugendliche|der/die|Jugendlichen|R|подросток|Person zwischen 14 und 18 Jahren|Viele Jugendliche haben ein Handy.|B1|Gesellschaft
+Senior|der|Senioren|N|пожилой человек|alter Mensch|Der Kurs ist für Senioren.|B1|Gesellschaft
+Behinderung|die|Behinderungen|N|инвалидность|körperliche oder geistige Einschränkung|Menschen mit Behinderung haben besondere Rechte.|B2|Gesellschaft
+Umfrage|die|Umfragen|N|опрос|viele Menschen werden gefragt|Laut einer Umfrage lesen Kinder weniger.|B2|Medien
+Statistik|die|Statistiken|N|статистика|Zahlen über ein Thema|Die Statistik zeigt, dass …|B2|Medien
+Ergebnis (Umfrage)|das|-|R|-|-|-|B1|-
+Prozent|das|Prozente|N|процент|von hundert|50 Prozent der Leute sind dafür.|B1|Medien
+Artikel|der|Artikel|N|статья; артикль|Text in der Zeitung; der/die/das|Ich habe einen Artikel über Schulen gelesen.|B1|Medien
+Zeitschrift|die|Zeitschriften|N|журнал|Heft mit Artikeln und Bildern|Sie liest gern Zeitschriften.|B1|Medien
+Radio|das|Radios|N|радио|Gerät zum Hören von Sendungen|Im Auto höre ich Radio.|B1|Medien
+Fernsehen|das|(kein Plural)|N|телевидение|Programme im Fernseher|Im Fernsehen läuft ein guter Film.|B1|Medien
+Nachrichten (TV)|die|-|R|-|-|-|B1|-
+Internetseite|die|Internetseiten|N|сайт|Seite im Internet|Die Informationen finden Sie auf unserer Internetseite.|B1|Medien
+Kommentar|der|Kommentare|N|комментарий|Meinung zu einem Text|Ich habe einen Kommentar geschrieben.|B1|Medien
+Daten|die|(nur Plural)|N|данные|Informationen, z. B. Name, Adresse|Bitte geben Sie Ihre Daten an.|B1|Medien
+Verkehr|der|(kein Plural)|N|движение (транспорт)|Autos, Busse und Menschen auf der Straße|Am Morgen ist viel Verkehr.|B1|Verkehr
+Verkehrsmittel|das|Verkehrsmittel|N|транспортное средство|Bus, Bahn, Auto …|Ich nutze öffentliche Verkehrsmittel.|B1|Verkehr
+Straßenbahn|die|Straßenbahnen|N|трамвай|Bahn in der Stadt|Ich fahre mit der Straßenbahn zur Arbeit.|B1|Verkehr
+U-Bahn|die|U-Bahnen|N|метро|Bahn unter der Erde|In Dresden gibt es keine U-Bahn.|B1|Verkehr
+Fahrplan|der|Fahrpläne|N|расписание (транспорта)|wann Bus und Bahn fahren|Hast du den Fahrplan?|B1|Verkehr
+Fahrkartenautomat|der|Fahrkartenautomaten|N|билетный автомат|Maschine für Tickets|Der Fahrkartenautomat nimmt nur Münzen.|B1|Verkehr
+Kontrolle|die|Kontrollen|N|контроль, проверка|man prüft etwas|In der Straßenbahn gab es eine Kontrolle.|B1|Verkehr
+Strafe|die|Strafen|N|штраф, наказание|Geld, das man wegen eines Fehlers zahlt|Ohne Ticket muss man eine Strafe zahlen.|B1|Verkehr
+Ampel|die|Ampeln|N|светофор|rotes, gelbes und grünes Licht|Bei Rot muss man an der Ampel warten.|B1|Verkehr
+Kreuzung|die|Kreuzungen|N|перекрёсток|wo sich zwei Straßen treffen|An der Kreuzung links abbiegen.|B1|Verkehr
+Parkplatz|der|Parkplätze|N|парковка|Platz für ein Auto|Ich finde keinen Parkplatz.|B1|Verkehr
+Tankstelle|die|Tankstellen|N|заправка|dort kauft man Benzin|Wir müssen noch tanken.|B1|Verkehr
+Benzin|das|(kein Plural)|N|бензин|Treibstoff für das Auto|Das Benzin ist teuer geworden.|B1|Verkehr
+Fußgänger|der|Fußgänger|N|пешеход|Person, die zu Fuß geht|Fußgänger haben hier Vorrang.|B1|Verkehr
+Radweg|der|Radwege|N|велодорожка|Weg für Fahrräder|Bitte fahr auf dem Radweg.|B1|Verkehr
+Richtung|die|Richtungen|N|направление|wohin man fährt oder geht|Fährt der Bus in Richtung Zentrum?|B1|Verkehr
+Entfernung|die|Entfernungen|N|расстояние|wie weit etwas weg ist|Die Entfernung beträgt zehn Kilometer.|B1|Verkehr
+abbiegen|-|biegt ab – bog ab – ist abgebogen|V|поворачивать|nach links oder rechts fahren|An der Ampel biegen Sie rechts ab.|B1|Verkehr
+tanken|-|tankt – tankte – hat getankt|V|заправлять (машину)|Benzin ins Auto füllen|Ich muss noch tanken.|B1|Verkehr
+überqueren|-|überquert – überquerte – hat überquert|V|переходить (улицу)|auf die andere Seite gehen|Überqueren Sie die Straße an der Ampel.|B2|Verkehr
+Urlaubsreise|die|Urlaubsreisen|N|отпускная поездка|Reise in den Ferien|Unsere Urlaubsreise geht nach Spanien.|B1|Reisen
+Reisebüro|das|Reisebüros|N|турагентство|Geschäft, das Reisen verkauft|Wir haben die Reise im Reisebüro gebucht.|B1|Reisen
+Flug|der|Flüge|N|полёт, рейс|Reise mit dem Flugzeug|Der Flug dauert drei Stunden.|B1|Reisen
+Koffer|der|Koffer|N|чемодан|große Tasche für Reisen|Mein Koffer ist zu schwer.|B1|Reisen
+Rucksack|der|Rucksäcke|N|рюкзак|Tasche auf dem Rücken|Ich nehme nur einen Rucksack mit.|B1|Reisen
+Sehenswürdigkeit|die|Sehenswürdigkeiten|N|достопримечательность|etwas, das Touristen sehen wollen|Die Frauenkirche ist eine bekannte Sehenswürdigkeit.|B1|Reisen
+Tourist|der|Touristen|N|турист|Person, die reist|Im Sommer kommen viele Touristen.|B1|Reisen
+Grenze|die|Grenzen|N|граница|Linie zwischen zwei Ländern|An der Grenze gab es eine Kontrolle.|B1|Reisen
+Halbpension|die|(kein Plural)|N|полупансион|Frühstück und Abendessen im Hotel|Wir haben ein Zimmer mit Halbpension.|B1|Reisen
+Rezeption|die|Rezeptionen|N|ресепшн|Empfang im Hotel|Der Schlüssel liegt an der Rezeption.|B1|Reisen
+Doppelzimmer|das|Doppelzimmer|N|двухместный номер|Zimmer für zwei Personen|Ein Doppelzimmer kostet 90 Euro.|B1|Reisen
+Einzelzimmer|das|Einzelzimmer|N|одноместный номер|Zimmer für eine Person|Haben Sie noch ein Einzelzimmer frei?|B1|Reisen
+Erholung|die|(kein Plural)|N|отдых, восстановление|Ausruhen, Kraft sammeln|Ich brauche dringend Erholung.|B1|Reisen
+Geld|das|(kein Plural)|N|деньги|damit bezahlt man|Ich habe kein Geld dabei.|B1|Geld
+Münze|die|Münzen|N|монета|Geld aus Metall|Hast du eine Münze für den Einkaufswagen?|B1|Geld
+Schein|der|Scheine|N|купюра|Geld aus Papier|Ich habe nur einen 50-Euro-Schein.|B1|Geld
+Kontonummer|die|Kontonummern|N|номер счёта|Nummer eines Bankkontos|Bitte geben Sie Ihre Kontonummer an.|B1|Geld
+Gebühren|die|-|R|-|-|-|B1|-
+Einkommen|das|Einkommen|N|доход|Geld, das man verdient|Unser Einkommen ist nicht sehr hoch.|B2|Geld
+Ausgaben|die|(Plural)|N|расходы|Geld, das man ausgibt|Wir müssen unsere Ausgaben reduzieren.|B2|Geld
+Einnahmen|die|(Plural)|N|поступления, доходы|Geld, das man bekommt|Die Einnahmen sind gestiegen.|B2|Geld
+Rechnung (Restaurant)|die|-|R|-|-|-|B1|-
+Trinkgeld|das|Trinkgelder|N|чаевые|extra Geld für den Kellner|In Deutschland gibt man etwa zehn Prozent Trinkgeld.|B1|Geld
+Vertrag (Handy)|der|-|R|-|-|-|B1|-
+Zinsen|die|(nur Plural)|N|проценты (по кредиту)|Geld, das man für einen Kredit zahlt|Die Zinsen für den Kredit sind hoch.|B2|Geld
+Ermäßigung (Preis)|die|-|R|-|-|-|B1|-
+Sozialamt|das|Sozialämter|N|ведомство социальной помощи|Amt für Menschen mit wenig Geld|Er hat beim Sozialamt Hilfe beantragt.|B2|Behörden
+Rentenversicherung|die|Rentenversicherungen|N|пенсионное страхование|Versicherung für die Rente|Ein Teil des Gehalts geht in die Rentenversicherung.|B2|Geld
+Steuererklärung|die|Steuererklärungen|N|налоговая декларация|Formular für das Finanzamt|Ich mache jedes Jahr eine Steuererklärung.|B2|Geld
+Finanzamt|das|Finanzämter|N|налоговая инспекция|Amt für Steuern|Das Finanzamt hat mir Geld zurückgezahlt.|B2|Geld
+Absicht (Plan)|die|-|R|-|-|-|B1|-
+Ablauf|der|Abläufe|N|ход, порядок (процесса)|wie etwas Schritt für Schritt passiert|Können Sie mir den Ablauf erklären?|B2|Alltag
+Angebot (Arbeit)|das|-|R|-|-|-|B1|-
+Anfrage|die|Anfragen|N|запрос|eine Frage an eine Firma|Vielen Dank für Ihre Anfrage.|B2|Briefe
+Antwort|die|Antworten|N|ответ|was man auf eine Frage sagt|Ich warte auf Ihre Antwort.|B1|Briefe
+Beschwerde|die|Beschwerden|N|жалоба|man sagt, dass man unzufrieden ist|Ich möchte eine Beschwerde einreichen.|B1|Briefe
+Bestätigung|die|Bestätigungen|N|подтверждение|ein Papier, dass etwas fest ist|Sie bekommen eine Bestätigung per E-Mail.|B1|Briefe
+Einverständnis|das|(kein Plural)|N|согласие|man ist einverstanden|Wir brauchen das Einverständnis der Eltern.|B2|Briefe
+Entschuldigung|die|Entschuldigungen|N|извинение|man sagt, dass es einem leidtut|Ich bitte um Entschuldigung.|B1|Briefe
+Erfahrung (Erlebnis)|die|-|R|-|-|-|B1|-
+Erinnerung|die|Erinnerungen|N|воспоминание; напоминание|was man von früher weiß|Ich habe schöne Erinnerungen an meine Kindheit.|B1|Alltag
+Gefühl|das|Gefühle|N|чувство|Freude, Angst, Liebe …|Ich habe ein gutes Gefühl.|B1|Alltag
+Geduld|die|(kein Plural)|N|терпение|ruhig warten können|Beim Sprachenlernen braucht man Geduld.|B1|Alltag
+Glück|das|(kein Plural)|N|счастье; удача|wenn etwas Gutes passiert|Viel Glück bei der Prüfung!|B1|Alltag
+Pech|das|(kein Plural)|N|невезение|wenn etwas Schlechtes passiert|So ein Pech! Der Bus ist weg.|B1|Alltag
+Sorge|die|Sorgen|N|забота, беспокойство|Angst, dass etwas Schlimmes passiert|Mach dir keine Sorgen!|B1|Alltag
+Spaß|der|(kein Plural)|N|удовольствие, веселье|Freude|Das Lernen macht mir Spaß.|B1|Alltag
+Freude|die|Freuden|N|радость|Gefühl, wenn man froh ist|Die Kinder haben große Freude am Schnee.|B1|Alltag
+Ärger|der|(kein Plural)|N|досада, неприятности|Gefühl, wenn man wütend ist; Probleme|Ich hatte Ärger mit dem Vermieter.|B1|Alltag
+Vertrauen|das|(kein Plural)|N|доверие|man glaubt, dass jemand ehrlich ist|Vertrauen ist in einer Beziehung wichtig.|B2|Familie
+Respekt|der|(kein Plural)|N|уважение|Achtung vor anderen|Wir behandeln alle mit Respekt.|B1|Gesellschaft
+Rücksicht|die|(kein Plural)|N|внимание к другим|man denkt an andere|Nehmen Sie bitte Rücksicht auf die Nachbarn.|B2|Wohnen
+Verständnis|das|(kein Plural)|N|понимание|man versteht die Situation|Danke für Ihr Verständnis.|B1|Briefe
+Voraussetzung (Bedingung)|die|-|R|-|-|-|B1|-
+Vorschlag|der|Vorschläge|N|предложение (идея)|eine Idee, was man machen kann|Hast du einen besseren Vorschlag?|B1|Meinung
+Wahrheit|die|Wahrheiten|N|правда|was wirklich ist|Sag mir bitte die Wahrheit.|B1|Meinung
+Zweifel|der|Zweifel|N|сомнение|man ist nicht sicher|Ich habe Zweifel, ob das richtig ist.|B2|Meinung
+Zustand|der|Zustände|N|состояние|wie etwas gerade ist|Die Wohnung ist in einem guten Zustand.|B2|Wohnen
+Veränderung|die|Veränderungen|N|изменение|wenn etwas anders wird|Der Umzug war eine große Veränderung.|B2|Alltag
+Verbesserung|die|Verbesserungen|N|улучшение|wenn etwas besser wird|Es gibt eine deutliche Verbesserung.|B2|Alltag
+Wirkung|die|Wirkungen|N|действие, эффект|was etwas bewirkt|Das Medikament zeigt schon Wirkung.|B2|Gesundheit
+Zukunftsplan|der|Zukunftspläne|N|план на будущее|was man später machen will|Was sind deine Zukunftspläne?|B1|Alltag
