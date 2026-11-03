@@ -34,7 +34,15 @@ function saveST() { LS.set("dl-stats", ST); }
 function saveSET() { LS.set("dl-set", SET); }
 
 function today() { const k = dayKey(); return ST.days[k] || (ST.days[k] = { n: 0, r: 0, sec: 0, t: {} }); }
-function log(type, ok, ref) {
+/* Antwortprotokoll für die Auswertung (letzte 6000 Antworten) */
+let LOG = LS.get("dl-log", []);
+function log(type, ok, ref, extra) {
+  const e = { t: Math.floor(Date.now() / 1000), y: type, o: ok ? 1 : 0 };
+  if (ref) e.i = ref;
+  if (extra) Object.assign(e, extra);
+  if (ref && SBYID[ref]) e.k = SBYID[ref].k;
+  LOG.push(e); if (LOG.length > 6000) LOG = LOG.slice(-6000);
+  LS.set("dl-log", LOG);
   const d = today(); d.n++; if (ok) d.r++;
   const t = d.t[type] || (d.t[type] = { n: 0, r: 0 }); t.n++; if (ok) t.r++;
   if (ref) {
@@ -87,6 +95,7 @@ async function loadContent() {
   const ex = w.filter(x => x.x && x.x.split(/\s+/).length >= 4 && x.x.split(/\s+/).length <= 16)
     .map(x => ({ id: "x" + x.id, de: x.x, ru: "", hint: (x.a ? x.a + " " : "") + x.w + " — " + x.ru, lv: x.lv, r: "", ex: true }));
   S = s.concat(ex);
+  S.forEach(x => x.k = categorize(x));
   WBYID = {}; W.forEach(x => WBYID[x.id] = x);
   SBYID = {}; S.forEach(x => SBYID[x.id] = x);
   const oldW = LS.get("dl-count", null);
@@ -94,6 +103,42 @@ async function loadContent() {
   if (oldW && (m.woerter > oldW.w || m.saetze > oldW.s)) {
     setTimeout(() => toast(`Neue Inhalte: +${Math.max(0, m.woerter - oldW.w)} Wörter, +${Math.max(0, m.saetze - oldW.s)} Sätze`, 4000), 600);
   }
+}
+
+/* ================= Grammatik-Kategorien ================= */
+const CATS = {
+  PASSIV: { l: "Passiv", ru: "Пассив (werden + Partizip II)", tip: "werden auf Position 2, Partizip II ans Ende." },
+  KONJ2: { l: "Konjunktiv II (würde, hätte, wäre)", ru: "Сослагательное наклонение", tip: "würde/hätte/wäre auf Position 2 (oder im Nebensatz am Ende)." },
+  RELATIV: { l: "Relativsatz (der, die, das …)", ru: "Придаточное с «который»", tip: "Im Relativsatz steht das Verb ganz am Ende." },
+  NS_ZUERST: { l: "Nebensatz am Anfang", ru: "Придаточное в начале", tip: "Nach dem Nebensatz kommt sofort das Verb: Weil ich krank bin, BLEIBE ich …" },
+  IND_FRAGE: { l: "Indirekte Frage (ob, wann, wie …)", ru: "Косвенный вопрос", tip: "Nach ob, wann, wie, wo … steht das Verb am Ende." },
+  NS: { l: "Nebensatz: Verb am Ende (weil, dass, wenn …)", ru: "Придаточное: глагол в конце", tip: "weil, dass, wenn, obwohl …: konjugiertes Verb ganz ans Ende." },
+  ZU_INF: { l: "Infinitiv mit zu / um … zu", ru: "Инфинитив с zu", tip: "zu + Infinitiv steht am Ende, bei trennbaren Verben in der Mitte: anzurufen." },
+  KONNEKTOR: { l: "deshalb, trotzdem, denn, aber …", ru: "Союзы и наречия-связки", tip: "denn/aber/und: Verb auf Position 2. deshalb/trotzdem: Verb sofort danach." },
+  FRAGE: { l: "Fragen und Aufforderungen", ru: "Вопросы и просьбы", tip: "Ja/Nein-Frage und Imperativ: Verb auf Position 1. W-Frage: Verb auf Position 2." },
+  KLAMMER: { l: "Satzklammer (Modalverb, Perfekt, trennbar)", ru: "Рамочная конструкция", tip: "Teil 1 auf Position 2, Teil 2 (Infinitiv, Partizip, Vorsilbe) ganz ans Ende." },
+  INVERSION: { l: "Anfang ist nicht das Subjekt", ru: "Обратный порядок слов", tip: "Steht Zeit oder Ort vorne, kommt das Verb vor das Subjekt: Heute GEHE ich …" },
+  HAUPTSATZ: { l: "Einfacher Hauptsatz", ru: "Простое предложение", tip: "Subjekt – Verb – Rest. Das Verb steht auf Position 2." }
+};
+const SUBS = "weil dass wenn ob obwohl als bevor nachdem sobald damit falls seit seitdem während bis sodass indem solange".split(" ");
+function categorize(x) {
+  const raw = plainSent(x.de); const s = raw.toLowerCase(); const r = (x.r || "").toLowerCase();
+  const first = s.split(/\s+/)[0].replace(/[,.!?]/g, "");
+  if (r.includes("passiv")) return "PASSIV";
+  if (r.includes("konjunktiv")) return "KONJ2";
+  if (r.includes("relativ") || /, (in |mit |bei |zu |von |für |an |auf )?(der|den|dem|denen|deren|dessen) [a-zäöü]/.test(s)) return "RELATIV";
+  if (SUBS.includes(first) && s.includes(",")) return "NS_ZUERST";
+  if (/, (ob|wann|wie|wo|was|warum|welche\w*|wohin|woher) /.test(s)) return "IND_FRAGE";
+  if (new RegExp(", (" + SUBS.join("|") + "|ohne dass|als ob) ").test(s)) return "NS";
+  if (/\b(würde|würden|hätte|hätten|wäre|wären)\b/.test(s)) return "KONJ2";
+  if (/\bzu [a-zäöü]+(en|ern|eln)\b/.test(s) || /\b(an|ab|auf|aus|ein|mit|vor|zurück|weg|fest|teil|statt|nach|wieder)zu[a-zäöü]+en\b/.test(s)) return "ZU_INF";
+  if (/\b(deshalb|trotzdem|deswegen|außerdem|sonst|denn|sondern|allerdings|einerseits|andererseits|entweder|weder|sowohl|zwar|je)\b/.test(s)) return "KONNEKTOR";
+  if (/\?$/.test(raw.trim()) || r.includes("imperativ") || r.includes("frage")) return "FRAGE";
+  if (/modalverb|perfekt|trennbar|futur|klammer|partizip|infinitiv am ende|am ende/.test(r)) return "KLAMMER";
+  const tk = s.replace(/[.!?,]/g, "").split(/\s+/);
+  if (!r && tk.length > 3 && /^(kann|kannst|können|könnt|muss|musst|müssen|möchte|möchtest|möchten|will|willst|wollen|soll|sollst|sollen|darf|darfst|dürfen|habe|hast|hat|haben|habt|bin|bist|ist|sind|seid|werde|wirst|wird|werden)$/.test(tk[1]) && /(en|ern|eln|t)$/.test(tk[tk.length - 1])) return "KLAMMER";
+  if (/position 1|zuerst/.test(r) || /^(heute|morgen|gestern|dann|danach|am|im|um|in|seit|nach|vor|bei|mit|für|zum|zur|leider|vielleicht|natürlich|jeden|letzte|letzten|nächste|nächstes|normalerweise|dort|hier|ab|wegen|trotz|während|ohne|abends|morgens|mittags|zuerst|bei|von|auf|diese|dieses|diesen)\b/.test(s)) return "INVERSION";
+  return "HAUPTSATZ";
 }
 
 /* ================= Satz-Werkzeuge ================= */
@@ -108,14 +153,14 @@ function solutionHtml(de) {
   const { toks, end, verbs } = tokens(de);
   return toks.map((t, i) => verbs.includes(i) ? `<span class="v">${esc(t)}</span>` : esc(t)).join(" ") + esc(end);
 }
-function sentPool(needVerb) {
-  return S.filter(x => lvOk(x) && (!needVerb || x.de.includes("*")));
+function sentPool(needVerb, cats) {
+  return S.filter(x => lvOk(x) && (!needVerb || x.de.includes("*")) && (!cats || cats.includes(x.k)));
 }
 /* Auswahl: zuerst fällige Wiederholungen, dann neue echte Sätze, dann Beispielsätze, dann zufällig */
 let recentS = [];
-function pickSentence(needVerb) { const s = pickSentence0(needVerb); if (s) { recentS.push(s.id); if (recentS.length > 8) recentS.shift(); } return s; }
-function pickSentence0(needVerb) {
-  let pool = sentPool(needVerb); const p2 = pool.filter(x => !recentS.includes(x.id)); if (p2.length) pool = p2;
+function pickSentence(needVerb, cats) { if (!Array.isArray(cats)) cats = null; let s = cats ? pickSentence0(needVerb, cats) : null; if (!s) s = pickSentence0(needVerb); if (s) { recentS.push(s.id); if (recentS.length > 8) recentS.shift(); } return s; }
+function pickSentence0(needVerb, cats) {
+  let pool = sentPool(needVerb, cats); const p2 = pool.filter(x => !recentS.includes(x.id)); if (p2.length) pool = p2;
   if (!pool.length) return null;
   const now = dayNum();
   const due = pool.filter(x => P.s[x.id] && P.s[x.id].d <= now);
@@ -238,7 +283,9 @@ function buildSentence(host, done, sent, mode) {
     checked = true;
     if (!ok) placed.forEach((x, k) => { if (toks[k] !== x.t) x.bad = true; });
     zone.className = "zone " + (ok ? "ok" : "bad"); render();
-    srsGrade("s", sent.id, ok); log(mode, ok, sent.id);
+    let fehler = null;
+    if (!ok) { fehler = verbs.length ? (verbs.some(v => placed[v] && placed[v].t !== toks[v]) ? "verb" : "rest") : "reihe"; }
+    srsGrade("s", sent.id, ok); log(mode, ok, sent.id, ok ? null : { a: mine, f: fehler });
     const r = $("#res", host); r.hidden = false;
     r.innerHTML = `<div class="feedback ${ok ? "ok" : "bad"}" style="text-align:left">${ok ? "Richtig! <span class='ru'>Верно!</span>" : "Noch nicht ganz. So ist es richtig: <span class='ru'>Правильно так:</span>"}</div>
       ${ok ? "" : `<div class="solution">${solutionHtml(sent.de)}</div>`}
@@ -249,12 +296,12 @@ function buildSentence(host, done, sent, mode) {
   };
   return true;
 }
-EX.bauen = (host, done, opt = {}) => { const s = opt.sent || pickSentence(false, opt.avoid); return s ? buildSentence(host, done, s, "bauen") : false; };
-EX.diktat = (host, done, opt = {}) => { if (!HAS_TTS) return EX.bauen(host, done, opt); const s = opt.sent || pickSentence(false, opt.avoid); return s ? buildSentence(host, done, s, "diktat") : false; };
+EX.bauen = (host, done, opt = {}) => { const s = opt.sent || pickSentence(false, opt.cats); return s ? buildSentence(host, done, s, "bauen") : false; };
+EX.diktat = (host, done, opt = {}) => { if (!HAS_TTS) return EX.bauen(host, done, opt); const s = opt.sent || pickSentence(false, opt.cats); return s ? buildSentence(host, done, s, "diktat") : false; };
 
 /* --- Wo steht das Verb? --- */
 EX.verb = function (host, done, opt = {}) {
-  const sent = opt.sent && opt.sent.de.includes("*") ? opt.sent : pickSentence(true, opt.avoid);
+  const sent = opt.sent && opt.sent.de.includes("*") ? opt.sent : pickSentence(true, opt.cats);
   if (!sent) return false;
   const { toks, end, verbs } = tokens(sent.de);
   const k = rnd(verbs); const verb = toks[k];
@@ -280,7 +327,7 @@ EX.verb = function (host, done, opt = {}) {
     g.classList.add(ok ? "right" : "wrong"); g.textContent = verb; if (!ok) { g.style.textDecoration = "line-through"; g.style.width = "auto"; g.style.padding = "0 8px"; }
     if (!ok) { const c = vl.querySelector(`.vgap[data-i="${k}"]`); c.classList.add("right"); c.textContent = verb; }
     vl.querySelectorAll(".vgap:not(.right):not(.wrong)").forEach(x => x.hidden = true);
-    srsGrade("s", sent.id, ok); log("verb", ok, sent.id);
+    srsGrade("s", sent.id, ok); log("verb", ok, sent.id, ok ? null : { a: i, c: k });
     const r = $("#res", host); r.hidden = false;
     r.innerHTML = `<div class="feedback ${ok ? "ok" : "bad"}">${ok ? "Richtig! <span class='ru'>Верно!</span>" : "Leider falsch. <span class='ru'>Неверно.</span>"}</div>
       <div class="solution" style="text-align:center">${solutionHtml(sent.de)}</div>
@@ -305,8 +352,8 @@ function wrongVersion(de) {
   return s === toks.join(" ") ? null : s.charAt(0).toUpperCase() + s.slice(1) + end;
 }
 EX.rf = function (host, done, opt = {}) {
-  let sent = opt.sent && opt.sent.de.includes("*") ? opt.sent : pickSentence(true);
-  for (let i = 0; i < 5 && sent && /\?\s*$/.test(sent.de); i++) sent = pickSentence(true);
+  let sent = opt.sent && opt.sent.de.includes("*") ? opt.sent : pickSentence(true, opt.cats);
+  for (let i = 0; i < 5 && sent && /\?\s*$/.test(sent.de); i++) sent = pickSentence(true, opt.cats);
   if (!sent || /\?\s*$/.test(sent.de)) return false;
   let shown = plainSent(sent.de), isRight = true;
   if (Math.random() < .55) { const w = wrongVersion(sent.de); if (w) { shown = w; isRight = false; } }
@@ -324,7 +371,7 @@ EX.rf = function (host, done, opt = {}) {
     if (answered) return; answered = true;
     const ok = (b.dataset.a === "1") === isRight;
     b.classList.add(ok ? "right" : "wrong");
-    srsGrade("s", sent.id, ok); log("rf", ok, sent.id);
+    srsGrade("s", sent.id, ok); log("rf", ok, sent.id, ok ? null : { f: isRight ? "richtig-als-falsch" : "fehler-uebersehen", a: shown });
     const r = $("#res", host); r.hidden = false;
     r.innerHTML = `<div class="feedback ${ok ? "ok" : "bad"}">${ok ? "Richtig erkannt! <span class='ru'>Верно!</span>" : "Leider nicht. <span class='ru'>Неверно.</span>"} ${isRight ? "Der Satz war richtig." : "Der Satz war falsch. Richtig ist:"}</div>
       ${isRight ? "" : `<div class="solution" style="text-align:center">${solutionHtml(sent.de)}</div>`}
@@ -350,7 +397,7 @@ function mcq(host, done, { type, label, prompt, options, right, cls, after, word
       if (answered) return; answered = true; const ok = o === right;
       b.classList.add(ok ? "right" : "wrong");
       if (!ok) [...ch.children].find(x => x.textContent === right)?.classList.add("right");
-      log(type, ok, ref);
+      log(type, ok, ref, ok ? null : { a: o, c: right });
       if (word && P.w[word.id] && !ok) { P.w[word.id].d = dayNum(); saveP(); }
       const r = $("#res", host); r.hidden = false;
       r.innerHTML = `<div class="feedback ${ok ? "ok" : "bad"}">${ok ? "Richtig! <span class='ru'>Верно!</span>" : "Leider falsch. <span class='ru'>Неверно.</span>"}</div>${after ? after() : ""}`;
@@ -407,10 +454,42 @@ EX.wortart = function (host, done) {
   return mcq(host, done, { type: "wortart", label: "Was für ein Wort ist das?", prompt: `<div class="big">${esc(w.w)}</div>${w.x ? `<p class="hint" style="text-align:center">„${esc(w.x)}“</p>` : ""}`, options: opts, right: w.t, after: () => wordInfo(w), ref: w.id });
 };
 
+/* ================= Auswertung ================= */
+const SB_TYPES = ["bauen", "verb", "rf", "diktat"];
+const W_TYPES = ["karte", "bedeutung", "artikel", "luecke", "wortart"];
+function analyse(days) {
+  const since = days ? Math.floor(Date.now() / 1000) - days * 86400 : 0;
+  const ev = LOG.filter(e => e.t >= since);
+  const A = { n: ev.length, cat: {}, fehlerArt: {}, art: {}, artVerw: {}, thema: {}, wortart: {}, typ: {}, wrong: {} };
+  const inc = (o, k, ok) => { if (!k) return; const x = o[k] || (o[k] = { n: 0, r: 0 }); x.n++; if (ok) x.r++; };
+  ev.forEach(e => {
+    inc(A.typ, e.y, e.o);
+    if (SB_TYPES.includes(e.y)) {
+      const k = (e.i && SBYID[e.i] && SBYID[e.i].k) || e.k; inc(A.cat, k, e.o);
+      if (!e.o && e.f) A.fehlerArt[e.f] = (A.fehlerArt[e.f] || 0) + 1;
+    }
+    if (W_TYPES.includes(e.y) && e.i && WBYID[e.i]) { const w = WBYID[e.i]; inc(A.thema, w.th, e.o); inc(A.wortart, w.t, e.o); }
+    if (e.y === "artikel") { inc(A.art, e.c || (WBYID[e.i] || {}).a, e.o); if (!e.o && e.a && e.c) { const key = e.a + " statt " + e.c; A.artVerw[key] = (A.artVerw[key] || 0) + 1; } }
+    if (!e.o && e.i) { const x = A.wrong[e.i] || (A.wrong[e.i] = { n: 0, last: null }); x.n++; x.last = e; }
+  });
+  return A;
+}
+function rate(x) { return x && x.n ? x.r / x.n : null; }
+function weakCats() {
+  const A = analyse(30);
+  const list = Object.entries(A.cat).filter(([k, v]) => v.n >= 3 && CATS[k]).sort((a, b) => rate(a[1]) - rate(b[1]));
+  const weak = list.filter(([k, v]) => rate(v) < 0.85).slice(0, 3).map(x => x[0]);
+  if (weak.length) return weak;
+  // noch wenig Daten: die typischen Problemstellen zuerst
+  const tried = new Set(list.map(x => x[0]));
+  const def = ["NS", "NS_ZUERST", "KLAMMER", "INVERSION", "IND_FRAGE", "KONNEKTOR"].filter(k => !tried.has(k));
+  return def.length ? def.slice(0, 3) : ["NS", "NS_ZUERST", "KLAMMER"];
+}
+
 /* ================= Sitzung ================= */
 let session = null;
-function startSession(title, plan, len = 20) {
-  session = { title, plan, len, i: 0, r: 0, f: 0, start: Date.now(), last: null };
+function startSession(title, plan, len = 20, kat) {
+  session = { title, plan, len, i: 0, r: 0, f: 0, start: Date.now(), last: null, kat };
   go("session");
 }
 function sessionNext(host) {
@@ -448,8 +527,13 @@ function sessionEnd(host) {
 const PLAN = {
   mix: i => {
     const order = ["karte", "bauen", "karte", "verb", "bedeutung", "rf", "karte", "bauen", "artikel", "diktat", "karte", "verb", "luecke", "bauen", "karte", "rf", "bedeutung", "bauen", "verb", "bauen"];
-    return { type: order[i % order.length] };
+    const type = order[i % order.length];
+    // Satzbau-Aufgaben im Tagesmix: jede zweite aus den schwächsten Grammatik-Themen
+    if (["bauen", "verb", "rf", "diktat"].includes(type) && i % 2 === 1) return { type, opt: { cats: weakCats() } };
+    return { type };
   },
+  schwach: (i, t) => { const c = weakCats(); return { type: t > 2 ? "bauen" : ["bauen", "verb", "bauen", "rf", "verb", "diktat"][i % 6], opt: { cats: c } }; },
+  kat: (i, t) => ({ type: t > 2 ? "bauen" : ["bauen", "verb", "rf", "bauen"][i % 4], opt: { cats: [session.kat] } }),
   satzbau: (i, t) => ({ type: t > 1 ? "bauen" : ["bauen", "verb", "rf", "bauen", "diktat", "verb", "bauen", "rf"][i % 8] }),
   bauen: () => ({ type: "bauen" }), verb: () => ({ type: "verb" }), rf: () => ({ type: "rf" }), diktat: () => ({ type: "diktat" }),
   karten: () => ({ type: "karte" }),
@@ -468,7 +552,7 @@ const PLAN = {
 /* ================= Ansichten ================= */
 const app = $("#app");
 let view = "home", viewArg = null;
-const PARENT = { session: "home", schreiben: "mehr", aufgabe: "schreiben", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr" };
+const PARENT = { analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "schreiben", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr" };
 function go(v, arg) { view = v; viewArg = arg; render(); window.scrollTo(0, 0); }
 window.appBack = function () { if (PARENT[view]) { go(PARENT[view]); return true; } if (view !== "home") { go("home"); return true; } return false; };
 document.querySelectorAll("#tabs button").forEach(b => b.onclick = () => go(b.dataset.go));
@@ -476,7 +560,7 @@ function head(title, back) { return `<div class="top">${back ? `<button class="b
 function bindBack() { const b = $("#backBtn"); if (b) b.onclick = () => window.appBack(); }
 
 function render() {
-  const tabFor = { session: "home", schreiben: "mehr", aufgabe: "mehr", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr", quiz: "woerter" }[view] || view;
+  const tabFor = { analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "mehr", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr", quiz: "woerter" }[view] || view;
   document.querySelectorAll("#tabs button").forEach(b => b.setAttribute("aria-current", b.dataset.go === tabFor ? "page" : "false"));
   (VIEWS[view] || VIEWS.home)();
   bindBack();
@@ -518,7 +602,7 @@ VIEWS.home = function () {
       <div class="goalbar" aria-label="Tagesziel"><i style="width:${g}%"></i></div>
       <p class="hint small">Tagesziel: ${d.n} von ${SET.goal} Aufgaben${d.n >= SET.goal ? " – geschafft! 🎉" : ""} · <span class="ru">Цель дня</span></p>
       <button class="btn primary big" id="mix">▶ Tagesmix starten</button>
-      <p class="hint small" style="text-align:center">20 Aufgaben: Wörter, Satzbau und Quiz gemischt</p>
+      <p class="hint small" style="text-align:center">20 Aufgaben gemischt · Satzbau-Schwerpunkt: ${esc(CATS[weakCats()[0]].l)}</p>
     </div>
     <div class="menu">
       <button data-s="karten"><span class="ic">▤</span><b>Karteikarten</b><span>${c.dueW} Wiederholungen · ${c.newW} neu</span></button>
@@ -586,7 +670,9 @@ VIEWS.satzbau = function () {
   const marked = sentPool(true).length, all = sentPool(false).length;
   app.innerHTML = `${head("Satzbau")}
     <p class="hint">Hier trainierst du die Wortstellung. Das ist der wichtigste Teil, wenn Wörter oft vertauscht werden. <span class="ru">Здесь ты тренируешь порядок слов.</span></p>
-    <button class="btn primary big" id="sbMix">▶ Satzbau-Training (gemischt)</button>
+    <button class="btn primary big" id="sbWeak">▶ Meine Schwächen trainieren</button>
+    <p class="hint small" style="text-align:center">Schwerpunkt jetzt: ${weakCats().map(k => esc(CATS[k].l)).join(" · ")}</p>
+    <button class="btn" id="sbMix">Satzbau gemischt</button>
     <div class="menu">
       <button data-p="bauen"><span class="ic">⇄</span><b>Satz bauen</b><span>${all} Sätze</span></button>
       <button data-p="verb"><span class="ic">V</span><b>Wo steht das Verb?</b><span>${marked} Sätze</span></button>
@@ -600,6 +686,7 @@ VIEWS.satzbau = function () {
       <label class="check"><input type="checkbox" id="leicht" ${SET.leicht ? "checked" : ""}> Leichter Modus: erstes Wort ist schon gesetzt</label>
     </div>`;
   $("#sbMix").onclick = () => startSession("Satzbau", PLAN.satzbau, 20);
+  $("#sbWeak").onclick = () => startSession("Schwächen", PLAN.schwach, 20);
   app.querySelectorAll("[data-p]").forEach(b => b.onclick = () => startSession(TYPE_NAMES[b.dataset.p], PLAN[b.dataset.p], 20));
   $("#toRules").onclick = () => go("regeln");
   $("#leicht").onchange = e => { SET.leicht = e.target.checked; saveSET(); };
@@ -644,8 +731,8 @@ Satzbau (7 Tage): ${sb.n} Sätze, ${pct(sb.r, sb.n)} % richtig
 Wortschatz: ${c.seenW} Wörter gesehen, ${c.learned} gelernt, ${c.sure} sicher
 Serie: ${streak()} Tage in Folge${hard.length ? "\n\nSchwierig:\n- " + hard.join("\n- ") : ""}`;
 }
-async function shareReport() {
-  const text = reportText();
+async function shareReport() { return shareText(reportText()); }
+async function shareText(text) {
   try { if (BR && BR.share) { BR.share(text); return; } } catch (e) { }
   try { if (navigator.share) { await navigator.share({ text }); return; } } catch (e) { if (e && e.name === "AbortError") return; }
   try { await navigator.clipboard.writeText(text); toast("Bericht kopiert – jetzt in WhatsApp einfügen"); return; } catch (e) { }
@@ -661,7 +748,7 @@ VIEWS.statistik = function () {
     <div class="card">
       <div class="row between"><h3>Heute</h3><span class="hint">${pct(d.r, d.n)} % richtig</span></div>
       <div class="today"><div><b>${d.n}</b><span>Aufgaben</span></div><div><b style="color:var(--ok)">${d.r}</b><span>richtig</span></div><div><b style="color:var(--bad)">${d.n - d.r}</b><span>falsch</span></div><div><b>${Math.round(d.sec / 60)}</b><span>Minuten</span></div></div>
-      <button class="btn primary" id="share">Bericht senden (WhatsApp)</button>
+      <div class="row"><button class="btn primary" id="share">Bericht senden (WhatsApp)</button><button class="btn" id="toAna">Fehleranalyse</button></div>
     </div>
     <div class="card">
       <div class="row between"><h3>Letzte 14 Tage</h3><div class="legend"><span><i style="background:var(--ok)"></i>richtig</span><span><i style="background:var(--bad)"></i>falsch</span></div></div>
@@ -685,8 +772,89 @@ VIEWS.statistik = function () {
       ${hard.length ? `<div class="list">${hard.map(x => `<div class="li"><div class="t">${esc(x.l)}</div><span class="pill">${x.n}×</span></div>`).join("")}</div><button class="btn" id="fx">Diese Fehler üben</button>` : `<p class="hint">Noch keine Fehler gespeichert.</p>`}
     </div>`;
   $("#share").onclick = shareReport;
+  $("#toAna").onclick = () => go("analyse");
   if ($("#fx")) $("#fx").onclick = () => startSession("Fehler üben", PLAN.fehler, Math.min(20, Object.keys(P.fehler).length * 2));
 };
+
+/* --- Fehleranalyse --- */
+let anaDays = 30;
+function barRow(label, x, extra) {
+  const p = Math.round(100 * rate(x));
+  const col = p >= 80 ? "var(--ok)" : p >= 60 ? "var(--accent)" : "var(--bad)";
+  return `<tr><td style="white-space:normal">${label}</td><td class="num">${x.n}</td><td class="num"><b style="color:${col}">${p} %</b></td><td><div class="bar"><i style="width:${p}%;background:${col}"></i></div></td>${extra !== undefined ? `<td>${extra}</td>` : ""}</tr>`;
+}
+const FEHLERART = { verb: "Verb an falscher Stelle", rest: "Verb richtig, andere Wörter vertauscht", reihe: "Wörter vertauscht", "fehler-uebersehen": "Falschen Satz für richtig gehalten", "richtig-als-falsch": "Richtigen Satz für falsch gehalten" };
+function wrongList(A, max) {
+  return Object.entries(A.wrong).filter(([id]) => SBYID[id]).sort((a, b) => b[1].n - a[1].n).slice(0, max).map(([id, x]) => ({ id, n: x.n, s: SBYID[id], last: x.last }));
+}
+VIEWS.analyse = function () {
+  const A = analyse(anaDays);
+  const cats = Object.entries(A.cat).filter(([k]) => CATS[k]).sort((a, b) => rate(a[1]) - rate(b[1]));
+  const enough = cats.filter(([k, v]) => v.n >= 3);
+  const weak = weakCats();
+  const fa = Object.entries(A.fehlerArt).sort((a, b) => b[1] - a[1]); const faSum = fa.reduce((s, x) => s + x[1], 0);
+  const arts = ["der", "die", "das"].filter(a => A.art[a]);
+  const verw = Object.entries(A.artVerw).sort((a, b) => b[1] - a[1]).slice(0, 4);
+  const themen = Object.entries(A.thema).filter(([k, v]) => v.n >= 4).sort((a, b) => rate(a[1]) - rate(b[1])).slice(0, 8);
+  const wa = Object.entries(A.wortart).filter(([k, v]) => v.n >= 4).sort((a, b) => rate(a[1]) - rate(b[1]));
+  const wl = wrongList(A, 10);
+  app.innerHTML = `${head("Fehleranalyse", "Statistik")}
+    <div class="seg" id="anaSeg"><button data-d="7" aria-pressed="${anaDays === 7}">7 Tage</button><button data-d="30" aria-pressed="${anaDays === 30}">30 Tage</button><button data-d="0" aria-pressed="${anaDays === 0}">Alles</button></div>
+    ${A.n < 20 ? `<div class="card"><p>Noch wenig Daten (${A.n} Antworten). Nach ein paar Tagen Lernen wird die Auswertung genauer.</p><p class="ru small">Пока мало данных. Через несколько дней анализ станет точнее.</p></div>` : ""}
+    <div class="card">
+      <h3>Empfehlung</h3>
+      ${weak.map(k => `<div class="rule"><b>${esc(CATS[k].l)}</b>${A.cat[k] ? ` – ${Math.round(100 * rate(A.cat[k]))} % richtig` : " – noch nicht geübt"}<br>${esc(CATS[k].tip)}<br><span class="ru">${esc(CATS[k].ru)}</span></div>`).join("")}
+      <button class="btn primary" id="anaWeak">▶ Genau diese Themen üben</button>
+    </div>
+    <div class="card"><h3>Satzbau nach Grammatik-Thema</h3>
+      ${cats.length ? `<div class="tablewrap"><table><tr><th>Thema</th><th class="num">Anz.</th><th class="num">richtig</th><th></th><th></th></tr>
+      ${cats.map(([k, v]) => barRow(esc(CATS[k].l), v, `<button class="btn small" data-kat="${k}">üben</button>`)).join("")}</table></div>
+      <p class="hint small">Sortiert vom schwächsten zum stärksten Thema. ${enough.length < cats.length ? "Themen mit weniger als 3 Antworten sind noch ungenau." : ""}</p>` : `<p class="hint">Noch keine Satzbau-Übungen gemacht.</p>`}
+    </div>
+    <div class="card"><h3>Welche Fehler passieren?</h3>
+      ${faSum ? `<div class="tablewrap"><table>${fa.map(([k, n]) => `<tr><td style="white-space:normal">${esc(FEHLERART[k] || k)}</td><td class="num">${n}×</td><td class="num">${Math.round(100 * n / faSum)} %</td></tr>`).join("")}</table></div>` : `<p class="hint">Noch keine Fehler beim Satzbau.</p>`}
+    </div>
+    <div class="card"><h3>Artikel der / die / das</h3>
+      ${arts.length ? `<div class="tablewrap"><table><tr><th>richtig wäre</th><th class="num">Anz.</th><th class="num">richtig</th><th></th></tr>${arts.map(a => barRow(`<b class="art-${a}">${a}</b>`, A.art[a])).join("")}</table></div>
+      ${verw.length ? `<p class="hint small">Häufigste Verwechslungen: ${verw.map(([k, n]) => esc(k) + " (" + n + "×)").join(", ")}</p>` : ""}` : `<p class="hint">Noch keine Artikel-Übungen.</p>`}
+    </div>
+    <div class="card"><h3>Wortschatz nach Thema</h3>
+      ${themen.length ? `<div class="tablewrap"><table><tr><th>Thema</th><th class="num">Anz.</th><th class="num">richtig</th><th></th></tr>${themen.map(([k, v]) => barRow(esc(k), v)).join("")}</table></div>` : `<p class="hint">Noch zu wenig Daten.</p>`}
+      ${wa.length ? `<p class="hint small">Nach Wortart: ${wa.map(([k, v]) => esc(k) + " " + Math.round(100 * rate(v)) + " %").join(" · ")}</p>` : ""}
+    </div>
+    <div class="card"><h3>Diese Sätze waren am schwersten</h3>
+      ${wl.length ? `<div class="list">${wl.map(x => `<div class="li"><div class="t"><span class="solution" style="font-size:16px">${solutionHtml(x.s.de)}</span>${x.last && ["bauen", "diktat"].includes(x.last.y) && x.last.a ? `<small>Zuletzt gebaut: <s>${esc(x.last.a)}</s></small>` : ""}<small>${esc(CATS[x.s.k] ? CATS[x.s.k].l : "")}</small></div><span class="pill">${x.n}×</span></div>`).join("")}</div>` : `<p class="hint">Noch keine schweren Sätze.</p>`}
+    </div>
+    <div class="card"><h3>Auswertung weitergeben</h3>
+      <p class="hint">Schickt die genaue Auswertung als Text, zum Beispiel an Mario. Damit können neue Übungen genau auf die Schwächen abgestimmt werden.</p>
+      <button class="btn" id="anaShare">Auswertung teilen</button>
+    </div>`;
+  app.querySelectorAll("#anaSeg button").forEach(b => b.onclick = () => { anaDays = +b.dataset.d; render(); });
+  $("#anaWeak").onclick = () => startSession("Schwächen", PLAN.schwach, 20);
+  app.querySelectorAll("[data-kat]").forEach(b => b.onclick = () => startSession(CATS[b.dataset.kat].l, PLAN.kat, 15, b.dataset.kat));
+  $("#anaShare").onclick = () => shareText(analyseText());
+};
+function analyseText() {
+  const A = analyse(30); const pc = x => Math.round(100 * rate(x)) + " %";
+  const cats = Object.entries(A.cat).filter(([k]) => CATS[k]).sort((a, b) => rate(a[1]) - rate(b[1]));
+  const fa = Object.entries(A.fehlerArt).sort((a, b) => b[1] - a[1]);
+  const verw = Object.entries(A.artVerw).sort((a, b) => b[1] - a[1]).slice(0, 5);
+  const themen = Object.entries(A.thema).filter(([k, v]) => v.n >= 4).sort((a, b) => rate(a[1]) - rate(b[1])).slice(0, 6);
+  const typ = Object.entries(A.typ).sort((a, b) => b[1].n - a[1].n);
+  const wl = wrongList(A, 20);
+  const L = [];
+  L.push(`DEUTSCH-AUSWERTUNG${SET.name ? " – " + SET.name : ""} (letzte 30 Tage, ${A.n} Antworten, Stand ${new Date().toLocaleDateString("de-DE")})`);
+  L.push("", "ÜBUNGSARTEN:"); typ.forEach(([k, v]) => L.push(`- ${TYPE_NAMES[k] || k}: ${v.n}×, ${pc(v)}`));
+  L.push("", "SATZBAU NACH THEMA (schwächstes zuerst):"); cats.forEach(([k, v]) => L.push(`- ${CATS[k].l}: ${v.n}×, ${pc(v)}`));
+  if (fa.length) { L.push("", "FEHLERARTEN:"); fa.forEach(([k, n]) => L.push(`- ${FEHLERART[k] || k}: ${n}×`)); }
+  if (Object.keys(A.art).length) { L.push("", "ARTIKEL:"); ["der", "die", "das"].forEach(a => A.art[a] && L.push(`- ${a}: ${A.art[a].n}×, ${pc(A.art[a])}`)); verw.forEach(([k, n]) => L.push(`  Verwechslung ${k}: ${n}×`)); }
+  if (themen.length) { L.push("", "SCHWÄCHSTE WORTTHEMEN:"); themen.forEach(([k, v]) => L.push(`- ${k}: ${pc(v)}`)); }
+  if (wl.length) {
+    L.push("", "SCHWERSTE SÄTZE (richtig → zuletzt gebaut):");
+    wl.forEach(x => L.push(`- [${x.n}×, ${CATS[x.s.k] ? CATS[x.s.k].l : ""}] ${plainSent(x.s.de)}${x.last && ["bauen", "diktat"].includes(x.last.y) && x.last.a ? "  →  " + x.last.a : ""}`));
+  }
+  return L.join("\n");
+}
 
 /* --- Mehr --- */
 VIEWS.mehr = function () {
@@ -778,11 +946,11 @@ VIEWS.sicherung = function () {
       <div class="row"><button class="btn" id="cp">Kopieren / Teilen</button><button class="btn" id="imp">Code einspielen</button></div>
       <div id="impConfirm" hidden class="panel"><p class="feedback bad">Achtung: Der jetzige Fortschritt wird ersetzt.</p><button class="btn bad" id="impYes">Ja, ersetzen</button></div>
     </div>`;
-  $("#exp").onclick = () => { $("#code").value = btoa(unescape(encodeURIComponent(JSON.stringify({ P, ST, SET, v: 1 })))); };
+  $("#exp").onclick = () => { $("#code").value = btoa(unescape(encodeURIComponent(JSON.stringify({ P, ST, SET, LOG, v: 2 })))); };
   $("#cp").onclick = async () => { const t = $("#code").value; if (!t) return; try { if (BR && BR.share) { BR.share(t); return; } await navigator.clipboard.writeText(t); toast("Kopiert"); } catch (e) { $("#code").select(); document.execCommand("copy"); toast("Kopiert"); } };
   $("#imp").onclick = () => { if (!$("#code").value.trim()) { toast("Erst den Code einfügen."); return; } $("#impConfirm").hidden = false; };
   $("#impYes").onclick = () => {
-    try { const o = JSON.parse(decodeURIComponent(escape(atob($("#code").value.trim())))); if (!o.P || !o.ST) throw 0; P = o.P; ST = o.ST; SET = Object.assign(SET, o.SET || {}); saveP(); saveST(); saveSET(); toast("Fortschritt eingespielt"); go("home"); }
+    try { const o = JSON.parse(decodeURIComponent(escape(atob($("#code").value.trim())))); if (!o.P || !o.ST) throw 0; P = o.P; ST = o.ST; SET = Object.assign(SET, o.SET || {}); if (o.LOG) { LOG = o.LOG; LS.set("dl-log", LOG); } saveP(); saveST(); saveSET(); toast("Fortschritt eingespielt"); go("home"); }
     catch (e) { toast("Der Code ist ungültig."); }
   };
 };

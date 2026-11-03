@@ -24,6 +24,7 @@ automatisch beim nächsten Öffnen. Die App muss nicht neu installiert werden.
 | Wörter | Karteikasten mit Wiederholung nach 1, 3, 7, 14, 30 … Tagen, Quiz: Bedeutung, der/die/das, Lückentext, Wortart |
 | Satzbau | Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat (hören und bauen) |
 | Statistik | Aufgaben, richtig/falsch und Minuten pro Tag, Diagramm 14 Tage, Übungsarten, häufigste Fehler, **Bericht per WhatsApp senden** |
+| Fehleranalyse | Satzbau nach Grammatik-Thema, Fehlerarten (Verb falsch / Wörter vertauscht), Artikel-Verwechslungen, schwache Wortthemen, schwerste Sätze, **Auswertung teilen**. Der Tagesmix und „Meine Schwächen trainieren“ wählen Sätze gezielt aus den schwächsten Themen. |
 | Mehr | Schreibaufgaben mit Musterlösung, Grammatik auf Deutsch und Russisch, Wortliste, Einstellungen, Sicherung |
 
 Der Fortschritt wird nur auf dem Handy gespeichert. Unter *Mehr → Sicherung* kann man einen Sicherungscode erstellen.
