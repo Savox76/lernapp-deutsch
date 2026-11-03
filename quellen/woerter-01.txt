@@ -1,0 +1,329 @@
+Antrag|der|Anträge|N|заявление|ein offizielles Schreiben, mit dem man bei einem Amt um etwas bittet|Ich habe den Antrag auf Kindergeld gestern abgegeben.|B1|Behörden
+Bescheinigung|die|Bescheinigungen|N|справка|ein Papier, das etwas offiziell bestätigt|Der Arzt hat mir eine Bescheinigung für die Arbeit ausgestellt.|B1|Behörden
+Formular|das|Formulare|N|бланк, анкета|ein Blatt mit Feldern, die man ausfüllen muss|Bitte füllen Sie das Formular vollständig aus.|B1|Behörden
+Kündigung|die|Kündigungen|N|расторжение договора; увольнение|das Beenden eines Vertrags, zum Beispiel für eine Wohnung oder eine Arbeitsstelle|Die Kündigung muss schriftlich erfolgen.|B1|Wohnen
+Vermieter|der|Vermieter|N|арендодатель|die Person, der eine Wohnung gehört und die sie an andere gibt|Der Vermieter hat die Heizung endlich reparieren lassen.|B1|Wohnen
+Kaution|die|Kautionen|N|залог|Geld, das man beim Einzug als Sicherheit bezahlt und später zurückbekommt|Die Kaution beträgt drei Monatsmieten.|B1|Wohnen
+Vorstellungsgespräch|das|Vorstellungsgespräche|N|собеседование (при приёме на работу)|ein Gespräch mit einer Firma, wenn man eine neue Stelle möchte|Morgen habe ich ein Vorstellungsgespräch bei einer Spedition.|B1|Arbeit
+Bewerbung|die|Bewerbungen|N|заявление о приёме на работу|die Unterlagen, mit denen man sich um eine Stelle bemüht|Ich habe meine Bewerbung per E-Mail geschickt.|B1|Arbeit
+Arbeitgeber|der|Arbeitgeber|N|работодатель|die Person oder Firma, bei der man angestellt ist|Mein Arbeitgeber zahlt mir die Fahrkarte.|B1|Arbeit
+Erfahrung|die|Erfahrungen|N|опыт|was man durch Erleben und Üben gelernt hat|Sie hat viel Erfahrung in der Pflege.|B1|Arbeit
+Gehalt|das|Gehälter|N|зарплата|das Geld, das man jeden Monat für seine Arbeit bekommt|Das Gehalt kommt immer am Monatsende.|B1|Arbeit
+Überweisung|die|Überweisungen|N|банковский перевод; направление (к врачу)|wenn man Geld von seinem Konto auf ein anderes Konto schickt|Die Überweisung dauert ein bis zwei Tage.|B1|Geld
+Termin|der|Termine|N|назначенная встреча, приём|eine feste Zeit, zu der man sich trifft oder irgendwo hingeht|Ich muss den Termin beim Zahnarzt verschieben.|B1|Alltag
+Verspätung|die|Verspätungen|N|опоздание, задержка|wenn jemand oder etwas später kommt als geplant|Der Zug hat zwanzig Minuten Verspätung.|B1|Verkehr
+Rezept|das|Rezepte|N|рецепт (от врача; кулинарный)|ein Zettel vom Arzt, mit dem man in der Apotheke Medikamente bekommt|Für dieses Medikament brauchen Sie ein Rezept.|B1|Gesundheit
+Krankenkasse|die|Krankenkassen|N|больничная касса (медстраховка)|die Versicherung, die Arzt und Krankenhaus bezahlt|Ich muss die Krankmeldung an die Krankenkasse schicken.|B1|Gesundheit
+Ergebnis|das|Ergebnisse|N|результат|was am Ende von etwas herauskommt|Das Ergebnis der Prüfung kommt in vier Wochen.|B1|Alltag
+Vorteil|der|Vorteile|N|преимущество, плюс|etwas Gutes, das man von einer Sache hat|Ein Vorteil der Wohnung ist der große Balkon.|B1|Meinung
+Nachteil|der|Nachteile|N|недостаток, минус|etwas Schlechtes an einer Sache|Der Nachteil ist, dass die Miete sehr hoch ist.|B1|Meinung
+Zeitraum|der|Zeiträume|N|период времени|die Zeit zwischen einem Anfang und einem Ende|In diesem Zeitraum ist das Büro geschlossen.|B2|Alltag
+Voraussetzung|die|Voraussetzungen|N|условие, предпосылка|etwas, das man haben oder erfüllen muss, damit etwas anderes möglich ist|Gute Deutschkenntnisse sind eine Voraussetzung für die Stelle.|B2|Arbeit
+Verbraucher|der|Verbraucher|N|потребитель|eine Person, die Waren kauft und benutzt|Die Preise sind für die Verbraucher stark gestiegen.|B2|Gesellschaft
+Auswirkung|die|Auswirkungen|N|последствие, влияние|die Folge, die etwas hat|Der Klimawandel hat große Auswirkungen auf die Landwirtschaft.|B2|Gesellschaft
+Verhältnis|das|Verhältnisse|N|отношения; соотношение|wie zwei Menschen oder Dinge zueinander stehen|Ich habe ein gutes Verhältnis zu meinen Kollegen.|B2|Arbeit
+Herausforderung|die|Herausforderungen|N|вызов, трудная задача|eine schwierige Aufgabe, die man lösen möchte|Die neue Sprache ist eine große Herausforderung für mich.|B2|Meinung
+Umwelt|die|(kein Plural)|N|окружающая среда|die Natur um uns herum: Luft, Wasser, Boden, Tiere und Pflanzen|Wir sollten mehr für die Umwelt tun.|B1|Umwelt
+sich bewerben (um + Akk.)|-|bewirbt sich – bewarb sich – hat sich beworben|V|подавать заявление (на работу)|sich mit Unterlagen um eine Stelle bemühen|Ich bewerbe mich um eine Stelle als Verkäuferin.|B1|Arbeit
+beantragen|-|beantragt – beantragte – hat beantragt|V|подавать заявление на что-то, ходатайствовать|offiziell um etwas bitten, meist schriftlich|Sie hat einen neuen Pass beantragt.|B1|Behörden
+sich beschweren (über + Akk.)|-|beschwert sich – beschwerte sich – hat sich beschwert|V|жаловаться на|sagen, dass man mit etwas nicht zufrieden ist|Die Nachbarn haben sich über den Lärm beschwert.|B1|Wohnen
+vereinbaren|-|vereinbart – vereinbarte – hat vereinbart|V|договариваться (о чём-то)|gemeinsam etwas festlegen, zum Beispiel einen Termin|Ich möchte gern einen Termin vereinbaren.|B1|Alltag
+erledigen|-|erledigt – erledigte – hat erledigt|V|выполнять, улаживать|eine Aufgabe zu Ende machen|Ich muss heute noch einige Dinge erledigen.|B1|Alltag
+sich verlassen (auf + Akk.)|-|verlässt sich – verließ sich – hat sich verlassen|V|полагаться на|jemandem vertrauen, dass er etwas sicher tut|Auf meine Schwester kann ich mich immer verlassen.|B2|Familie
+berücksichtigen|-|berücksichtigt – berücksichtigte – hat berücksichtigt|V|учитывать|an etwas denken und es bei einer Entscheidung beachten|Bitte berücksichtigen Sie meine Arbeitszeiten.|B2|Arbeit
+überzeugen|-|überzeugt – überzeugte – hat überzeugt|V|убеждать|jemanden dazu bringen, etwas zu glauben oder zu wollen|Sie hat den Chef mit guten Argumenten überzeugt.|B2|Meinung
+zuverlässig|-|zuverlässiger – am zuverlässigsten|A|надёжный|so, dass man ihm vertrauen kann|Er ist ein sehr zuverlässiger Kollege.|B1|Arbeit
+dringend|-|dringender – am dringendsten|A|срочный; срочно|so wichtig, dass es sofort gemacht werden muss|Ich brauche dringend einen Termin.|B1|Alltag
+nachhaltig|-|nachhaltiger – am nachhaltigsten|A|экологичный, устойчивый|so, dass es der Umwelt nicht schadet und lange hält|Viele Menschen wollen nachhaltiger einkaufen.|B2|Umwelt
+selbstständig|-|-|A|самостоятельный; самозанятый|ohne Hilfe von anderen; auch: mit eigener Firma|Sie arbeitet sehr selbstständig.|B1|Arbeit
+trotzdem|-|-|Adv|всё равно, тем не менее|obwohl es einen Grund dagegen gibt; danach kommt sofort das Verb|Es regnet, trotzdem gehen wir spazieren.|B1|Satzverbindung
+allerdings|-|-|Adv|однако|aber, jedoch; schränkt etwas ein|Die Wohnung ist schön, allerdings ist sie sehr teuer.|B2|Satzverbindung
+inzwischen|-|-|Adv|тем временем; уже (к этому моменту)|in der Zeit seitdem; mittlerweile|Inzwischen verstehe ich fast alles.|B1|Zeit
+obwohl|-|-|K|хотя|leitet einen Gegengrund ein; das Verb steht am Ende|Obwohl ich müde bin, gehe ich zum Kurs.|B1|Satzverbindung
+damit|-|-|K|чтобы|leitet ein Ziel ein; das Verb steht am Ende|Ich lerne jeden Tag, damit ich die Prüfung bestehe.|B1|Satzverbindung
+sodass|-|-|K|так что|leitet eine Folge ein; das Verb steht am Ende|Der Bus kam zu spät, sodass ich den Zug verpasst habe.|B2|Satzverbindung
+falls|-|-|K|если, в случае если|für den Fall, dass; das Verb steht am Ende|Falls du Hilfe brauchst, ruf mich an.|B1|Satzverbindung
+wegen (+ Genitiv)|-|-|P|из-за|nennt den Grund für etwas|Wegen des Streiks fahren heute keine Busse.|B1|Satzverbindung
+trotz (+ Genitiv)|-|-|P|несмотря на|obwohl es etwas gibt, das dagegen spricht|Trotz der Kälte sind wir draußen geblieben.|B1|Satzverbindung
+während (+ Genitiv)|-|-|P|во время|in der Zeit von etwas|Während des Unterrichts ist das Handy aus.|B1|Zeit
+innerhalb (+ Genitiv)|-|-|P|в течение; внутри|in einem bestimmten Zeitraum oder Bereich|Bitte antworten Sie innerhalb einer Woche.|B2|Zeit
+gegenüber (+ Dativ)|-|-|P|напротив|auf der anderen Seite|Die Apotheke ist gegenüber dem Bahnhof.|B1|Orte
+Stelle|die|Stellen|N|место работы, вакансия|ein Arbeitsplatz in einer Firma|Ich suche eine neue Stelle als Köchin.|B1|Arbeit
+Lebenslauf|der|Lebensläufe|N|резюме, автобиография|eine Liste mit Schule, Ausbildung und Berufen einer Person|Bitte schicken Sie uns Ihren Lebenslauf.|B1|Arbeit
+Ausbildung|die|Ausbildungen|N|профессиональное обучение|das Lernen eines Berufs, meist drei Jahre|Sie macht eine Ausbildung zur Krankenpflegerin.|B1|Arbeit
+Kollege|der|Kollegen|N|коллега|eine Person, mit der man zusammen arbeitet|Mein Kollege hilft mir oft.|B1|Arbeit
+Vertrag|der|Verträge|N|договор|ein Papier mit Regeln, das zwei Seiten unterschreiben|Ich habe den Vertrag noch nicht unterschrieben.|B1|Arbeit
+Schicht|die|Schichten|N|смена|eine feste Arbeitszeit, z. B. früh, spät oder nachts|Meine Schicht beginnt um sechs Uhr.|B1|Arbeit
+Überstunde|die|Überstunden|N|сверхурочный час|eine Stunde, die man mehr arbeitet, als im Vertrag steht|Letzten Monat habe ich zehn Überstunden gemacht.|B1|Arbeit
+Urlaub|der|Urlaube|N|отпуск|freie Tage von der Arbeit|Ich habe noch fünf Tage Urlaub.|B1|Arbeit
+Teilzeit|die|(kein Plural)|N|неполный рабочий день|weniger Stunden arbeiten als normal|Sie arbeitet in Teilzeit, weil sie zwei Kinder hat.|B1|Arbeit
+Arbeitslosigkeit|die|(kein Plural)|N|безработица|wenn Menschen keine Arbeit haben|Die Arbeitslosigkeit ist in der Region gesunken.|B2|Arbeit
+Kenntnisse|die|(nur Plural)|N|знания|was man über ein Gebiet weiß|Für die Stelle braucht man gute Kenntnisse in Excel.|B1|Arbeit
+Fähigkeit|die|Fähigkeiten|N|способность, умение|was jemand gut kann|Geduld ist eine wichtige Fähigkeit in der Pflege.|B2|Arbeit
+Abteilung|die|Abteilungen|N|отдел|ein Teil einer Firma mit eigenen Aufgaben|Sie arbeitet in der Abteilung für Buchhaltung.|B1|Arbeit
+Aufgabe|die|Aufgaben|N|задача, обязанность|etwas, das man tun muss|Zu meinen Aufgaben gehört die Planung.|B1|Arbeit
+kündigen|-|kündigt – kündigte – hat gekündigt|V|увольняться; расторгать договор|einen Vertrag beenden|Er hat seine Stelle zum Monatsende gekündigt.|B1|Arbeit
+einstellen|-|stellt ein – stellte ein – hat eingestellt|V|принимать на работу|jemandem eine Arbeitsstelle geben|Die Firma will zwei neue Mitarbeiter einstellen.|B1|Arbeit
+verdienen|-|verdient – verdiente – hat verdient|V|зарабатывать|Geld für Arbeit bekommen|Wie viel verdient man als Busfahrer?|B1|Arbeit
+sich kümmern (um + Akk.)|-|kümmert sich – kümmerte sich – hat sich gekümmert|V|заботиться о, заниматься чем-то|für jemanden oder etwas sorgen|Ich kümmere mich um die Termine.|B1|Arbeit
+teilnehmen (an + Dat.)|-|nimmt teil – nahm teil – hat teilgenommen|V|участвовать в|bei etwas mitmachen|Ich nehme an einem Deutschkurs teil.|B1|Bildung
+verantwortlich (für + Akk.)|-|-|A|ответственный за|man muss für etwas sorgen|Wer ist für die Bestellungen verantwortlich?|B1|Arbeit
+pünktlich|-|pünktlicher – am pünktlichsten|A|пунктуальный, вовремя|genau zur richtigen Zeit|Bitte seien Sie pünktlich um acht Uhr da.|B1|Arbeit
+flexibel|-|flexibler – am flexibelsten|A|гибкий|man kann sich leicht an neue Situationen anpassen|Meine Arbeitszeiten sind sehr flexibel.|B1|Arbeit
+befristet|-|-|A|временный, срочный (о договоре)|nur für eine bestimmte Zeit gültig|Ich habe einen befristeten Vertrag für ein Jahr.|B2|Arbeit
+Miete|die|Mieten|N|арендная плата|das Geld, das man jeden Monat für die Wohnung zahlt|Die Miete muss bis zum dritten des Monats bezahlt sein.|B1|Wohnen
+Nebenkosten|die|(nur Plural)|N|коммунальные расходы|Kosten für Wasser, Heizung, Müll usw. zusätzlich zur Miete|Die Nebenkosten sind dieses Jahr gestiegen.|B1|Wohnen
+Mietvertrag|der|Mietverträge|N|договор аренды|der Vertrag zwischen Mieter und Vermieter|Im Mietvertrag steht, dass Haustiere erlaubt sind.|B1|Wohnen
+Mieter|der|Mieter|N|арендатор, жилец|eine Person, die in einer gemieteten Wohnung wohnt|Alle Mieter müssen den Hof sauber halten.|B1|Wohnen
+Hausverwaltung|die|Hausverwaltungen|N|управляющая компания|eine Firma, die sich um ein Wohnhaus kümmert|Bitte melden Sie Schäden sofort der Hausverwaltung.|B2|Wohnen
+Nachbar|der|Nachbarn|N|сосед|eine Person, die neben einem wohnt|Unser Nachbar hat uns beim Umzug geholfen.|B1|Wohnen
+Umzug|der|Umzüge|N|переезд|wenn man in eine andere Wohnung zieht|Der Umzug ist am Samstag.|B1|Wohnen
+Schaden|der|Schäden|N|повреждение, ущерб|etwas ist kaputt gegangen|Der Schaden am Fenster muss repariert werden.|B1|Wohnen
+Hausordnung|die|Hausordnungen|N|правила проживания в доме|Regeln für alle Bewohner eines Hauses|Laut Hausordnung ist ab 22 Uhr Ruhe.|B1|Wohnen
+Lärm|der|(kein Plural)|N|шум|unangenehm laute Geräusche|Der Lärm von der Baustelle stört mich.|B1|Wohnen
+Müll|der|(kein Plural)|N|мусор|Dinge, die man wegwirft|Den Müll muss man in Deutschland trennen.|B1|Wohnen
+einziehen|-|zieht ein – zog ein – ist eingezogen|V|въезжать (в квартиру)|in eine neue Wohnung gehen und dort wohnen|Wir sind im März in die neue Wohnung eingezogen.|B1|Wohnen
+ausziehen|-|zieht aus – zog aus – ist ausgezogen|V|выезжать (из квартиры)|eine Wohnung verlassen, um woanders zu wohnen|Meine Mitbewohnerin zieht nächsten Monat aus.|B1|Wohnen
+mieten|-|mietet – mietete – hat gemietet|V|снимать, арендовать|gegen Geld etwas benutzen dürfen|Wir mieten eine Wohnung mit Balkon.|B1|Wohnen
+reparieren|-|repariert – reparierte – hat repariert|V|ремонтировать|etwas Kaputtes wieder ganz machen|Der Hausmeister repariert morgen die Tür.|B1|Wohnen
+stören|-|stört – störte – hat gestört|V|мешать|jemanden bei etwas unterbrechen oder ärgern|Stört es Sie, wenn ich das Fenster öffne?|B1|Wohnen
+trennen|-|trennt – trennte – hat getrennt|V|разделять, сортировать|Dinge auseinander tun|Wir trennen Papier, Glas und Plastik.|B1|Wohnen
+möbliert|-|-|A|меблированный|mit Möbeln|Ich suche ein möbliertes Zimmer.|B1|Wohnen
+ruhig|-|ruhiger – am ruhigsten|A|тихий, спокойный|ohne Lärm|Die Wohnung liegt in einer ruhigen Straße.|B1|Wohnen
+Krankmeldung|die|Krankmeldungen|N|больничный лист|ein Papier vom Arzt, dass man krank ist und nicht arbeiten kann|Ich muss die Krankmeldung bis Mittwoch abgeben.|B1|Gesundheit
+Versichertenkarte|die|Versichertenkarten|N|карточка медицинского страхования|die Karte von der Krankenkasse, die man beim Arzt zeigt|Bitte geben Sie mir Ihre Versichertenkarte.|B1|Gesundheit
+Beschwerden|die|(nur Plural)|N|жалобы (на здоровье)|Schmerzen oder Probleme mit der Gesundheit|Welche Beschwerden haben Sie?|B1|Gesundheit
+Schmerz|der|Schmerzen|N|боль|ein starkes unangenehmes Gefühl im Körper|Ich habe seit gestern starke Schmerzen im Rücken.|B1|Gesundheit
+Untersuchung|die|Untersuchungen|N|обследование, осмотр|wenn der Arzt den Körper genau prüft|Die Untersuchung dauert etwa eine halbe Stunde.|B1|Gesundheit
+Notaufnahme|die|Notaufnahmen|N|приёмный покой (неотложка)|der Teil im Krankenhaus für Notfälle|Nach dem Unfall fuhren wir sofort in die Notaufnahme.|B1|Gesundheit
+Notfall|der|Notfälle|N|экстренный случай|eine gefährliche Situation, in der man sofort Hilfe braucht|Im Notfall rufen Sie die 112 an.|B1|Gesundheit
+Nebenwirkung|die|Nebenwirkungen|N|побочное действие|eine ungewollte Wirkung von einem Medikament|Das Medikament hat kaum Nebenwirkungen.|B2|Gesundheit
+Verletzung|die|Verletzungen|N|травма, ранение|eine Wunde oder ein Schaden am Körper|Die Verletzung am Knie ist nicht schlimm.|B1|Gesundheit
+Behandlung|die|Behandlungen|N|лечение|was der Arzt gegen eine Krankheit tut|Die Behandlung bezahlt die Krankenkasse.|B1|Gesundheit
+Allergie|die|Allergien|N|аллергия|der Körper reagiert stark auf bestimmte Stoffe|Ich habe eine Allergie gegen Nüsse.|B1|Gesundheit
+sich erkälten|-|erkältet sich – erkältete sich – hat sich erkältet|V|простудиться|eine leichte Krankheit mit Husten und Schnupfen bekommen|Ich habe mich beim Spaziergang erkältet.|B1|Gesundheit
+verschreiben|-|verschreibt – verschrieb – hat verschrieben|V|выписывать (лекарство)|der Arzt schreibt ein Medikament auf ein Rezept|Der Arzt hat mir Tabletten verschrieben.|B1|Gesundheit
+sich verletzen|-|verletzt sich – verletzte sich – hat sich verletzt|V|пораниться, травмироваться|sich wehtun, sodass eine Wunde entsteht|Er hat sich beim Fußball verletzt.|B1|Gesundheit
+behandeln|-|behandelt – behandelte – hat behandelt|V|лечить; обращаться с|einen kranken Menschen gesund machen|Welcher Arzt behandelt Sie?|B1|Gesundheit
+krankgeschrieben|-|-|A|на больничном|der Arzt sagt offiziell, dass man nicht arbeiten muss|Ich bin bis Freitag krankgeschrieben.|B1|Gesundheit
+ansteckend|-|-|A|заразный|eine Krankheit geht leicht auf andere Menschen über|Ist die Grippe ansteckend?|B1|Gesundheit
+Behörde|die|Behörden|N|ведомство, учреждение|ein Amt des Staates oder der Stadt|Bei welcher Behörde muss ich mich anmelden?|B1|Behörden
+Anmeldung|die|Anmeldungen|N|регистрация, запись|wenn man sich offiziell irgendwo einträgt|Für die Anmeldung brauchen Sie Ihren Pass.|B1|Behörden
+Ausweis|der|Ausweise|N|удостоверение личности|ein Dokument, das zeigt, wer man ist|Ihr Ausweis ist leider abgelaufen.|B1|Behörden
+Aufenthaltstitel|der|Aufenthaltstitel|N|вид на жительство|ein Dokument, das erlaubt, in Deutschland zu leben|Mein Aufenthaltstitel muss verlängert werden.|B2|Behörden
+Unterlagen|die|(nur Plural)|N|документы|alle Papiere, die man für etwas braucht|Bringen Sie bitte alle Unterlagen zum Termin mit.|B1|Behörden
+Unterschrift|die|Unterschriften|N|подпись|der eigene Name, mit der Hand geschrieben|Hier fehlt noch Ihre Unterschrift.|B1|Behörden
+Frist|die|Fristen|N|срок|die Zeit, bis wann man etwas machen muss|Die Frist endet am 31. Dezember.|B2|Behörden
+Gebühr|die|Gebühren|N|сбор, пошлина|Geld, das man für eine Leistung bezahlt|Für den neuen Pass müssen Sie eine Gebühr bezahlen.|B1|Behörden
+Staatsangehörigkeit|die|Staatsangehörigkeiten|N|гражданство|zu welchem Staat man gehört|Welche Staatsangehörigkeit haben Sie?|B1|Behörden
+ausfüllen|-|füllt aus – füllte aus – hat ausgefüllt|V|заполнять|in ein Formular schreiben|Haben Sie das Formular schon ausgefüllt?|B1|Behörden
+sich anmelden|-|meldet sich an – meldete sich an – hat sich angemeldet|V|регистрироваться, записываться|sich offiziell für etwas eintragen|Ich habe mich für den Kurs angemeldet.|B1|Behörden
+verlängern|-|verlängert – verlängerte – hat verlängert|V|продлевать|länger gültig machen|Ich muss mein Visum verlängern.|B1|Behörden
+unterschreiben|-|unterschreibt – unterschrieb – hat unterschrieben|V|подписывать|seinen Namen unter ein Dokument schreiben|Bitte unterschreiben Sie hier unten.|B1|Behörden
+abgeben|-|gibt ab – gab ab – hat abgegeben|V|сдавать, отдавать|etwas zu einer Person oder Stelle bringen|Sie können den Antrag am Schalter abgeben.|B1|Behörden
+gültig|-|-|A|действительный|offiziell noch in Ordnung, nicht abgelaufen|Ist mein Ausweis noch gültig?|B1|Behörden
+zuständig (für + Akk.)|-|-|A|ответственный, компетентный (за)|eine Stelle hat die Aufgabe für etwas|Welches Amt ist dafür zuständig?|B2|Behörden
+Quittung|die|Quittungen|N|квитанция, чек|ein Papier, das zeigt, dass man bezahlt hat|Haben Sie die Quittung noch?|B1|Einkaufen
+Reklamation|die|Reklamationen|N|рекламация, претензия к товару|wenn man sagt, dass eine Ware kaputt oder falsch ist|Für eine Reklamation brauchen Sie den Kassenbon.|B2|Einkaufen
+Garantie|die|Garantien|N|гарантия|die Firma repariert oder ersetzt kaputte Ware für eine bestimmte Zeit|Der Fernseher hat zwei Jahre Garantie.|B1|Einkaufen
+Angebot|das|Angebote|N|предложение; акция|eine Ware zu einem besonders günstigen Preis|Kaffee ist diese Woche im Angebot.|B1|Einkaufen
+Lieferung|die|Lieferungen|N|доставка, поставка|wenn eine Ware nach Hause gebracht wird|Die Lieferung kommt morgen zwischen 8 und 12 Uhr.|B1|Einkaufen
+Rechnung|die|Rechnungen|N|счёт|ein Papier, auf dem steht, wie viel man bezahlen muss|Die Rechnung liegt dem Paket bei.|B1|Einkaufen
+umtauschen|-|tauscht um – tauschte um – hat umgetauscht|V|обменивать (товар)|eine Ware zurückbringen und eine andere bekommen|Ich möchte die Hose umtauschen.|B1|Einkaufen
+bestellen|-|bestellt – bestellte – hat bestellt|V|заказывать|sagen oder schreiben, dass man etwas kaufen möchte|Ich habe die Schuhe im Internet bestellt.|B1|Einkaufen
+liefern|-|liefert – lieferte – hat geliefert|V|доставлять|eine Ware zum Kunden bringen|Wir liefern das Sofa am Donnerstag.|B1|Einkaufen
+zurückschicken|-|schickt zurück – schickte zurück – hat zurückgeschickt|V|отправлять обратно|etwas mit der Post zurück an den Verkäufer senden|Ich habe das Paket schon zurückgeschickt.|B1|Einkaufen
+erstatten|-|erstattet – erstattete – hat erstattet|V|возмещать (деньги)|jemandem Geld zurückgeben|Wir erstatten Ihnen den vollen Preis.|B2|Einkaufen
+günstig|-|günstiger – am günstigsten|A|выгодный, недорогой|nicht teuer|Im Supermarkt ist das Obst günstiger.|B1|Einkaufen
+beschädigt|-|-|A|повреждённый|mit einem Schaden, teilweise kaputt|Das Paket kam beschädigt an.|B1|Einkaufen
+Fahrkarte|die|Fahrkarten|N|билет (на транспорт)|ein Ticket für Bus oder Bahn|Die Fahrkarte kann man am Automaten kaufen.|B1|Verkehr
+Verbindung|die|Verbindungen|N|сообщение (транспортное), связь|eine Fahrt mit Bus oder Bahn von A nach B|Gibt es eine direkte Verbindung nach Hamburg?|B1|Verkehr
+Gleis|das|Gleise|N|путь (на вокзале)|der Platz am Bahnhof, wo der Zug hält|Der Zug fährt heute von Gleis 5 ab.|B1|Verkehr
+Umleitung|die|Umleitungen|N|объезд|ein anderer Weg, weil die Straße gesperrt ist|Wegen der Baustelle gibt es eine Umleitung.|B1|Verkehr
+Stau|der|Staus|N|пробка|viele Autos stehen auf der Straße und kommen nicht weiter|Ich stand eine Stunde im Stau.|B1|Verkehr
+Unfall|der|Unfälle|N|авария, несчастный случай|wenn etwas passiert und Menschen oder Dinge verletzt werden|Auf der Autobahn gab es einen Unfall.|B1|Verkehr
+Führerschein|der|Führerscheine|N|водительские права|das Dokument, mit dem man Auto fahren darf|Sie macht gerade den Führerschein.|B1|Verkehr
+Unterkunft|die|Unterkünfte|N|жильё (в поездке)|ein Ort, wo man auf einer Reise schläft|Wir haben eine günstige Unterkunft am See gefunden.|B1|Reisen
+Gepäck|das|(kein Plural)|N|багаж|Koffer und Taschen auf einer Reise|Wie viel Gepäck darf ich mitnehmen?|B1|Reisen
+umsteigen|-|steigt um – stieg um – ist umgestiegen|V|делать пересадку|von einem Zug in einen anderen gehen|In Leipzig müssen Sie umsteigen.|B1|Verkehr
+verpassen|-|verpasst – verpasste – hat verpasst|V|опоздать на, пропустить|zu spät kommen, sodass etwas schon weg ist|Ich habe den Bus um zwei Minuten verpasst.|B1|Verkehr
+buchen|-|bucht – buchte – hat gebucht|V|бронировать|einen Platz oder ein Zimmer fest reservieren|Wir buchen die Reise im Internet.|B1|Reisen
+ausfallen|-|fällt aus – fiel aus – ist ausgefallen|V|отменяться, не состояться|nicht stattfinden|Der Unterricht ist gestern ausgefallen.|B1|Verkehr
+gesperrt|-|-|A|закрытый (для проезда)|man darf nicht hineinfahren oder hineingehen|Die Brücke ist wegen Bauarbeiten gesperrt.|B1|Verkehr
+Weiterbildung|die|Weiterbildungen|N|повышение квалификации|wenn man nach dem Beruf noch etwas Neues lernt|Die Firma bezahlt mir eine Weiterbildung.|B1|Bildung
+Zeugnis|das|Zeugnisse|N|аттестат; характеристика с работы|ein Papier mit Noten oder einer Bewertung|Bitte legen Sie Ihre Zeugnisse der Bewerbung bei.|B1|Bildung
+Prüfung|die|Prüfungen|N|экзамен|ein Test, ob man etwas kann|Die Prüfung findet am 12. Dezember statt.|B1|Bildung
+Abschluss|der|Abschlüsse|N|окончание учёбы, диплом|das erfolgreiche Ende einer Schule oder Ausbildung|Ihr Abschluss wird in Deutschland anerkannt.|B1|Bildung
+Anerkennung|die|Anerkennungen|N|признание (диплома)|offiziell sagen, dass etwas gültig ist|Die Anerkennung des Diploms dauert mehrere Monate.|B2|Bildung
+Fortschritt|der|Fortschritte|N|прогресс, успех|wenn man besser wird|Du machst große Fortschritte im Deutschen.|B1|Bildung
+bestehen|-|besteht – bestand – hat bestanden|V|сдать (экзамен)|eine Prüfung mit Erfolg machen|Hoffentlich bestehe ich die Prüfung diesmal.|B1|Bildung
+durchfallen|-|fällt durch – fiel durch – ist durchgefallen|V|провалить (экзамен)|eine Prüfung nicht schaffen|Beim ersten Mal ist sie durchgefallen, aber jetzt lernt sie mehr.|B1|Bildung
+anerkennen|-|erkennt an – erkannte an – hat anerkannt|V|признавать|offiziell sagen, dass etwas gültig ist|Wird mein Zeugnis in Deutschland anerkannt?|B2|Bildung
+sich vorbereiten (auf + Akk.)|-|bereitet sich vor – bereitete sich vor – hat sich vorbereitet|V|готовиться к|lernen und üben für etwas, das bald kommt|Ich bereite mich auf die Prüfung vor.|B1|Bildung
+wiederholen|-|wiederholt – wiederholte – hat wiederholt|V|повторять|noch einmal machen oder sagen|Können Sie das bitte wiederholen?|B1|Bildung
+Erziehung|die|(kein Plural)|N|воспитание|wie Eltern ihre Kinder auf das Leben vorbereiten|Die Erziehung der Kinder ist nicht immer leicht.|B1|Familie
+Hochzeit|die|Hochzeiten|N|свадьба|das Fest, wenn zwei Menschen heiraten|Die Hochzeit ist im Juni.|B1|Familie
+Beziehung|die|Beziehungen|N|отношения|die Verbindung zwischen Menschen|Sie hat eine gute Beziehung zu ihren Eltern.|B1|Familie
+Streit|der|(meist kein Plural)|N|ссора|wenn Menschen laut verschiedener Meinung sind|Nach dem Streit haben sie sich wieder vertragen.|B1|Familie
+Kita|die|Kitas|N|детский сад|ein Ort, wo kleine Kinder tagsüber betreut werden|Unser Sohn geht seit Mai in die Kita.|B1|Familie
+Elternabend|der|Elternabende|N|родительское собрание|ein Treffen der Eltern mit den Lehrern|Am Donnerstag ist Elternabend in der Schule.|B1|Familie
+heiraten|-|heiratet – heiratete – hat geheiratet|V|жениться, выходить замуж|Ehemann und Ehefrau werden|Wir haben vor fünf Jahren geheiratet.|B1|Familie
+sich trennen|-|trennt sich – trennte sich – hat sich getrennt|V|расставаться|eine Beziehung beenden|Ihre Eltern haben sich vor zwei Jahren getrennt.|B1|Familie
+sich streiten|-|streitet sich – stritt sich – hat sich gestritten|V|ссориться|laut verschiedener Meinung sein und diskutieren|Die Kinder streiten sich oft um das Spielzeug.|B1|Familie
+sich vertragen|-|verträgt sich – vertrug sich – hat sich vertragen|V|ладить; мириться|gut miteinander auskommen|Meine Katze verträgt sich gut mit dem Hund.|B2|Familie
+betreuen|-|betreut – betreute – hat betreut|V|присматривать за, опекать|auf jemanden aufpassen und sich kümmern|Die Oma betreut die Kinder am Nachmittag.|B1|Familie
+alleinerziehend|-|-|A|воспитывающий ребёнка в одиночку|ein Elternteil lebt allein mit dem Kind|Als alleinerziehende Mutter hat sie wenig Zeit.|B2|Familie
+Nachricht|die|Nachrichten|N|сообщение; новости (мн. ч.)|eine kurze Information oder Neuigkeit|Ich habe dir eine Nachricht geschickt.|B1|Medien
+Anhang|der|Anhänge|N|вложение (в письме)|eine Datei, die man mit einer E-Mail schickt|Im Anhang finden Sie meinen Lebenslauf.|B1|Medien
+Datenschutz|der|(kein Plural)|N|защита данных|der Schutz von persönlichen Informationen|Der Datenschutz ist im Internet sehr wichtig.|B2|Medien
+Werbung|die|(kein Plural)|N|реклама|Texte und Bilder, die Produkte verkaufen sollen|Im Fernsehen gibt es zu viel Werbung.|B1|Medien
+Passwort|das|Passwörter|N|пароль|ein geheimes Wort für den Zugang zu einem Konto|Ich habe mein Passwort vergessen.|B1|Medien
+herunterladen|-|lädt herunter – lud herunter – hat heruntergeladen|V|скачивать|eine Datei aus dem Internet auf den Computer holen|Ich habe das Formular im Internet heruntergeladen.|B1|Medien
+speichern|-|speichert – speicherte – hat gespeichert|V|сохранять|Daten auf dem Computer oder Handy behalten|Vergiss nicht, die Datei zu speichern.|B1|Medien
+sich informieren (über + Akk.)|-|informiert sich – informierte sich – hat sich informiert|V|узнавать, получать информацию о|Informationen über etwas suchen|Ich informiere mich im Internet über die Prüfung.|B1|Medien
+erreichen|-|erreicht – erreichte – hat erreicht|V|дозвониться; достигать|mit jemandem in Kontakt kommen; ein Ziel schaffen|Ich konnte Sie gestern telefonisch nicht erreichen.|B1|Medien
+abhängig (von + Dat.)|-|-|A|зависимый от|man braucht etwas sehr und kann nicht ohne es sein|Viele Jugendliche sind vom Handy abhängig.|B2|Medien
+Klimawandel|der|(kein Plural)|N|изменение климата|die Veränderung des Klimas auf der Erde|Der Klimawandel betrifft alle Länder.|B1|Umwelt
+Energie|die|Energien|N|энергия|Kraft, zum Beispiel Strom oder Wärme|Wir sollten im Winter Energie sparen.|B1|Umwelt
+Verpackung|die|Verpackungen|N|упаковка|das Material um eine Ware herum|Viele Produkte haben zu viel Verpackung.|B1|Umwelt
+Abfall|der|Abfälle|N|отходы|Müll, Reste|Die Abfälle werden getrennt gesammelt.|B2|Umwelt
+schützen|-|schützt – schützte – hat geschützt|V|защищать|aufpassen, dass nichts Schlimmes passiert|Wir müssen die Natur schützen.|B1|Umwelt
+verschwenden|-|verschwendet – verschwendete – hat verschwendet|V|тратить впустую|mehr verbrauchen als nötig|Man sollte kein Wasser verschwenden.|B2|Umwelt
+vermeiden|-|vermeidet – vermied – hat vermieden|V|избегать|etwas nicht tun, damit etwas nicht passiert|Ich versuche, Plastik zu vermeiden.|B2|Umwelt
+umweltfreundlich|-|umweltfreundlicher – am umweltfreundlichsten|A|экологичный|gut für die Umwelt|Fahrradfahren ist umweltfreundlich.|B1|Umwelt
+Verein|der|Vereine|N|клуб, общество|eine Gruppe von Menschen mit gleichem Hobby|Mein Sohn spielt Fußball im Verein.|B1|Freizeit
+Veranstaltung|die|Veranstaltungen|N|мероприятие|ein Konzert, ein Fest oder eine Versammlung|Die Veranstaltung beginnt um 19 Uhr.|B1|Freizeit
+Eintritt|der|(kein Plural)|N|вход; плата за вход|das Geld, das man für Kino, Museum usw. bezahlt|Der Eintritt ist für Kinder frei.|B1|Freizeit
+Ermäßigung|die|Ermäßigungen|N|скидка, льгота|ein günstigerer Preis für bestimmte Personen|Studenten bekommen eine Ermäßigung.|B1|Freizeit
+sich erholen|-|erholt sich – erholte sich – hat sich erholt|V|отдыхать, восстанавливаться|nach Arbeit oder Krankheit wieder Kraft bekommen|Im Urlaub habe ich mich gut erholt.|B1|Freizeit
+sich verabreden|-|verabredet sich – verabredete sich – hat sich verabredet|V|договариваться о встрече|einen Termin mit Freunden ausmachen|Ich habe mich mit Lena zum Kaffee verabredet.|B1|Freizeit
+sich freuen (auf + Akk.)|-|freut sich – freute sich – hat sich gefreut|V|радоваться (предстоящему), ждать с нетерпением|positiv an etwas in der Zukunft denken|Ich freue mich auf das Wochenende.|B1|Verben mit Präposition
+sich freuen (über + Akk.)|-|freut sich – freute sich – hat sich gefreut|V|радоваться (тому, что уже есть)|froh sein über etwas, das schon passiert ist|Ich habe mich sehr über dein Geschenk gefreut.|B1|Verben mit Präposition
+sich interessieren (für + Akk.)|-|interessiert sich – interessierte sich – hat sich interessiert|V|интересоваться|etwas spannend finden und mehr wissen wollen|Interessierst du dich für Musik?|B1|Verben mit Präposition
+Konto|das|Konten|N|счёт (в банке)|Geld bei einer Bank|Ich möchte ein Konto eröffnen.|B1|Geld
+Versicherung|die|Versicherungen|N|страховка, страхование|eine Firma zahlt bei einem Schaden|Die Versicherung bezahlt den Schaden.|B1|Geld
+Rate|die|Raten|N|взнос (при рассрочке)|ein Teil von einem Preis, den man jeden Monat zahlt|Ich bezahle den Fernseher in zwölf Raten.|B1|Geld
+Mahnung|die|Mahnungen|N|напоминание о неоплате|ein Brief, weil man eine Rechnung nicht bezahlt hat|Ich habe eine Mahnung von der Telefonfirma bekommen.|B2|Geld
+Steuer|die|Steuern|N|налог|Geld, das man an den Staat zahlt|Von meinem Gehalt gehen viele Steuern ab.|B1|Geld
+Schulden|die|(nur Plural)|N|долги|Geld, das man jemandem zurückzahlen muss|Er hat Schulden bei der Bank.|B1|Geld
+überweisen|-|überweist – überwies – hat überwiesen|V|переводить (деньги)|Geld von einem Konto auf ein anderes schicken|Ich überweise Ihnen das Geld bis Freitag.|B1|Geld
+abheben|-|hebt ab – hob ab – hat abgehoben|V|снимать (деньги со счёта)|Geld vom Konto holen|Ich habe am Automaten Geld abgehoben.|B1|Geld
+sparen|-|spart – sparte – hat gespart|V|экономить, копить|Geld nicht ausgeben, sondern behalten|Wir sparen für ein neues Auto.|B1|Geld
+eröffnen|-|eröffnet – eröffnete – hat eröffnet|V|открывать (счёт, магазин)|etwas Neues beginnen|Morgen eröffnet ein neues Café in unserer Straße.|B1|Geld
+kostenlos|-|-|A|бесплатный|man muss nichts bezahlen|Die Beratung ist kostenlos.|B1|Geld
+Lebensmittel|das|Lebensmittel|N|продукты питания|alles, was man essen und trinken kann|Lebensmittel sind teurer geworden.|B1|Ernährung
+Zutat|die|Zutaten|N|ингредиент|was man für ein Rezept zum Kochen braucht|Für den Kuchen brauche ich nur fünf Zutaten.|B1|Ernährung
+Mahlzeit|die|Mahlzeiten|N|приём пищи|Frühstück, Mittagessen oder Abendessen|Wir essen drei Mahlzeiten am Tag.|B1|Ernährung
+Ernährung|die|(kein Plural)|N|питание|was und wie man isst|Eine gesunde Ernährung ist sehr wichtig.|B1|Ernährung
+vegetarisch|-|-|A|вегетарианский|ohne Fleisch|Gibt es auch ein vegetarisches Gericht?|B1|Ernährung
+Gesellschaft|die|Gesellschaften|N|общество|alle Menschen, die zusammen in einem Land leben|In unserer Gesellschaft leben viele Kulturen zusammen.|B2|Gesellschaft
+Vorurteil|das|Vorurteile|N|предрассудок|eine schlechte Meinung ohne echte Erfahrung|Man sollte keine Vorurteile gegen andere haben.|B2|Gesellschaft
+Ehrenamt|das|Ehrenämter|N|волонтёрская работа|eine Arbeit, die man freiwillig und ohne Geld macht|Sie hilft im Ehrenamt bei der Tafel.|B2|Gesellschaft
+Integration|die|(kein Plural)|N|интеграция|wenn neue Menschen ein Teil der Gesellschaft werden|Sprache ist der Schlüssel zur Integration.|B1|Gesellschaft
+Rente|die|Renten|N|пенсия|Geld, das man im Alter nach dem Arbeitsleben bekommt|Mein Vater geht nächstes Jahr in Rente.|B1|Gesellschaft
+freiwillig|-|-|A|добровольный|man tut es, weil man will, nicht weil man muss|Er hilft freiwillig im Sportverein.|B1|Gesellschaft
+unterstützen|-|unterstützt – unterstützte – hat unterstützt|V|поддерживать|jemandem helfen|Meine Familie unterstützt mich sehr.|B1|Gesellschaft
+achten (auf + Akk.)|-|achtet – achtete – hat geachtet|V|обращать внимание на|gut aufpassen|Bitte achten Sie auf die Rechtschreibung.|B1|Verben mit Präposition
+sich ärgern (über + Akk.)|-|ärgert sich – ärgerte sich – hat sich geärgert|V|злиться на, сердиться|wütend sein wegen etwas|Ich ärgere mich über die Verspätung.|B1|Verben mit Präposition
+sich bedanken (bei + Dat. / für + Akk.)|-|bedankt sich – bedankte sich – hat sich bedankt|V|благодарить (кого-то за что-то)|Danke sagen|Ich möchte mich bei Ihnen für Ihre Hilfe bedanken.|B1|Verben mit Präposition
+bitten (um + Akk.)|-|bittet – bat – hat gebeten|V|просить о|höflich sagen, dass man etwas möchte|Ich bitte Sie um einen Rückruf.|B1|Verben mit Präposition
+denken (an + Akk.)|-|denkt – dachte – hat gedacht|V|думать о; не забывать|etwas im Kopf haben, sich erinnern|Denk bitte an den Termin morgen!|B1|Verben mit Präposition
+sich entschuldigen (für + Akk.)|-|entschuldigt sich – entschuldigte sich – hat sich entschuldigt|V|извиняться за|sagen, dass einem etwas leidtut|Ich entschuldige mich für die späte Antwort.|B1|Verben mit Präposition
+sich erinnern (an + Akk.)|-|erinnert sich – erinnerte sich – hat sich erinnert|V|вспоминать, помнить о|etwas aus der Vergangenheit im Kopf haben|Erinnerst du dich an unseren ersten Deutschkurs?|B1|Verben mit Präposition
+sich gewöhnen (an + Akk.)|-|gewöhnt sich – gewöhnte sich – hat sich gewöhnt|V|привыкать к|etwas wird normal für einen|Ich habe mich an das Wetter in Deutschland gewöhnt.|B1|Verben mit Präposition
+hoffen (auf + Akk.)|-|hofft – hoffte – hat gehofft|V|надеяться на|wünschen, dass etwas Gutes passiert|Wir hoffen auf besseres Wetter.|B1|Verben mit Präposition
+sich konzentrieren (auf + Akk.)|-|konzentriert sich – konzentrierte sich – hat sich konzentriert|V|сосредоточиться на|genau an eine Sache denken|Bei dem Lärm kann ich mich nicht konzentrieren.|B1|Verben mit Präposition
+warten (auf + Akk.)|-|wartet – wartete – hat gewartet|V|ждать (кого-то, что-то)|bleiben, bis jemand kommt oder etwas passiert|Ich warte seit einer Stunde auf den Techniker.|B1|Verben mit Präposition
+sich wenden (an + Akk.)|-|wendet sich – wandte sich – hat sich gewandt|V|обращаться к|jemanden um Hilfe oder Information bitten|Bei Fragen wenden Sie sich bitte an Frau Klein.|B2|Verben mit Präposition
+es handelt sich (um + Akk.)|-|handelte sich – hat sich gehandelt|V|речь идёт о|es geht um|Es handelt sich um einen Fehler in der Rechnung.|B2|Verben mit Präposition
+abhängen (von + Dat.)|-|hängt ab – hing ab – hat abgehangen|V|зависеть от|etwas wird von etwas anderem bestimmt|Das hängt vom Wetter ab.|B2|Verben mit Präposition
+bestehen (aus + Dat.)|-|besteht – bestand – hat bestanden|V|состоять из|etwas hat diese Teile|Die Prüfung besteht aus vier Teilen.|B2|Verben mit Präposition
+sich beteiligen (an + Dat.)|-|beteiligt sich – beteiligte sich – hat sich beteiligt|V|участвовать в|bei etwas mitmachen|Alle Nachbarn haben sich an dem Fest beteiligt.|B2|Verben mit Präposition
+verzichten (auf + Akk.)|-|verzichtet – verzichtete – hat verzichtet|V|отказываться от|etwas nicht nehmen oder nicht machen|Ich verzichte auf Zucker im Kaffee.|B2|Verben mit Präposition
+sich eignen (für + Akk.)|-|eignet sich – eignete sich – hat sich geeignet|V|подходить для|passend sein für etwas|Die Wohnung eignet sich gut für eine Familie.|B2|Verben mit Präposition
+sich beziehen (auf + Akk.)|-|bezieht sich – bezog sich – hat sich bezogen|V|ссылаться на|etwas meint oder betrifft etwas anderes|Ich beziehe mich auf Ihre Anzeige vom 3. Mai.|B2|Verben mit Präposition
+sich entscheiden (für + Akk.)|-|entscheidet sich – entschied sich – hat sich entschieden|V|решить, выбрать|eine Wahl treffen|Ich habe mich für die kleinere Wohnung entschieden.|B1|Verben mit Präposition
+gehören (zu + Dat.)|-|gehört – gehörte – hat gehört|V|относиться к, входить в|ein Teil von etwas sein|Das Putzen der Treppe gehört zu unseren Pflichten.|B1|Verben mit Präposition
+eine Entscheidung treffen|-|trifft – traf – hat getroffen|R|принять решение|sich für etwas entscheiden|Wir müssen bald eine Entscheidung treffen.|B2|Nomen-Verb-Verbindungen
+in Anspruch nehmen|-|nimmt – nahm – hat genommen|R|воспользоваться (услугой)|eine Hilfe oder einen Service benutzen|Sie können eine kostenlose Beratung in Anspruch nehmen.|B2|Nomen-Verb-Verbindungen
+zur Verfügung stehen|-|steht – stand – hat gestanden|R|быть в распоряжении|man kann es benutzen oder fragen|Für Fragen stehe ich Ihnen gern zur Verfügung.|B2|Nomen-Verb-Verbindungen
+Rücksicht nehmen (auf + Akk.)|-|nimmt – nahm – hat genommen|R|считаться с|an andere denken und sie nicht stören|Bitte nehmen Sie Rücksicht auf die Nachbarn.|B2|Nomen-Verb-Verbindungen
+in Frage kommen|-|kommt – kam – ist gekommen|R|подходить, рассматриваться как вариант|eine mögliche Lösung sein|Eine Wohnung ohne Aufzug kommt für uns nicht in Frage.|B2|Nomen-Verb-Verbindungen
+Bescheid sagen|-|sagt – sagte – hat gesagt|R|сообщить, дать знать|jemanden informieren|Sag mir bitte Bescheid, wenn du ankommst.|B1|Nomen-Verb-Verbindungen
+einen Antrag stellen|-|stellt – stellte – hat gestellt|R|подать заявление|offiziell um etwas bitten|Ich habe einen Antrag auf Wohngeld gestellt.|B1|Nomen-Verb-Verbindungen
+eine Rolle spielen|-|spielt – spielte – hat gespielt|R|играть роль|wichtig sein|Der Preis spielt für mich eine große Rolle.|B2|Nomen-Verb-Verbindungen
+Kritik üben (an + Dat.)|-|übt – übte – hat geübt|R|критиковать|sagen, was schlecht ist|Viele Kunden üben Kritik an den hohen Preisen.|B2|Nomen-Verb-Verbindungen
+meiner Meinung nach|-|-|R|по моему мнению|so beginnt man die eigene Meinung|Meiner Meinung nach ist das eine gute Idee.|B1|Redemittel
+Ich bin der Ansicht, dass …|-|-|R|я считаю, что …|eine Meinung höflich und formell sagen|Ich bin der Ansicht, dass Kinder mehr Sport machen sollten.|B2|Redemittel
+einerseits …, andererseits …|-|-|R|с одной стороны …, с другой стороны …|zwei Seiten einer Sache zeigen|Einerseits ist die Stadt laut, andererseits gibt es viele Angebote.|B2|Redemittel
+Da stimme ich Ihnen zu.|-|-|R|тут я с вами согласен|man hat die gleiche Meinung|Da stimme ich Ihnen völlig zu: Bildung ist sehr wichtig.|B1|Redemittel
+Das sehe ich anders.|-|-|R|я вижу это иначе|höflich widersprechen|Das sehe ich anders: Homeoffice kann auch einsam machen.|B1|Redemittel
+Sehr geehrte Damen und Herren,|-|-|R|Уважаемые дамы и господа,|formelle Anrede, wenn man den Namen nicht kennt|Sehr geehrte Damen und Herren, ich schreibe Ihnen wegen meiner Bestellung.|B1|Briefe
+Mit freundlichen Grüßen|-|-|R|С уважением (в конце письма)|formeller Gruß am Ende eines Briefes|Einen formellen Brief beendet man mit „Mit freundlichen Grüßen“.|B1|Briefe
+Ich würde mich freuen, wenn …|-|-|R|я был бы рад(а), если бы …|eine höfliche Bitte am Ende eines Briefes|Ich würde mich freuen, wenn Sie mir bald antworten.|B1|Briefe
+Vielen Dank im Voraus|-|-|R|заранее спасибо|man dankt schon vorher für die Hilfe|Vielen Dank im Voraus für Ihre Hilfe.|B1|Briefe
+Leider muss ich Ihnen mitteilen, dass …|-|-|R|к сожалению, вынужден(а) сообщить, что …|eine schlechte Nachricht höflich einleiten|Leider muss ich Ihnen mitteilen, dass ich nicht kommen kann.|B2|Briefe
+deshalb|-|-|Adv|поэтому|nennt die Folge; danach kommt sofort das Verb|Ich war krank, deshalb bin ich nicht gekommen.|B1|Satzverbindung
+außerdem|-|-|Adv|кроме того|nennt noch einen Punkt; danach kommt sofort das Verb|Die Wohnung ist hell, außerdem hat sie einen Balkon.|B1|Satzverbindung
+stattdessen|-|-|Adv|вместо этого|nicht das eine, sondern das andere|Ich hatte keine Zeit zu kochen, stattdessen habe ich Pizza bestellt.|B2|Satzverbindung
+dennoch|-|-|Adv|тем не менее|wie trotzdem, eher formell|Die Aufgabe war schwer, dennoch hat sie sie gelöst.|B2|Satzverbindung
+sobald|-|-|K|как только|direkt wenn etwas passiert; Verb am Ende|Ich melde mich, sobald ich mehr weiß.|B1|Satzverbindung
+nachdem|-|-|K|после того как|zuerst passiert das eine, dann das andere; Verb am Ende|Nachdem er gegessen hatte, ging er schlafen.|B2|Satzverbindung
+bevor|-|-|K|перед тем как|früher als etwas anderes; Verb am Ende|Bevor du gehst, mach bitte das Licht aus.|B1|Satzverbindung
+seitdem|-|-|K|с тех пор как|von einem Zeitpunkt in der Vergangenheit bis jetzt; Verb am Ende|Seitdem ich in Dresden wohne, fahre ich viel Fahrrad.|B1|Satzverbindung
+indem|-|-|K|тем, что; путём того, что|sagt, wie man etwas macht; Verb am Ende|Man lernt Wörter am besten, indem man sie oft wiederholt.|B2|Satzverbindung
+während|-|-|K|в то время как, пока|zwei Dinge passieren gleichzeitig; Verb am Ende|Während ich koche, macht mein Sohn Hausaufgaben.|B1|Satzverbindung
+ob|-|-|K|ли|für indirekte Ja/Nein-Fragen; Verb am Ende|Ich weiß nicht, ob der Laden heute geöffnet hat.|B1|Satzverbindung
+sondern|-|-|K|а (после отрицания)|nach einer Verneinung kommt das Richtige|Ich komme nicht am Montag, sondern am Dienstag.|B1|Satzverbindung
+weder … noch|-|-|K|ни … ни|nicht das eine und auch nicht das andere|Ich habe weder Zeit noch Geld.|B2|Satzverbindung
+sowohl … als auch|-|-|K|как … так и|das eine und auch das andere|Sie spricht sowohl Russisch als auch Deutsch.|B2|Satzverbindung
+zwar … aber|-|-|K|хотя … но; правда … но|ja, das stimmt, aber es gibt ein Problem|Die Wohnung ist zwar klein, aber sehr gemütlich.|B2|Satzverbindung
+je … desto|-|-|K|чем … тем|wenn das eine mehr wird, wird das andere auch mehr|Je mehr ich übe, desto sicherer werde ich.|B2|Satzverbindung
+statt (+ Genitiv)|-|-|P|вместо|anstelle von etwas|Statt eines Autos kaufe ich ein Fahrrad.|B2|Satzverbindung
+außerhalb (+ Genitiv)|-|-|P|за пределами, вне|nicht in einem Bereich|Außerhalb der Öffnungszeiten ist niemand da.|B2|Zeit
+laut (+ Dativ)|-|-|P|согласно|nach Angabe von|Laut Wetterbericht wird es morgen regnen.|B2|Satzverbindung
+seit (+ Dativ)|-|-|P|уже, с (о времени)|von einem Zeitpunkt bis jetzt|Ich wohne seit drei Jahren in Deutschland.|B1|Zeit
+wahrscheinlich|-|-|Adv|вероятно|fast sicher|Wahrscheinlich komme ich etwas später.|B1|Alltag
+eigentlich|-|-|Adv|вообще-то, собственно|in Wirklichkeit; man wollte anders|Eigentlich wollte ich heute früh schlafen gehen.|B1|Alltag
+rechtzeitig|-|-|Adv|своевременно|früh genug|Bitte melden Sie sich rechtzeitig an.|B1|Alltag
+vorher|-|-|Adv|заранее, до этого|früher als etwas anderes|Ruf bitte vorher an, wenn du kommst.|B1|Zeit
+gleichzeitig|-|-|Adv|одновременно|zur gleichen Zeit|Ich kann nicht gleichzeitig kochen und telefonieren.|B1|Zeit
+ehrlich|-|ehrlicher – am ehrlichsten|A|честный|man sagt die Wahrheit|Ehrlich gesagt verstehe ich das nicht.|B1|Meinung
+höflich|-|höflicher – am höflichsten|A|вежливый|freundlich und mit gutem Benehmen|Er hat sehr höflich nach dem Weg gefragt.|B1|Alltag
+ausreichend|-|-|A|достаточный|genug|Haben Sie ausreichend Zeit für die Aufgabe?|B2|Alltag
+notwendig|-|-|A|необходимый|man braucht es unbedingt|Ist ein Termin notwendig?|B1|Alltag
+erforderlich|-|-|A|требуемый, необходимый|offiziell nötig|Für die Anmeldung ist ein Ausweis erforderlich.|B2|Behörden
+zufrieden (mit + Dat.)|-|zufriedener – am zufriedensten|A|довольный (чем-то)|man findet etwas gut so, wie es ist|Ich bin mit meiner neuen Arbeit sehr zufrieden.|B1|Meinung
+enttäuscht (von + Dat.)|-|-|A|разочарованный (в)|traurig, weil etwas nicht so gut war wie erhofft|Ich bin von dem Service enttäuscht.|B1|Meinung
+bereit|-|-|A|готовый|man will und kann etwas sofort tun|Ich bin bereit, am Wochenende zu arbeiten.|B1|Arbeit
+offensichtlich|-|-|A|очевидный; очевидно|man kann es klar sehen|Offensichtlich hat er die Nachricht nicht gelesen.|B2|Meinung
+Möglichkeit|die|Möglichkeiten|N|возможность|etwas, das man machen kann|Gibt es die Möglichkeit, später zu bezahlen?|B1|Alltag
+Entscheidung|die|Entscheidungen|N|решение (выбор)|wenn man sich für eine Sache entscheidet|Das war eine schwierige Entscheidung.|B1|Meinung
+Lösung|die|Lösungen|N|решение (проблемы)|der Weg aus einem Problem|Wir müssen eine Lösung finden.|B1|Meinung
+Ursache|die|Ursachen|N|причина|der Grund, warum etwas passiert|Die Ursache des Feuers ist noch unbekannt.|B2|Gesellschaft
+Folge|die|Folgen|N|последствие|was passiert, weil etwas anderes passiert ist|Rauchen hat schlimme Folgen für die Gesundheit.|B1|Gesellschaft
+Bedingung|die|Bedingungen|N|условие|etwas muss erfüllt sein|Unter welchen Bedingungen bekomme ich das Geld?|B2|Behörden
+Absicht|die|Absichten|N|намерение|was man vorhat zu tun|Das war keine Absicht.|B2|Meinung
+Ansicht|die|Ansichten|N|взгляд, мнение|eine Meinung|Ich teile Ihre Ansicht nicht.|B2|Meinung
+Zusammenhang|der|Zusammenhänge|N|связь, взаимосвязь|wie zwei Dinge miteinander verbunden sind|Es gibt einen Zusammenhang zwischen Schlaf und Gesundheit.|B2|Gesellschaft
+Entwicklung|die|Entwicklungen|N|развитие|wie sich etwas mit der Zeit verändert|Die Entwicklung der Preise macht vielen Sorgen.|B2|Gesellschaft
+Unterschied|der|Unterschiede|N|разница, различие|was zwischen zwei Dingen nicht gleich ist|Was ist der Unterschied zwischen „als“ und „wenn“?|B1|Alltag
+Mehrheit|die|Mehrheiten|N|большинство|mehr als die Hälfte|Die Mehrheit der Leute fährt mit dem Auto zur Arbeit.|B2|Gesellschaft
+Zweck|der|Zwecke|N|цель, назначение|wofür man etwas macht oder benutzt|Zu welchem Zweck brauchen Sie die Bescheinigung?|B2|Behörden
+Zukunft|die|(kein Plural)|N|будущее|die Zeit, die noch kommt|In Zukunft möchte ich als Erzieherin arbeiten.|B1|Zeit
+vorschlagen|-|schlägt vor – schlug vor – hat vorgeschlagen|V|предлагать|eine Idee nennen|Ich habe vorgeschlagen, dass wir uns um zehn treffen.|B1|Meinung
+empfehlen|-|empfiehlt – empfahl – hat empfohlen|V|рекомендовать, советовать|sagen, dass etwas gut ist|Können Sie mir einen guten Zahnarzt empfehlen?|B1|Alltag
+erwarten|-|erwartet – erwartete – hat erwartet|V|ожидать|denken, dass etwas passieren wird|Ich erwarte eine schnelle Antwort.|B1|Alltag
+beantworten|-|beantwortet – beantwortete – hat beantwortet|V|отвечать на (вопрос, письмо)|auf eine Frage antworten|Bitte beantworten Sie alle Fragen.|B1|Alltag
+erklären|-|erklärt – erklärte – hat erklärt|V|объяснять|so sagen, dass jemand etwas versteht|Kannst du mir die Aufgabe noch einmal erklären?|B1|Bildung
+vergleichen|-|vergleicht – verglich – hat verglichen|V|сравнивать|sehen, was gleich und was anders ist|Vergleichen Sie die Preise im Internet.|B1|Einkaufen
+gelten|-|gilt – galt – hat gegolten|V|действовать, быть действительным|gültig sein|Das Ticket gilt für alle Busse und Bahnen.|B2|Verkehr
+fehlen|-|fehlt – fehlte – hat gefehlt|V|не хватать; отсутствовать|nicht da sein|Mir fehlt noch eine Unterschrift.|B1|Alltag
+zustimmen|-|stimmt zu – stimmte zu – hat zugestimmt|V|соглашаться|sagen, dass man die gleiche Meinung hat|Der Vermieter hat der Reparatur zugestimmt.|B2|Meinung
+ablehnen|-|lehnt ab – lehnte ab – hat abgelehnt|V|отклонять, отказывать|nein sagen zu etwas|Mein Antrag wurde leider abgelehnt.|B1|Behörden
+erfahren|-|erfährt – erfuhr – hat erfahren|V|узнавать|eine neue Information bekommen|Wann erfahre ich das Ergebnis der Prüfung?|B1|Alltag
+sich verständigen|-|verständigt sich – verständigte sich – hat sich verständigt|V|объясняться (друг с другом)|sich gegenseitig verstehen|Wir konnten uns gut auf Deutsch verständigen.|B2|Alltag
+klären|-|klärt – klärte – hat geklärt|V|выяснять, прояснять|ein Problem lösen oder eine Frage beantworten|Das muss ich noch mit dem Chef klären.|B1|Arbeit
+verbessern|-|verbessert – verbesserte – hat verbessert|V|улучшать; исправлять|etwas besser machen|Ich möchte mein Deutsch verbessern.|B1|Bildung
+sich entwickeln|-|entwickelt sich – entwickelte sich – hat sich entwickelt|V|развиваться|sich langsam verändern|Die Stadt hat sich in den letzten Jahren stark entwickelt.|B2|Gesellschaft
+sich lohnen|-|lohnt sich – lohnte sich – hat sich gelohnt|V|стоить того, окупаться|es bringt einen Vorteil|Es lohnt sich, jeden Tag ein bisschen zu lernen.|B1|Meinung

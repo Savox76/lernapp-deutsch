@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Deutsch lernen B1·B2</title>
+<meta name="theme-color" content="#e0a21b">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Golos+Text:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap" id="app">
+  <div class="empty" id="boot"><h3>Wird geladen …</h3><p>Загрузка …</p></div>
+</div>
+
+<nav class="tabs" aria-label="Bereiche" id="tabs">
+  <button data-go="home"><span class="ic">◉</span>Heute</button>
+  <button data-go="woerter"><span class="ic">▤</span>Wörter</button>
+  <button data-go="satzbau"><span class="ic">⇄</span>Satzbau</button>
+  <button data-go="statistik"><span class="ic">▮▮</span>Statistik</button>
+  <button data-go="mehr"><span class="ic">≡</span>Mehr</button>
+</nav>
+<div class="toast" id="toast" hidden></div>
+
+<template id="tpl-regeln">
+  <details class="g" open><summary>1. Wo steht das Verb?</summary><div class="gbody">
+    <p><b>Hauptsatz:</b> Das konjugierte Verb steht immer auf <b>Position 2</b>. Egal, was am Anfang steht.</p>
+    <div class="ex">Ich <em>gehe</em> heute ins Kino.<br>Heute <em>gehe</em> ich ins Kino.<br>Wegen des Regens <em>bleiben</em> wir zu Hause.</div>
+    <p><b>Ja/Nein-Frage und Imperativ:</b> Verb auf Position 1.</p>
+    <div class="ex"><em>Kommst</em> du morgen? · <em>Kommen</em> Sie bitte herein!</div>
+    <p><b>Nebensatz</b> (weil, dass, wenn, obwohl, ob, als …): Das konjugierte Verb steht <b>ganz am Ende</b>.</p>
+    <div class="ex">Ich bleibe zu Hause, weil ich krank <em>bin</em>.</div>
+    <p><b>Nebensatz zuerst:</b> Dann beginnt der Hauptsatz mit dem Verb.</p>
+    <div class="ex">Weil ich krank bin, <em>bleibe</em> ich zu Hause.</div>
+    <div class="rubox">В главном предложении спрягаемый глагол всегда на <b>2-м месте</b>. «Место» — это не слово, а смысловой блок: «Wegen des Regens» — это одно место. В придаточном (weil, dass, wenn …) глагол — <b>в самом конце</b>. Если придаточное стоит первым, главное начинается с глагола.</div>
+  </div></details>
+
+  <details class="g"><summary>2. Die Satzklammer</summary><div class="gbody">
+    <p>Bei zwei Verbteilen steht Teil 1 auf Position 2 und Teil 2 ganz am Ende. Alles andere steht dazwischen.</p>
+    <div class="tablewrap"><table>
+      <tr><th>Typ</th><th>Position 2</th><th>Mitte</th><th>Ende</th></tr>
+      <tr><td>Modalverb</td><td>Ich <b>muss</b></td><td>morgen zum Amt</td><td><b>gehen</b>.</td></tr>
+      <tr><td>Perfekt</td><td>Ich <b>habe</b></td><td>den Antrag gestern</td><td><b>abgegeben</b>.</td></tr>
+      <tr><td>Trennbar</td><td>Der Zug <b>kommt</b></td><td>um 8 Uhr</td><td><b>an</b>.</td></tr>
+      <tr><td>Passiv</td><td>Das Paket <b>wird</b></td><td>morgen</td><td><b>geliefert</b>.</td></tr>
+      <tr><td>Futur</td><td>Ich <b>werde</b></td><td>die Prüfung</td><td><b>bestehen</b>.</td></tr>
+    </table></div>
+    <div class="rubox">«Рамка»: если у глагола две части, первая стоит на 2-м месте, вторая — в конце предложения. Всё остальное — между ними.</div>
+  </div></details>
+
+  <details class="g"><summary>3. Satzklammer im Nebensatz</summary><div class="gbody">
+    <p>Im Nebensatz steht das <b>konjugierte</b> Verb ganz hinten, also <b>nach</b> dem Infinitiv oder Partizip.</p>
+    <div class="ex">…, weil ich morgen arbeiten <em>muss</em>.<br>…, dass sie die Prüfung bestanden <em>hat</em>.<br>…, ob der Brief schon geschickt worden <em>ist</em>.</div>
+    <p>Trennbare Verben bleiben im Nebensatz zusammen: …, wenn der Zug <em>ankommt</em>.</p>
+    <div class="rubox">В придаточном спрягаемый глагол стоит <b>после</b> инфинитива или причастия: «… arbeiten muss», «… bestanden hat». Отделяемые приставки не отделяются: «ankommt».</div>
+  </div></details>
+
+  <details class="g"><summary>4. Reihenfolge in der Mitte: TeKaMoLo</summary><div class="gbody">
+    <p><b>Te</b>mporal (wann?) → <b>Ka</b>usal (warum?) → <b>Mo</b>dal (wie?) → <b>Lo</b>kal (wo/wohin?)</p>
+    <div class="ex">Ich fahre <em>morgen</em> <em>wegen der Arbeit</em> <em>mit dem Zug</em> <em>nach Berlin</em>.</div>
+    <p><b>Pronomen</b> kommen früh, direkt nach dem Verb. Bei zwei Pronomen: Akkusativ vor Dativ (Ich gebe <b>es ihm</b>). Bei zwei Nomen: Dativ vor Akkusativ (Ich gebe <b>dem Mann das Buch</b>).</p>
+    <p><b>nicht</b> steht meist vor dem Teil, der verneint wird, oder am Ende vor dem zweiten Verbteil: Ich kann heute <b>nicht</b> kommen.</p>
+    <div class="rubox">Порядок обстоятельств: <b>когда → почему → как → где/куда</b>. Местоимения стоят рано, сразу после глагола. «nicht» — перед тем, что отрицается, или перед второй частью глагола.</div>
+  </div></details>
+
+  <details class="g"><summary>5. Konnektoren: Wohin geht das Verb?</summary><div class="gbody">
+    <div class="tablewrap"><table>
+      <tr><th>Gruppe</th><th>Wörter</th><th>Verb</th></tr>
+      <tr><td>Position 0</td><td>und, aber, oder, denn, sondern</td><td>Position 2 (normal)</td></tr>
+      <tr><td>Adverb (Pos. 1)</td><td>deshalb, trotzdem, dann, außerdem, deswegen, allerdings, danach</td><td>sofort danach</td></tr>
+      <tr><td>Nebensatz</td><td>weil, dass, wenn, als, obwohl, damit, ob, nachdem, bevor, sobald, falls, sodass, während, seit</td><td>ganz am Ende</td></tr>
+    </table></div>
+    <div class="ex">Ich bin müde, <em>denn</em> ich habe schlecht geschlafen.<br>Ich bin müde, <em>deshalb</em> gehe ich früh ins Bett.<br>Ich bin müde, <em>weil</em> ich schlecht geschlafen habe.</div>
+    <div class="rubox"><b>denn</b> и <b>weil</b> оба значат «потому что», но после <b>weil</b> глагол уходит в конец. После <b>deshalb</b> («поэтому») глагол стоит сразу. <b>als</b> — один раз в прошлом, <b>wenn</b> — каждый раз / в будущем.</div>
+  </div></details>
+
+  <details class="g"><summary>6. Fragen und indirekte Fragen</summary><div class="gbody">
+    <p>W-Frage: Fragewort, dann Verb: <b>Wann kommt</b> der Bus?</p>
+    <p>Indirekte Frage (höflich!): Verb ans Ende. Ja/Nein-Fragen mit <b>ob</b>.</p>
+    <div class="ex">Können Sie mir sagen, wann der Bus <em>kommt</em>?<br>Wissen Sie, ob der Arzt heute <em>da ist</em>?</div>
+    <div class="rubox">Вежливый вопрос «Können Sie mir sagen, …» — глагол уходит в конец. Вместо «ли» — <b>ob</b>.</div>
+  </div></details>
+
+  <details class="g"><summary>7. Artikel in allen Fällen</summary><div class="gbody">
+    <div class="tablewrap"><table>
+      <tr><th></th><th class="art-der">maskulin</th><th class="art-das">neutral</th><th class="art-die">feminin</th><th>Plural</th></tr>
+      <tr><td><b>Nominativ</b> (wer?)</td><td>der / ein</td><td>das / ein</td><td>die / eine</td><td>die / –</td></tr>
+      <tr><td><b>Akkusativ</b> (wen?)</td><td>den / einen</td><td>das / ein</td><td>die / eine</td><td>die / –</td></tr>
+      <tr><td><b>Dativ</b> (wem?)</td><td>dem / einem</td><td>dem / einem</td><td>der / einer</td><td>den / – (+n)</td></tr>
+      <tr><td><b>Genitiv</b> (wessen?)</td><td>des / eines (+s)</td><td>des / eines (+s)</td><td>der / einer</td><td>der / –</td></tr>
+    </table></div>
+    <div class="rubox">Nominativ = именительный, Akkusativ = винительный, Dativ = дательный, Genitiv = родительный. В Akkusativ меняется только мужской род: der → den.</div>
+  </div></details>
+
+  <details class="g"><summary>8. Präpositionen und ihr Fall</summary><div class="gbody">
+    <div class="tablewrap"><table>
+      <tr><th>Fall</th><th>Präpositionen</th></tr>
+      <tr><td>Akkusativ</td><td>durch, für, gegen, ohne, um, bis, entlang</td></tr>
+      <tr><td>Dativ</td><td>aus, bei, mit, nach, seit, von, zu, gegenüber, ab</td></tr>
+      <tr><td>Wechsel</td><td>an, auf, hinter, in, neben, über, unter, vor, zwischen</td></tr>
+      <tr><td>Genitiv</td><td>wegen, trotz, während, statt, innerhalb, außerhalb</td></tr>
+    </table></div>
+    <div class="ex">Ich lege das Buch auf <em>den</em> Tisch. (wohin → Akk.)<br>Das Buch liegt auf <em>dem</em> Tisch. (wo → Dat.)</div>
+    <div class="rubox">У предлогов «Wechsel»: <b>куда?</b> → Akkusativ, <b>где?</b> → Dativ.</div>
+  </div></details>
+
+  <details class="g"><summary>9. Adjektivendungen</summary><div class="gbody">
+    <p>Nach <b>der/die/das</b>: <b>-e</b> im Nominativ Singular und bei <i>die/das</i> im Akkusativ. Sonst <b>-en</b>.</p>
+    <div class="ex">der neu<em>e</em> Vermieter · den neu<em>en</em> Vermieter · mit dem neu<em>en</em> Vermieter</div>
+    <p>Nach <b>ein/kein/mein</b>: Die Endung zeigt das Genus, wenn der Artikel es nicht zeigt.</p>
+    <div class="ex">ein neu<em>er</em> Tisch · ein neu<em>es</em> Auto · eine neu<em>e</em> Lampe</div>
+    <div class="rubox">После der/die/das окончание <b>-e</b> только в Nominativ ед. ч. и в Akkusativ у die/das, иначе <b>-en</b>. После ein окончание показывает род: -er (м.), -es (ср.), -e (ж.).</div>
+  </div></details>
+
+  <details class="g"><summary>10. Passiv</summary><div class="gbody">
+    <p><b>werden + Partizip II.</b> Wichtig ist die Handlung, nicht die Person.</p>
+    <div class="ex">Präsens: Das Formular <em>wird</em> geprüft.<br>Präteritum: Das Formular <em>wurde</em> geprüft.<br>Perfekt: Das Formular <em>ist</em> geprüft <em>worden</em>.<br>Mit Modalverb: Das Formular <em>muss</em> geprüft <em>werden</em>.</div>
+    <div class="rubox">Пассив = <b>werden + Partizip II</b>. Важно действие, а не кто его делает.</div>
+  </div></details>
+
+  <details class="g"><summary>11. Konjunktiv II</summary><div class="gbody">
+    <p>Meist <b>würde + Infinitiv</b>. Bei haben, sein und Modalverben: hätte, wäre, könnte, müsste, dürfte, sollte.</p>
+    <div class="ex">Wenn ich Zeit <em>hätte</em>, <em>würde</em> ich mehr lesen.<br><em>Könnten</em> Sie mir bitte helfen?</div>
+    <div class="rubox">Это «бы»: <b>würde + Infinitiv</b>. Вежливо: <b>Könnten Sie …?</b> = «Не могли бы Вы …?»</div>
+  </div></details>
+
+  <details class="g"><summary>12. Relativsätze</summary><div class="gbody">
+    <p>Relativpronomen: Genus vom Bezugswort, Fall aus dem Relativsatz. Verb am Ende.</p>
+    <div class="ex">Der Mann, <em>der</em> dort steht, … (Nom.)<br>Der Mann, <em>den</em> ich kenne, … (Akk.)<br>Der Mann, <em>dem</em> ich helfe, … (Dat.)<br>Die Leute, <em>denen</em> ich schreibe, … (Dat. Pl.)</div>
+    <div class="rubox">Как «который»: род — от слова, падеж — из придаточного. Глагол в конце.</div>
+  </div></details>
+
+  <details class="g"><summary>13. Infinitiv mit zu</summary><div class="gbody">
+    <p>Nach vielen Verben und Ausdrücken kommt <b>zu + Infinitiv</b> ans Ende: versuchen, vergessen, anfangen, Lust haben, es ist wichtig …</p>
+    <div class="ex">Ich habe vergessen, die Rechnung <em>zu bezahlen</em>.<br>Trennbar: Ich habe vergessen, <em>anzurufen</em>.<br>Ziel: Ich lerne, <em>um</em> die Prüfung <em>zu bestehen</em>.</div>
+    <div class="rubox">«zu + инфинитив» стоит в конце. У отделяемых глаголов «zu» внутри: anzurufen. <b>um … zu</b> = «чтобы».</div>
+  </div></details>
+
+  <details class="g"><summary>14. Briefe und E-Mails</summary><div class="gbody">
+    <div class="tablewrap"><table>
+      <tr><th>Teil</th><th>formell</th><th>informell</th></tr>
+      <tr><td>Anrede</td><td>Sehr geehrte Frau Weber,</td><td>Liebe Anna, / Lieber Tom,</td></tr>
+      <tr><td>Einstieg</td><td>ich schreibe Ihnen, weil …</td><td>vielen Dank für deine Nachricht.</td></tr>
+      <tr><td>Bitte</td><td>Könnten Sie mir bitte … ?</td><td>Kannst du mir … ?</td></tr>
+      <tr><td>Schluss</td><td>Ich freue mich auf Ihre Antwort.</td><td>Ich freue mich auf dich!</td></tr>
+      <tr><td>Gruß</td><td>Mit freundlichen Grüßen</td><td>Viele Grüße / Liebe Grüße</td></tr>
+    </table></div>
+    <p>In der Prüfung: <b>alle Punkte</b> beantworten, Anrede und Gruß nicht vergessen, nach der Anrede klein weiterschreiben.</p>
+    <div class="rubox">Ответь на <b>все пункты</b> задания. После обращения с запятой пиши с маленькой буквы.</div>
+  </div></details>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>
