@@ -1,7 +1,8 @@
-# Deutsch lernen B1 · B2
+# Deutsch lernen A2 · B1 · B2
 
-Lern-App für die Deutschprüfung B1/B2 (DTZ, telc, Goethe) mit russischen Übersetzungen.
-Schwerpunkt: **Wortstellung / Satzbau**, Wortschatz mit Karteikasten und eine **Tagesstatistik**.
+Lern-App für die Deutschprüfungen **DTB B2 (Deutsch-Test für den Beruf)** und **DTZ (A2–B1)** mit russischen Übersetzungen.
+Schwerpunkt: **Wortstellung / Satzbau** mit einem Grundkurs von vorn, Prüfungstraining für Schreiben und Sprechen,
+Wortschatz mit Karteikasten und eine **Tagesstatistik**.
 
 - **Web-App:** https://savox76.github.io/lernapp-deutsch/
 - **Android-App (APK):** https://github.com/Savox76/lernapp-deutsch/releases/latest/download/deutsch-lernen.apk
@@ -20,7 +21,8 @@ automatisch beim nächsten Öffnen. Die App muss nicht neu installiert werden.
 
 | Bereich | Inhalt |
 |---|---|
-| Heute | Tagesmix (20 Aufgaben gemischt), Tagesziel, Serie |
+| Heute | **Grundkurs von vorn** (13 Stufen von „Verb auf Platz 2“ bis Passiv, nächste Stufe ab 80 %), Tagesmix (20 Aufgaben gemischt), Tagesziel, Serie |
+| Prüfung | Umschaltbar **DTB B2** / **DTZ**. DTB: E-Mail beantworten, Telefonnotiz, Forumsbeitrag, Sprachbausteine, Vortrag, Prüferfragen, Diskussion, Lösung finden, Hören im Beruf. DTZ: Brief, Brief-Lückentext, Lesen (Wegweiser, Anzeigen), Sich vorstellen, Erzählen, Gemeinsam planen, Hören. Mit Timer, Redemitteln, Musterlösungen zum Anhören und **Punkterechner** (bestanden ja/nein). |
 | Wörter | Karteikasten mit Wiederholung nach 1, 3, 7, 14, 30 … Tagen, Quiz: Bedeutung, der/die/das, Lückentext, Wortart |
 | Satzbau | Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat (hören und bauen) |
 | Statistik | Aufgaben, richtig/falsch und Minuten pro Tag, Diagramm 14 Tage, Übungsarten, häufigste Fehler, **Bericht per WhatsApp senden** |
@@ -52,6 +54,25 @@ Ich bleibe zu Hause, weil ich krank *bin*.|Я остаюсь дома, пото�
 
 Das **konjugierte Verb mit Sternchen** markieren (`*bin*`). Damit funktionieren die Übungen
 „Wo steht das Verb?“ und „Richtig oder falsch?“.
+
+**Prüfungsaufgaben** (`quellen/pruefung/*.json`): Jede Datei ist ein Objekt `{"typ": [Aufgaben]}`.
+Jede Aufgabe braucht eine eindeutige `id` und `ex` (`["DTB"]`, `["DTZ"]` oder beides).
+Typen und Felder:
+
+| Typ | Felder |
+|---|---|
+| `mail` | `t, von, betreff, text, fragen[{q,o,r}], aufgabe, punkte[], ru, rm[], m` |
+| `notiz` | `t, situation, audio, felder[{l, a:[Stichwörter]}], m` |
+| `forum` | `t, frage, beitraege[{name,text}], punkte[], ru, rm[], m` |
+| `brief` | `t, situation, punkte[], ru, rm[], m, w` |
+| `sb` | `t, text` mit `{{1}}`…, `gaps[{o:[a,b,c], r, k, e}]` |
+| `vortrag` | `t, thema, stichpunkte[], ru, rm[], m` |
+| `fragen` | `t, fragen[{q, m, ru}]` |
+| `diskussion`, `loesung` | `t, thema, situation, optionen?, rm[], schritte[{wer, sagt, o[], r, e}], m` |
+| `hoeren` | `t, situation?, text, fragen[{q,o,r} oder {q, rf:true/false}]` |
+| `lesen` | `t, anweisung, texte[{k,text}], fragen[{q,o,r}]` |
+
+`r` ist die Nummer der richtigen Option (ab 0). Die App mischt die Optionen selbst.
 
 Nach dem Ändern: `python3 tools/build_content.py` ausführen (prüft die Dateien) und committen.
 Beim Push baut GitHub die Web-App automatisch neu.

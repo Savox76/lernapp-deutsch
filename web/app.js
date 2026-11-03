@@ -89,7 +89,8 @@ async function getJSON(path) {
   return r.json();
 }
 async function loadContent() {
-  const [m, w, s, t] = await Promise.all([getJSON("content/manifest.json"), getJSON("content/woerter.json"), getJSON("content/saetze.json"), getJSON("content/schreiben.json").catch(() => [])]);
+  const [m, w, s, t, pr] = await Promise.all([getJSON("content/manifest.json"), getJSON("content/woerter.json"), getJSON("content/saetze.json"), getJSON("content/schreiben.json").catch(() => []), getJSON("content/pruefung.json").catch(() => ({}))]);
+  BERUF = mixOpts(pr || {});
   MAN = m; W = w; T = t;
   // Beispielsätze der Wörter werden zusätzliche Satzbau-Übungen
   const ex = w.filter(x => x.x && x.x.split(/\s+/).length >= 4 && x.x.split(/\s+/).length <= 16)
@@ -153,8 +154,11 @@ function solutionHtml(de) {
   const { toks, end, verbs } = tokens(de);
   return toks.map((t, i) => verbs.includes(i) ? `<span class="v">${esc(t)}</span>` : esc(t)).join(" ") + esc(end);
 }
+function kursOn() { return !!(session && session.kurs != null && view === "session"); }
+const LV_ORDER = { A2: 0, B1: 1, B2: 2 };
 function sentPool(needVerb, cats) {
-  return S.filter(x => lvOk(x) && (!needVerb || x.de.includes("*")) && (!cats || cats.includes(x.k)));
+  const k = kursOn();
+  return S.filter(x => (k || lvOk(x)) && (!needVerb || x.de.includes("*")) && (!cats || cats.includes(x.k)));
 }
 /* Auswahl: zuerst fällige Wiederholungen, dann neue echte Sätze, dann Beispielsätze, dann zufällig */
 let recentS = [];
@@ -166,6 +170,7 @@ function pickSentence0(needVerb, cats) {
   const due = pool.filter(x => P.s[x.id] && P.s[x.id].d <= now);
   if (due.length && Math.random() < .7) { due.sort((a, b) => P.s[a.id].b - P.s[b.id].b); const lo = P.s[due[0].id].b; return rnd(due.filter(x => P.s[x.id].b === lo)); }
   const fresh = pool.filter(x => !P.s[x.id] && !x.ex);
+  if (fresh.length && kursOn()) { const lo = Math.min(...fresh.map(x => LV_ORDER[x.lv] ?? 1)); return rnd(fresh.filter(x => (LV_ORDER[x.lv] ?? 1) === lo)); }
   if (fresh.length && Math.random() < .8) return rnd(fresh.slice(0, 40));
   const freshEx = pool.filter(x => !P.s[x.id]);
   if (freshEx.length && Math.random() < .6) return rnd(freshEx);
@@ -175,7 +180,7 @@ function pickSentence0(needVerb, cats) {
 /* ================= Wort-Auswahl ================= */
 function deLabel(w) { return (w.t === "Nomen" && w.a ? w.a + " " : "") + w.w; }
 function artClass(a) { return a ? "art-" + a : ""; }
-function wordPool() { return W.filter(lvOk); }
+function wordPool() { return kursOn() ? W.slice() : W.filter(lvOk); }
 function seenWords(list) { return list.filter(w => P.w[w.id]); }
 function prefSeen(list, min = 8) { const s = seenWords(list); return s.length >= min ? s : list; }
 let recentW = [];
@@ -191,7 +196,7 @@ function pickCard0() {
 /* ================= Übungen =================
    Jede Übung: build(host, done) – ruft done(ok) genau einmal auf, wenn die Lernerin "Weiter" drückt. */
 const EX = {};
-const TYPE_NAMES = { hoeren: "Hörtraining", karte: "Karteikarten", bauen: "Satz bauen", verb: "Wo steht das Verb?", rf: "Richtig oder falsch?", diktat: "Diktat", bedeutung: "Bedeutung", artikel: "der/die/das", luecke: "Lückentext", wortart: "Wortart", schreiben: "Schreiben" };
+const TYPE_NAMES = { mailfragen: "Prüfung: E-Mail verstehen", notiz: "Prüfung: Telefonnotiz", sb: "Prüfung: Sprachbausteine", sprechen: "Prüfung: Sprechen", loesung_wahl: "Prüfung: Lösung finden", diskussion_wahl: "Prüfung: Diskussion", hoeren_beruf: "Prüfung: Hören", lesen_pr: "Prüfung: Lesen", hoeren: "Hörtraining", karte: "Karteikarten", bauen: "Satz bauen", verb: "Wo steht das Verb?", rf: "Richtig oder falsch?", diktat: "Diktat", bedeutung: "Bedeutung", artikel: "der/die/das", luecke: "Lückentext", wortart: "Wortart", schreiben: "Schreiben" };
 
 function nextBtn(host, done, ok) {
   const b = document.createElement("button"); b.className = "btn primary"; b.textContent = "Weiter →";
@@ -531,10 +536,38 @@ function weakCats() {
   return def.length ? def.slice(0, 3) : ["NS", "NS_ZUERST", "KLAMMER"];
 }
 
+/* ================= Grundkurs von vorn =================
+   Stufe für Stufe von A2 bis B2. Die nächste Stufe öffnet sich erst mit mindestens 80 % richtig. */
+const KURS = [
+  { k: "HAUPTSATZ", t: "Das Verb steht auf Platz 2", ru: "Глагол на втором месте" },
+  { k: "INVERSION", t: "Zeit oder Ort vorne – Verb bleibt auf Platz 2", ru: "Время или место впереди – глагол всё равно второй" },
+  { k: "FRAGE", t: "Fragen und Bitten", ru: "Вопросы и просьбы" },
+  { k: "KLAMMER", t: "Satzklammer: Modalverb, Perfekt, trennbare Verben", ru: "Рамочная конструкция" },
+  { k: "KONNEKTOR", t: "denn, deshalb, trotzdem, sondern", ru: "Союзы-связки" },
+  { k: "NS", t: "weil, dass, wenn: Verb ans Ende", ru: "Придаточное: глагол в конце" },
+  { k: "NS_ZUERST", t: "Nebensatz am Anfang", ru: "Придаточное в начале" },
+  { k: "IND_FRAGE", t: "Indirekte Fragen (ob, wann, wie …)", ru: "Косвенный вопрос" },
+  { k: "ZU_INF", t: "zu + Infinitiv, um … zu", ru: "Инфинитив с zu" },
+  { k: "RELATIV", t: "Relativsätze (der, die, das …)", ru: "Придаточные с «который»" },
+  { k: "KONJ2", t: "Konjunktiv II: würde, hätte, wäre, könnte", ru: "Сослагательное наклонение" },
+  { k: "PASSIV", t: "Passiv: wird gemacht, wurde gemacht", ru: "Пассив" },
+  { k: null, t: "Abschluss: alles gemischt", ru: "Итог: всё вперемешку" }
+];
+const KURS_LEN = 15, KURS_PASS = 80;
+function kursState() { P.kurs = P.kurs || { s: 0, best: {} }; return P.kurs; }
+function kursCats(i) { return KURS[i].k ? [KURS[i].k] : null; }
+function startKurs(i) {
+  startSession("Grundkurs " + (i + 1) + ": " + KURS[i].t, (n, t) => {
+    if (n % 5 === 4 && t === 0) return { type: n % 10 === 4 ? "karte" : "artikel" };
+    const order = ["bauen", "verb", "bauen", "rf", "diktat", "bauen", "verb", "bauen"];
+    return { type: t > 1 ? "bauen" : order[n % order.length], opt: { cats: kursCats(i) } };
+  }, KURS_LEN, null, i);
+}
+
 /* ================= Sitzung ================= */
 let session = null;
-function startSession(title, plan, len = 20, kat) {
-  session = { title, plan, len, i: 0, r: 0, f: 0, start: Date.now(), last: null, kat };
+function startSession(title, plan, len = 20, kat, kurs) {
+  session = { title, plan, len, i: 0, r: 0, f: 0, start: Date.now(), last: null, kat, kurs: kurs == null ? null : kurs };
   go("session");
 }
 function sessionNext(host) {
@@ -555,6 +588,12 @@ function sessionNext(host) {
   if (session.i === 0) { box.innerHTML = `<div class="card empty"><h3>Gerade nichts zu üben</h3><p>Für heute ist alles erledigt. <span class="ru">На сегодня всё!</span></p></div>`; return; }
   sessionEnd(host);
 }
+function kursResultHtml(n) {
+  const i = session.kurs, p = pct(session.r, n), ks = kursState();
+  if (n && session.kursSaved !== true) { session.kursSaved = true; ks.best[i] = Math.max(ks.best[i] || 0, p); if (p >= KURS_PASS && ks.s <= i) ks.s = Math.min(KURS.length, i + 1); saveP(); }
+  if (p >= KURS_PASS) return `<div class="feedback ok">Stufe ${i + 1} geschafft (${p} %)!${i + 1 < KURS.length ? " Die nächste Stufe ist frei." : " Der Grundkurs ist komplett!"}</div><p class="ru">Ступень пройдена!</p>`;
+  return `<div class="feedback bad">${p} % richtig – für die nächste Stufe brauchst du ${KURS_PASS} %. Mach die Stufe noch einmal.</div><p class="ru">Нужно ${KURS_PASS} %. Повтори эту ступень ещё раз.</p>`;
+}
 function sessionEnd(host) {
   const n = session.r + session.f;
   $("#sprog", host).style.width = "100%";
@@ -563,8 +602,15 @@ function sessionEnd(host) {
       <h2>${n ? (pct(session.r, n) >= 80 ? "Super gemacht!" : pct(session.r, n) >= 60 ? "Gut gemacht!" : "Weiter so!") : "Fertig"}</h2>
       <p class="ru">${n ? (pct(session.r, n) >= 80 ? "Отлично!" : "Хорошо! Продолжай!") : ""}</p>
       <div class="kpis"><div><b>${n}</b><span>Aufgaben</span></div><div><b style="color:var(--ok)">${session.r}</b><span>richtig</span></div><div><b style="color:var(--bad)">${session.f}</b><span>falsch</span></div></div>
-      <div class="row"><button class="btn" id="home2">Zur Übersicht</button><button class="btn primary" id="again">Noch eine Runde</button></div>
+      ${session.kurs != null ? kursResultHtml(n) : ""}
+      <div class="row"><button class="btn" id="home2">${session.kurs != null ? "Zum Grundkurs" : "Zur Übersicht"}</button><button class="btn primary" id="again">${session.kurs != null && n && pct(session.r, n) >= KURS_PASS && session.kurs + 1 < KURS.length ? "Nächste Stufe" : "Noch eine Runde"}</button></div>
     </div>`;
+  if (session.kurs != null) {
+    const i = session.kurs, passed = n && pct(session.r, n) >= KURS_PASS;
+    $("#home2", host).onclick = () => go("kurs");
+    $("#again", host).onclick = () => startKurs(passed && i + 1 < KURS.length ? i + 1 : i);
+    return;
+  }
   $("#home2", host).onclick = () => go("home");
   $("#again", host).onclick = () => { session.i = 0; session.r = 0; session.f = 0; render(); };
 }
@@ -598,7 +644,7 @@ const PLAN = {
 /* ================= Ansichten ================= */
 const app = $("#app");
 let view = "home", viewArg = null;
-const PARENT = { analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "schreiben", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr" };
+const PARENT = { kurs: "home", pr: "pruefung", analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "schreiben", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr" };
 function go(v, arg) { view = v; viewArg = arg; render(); window.scrollTo(0, 0); }
 window.appBack = function () { if (PARENT[view]) { go(PARENT[view]); return true; } if (view !== "home") { go("home"); return true; } return false; };
 document.querySelectorAll("#tabs button").forEach(b => b.onclick = () => go(b.dataset.go));
@@ -606,7 +652,7 @@ function head(title, back) { return `<div class="top">${back ? `<button class="b
 function bindBack() { const b = $("#backBtn"); if (b) b.onclick = () => window.appBack(); }
 
 function render() {
-  const tabFor = { analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "mehr", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr", quiz: "woerter" }[view] || view;
+  const tabFor = { kurs: "home", pr: "pruefung", analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "mehr", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr", quiz: "woerter" }[view] || view;
   document.querySelectorAll("#tabs button").forEach(b => b.setAttribute("aria-current", b.dataset.go === tabFor ? "page" : "false"));
   (VIEWS[view] || VIEWS.home)();
   bindBack();
@@ -637,6 +683,7 @@ VIEWS.home = function () {
   const fehlerN = Object.keys(P.fehler).length;
   app.innerHTML = `
     <h1>${SET.name ? "Hallo, " + esc(SET.name) + "!" : "Deutsch lernen"}</h1>
+    ${kursState().s < KURS.length ? kursCard() : ""}
     <div class="card">
       <div class="row between"><h3>Heute</h3><span class="hint">${streak() ? "🔥 " + streak() + (streak() === 1 ? " Tag" : " Tage") + " in Folge" : ""}</span></div>
       <div class="today">
@@ -650,9 +697,11 @@ VIEWS.home = function () {
       <button class="btn primary big" id="mix">▶ Tagesmix starten</button>
       <p class="hint small" style="text-align:center">20 Aufgaben gemischt · Satzbau-Schwerpunkt: ${esc(CATS[weakCats()[0]].l)}</p>
     </div>
+    ${kursState().s >= KURS.length ? kursCard() : ""}
     <div class="menu">
       <button data-s="karten"><span class="ic">▤</span><b>Karteikarten</b><span>${c.dueW} Wiederholungen · ${c.newW} neu</span></button>
       <button data-s="satzbau"><span class="ic">⇄</span><b>Satzbau</b><span>Wortstellung üben</span></button>
+      <button data-s="pruefung"><span class="ic">★</span><b>Prüfung ${esc(exam())}</b><span>Schreiben, Sprechen, Hören</span></button>
       <button data-s="quiz"><span class="ic">?</span><b>Quiz</b><span>Bedeutung, Artikel, Lücken</span></button>
       <button data-s="fehler" ${fehlerN ? "" : "disabled"}><span class="ic">!</span><b>Fehler üben</b><span>${fehlerN ? fehlerN + " schwierige Aufgaben" : "noch keine Fehler"}</span></button>
     </div>
@@ -661,13 +710,42 @@ VIEWS.home = function () {
       <div class="kpis"><div><b>${c.seenW}</b><span>gesehen</span></div><div><b>${c.learned}</b><span>gelernt</span></div><div><b>${c.sentSeen}</b><span>Sätze geübt</span></div></div>
     </div>`;
   $("#mix").onclick = () => startSession("Tagesmix", PLAN.mix, 20);
+  const kg = $("#kursGo"); if (kg) kg.onclick = () => startKurs(Math.min(kursState().s, KURS.length - 1));
+  const ko = $("#kursOpen"); if (ko) ko.onclick = () => go("kurs");
   app.querySelectorAll(".menu button").forEach(b => b.onclick = () => {
     const s = b.dataset.s;
     if (s === "karten") startSession("Karteikarten", PLAN.karten, 20);
     else if (s === "satzbau") go("satzbau");
     else if (s === "quiz") go("quiz");
+    else if (s === "pruefung") go("pruefung");
     else if (s === "fehler") startSession("Fehler üben", PLAN.fehler, Math.min(20, Object.keys(P.fehler).length * 2 || 1));
   });
+};
+function kursCard() {
+  const ks = kursState(), cur = Math.min(ks.s, KURS.length - 1), fertig = ks.s >= KURS.length;
+  return `<div class="card">
+      <div class="row between"><h3>Grundkurs von vorn</h3><span class="hint small">${Math.min(ks.s, KURS.length)} von ${KURS.length} Stufen</span></div>
+      <div class="goalbar"><i style="width:${pct(Math.min(ks.s, KURS.length), KURS.length)}%"></i></div>
+      <p class="hint small">${fertig ? "Alle Stufen geschafft – wiederhole schwache Stufen." : `Stufe ${cur + 1}: ${esc(KURS[cur].t)}`} · <span class="ru">${fertig ? "Все ступени пройдены" : esc(KURS[cur].ru)}</span></p>
+      <div class="row"><button class="btn primary" id="kursGo">${fertig ? "▶ Abschluss wiederholen" : "▶ Weiter im Grundkurs"}</button><button class="btn" id="kursOpen">Alle Stufen</button></div>
+    </div>`;
+}
+VIEWS.kurs = function () {
+  const ks = kursState();
+  app.innerHTML = `${head("Grundkurs von vorn", "Zurück")}
+    <p class="hint">Jede Stufe hat ${KURS_LEN} Aufgaben. Mit mindestens ${KURS_PASS} % richtig öffnet sich die nächste Stufe. Es geht mit einfachen Sätzen los und wird dann schwerer.</p>
+    <p class="ru">Каждая ступень — ${KURS_LEN} заданий. Нужно ${KURS_PASS} %, чтобы открыть следующую. Сначала простые предложения, потом сложнее.</p>
+    <div class="list">${KURS.map((x, i) => {
+      const open = i <= ks.s, done = i < ks.s, best = ks.best[i];
+      const tip = x.k ? CATS[x.k].tip : "Alle Regeln gemischt.";
+      return `<div class="card" style="${open ? "" : "opacity:.55"}">
+        <div class="row between"><h3>${done ? "✓" : open ? "▶" : "🔒"} Stufe ${i + 1}: ${esc(x.t)}</h3>${sayBtn(x.t + ". " + tip)}</div>
+        <p class="ru small">${esc(x.ru)}</p>
+        <div class="rule">${esc(tip)}</div>
+        ${best != null ? `<p class="hint small">Bestes Ergebnis: ${best} %</p>` : ""}
+        ${open ? `<button class="btn ${done ? "" : "primary"}" data-k="${i}">${done ? "Wiederholen" : "Stufe starten"}</button>` : `<p class="hint small">Erst Stufe ${i} schaffen.</p>`}
+      </div>`; }).join("")}</div>`;
+  app.querySelectorAll("[data-k]").forEach(b => b.onclick = () => startKurs(+b.dataset.k));
 };
 VIEWS.onboarding = function () {
   app.innerHTML = `
@@ -676,12 +754,14 @@ VIEWS.onboarding = function () {
     <div class="card">
       <label>Wie heißt du? <span class="ru" style="font-weight:400">Как тебя зовут?</span><input id="obName" autocomplete="given-name" placeholder="Vorname"></label>
       <label>Welche Prüfung? <span class="ru" style="font-weight:400">Какой экзамен?</span>
-        <select id="obLv"><option value="B1">B1 (DTZ, telc B1, Goethe B1)</option><option value="alle" selected>B1 und B2</option><option value="B2">B2</option></select></label>
+        <select id="obEx"><option value="DTB">DTB B2 – Deutsch-Test für den Beruf</option><option value="DTZ">DTZ – Deutsch-Test für Zuwanderer (A2–B1)</option></select></label>
+      <label>Welches Niveau? <span class="ru" style="font-weight:400">Какой уровень?</span>
+        <select id="obLv"><option value="B1">nur B1</option><option value="alle" selected>B1 und B2</option><option value="B2">nur B2</option></select></label>
       <label>Wie viel pro Tag? <span class="ru" style="font-weight:400">Сколько в день?</span>
         <select id="obGoal"><option value="40">locker – 40 Aufgaben (~15 Min.)</option><option value="60" selected>normal – 60 Aufgaben (~20 Min.)</option><option value="100">intensiv – 100 Aufgaben (~35 Min.)</option></select></label>
       <button class="btn primary big" id="obGo">Los geht's! · Начать</button>
     </div>`;
-  $("#obGo").onclick = () => { SET.name = $("#obName").value.trim(); SET.niveau = $("#obLv").value; SET.goal = +$("#obGoal").value; SET.onboarded = true; SET.start = dayKey(); saveSET(); go("home"); };
+  $("#obGo").onclick = () => { SET.name = $("#obName").value.trim(); SET.exam = $("#obEx").value; SET.niveau = $("#obLv").value; SET.goal = +$("#obGoal").value; SET.onboarded = true; SET.start = dayKey(); saveSET(); go("home"); };
 };
 VIEWS.session = function () {
   if (!session) return go("home");
@@ -927,6 +1007,329 @@ function analyseText() {
   return L.join("\n");
 }
 
+/* ================= Prüfungstraining: DTB B2 (Beruf) oder DTZ (Zuwanderer) ================= */
+let BERUF = {};
+/* Antwortoptionen mischen, damit die richtige Antwort nicht immer an derselben Stelle steht */
+function mixOpts(x) {
+  if (Array.isArray(x)) { x.forEach(mixOpts); return x; }
+  if (x && typeof x === "object") {
+    if (Array.isArray(x.o) && typeof x.r === "number" && x.o[x.r] !== undefined && x.o.some(o => String(o).length > 6)) { const right = x.o[x.r]; x.o = shuffle(x.o); x.r = x.o.indexOf(right); }
+    Object.values(x).forEach(v => { if (v && typeof v === "object") mixOpts(v); });
+  }
+  return x;
+}
+const EXAMS = { DTB: "DTB B2 (Deutsch-Test für den Beruf)", DTZ: "DTZ (Deutsch-Test für Zuwanderer, A2–B1)" };
+const PR_TYPES = {
+  mail: { l: { DTB: "E-Mail beantworten" }, g: "Schreiben", ic: "✉", min: 20 },
+  notiz: { l: { DTB: "Telefonnotiz" }, g: "Schreiben", ic: "☎", min: 5 },
+  forum: { l: { DTB: "Forumsbeitrag" }, g: "Schreiben", ic: "💬", min: 25 },
+  brief: { l: { DTZ: "Brief / E-Mail schreiben" }, g: "Schreiben", ic: "✉", min: 30 },
+  sb: { l: { DTB: "Sprachbausteine", DTZ: "Brief-Lückentext (Lesen Teil 5)" }, g: "Schreiben", ic: "▦", min: 10 },
+  fragen: { l: { DTB: "Prüferfragen (Teil 1B)", DTZ: "Sich vorstellen (Teil 1)" }, g: "Sprechen", ic: "❓", min: 3 },
+  vortrag: { l: { DTB: "Vortrag (Teil 1A)", DTZ: "Über Erfahrungen erzählen (Teil 2)" }, g: "Sprechen", ic: "🎤", min: 3 },
+  diskussion: { l: { DTB: "Diskussion (Teil 2)" }, g: "Sprechen", ic: "⇆", min: 5 },
+  loesung: { l: { DTB: "Lösung finden (Teil 3)", DTZ: "Gemeinsam planen (Teil 3)" }, g: "Sprechen", ic: "✓", min: 5 },
+  hoeren: { l: { DTB: "Hören im Beruf", DTZ: "Hören: Ansagen und Gespräche" }, g: "Hören", ic: "🔊", min: 2 },
+  lesen: { l: { DTZ: "Lesen: Anzeigen und Wegweiser" }, g: "Lesen", ic: "📄", min: 5 }
+};
+function exam() { return SET.exam || "DTB"; }
+function prLabel(t) { return PR_TYPES[t].l[exam()] || PR_TYPES[t].l.DTB || PR_TYPES[t].l.DTZ; }
+function prTypesFor() { return Object.keys(PR_TYPES).filter(t => PR_TYPES[t].l[exam()]); }
+function prList(typ) { return (BERUF[typ] || []).filter(x => !x.ex || x.ex.includes(exam())); }
+function prDone(typ, id) { return (P.beruf || {})[typ + ":" + id]; }
+function prMark(typ, id, ok) { P.beruf = P.beruf || {}; const k = typ + ":" + id; const x = P.beruf[k] || { n: 0, ok: 0 }; x.n++; if (ok) x.ok++; x.t = Date.now(); P.beruf[k] = x; saveP(); }
+function prNext(typ, exclude) {
+  const l = prList(typ).filter(x => x.id !== exclude); if (!l.length) return null;
+  const un = l.filter(x => !prDone(typ, x.id)); if (un.length) return un[0];
+  return l.slice().sort((a, b) => (prDone(typ, a.id).ok / prDone(typ, a.id).n) - (prDone(typ, b.id).ok / prDone(typ, b.id).n) || prDone(typ, a.id).t - prDone(typ, b.id).t)[0];
+}
+/* Timer */
+let prTimer = null;
+function startTimer(el, minutes, onEnd) {
+  clearInterval(prTimer); let s = minutes * 60;
+  const draw = () => { el.textContent = "⏱ " + Math.floor(s / 60) + ":" + pad(s % 60); el.style.color = s < 60 ? "var(--bad)" : ""; };
+  draw(); prTimer = setInterval(() => { s--; draw(); if (s <= 0) { clearInterval(prTimer); el.textContent = "⏱ Zeit ist um!"; onEnd && onEnd(); } }, 1000);
+}
+function stopTimer() { clearInterval(prTimer); }
+/* Punkte-Rechner DTZ: Hören+Lesen (max 45): ab 33 B1, ab 20 A2. B1 gesamt: Sprechen B1 + (H/L oder Schreiben) B1 + anderer Teil mind. A2 (seit 1.11.2026) */
+function dtzCheck(v) {
+  const hl = +v.hl || 0; const hlLv = hl >= 33 ? "B1" : hl >= 20 ? "A2" : "unter A2";
+  const s = v.s || "", sp = v.sp || ""; const tips = []; const rank = { "B1": 2, "A2": 1, "unter A2": 0, "": -1 };
+  const ok = sp === "B1" && ((hlLv === "B1" && rank[s] >= 1) || (s === "B1" && rank[hlLv] >= 1));
+  if (sp !== "B1") tips.push("Sprechen muss B1 sein.");
+  if (!(hlLv === "B1" || s === "B1")) tips.push(`Hören/Lesen (${hl} von 45 → ${hlLv}) oder Schreiben muss B1 sein. Für B1 in Hören/Lesen: mindestens 33 Punkte.`);
+  if ((hlLv === "B1" && rank[s] < 1) || (s === "B1" && rank[hlLv] < 1)) tips.push("Der andere schriftliche Teil muss mindestens A2 sein (neue Regel seit 1.11.2026).");
+  return { ok, hlLv, tips };
+}
+/* Punkte-Rechner nach DTB-Regel: Summe ≥ 144, mind. 3 Teile ≥ 36, schwächster Teil ≥ 24 */
+function dtbCheck(v) {
+  const vals = [v.l, v.h, v.s, v.sp].map(x => +x || 0); const sum = vals.reduce((a, b) => a + b, 0);
+  const ge36 = vals.filter(x => x >= 36).length; const min = Math.min(...vals);
+  const ok = sum >= 144 && ge36 >= 3 && min >= 24;
+  const tips = [];
+  if (sum < 144) tips.push(`Summe: ${sum.toLocaleString("de-DE")} von mindestens 144 – es fehlen ${(144 - sum).toLocaleString("de-DE")} Punkte.`);
+  if (ge36 < 3) { const names = ["Lesen", "Hören", "Schreiben", "Sprechen"]; const below = names.filter((n, i) => vals[i] < 36).map((n, i) => n); tips.push(`Nur ${ge36} Teile haben mindestens 36 Punkte – nötig sind 3. Unter 36: ${names.filter((n, i) => vals[i] < 36).join(", ")}.`); }
+  if (min < 24) tips.push(`Der schwächste Teil hat ${min.toLocaleString("de-DE")} Punkte – nötig sind mindestens 24.`);
+  return { ok, sum, ge36, min, tips };
+}
+function prCount(group) { return Object.keys(PR_TYPES).filter(t => PR_TYPES[t].g === group).reduce((a, t) => a + prList(t).length, 0); }
+VIEWS.pruefung = function () {
+  const X = exam();
+  const v = SET.dtb || {}; const has = ["l", "h", "s", "sp"].some(k => v[k] !== undefined && v[k] !== "");
+  const c = has ? dtbCheck(v) : null;
+  const z = SET.dtz || {}; const cz = (z.hl || z.s || z.sp) ? dtzCheck(z) : null;
+  const grp = g => prTypesFor().filter(t => PR_TYPES[t].g === g).map(t => {
+    const l = prList(t); const done = l.filter(x => prDone(t, x.id)).length;
+    return `<button data-pt="${t}" ${l.length ? "" : "disabled"}><span class="ic">${PR_TYPES[t].ic}</span><b>${esc(prLabel(t))}</b><span>${l.length ? done + " von " + l.length + " geübt" : "kommt bald"}</span></button>`;
+  }).join("");
+  const section = (g, title, hint) => { const h = grp(g); return h ? `<h2>${title} <span class="hint small">(${prTypesFor().filter(t => PR_TYPES[t].g === g).reduce((a, t) => a + prList(t).length, 0)} Aufgaben)</span></h2>${hint || ""}<div class="menu">${h}</div>` : ""; };
+  const opt = (k, val) => `<option ${k === val ? "selected" : ""}>${k}</option>`;
+  app.innerHTML = `${head("Prüfungstraining")}
+    <div class="seg" id="exSeg"><button data-ex="DTB" aria-pressed="${X === "DTB"}">DTB B2 (Beruf)</button><button data-ex="DTZ" aria-pressed="${X === "DTZ"}">DTZ (A2–B1)</button></div>
+    <p class="hint">${X === "DTB" ? "Training im Format „Deutsch-Test für den Beruf B2“: Situationen aus der Arbeitswelt." : "Training im Format „Deutsch-Test für Zuwanderer“: Situationen aus dem Alltag."} Wörter, Satzbau und Grammatik übst du wie bisher in den anderen Bereichen. <span class="ru">${X === "DTB" ? "Экзамен DTB B2 (для работы)." : "Экзамен DTZ (для иммигрантов)."}</span></p>
+    ${X === "DTZ" ? `<div class="card">
+      <h3>Mein Ziel: Punkte-Rechner DTZ</h3>
+      <p class="hint small">B1 gilt, wenn <b>Sprechen B1</b> ist, dazu <b>Hören/Lesen oder Schreiben B1</b> und der andere schriftliche Teil <b>mindestens A2</b>. Hören + Lesen: ab 33 von 45 Punkten B1, ab 20 A2.</p>
+      <div class="grid2"><label>Hören + Lesen (0–45) <input id="zhl" inputmode="numeric" value="${esc(z.hl ?? "")}"></label>
+        <label>Schreiben <select id="zs"><option value="">–</option>${["B1", "A2", "unter A2"].map(k => opt(k, z.s)).join("")}</select></label>
+        <label>Sprechen <select id="zsp"><option value="">–</option>${["B1", "A2", "unter A2"].map(k => opt(k, z.sp)).join("")}</select></label></div>
+      <button class="btn small" id="zSave">Berechnen und speichern</button>
+      ${cz ? `<div class="rule"><b style="color:${cz.ok ? "var(--ok)" : "var(--bad)"}">${cz.ok ? "B1 erreicht ✓" : "B1 noch nicht erreicht"}</b><br>${cz.tips.map(esc).join("<br>")}</div>` : ""}
+    </div>` : `<div class="card">
+      <h3>Mein Ziel: Punkte-Rechner</h3>
+      <p class="hint small">Jeder Teil hat höchstens 60 Punkte. Bestanden: <b>Summe ≥ 144</b>, <b>mindestens 3 Teile ≥ 36</b> und <b>kein Teil unter 24</b>.</p>
+      <div class="grid2">
+        <label>Lesen <input id="dl" inputmode="decimal" value="${esc(v.l ?? "")}" placeholder="0–60"></label>
+        <label>Hören <input id="dh" inputmode="decimal" value="${esc(v.h ?? "")}" placeholder="0–60"></label>
+        <label>Schreiben <input id="ds" inputmode="decimal" value="${esc(v.s ?? "")}" placeholder="0–60"></label>
+        <label>Sprechen <input id="dsp" inputmode="decimal" value="${esc(v.sp ?? "")}" placeholder="0–60"></label>
+      </div>
+      <button class="btn small" id="dSave">Berechnen und speichern</button>
+      ${c ? `<div class="rule"><b style="color:${c.ok ? "var(--ok)" : "var(--bad)"}">${c.ok ? "Bestanden ✓" : "Noch nicht bestanden"}</b> · Summe ${c.sum.toLocaleString("de-DE")} / 240<br>${c.tips.map(esc).join("<br>")}${!c.ok ? "<br><b>Am schnellsten:</b> den schwächsten Teil auf mindestens 36 bringen." : ""}</div>` : ""}
+    </div>`}
+    ${section("Schreiben", "Schreiben")}
+    ${section("Sprechen", "Sprechen", `<p class="hint small">Sprich immer <b>laut</b>, auch wenn du allein bist. Danach hörst du eine Musterlösung und bewertest dich selbst. <span class="ru">Всегда говори вслух!</span></p>`)}
+    ${section("Hören", "Hören")}
+    ${section("Lesen", "Lesen")}`;
+  app.querySelectorAll("#exSeg button").forEach(b => b.onclick = () => { SET.exam = b.dataset.ex; saveSET(); render(); });
+  if ($("#zSave")) $("#zSave").onclick = () => { SET.dtz = { hl: $("#zhl").value, s: $("#zs").value, sp: $("#zsp").value }; saveSET(); render(); };
+  if ($("#dSave")) $("#dSave").onclick = () => { SET.dtb = { l: $("#dl").value.replace(",", "."), h: $("#dh").value.replace(",", "."), s: $("#ds").value.replace(",", "."), sp: $("#dsp").value.replace(",", ".") }; saveSET(); render(); };
+  app.querySelectorAll("[data-pt]").forEach(b => b.onclick = () => { const t = b.dataset.pt; const x = prNext(t); if (x) go("pr", { typ: t, id: x.id }); });
+};
+VIEWS.pr = function () {
+  stopTimer();
+  const a = viewArg || {}; const typ = a.typ; const item = prList(typ).find(x => x.id === a.id);
+  if (!item) return go("pruefung");
+  const T = Object.assign({}, PR_TYPES[typ], { l: prLabel(typ) });
+  const nextBtnHtml = `<button class="btn primary" id="prNext">Nächste Aufgabe →</button>`;
+  const bindNext = () => { const b = $("#prNext"); if (b) b.onclick = () => { const x = prNext(typ, item.id); if (x) go("pr", { typ, id: x.id }); else go("pruefung"); }; };
+  const selfRate = (logType) => `<div class="card"><h3>Wie gut hat es geklappt?</h3><p class="ru small">Как получилось?</p>
+      <div class="choices"><button class="choice" data-r="2">😀 gut</button><button class="choice" data-r="1">🙂 teilweise</button><button class="choice" data-r="0">😕 schwer</button></div>
+      <div id="rated" hidden class="panel">${nextBtnHtml}</div></div>`;
+  const bindRate = (logType) => app.querySelectorAll("[data-r]").forEach(b => b.onclick = () => {
+    if (!$("#rated").hidden) return; const r = +b.dataset.r; b.classList.add(r === 2 ? "right" : r === 0 ? "wrong" : "right");
+    prMark(typ, item.id, r === 2); log(logType, r === 2, null, { pr: typ, pid: item.id, sr: r }); $("#rated").hidden = false; bindNext();
+  });
+  const head2 = `${head(esc(item.t), "Prüfung")}<div class="row between"><span class="pill">${esc(T.l)}</span><span class="pill" id="tm">⏱ ${T.min}:00</span></div>`;
+  const timerBtn = `<button class="btn small" id="tStart">⏱ Prüfungszeit starten (${T.min} Min.)</button>`;
+  const bindTimer = () => { const b = $("#tStart"); if (b) b.onclick = () => { startTimer($("#tm"), T.min, () => toast("Die Zeit ist um!")); b.hidden = true; }; };
+  const rmHtml = rm => rm && rm.length ? `<div><p class="hint small" style="margin-bottom:6px">Hilfreiche Sätze (antippen = anhören):</p><div class="chips">${rm.map(x => `<span data-say="${esc(x)}" style="cursor:pointer">${esc(x)}</span>`).join("")}</div></div>` : "";
+  const model = (m, label) => `<div id="mo" hidden class="card"><div class="row between"><h3>${label || "Musterlösung"}</h3>${sayBtn(m, "Musterlösung vorlesen")}</div><div class="model">${esc(m)}</div></div>`;
+  const writeBox = (key, ziel) => `<label>Dein Text <textarea id="tx" spellcheck="false"></textarea></label><p class="hint small" id="wc"></p>`;
+  const bindWrite = (key, ziel) => { const tx = $("#tx"); tx.value = P.drafts["pr:" + key] || ""; const wc = () => { const n = (tx.value.trim().match(/\S+/g) || []).length; $("#wc").textContent = `${n} Wörter${ziel ? " · Ziel: mindestens " + ziel : ""}`; }; tx.oninput = () => { P.drafts["pr:" + key] = tx.value; saveP(); wc(); }; wc(); };
+  const checklist = pts => `<h3>Checkliste</h3>${pts.map((x, i) => `<label class="check"><input type="checkbox" class="ck"> ${esc(x)}</label>`).join("")}`;
+  const doneWriting = (ziel, logType = "schreiben") => {
+    const n = ($("#tx").value.trim().match(/\S+/g) || []).length;
+    if (n < Math.min(20, ziel || 20)) { toast("Schreib zuerst mindestens " + Math.min(20, ziel || 20) + " Wörter."); return false; }
+    const cks = [...app.querySelectorAll(".ck")]; const all = cks.every(c => c.checked);
+    stopTimer(); prMark(typ, item.id, all && (!ziel || n >= ziel)); log(logType, all && (!ziel || n >= ziel), null, { pr: typ, pid: item.id, w: n, ck: cks.filter(c => c.checked).length + "/" + cks.length });
+    $("#mo").hidden = false; $("#mo").scrollIntoView({ behavior: "smooth", block: "start" }); return true;
+  };
+
+  if (typ === "brief") {
+    app.innerHTML = `${head2}
+      <div class="card">${task("Lies die Situation und schreib einen Brief oder eine E-Mail. Schreib zu allen Punkten.", "Прочитай ситуацию и напиши письмо по всем пунктам.")}
+        <div class="row between"><h3>Situation</h3>${sayBtn(item.situation + " " + item.punkte.join(". "), "Aufgabe vorlesen")}</div>
+        <p>${esc(item.situation)}</p><ul style="margin:0;padding-left:20px">${item.punkte.map(x => `<li>${esc(x)}</li>`).join("")}</ul>${item.ru ? `<div class="rubox">${esc(item.ru)}</div>` : ""}
+        ${rmHtml(item.rm)}${timerBtn}${writeBox("brief:" + item.id, item.w || 0)}${checklist(["Anrede", ...item.punkte, "Gruß am Ende", "Verb im Nebensatz am Ende (weil, dass, wenn …)"])}
+        <div class="row"><button class="btn" id="showM">Musterlösung zeigen</button><button class="btn primary" id="doneT">Fertig</button></div></div>
+      ${model(item.m)}<div id="nx" hidden>${nextBtnHtml}</div>`;
+    bindTimer(); bindWrite("brief:" + item.id, item.w || 0);
+    $("#showM").onclick = () => { $("#mo").hidden = false; $("#nx").hidden = false; bindNext(); };
+    $("#doneT").onclick = () => { if (doneWriting(item.w || 0)) { $("#nx").hidden = false; bindNext(); } };
+  }
+  else if (typ === "lesen") {
+    app.innerHTML = `${head2}
+      <div class="card">${task(item.anweisung || "Lies die Texte und beantworte die Fragen.", "Прочитай тексты и ответь на вопросы.")}
+        <div class="row between"><h3>${esc(item.t)}</h3>${sayBtn(item.texte.map(x => (x.k ? x.k + ": " : "") + x.text).join(" "), "Texte vorlesen")}</div>
+        ${item.texte.map(x => `<div class="ex">${x.k ? `<b>${esc(x.k)}</b> ` : ""}${esc(x.text)}</div>`).join("")}</div>
+      <div class="card" id="lq"></div><div id="nx" hidden>${nextBtnHtml}</div>`;
+    const lq = $("#lq"); let n = 0, r = 0;
+    item.fragen.forEach((f, qi) => {
+      const box = document.createElement("div"); box.className = "panel"; box.style.gap = "8px";
+      box.innerHTML = `<div class="row between" style="flex-wrap:nowrap"><p style="flex:1"><b>${qi + 1}.</b> ${esc(f.q)}</p>${sayBtn(f.q)}</div><div class="choices ${f.o.length > 3 ? "two" : "one"}"></div>`;
+      const ch = box.querySelector(".choices"); let done = false;
+      f.o.forEach((o, oi) => { const b = document.createElement("button"); b.className = "choice"; b.textContent = o; b.onclick = () => {
+        if (done) return; done = true; const ok = oi === f.r; n++; if (ok) r++; b.classList.add(ok ? "right" : "wrong"); if (!ok) ch.children[f.r].classList.add("right");
+        log("lesen_pr", ok, null, { pr: typ, pid: item.id });
+        if (n === item.fragen.length) { prMark(typ, item.id, r === n); $("#nx").hidden = false; bindNext(); toast(r + " von " + n + " richtig"); }
+      }; ch.appendChild(b); });
+      lq.appendChild(box);
+    });
+  }
+  else if (typ === "mail") {
+    app.innerHTML = `${head2}
+      <div class="card"><div class="row between"><h3>Eingang</h3>${sayBtn("E-Mail von " + item.von + ". Betreff: " + item.betreff + ". " + item.text, "E-Mail vorlesen")}</div>
+        <p class="small hint">Von: ${esc(item.von)} · Betreff: <b>${esc(item.betreff)}</b></p><div class="model" style="background:var(--bg)">${esc(item.text)}</div></div>
+      <div class="card" id="qs"><h3>Teil 1: Fragen zur E-Mail</h3><p class="hint small">${task("Lies die E-Mail und wähle die richtige Antwort.", "Выбери правильный ответ.")}</p></div>
+      <div class="card" id="wr" hidden>
+        <h3>Teil 2: Antwort schreiben</h3>${sayBtn(item.aufgabe + " " + item.punkte.join(". "), "Aufgabe vorlesen")}
+        <p>${esc(item.aufgabe)}</p><ul style="margin:0;padding-left:20px">${item.punkte.map(x => `<li>${esc(x)}</li>`).join("")}</ul>
+        ${item.ru ? `<div class="rubox">${esc(item.ru)}</div>` : ""}${rmHtml(item.rm)}${timerBtn}
+        ${writeBox("mail:" + item.id)}${checklist(["Anrede und Gruß", ...item.punkte, "Höflicher Ton (Sie-Form)"])}
+        <div class="row"><button class="btn" id="showM">Musterlösung zeigen</button><button class="btn primary" id="doneT">Fertig</button></div>
+      </div>${model(item.m)}<div id="nx" hidden>${nextBtnHtml}</div>`;
+    const qs = $("#qs"); let answered = 0;
+    item.fragen.forEach((f, qi) => {
+      const box = document.createElement("div"); box.className = "panel"; box.style.gap = "8px";
+      box.innerHTML = `<div class="row between" style="flex-wrap:nowrap"><p style="flex:1"><b>${qi + 1}.</b> ${esc(f.q)}</p>${sayBtn(f.q + " " + f.o.join(". "))}</div><div class="choices one"></div>`;
+      const ch = box.querySelector(".choices"); let done = false;
+      f.o.forEach((o, oi) => { const b = document.createElement("button"); b.className = "choice"; b.textContent = o; b.onclick = () => {
+        if (done) return; done = true; const ok = oi === f.r; b.classList.add(ok ? "right" : "wrong"); if (!ok) ch.children[f.r].classList.add("right");
+        log("mailfragen", ok, null, { pr: typ, pid: item.id }); answered++; if (answered === item.fragen.length) { $("#wr").hidden = false; bindTimer(); }
+      }; ch.appendChild(b); });
+      qs.appendChild(box);
+    });
+    if (!item.fragen.length) { $("#wr").hidden = false; bindTimer(); }
+    bindWrite("mail:" + item.id);
+    $("#showM").onclick = () => { $("#mo").hidden = false; $("#nx").hidden = false; bindNext(); };
+    $("#doneT").onclick = () => { if (doneWriting(0)) { $("#nx").hidden = false; bindNext(); } };
+  }
+  else if (typ === "notiz") {
+    app.innerHTML = `${head2}
+      <div class="card">${task("Hör den Anruf (zweimal möglich) und schreib eine Notiz für deine Kollegin.", "Послушай звонок и запиши заметку для коллеги.")}
+        <p>${esc(item.situation || "")}</p>
+        <div class="row"><button class="btn big" id="play1">🔊 Anruf anhören</button></div><p class="hint small" id="plays">noch 2× anhören</p>${timerBtn}</div>
+      <div class="card"><h3>Telefonnotiz</h3>
+        ${item.felder.map((f, i) => `<label>${esc(f.l)} <input class="nf" data-i="${i}" autocomplete="off"></label>`).join("")}
+        <button class="btn primary" id="chkN">Prüfen</button><div id="nres" class="panel" hidden></div></div>
+      <div id="mo" hidden class="card"><div class="row between"><h3>Der Anruf zum Nachlesen</h3>${sayBtn(item.audio)}</div><div class="model">${esc(item.audio)}</div>${item.m ? `<h3>Musternotiz</h3><div class="model">${esc(item.m)}</div>` : ""}</div>
+      <div id="nx" hidden>${nextBtnHtml}</div>`;
+    let plays = 2;
+    $("#play1").onclick = () => { if (plays <= 0) { toast("In der Prüfung hörst du den Anruf nur zweimal."); return; } plays--; say(item.audio); $("#plays").textContent = plays ? "noch 1× anhören" : "nicht mehr anhören"; if (!prTimer) { startTimer($("#tm"), T.min); const tb = $("#tStart"); if (tb) tb.hidden = true; } };
+    bindTimer();
+    const norm = s => s.toLowerCase().replace(/[.,:;!?\-\/()]/g, " ").replace(/\s+/g, " ").trim();
+    $("#chkN").onclick = () => {
+      stopTimer(); let r = 0;
+      const out = item.felder.map((f, i) => { const v = norm(app.querySelector(`.nf[data-i="${i}"]`).value); const ok = f.a.some(a => v.includes(norm(a))); if (ok) r++; return `<div>${ok ? "✓" : "✗"} <b>${esc(f.l)}:</b> ${ok ? "richtig" : "richtig wäre: " + esc(f.a[0])}</div>`; });
+      const ok = r === item.felder.length; prMark(typ, item.id, ok); log("notiz", ok, null, { pr: typ, pid: item.id, sc: r + "/" + item.felder.length });
+      $("#nres").hidden = false; $("#nres").innerHTML = `<div class="feedback ${ok ? "ok" : "bad"}" style="text-align:left">${r} von ${item.felder.length} Angaben richtig</div>${out.join("")}`;
+      $("#mo").hidden = false; $("#nx").hidden = false; bindNext(); $("#chkN").disabled = true;
+    };
+  }
+  else if (typ === "forum") {
+    app.innerHTML = `${head2}
+      <div class="card"><div class="row between"><h3>Forum: ${esc(item.frage)}</h3>${sayBtn(item.frage + " " + item.beitraege.map(b => b.name + " schreibt: " + b.text).join(" "), "Forum vorlesen")}</div>
+        ${item.beitraege.map(b => `<div class="ex"><b>${esc(b.name)}:</b> ${esc(b.text)}</div>`).join("")}</div>
+      <div class="card">${task("Schreib einen Beitrag mit deiner Meinung (mindestens 120 Wörter).", "Напиши свой комментарий (минимум 120 слов).")}
+        <ul style="margin:0;padding-left:20px">${item.punkte.map(x => `<li>${esc(x)}</li>`).join("")}</ul>${item.ru ? `<div class="rubox">${esc(item.ru)}</div>` : ""}
+        ${rmHtml(item.rm)}${timerBtn}${writeBox("forum:" + item.id, 120)}${checklist(["Eigene Meinung klar gesagt", ...item.punkte, "Auf einen anderen Beitrag reagiert", "Abschluss / Fazit"])}
+        <div class="row"><button class="btn" id="showM">Musterlösung zeigen</button><button class="btn primary" id="doneT">Fertig</button></div></div>
+      ${model(item.m)}<div id="nx" hidden>${nextBtnHtml}</div>`;
+    bindTimer(); bindWrite("forum:" + item.id, 120);
+    $("#showM").onclick = () => { $("#mo").hidden = false; $("#nx").hidden = false; bindNext(); };
+    $("#doneT").onclick = () => { if (doneWriting(120)) { $("#nx").hidden = false; bindNext(); } };
+  }
+  else if (typ === "sb") {
+    const parts = item.text.split(/\{\{(\d+)\}\}/);
+    app.innerHTML = `${head2}
+      <div class="card">${task("Lies den Text und wähle für jede Lücke das passende Wort.", "Выбери подходящее слово для каждого пропуска.")}
+        <div class="row between"><span></span>${sayBtn(item.text.replace(/\{\{\d+\}\}/g, " … Lücke … "), "Text vorlesen")}</div>
+        <div class="model" style="background:var(--bg);line-height:1.9" id="sbt"></div></div>
+      <div class="card" id="sbq"></div>
+      <div class="card" id="sbr" hidden></div><div id="nx" hidden>${nextBtnHtml}</div>`;
+    const sbt = $("#sbt"); parts.forEach((p, i) => { if (i % 2 === 0) sbt.appendChild(document.createTextNode(p)); else { const s = document.createElement("b"); s.className = "gapword"; s.id = "g" + p; s.textContent = " (" + p + ") "; sbt.appendChild(s); } });
+    const sbq = $("#sbq"); let n = 0, r = 0;
+    item.gaps.forEach((g, gi) => {
+      const box = document.createElement("div"); box.className = "row"; box.style.alignItems = "center";
+      box.innerHTML = `<b style="min-width:28px">${gi + 1}</b>`; const ch = document.createElement("div"); ch.className = "choices"; ch.style.flex = "1"; let done = false;
+      g.o.forEach((o, oi) => { const b = document.createElement("button"); b.className = "choice"; b.style.fontSize = "16px"; b.textContent = o; b.onclick = () => {
+        if (done) return; done = true; const ok = oi === g.r; n++; if (ok) r++; b.classList.add(ok ? "right" : "wrong"); if (!ok) ch.children[g.r].classList.add("right");
+        const gap = $("#g" + (gi + 1)); gap.textContent = " " + g.o[g.r] + " "; gap.style.color = ok ? "var(--ok)" : "var(--bad)";
+        log("sb", ok, null, { pr: typ, pid: item.id, kat: g.k || "", a: o, c: g.o[g.r] });
+        if (n === item.gaps.length) { const all = r === n; prMark(typ, item.id, r >= n - 1); $("#sbr").hidden = false; $("#sbr").innerHTML = `<div class="feedback ${all ? "ok" : "bad"}">${r} von ${n} richtig</div>${item.gaps.filter(x => x.e).map((x, i) => `<div class="rule"><b>${esc(x.o[x.r])}</b>: ${esc(x.e)}</div>`).join("")}${sayBtn(item.text.replace(/\{\{(\d+)\}\}/g, (m, k) => item.gaps[k - 1].o[item.gaps[k - 1].r]), "Ganzen Text vorlesen")}`; $("#nx").hidden = false; bindNext(); }
+      }; ch.appendChild(b); });
+      box.appendChild(ch); sbq.appendChild(box);
+    });
+  }
+  else if (typ === "vortrag") {
+    app.innerHTML = `${head2}
+      <div class="card">${task("Sprich 2 bis 3 Minuten laut über das Thema. Benutze die Stichpunkte.", "Говори 2–3 минуты вслух по теме, используй пункты.")}
+        <div class="row between"><h3>${esc(item.thema || item.t)}</h3>${sayBtn((item.thema || item.t) + ". " + item.stichpunkte.join(". "), "Thema vorlesen")}</div>
+        <ul style="margin:0;padding-left:20px">${item.stichpunkte.map(x => `<li>${esc(x)}</li>`).join("")}</ul>${item.ru ? `<div class="rubox">${esc(item.ru)}</div>` : ""}
+        ${rmHtml(item.rm)}<button class="btn primary" id="go">▶ Jetzt sprechen (Timer 3 Min.)</button><button class="btn" id="showM">Fertig – Muster anhören</button></div>
+      ${model(item.m, "Mustervortrag")}<div id="sr" hidden>${selfRate("sprechen")}</div>`;
+    $("#go").onclick = () => { startTimer($("#tm"), 3, () => toast("3 Minuten sind um.")); $("#go").hidden = true; };
+    $("#showM").onclick = () => { stopTimer(); $("#mo").hidden = false; $("#sr").hidden = false; say(item.m); bindRate("sprechen"); $("#mo").scrollIntoView({ behavior: "smooth" }); };
+  }
+  else if (typ === "fragen") {
+    const qs = item.fragen; let i = 0;
+    app.innerHTML = `${head2}<div class="card">${task("Hör die Frage und antworte laut in 2–4 Sätzen. Dann hörst du eine Musterantwort.", "Послушай вопрос и ответь вслух 2–4 предложениями.")}<div id="fq" class="panel"></div></div><div id="sr" hidden>${selfRate("sprechen")}</div>`;
+    const drawQ = () => {
+      const q = qs[i]; $("#fq").innerHTML = `<p class="hint small">Frage ${i + 1} von ${qs.length}</p><p class="sent">${esc(q.q)}</p>${q.ru ? `<p class="ru small" style="text-align:center">${esc(q.ru)}</p>` : ""}
+        <div class="row"><button class="btn" id="rep">🔊 Frage wiederholen</button><button class="btn primary" id="ans">Ich habe geantwortet</button></div><div id="fm" hidden class="panel"><div class="model">${esc(q.m)}</div>${sayBtn(q.m)}<button class="btn primary" id="nq">${i < qs.length - 1 ? "Nächste Frage" : "Fertig"}</button></div>`;
+      say(q.q); startTimer($("#tm"), 1);
+      $("#rep").onclick = () => say(q.q);
+      $("#ans").onclick = () => { stopTimer(); $("#fm").hidden = false; $("#ans").hidden = true; say(q.m); $("#nq").onclick = () => { i++; if (i < qs.length) drawQ(); else { $("#sr").hidden = false; bindRate("sprechen"); $("#sr").scrollIntoView({ behavior: "smooth" }); } }; };
+    };
+    drawQ();
+  }
+  else if (typ === "diskussion" || typ === "loesung") {
+    const steps = item.schritte; let i = 0;
+    app.innerHTML = `${head2}
+      <div class="card">${task(typ === "loesung" ? "Ihr müsst gemeinsam ein Problem im Betrieb lösen. Die App spielt deine Kollegin oder deinen Kollegen. Antworte immer zuerst laut, dann wähle die beste Reaktion." : "Ihr diskutiert über ein Thema. Die App spielt deinen Partner. Antworte zuerst laut, dann wähle die beste Reaktion.", typ === "loesung" ? "Решите вместе проблему на работе. Сначала отвечай вслух, потом выбери лучший ответ." : "Обсуждение. Сначала отвечай вслух, потом выбери лучший ответ.")}
+        <div class="row between"><h3>${esc(item.thema || item.t)}</h3>${sayBtn(item.situation, "Situation vorlesen")}</div><div class="ex">${esc(item.situation)}</div>
+        ${item.optionen ? `<p class="hint small">Mögliche Lösungen:</p><ul style="margin:0;padding-left:20px">${item.optionen.map(x => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}${rmHtml(item.rm)}</div>
+      <div class="card" id="dlg"></div>${model(item.m, "Mustergespräch")}<div id="sr" hidden>${selfRate("sprechen")}</div>`;
+    const dlg = $("#dlg"); let right = 0;
+    const drawS = () => {
+      const s = steps[i]; const box = document.createElement("div"); box.className = "panel"; box.style.gap = "8px";
+      box.innerHTML = `<div class="row" style="flex-wrap:nowrap;align-items:flex-start"><b style="min-width:70px">${esc(s.wer || "Partner")}:</b><span style="flex:1">${esc(s.sagt)}</span>${sayBtn(s.sagt)}</div>
+        <p class="hint small">Antworte jetzt laut. Dann wähle die beste Reaktion: <span class="ru">Ответь вслух, потом выбери.</span></p><div class="choices one"></div><div class="res"></div>`;
+      dlg.appendChild(box); say(s.sagt);
+      const ch = box.querySelector(".choices"); let done = false;
+      s.o.forEach((o, oi) => { const b = document.createElement("button"); b.className = "choice"; b.textContent = o; b.onclick = () => {
+        if (done) return; done = true; const ok = oi === s.r; if (ok) right++; b.classList.add(ok ? "right" : "wrong"); if (!ok) ch.children[s.r].classList.add("right");
+        say(s.o[s.r]); if (s.e) box.querySelector(".res").innerHTML = `<div class="rule">${esc(s.e)}</div>`;
+        log(typ === "loesung" ? "loesung_wahl" : "diskussion_wahl", ok, null, { pr: typ, pid: item.id });
+        i++; setTimeout(() => { if (i < steps.length) drawS(); else { $("#mo").hidden = false; $("#sr").hidden = false; bindRate("sprechen"); toast(right + " von " + steps.length + " Reaktionen passend"); } }, 900);
+      }; ch.appendChild(b); });
+    };
+    drawS();
+  }
+  else if (typ === "hoeren") {
+    app.innerHTML = `${head2}
+      <div class="card">${task(item.anweisung || "Hör den Text und beantworte die Fragen. Du kannst ihn zweimal hören.", "Послушай текст и ответь на вопросы.")}
+        <p>${esc(item.situation || "")}</p><button class="btn big" id="play1">🔊 Anhören</button><p class="hint small" id="plays">noch 2× anhören</p></div>
+      <div class="card" id="hq"></div>
+      <div id="mo" hidden class="card"><div class="row between"><h3>Text zum Nachlesen</h3>${sayBtn(item.text)}</div><div class="model">${esc(item.text)}</div></div><div id="nx" hidden>${nextBtnHtml}</div>`;
+    let plays = 2; $("#play1").onclick = () => { if (plays <= 0) { toast("Nur zweimal anhören – wie in der Prüfung."); return; } plays--; say(item.text); $("#plays").textContent = plays ? "noch 1× anhören" : "nicht mehr anhören"; };
+    const hq = $("#hq"); let n = 0, r = 0;
+    item.fragen.forEach((f, qi) => {
+      const box = document.createElement("div"); box.className = "panel"; box.style.gap = "8px";
+      const opts = f.o || ["richtig", "falsch"]; const rr = f.o ? f.r : (f.rf ? 0 : 1);
+      box.innerHTML = `<p><b>${qi + 1}.</b> ${esc(f.q)}</p><div class="choices ${opts.length === 2 ? "two" : "one"}"></div>`;
+      const ch = box.querySelector(".choices"); let done = false;
+      opts.forEach((o, oi) => { const b = document.createElement("button"); b.className = "choice"; b.textContent = o; b.onclick = () => {
+        if (done) return; done = true; const ok = oi === rr; n++; if (ok) r++; b.classList.add(ok ? "right" : "wrong"); if (!ok) ch.children[rr].classList.add("right");
+        log("hoeren_beruf", ok, null, { pr: typ, pid: item.id });
+        if (n === item.fragen.length) { prMark(typ, item.id, r === n); $("#mo").hidden = false; $("#nx").hidden = false; bindNext(); toast(r + " von " + n + " richtig"); }
+      }; ch.appendChild(b); });
+      hq.appendChild(box);
+    });
+  }
+};
+
 /* --- Mehr --- */
 VIEWS.mehr = function () {
   app.innerHTML = `${head("Mehr")}
@@ -1002,6 +1405,7 @@ VIEWS.einstellungen = function () {
   app.innerHTML = `${head("Einstellungen", "Mehr")}
     <div class="card">
       <label>Name <input id="sName" value="${esc(SET.name)}" autocomplete="given-name"></label>
+      <label>Prüfung <select id="sEx"><option value="DTB">DTB B2 – Deutsch-Test für den Beruf</option><option value="DTZ">DTZ – Deutsch-Test für Zuwanderer</option></select></label>
       <label>Niveau <select id="sLv"><option value="B1">nur B1</option><option value="alle">B1 und B2</option><option value="B2">nur B2</option></select></label>
       <label>Neue Wörter pro Tag <select id="sPer"><option>10</option><option>15</option><option>20</option><option>30</option><option>40</option></select></label>
       <label>Tagesziel (Aufgaben) <select id="sGoal"><option>40</option><option>60</option><option>80</option><option>100</option><option>150</option></select></label>
@@ -1012,8 +1416,8 @@ VIEWS.einstellungen = function () {
       <button class="btn primary" id="sSave">Speichern</button>
       ${HAS_TTS ? `<button class="btn small" id="sTest">🔊 Vorlesen testen</button>` : `<p class="hint small">Vorlesen ist auf diesem Gerät nicht verfügbar.</p>`}
     </div>`;
-  $("#sLv").value = SET.niveau; $("#sPer").value = String(SET.perDay); $("#sGoal").value = String(SET.goal); $("#sRate").value = String(SET.rate); $("#sLeicht").checked = SET.leicht; $("#sAuto").checked = SET.auto; $("#sTap").checked = SET.tapSay;
-  $("#sSave").onclick = () => { SET.name = $("#sName").value.trim(); SET.niveau = $("#sLv").value; SET.perDay = +$("#sPer").value; SET.goal = +$("#sGoal").value; SET.rate = +$("#sRate").value; SET.leicht = $("#sLeicht").checked; SET.auto = $("#sAuto").checked; SET.tapSay = $("#sTap").checked; saveSET(); toast("Gespeichert"); };
+  $("#sEx").value = exam(); $("#sLv").value = SET.niveau; $("#sPer").value = String(SET.perDay); $("#sGoal").value = String(SET.goal); $("#sRate").value = String(SET.rate); $("#sLeicht").checked = SET.leicht; $("#sAuto").checked = SET.auto; $("#sTap").checked = SET.tapSay;
+  $("#sSave").onclick = () => { SET.name = $("#sName").value.trim(); SET.exam = $("#sEx").value; SET.niveau = $("#sLv").value; SET.perDay = +$("#sPer").value; SET.goal = +$("#sGoal").value; SET.rate = +$("#sRate").value; SET.leicht = $("#sLeicht").checked; SET.auto = $("#sAuto").checked; SET.tapSay = $("#sTap").checked; saveSET(); toast("Gespeichert"); };
   if ($("#sTest")) $("#sTest").onclick = () => say("Guten Tag! Ich lerne jeden Tag Deutsch, weil ich die Prüfung bestehen möchte.");
 };
 VIEWS.sicherung = function () {

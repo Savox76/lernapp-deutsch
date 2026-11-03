@@ -1,0 +1,103 @@
+# Grundwortschatz A2 – Alltag (für den Grundkurs von vorn)
+Name|der|Namen|N|имя|wie man heißt|Mein Name ist Olga.|A2|Person
+Familie|die|Familien|N|семья|Eltern, Kinder und Verwandte|Meine Familie wohnt in Leipzig.|A2|Familie
+Mutter|die|Mütter|N|мать|die Frau, die ein Kind geboren hat|Meine Mutter heißt Anna.|A2|Familie
+Vater|der|Väter|N|отец|der Mann, der Kinder hat|Mein Vater arbeitet noch.|A2|Familie
+Kind|das|Kinder|N|ребёнок|ein junger Mensch unter 14 Jahren|Das Kind spielt im Garten.|A2|Familie
+Sohn|der|Söhne|N|сын|das männliche Kind|Mein Sohn ist acht Jahre alt.|A2|Familie
+Tochter|die|Töchter|N|дочь|das weibliche Kind|Meine Tochter geht in die Schule.|A2|Familie
+Bruder|der|Brüder|N|брат|ein männliches Geschwister|Mein Bruder wohnt in Kiew.|A2|Familie
+Schwester|die|Schwestern|N|сестра|ein weibliches Geschwister|Meine Schwester ist Lehrerin.|A2|Familie
+Mann|der|Männer|N|мужчина; муж|ein erwachsener männlicher Mensch; Ehemann|Mein Mann kocht heute.|A2|Familie
+Frau|die|Frauen|N|женщина; жена|ein erwachsener weiblicher Mensch; Ehefrau|Die Frau wartet auf den Bus.|A2|Familie
+Wohnung|die|Wohnungen|N|квартира|Räume, in denen man wohnt|Die Wohnung hat drei Zimmer.|A2|Wohnen
+Zimmer|das|Zimmer|N|комната|ein Raum in einer Wohnung|Mein Zimmer ist hell.|A2|Wohnen
+Küche|die|Küchen|N|кухня|der Raum, in dem man kocht|Wir essen in der Küche.|A2|Wohnen
+Bad|das|Bäder|N|ванная|der Raum mit Dusche und Toilette|Das Bad ist neben der Küche.|A2|Wohnen
+Tisch|der|Tische|N|стол|ein Möbelstück, an dem man isst oder arbeitet|Das Buch liegt auf dem Tisch.|A2|Wohnen
+Stuhl|der|Stühle|N|стул|ein Möbelstück zum Sitzen|Der Stuhl ist bequem.|A2|Wohnen
+Bett|das|Betten|N|кровать|ein Möbelstück zum Schlafen|Das Kind liegt im Bett.|A2|Wohnen
+Fenster|das|Fenster|N|окно|eine Öffnung aus Glas in der Wand|Bitte mach das Fenster zu.|A2|Wohnen
+Tür|die|Türen|N|дверь|dadurch geht man in einen Raum|Die Tür ist offen.|A2|Wohnen
+Schlüssel|der|Schlüssel|N|ключ|damit öffnet man die Tür|Ich habe meinen Schlüssel vergessen.|A2|Wohnen
+Brot|das|Brote|N|хлеб|ein Lebensmittel aus Mehl, das man backt|Ich kaufe Brot beim Bäcker.|A2|Ernährung
+Milch|die|-|N|молоко|ein weißes Getränk von der Kuh|Die Milch ist im Kühlschrank.|A2|Ernährung
+Wasser|das|-|N|вода|ein Getränk ohne Farbe|Ich trinke viel Wasser.|A2|Ernährung
+Apfel|der|Äpfel|N|яблоко|eine runde Frucht|Der Apfel ist rot.|A2|Ernährung
+Fleisch|das|-|N|мясо|ein Lebensmittel von Tieren|Ich esse wenig Fleisch.|A2|Ernährung
+Gemüse|das|-|N|овощи|Karotten, Tomaten, Kartoffeln usw.|Gemüse ist gesund.|A2|Ernährung
+Frühstück|das|Frühstücke|N|завтрак|das Essen am Morgen|Zum Frühstück esse ich Brot.|A2|Ernährung
+Geld|das|-|N|деньги|damit bezahlt man|Ich habe kein Geld dabei.|A2|Einkaufen
+Preis|der|Preise|N|цена|wie viel etwas kostet|Der Preis ist zu hoch.|A2|Einkaufen
+Geschäft|das|Geschäfte|N|магазин|dort kann man etwas kaufen|Das Geschäft schließt um 20 Uhr.|A2|Einkaufen
+Kasse|die|Kassen|N|касса|dort bezahlt man im Geschäft|Bitte bezahlen Sie an der Kasse.|A2|Einkaufen
+Arzt|der|Ärzte|N|врач|ein Mann, der Kranke behandelt|Ich gehe morgen zum Arzt.|A2|Gesundheit
+Kopf|der|Köpfe|N|голова|der obere Teil des Körpers|Mein Kopf tut weh.|A2|Gesundheit
+Bauch|der|Bäuche|N|живот|der mittlere Teil des Körpers vorne|Das Kind hat Bauchschmerzen.|A2|Gesundheit
+Termin|der|Termine|N|приём, встреча (по записи)|eine feste Zeit für ein Treffen|Ich habe um 10 Uhr einen Termin.|A2|Alltag
+Zeit|die|Zeiten|N|время|Stunden, Minuten, Tage|Hast du heute Zeit?|A2|Alltag
+Uhr|die|Uhren|N|часы; час|damit sieht man die Zeit|Es ist drei Uhr.|A2|Alltag
+Woche|die|Wochen|N|неделя|sieben Tage|Nächste Woche habe ich Urlaub.|A2|Alltag
+Jahr|das|Jahre|N|год|zwölf Monate|Ich wohne seit einem Jahr hier.|A2|Alltag
+Morgen|der|Morgen|N|утро|der Anfang des Tages|Am Morgen trinke ich Kaffee.|A2|Alltag
+Abend|der|Abende|N|вечер|das Ende des Tages|Am Abend sehe ich fern.|A2|Alltag
+Bus|der|Busse|N|автобус|ein großes Auto für viele Menschen|Ich fahre mit dem Bus.|A2|Verkehr
+Zug|der|Züge|N|поезд|eine Bahn für lange Strecken|Der Zug hat Verspätung.|A2|Verkehr
+Fahrkarte|die|Fahrkarten|N|билет|damit darf man Bus oder Bahn fahren|Ich kaufe eine Fahrkarte am Automaten.|A2|Verkehr
+Straße|die|Straßen|N|улица|dort fahren Autos|Ich wohne in der Bahnhofstraße.|A2|Verkehr
+Schule|die|Schulen|N|школа|dort lernen Kinder|Die Schule beginnt um acht Uhr.|A2|Bildung
+Kurs|der|Kurse|N|курс|Unterricht für eine Gruppe|Der Kurs ist am Montag.|A2|Bildung
+Arbeit|die|Arbeiten|N|работа|das, womit man Geld verdient|Ich fahre zur Arbeit.|A2|Arbeit
+Wetter|das|-|N|погода|Sonne, Regen, Wind usw.|Das Wetter ist heute schön.|A2|Wetter
+sein|-|ist, war, ist gewesen|V|быть|existieren, sich befinden|Ich bin müde.|A2|Alltag
+haben|-|hat, hatte, hat gehabt|V|иметь|besitzen|Wir haben ein Auto.|A2|Alltag
+gehen|-|geht, ging, ist gegangen|V|идти|zu Fuß laufen|Ich gehe nach Hause.|A2|Alltag
+kommen|-|kommt, kam, ist gekommen|V|приходить|an einen Ort gelangen|Wann kommst du?|A2|Alltag
+machen|-|macht, machte, hat gemacht|V|делать|etwas tun|Was machst du heute?|A2|Alltag
+wohnen|-|wohnt, wohnte, hat gewohnt|V|жить, проживать|ein Zuhause haben|Ich wohne in Leipzig.|A2|Wohnen
+arbeiten|-|arbeitet, arbeitete, hat gearbeitet|V|работать|eine Arbeit tun|Sie arbeitet im Krankenhaus.|A2|Arbeit
+lernen|-|lernt, lernte, hat gelernt|V|учить|etwas Neues wissen wollen|Ich lerne Deutsch.|A2|Bildung
+sprechen|-|spricht, sprach, hat gesprochen|V|говорить|Worte sagen|Sprechen Sie Englisch?|A2|Alltag
+essen|-|isst, aß, hat gegessen|V|есть|Essen in den Mund nehmen|Wir essen um 12 Uhr.|A2|Ernährung
+trinken|-|trinkt, trank, hat getrunken|V|пить|ein Getränk zu sich nehmen|Ich trinke Tee.|A2|Ernährung
+kaufen|-|kauft, kaufte, hat gekauft|V|покупать|etwas für Geld bekommen|Ich kaufe Brot.|A2|Einkaufen
+bezahlen|-|bezahlt, bezahlte, hat bezahlt|V|платить|Geld für etwas geben|Kann ich mit Karte bezahlen?|A2|Einkaufen
+fahren|-|fährt, fuhr, ist gefahren|V|ехать|sich mit einem Fahrzeug bewegen|Wir fahren nach Berlin.|A2|Verkehr
+schlafen|-|schläft, schlief, hat geschlafen|V|спать|in der Nacht ruhen|Das Baby schläft.|A2|Alltag
+kochen|-|kocht, kochte, hat gekocht|V|готовить|Essen warm machen|Heute koche ich Suppe.|A2|Ernährung
+helfen|-|hilft, half, hat geholfen|V|помогать|jemandem etwas leichter machen|Kannst du mir helfen?|A2|Alltag
+brauchen|-|braucht, brauchte, hat gebraucht|V|нуждаться|etwas nötig haben|Ich brauche einen Stift.|A2|Alltag
+verstehen|-|versteht, verstand, hat verstanden|V|понимать|wissen, was jemand meint|Ich verstehe das nicht.|A2|Bildung
+fragen|-|fragt, fragte, hat gefragt|V|спрашивать|eine Frage stellen|Darf ich etwas fragen?|A2|Alltag
+antworten|-|antwortet, antwortete, hat geantwortet|V|отвечать|auf eine Frage reagieren|Bitte antworten Sie auf Deutsch.|A2|Alltag
+warten|-|wartet, wartete, hat gewartet|V|ждать|bleiben, bis etwas kommt|Ich warte auf den Bus.|A2|Verkehr
+aufstehen|-|steht auf, stand auf, ist aufgestanden|V|вставать|aus dem Bett kommen|Ich stehe um sechs Uhr auf.|A2|Alltag
+anrufen|-|ruft an, rief an, hat angerufen|V|звонить|mit dem Telefon sprechen|Ich rufe dich morgen an.|A2|Alltag
+einkaufen|-|kauft ein, kaufte ein, hat eingekauft|V|делать покупки|Lebensmittel und Dinge kaufen|Wir kaufen am Samstag ein.|A2|Einkaufen
+können|-|kann, konnte, hat gekonnt|V|мочь, уметь|fähig sein|Ich kann schwimmen.|A2|Alltag
+müssen|-|muss, musste, hat gemusst|V|быть должным|es ist nötig|Ich muss heute arbeiten.|A2|Alltag
+möchten|-|möchte, wollte, -|V|хотеть (вежливо)|höflich: wollen|Ich möchte einen Kaffee.|A2|Alltag
+dürfen|-|darf, durfte, hat gedurft|V|иметь право|erlaubt sein|Darf ich hier parken?|A2|Alltag
+groß|-|größer, am größten|A|большой|nicht klein|Die Wohnung ist groß.|A2|Alltag
+klein|-|kleiner, am kleinsten|A|маленький|nicht groß|Das Zimmer ist klein.|A2|Alltag
+teuer|-|teurer, am teuersten|A|дорогой|kostet viel Geld|Das Auto ist teuer.|A2|Einkaufen
+billig|-|billiger, am billigsten|A|дешёвый|kostet wenig Geld|Das Brot ist billig.|A2|Einkaufen
+krank|-|kränker, am kränksten|A|больной|nicht gesund|Ich bin krank.|A2|Gesundheit
+müde|-|müder, am müdesten|A|усталый|man möchte schlafen|Nach der Arbeit bin ich müde.|A2|Alltag
+früh|-|früher, am frühesten|A|рано, ранний|am Anfang des Tages; nicht spät|Ich stehe früh auf.|A2|Alltag
+spät|-|später, am spätesten|A|поздно, поздний|nicht früh|Es ist schon spät.|A2|Alltag
+heute|-|-|Adv|сегодня|an diesem Tag|Heute habe ich frei.|A2|Alltag
+morgen|-|-|Adv|завтра|am nächsten Tag|Morgen gehe ich zum Arzt.|A2|Alltag
+gestern|-|-|Adv|вчера|am Tag vorher|Gestern war ich müde.|A2|Alltag
+immer|-|-|Adv|всегда|jedes Mal|Er kommt immer zu spät.|A2|Alltag
+oft|-|-|Adv|часто|viele Male|Ich trinke oft Tee.|A2|Alltag
+manchmal|-|-|Adv|иногда|nicht oft, aber ab und zu|Manchmal gehe ich ins Kino.|A2|Alltag
+nie|-|-|Adv|никогда|kein einziges Mal|Ich rauche nie.|A2|Alltag
+dort|-|-|Adv|там|an dem Ort|Dort ist die Post.|A2|Alltag
+leider|-|-|Adv|к сожалению|das ist schade|Leider habe ich keine Zeit.|A2|Alltag
+mit|-|+ Dativ|P|с|zusammen; mit Hilfe von|Ich fahre mit dem Bus.|A2|Grammatik
+nach|-|+ Dativ|P|после; в (город, страну)|zeitlich danach; Richtung Stadt/Land|Nach der Arbeit fahre ich nach Hause.|A2|Grammatik
+für|-|+ Akkusativ|P|для|zugunsten von jemandem|Das Geschenk ist für dich.|A2|Grammatik
+und|-|-|K|и|verbindet zwei Dinge|Ich trinke Tee und esse Brot.|A2|Grammatik
+aber|-|-|K|но|zeigt einen Gegensatz|Ich bin müde, aber ich arbeite weiter.|A2|Grammatik
+oder|-|-|K|или|zeigt eine Wahl|Möchtest du Tee oder Kaffee?|A2|Grammatik

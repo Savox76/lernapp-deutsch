@@ -1,0 +1,107 @@
+# Berufswortschatz B1/B2 (DTB)
+Auftrag|der|Aufträge|N|заказ, поручение|eine Bestellung oder Arbeit, die jemand erledigen soll|Wir haben einen großen Auftrag bekommen.|B1|Arbeit
+Auftragsbestätigung|die|Auftragsbestätigungen|N|подтверждение заказа|ein Schreiben, das eine Bestellung bestätigt|Die Auftragsbestätigung kam per E-Mail.|B2|Arbeit
+Angebot|das|Angebote|N|предложение|ein Preis und die Bedingungen für eine Ware oder Leistung|Können Sie uns ein Angebot schicken?|B1|Arbeit
+Kostenvoranschlag|der|Kostenvoranschläge|N|смета|eine Berechnung, was eine Arbeit ungefähr kosten wird|Der Kostenvoranschlag liegt bei 800 Euro.|B2|Arbeit
+Lieferung|die|Lieferungen|N|поставка, доставка|Waren, die gebracht werden|Die Lieferung kommt morgen.|B1|Arbeit
+Lieferant|der|Lieferanten|N|поставщик|eine Firma, die Waren liefert|Wir haben den Lieferanten gewechselt.|B1|Arbeit
+Liefertermin|der|Liefertermine|N|срок поставки|der Tag, an dem etwas geliefert wird|Der Liefertermin ist der 5. Juni.|B1|Arbeit
+Reklamation|die|Reklamationen|N|рекламация, жалоба на товар|eine Beschwerde über eine fehlerhafte Ware|Wir bearbeiten Ihre Reklamation sofort.|B2|Arbeit
+Beschwerde|die|Beschwerden|N|жалоба|man sagt, dass man unzufrieden ist|Der Kunde hat eine Beschwerde geschrieben.|B1|Arbeit
+Entschädigung|die|Entschädigungen|N|компенсация|Geld oder etwas anderes als Ausgleich für einen Schaden|Als Entschädigung erhalten Sie einen Gutschein.|B2|Arbeit
+Gutschein|der|Gutscheine|N|подарочный сертификат, ваучер|ein Papier, mit dem man etwas umsonst bekommt|Ich schenke ihr einen Gutschein.|B1|Einkaufen
+Rabatt|der|Rabatte|N|скидка|ein niedrigerer Preis|Wir geben Ihnen 10 Prozent Rabatt.|B1|Einkaufen
+Rechnung|die|Rechnungen|N|счёт|ein Papier, auf dem steht, was man bezahlen muss|Die Rechnung ist falsch.|B1|Arbeit
+Mahnung|die|Mahnungen|N|напоминание о долге|ein Brief, wenn man eine Rechnung nicht bezahlt hat|Ich habe eine Mahnung bekommen.|B2|Geld
+Frist|die|Fristen|N|срок|die Zeit, bis wann etwas erledigt sein muss|Die Frist endet am Freitag.|B2|Arbeit
+Unterlagen|die|-|N|документы|Papiere, die man für etwas braucht|Bitte bringen Sie alle Unterlagen mit.|B1|Arbeit
+Anhang|der|Anhänge|N|вложение|eine Datei, die man mit einer E-Mail schickt|Die Rechnung finden Sie im Anhang.|B1|Arbeit
+Besprechung|die|Besprechungen|N|совещание|ein Treffen bei der Arbeit, um etwas zu klären|Die Besprechung beginnt um zehn.|B1|Arbeit
+Tagesordnung|die|Tagesordnungen|N|повестка дня|die Liste der Themen für eine Sitzung|Was steht heute auf der Tagesordnung?|B2|Arbeit
+Protokoll|das|Protokolle|N|протокол|ein Text, in dem steht, was in einer Sitzung besprochen wurde|Wer schreibt heute das Protokoll?|B2|Arbeit
+Abteilung|die|Abteilungen|N|отдел|ein Teil einer Firma|Ich arbeite in der Buchhaltung, das ist eine Abteilung.|B1|Arbeit
+Vorgesetzte|die|Vorgesetzten|N|начальник, руководитель|die Person, die einem Mitarbeiter Anweisungen gibt|Ich spreche mit meiner Vorgesetzten.|B2|Arbeit
+Schichtleitung|die|Schichtleitungen|N|руководитель смены|die Person, die eine Schicht organisiert|Die Schichtleitung macht den Plan.|B2|Arbeit
+Dienstplan|der|Dienstpläne|N|график работы|ein Plan, wer wann arbeitet|Der neue Dienstplan hängt im Pausenraum.|B1|Arbeit
+Schicht|die|Schichten|N|смена|eine feste Arbeitszeit, z. B. Frühschicht|Ich habe diese Woche Spätschicht.|B1|Arbeit
+Überstunde|die|Überstunden|N|сверхурочный час|eine Stunde, die man mehr arbeitet als vereinbart|Ich habe zehn Überstunden gemacht.|B1|Arbeit
+Arbeitszeugnis|das|Arbeitszeugnisse|N|характеристика с места работы|ein Dokument, in dem der Arbeitgeber die Arbeit beurteilt|Ich brauche ein Arbeitszeugnis für meine Bewerbung.|B2|Arbeit
+Probezeit|die|Probezeiten|N|испытательный срок|die ersten Monate in einer neuen Stelle|Die Probezeit dauert sechs Monate.|B1|Arbeit
+Arbeitsvertrag|der|Arbeitsverträge|N|трудовой договор|ein Vertrag zwischen Arbeitgeber und Arbeitnehmer|Ich habe den Arbeitsvertrag unterschrieben.|B1|Arbeit
+Gehaltsabrechnung|die|Gehaltsabrechnungen|N|расчётный лист|ein Papier, auf dem steht, wie viel man verdient hat|Auf der Gehaltsabrechnung fehlen meine Überstunden.|B2|Arbeit
+Krankmeldung|die|Krankmeldungen|N|больничный лист|eine Bescheinigung vom Arzt, dass man krank ist|Die Krankmeldung schicke ich morgen.|B1|Arbeit
+Arbeitsunfähigkeitsbescheinigung|die|-|N|справка о нетрудоспособности|offizielles Wort für Krankmeldung|Ab dem dritten Tag brauchen Sie eine Arbeitsunfähigkeitsbescheinigung.|B2|Arbeit
+Fortbildung|die|Fortbildungen|N|повышение квалификации|ein Kurs, um im Beruf mehr zu lernen|Die Fortbildung dauert zwei Tage.|B1|Arbeit
+Schulung|die|Schulungen|N|обучение, инструктаж|ein Kurs bei der Arbeit, z. B. für ein neues Programm|Morgen haben wir eine Schulung.|B1|Arbeit
+Einarbeitung|die|Einarbeitungen|N|введение в должность|die Zeit, in der man eine neue Arbeit lernt|Die Einarbeitung dauert zwei Wochen.|B2|Arbeit
+Vertretung|die|Vertretungen|N|замещение; заместитель|eine Person, die für jemanden arbeitet, der nicht da ist|Wer ist meine Vertretung im Urlaub?|B1|Arbeit
+Zuständigkeit|die|Zuständigkeiten|N|компетенция, ответственность|wofür jemand verantwortlich ist|Das liegt nicht in meiner Zuständigkeit.|B2|Arbeit
+zuständig|-|-|A|ответственный, компетентный|verantwortlich für eine Aufgabe|Wer ist für die Bestellungen zuständig?|B2|Arbeit
+Anfrage|die|Anfragen|N|запрос|eine Frage nach Informationen oder einem Angebot|Vielen Dank für Ihre Anfrage.|B1|Arbeit
+Anliegen|das|Anliegen|N|просьба, дело|etwas, worum man jemanden bittet|Was ist Ihr Anliegen?|B2|Arbeit
+Rückfrage|die|Rückfragen|N|уточняющий вопрос|eine Frage, um etwas zu klären|Für Rückfragen stehe ich gern zur Verfügung.|B2|Arbeit
+Rückruf|der|Rückrufe|N|обратный звонок|man ruft jemanden zurück|Ich bitte um Rückruf.|B1|Arbeit
+Telefonnotiz|die|Telefonnotizen|N|записка о звонке|eine kurze Notiz über ein Telefonat|Ich habe dir eine Telefonnotiz auf den Tisch gelegt.|B2|Arbeit
+Durchwahl|die|Durchwahlen|N|добавочный номер|die direkte Telefonnummer eines Mitarbeiters|Meine Durchwahl ist 214.|B2|Arbeit
+Kunde|der|Kunden|N|клиент|eine Person, die etwas kauft|Der Kunde ist König.|B1|Arbeit
+Kundenservice|der|-|N|служба поддержки клиентов|die Abteilung, die Kunden hilft|Bitte wenden Sie sich an den Kundenservice.|B1|Arbeit
+Lager|das|Lager|N|склад|ein Raum oder Gebäude, in dem Waren liegen|Die Ware ist auf Lager.|B1|Arbeit
+Ware|die|Waren|N|товар|Dinge, die man kaufen oder verkaufen kann|Die Ware ist beschädigt.|B1|Arbeit
+Bestellung|die|Bestellungen|N|заказ|man möchte etwas kaufen und bestellt es|Ihre Bestellung ist unterwegs.|B1|Einkaufen
+Umsatz|der|Umsätze|N|оборот|das Geld, das eine Firma mit dem Verkauf einnimmt|Der Umsatz ist gestiegen.|B2|Arbeit
+Arbeitsschutz|der|-|N|охрана труда|Regeln, damit bei der Arbeit nichts passiert|Arbeitsschutz ist Pflicht.|B2|Arbeit
+Arbeitsunfall|der|Arbeitsunfälle|N|несчастный случай на производстве|ein Unfall bei der Arbeit|Jeder Arbeitsunfall muss gemeldet werden.|B2|Arbeit
+Berufsgenossenschaft|die|Berufsgenossenschaften|N|страховая ассоциация от несчастных случаев на производстве|Versicherung für Arbeitsunfälle|Die Berufsgenossenschaft übernimmt die Kosten.|B2|Arbeit
+Betriebsrat|der|Betriebsräte|N|производственный совет|die Vertretung der Mitarbeiter in einer Firma|Sprich doch mal mit dem Betriebsrat.|B2|Arbeit
+Kündigungsfrist|die|Kündigungsfristen|N|срок уведомления об увольнении|die Zeit zwischen Kündigung und Ende des Vertrags|Die Kündigungsfrist beträgt vier Wochen.|B2|Arbeit
+Anerkennung|die|Anerkennungen|N|признание|die offizielle Bestätigung, dass ein ausländischer Abschluss gilt|Die Anerkennung meines Diploms hat ein Jahr gedauert.|B2|Arbeit
+Bewerbung|die|Bewerbungen|N|заявление о приёме на работу|Unterlagen, mit denen man sich um eine Stelle bemüht|Ich habe zehn Bewerbungen geschrieben.|B1|Arbeit
+Vorstellungsgespräch|das|Vorstellungsgespräche|N|собеседование|ein Gespräch mit einer Firma vor der Einstellung|Morgen habe ich ein Vorstellungsgespräch.|B1|Arbeit
+Lebenslauf|der|Lebensläufe|N|резюме|eine Übersicht über Ausbildung und Berufserfahrung|Mein Lebenslauf ist zwei Seiten lang.|B1|Arbeit
+Qualifikation|die|Qualifikationen|N|квалификация|was man gelernt hat und kann|Welche Qualifikationen haben Sie?|B2|Arbeit
+Stärke|die|Stärken|N|сильная сторона|etwas, was man besonders gut kann|Meine Stärke ist Geduld.|B1|Arbeit
+Kollegin|die|Kolleginnen|N|коллега (женщина)|eine Frau, die in derselben Firma arbeitet|Meine Kollegin hilft mir oft.|B1|Arbeit
+Arbeitgeber|der|Arbeitgeber|N|работодатель|die Person oder Firma, bei der man angestellt ist|Mein Arbeitgeber zahlt das Jobticket.|B1|Arbeit
+Arbeitnehmer|der|Arbeitnehmer|N|работник|eine Person, die bei einer Firma angestellt ist|Arbeitnehmer haben ein Recht auf Urlaub.|B1|Arbeit
+Teilzeit|die|-|N|неполный рабочий день|man arbeitet weniger Stunden als normal|Ich arbeite in Teilzeit.|B1|Arbeit
+Gleitzeit|die|-|N|гибкий график|man kann Beginn und Ende der Arbeit selbst wählen|Bei uns gibt es Gleitzeit.|B2|Arbeit
+Homeoffice|das|-|N|работа из дома|Arbeit von zu Hause aus|Am Freitag arbeite ich im Homeoffice.|B1|Arbeit
+Zeiterfassung|die|-|N|учёт рабочего времени|ein System, das die Arbeitszeit speichert|Bitte tragen Sie Ihre Pause in die Zeiterfassung ein.|B2|Arbeit
+Inventur|die|Inventuren|N|инвентаризация|man zählt alle Waren im Lager|Am Samstag ist Inventur.|B2|Arbeit
+Wartung|die|Wartungen|N|техобслуживание|regelmäßige Kontrolle und Pflege von Maschinen|Die Maschine ist in der Wartung.|B2|Arbeit
+Störung|die|Störungen|N|неисправность, помеха|ein Problem, sodass etwas nicht funktioniert|Wir haben eine Störung im Netz.|B1|Arbeit
+erledigen|-|erledigt, erledigte, hat erledigt|V|выполнять, сделать|eine Aufgabe fertig machen|Ich erledige das heute noch.|B1|Arbeit
+bearbeiten|-|bearbeitet, bearbeitete, hat bearbeitet|V|обрабатывать|sich um einen Vorgang kümmern|Wir bearbeiten Ihren Antrag.|B1|Arbeit
+weiterleiten|-|leitet weiter, leitete weiter, hat weitergeleitet|V|пересылать|eine Nachricht an eine andere Person schicken|Ich leite Ihre E-Mail an die Kollegin weiter.|B1|Arbeit
+vereinbaren|-|vereinbart, vereinbarte, hat vereinbart|V|договариваться|zusammen etwas festlegen|Wir haben einen Termin vereinbart.|B1|Arbeit
+verschieben|-|verschiebt, verschob, hat verschoben|V|переносить|auf eine andere Zeit legen|Können wir das Treffen verschieben?|B1|Arbeit
+absagen|-|sagt ab, sagte ab, hat abgesagt|V|отменять|sagen, dass etwas nicht stattfindet|Ich muss den Termin leider absagen.|B1|Arbeit
+bestätigen|-|bestätigt, bestätigte, hat bestätigt|V|подтверждать|sagen, dass etwas richtig oder gültig ist|Bitte bestätigen Sie den Termin.|B1|Arbeit
+sich entschuldigen|-|entschuldigt sich, entschuldigte sich, hat sich entschuldigt|V|извиняться|sagen, dass einem etwas leidtut|Ich entschuldige mich für den Fehler.|B1|Arbeit
+bedauern|-|bedauert, bedauerte, hat bedauert|V|сожалеть|etwas schade finden (formell)|Wir bedauern die Verspätung sehr.|B2|Arbeit
+gewähren|-|gewährt, gewährte, hat gewährt|V|предоставлять|offiziell geben, erlauben|Wir gewähren Ihnen einen Rabatt.|B2|Arbeit
+übernehmen|-|übernimmt, übernahm, hat übernommen|V|брать на себя|eine Aufgabe oder Kosten auf sich nehmen|Die Firma übernimmt die Kosten.|B1|Arbeit
+sich kümmern um|-|kümmert sich, kümmerte sich, hat sich gekümmert|V|заботиться о, заниматься|für etwas sorgen|Ich kümmere mich um die Bestellung.|B1|Arbeit
+sich wenden an|-|wendet sich, wandte sich, hat sich gewandt|V|обращаться к|jemanden kontaktieren|Bitte wenden Sie sich an die Personalabteilung.|B2|Arbeit
+zur Verfügung stehen|-|steht zur Verfügung|V|быть в распоряжении|bereit sein, verfügbar sein|Für Fragen stehe ich Ihnen gern zur Verfügung.|B2|Arbeit
+berücksichtigen|-|berücksichtigt, berücksichtigte, hat berücksichtigt|V|учитывать|an etwas denken und es beachten|Wir berücksichtigen Ihre Wünsche.|B2|Arbeit
+beantragen|-|beantragt, beantragte, hat beantragt|V|подавать заявление|offiziell um etwas bitten|Ich habe Urlaub beantragt.|B1|Arbeit
+einhalten|-|hält ein, hielt ein, hat eingehalten|V|соблюдать|eine Regel oder Frist beachten|Wir müssen die Frist einhalten.|B2|Arbeit
+verantwortlich|-|-|A|ответственный|zuständig, muss sich um etwas kümmern|Ich bin für das Lager verantwortlich.|B1|Arbeit
+dringend|-|dringender|A|срочный|sehr eilig, sehr wichtig|Ich brauche dringend Hilfe.|B1|Arbeit
+zuverlässig|-|zuverlässiger|A|надёжный|man kann sich auf jemanden verlassen|Sie ist eine zuverlässige Kollegin.|B1|Arbeit
+verbindlich|-|verbindlicher|A|обязательный, твёрдый|fest, man muss sich daran halten|Wir brauchen einen verbindlichen Termin.|B2|Arbeit
+vorübergehend|-|-|A|временный|nur für kurze Zeit|Das Büro ist vorübergehend geschlossen.|B2|Arbeit
+umgehend|-|-|Adv|немедленно|sofort (formell)|Wir werden den Fehler umgehend beheben.|B2|Arbeit
+rechtzeitig|-|-|Adv|своевременно|früh genug|Bitte melden Sie sich rechtzeitig an.|B1|Arbeit
+bezüglich|-|+ Genitiv|P|относительно|zum Thema …|Bezüglich Ihrer Anfrage teile ich Ihnen mit, dass …|B2|Grammatik
+hinsichtlich|-|+ Genitiv|P|в отношении|in Bezug auf|Hinsichtlich des Termins gibt es noch Fragen.|B2|Grammatik
+aufgrund|-|+ Genitiv|P|из-за, на основании|wegen (formell)|Aufgrund des Streiks fallen viele Züge aus.|B2|Grammatik
+trotz|-|+ Genitiv|P|несмотря на|obwohl es … gibt|Trotz des Regens fand das Fest statt.|B1|Grammatik
+innerhalb|-|+ Genitiv|P|в течение|in einem Zeitraum|Bitte antworten Sie innerhalb einer Woche.|B2|Grammatik
+gemäß|-|+ Dativ|P|согласно|so, wie es … sagt|Gemäß Ihrem Vertrag haben Sie 28 Tage Urlaub.|B2|Grammatik
+anstatt|-|+ Genitiv|P|вместо|statt|Anstatt einer E-Mail rufe ich lieber an.|B2|Grammatik
+sofern|-|-|K|если, поскольку|wenn, unter der Bedingung, dass|Sofern Sie einverstanden sind, schicken wir die Ware heute.|B2|Grammatik
+indem|-|-|K|тем, что; путём|zeigt, wie man etwas macht|Man lernt eine Sprache, indem man viel spricht.|B2|Grammatik
+sodass|-|-|K|так что|zeigt eine Folge|Der Zug kam zu spät, sodass ich den Termin verpasst habe.|B2|Grammatik
+falls|-|-|K|в случае если|wenn (vielleicht)|Falls Sie Fragen haben, rufen Sie mich an.|B1|Grammatik

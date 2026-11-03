@@ -81,7 +81,21 @@ json.dump(sents, open(os.path.join(OUT, "saetze.json"), "w", encoding="utf8"), e
 sch = os.path.join(SRC, "schreiben.json")
 tasks = json.load(open(sch, encoding="utf8")) if os.path.exists(sch) else []
 json.dump(tasks, open(os.path.join(OUT, "schreiben.json"), "w", encoding="utf8"), ensure_ascii=False, separators=(",", ":"))
+# Prüfungsaufgaben: quellen/pruefung/*.json, jede Datei {"typ": [Aufgaben …]}
+pr = {}
+for path in sorted(glob.glob(os.path.join(SRC, "pruefung", "*.json"))):
+    try:
+        data = json.load(open(path, encoding="utf8"))
+    except Exception as e:
+        print(f"{os.path.basename(path)}: JSON-Fehler: {e}"); sys.exit(1)
+    for typ, items in data.items():
+        for it in items:
+            if "id" not in it:
+                print(f"{os.path.basename(path)}: Aufgabe ohne id"); sys.exit(1)
+        pr.setdefault(typ, []).extend(items)
+json.dump(pr, open(os.path.join(OUT, "pruefung.json"), "w", encoding="utf8"), ensure_ascii=False, separators=(",", ":"))
 marked = sum(1 for s in sents if "*" in s["de"])
-manifest = {"version": int(time.time()), "woerter": len(words), "saetze": len(sents), "markiert": marked, "schreiben": len(tasks)}
+manifest = {"version": int(time.time()), "woerter": len(words), "saetze": len(sents), "markiert": marked, "schreiben": len(tasks), "pruefung": {k: len(v) for k, v in pr.items()}}
 json.dump(manifest, open(os.path.join(OUT, "manifest.json"), "w", encoding="utf8"), ensure_ascii=False)
 print(f"{len(words)} Wörter, {len(sents)} Sätze ({marked} mit Verbmarkierung), {len(tasks)} Schreibaufgaben")
+print("Prüfungsaufgaben:", ", ".join(f"{k} {len(v)}" for k, v in sorted(pr.items())) or "keine")

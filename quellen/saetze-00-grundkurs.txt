@@ -1,0 +1,98 @@
+# Grundkurs A2: Hauptsatz – Subjekt, Verb, Rest
+Ich *heiße* Olga.|Меня зовут Ольга.|A2|Subjekt – Verb – Rest. Das Verb steht auf Platz 2.|Person
+Ich *komme* aus der Ukraine.|Я из Украины.|A2|Subjekt – Verb – Rest. Das Verb steht auf Platz 2.|Person
+Ich *wohne* in Leipzig.|Я живу в Лейпциге.|A2|Subjekt – Verb – Rest.|Wohnen
+Mein Mann *arbeitet* in einer Firma.|Мой муж работает в фирме.|A2|Subjekt (mein Mann) – Verb – Rest.|Arbeit
+Wir *haben* zwei Kinder.|У нас двое детей.|A2|Subjekt – Verb – Rest.|Familie
+Meine Tochter *geht* in die Schule.|Моя дочь ходит в школу.|A2|Subjekt – Verb – Rest.|Familie
+Das Wetter *ist* heute schön.|Погода сегодня хорошая.|A2|Subjekt – Verb – Rest.|Wetter
+Der Bus *kommt* um acht Uhr.|Автобус приходит в восемь часов.|A2|Subjekt – Verb – Rest.|Verkehr
+Ich *trinke* gern Tee mit Zitrone.|Я люблю пить чай с лимоном.|A2|Subjekt – Verb – Rest. gern steht nach dem Verb.|Ernährung
+Mein Sohn *spielt* jeden Tag Fußball.|Мой сын каждый день играет в футбол.|A2|Subjekt – Verb – Zeit – Rest.|Freizeit
+Die Wohnung *hat* drei Zimmer.|В квартире три комнаты.|A2|Subjekt – Verb – Rest.|Wohnen
+Ich *lerne* jeden Abend Deutsch.|Я каждый вечер учу немецкий.|A2|Subjekt – Verb – Zeit – Rest.|Bildung
+Meine Nachbarin *ist* sehr nett.|Моя соседка очень милая.|A2|Subjekt – Verb – Rest.|Wohnen
+Wir *essen* am Abend zusammen.|Вечером мы едим вместе.|A2|Subjekt – Verb – Zeit – Rest.|Familie
+Der Supermarkt *ist* bis 22 Uhr geöffnet.|Супермаркет открыт до 22 часов.|A2|Subjekt – Verb – Rest.|Einkaufen
+Ich *brauche* einen Termin beim Arzt.|Мне нужна запись к врачу.|A2|Subjekt – Verb – Rest.|Gesundheit
+Mein Chef *spricht* sehr schnell.|Мой начальник говорит очень быстро.|A2|Subjekt – Verb – Rest.|Arbeit
+Die Kinder *schlafen* schon.|Дети уже спят.|A2|Subjekt – Verb – Rest.|Familie
+# Grundkurs A2: Etwas anderes steht vorne – Verb bleibt auf Platz 2
+Heute *arbeite* ich bis vier Uhr.|Сегодня я работаю до четырёх.|A2|Steht die Zeit auf Position 1, kommt das Verb auf Platz 2 und das Subjekt danach.|Arbeit
+Morgen *habe* ich frei.|Завтра у меня выходной.|A2|Zeit auf Position 1 → Verb → Subjekt.|Arbeit
+Am Wochenende *besuchen* wir meine Schwester.|На выходных мы навещаем мою сестру.|A2|Zeit auf Position 1 → Verb → Subjekt.|Familie
+Jeden Morgen *bringe* ich die Kinder zur Schule.|Каждое утро я отвожу детей в школу.|A2|Zeit auf Position 1 → Verb → Subjekt.|Familie
+Um sieben Uhr *stehe* ich auf.|В семь часов я встаю.|A2|Zeit auf Position 1 → Verb → Subjekt. auf geht ans Ende.|Alltag
+Im Sommer *fahren* wir ans Meer.|Летом мы едем на море.|A2|Zeit auf Position 1 → Verb → Subjekt.|Reisen
+In Deutschland *wohne* ich seit drei Jahren.|В Германии я живу три года.|A2|Ort auf Position 1 → Verb → Subjekt.|Person
+Leider *kann* ich heute nicht kommen.|К сожалению, я сегодня не могу прийти.|A2|leider auf Position 1 → Verb → Subjekt.|Alltag
+Dann *gehen* wir zusammen einkaufen.|Потом мы вместе идём за покупками.|A2|dann auf Position 1 → Verb → Subjekt.|Einkaufen
+Nach der Arbeit *koche* ich das Abendessen.|После работы я готовлю ужин.|A2|Zeit auf Position 1 → Verb → Subjekt.|Alltag
+Am Montag *beginnt* der Kurs.|В понедельник начинается курс.|A2|Zeit auf Position 1 → Verb → Subjekt.|Bildung
+Vielleicht *regnet* es morgen.|Возможно, завтра будет дождь.|A2|vielleicht auf Position 1 → Verb → Subjekt (es).|Wetter
+Hier *gibt* es einen guten Bäcker.|Здесь есть хорошая пекарня.|A2|hier auf Position 1 → Verb → es.|Einkaufen
+Abends *sehe* ich manchmal fern.|Вечером я иногда смотрю телевизор.|A2|Zeit auf Position 1 → Verb → Subjekt. fern geht ans Ende.|Freizeit
+Natürlich *helfe* ich dir.|Конечно, я тебе помогу.|A2|natürlich auf Position 1 → Verb → Subjekt.|Alltag
+Mit dem Bus *fahre* ich zur Arbeit.|На автобусе я еду на работу.|A2|Angabe auf Position 1 → Verb → Subjekt.|Verkehr
+Zuerst *trinke* ich einen Kaffee.|Сначала я пью кофе.|A2|zuerst auf Position 1 → Verb → Subjekt.|Alltag
+Danach *gehe* ich spazieren.|После этого я иду гулять.|A2|danach auf Position 1 → Verb → Subjekt.|Freizeit
+# Grundkurs A2: Fragen und Bitten
+Wie *heißen* Sie?|Как вас зовут?|A2|W-Frage: Fragewort – Verb – Subjekt.|Person
+Woher *kommen* Sie?|Откуда вы?|A2|W-Frage: Fragewort – Verb – Subjekt.|Person
+Wo *wohnst* du?|Где ты живёшь?|A2|W-Frage: Fragewort – Verb – Subjekt.|Wohnen
+Wann *beginnt* der Unterricht?|Когда начинается урок?|A2|W-Frage: Fragewort – Verb – Subjekt.|Bildung
+Was *kostet* das Brot?|Сколько стоит хлеб?|A2|W-Frage: Fragewort – Verb – Subjekt.|Einkaufen
+Wie spät *ist* es?|Который час?|A2|W-Frage: Fragewort – Verb – Subjekt.|Alltag
+*Hast* du heute Zeit?|У тебя сегодня есть время?|A2|Ja/Nein-Frage: Das Verb steht auf Position 1.|Alltag
+*Sprechen* Sie Russisch?|Вы говорите по-русски?|A2|Ja/Nein-Frage: Verb auf Position 1.|Person
+*Ist* der Platz frei?|Это место свободно?|A2|Ja/Nein-Frage: Verb auf Position 1.|Alltag
+*Kommst* du mit?|Ты пойдёшь со мной?|A2|Ja/Nein-Frage: Verb auf Position 1, mit am Ende.|Freizeit
+*Können* Sie das bitte wiederholen?|Можете, пожалуйста, повторить?|A2|Ja/Nein-Frage mit Modalverb: Modalverb auf Position 1, Infinitiv am Ende.|Bildung
+*Sprechen* Sie bitte langsam.|Говорите, пожалуйста, медленно.|A2|Imperativ mit Sie: Verb auf Position 1, dann Sie.|Bildung
+*Komm* bitte pünktlich!|Приходи, пожалуйста, вовремя!|A2|Imperativ mit du: Verb auf Position 1, kein du.|Alltag
+*Schreiben* Sie Ihren Namen hier.|Напишите здесь своё имя.|A2|Imperativ mit Sie: Verb auf Position 1.|Behörden
+Warum *lernst* du Deutsch?|Почему ты учишь немецкий?|A2|W-Frage: Fragewort – Verb – Subjekt.|Bildung
+Wie lange *dauert* der Kurs?|Как долго длится курс?|A2|W-Frage: Fragewort – Verb – Subjekt.|Bildung
+# Grundkurs A2: Satzklammer – zweiter Teil ans Ende
+Ich *kann* gut kochen.|Я хорошо умею готовить.|A2|Modalverb auf Platz 2, Infinitiv ganz am Ende.|Ernährung
+Ich *muss* heute lange arbeiten.|Сегодня мне нужно долго работать.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Arbeit
+Wir *wollen* eine größere Wohnung finden.|Мы хотим найти квартиру побольше.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Wohnen
+Du *darfst* hier nicht rauchen.|Здесь нельзя курить.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Alltag
+Meine Tochter *möchte* Ärztin werden.|Моя дочь хочет стать врачом.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Familie
+Ich *rufe* dich morgen an.|Я позвоню тебе завтра.|A2|Trennbares Verb: rufe auf Platz 2, an ganz am Ende.|Alltag
+Der Zug *fährt* um neun Uhr ab.|Поезд отправляется в девять часов.|A2|Trennbares Verb: fährt auf Platz 2, ab am Ende.|Verkehr
+Wir *kaufen* am Samstag ein.|Мы делаем покупки в субботу.|A2|Trennbares Verb: kaufen auf Platz 2, ein am Ende.|Einkaufen
+Ich *habe* gestern lange geschlafen.|Вчера я долго спала.|A2|Perfekt: haben auf Platz 2, Partizip am Ende.|Alltag
+Wir *sind* nach Berlin gefahren.|Мы поехали в Берлин.|A2|Perfekt: sein auf Platz 2, Partizip am Ende.|Reisen
+Ich *habe* meine Hausaufgaben gemacht.|Я сделала домашнее задание.|A2|Perfekt: haben auf Platz 2, Partizip am Ende.|Bildung
+Mein Mann *hat* das Abendessen gekocht.|Мой муж приготовил ужин.|A2|Perfekt: haben auf Platz 2, Partizip am Ende.|Familie
+Gestern *bin* ich zum Arzt gegangen.|Вчера я ходила к врачу.|A2|Perfekt: Zeit auf Position 1, bin auf Platz 2, Partizip am Ende.|Gesundheit
+Heute *muss* ich früh aufstehen.|Сегодня мне нужно рано встать.|A2|Modalverb auf Platz 2, Infinitiv (aufstehen) am Ende.|Alltag
+Am Sonntag *haben* wir Freunde besucht.|В воскресенье мы навестили друзей.|A2|Perfekt: haben auf Platz 2, Partizip am Ende.|Freizeit
+Ich *werde* nächstes Jahr die Prüfung machen.|В следующем году я буду сдавать экзамен.|A2|Futur: werden auf Platz 2, Infinitiv am Ende.|Bildung
+# Grundkurs A2: und, aber, denn, deshalb, trotzdem
+Ich bin müde, denn ich *habe* schlecht geschlafen.|Я устала, потому что плохо спала.|A2|denn: danach ganz normal Subjekt – Verb (Platz 2).|Alltag
+Es regnet, deshalb *nehme* ich den Bus.|Идёт дождь, поэтому я еду на автобусе.|A2|deshalb: Das Verb kommt sofort nach deshalb.|Verkehr
+Ich habe keine Zeit, deshalb *kann* ich nicht kommen.|У меня нет времени, поэтому я не могу прийти.|A2|deshalb + Verb + Subjekt.|Alltag
+Das Wetter ist schlecht, trotzdem *gehen* wir spazieren.|Погода плохая, и всё же мы идём гулять.|A2|trotzdem: Das Verb kommt sofort nach trotzdem.|Freizeit
+Ich lerne Deutsch, denn ich *möchte* hier arbeiten.|Я учу немецкий, потому что хочу здесь работать.|A2|denn + Subjekt + Verb.|Arbeit
+Mein Sohn ist krank, deshalb *bleibt* er zu Hause.|Мой сын болен, поэтому он остаётся дома.|A2|deshalb + Verb + Subjekt.|Gesundheit
+Ich trinke keinen Kaffee, sondern ich *trinke* Tee.|Я пью не кофе, а чай.|A2|sondern + Subjekt + Verb (nach nicht/kein).|Ernährung
+Die Wohnung ist klein, trotzdem *gefällt* sie uns.|Квартира маленькая, но всё равно нам нравится.|A2|trotzdem + Verb + Subjekt.|Wohnen
+Wir haben Hunger, deshalb *kochen* wir jetzt.|Мы голодны, поэтому сейчас готовим.|A2|deshalb + Verb + Subjekt.|Ernährung
+Ich komme heute später, denn der Bus *hat* Verspätung.|Я приду сегодня позже, потому что автобус опаздывает.|A2|denn + Subjekt + Verb.|Verkehr
+Die Prüfung ist schwer, trotzdem *lerne* ich weiter.|Экзамен трудный, но я всё равно учусь дальше.|A2|trotzdem + Verb + Subjekt.|Bildung
+Ich habe Kopfschmerzen, deshalb *gehe* ich zum Arzt.|У меня болит голова, поэтому я иду к врачу.|A2|deshalb + Verb + Subjekt.|Gesundheit
+# Grundkurs A2: weil, dass, wenn – Verb ans Ende
+Ich bleibe zu Hause, weil ich krank *bin*.|Я остаюсь дома, потому что болею.|A2|weil: Das konjugierte Verb steht ganz am Ende.|Gesundheit
+Ich lerne Deutsch, weil ich hier *arbeite*.|Я учу немецкий, потому что работаю здесь.|A2|weil: Verb am Ende.|Arbeit
+Ich glaube, dass der Kurs morgen *beginnt*.|Я думаю, что курс начинается завтра.|A2|dass: Verb am Ende.|Bildung
+Ich weiß, dass du müde *bist*.|Я знаю, что ты устала.|A2|dass: Verb am Ende.|Alltag
+Wenn das Wetter schön *ist*, gehen wir in den Park.|Если погода хорошая, мы идём в парк.|A2|wenn: Verb am Ende. Danach kommt sofort das nächste Verb.|Freizeit
+Ich rufe dich an, wenn ich zu Hause *bin*.|Я позвоню тебе, когда буду дома.|A2|wenn: Verb am Ende.|Alltag
+Er kommt nicht, weil er keine Zeit *hat*.|Он не придёт, потому что у него нет времени.|A2|weil: Verb am Ende.|Alltag
+Es ist schön, dass du da *bist*.|Хорошо, что ты здесь.|A2|dass: Verb (bist) ganz am Ende.|Alltag
+Ich freue mich, dass ihr *kommt*.|Я рада, что вы придёте.|A2|dass: Verb am Ende.|Freizeit
+Wir kaufen eine Jacke, weil es kalt *ist*.|Мы покупаем куртку, потому что холодно.|A2|weil: Verb am Ende.|Einkaufen
+Ich bin froh, weil ich die Prüfung bestanden *habe*.|Я рада, потому что сдала экзамен.|A2|weil + Perfekt: Partizip, dann haben ganz am Ende.|Bildung
+Weil ich müde *bin*, gehe ich früh ins Bett.|Так как я устала, я рано ложусь спать.|A2|Nebensatz zuerst: Verb am Ende, dann sofort das Verb vom Hauptsatz.|Alltag
