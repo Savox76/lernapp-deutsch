@@ -1,0 +1,59 @@
+# Konnektoren und Satzverbindungen
+Ich *bin* krank, deshalb *gehe* ich heute nicht zur Arbeit.|Я болею, поэтому сегодня не иду на работу.|B1|deshalb → Verb sofort danach.|Arbeit
+Es *regnet*, trotzdem *fahren* wir mit dem Fahrrad.|Идёт дождь, но мы всё равно едем на велосипеде.|B1|trotzdem → Verb sofort danach.|Verkehr
+Ich *bleibe* zu Hause, denn ich *bin* sehr müde.|Я остаюсь дома, ведь я очень устала.|B1|denn → normale Wortstellung (Verb auf Position 2).|Alltag
+Ich *trinke* keinen Kaffee, aber ich *trinke* gern Tee.|Я не пью кофе, но с удовольствием пью чай.|B1|aber → normale Wortstellung.|Ernährung
+Wir *fahren* nicht mit dem Auto, sondern wir *nehmen* den Zug.|Мы едем не на машине, а на поезде.|B1|sondern nach nicht; danach normale Wortstellung.|Verkehr
+Die Wohnung *ist* zu teuer, außerdem *ist* sie sehr laut.|Квартира слишком дорогая, кроме того, она очень шумная.|B1|außerdem → Verb sofort danach.|Wohnen
+Zuerst *koche* ich das Wasser, dann *gebe* ich die Nudeln hinein.|Сначала я кипячу воду, потом кладу макароны.|B1|zuerst / dann → Verb sofort danach.|Ernährung
+Der Laden *war* geschlossen, deswegen *bin* ich zum Supermarkt gegangen.|Магазин был закрыт, поэтому я пошла в супермаркет.|B1|deswegen = deshalb → Verb sofort danach.|Einkaufen
+Ich *habe* lange gesucht, trotzdem *habe* ich keine Wohnung gefunden.|Я долго искала, но так и не нашла квартиру.|B1|trotzdem + Perfekt: habe sofort danach, Partizip am Ende.|Wohnen
+Der Kurs *ist* gut, allerdings *ist* er ziemlich teuer.|Курс хороший, однако довольно дорогой.|B2|allerdings → Verb sofort danach.|Bildung
+Ich *muss* mich beeilen, sonst *verpasse* ich den Bus.|Мне нужно поторопиться, иначе я опоздаю на автобус.|B1|sonst → Verb sofort danach.|Verkehr
+Ich *habe* keine Zeit, deshalb *kann* ich nicht mitkommen.|У меня нет времени, поэтому я не могу пойти с вами.|B1|deshalb → Modalverb sofort danach, Infinitiv am Ende.|Freizeit
+Er *spricht* gut Deutsch, denn er *lebt* schon zehn Jahre hier.|Он хорошо говорит по-немецки, ведь живёт здесь уже десять лет.|B1|denn → Verb auf Position 2 im zweiten Satz.|Alltag
+Entweder *rufst* du mich an, oder du *schreibst* mir eine Nachricht.|Или ты мне позвонишь, или напишешь сообщение.|B2|entweder … oder.|Alltag
+Ich *mag* weder Fisch noch Fleisch.|Я не люблю ни рыбу, ни мясо.|B2|weder … noch = keins von beiden.|Ernährung
+Sie *spricht* sowohl Russisch als auch Deutsch.|Она говорит как по-русски, так и по-немецки.|B2|sowohl … als auch = beides.|Alltag
+Das Hotel *ist* zwar alt, aber es *ist* sehr gemütlich.|Отель, правда, старый, но очень уютный.|B2|zwar … aber.|Reisen
+Je mehr ich *lerne*, desto besser *verstehe* ich die Leute.|Чем больше я учусь, тем лучше понимаю людей.|B2|je + Verb am Ende, desto + Verb sofort danach.|Bildung
+Je früher wir *losfahren*, desto weniger Stau *gibt* es.|Чем раньше мы выедем, тем меньше будет пробок.|B2|je … desto; trennbares Verb im je-Teil zusammen.|Verkehr
+Einerseits *möchte* ich in der Stadt wohnen, andererseits *ist* es auf dem Land ruhiger.|С одной стороны, я хочу жить в городе, с другой — в деревне спокойнее.|B2|einerseits / andererseits → Verb sofort danach.|Wohnen
+Nicht nur die Miete, sondern auch der Strom *ist* teurer geworden.|Подорожала не только аренда, но и электричество.|B2|nicht nur …, sondern auch.|Wohnen
+# Relativsätze
+Das *ist* der Mann, der uns beim Umzug geholfen *hat*.|Это мужчина, который помог нам с переездом.|B1|Relativsatz mit der (Nominativ); hat am Ende.|Wohnen
+Die Frau, die neben uns *wohnt*, *ist* Krankenschwester.|Женщина, которая живёт рядом с нами, — медсестра.|B1|Relativsatz in der Mitte; danach geht der Hauptsatz mit dem Verb weiter.|Wohnen
+Das Buch, das du mir geschenkt *hast*, *ist* sehr spannend.|Книга, которую ты мне подарил, очень интересная.|B1|das (Akkusativ); hast am Ende des Relativsatzes.|Freizeit
+Der Kollege, den ich gestern getroffen *habe*, *kommt* aus Polen.|Коллега, которого я вчера встретила, из Польши.|B2|den (Akkusativ maskulin).|Arbeit
+Die Kinder, denen ich bei den Hausaufgaben *helfe*, *sind* sehr fleißig.|Дети, которым я помогаю с домашними заданиями, очень прилежные.|B2|denen = Dativ Plural.|Bildung
+Das *ist* die Firma, bei der ich mich beworben *habe*.|Это фирма, в которую я подала заявление.|B2|Relativsatz mit Präposition: bei der.|Arbeit
+Ich *suche* eine Wohnung, in der auch Haustiere erlaubt *sind*.|Я ищу квартиру, в которой разрешены домашние животные.|B2|in der (Dativ feminin).|Wohnen
+Der Arzt, zu dem ich immer *gehe*, *hat* im Moment Urlaub.|Врач, к которому я всегда хожу, сейчас в отпуске.|B2|zu dem (Dativ maskulin).|Gesundheit
+Die Stadt, in der ich geboren *bin*, *liegt* am Meer.|Город, в котором я родилась, находится у моря.|B2|in der; Hauptsatz geht mit liegt weiter.|Alltag
+Alles, was du *brauchst*, *findest* du im Schrank.|Всё, что тебе нужно, ты найдёшь в шкафу.|B2|alles, was …; dann Verb.|Wohnen
+Das Erste, was ich morgens *mache*, *ist* Kaffee kochen.|Первое, что я делаю утром, — варю кофе.|B2|das Erste, was …|Alltag
+# Konjunktiv II, Passiv und B2-Strukturen
+Wenn ich mehr Geld *hätte*, *würde* ich eine größere Wohnung mieten.|Если бы у меня было больше денег, я бы сняла квартиру побольше.|B2|Konjunktiv II: hätte im wenn-Satz, würde vorn im Hauptsatz.|Wohnen
+Wenn ich du *wäre*, *würde* ich den Arzt anrufen.|На твоём месте я бы позвонила врачу.|B2|wäre im wenn-Satz.|Gesundheit
+Wenn der Bus pünktlich gekommen *wäre*, *hätte* ich den Zug erreicht.|Если бы автобус пришёл вовремя, я бы успела на поезд.|B2|Konjunktiv II Vergangenheit: wäre … gekommen, hätte … erreicht.|Verkehr
+Ich *hätte* dir gern geholfen, aber ich *hatte* keine Zeit.|Я бы с удовольствием тебе помогла, но у меня не было времени.|B2|hätte … geholfen = Vergangenheit, irreal.|Alltag
+Es *wäre* schön, wenn du morgen kommen *könntest*.|Было бы здорово, если бы ты смог прийти завтра.|B2|könntest ganz am Ende.|Alltag
+Hätte ich mehr gelernt, *hätte* ich die Prüfung bestanden.|Если бы я больше занималась, я бы сдала экзамен.|B2|Konjunktiv II ohne wenn: Verb am Anfang.|Bildung
+Die Rechnung *muss* innerhalb von 14 Tagen bezahlt werden.|Счёт нужно оплатить в течение 14 дней.|B2|Passiv mit Modalverb.|Geld
+Das Museum *wurde* im Jahr 1900 gebaut.|Музей был построен в 1900 году.|B2|Passiv Präteritum: wurde … gebaut.|Freizeit
+Der Patient *wird* gerade operiert.|Пациента сейчас оперируют.|B2|Passiv Präsens.|Gesundheit
+Mir *wurde* gesagt, dass ich noch warten *soll*.|Мне сказали, что нужно ещё подождать.|B2|Passiv ohne Subjekt + dass-Satz.|Behörden
+Ich *lasse* mein Auto in der Werkstatt reparieren.|Я отдаю машину в ремонт.|B2|lassen + Infinitiv: jemand anders macht es.|Verkehr
+Sie *lässt* sich jeden Monat die Haare schneiden.|Она каждый месяц стрижётся.|B2|sich etwas machen lassen.|Alltag
+Der Termin *lässt* sich leider nicht verschieben.|Встречу, к сожалению, нельзя перенести.|B2|sich lassen + Infinitiv = man kann (nicht).|Alltag
+Statt den Bus zu nehmen, *gehe* ich zu Fuß.|Вместо того чтобы ехать на автобусе, я иду пешком.|B2|statt … zu; danach Verb sofort.|Verkehr
+Ohne zu fragen, *hat* er mein Fahrrad genommen.|Не спросив, он взял мой велосипед.|B2|ohne … zu; danach Verb sofort.|Alltag
+Er *ist* gegangen, ohne dass er sich verabschiedet *hat*.|Он ушёл, не попрощавшись.|B2|ohne dass → Verb am Ende.|Alltag
+Aufgrund der hohen Nachfrage *sind* die Tickets ausverkauft.|Из-за большого спроса билеты распроданы.|B2|aufgrund + Genitiv auf Position 1.|Freizeit
+Trotz der hohen Preise *kaufen* viele Leute Bio-Produkte.|Несмотря на высокие цены, многие покупают органические продукты.|B2|trotz + Genitiv auf Position 1.|Ernährung
+Laut Wetterbericht *soll* es morgen schneien.|По прогнозу погоды завтра должен пойти снег.|B2|laut = nach Angabe; sollen = man sagt.|Alltag
+Nach dem Abschluss der Ausbildung *möchte* sie im Ausland arbeiten.|После окончания профобучения она хочет работать за границей.|B2|langer Ausdruck auf Position 1.|Arbeit
+Es *kommt* darauf an, wie viel Zeit wir *haben*.|Это зависит от того, сколько у нас времени.|B2|darauf + indirekte Frage, Verb am Ende.|Alltag
+Ich *bin* davon überzeugt, dass du es *schaffst*.|Я уверена, что ты справишься.|B2|davon … dass; schaffst am Ende.|Alltag
+Ich *freue* mich darauf, dich bald wiederzusehen.|Я с нетерпением жду, когда снова тебя увижу.|B2|darauf + zu-Infinitiv.|Alltag
+Wir *haben* uns darüber geärgert, dass der Zug ausgefallen *ist*.|Мы разозлились из-за того, что поезд отменили.|B2|darüber … dass; ist am Ende.|Verkehr

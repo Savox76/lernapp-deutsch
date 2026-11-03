@@ -1,0 +1,55 @@
+# Nebensätze: konjugiertes Verb ganz am Ende
+Ich *bleibe* heute zu Hause, weil ich Kopfschmerzen *habe*.|Сегодня я остаюсь дома, потому что у меня болит голова.|B1|weil → Verb am Ende.|Gesundheit
+Ich *komme* zu spät, weil der Bus nicht gekommen *ist*.|Я опаздываю, потому что автобус не пришёл.|B1|weil + Perfekt: Hilfsverb ist ganz am Ende.|Verkehr
+Sie *lernt* Deutsch, weil sie in einem Krankenhaus arbeiten *möchte*.|Она учит немецкий, потому что хочет работать в больнице.|B1|weil + Modalverb: das Modalverb steht ganz am Ende.|Arbeit
+Wir *nehmen* ein Taxi, weil es stark *regnet*.|Мы берём такси, потому что идёт сильный дождь.|B1|weil → Verb am Ende.|Verkehr
+Er *ist* müde, weil er die ganze Nacht gearbeitet *hat*.|Он устал, потому что работал всю ночь.|B1|weil + Perfekt: hat ganz am Ende.|Arbeit
+Ich *weiß*, dass du viel Arbeit *hast*.|Я знаю, что у тебя много работы.|B1|dass → Verb am Ende.|Alltag
+Ich *glaube*, dass der Laden heute geschlossen *ist*.|Я думаю, что магазин сегодня закрыт.|B1|dass → Verb am Ende.|Einkaufen
+Der Arzt *sagt*, dass ich mehr Wasser trinken *soll*.|Врач говорит, что мне нужно пить больше воды.|B1|dass + Modalverb: soll ganz am Ende.|Gesundheit
+Es *ist* wichtig, dass Sie pünktlich *kommen*.|Важно, чтобы вы пришли вовремя.|B1|dass → Verb am Ende.|Arbeit
+Ich *hoffe*, dass wir uns bald *wiedersehen*.|Я надеюсь, что мы скоро увидимся.|B1|Trennbare Verben bleiben im Nebensatz zusammen: wiedersehen.|Alltag
+Mein Chef *hat* gesagt, dass ich morgen frei *habe*.|Мой начальник сказал, что завтра у меня выходной.|B1|dass → Verb am Ende.|Arbeit
+Ich *freue* mich, dass du die Prüfung bestanden *hast*.|Я рада, что ты сдал экзамен.|B1|dass + Perfekt: hast ganz am Ende.|Bildung
+Wenn ich Zeit *habe*, *gehe* ich schwimmen.|Когда у меня есть время, я хожу плавать.|B1|Nebensatz zuerst → Hauptsatz beginnt mit dem Verb.|Freizeit
+Wenn es morgen *regnet*, *bleiben* wir zu Hause.|Если завтра будет дождь, мы останемся дома.|B1|wenn-Satz zuerst → Verb, Subjekt.|Alltag
+Ich *rufe* dich an, wenn ich in Berlin *ankomme*.|Я позвоню тебе, когда приеду в Берлин.|B1|ankommen bleibt im Nebensatz zusammen am Ende.|Reisen
+Wenn du Hilfe *brauchst*, *sag* mir Bescheid.|Если тебе нужна помощь, скажи мне.|B1|wenn-Satz zuerst, dann Imperativ.|Alltag
+Wenn das Kind Fieber *hat*, *darf* es nicht in die Kita gehen.|Если у ребёнка температура, ему нельзя в детский сад.|B1|wenn-Satz zuerst → Modalverb, Subjekt, Infinitiv am Ende.|Familie
+Obwohl ich müde *bin*, *gehe* ich noch zum Sport.|Хотя я устала, я ещё иду на спорт.|B1|obwohl-Satz zuerst → Hauptsatz mit Verb vorn.|Freizeit
+Er *geht* zur Arbeit, obwohl er krank *ist*.|Он идёт на работу, хотя болеет.|B1|obwohl → Verb am Ende.|Arbeit
+Obwohl die Wohnung klein *ist*, *gefällt* sie uns sehr.|Хотя квартира маленькая, она нам очень нравится.|B1|obwohl-Satz zuerst → Verb, Subjekt.|Wohnen
+Wir *gehen* spazieren, obwohl es kalt *ist*.|Мы идём гулять, хотя холодно.|B1|obwohl → Verb am Ende.|Freizeit
+Ich *weiß* nicht, ob der Zug pünktlich *kommt*.|Я не знаю, придёт ли поезд вовремя.|B1|ob → Verb am Ende.|Verkehr
+Können Sie mir sagen, ob die Apotheke heute geöffnet *hat*?|Не подскажете, открыта ли аптека сегодня?|B1|ob → Verb am Ende.|Gesundheit
+Ich *frage* meinen Chef, ob ich am Freitag frei nehmen *kann*.|Я спрошу начальника, могу ли я взять выходной в пятницу.|B1|ob + Modalverb: kann ganz am Ende.|Arbeit
+Weißt du, wann der Kurs *beginnt*?|Ты знаешь, когда начинается курс?|B1|Indirekte Frage: Verb am Ende.|Bildung
+Können Sie mir erklären, wie dieses Gerät *funktioniert*?|Не могли бы вы объяснить, как работает этот прибор?|B1|Indirekte Frage mit wie → Verb am Ende.|Einkaufen
+Ich *möchte* wissen, wie viel die Reparatur *kostet*.|Я хотела бы знать, сколько стоит ремонт.|B1|Indirekte Frage mit wie viel → Verb am Ende.|Wohnen
+Sagen Sie mir bitte, wo ich unterschreiben *muss*.|Скажите, пожалуйста, где мне нужно расписаться.|B1|Indirekte Frage + Modalverb: muss ganz am Ende.|Behörden
+Als ich ein Kind *war*, *wohnten* wir auf dem Land.|Когда я была ребёнком, мы жили в деревне.|B1|als = einmal in der Vergangenheit; Nebensatz zuerst → Verb vorn.|Familie
+Als ich nach Deutschland *kam*, *sprach* ich kein Wort Deutsch.|Когда я приехала в Германию, я не говорила ни слова по-немецки.|B1|als + Präteritum; Hauptsatz beginnt mit dem Verb.|Alltag
+Als wir am Bahnhof *ankamen*, *war* der Zug schon weg.|Когда мы пришли на вокзал, поезда уже не было.|B1|ankommen im Nebensatz zusammen: ankamen.|Verkehr
+Bevor du *gehst*, *mach* bitte das Fenster zu.|Перед тем как уйти, закрой, пожалуйста, окно.|B1|bevor-Satz zuerst → Imperativ.|Wohnen
+Ich *dusche* immer, bevor ich ins Bett *gehe*.|Я всегда принимаю душ перед тем, как лечь спать.|B1|bevor → Verb am Ende.|Alltag
+Nachdem ich gegessen *hatte*, *ging* ich spazieren.|После того как я поела, я пошла гулять.|B2|nachdem + Plusquamperfekt; hatte am Ende.|Alltag
+Seitdem ich jeden Tag *übe*, *spreche* ich viel besser.|С тех пор как я каждый день занимаюсь, я говорю гораздо лучше.|B1|seitdem → Verb am Ende; Hauptsatz mit Verb vorn.|Bildung
+Sobald ich die Unterlagen *habe*, *schicke* ich sie Ihnen.|Как только у меня будут документы, я вам их отправлю.|B1|sobald → Verb am Ende.|Behörden
+Während ich *koche*, *hört* mein Mann Musik.|Пока я готовлю, мой муж слушает музыку.|B1|während (Konjunktion) → Verb am Ende.|Familie
+Ich *warte* hier, bis du *zurückkommst*.|Я подожду здесь, пока ты не вернёшься.|B1|bis → Verb am Ende; zurückkommen zusammen.|Alltag
+Ich *spare* Geld, damit ich im Sommer nach Hause fliegen *kann*.|Я коплю деньги, чтобы летом полететь домой.|B1|damit + Modalverb: kann ganz am Ende.|Geld
+Sprechen Sie bitte langsam, damit ich Sie *verstehe*.|Говорите, пожалуйста, медленно, чтобы я вас поняла.|B1|damit → Verb am Ende.|Bildung
+Falls Sie Fragen *haben*, *rufen* Sie mich einfach an.|Если у вас будут вопросы, просто позвоните мне.|B1|falls-Satz zuerst → Verb vorn; anrufen getrennt.|Alltag
+Ich *nehme* einen Regenschirm mit, falls es *regnet*.|Я возьму с собой зонт, на случай если пойдёт дождь.|B1|falls → Verb am Ende.|Alltag
+Der Bus *hatte* Verspätung, sodass ich zu spät zur Arbeit *kam*.|Автобус опоздал, так что я опоздала на работу.|B2|sodass → Verb am Ende.|Verkehr
+Sie *hat* so viel gelernt, dass sie sehr gute Noten bekommen *hat*.|Она так много училась, что получила очень хорошие оценки.|B2|so …, dass: hat ganz am Ende.|Bildung
+Man *lernt* eine Sprache am besten, indem man sie jeden Tag *spricht*.|Язык лучше всего учить, говоря на нём каждый день.|B2|indem → Verb am Ende.|Bildung
+Ich *bin* nicht sicher, ob ich alles richtig verstanden *habe*.|Я не уверена, что всё правильно поняла.|B1|ob + Perfekt: habe ganz am Ende.|Bildung
+Es *tut* mir leid, dass ich gestern nicht kommen *konnte*.|Мне жаль, что я не смогла вчера прийти.|B1|dass + Modalverb Präteritum: konnte ganz am Ende.|Alltag
+Wenn ich die Prüfung bestanden *habe*, *mache* ich eine Ausbildung.|Когда я сдам экзамен, я пойду на профобучение.|B1|wenn + Perfekt; Hauptsatz beginnt mit dem Verb.|Bildung
+Weil meine Tochter krank *war*, *musste* ich zu Hause bleiben.|Так как дочь болела, мне пришлось остаться дома.|B1|weil-Satz zuerst → Modalverb, Subjekt, Infinitiv am Ende.|Familie
+Dass du mir *hilfst*, *finde* ich sehr nett.|То, что ты мне помогаешь, очень мило.|B2|dass-Satz auf Position 1 → Verb direkt danach.|Alltag
+Ich *verstehe* nicht, warum der Brief noch nicht angekommen *ist*.|Я не понимаю, почему письмо ещё не пришло.|B1|warum → Verb am Ende; Perfekt mit ist.|Alltag
+Kannst du mir sagen, was ich mitbringen *soll*?|Можешь сказать, что мне взять с собой?|B1|Indirekte Frage: soll ganz am Ende.|Feste
+Ich *habe* vergessen, wann der Termin *ist*.|Я забыла, когда назначена встреча.|B1|wann → Verb am Ende.|Alltag
+Ich *bin* froh, dass die Heizung wieder *funktioniert*.|Я рада, что отопление снова работает.|B1|dass → Verb am Ende.|Wohnen

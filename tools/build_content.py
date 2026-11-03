@@ -60,8 +60,8 @@ for path in sorted(glob.glob(os.path.join(SRC, "saetze-*.txt"))):
         de, ru, lv, regel = f[:4]
         th = f[4] if len(f) > 4 else ""
         alt = [plain(x.strip()) for x in f[5].split(" / ")] if len(f) > 5 and f[5] else []
-        if de.count("*") % 2:
-            errors.append(f"{os.path.basename(path)}:{n}: Sternchen nicht paarweise"); continue
+        if any(t.count("*") not in (0, 2) for t in de.split()):
+            errors.append(f"{os.path.basename(path)}:{n}: Sternchen müssen genau ein Wort umschließen: {de}"); continue
         p = plain(de)
         if p in seen_s: continue
         seen_s.add(p)

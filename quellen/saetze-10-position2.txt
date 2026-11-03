@@ -1,0 +1,50 @@
+# Hauptsatz: Verb auf Position 2, auch wenn etwas anderes am Anfang steht
+Ich *arbeite* jeden Tag von acht bis vier Uhr.|Я работаю каждый день с восьми до четырёх.|B1|Hauptsatz: Verb auf Position 2.|Arbeit
+Jeden Morgen *trinke* ich zuerst einen Kaffee.|Каждое утро я сначала пью кофе.|B1|Zeitangabe auf Position 1 → Verb auf Position 2, dann das Subjekt.|Alltag
+Am Montag *beginnt* mein neuer Deutschkurs.|В понедельник начинается мой новый курс немецкого.|B1|Zeitangabe zuerst → Verb, dann Subjekt.|Bildung
+Heute *habe* ich leider keine Zeit.|Сегодня у меня, к сожалению, нет времени.|B1|heute auf Position 1 → Verb auf Position 2.|Alltag
+Morgen *fahren* wir mit dem Zug nach Dresden.|Завтра мы едем на поезде в Дрезден.|B1|Zeit → Verb → Subjekt → wie → wohin.|Reisen
+In meiner Freizeit *lese* ich gern Bücher.|В свободное время я люблю читать книги.|B1|Ein langer Ausdruck zählt als eine Position.|Freizeit
+Nach der Arbeit *gehe* ich oft einkaufen.|После работы я часто хожу за покупками.|B1|„Nach der Arbeit“ ist Position 1, das Verb kommt sofort danach.|Alltag
+Leider *kann* ich am Samstag nicht kommen.|К сожалению, я не смогу прийти в субботу.|B1|leider auf Position 1 → Modalverb auf Position 2, Infinitiv am Ende.|Alltag
+In Deutschland *beginnt* die Schule meistens um acht Uhr.|В Германии школа обычно начинается в восемь часов.|B1|Ort auf Position 1 → Verb auf Position 2.|Familie
+Meine Tochter *geht* seit September in die Kita.|Моя дочь с сентября ходит в детский сад.|B1|Subjekt mit Possessivartikel = Position 1.|Familie
+Im Sommer *machen* wir immer Urlaub an der Ostsee.|Летом мы всегда отдыхаем на Балтийском море.|B1|Zeit auf Position 1, Verb auf Position 2.|Reisen
+Das Formular *bekommen* Sie am Schalter Nummer drei.|Бланк вы получите в окне номер три.|B1|Auch das Objekt kann auf Position 1 stehen. Das Verb bleibt auf Position 2.|Behörden
+Zum Glück *hat* der Arzt heute noch einen Termin frei.|К счастью, у врача сегодня ещё есть свободное время для приёма.|B1|„Zum Glück“ = Position 1.|Gesundheit
+Mit dem Fahrrad *brauche* ich nur zehn Minuten zur Arbeit.|На велосипеде мне нужно всего десять минут до работы.|B1|„Mit dem Fahrrad“ = Position 1, dann Verb.|Verkehr
+Seit drei Jahren *wohnen* wir in dieser Wohnung.|Мы живём в этой квартире уже три года.|B1|seit + Dativ auf Position 1 → Verb auf Position 2.|Wohnen
+Am Wochenende *besuche* ich meine Schwester in Leipzig.|В выходные я навещаю сестру в Лейпциге.|B1|Zeit zuerst → Verb → Subjekt.|Familie
+Für die Prüfung *lerne* ich jeden Abend eine Stunde.|К экзамену я учусь каждый вечер по часу.|B1|„Für die Prüfung“ = Position 1.|Bildung
+Um halb neun *kommt* der Techniker.|В половине девятого придёт техник.|B1|Uhrzeit auf Position 1 → Verb auf Position 2.|Wohnen
+Bei Fragen *rufen* Sie mich bitte an.|Если будут вопросы, позвоните мне, пожалуйста.|B1|Trennbares Verb: rufen auf Position 2, an am Ende.|Alltag
+Zum Frühstück *esse* ich meistens Brot mit Käse.|На завтрак я обычно ем хлеб с сыром.|B1|„Zum Frühstück“ = Position 1.|Ernährung
+Gestern *war* das Wetter sehr schön.|Вчера погода была очень хорошей.|B1|gestern auf Position 1 → Verb auf Position 2.|Alltag
+Letzte Woche *hatte* mein Sohn Geburtstag.|На прошлой неделе у сына был день рождения.|B1|„Letzte Woche“ = Position 1.|Familie
+Im Supermarkt *gibt* es heute frische Erdbeeren.|В супермаркете сегодня есть свежая клубника.|B1|es gibt: Verb auf Position 2, es danach.|Einkaufen
+Deshalb *möchte* ich einen Termin vereinbaren.|Поэтому я хотела бы записаться на приём.|B1|deshalb auf Position 1 → Verb sofort danach.|Alltag
+Bei schönem Wetter *grillen* wir im Garten.|В хорошую погоду мы жарим мясо в саду.|B1|„Bei schönem Wetter“ = Position 1.|Freizeit
+Natürlich *helfe* ich dir beim Umzug.|Конечно, я помогу тебе с переездом.|B1|natürlich auf Position 1 → Verb auf Position 2.|Wohnen
+Dort drüben *ist* die Bushaltestelle.|Вон там автобусная остановка.|B1|Ortsangabe zuerst → Verb → Subjekt.|Verkehr
+Am liebsten *trinke* ich grünen Tee.|Больше всего я люблю зелёный чай.|B1|am liebsten auf Position 1.|Ernährung
+Wegen des Regens *bleiben* wir heute zu Hause.|Из-за дождя мы сегодня остаёмся дома.|B1|wegen + Genitiv auf Position 1 → Verb auf Position 2.|Alltag
+Ab nächster Woche *arbeite* ich in der Spätschicht.|Со следующей недели я работаю во вторую смену.|B1|„Ab nächster Woche“ = Position 1.|Arbeit
+Meine Nachbarin *bringt* mir manchmal Kuchen.|Соседка иногда приносит мне пирог.|B1|Subjekt → Verb → Dativ → Akkusativ.|Wohnen
+Jeden Dienstag *hole* ich meine Kinder von der Schule ab.|Каждый вторник я забираю детей из школы.|B1|Trennbares Verb: hole … ab.|Familie
+Im Winter *wird* es hier schon um vier Uhr dunkel.|Зимой здесь темнеет уже в четыре часа.|B1|werden + Adjektiv; Verb auf Position 2.|Alltag
+Vielleicht *gehen* wir am Abend ins Kino.|Может быть, вечером мы пойдём в кино.|B1|vielleicht auf Position 1 → Verb auf Position 2.|Freizeit
+Danach *müssen* Sie das Formular unterschreiben.|После этого вам нужно подписать бланк.|B1|danach auf Position 1; Modalverb Position 2, Infinitiv am Ende.|Behörden
+Von meinem Balkon *sehe* ich den ganzen Park.|С моего балкона я вижу весь парк.|B1|„Von meinem Balkon“ = Position 1.|Wohnen
+Ohne Brille *kann* meine Mutter nicht lesen.|Без очков моя мама не может читать.|B1|ohne + Akkusativ auf Position 1.|Gesundheit
+Normalerweise *stehe* ich um sechs Uhr auf.|Обычно я встаю в шесть часов.|B1|aufstehen ist trennbar: stehe … auf.|Alltag
+Diese Jacke *finde* ich sehr schön.|Эта куртка мне очень нравится.|B1|Das Objekt kann auf Position 1 stehen.|Einkaufen
+Im Wartezimmer *sitzen* schon viele Patienten.|В приёмной уже сидит много пациентов.|B1|Ort auf Position 1 → Verb → Subjekt.|Gesundheit
+*Kommst* du heute Abend zu meiner Party?|Ты придёшь сегодня вечером на мою вечеринку?|B1|Ja/Nein-Frage: Verb auf Position 1.|Freizeit
+Wann *fährt* der nächste Bus zum Bahnhof?|Когда идёт следующий автобус до вокзала?|B1|W-Frage: Fragewort, dann Verb.|Verkehr
+Wie lange *dauert* die Prüfung?|Сколько длится экзамен?|B1|W-Frage: Fragewort auf Position 1, Verb auf Position 2.|Bildung
+Wo *kann* ich hier Briefmarken kaufen?|Где здесь можно купить марки?|B1|W-Frage mit Modalverb: Infinitiv am Ende.|Alltag
+Warum *hast* du mich nicht angerufen?|Почему ты мне не позвонил?|B1|W-Frage im Perfekt: hast auf Position 2, angerufen am Ende.|Alltag
+*Bringen* Sie bitte Ihren Ausweis mit.|Пожалуйста, возьмите с собой удостоверение личности.|B1|Imperativ (Sie): Verb auf Position 1, Vorsilbe am Ende.|Behörden
+*Ruf* mich bitte nach der Arbeit an.|Позвони мне, пожалуйста, после работы.|B1|Imperativ (du): Verb vorn, an am Ende.|Alltag
+*Füllen* Sie bitte zuerst dieses Formular aus.|Пожалуйста, сначала заполните этот бланк.|B1|Imperativ: füllen … aus.|Behörden
+*Vergiss* bitte nicht den Schlüssel!|Пожалуйста, не забудь ключ!|B1|Imperativ (du): Verb auf Position 1.|Alltag

@@ -277,7 +277,7 @@ EX.verb = function (host, done, opt = {}) {
   vl.onclick = e => {
     const g = e.target.closest(".vgap"); if (!g || answered) return; answered = true;
     const i = +g.dataset.i; const ok = i === k;
-    g.classList.add(ok ? "right" : "wrong"); if (ok) g.textContent = verb;
+    g.classList.add(ok ? "right" : "wrong"); g.textContent = verb; if (!ok) { g.style.textDecoration = "line-through"; g.style.width = "auto"; g.style.padding = "0 8px"; }
     if (!ok) { const c = vl.querySelector(`.vgap[data-i="${k}"]`); c.classList.add("right"); c.textContent = verb; }
     vl.querySelectorAll(".vgap:not(.right):not(.wrong)").forEach(x => x.hidden = true);
     srsGrade("s", sent.id, ok); log("verb", ok, sent.id);
@@ -291,6 +291,7 @@ EX.verb = function (host, done, opt = {}) {
 };
 
 /* --- Richtig oder falsch? --- */
+const LOWER = new Set("ich du er es wir ihr man heute morgen gestern dann deshalb trotzdem leider vielleicht natürlich jeden jede am im in mit seit für bei nach von vom zum zur um ab dort hier jetzt diese dieser dieses meine mein meinen meiner das der die den dem des ein eine einen wegen trotz ohne normalerweise danach damals zuerst bitte letzte letzten nächste nächsten auf aus zu sonst außerdem".split(" "));
 function wrongVersion(de) {
   const { toks, end, verbs } = tokens(de);
   const k = rnd(verbs); const v = toks[k]; const rest = toks.filter((_, i) => i !== k);
@@ -298,12 +299,15 @@ function wrongVersion(de) {
   // bevorzugt: typische Fehler – Verb an Position 2 im Nebensatz oder ans Ende im Hauptsatz
   const j = rnd(options.length ? options : [0]);
   const out = rest.slice(); out.splice(j, 0, v);
+  if (j === 0 && k !== 0 && LOWER.has(out[1].toLowerCase())) out[1] = out[1].toLowerCase();
+  if (out[0] === v && k !== 0) out[0] = v.charAt(0).toUpperCase() + v.slice(1);
   const s = out.join(" ");
   return s === toks.join(" ") ? null : s.charAt(0).toUpperCase() + s.slice(1) + end;
 }
 EX.rf = function (host, done, opt = {}) {
-  const sent = opt.sent && opt.sent.de.includes("*") ? opt.sent : pickSentence(true, opt.avoid);
-  if (!sent) return false;
+  let sent = opt.sent && opt.sent.de.includes("*") ? opt.sent : pickSentence(true);
+  for (let i = 0; i < 5 && sent && /\?\s*$/.test(sent.de); i++) sent = pickSentence(true);
+  if (!sent || /\?\s*$/.test(sent.de)) return false;
   let shown = plainSent(sent.de), isRight = true;
   if (Math.random() < .55) { const w = wrongVersion(sent.de); if (w) { shown = w; isRight = false; } }
   host.innerHTML = `
