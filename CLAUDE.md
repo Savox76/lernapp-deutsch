@@ -7,4 +7,5 @@
 - Web-App ohne Build-Schritt: `web/index.html`, `web/app.js`, `web/style.css`. Fortschritt liegt in localStorage (`dl-prog`, `dl-stats`, `dl-set`, Antwortprotokoll `dl-log`) – Schlüssel nicht umbenennen, sonst geht Fortschritt verloren.
 - Die Android-App lädt nur https://savox76.github.io/lernapp-deutsch/ – Änderungen an `android/` nur, wenn wirklich nötig (Nutzerin muss sonst neu installieren).
 - Auswertung: Wenn Mario eine geteilte „DEUTSCH-AUSWERTUNG“ schickt, die schwächsten Grammatik-Themen und die schwersten Sätze daraus ablesen und gezielt neue Sätze für genau diese Themen in `quellen/` ergänzen. Grammatik-Kategorien werden in `web/app.js` (`categorize`) aus Regeltext und Satz erkannt.
+- Planung: Siehe `MASTERPLAN.md` (Prüfungsaufbau, Prioritäten, Fahrplan). Vor dem Bau neuer Aufgabentypen Mario Bescheid geben.
 - Didaktik: Russisch nur als Verständnishilfe (Aufgabenstellung, Übersetzung nach der Antwort). Antworten immer auf Deutsch. Alles (Wörter, Sätze, Aufgaben, Regeln) muss vorlesbar sein (`say()`, `sayBtn()`, Einstellung `SET.auto`).
