@@ -681,7 +681,7 @@ VIEWS.onboarding = function () {
         <select id="obGoal"><option value="40">locker – 40 Aufgaben (~15 Min.)</option><option value="60" selected>normal – 60 Aufgaben (~20 Min.)</option><option value="100">intensiv – 100 Aufgaben (~35 Min.)</option></select></label>
       <button class="btn primary big" id="obGo">Los geht's! · Начать</button>
     </div>`;
-  $("#obGo").onclick = () => { SET.name = $("#obName").value.trim(); SET.niveau = $("#obLv").value; SET.goal = +$("#obGoal").value; SET.onboarded = true; saveSET(); go("home"); };
+  $("#obGo").onclick = () => { SET.name = $("#obName").value.trim(); SET.niveau = $("#obLv").value; SET.goal = +$("#obGoal").value; SET.onboarded = true; SET.start = dayKey(); saveSET(); go("home"); };
 };
 VIEWS.session = function () {
   if (!session) return go("home");
@@ -741,6 +741,15 @@ VIEWS.satzbau = function () {
 };
 
 /* --- Statistik --- */
+/* Erster Lerntag: ab hier zählen Tage ohne Lernen als Pause */
+function startKey() { const ks = Object.keys(ST.days).filter(k => ST.days[k].n > 0 || ST.days[k].sec > 0).sort(); const k = [SET.start, ks[0]].filter(Boolean).sort()[0]; return k || dayKey(); }
+/* Status eines Tages: frei (vor dem Start), heute, pause (0 Aufgaben), wenig, gelernt */
+function dayStatus(x) {
+  if (x.k < startKey()) return "vorher";
+  if (x.d.n > 0) return x.d.n < Math.max(10, Math.round(SET.goal / 3)) ? "wenig" : "gelernt";
+  return x.k === dayKey() ? "heute" : "pause";
+}
+function pauseDays(days) { return days.filter(x => dayStatus(x) === "pause"); }
 function lastDays(n) { const out = []; const d = new Date(); for (let i = n - 1; i >= 0; i--) { const x = new Date(d); x.setDate(d.getDate() - i); const k = dayKey(x); out.push({ k, d: ST.days[k] || { n: 0, r: 0, sec: 0, t: {} } }); } return out; }
 function chartSVG(days) {
   const Wd = 340, H = 170, L = 30, B = 26, top = 10; const max = Math.max(10, ...days.map(x => x.d.n));
@@ -753,7 +762,8 @@ function chartSVG(days) {
     const r = x.d.r, f = x.d.n - x.d.r;
     if (r) g += `<rect x="${cx}" y="${y(r)}" width="${w}" height="${y(0) - y(r)}" fill="var(--ok)" rx="2"><title>${fmtDay(x.k)}: ${r} richtig</title></rect>`;
     if (f) g += `<rect x="${cx}" y="${y(r + f)}" width="${w}" height="${y(r) - y(r + f)}" fill="var(--bad)" rx="2"><title>${fmtDay(x.k)}: ${f} falsch</title></rect>`;
-    if (days.length <= 14 || i % 2 === 0) g += `<text x="${cx + w / 2}" y="${H - 12}" font-size="9.5" text-anchor="middle" fill="var(--muted)">${wdOf(x.k)}</text><text x="${cx + w / 2}" y="${H - 2}" font-size="8.5" text-anchor="middle" fill="var(--muted)">${fmtDay(x.k).slice(0, 2)}</text>`;
+    if (dayStatus(x) === "pause") g += `<text x="${cx + w / 2}" y="${y(0) - 4}" font-size="13" font-weight="700" text-anchor="middle" fill="var(--bad)">✗<title>${fmtDay(x.k)}: nicht gelernt</title></text>`;
+    if (days.length <= 14 || i % 2 === 0) g += `<text x="${cx + w / 2}" y="${H - 12}" font-size="9.5" text-anchor="middle" fill="${dayStatus(x) === "pause" ? "var(--bad)" : "var(--muted)"}">${wdOf(x.k)}</text><text x="${cx + w / 2}" y="${H - 2}" font-size="8.5" text-anchor="middle" fill="var(--muted)">${fmtDay(x.k).slice(0, 2)}</text>`;
   });
   return `<svg class="chart" viewBox="0 0 ${Wd} ${H}" role="img" aria-label="Aufgaben pro Tag">${g}</svg>`;
 }
@@ -768,13 +778,16 @@ function refLabel(ref) {
 function reportText() {
   const d = today(); const w7 = lastDays(7); const n7 = w7.reduce((a, x) => a + x.d.n, 0), r7 = w7.reduce((a, x) => a + x.d.r, 0);
   const sec7 = w7.reduce((a, x) => a + x.d.sec, 0); const act7 = w7.filter(x => x.d.n > 0).length;
+  const p7 = pauseDays(w7); const p30 = pauseDays(lastDays(30));
+  const pausenText = p7.length ? `\nNICHT gelernt (7 Tage): ${p7.map(x => wdOf(x.k) + " " + fmtDay(x.k)).join(", ")}` : "\nKein Tag ausgelassen (7 Tage) ✓";
   const tt = typeTotals(w7); const sb = ["bauen", "verb", "rf", "diktat"].reduce((a, k) => ({ n: a.n + (tt[k]?.n || 0), r: a.r + (tt[k]?.r || 0) }), { n: 0, r: 0 });
   const c = counts();
   const hard = Object.entries(P.fehler).sort((a, b) => b[1] - a[1]).slice(0, 3).map(x => refLabel(x[0])).filter(Boolean);
   return `📚 Deutsch-Lernbericht${SET.name ? " von " + SET.name : ""} – ${fmtDay(dayKey())}${new Date().getFullYear()}
 
 Heute: ${d.n} Aufgaben, ${d.r} richtig, ${d.n - d.r} falsch (${pct(d.r, d.n)} %), ${Math.round(d.sec / 60)} Min.
-Letzte 7 Tage: an ${act7} Tagen gelernt, ${n7} Aufgaben, ${pct(r7, n7)} % richtig, ${Math.round(sec7 / 60)} Min.
+Letzte 7 Tage: an ${act7} Tagen gelernt, ${n7} Aufgaben, ${pct(r7, n7)} % richtig, ${Math.round(sec7 / 60)} Min.${pausenText}
+Pausentage in 30 Tagen: ${p30.length}
 Satzbau (7 Tage): ${sb.n} Sätze, ${pct(sb.r, sb.n)} % richtig
 Wortschatz: ${c.seenW} Wörter gesehen, ${c.learned} gelernt, ${c.sure} sicher
 Serie: ${streak()} Tage in Folge${hard.length ? "\n\nSchwierig:\n- " + hard.join("\n- ") : ""}`;
@@ -788,6 +801,8 @@ async function shareText(text) {
 }
 VIEWS.statistik = function () {
   const d = today(); const d14 = lastDays(14); const d30 = lastDays(30).reverse();
+  const p14 = pauseDays(d14), p30 = pauseDays(lastDays(30));
+  const counted14 = d14.filter(x => !["vorher", "heute"].includes(dayStatus(x))).length;
   const n7 = lastDays(7).reduce((a, x) => a + x.d.n, 0), r7 = lastDays(7).reduce((a, x) => a + x.d.r, 0);
   const tt = typeTotals(lastDays(30)); const c = counts();
   const hard = Object.entries(P.fehler).sort((a, b) => b[1] - a[1]).slice(0, 10).map(([ref, n]) => ({ l: refLabel(ref), n })).filter(x => x.l);
@@ -803,13 +818,21 @@ VIEWS.statistik = function () {
       ${chartSVG(d14)}
       <div class="kpis"><div><b>${n7}</b><span>Aufgaben 7 Tage</span></div><div><b>${pct(r7, n7)} %</b><span>richtig 7 Tage</span></div><div><b>${streak()}</b><span>Tage in Folge</span></div></div>
     </div>
+    <div class="card">
+      <div class="row between"><h3>Tage ohne Lernen</h3><span class="hint small">seit ${fmtDay(startKey())}</span></div>
+      <div class="kpis"><div><b style="color:${p14.length ? "var(--bad)" : "var(--ok)"}">${p14.length}</b><span>Pausen 14 Tage</span></div><div><b style="color:${p30.length ? "var(--bad)" : "var(--ok)"}">${p30.length}</b><span>Pausen 30 Tage</span></div><div><b>${counted14 - p14.length}/${counted14}</b><span>Tage gelernt (14)</span></div></div>
+      ${p30.length ? `<p><b style="color:var(--bad)">Nicht gelernt:</b> ${p30.slice().reverse().map(x => wdOf(x.k) + " " + fmtDay(x.k)).join(", ")}</p>` : `<p class="feedback ok" style="text-align:left">Bisher kein Tag ausgelassen ✓</p>`}
+    </div>
     <div class="card"><h3>Nach Übungsart <span class="hint small">(30 Tage)</span></h3>
       <div class="tablewrap"><table><tr><th>Übung</th><th class="num">Anzahl</th><th class="num">richtig</th><th></th></tr>
       ${Object.keys(TYPE_NAMES).filter(k => tt[k]).map(k => `<tr><td>${TYPE_NAMES[k]}</td><td class="num">${tt[k].n}</td><td class="num">${pct(tt[k].r, tt[k].n)} %</td><td><div class="bar"><i style="width:${pct(tt[k].r, tt[k].n)}%;background:${pct(tt[k].r, tt[k].n) >= 70 ? "var(--ok)" : pct(tt[k].r, tt[k].n) >= 50 ? "var(--accent)" : "var(--bad)"}"></i></div></td></tr>`).join("") || `<tr><td colspan="4" class="hint">Noch keine Übungen.</td></tr>`}
       </table></div></div>
     <div class="card"><h3>Jeder Tag</h3>
       <div class="tablewrap"><table><tr><th>Tag</th><th class="num">Aufg.</th><th class="num">richtig</th><th class="num">falsch</th><th class="num">%</th><th class="num">Min.</th></tr>
-      ${d30.filter(x => x.d.n || x.d.sec).map(x => `<tr><td>${wdOf(x.k)} ${fmtDay(x.k)}</td><td class="num">${x.d.n}</td><td class="num" style="color:var(--ok)">${x.d.r}</td><td class="num" style="color:var(--bad)">${x.d.n - x.d.r}</td><td class="num">${pct(x.d.r, x.d.n)}</td><td class="num">${Math.round(x.d.sec / 60)}</td></tr>`).join("") || `<tr><td colspan="6" class="hint">Noch keine Daten.</td></tr>`}
+      ${d30.filter(x => dayStatus(x) !== "vorher").map(x => { const st = dayStatus(x);
+        if (st === "pause") return `<tr style="background:var(--bad-soft)"><td>${wdOf(x.k)} ${fmtDay(x.k)}</td><td colspan="5" style="color:var(--bad);font-weight:700">✗ nicht gelernt</td></tr>`;
+        if (st === "heute") return `<tr><td>${wdOf(x.k)} ${fmtDay(x.k)}</td><td colspan="5" class="hint">heute noch nicht gelernt</td></tr>`;
+        return `<tr><td>${wdOf(x.k)} ${fmtDay(x.k)}${st === "wenig" ? ` <span class="pill" style="color:var(--accent);border-color:var(--accent)">wenig</span>` : ""}</td><td class="num">${x.d.n}</td><td class="num" style="color:var(--ok)">${x.d.r}</td><td class="num" style="color:var(--bad)">${x.d.n - x.d.r}</td><td class="num">${pct(x.d.r, x.d.n)}</td><td class="num">${Math.round(x.d.sec / 60)}</td></tr>`; }).join("") || `<tr><td colspan="6" class="hint">Noch keine Daten.</td></tr>`}
       </table></div>
       <p class="hint small">Insgesamt: ${total.n} Aufgaben, ${pct(total.r, total.n)} % richtig, ${Math.round(total.sec / 60)} Minuten.</p></div>
     <div class="card"><h3>Wortschatz</h3>
