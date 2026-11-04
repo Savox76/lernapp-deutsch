@@ -781,15 +781,15 @@ const PLAN = {
 /* ================= Ansichten ================= */
 const app = $("#app");
 let view = "home", viewArg = null;
-const PARENT = { kurs: "home", pr: "pruefung", analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "schreiben", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr" };
+const PARENT = { kurs: "home", pr: "pruefung", prliste: "pruefung", analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "schreiben", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr" };
 function go(v, arg) { if (SP) sayStop(); stopTimer && stopTimer(); view = v; viewArg = arg; render(); window.scrollTo(0, 0); }
-window.appBack = function () { if (PARENT[view]) { go(PARENT[view]); return true; } if (view !== "home") { go("home"); return true; } return false; };
+window.appBack = function () { if (view === "pr" && viewArg && viewArg.typ) { go("prliste", { typ: viewArg.typ }); return true; } if (PARENT[view]) { go(PARENT[view]); return true; } if (view !== "home") { go("home"); return true; } return false; };
 document.querySelectorAll("#tabs button").forEach(b => b.onclick = () => go(b.dataset.go));
 function head(title, back) { return `<div class="top">${back ? `<button class="back" id="backBtn">${esc(back)}</button>` : ""}</div><h1>${title}</h1>`; }
 function bindBack() { const b = $("#backBtn"); if (b) b.onclick = () => window.appBack(); }
 
 function render() {
-  const tabFor = { kurs: "home", pr: "pruefung", analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "mehr", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr", quiz: "woerter" }[view] || view;
+  const tabFor = { kurs: "home", pr: "pruefung", prliste: "pruefung", analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "mehr", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr", quiz: "woerter" }[view] || view;
   document.querySelectorAll("#tabs button").forEach(b => b.setAttribute("aria-current", b.dataset.go === tabFor ? "page" : "false"));
   (VIEWS[view] || VIEWS.home)();
   bindBack();
@@ -1252,7 +1252,35 @@ VIEWS.pruefung = function () {
   app.querySelectorAll("#exSeg button").forEach(b => b.onclick = () => { SET.exam = b.dataset.ex; saveSET(); render(); });
   if ($("#zSave")) $("#zSave").onclick = () => { SET.dtz = { hl: $("#zhl").value, s: $("#zs").value, sp: $("#zsp").value }; saveSET(); render(); };
   if ($("#dSave")) $("#dSave").onclick = () => { SET.dtb = { l: $("#dl").value.replace(",", "."), h: $("#dh").value.replace(",", "."), s: $("#ds").value.replace(",", "."), sp: $("#dsp").value.replace(",", ".") }; saveSET(); render(); };
-  app.querySelectorAll("[data-pt]").forEach(b => b.onclick = () => { const t = b.dataset.pt; const x = prNext(t); if (x) go("pr", { typ: t, id: x.id }); });
+  app.querySelectorAll("[data-pt]").forEach(b => b.onclick = () => go("prliste", { typ: b.dataset.pt }));
+};
+/* Liste aller Aufgaben eines Typs: frei wählen, filtern, suchen */
+VIEWS.prliste = function () {
+  const typ = (viewArg || {}).typ; if (!PR_TYPES[typ]) return go("pruefung");
+  const all = prList(typ); const f = SET.prFilter || "alle";
+  const st = x => { const d = prDone(typ, x.id); return !d ? "neu" : d.ok === d.n ? "gut" : d.ok ? "teils" : "schwer"; };
+  const cnt = k => all.filter(x => k === "alle" || (k === "offen" ? st(x) === "neu" : k === "geuebt" ? st(x) !== "neu" : st(x) === "schwer" || st(x) === "teils")).length;
+  app.innerHTML = `${head(esc(prLabel(typ)), "Prüfung")}
+    <p class="hint">${all.length} Aufgaben · ${all.filter(x => prDone(typ, x.id)).length} geübt. Tippe eine Aufgabe an. <span class="ru">Выбери задание.</span></p>
+    <button class="btn primary" id="prRec">▶ Nächste empfohlene Aufgabe</button>
+    <div class="seg" id="prF">${[["alle", "Alle"], ["offen", "Neu"], ["geuebt", "Geübt"], ["schwer", "Wiederholen"]].map(([k, l]) => `<button data-f="${k}" aria-pressed="${f === k}">${l} (${cnt(k)})</button>`).join("")}</div>
+    <input id="prQ" type="search" placeholder="Suchen, z. B. Arzt, Urlaub, Kündigung …" autocomplete="off">
+    <div class="list" id="prL"></div>`;
+  const draw = () => {
+    const q = $("#prQ").value.trim().toLowerCase();
+    const l = all.map((x, i) => ({ x, i })).filter(({ x }) => {
+      const s2 = st(x);
+      if (f === "offen" && s2 !== "neu") return false; if (f === "geuebt" && s2 === "neu") return false; if (f === "schwer" && !(s2 === "schwer" || s2 === "teils")) return false;
+      return !q || JSON.stringify([x.t, x.thema, x.situation, x.frage, x.betreff]).toLowerCase().includes(q);
+    });
+    const badge = { neu: `<span class="pill">neu</span>`, gut: `<span class="pill" style="color:var(--ok)">✓ gut</span>`, teils: `<span class="pill">🙂 teilweise</span>`, schwer: `<span class="pill" style="color:var(--bad)">✗ üben</span>` };
+    $("#prL").innerHTML = l.map(({ x, i }) => { const d = prDone(typ, x.id);
+      return `<div class="li" data-pid="${esc(x.id)}" style="cursor:pointer"><div class="t"><b>${i + 1}. ${esc(x.t || x.thema || x.id)}</b><small>${d ? d.n + "× geübt" : "noch nicht geübt"}</small></div>${badge[st(x)]}</div>`; }).join("") || `<p class="hint">Keine Aufgabe gefunden.</p>`;
+    app.querySelectorAll("[data-pid]").forEach(el => el.onclick = () => go("pr", { typ, id: el.dataset.pid }));
+  };
+  $("#prQ").oninput = draw; draw();
+  app.querySelectorAll("#prF button").forEach(b => b.onclick = () => { SET.prFilter = b.dataset.f; saveSET(); render(); });
+  $("#prRec").onclick = () => { const x = prNext(typ); if (x) go("pr", { typ, id: x.id }); };
 };
 VIEWS.pr = function () {
   stopTimer(); const LERN = !!SET.lern;
@@ -1269,7 +1297,8 @@ VIEWS.pr = function () {
     if (!$("#rated").hidden) return; const r = +b.dataset.r; b.classList.add(r === 2 ? "right" : r === 0 ? "wrong" : "right");
     prMk(typ, item.id, r === 2); plog(logType, r === 2, null, { pr: typ, pid: item.id, sr: r }); $("#rated").hidden = false; bindNext();
   });
-  const head2 = `${head(esc(item.t), "Prüfung")}<div class="seg" id="modeSeg"><button data-mode="lern" aria-pressed="${LERN}">🎓 Lernmodus</button><button data-mode="pr" aria-pressed="${!LERN}">📝 Prüfungsmodus</button></div>
+  const pos = prList(typ).findIndex(x => x.id === item.id) + 1;
+  const head2 = `${head(esc(item.t), "Liste")}<p class="hint small">Aufgabe ${pos} von ${prList(typ).length}</p><div class="seg" id="modeSeg"><button data-mode="lern" aria-pressed="${LERN}">🎓 Lernmodus</button><button data-mode="pr" aria-pressed="${!LERN}">📝 Prüfungsmodus</button></div>
     ${LERN ? `<p class="hint small">Lernmodus: so oft hören, wie du willst, mit dem Regler oben springen, Text anzeigen, Wörter markieren. Nichts wird bewertet. <span class="ru">Режим учёбы: слушай сколько хочешь, без оценки.</span></p>` : ""}
     <div class="row between"><span class="pill">${esc(T.l)}</span><span class="pill" id="tm">⏱ ${T.min}:00</span></div>`;
   const timerBtn = `<button class="btn small" id="tStart">⏱ Prüfungszeit starten (${T.min} Min.)</button>`;
