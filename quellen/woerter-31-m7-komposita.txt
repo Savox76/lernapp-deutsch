@@ -1,0 +1,78 @@
+# M7 B2: zusammengesetzte Nomen (Komposita) aus Alltag, Beruf und Gesellschaft
+Arbeitssuche|die|-|N|поиск работы|wenn man eine Stelle sucht|Bei der Arbeitssuche hilft das Jobcenter.|B1|Komposita
+Arbeitsplatzsicherheit|die|-|N|гарантия рабочего места|man verliert den Job nicht so leicht|Arbeitsplatzsicherheit ist mir wichtig.|B2|Komposita
+Arbeitskräftemangel|der|-|N|нехватка рабочей силы|es fehlen Arbeiter|Viele Branchen leiden unter Arbeitskräftemangel.|B2|Komposita
+Berufswahl|die|-|N|выбор профессии|Entscheidung für einen Beruf|Die Berufswahl ist schwer.|B2|Komposita
+Berufsleben|das|-|N|профессиональная жизнь|Zeit, in der man arbeitet|Im Berufsleben braucht man gute Sprachkenntnisse.|B2|Komposita
+Bildungssystem|das|-|N|система образования|Schulen, Ausbildung, Universitäten|Das deutsche Bildungssystem ist kompliziert.|B2|Komposita
+Bürgerbüro|das|-|N|бюро обслуживания граждан|Amt für Ausweise und Anmeldung|Im Bürgerbüro melde ich mich um.|B1|Komposita
+Einkaufszettel|der|-|N|список покупок|Liste für den Einkauf|Hast du den Einkaufszettel?|A2|Komposita
+Energiekosten|die|-|N|расходы на энергию|Kosten für Strom und Heizung|Die Energiekosten sind gestiegen.|B2|Komposita
+Energieverbrauch|der|-|N|потребление энергии|wie viel Energie man braucht|Wir wollen den Energieverbrauch senken.|B2|Komposita
+Familienleben|das|-|N|семейная жизнь|Leben mit der Familie|Das Familienleben ist mir sehr wichtig.|B1|Komposita
+Familienmitglied|das|-|N|член семьи|Person aus der Familie|Jedes Familienmitglied hat eine Aufgabe.|B1|Komposita
+Freizeitangebot|das|-|N|досуговые предложения|Möglichkeiten für die Freizeit|In Dresden gibt es viele Freizeitangebote.|B2|Komposita
+Gesundheitszustand|der|-|N|состояние здоровья|wie gesund jemand ist|Ihr Gesundheitszustand ist stabil.|B2|Komposita
+Gesundheitsvorsorge|die|-|N|профилактика здоровья|Maßnahmen, um gesund zu bleiben|Gesundheitsvorsorge spart Kosten.|B2|Komposita
+Großstadt|die|-|N|большой город|Stadt mit über 100.000 Einwohnern|Ich lebe gern in einer Großstadt.|B1|Komposita
+Hauptschulabschluss|der|-|N|аттестат основной школы|Abschluss nach Klasse 9|Für die Ausbildung reicht ein Hauptschulabschluss.|B2|Komposita
+Haushaltskasse|die|-|N|деньги на хозяйство|Geld für den Haushalt|Die Haushaltskasse ist leer.|B2|Komposita
+Heimatland|das|-|N|родина|Land, aus dem man kommt|In meinem Heimatland ist es anders.|A2|Komposita
+Heimatstadt|die|-|N|родной город|Stadt, aus der man kommt|Meine Heimatstadt ist Charkiw.|A2|Komposita
+Jugendarbeitslosigkeit|die|-|N|безработица среди молодёжи|keine Arbeit bei jungen Menschen|Die Jugendarbeitslosigkeit ist ein Problem.|B2|Komposita
+Kinderbetreuung|die|-|N|присмотр за детьми|Aufpassen auf Kinder|Die Kinderbetreuung ist teuer.|B2|Komposita
+Kinderarmut|die|-|N|детская бедность|wenn Kinder arm sind|Gegen Kinderarmut muss man etwas tun.|B2|Komposita
+Krankenhausaufenthalt|der|-|N|пребывание в больнице|Zeit im Krankenhaus|Nach dem Krankenhausaufenthalt braucht sie Ruhe.|B2|Komposita
+Krankenversicherungskarte|die|-|N|карточка медстраховки|Karte der Krankenkasse|Bitte zeigen Sie Ihre Krankenversicherungskarte.|B2|Komposita
+Landeshauptstadt|die|-|N|столица федеральной земли|Hauptstadt eines Bundeslandes|Dresden ist die Landeshauptstadt von Sachsen.|B2|Komposita
+Lebensmittelgeschäft|das|-|N|продуктовый магазин|Geschäft für Lebensmittel|Das Lebensmittelgeschäft hat bis 20 Uhr auf.|B1|Komposita
+Lebenserfahrung|die|-|N|жизненный опыт|Erfahrung aus dem Leben|Mit mehr Lebenserfahrung sieht man vieles anders.|B2|Komposita
+Lebensqualität|die|-|N|качество жизни|wie gut man lebt|Die Lebensqualität in Dresden ist hoch.|B2|Komposita
+Lebensunterhalt|der|-|N|средства к существованию|Geld für das tägliche Leben|Ich verdiene meinen Lebensunterhalt selbst.|B2|Komposita
+Lehrstelle|die|-|N|место ученика (на производстве)|Ausbildungsplatz|Er hat eine Lehrstelle als Bäcker gefunden.|B2|Komposita
+Lieblingsfach|das|-|N|любимый предмет|Schulfach, das man am liebsten hat|Mein Lieblingsfach war Mathe.|A2|Komposita
+Meinungsumfrage|die|-|N|опрос общественного мнения|Befragung vieler Menschen|Laut einer Meinungsumfrage …|B2|Komposita
+Nachbarschaftshilfe|die|-|N|соседская помощь|Hilfe unter Nachbarn|Nachbarschaftshilfe ist hier sehr verbreitet.|B2|Komposita
+Nahverkehr|der|-|N|общественный транспорт (местный)|Busse und Bahnen in der Region|Der Nahverkehr in Dresden ist gut.|B2|Komposita
+Personalmangel|der|-|N|нехватка персонала|zu wenig Mitarbeiter|Wegen Personalmangel bleibt die Filiale zu.|B2|Komposita
+Pflegepersonal|das|-|N|медперсонал (по уходу)|alle Pflegekräfte|Das Pflegepersonal ist überlastet.|B2|Komposita
+Preiserhöhung|die|-|N|повышение цен|wenn Preise steigen|Ab Januar gibt es eine Preiserhöhung.|B2|Komposita
+Ruhestand|der|-|N|пенсия (выход на отдых)|Zeit nach dem Arbeitsleben|Mein Vater ist seit zwei Jahren im Ruhestand.|B2|Komposita
+Schulabschluss|der|-|N|школьный аттестат|Abschluss der Schule|Welchen Schulabschluss haben Sie?|B1|Komposita
+Schulweg|der|-|N|дорога в школу|Weg zur Schule|Der Schulweg ist nicht gefährlich.|A2|Komposita
+Sprachkenntnisse|die|-|N|знание языка|was man in einer Sprache kann|Gute Sprachkenntnisse sind wichtig.|B1|Komposita
+Sprachniveau|das|-|N|уровень языка|A1, A2, B1 usw.|Welches Sprachniveau haben Sie?|B1|Komposita
+Sprachprüfung|die|-|N|языковой экзамен|Prüfung für eine Sprache|Die Sprachprüfung ist im März.|B1|Komposita
+Straßenverkehr|der|-|N|дорожное движение|Autos, Busse, Fahrräder auf der Straße|Im Straßenverkehr muss man aufpassen.|B1|Komposita
+Teilzeitstelle|die|-|N|работа с неполным днём|Stelle mit weniger Stunden|Ich suche eine Teilzeitstelle.|B1|Komposita
+Terminvereinbarung|die|-|N|запись (на приём)|einen Termin machen|Eine Terminvereinbarung ist online möglich.|B2|Komposita
+Umweltbewusstsein|das|-|N|экологическая сознательность|man denkt an die Umwelt|Das Umweltbewusstsein ist gewachsen.|B2|Komposita
+Umweltschutz|der|-|N|охрана окружающей среды|Schutz der Natur|Umweltschutz ist mir wichtig.|B1|Komposita
+Unfallgefahr|die|-|N|опасность аварии|Risiko für einen Unfall|Bei Glatteis ist die Unfallgefahr hoch.|B2|Komposita
+Vollzeitstelle|die|-|N|работа на полный день|Stelle mit allen Stunden|Ich habe jetzt eine Vollzeitstelle.|B1|Komposita
+Vorstellungstermin|der|-|N|время собеседования|Termin für das Vorstellungsgespräch|Mein Vorstellungstermin ist am Montag.|B2|Komposita
+Wochenendarbeit|die|-|N|работа в выходные|Arbeit am Samstag und Sonntag|Wochenendarbeit wird besser bezahlt.|B2|Komposita
+Wohnungsnot|die|-|N|нехватка жилья|es gibt zu wenige Wohnungen|In vielen Städten herrscht Wohnungsnot.|B2|Komposita
+Wohnungsmarkt|der|-|N|рынок жилья|Angebot und Nachfrage bei Wohnungen|Der Wohnungsmarkt ist angespannt.|B2|Komposita
+Zahnschmerzen|die|-|N|зубная боль|Schmerzen im Zahn|Ich habe starke Zahnschmerzen.|A2|Komposita
+Zusatzkosten|die|-|N|дополнительные расходы|extra Kosten|Es gibt keine Zusatzkosten.|B2|Komposita
+Zuwanderung|die|-|N|иммиграция|Menschen kommen in ein Land|Deutschland ist auf Zuwanderung angewiesen.|B2|Komposita
+Altersgrenze|die|-|N|возрастной предел|höchstes oder niedrigstes erlaubtes Alter|Für den Kurs gibt es keine Altersgrenze.|B2|Komposita
+Ansprechperson|die|-|N|контактное лицо|Person für Fragen|Wer ist meine Ansprechperson?|B2|Komposita
+Aufenthaltsdauer|die|-|N|продолжительность пребывания|wie lange man bleibt|Die Aufenthaltsdauer beträgt drei Tage.|B2|Komposita
+Bewerbungsgespräch|das|-|N|собеседование|Vorstellungsgespräch|Das Bewerbungsgespräch lief gut.|B1|Komposita
+Dienstleistungsbranche|die|-|N|сфера услуг|Bereich der Dienstleistungen|In der Dienstleistungsbranche arbeiten viele Menschen.|B2|Komposita
+Einwohnerzahl|die|-|N|численность населения|wie viele Menschen in einem Ort leben|Die Einwohnerzahl von Dresden ist über 550.000.|B2|Komposita
+Erwerbstätigkeit|die|-|N|трудовая деятельность|Arbeit gegen Geld|Die Erwerbstätigkeit von Frauen steigt.|B2|Komposita
+Fachrichtung|die|-|N|специальность|Bereich eines Berufs oder Studiums|Welche Fachrichtung haben Sie studiert?|B2|Komposita
+Heiratsurkunde|die|-|N|свидетельство о браке|Dokument über die Heirat|Bitte bringen Sie die Heiratsurkunde mit.|B2|Komposita
+Kommunalwahl|die|-|N|муниципальные выборы|Wahl in der Stadt oder Gemeinde|Bei der Kommunalwahl dürfen auch EU-Bürger wählen.|B2|Komposita
+Lebenslage|die|-|N|жизненная ситуация|Situation im Leben|In jeder Lebenslage hilft mir meine Familie.|B2|Komposita
+Lernplattform|die|-|N|учебная платформа|Webseite zum Lernen|Die Hausaufgaben sind auf der Lernplattform.|B2|Komposita
+Mehrsprachigkeit|die|-|N|многоязычие|mehrere Sprachen sprechen|Mehrsprachigkeit ist ein großer Vorteil.|B2|Komposita
+Pflichtfach|das|-|N|обязательный предмет|Fach, das man machen muss|Deutsch ist ein Pflichtfach.|B2|Komposita
+Rechtsanwalt|der|-|N|адвокат|Anwalt|Ich habe mich an einen Rechtsanwalt gewandt.|B2|Komposita
+Sozialleistung|die|-|N|социальная выплата|Geld oder Hilfe vom Staat|Kindergeld ist eine Sozialleistung.|B2|Komposita
+Unterrichtsstunde|die|-|N|урок|eine Stunde Unterricht|Eine Unterrichtsstunde dauert 45 Minuten.|B1|Komposita
+Verkehrsmeldung|die|-|N|сообщение о дорожной ситуации|Information über den Verkehr im Radio|Laut Verkehrsmeldung gibt es einen Stau.|B2|Komposita
+Wahlbeteiligung|die|-|N|явка на выборы|wie viele Menschen wählen|Die Wahlbeteiligung war hoch.|B2|Komposita

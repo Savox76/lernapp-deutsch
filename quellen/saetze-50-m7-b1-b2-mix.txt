@@ -1,0 +1,61 @@
+# M7 B1/B2: Mischung für Sprachbausteine (Artikel, Kasus, Relativsätze, Wortstellung)
+Ich *schreibe* Ihnen, weil ich mich über die Lieferung beschweren möchte.|Я пишу вам, потому что хочу пожаловаться на доставку.|B1|weil: Modalverb am Ende des Nebensatzes.|Briefe
+Leider *ist* das bestellte Gerät beschädigt angekommen.|К сожалению, заказанный прибор пришёл повреждённым.|B1|Leider auf Position 1 → Verb → Subjekt.|Handel
+Ich *bitte* Sie, mir das Geld zurückzuzahlen.|Прошу вас вернуть мне деньги.|B1|bitten + zu-Infinitiv: zurückzuzahlen.|Briefe
+Könnten Sie mir sagen, wann der Techniker *kommt*?|Не могли бы вы сказать, когда придёт техник?|B1|indirekte Frage: Verb am Ende.|Wohnen
+Ich *weiß* nicht, ob ich am Montag kommen kann.|Не знаю, смогу ли я прийти в понедельник.|B1|ob: Modalverb am Ende.|Arbeit
+Ich *möchte* wissen, wie viel der Kurs kostet.|Хочу узнать, сколько стоит курс.|B1|indirekte Frage: wie viel … kostet.|Bildung
+Der Mann, der neben mir *wohnt*, ist Arzt.|Мужчина, который живёт рядом со мной, врач.|B1|Relativsatz: der … wohnt.|Wohnen
+Die Kollegin, mit der ich *arbeite*, kommt aus Kiew.|Коллега, с которой я работаю, из Киева.|B1|Relativsatz mit Präposition: mit der.|Arbeit
+Das Buch, das du mir geliehen *hast*, ist spannend.|Книга, которую ты мне одолжил, захватывающая.|B1|Relativsatz Akkusativ: das.|Freizeit
+Die Kinder, denen ich *helfe*, sind sehr nett.|Дети, которым я помогаю, очень милые.|B1|Relativsatz Dativ Plural: denen.|Familie
+Der Kunde, dem ich die Rechnung geschickt *habe*, hat nicht bezahlt.|Клиент, которому я отправила счёт, не заплатил.|B1|Relativsatz Dativ: dem.|Geld
+Die Frau, deren Auto falsch *parkt*, soll bitte zur Rezeption kommen.|Женщина, чья машина неправильно припаркована, пусть подойдёт к стойке.|B2|Relativsatz Genitiv: deren.|Verkehr
+Ich *fahre* morgen mit dem Zug nach Berlin.|Завтра я еду на поезде в Берлин.|B1|Zeit vor Art vor Ort: morgen – mit dem Zug – nach Berlin.|Reisen
+Sie *hat* ihrer Mutter einen Brief geschrieben.|Она написала маме письмо.|B1|Dativ (Person) vor Akkusativ (Sache).|Familie
+Ich *habe* ihn ihr gestern gegeben.|Я вчера дала его ей.|B1|Pronomen: Akkusativ vor Dativ.|Alltag
+*Kannst* du mir das bitte erklären?|Можешь мне это объяснить?|B1|Frage mit Modalverb; Infinitiv am Ende.|Bildung
+Wir *treffen* uns um halb acht vor dem Kino.|Встречаемся в половине восьмого перед кинотеатром.|B1|vor + Dativ (wo?).|Freizeit
+Ich *stelle* die Vase auf den Tisch.|Я ставлю вазу на стол.|B1|Wechselpräposition: wohin? → Akkusativ.|Wohnen
+Die Vase *steht* auf dem Tisch.|Ваза стоит на столе.|B1|Wechselpräposition: wo? → Dativ.|Wohnen
+Er *hängt* das Bild an die Wand.|Он вешает картину на стену.|B1|hängen + an + Akkusativ (wohin?).|Wohnen
+Wir *wohnen* seit drei Jahren in diesem Haus.|Мы живём в этом доме три года.|B1|seit + Dativ; Präsens.|Wohnen
+Vor zwei Wochen *habe* ich die Stelle gewechselt.|Две недели назад я сменила работу.|B1|vor + Dativ (Zeit) auf Position 1.|Arbeit
+Ich *freue* mich auf das Wochenende.|Я радуюсь предстоящим выходным.|B1|sich freuen auf (Zukunft).|Freizeit
+Ich *freue* mich über das Geschenk.|Я радуюсь подарку.|B1|sich freuen über (schon passiert).|Gefühle
+Ich *interessiere* mich für Medizin.|Я интересуюсь медициной.|B1|sich interessieren für + Akkusativ.|Bildung
+Wir *warten* schon eine halbe Stunde auf den Bus.|Мы уже полчаса ждём автобус.|B1|warten auf + Akkusativ.|Verkehr
+Ich *denke* oft an meine Familie in der Ukraine.|Я часто думаю о своей семье в Украине.|B1|denken an + Akkusativ.|Familie
+Er *ärgert* sich über die hohen Kosten.|Он злится из-за высоких расходов.|B1|sich ärgern über + Akkusativ.|Geld
+Sie *kümmert* sich um ihre alte Nachbarin.|Она заботится о пожилой соседке.|B1|sich kümmern um + Akkusativ.|Pflege
+Woran *denkst* du gerade?|О чём ты сейчас думаешь?|B1|Frage: wo(r) + Präposition für Sachen.|Alltag
+An wen *schreibst* du die E-Mail?|Кому ты пишешь письмо?|B1|Frage: Präposition + wen für Personen.|Briefe
+Worauf *wartest* du noch?|Чего ты ещё ждёшь?|B1|Frage: worauf.|Alltag
+Darüber *haben* wir schon gesprochen.|Об этом мы уже говорили.|B1|darüber auf Position 1 → Verb.|Arbeit
+Der Zug *ist* pünktlicher als der Bus.|Поезд пунктуальнее автобуса.|B1|Komparativ + als.|Verkehr
+Die Wohnung *ist* genauso groß wie unsere alte.|Квартира такая же большая, как наша старая.|B1|so/genauso + Adjektiv + wie.|Wohnen
+Das *ist* die beste Lösung für alle.|Это лучшее решение для всех.|B1|Superlativ mit Artikel: die beste.|Meinung
+Am liebsten *trinke* ich grünen Tee.|Больше всего я люблю пить зелёный чай.|B1|am liebsten auf Position 1 → Verb.|Essen
+Mit einem freundlichen Lächeln *begrüßte* sie die Gäste.|С дружелюбной улыбкой она поприветствовала гостей.|B1|Adjektiv nach einem (Dativ): -en.|Arbeit
+Ich *suche* eine helle Wohnung mit großem Balkon.|Я ищу светлую квартиру с большим балконом.|B1|Adjektiv ohne Artikel (Dativ): großem.|Wohnen
+Wir *haben* einen neuen Kollegen aus Italien.|У нас новый коллега из Италии.|B1|Adjektiv Akkusativ maskulin: einen neuen.|Arbeit
+Das *ist* das Auto meines Bruders.|Это машина моего брата.|B1|Genitiv: meines Bruders.|Familie
+Trotz des Regens *sind* wir spazieren gegangen.|Несмотря на дождь, мы пошли гулять.|B1|trotz + Genitiv auf Position 1.|Freizeit
+Wegen des Streiks *fallen* heute viele Flüge aus.|Из-за забастовки сегодня отменяют многие рейсы.|B1|wegen + Genitiv auf Position 1.|Reisen
+Es *ist* nicht leicht, eine Wohnung zu finden.|Найти квартиру нелегко.|B1|Es ist + Adjektiv + zu-Infinitiv.|Wohnen
+Ich *habe* vergessen, die Tür abzuschließen.|Я забыла запереть дверь.|B1|zu-Infinitiv bei trennbaren Verben: abzuschließen.|Alltag
+*Hast* du Lust, mit uns ins Kino zu kommen?|Хочешь пойти с нами в кино?|B1|Lust haben + zu-Infinitiv.|Freizeit
+Er *versucht*, jeden Tag zehn neue Wörter zu lernen.|Он старается учить каждый день десять новых слов.|B1|versuchen + zu-Infinitiv.|Bildung
+Ich *lasse* mein Auto in der Werkstatt reparieren.|Я отдаю машину в ремонт в мастерскую.|B1|lassen + Infinitiv: jemand anderes macht es.|Verkehr
+Ich *habe* mir die Haare schneiden lassen.|Я подстриглась (в парикмахерской).|B1|Perfekt von lassen: Doppelinfinitiv.|Alltag
+Wir *mussten* lange warten.|Нам пришлось долго ждать.|B1|Modalverb Präteritum: mussten.|Gesundheit
+Als Kind *durfte* ich nicht allein ins Schwimmbad.|В детстве мне нельзя было одной ходить в бассейн.|B1|Modalverb Präteritum: durfte.|Familie
+Als ich in Deutschland ankam, *sprach* ich kaum Deutsch.|Когда я приехала в Германию, я почти не говорила по-немецки.|B1|als (einmal, Vergangenheit) → Präteritum.|Person
+Wenn ich Zeit habe, *gehe* ich schwimmen.|Когда у меня есть время, я хожу плавать.|B1|wenn (immer wieder) zuerst → dann sofort das Verb.|Freizeit
+Jedes Mal, wenn ich ihn sehe, *lacht* er.|Каждый раз, когда я его вижу, он смеётся.|B1|wenn = jedes Mal.|Alltag
+Ich *rufe* dich an, sobald ich angekommen bin.|Я позвоню тебе, как только приеду.|B1|sobald: Hilfsverb am Ende.|Reisen
+Sie *lernt* Deutsch, damit sie als Krankenschwester arbeiten kann.|Она учит немецкий, чтобы работать медсестрой.|B1|damit: Modalverb am Ende.|Arbeit
+Er *geht* früh ins Bett, um morgen fit zu sein.|Он рано ложится спать, чтобы завтра быть бодрым.|B1|um … zu: Infinitiv am Ende.|Alltag
+Obwohl es kalt ist, *trägt* sie keine Jacke.|Хотя холодно, она не носит куртку.|B1|obwohl-Satz zuerst → dann sofort das Verb.|Wetter
+Deshalb *habe* ich mich für diesen Beruf entschieden.|Поэтому я выбрала эту профессию.|B1|deshalb auf Position 1 → Verb.|Arbeit
+Danach *gingen* wir noch etwas essen.|После этого мы ещё пошли поесть.|B1|danach auf Position 1 → Verb.|Freizeit

@@ -1,0 +1,1890 @@
+{
+ "sb": [
+  {
+   "id": "s46",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Beschwerde über eine Lieferung",
+   "text": "Sehr geehrte Damen und Herren,\n\nam 3. März habe ich bei Ihnen zehn Bürostühle bestellt. {{1}} der Lieferung musste ich feststellen, dass zwei Stühle beschädigt sind. Ich bitte Sie, mir die Stühle {{2}} schnell wie möglich zu ersetzen. {{3}} Sie das nicht bis Ende des Monats tun, trete ich vom Vertrag zurück. Die Fotos der Schäden {{4}} ich Ihnen im Anhang. Ich gehe {{5}} aus, dass Sie die Kosten für die Rücksendung übernehmen. Ich freue mich auf {{6}} baldige Antwort.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "Vor",
+      "Nach",
+      "Seit"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "nach der Lieferung = danach."
+    },
+    {
+     "o": [
+      "als",
+      "so",
+      "wie"
+     ],
+     "r": 1,
+     "k": "Vergleich",
+     "e": "so schnell wie möglich."
+    },
+    {
+     "o": [
+      "Ob",
+      "Damit",
+      "Falls"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "falls = wenn (Bedingung)."
+    },
+    {
+     "o": [
+      "schicken",
+      "schicke",
+      "schickt"
+     ],
+     "r": 1,
+     "k": "Konjugation",
+     "e": "ich schicke."
+    },
+    {
+     "o": [
+      "darauf",
+      "davon",
+      "damit"
+     ],
+     "r": 1,
+     "k": "Präpositionaladverb",
+     "e": "ausgehen von → davon."
+    },
+    {
+     "o": [
+      "Ihrer",
+      "Ihren",
+      "Ihre"
+     ],
+     "r": 2,
+     "k": "Akkusativ",
+     "e": "sich freuen auf + Akk.: Ihre Antwort."
+    }
+   ]
+  },
+  {
+   "id": "s47",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Anfrage an die Personalabteilung",
+   "text": "Sehr geehrte Frau Becker,\n\nich arbeite seit zwei Jahren {{1}} Pflegehelferin auf Station 4. Ich interessiere mich {{2}} die Weiterbildung zur Pflegefachkraft. Könnten Sie mir bitte mitteilen, {{3}} die Kosten von der Klinik übernommen werden? Außerdem möchte ich wissen, {{4}} ich während der Weiterbildung weiter Teilzeit arbeiten kann. {{5}} meiner Erfahrung bin ich sicher, dass ich die Ausbildung schaffe. Ich wäre Ihnen sehr dankbar, wenn Sie {{6}} Zeit für ein Gespräch nehmen könnten.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "als",
+      "für",
+      "wie"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "als + Beruf."
+    },
+    {
+     "o": [
+      "an",
+      "über",
+      "für"
+     ],
+     "r": 2,
+     "k": "Verb mit Präposition",
+     "e": "sich interessieren für."
+    },
+    {
+     "o": [
+      "wenn",
+      "dass",
+      "ob"
+     ],
+     "r": 2,
+     "k": "indirekte Frage",
+     "e": "ob = ja/nein-Frage."
+    },
+    {
+     "o": [
+      "was",
+      "wo",
+      "ob"
+     ],
+     "r": 2,
+     "k": "indirekte Frage",
+     "e": "ob … kann."
+    },
+    {
+     "o": [
+      "Trotz",
+      "Statt",
+      "Aufgrund"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "aufgrund = wegen."
+    },
+    {
+     "o": [
+      "sich",
+      "sie",
+      "ihr"
+     ],
+     "r": 0,
+     "k": "Reflexivpronomen",
+     "e": "sich Zeit nehmen; Sie → sich."
+    }
+   ]
+  },
+  {
+   "id": "s48",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Rundmail: neue Arbeitszeiten",
+   "text": "Liebe Kolleginnen und Kollegen,\n\nab dem 1. Mai gelten neue Arbeitszeiten. Die Frühschicht beginnt {{1}} um 6:00 Uhr, sondern um 6:30 Uhr. {{2}} Grund dafür ist die neue Busverbindung. Wer {{3}} der neuen Zeiten Probleme hat, meldet sich bitte bei mir. Die Dienstpläne {{4}} bis Freitag ausgehängt. Bitte prüfen Sie, {{5}} Ihre Daten richtig sind. Ich danke Ihnen {{6}} Ihr Verständnis.\n\nViele Grüße\nThomas Klein, Schichtleitung",
+   "gaps": [
+    {
+     "o": [
+      "kein mehr",
+      "noch nicht",
+      "nicht mehr"
+     ],
+     "r": 2,
+     "k": "Negation",
+     "e": "nicht mehr … sondern."
+    },
+    {
+     "o": [
+      "Die",
+      "Das",
+      "Der"
+     ],
+     "r": 2,
+     "k": "Artikel",
+     "e": "der Grund."
+    },
+    {
+     "o": [
+      "mit",
+      "von",
+      "bei"
+     ],
+     "r": 0,
+     "k": "Verb mit Präposition",
+     "e": "Probleme haben mit."
+    },
+    {
+     "o": [
+      "wird",
+      "worden",
+      "werden"
+     ],
+     "r": 2,
+     "k": "Passiv",
+     "e": "Plural: die Dienstpläne werden."
+    },
+    {
+     "o": [
+      "ob",
+      "wenn",
+      "weil"
+     ],
+     "r": 0,
+     "k": "indirekte Frage",
+     "e": "prüfen, ob …"
+    },
+    {
+     "o": [
+      "über",
+      "für",
+      "auf"
+     ],
+     "r": 1,
+     "k": "Verb mit Präposition",
+     "e": "danken für."
+    }
+   ]
+  },
+  {
+   "id": "s49",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Antwort auf eine Kundenanfrage",
+   "text": "Sehr geehrter Herr Schulz,\n\nvielen Dank für Ihre Anfrage {{1}} 12. Juni. Gern senden wir Ihnen ein Angebot für die Reinigung Ihrer Büroräume. Der Preis richtet sich {{2}} der Größe der Fläche. {{3}} Sie einen Vertrag für ein Jahr abschließen, erhalten Sie 10 % Rabatt. Unsere Mitarbeiterinnen kommen {{4}} 18 Uhr, also nach Ihren Öffnungszeiten. Das Angebot ist bis zum 30. Juni {{5}}. Für Rückfragen stehe ich Ihnen gern zur {{6}}.\n\nMit freundlichen Grüßen\nAnna Roth",
+   "gaps": [
+    {
+     "o": [
+      "am",
+      "zum",
+      "vom"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "Anfrage vom 12. Juni."
+    },
+    {
+     "o": [
+      "an",
+      "nach",
+      "von"
+     ],
+     "r": 1,
+     "k": "Verb mit Präposition",
+     "e": "sich richten nach."
+    },
+    {
+     "o": [
+      "Ob",
+      "Wenn",
+      "Als"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "wenn = Bedingung."
+    },
+    {
+     "o": [
+      "seit",
+      "ab",
+      "vor"
+     ],
+     "r": 1,
+     "k": "Zeit",
+     "e": "ab 18 Uhr."
+    },
+    {
+     "o": [
+      "fällig",
+      "gültig",
+      "möglich"
+     ],
+     "r": 1,
+     "k": "Wortschatz",
+     "e": "ein Angebot ist gültig."
+    },
+    {
+     "o": [
+      "Verfügung",
+      "Antwort",
+      "Hilfe"
+     ],
+     "r": 0,
+     "k": "Redemittel",
+     "e": "zur Verfügung stehen."
+    }
+   ]
+  },
+  {
+   "id": "s50",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Bitte um Urlaubsverschiebung",
+   "text": "Liebe Frau Hartmann,\n\nich habe meinen Urlaub vom 4. bis 15. August beantragt. Leider muss ich Sie bitten, ihn {{1}} eine Woche zu verschieben. Meine Mutter muss operiert werden, und ich möchte {{2}} kümmern. Ich habe schon mit Herrn Weber gesprochen. Er wäre bereit, {{3}} Schichten in dieser Zeit zu übernehmen. {{4}} es für Sie in Ordnung ist, stelle ich einen neuen Antrag. Es tut mir leid, dass ich {{5}} so kurzfristig melde. Ich hoffe {{6}} Ihr Verständnis.\n\nViele Grüße\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "um",
+      "auf",
+      "für"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "um eine Woche verschieben."
+    },
+    {
+     "o": [
+      "mich um sie",
+      "sich um sie",
+      "mich für sie"
+     ],
+     "r": 0,
+     "k": "Verb mit Präposition",
+     "e": "sich kümmern um + Akk."
+    },
+    {
+     "o": [
+      "meine",
+      "meinen",
+      "meiner"
+     ],
+     "r": 0,
+     "k": "Akkusativ Plural",
+     "e": "meine Schichten übernehmen."
+    },
+    {
+     "o": [
+      "Ob",
+      "Obwohl",
+      "Falls"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "falls = Bedingung."
+    },
+    {
+     "o": [
+      "mir",
+      "mich",
+      "sich"
+     ],
+     "r": 1,
+     "k": "Reflexivpronomen",
+     "e": "ich melde mich."
+    },
+    {
+     "o": [
+      "für",
+      "an",
+      "auf"
+     ],
+     "r": 2,
+     "k": "Verb mit Präposition",
+     "e": "hoffen auf."
+    }
+   ]
+  },
+  {
+   "id": "s51",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Einladung zur Teambesprechung",
+   "text": "Hallo zusammen,\n\nam Donnerstag findet unsere monatliche Teambesprechung statt. {{1}} der Tagesordnung stehen die neuen Hygieneregeln und die Urlaubsplanung. Bitte {{2}} Sie Ihre Urlaubswünsche bis Mittwoch ein. Wer nicht teilnehmen kann, {{3}} sich bitte vorher ab. Das Protokoll wird {{4}} nach der Besprechung per E-Mail verschickt. {{5}} wir pünktlich anfangen können, kommen Sie bitte fünf Minuten früher. Ich freue mich {{6}} eine gute Diskussion.\n\nBeste Grüße\nMaria Neumann",
+   "gaps": [
+    {
+     "o": [
+      "Auf",
+      "In",
+      "An"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "auf der Tagesordnung stehen."
+    },
+    {
+     "o": [
+      "reichen",
+      "gereicht",
+      "reicht"
+     ],
+     "r": 0,
+     "k": "Imperativ Sie",
+     "e": "Bitte reichen Sie … ein."
+    },
+    {
+     "o": [
+      "meldest",
+      "meldet",
+      "melden"
+     ],
+     "r": 1,
+     "k": "Konjugation",
+     "e": "wer … meldet sich (3. Person)."
+    },
+    {
+     "o": [
+      "sofort ab",
+      "gerade",
+      "direkt"
+     ],
+     "r": 2,
+     "k": "Wortschatz",
+     "e": "direkt nach der Besprechung."
+    },
+    {
+     "o": [
+      "Obwohl",
+      "Weil",
+      "Damit"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "damit = Ziel."
+    },
+    {
+     "o": [
+      "an",
+      "über",
+      "auf"
+     ],
+     "r": 2,
+     "k": "Verb mit Präposition",
+     "e": "sich freuen auf (Zukunft)."
+    }
+   ]
+  },
+  {
+   "id": "s52",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Reklamation beim Lieferanten",
+   "text": "Sehr geehrte Damen und Herren,\n\nleider haben wir eine falsche Ware erhalten. Statt 200 Paar Handschuhe in Größe M {{1}} Sie uns Größe S geliefert. Wir benötigen die richtige Größe dringend, {{2}} unsere Mitarbeiter sonst nicht arbeiten können. Bitte holen Sie die falsche Ware {{3}} und schicken Sie uns bis Freitag die bestellten Handschuhe. Sollte das nicht möglich sein, {{4}} wir die Bestellung stornieren. Bitte bestätigen Sie den Eingang {{5}} E-Mail. Wir rechnen {{6}} einer schnellen Lösung.\n\nMit freundlichen Grüßen\nEinkauf, Firma Kranz",
+   "gaps": [
+    {
+     "o": [
+      "hat",
+      "haben",
+      "sind"
+     ],
+     "r": 1,
+     "k": "Perfekt",
+     "e": "Sie haben … geliefert."
+    },
+    {
+     "o": [
+      "denn",
+      "da",
+      "deshalb"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "da = weil, Verb am Ende."
+    },
+    {
+     "o": [
+      "ab",
+      "an",
+      "auf"
+     ],
+     "r": 0,
+     "k": "trennbares Verb",
+     "e": "abholen."
+    },
+    {
+     "o": [
+      "müssten",
+      "musste",
+      "müssen"
+     ],
+     "r": 0,
+     "k": "Konjunktiv II",
+     "e": "Sollte …, müssten wir … (höflich)."
+    },
+    {
+     "o": [
+      "dieser",
+      "diese",
+      "diesem"
+     ],
+     "r": 0,
+     "k": "Genitiv",
+     "e": "der Eingang dieser E-Mail."
+    },
+    {
+     "o": [
+      "mit",
+      "auf",
+      "an"
+     ],
+     "r": 0,
+     "k": "Verb mit Präposition",
+     "e": "rechnen mit + Dativ."
+    }
+   ]
+  },
+  {
+   "id": "s53",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Bewerbung: Anschreiben",
+   "text": "Sehr geehrte Damen und Herren,\n\nmit großem Interesse habe ich Ihre Anzeige {{1}} Stelle als Lagerlogistikerin gelesen. Seit drei Jahren arbeite ich in einem Lager, {{2}} ich für den Wareneingang zuständig bin. Zu meinen Aufgaben {{3}} die Kontrolle der Lieferscheine und die Arbeit mit dem Scanner. Ich habe einen Staplerschein und bin es gewohnt, {{4}} Team zu arbeiten. {{5}} Sie mich zu einem Gespräch einladen, würde ich mich sehr freuen. Ich bin ab sofort {{6}}.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "an der",
+      "über die",
+      "für die"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "Anzeige für eine Stelle."
+    },
+    {
+     "o": [
+      "wo",
+      "was",
+      "wann"
+     ],
+     "r": 0,
+     "k": "Relativsatz",
+     "e": "wo = in dem (Ort)."
+    },
+    {
+     "o": [
+      "gehört",
+      "gehören",
+      "gehörten"
+     ],
+     "r": 1,
+     "k": "Konjugation",
+     "e": "Subjekt Plural: die Kontrolle und die Arbeit."
+    },
+    {
+     "o": [
+      "am",
+      "in",
+      "im"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "im Team arbeiten."
+    },
+    {
+     "o": [
+      "Wenn",
+      "Ob",
+      "Als"
+     ],
+     "r": 0,
+     "k": "Nebensatz",
+     "e": "wenn = Bedingung."
+    },
+    {
+     "o": [
+      "verfügbar",
+      "möglich",
+      "erreichbar"
+     ],
+     "r": 0,
+     "k": "Wortschatz",
+     "e": "ab sofort verfügbar."
+    }
+   ]
+  },
+  {
+   "id": "s54",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Information an Angehörige",
+   "text": "Liebe Angehörige,\n\nab nächster Woche gelten neue Besuchszeiten. Besuche sind {{1}} von 14 bis 19 Uhr möglich. {{2}} der Ruhe unserer Bewohner bitten wir Sie, die Zeiten einzuhalten. Kinder unter 12 Jahren dürfen nur in Begleitung {{3}} Erwachsenen kommen. Bitte melden Sie sich bei Ankunft am Empfang, {{4}} wir wissen, wer im Haus ist. Bei Fragen wenden Sie sich bitte {{5}} die Wohnbereichsleitung. Vielen Dank {{6}} Ihre Mithilfe.\n\nIhre Heimleitung",
+   "gaps": [
+    {
+     "o": [
+      "täglich",
+      "jährlich",
+      "stündlich"
+     ],
+     "r": 0,
+     "k": "Wortschatz",
+     "e": "täglich = jeden Tag."
+    },
+    {
+     "o": [
+      "Statt",
+      "Trotz",
+      "Wegen"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "wegen der Ruhe."
+    },
+    {
+     "o": [
+      "einen",
+      "eines",
+      "einem"
+     ],
+     "r": 1,
+     "k": "Genitiv",
+     "e": "in Begleitung eines Erwachsenen."
+    },
+    {
+     "o": [
+      "sodass",
+      "damit",
+      "obwohl"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "damit = Ziel."
+    },
+    {
+     "o": [
+      "bei",
+      "an",
+      "zu"
+     ],
+     "r": 1,
+     "k": "Verb mit Präposition",
+     "e": "sich wenden an + Akk."
+    },
+    {
+     "o": [
+      "an",
+      "über",
+      "für"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "Dank für."
+    }
+   ]
+  },
+  {
+   "id": "s55",
+   "ex": [
+    "DTB"
+   ],
+   "t": "E-Mail an den IT-Service",
+   "text": "Hallo Herr Peters,\n\nseit heute Morgen kann ich mich nicht mehr {{1}} System anmelden. Ich habe mein Passwort schon zweimal geändert, {{2}} es funktioniert immer noch nicht. Die Fehlermeldung lautet: „Benutzer gesperrt\". Ich vermute, {{3}} das mit dem Update von gestern zusammenhängt. Ohne Zugang {{4}} ich keine Aufträge bearbeiten. Könnten Sie sich das bitte so schnell wie möglich {{5}}? Sie erreichen mich {{6}} Durchwahl 245.\n\nDanke und viele Grüße\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "in",
+      "am",
+      "im"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "sich im System anmelden."
+    },
+    {
+     "o": [
+      "aber",
+      "oder",
+      "denn"
+     ],
+     "r": 0,
+     "k": "Konnektor",
+     "e": "aber = Gegensatz."
+    },
+    {
+     "o": [
+      "was",
+      "dass",
+      "ob"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "vermuten, dass …"
+    },
+    {
+     "o": [
+      "konnte",
+      "könne",
+      "kann"
+     ],
+     "r": 2,
+     "k": "Modalverb",
+     "e": "Präsens: ich kann."
+    },
+    {
+     "o": [
+      "ansehen",
+      "absehen",
+      "aussehen"
+     ],
+     "r": 0,
+     "k": "trennbares Verb",
+     "e": "sich etwas ansehen."
+    },
+    {
+     "o": [
+      "mit der",
+      "an der",
+      "unter der"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "unter der Durchwahl erreichbar."
+    }
+   ]
+  },
+  {
+   "id": "s56",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Protokoll einer Besprechung",
+   "text": "Protokoll der Teamsitzung vom 14.10.\n\nAnwesend: 8 Personen. Frau Ott eröffnete die Sitzung und begrüßte {{1}} neue Kollegin. Danach wurde {{2}} die Urlaubsplanung gesprochen. Es wurde beschlossen, {{3}} im Dezember höchstens zwei Personen gleichzeitig Urlaub nehmen. Herr Yilmaz wies darauf hin, {{4}} der Drucker im Lager defekt ist. Ein neues Gerät {{5}} nächste Woche bestellt. Die nächste Sitzung findet am 11.11. statt. Das Protokoll {{6}} von Frau Iwanowa geschrieben.",
+   "gaps": [
+    {
+     "o": [
+      "die",
+      "der",
+      "den"
+     ],
+     "r": 0,
+     "k": "Artikel Akkusativ",
+     "e": "begrüßen + Akk.: die neue Kollegin."
+    },
+    {
+     "o": [
+      "über",
+      "von",
+      "um"
+     ],
+     "r": 0,
+     "k": "Verb mit Präposition",
+     "e": "sprechen über."
+    },
+    {
+     "o": [
+      "dass",
+      "damit",
+      "ob"
+     ],
+     "r": 0,
+     "k": "Nebensatz",
+     "e": "beschließen, dass …"
+    },
+    {
+     "o": [
+      "ob",
+      "wenn",
+      "dass"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "darauf hinweisen, dass …"
+    },
+    {
+     "o": [
+      "werden",
+      "wurden",
+      "wird"
+     ],
+     "r": 2,
+     "k": "Passiv",
+     "e": "ein Gerät wird bestellt (Zukunft)."
+    },
+    {
+     "o": [
+      "wird",
+      "würde",
+      "wurde"
+     ],
+     "r": 2,
+     "k": "Passiv Präteritum",
+     "e": "wurde geschrieben."
+    }
+   ]
+  },
+  {
+   "id": "s57",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Absage eines Termins",
+   "text": "Sehr geehrte Frau Dr. Lang,\n\nleider muss ich unseren Termin am Dienstag absagen, {{1}} ich an diesem Tag eine Fortbildung habe. Das tut mir sehr leid. Wäre es möglich, das Gespräch {{2}} nächste Woche zu verschieben? Ich könnte am Montag oder Mittwoch, jeweils {{3}} 10 Uhr. Falls keiner der Termine passt, {{4}} Sie mir gern einen anderen Vorschlag. Die Unterlagen, {{5}} Sie mich gebeten hatten, schicke ich Ihnen schon heute. Ich bitte nochmals um {{6}}.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "deshalb",
+      "weil",
+      "denn"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "weil: Verb am Ende."
+    },
+    {
+     "o": [
+      "um",
+      "in",
+      "auf"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "verschieben auf."
+    },
+    {
+     "o": [
+      "seit",
+      "ab",
+      "bis"
+     ],
+     "r": 1,
+     "k": "Zeit",
+     "e": "ab 10 Uhr."
+    },
+    {
+     "o": [
+      "machen",
+      "machten",
+      "macht"
+     ],
+     "r": 0,
+     "k": "Imperativ Sie",
+     "e": "… machen Sie mir … (Verb vorne)."
+    },
+    {
+     "o": [
+      "für die",
+      "über die",
+      "um die"
+     ],
+     "r": 2,
+     "k": "Relativsatz",
+     "e": "bitten um → um die."
+    },
+    {
+     "o": [
+      "Entschuldigung",
+      "Entschuldigt",
+      "Entschuldigen"
+     ],
+     "r": 0,
+     "k": "Wortbildung",
+     "e": "um Entschuldigung bitten (Nomen)."
+    }
+   ]
+  },
+  {
+   "id": "s58",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Hinweis zur Arbeitssicherheit",
+   "text": "Liebe Mitarbeiterinnen und Mitarbeiter,\n\nin letzter Zeit ist es {{1}} Unfällen im Lager gekommen. Deshalb möchten wir Sie noch einmal auf die wichtigsten Regeln hinweisen. Sicherheitsschuhe {{2}} während der Arbeit immer getragen werden. Die Fluchtwege dürfen {{3}} Fall zugestellt werden. Wer einen Schaden bemerkt, muss ihn sofort {{4}}. Nur Mitarbeiter, {{5}} einen Staplerschein haben, dürfen den Stapler fahren. Wir zählen {{6}} Ihre Unterstützung.\n\nIhre Geschäftsführung",
+   "gaps": [
+    {
+     "o": [
+      "zu",
+      "mit",
+      "bei"
+     ],
+     "r": 0,
+     "k": "Redewendung",
+     "e": "es kommt zu + Dativ."
+    },
+    {
+     "o": [
+      "muss",
+      "musste",
+      "müssen"
+     ],
+     "r": 2,
+     "k": "Passiv mit Modalverb",
+     "e": "Plural: müssen getragen werden."
+    },
+    {
+     "o": [
+      "auf keinen",
+      "unter keinem",
+      "in keinem"
+     ],
+     "r": 0,
+     "k": "Redewendung",
+     "e": "auf keinen Fall."
+    },
+    {
+     "o": [
+      "melden",
+      "gemeldet",
+      "meldet"
+     ],
+     "r": 0,
+     "k": "Infinitiv",
+     "e": "muss … melden."
+    },
+    {
+     "o": [
+      "deren",
+      "die",
+      "denen"
+     ],
+     "r": 1,
+     "k": "Relativsatz",
+     "e": "Nominativ Plural: die."
+    },
+    {
+     "o": [
+      "auf",
+      "mit",
+      "an"
+     ],
+     "r": 0,
+     "k": "Verb mit Präposition",
+     "e": "zählen auf."
+    }
+   ]
+  },
+  {
+   "id": "s59",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Übergabe an die Kollegin",
+   "text": "Hallo Nina,\n\nhier die wichtigsten Infos für deine Schicht. Herr Braun aus Zimmer 12 hat heute kaum gegessen. Bitte achte darauf, {{1}} er genug trinkt. Frau Klose hat {{2}} Mittag über Schmerzen im Knie geklagt. Die Ärztin kommt morgen früh, {{3}} sie sich das ansieht. Die Medikamente für die Nacht sind schon {{4}}. Ruf mich gern an, {{5}} etwas unklar ist. Ich bin bis 22 Uhr {{6}}.\n\nLG Olga",
+   "gaps": [
+    {
+     "o": [
+      "ob",
+      "damit",
+      "dass"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "achten darauf, dass …"
+    },
+    {
+     "o": [
+      "ab",
+      "vor",
+      "seit"
+     ],
+     "r": 2,
+     "k": "Zeit",
+     "e": "seit Mittag (bis jetzt)."
+    },
+    {
+     "o": [
+      "obwohl",
+      "damit",
+      "weil"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "damit = Ziel."
+    },
+    {
+     "o": [
+      "bereitet vor",
+      "vorbereiten",
+      "vorbereitet"
+     ],
+     "r": 2,
+     "k": "Partizip",
+     "e": "sind vorbereitet (Zustandspassiv)."
+    },
+    {
+     "o": [
+      "ob",
+      "falls",
+      "dass"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "falls = wenn."
+    },
+    {
+     "o": [
+      "verfügbar",
+      "möglich",
+      "erreichbar"
+     ],
+     "r": 2,
+     "k": "Wortschatz",
+     "e": "telefonisch erreichbar."
+    }
+   ]
+  },
+  {
+   "id": "s60",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief an die Hausverwaltung",
+   "text": "Sehr geehrte Damen und Herren,\n\nich wohne seit zwei Jahren {{1}} der Lindenstraße 8. Seit einer Woche funktioniert die Heizung in meiner Wohnung nicht. Ich habe schon dreimal beim Hausmeister angerufen, {{2}} niemand ist gekommen. Meine Kinder sind {{3}} Kälte schon krank geworden. Bitte schicken Sie {{4}} schnell wie möglich einen Handwerker. Ich bin jeden Tag {{5}} 15 Uhr zu Hause. Wenn bis Freitag nichts passiert, werde ich die Miete {{6}}.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "auf",
+      "in",
+      "an"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "in der Straße wohnen."
+    },
+    {
+     "o": [
+      "denn",
+      "aber",
+      "weil"
+     ],
+     "r": 1,
+     "k": "Konnektor",
+     "e": "aber = Gegensatz."
+    },
+    {
+     "o": [
+      "statt der",
+      "wegen der",
+      "trotz der"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "wegen der Kälte."
+    },
+    {
+     "o": [
+      "wie",
+      "als",
+      "so"
+     ],
+     "r": 2,
+     "k": "Vergleich",
+     "e": "so schnell wie möglich."
+    },
+    {
+     "o": [
+      "ab",
+      "seit",
+      "um"
+     ],
+     "r": 0,
+     "k": "Zeit",
+     "e": "ab 15 Uhr."
+    },
+    {
+     "o": [
+      "gemindert",
+      "mindert",
+      "mindern"
+     ],
+     "r": 2,
+     "k": "Infinitiv",
+     "e": "werde … mindern."
+    }
+   ]
+  },
+  {
+   "id": "s61",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Entschuldigung für die Schule",
+   "text": "Sehr geehrte Frau Krüger,\n\nmein Sohn Maxim konnte gestern nicht {{1}} Unterricht kommen, weil er hohes Fieber hatte. Wir waren beim Kinderarzt, {{2}} hat ihn bis Freitag krankgeschrieben. Können Sie mir bitte sagen, {{3}} Hausaufgaben er machen soll? Seine Freundin Lena kann {{4}} die Arbeitsblätter mitbringen. {{5}} Maxim wieder gesund ist, kommt er natürlich wieder in die Schule. Vielen Dank {{6}} voraus.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "zum",
+      "beim",
+      "im"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "zum Unterricht kommen."
+    },
+    {
+     "o": [
+      "dem",
+      "der",
+      "den"
+     ],
+     "r": 1,
+     "k": "Relativpronomen",
+     "e": "der Kinderarzt, der …"
+    },
+    {
+     "o": [
+      "welches",
+      "welcher",
+      "welche"
+     ],
+     "r": 2,
+     "k": "indirekte Frage",
+     "e": "welche Hausaufgaben (Plural)."
+    },
+    {
+     "o": [
+      "ihm",
+      "er",
+      "ihn"
+     ],
+     "r": 0,
+     "k": "Dativ",
+     "e": "jemandem etwas mitbringen."
+    },
+    {
+     "o": [
+      "Sobald",
+      "Seit",
+      "Bevor"
+     ],
+     "r": 0,
+     "k": "Nebensatz",
+     "e": "sobald = gleich wenn."
+    },
+    {
+     "o": [
+      "am",
+      "zum",
+      "im"
+     ],
+     "r": 2,
+     "k": "Redemittel",
+     "e": "vielen Dank im Voraus."
+    }
+   ]
+  },
+  {
+   "id": "s62",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachricht an die Nachbarin",
+   "text": "Liebe Frau Schmidt,\n\nwir fahren ab Samstag {{1}} zwei Wochen in den Urlaub. Könnten Sie {{2}} bitte unsere Blumen gießen? Den Schlüssel gebe ich Ihnen am Freitag. Die Post können Sie {{3}} den Tisch im Flur legen. {{4}} etwas passiert, erreichen Sie uns unter 0151 2345678. Als Dankeschön bringen wir Ihnen etwas {{5}} Italien mit. Wir freuen uns schon {{6}} die Reise.\n\nViele Grüße\nOlga und Familie",
+   "gaps": [
+    {
+     "o": [
+      "um",
+      "seit",
+      "für"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "für zwei Wochen (Dauer in der Zukunft)."
+    },
+    {
+     "o": [
+      "vielleicht",
+      "darum",
+      "deshalb"
+     ],
+     "r": 0,
+     "k": "Partikel",
+     "e": "Könnten Sie vielleicht … (höflich)."
+    },
+    {
+     "o": [
+      "in",
+      "auf",
+      "an"
+     ],
+     "r": 1,
+     "k": "Wechselpräposition",
+     "e": "wohin? → auf den Tisch."
+    },
+    {
+     "o": [
+      "Ob",
+      "Falls",
+      "Obwohl"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "falls = wenn."
+    },
+    {
+     "o": [
+      "nach",
+      "von",
+      "aus"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "aus einem Land mitbringen."
+    },
+    {
+     "o": [
+      "über",
+      "an",
+      "auf"
+     ],
+     "r": 2,
+     "k": "Verb mit Präposition",
+     "e": "sich freuen auf (Zukunft)."
+    }
+   ]
+  },
+  {
+   "id": "s63",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anmeldung zum Sprachkurs",
+   "text": "Sehr geehrte Damen und Herren,\n\nich möchte mich {{1}} den B2-Kurs am Abend anmelden. Ich arbeite tagsüber, {{2}} kann ich nur nach 17 Uhr. Ich habe im Juni die B1-Prüfung {{3}}. Bitte schicken Sie mir Informationen über die Kosten und die Termine. Ist es möglich, die Kursgebühr {{4}} Raten zu bezahlen? Außerdem würde ich gern wissen, {{5}} der Kurs auch online angeboten wird. Ich danke Ihnen {{6}} Voraus.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "für",
+      "an",
+      "zu"
+     ],
+     "r": 0,
+     "k": "Verb mit Präposition",
+     "e": "sich anmelden für."
+    },
+    {
+     "o": [
+      "weil",
+      "deshalb",
+      "obwohl"
+     ],
+     "r": 1,
+     "k": "Konnektor",
+     "e": "deshalb + Verb auf Position 2."
+    },
+    {
+     "o": [
+      "bestanden",
+      "bestehen",
+      "besteht"
+     ],
+     "r": 0,
+     "k": "Perfekt",
+     "e": "habe … bestanden."
+    },
+    {
+     "o": [
+      "in",
+      "mit",
+      "auf"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "in Raten bezahlen."
+    },
+    {
+     "o": [
+      "wann",
+      "dass",
+      "ob"
+     ],
+     "r": 2,
+     "k": "indirekte Frage",
+     "e": "ja/nein → ob."
+    },
+    {
+     "o": [
+      "zum",
+      "am",
+      "im"
+     ],
+     "r": 2,
+     "k": "Redemittel",
+     "e": "im Voraus."
+    }
+   ]
+  },
+  {
+   "id": "s64",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Mail an den Vermieter: Wasserschaden",
+   "text": "Sehr geehrter Herr Wolf,\n\nheute Morgen habe ich bemerkt, dass Wasser {{1}} der Decke im Badezimmer tropft. Ich glaube, das Problem kommt aus der Wohnung {{2}} mir. Die Nachbarn sind leider im Urlaub. Ich habe einen Eimer {{3}} den Boden gestellt. Bitte kümmern Sie sich {{4}} darum, denn der Schaden wird immer größer. Ich habe Fotos gemacht, {{5}} ich Ihnen gern schicke. Bitte rufen Sie mich {{6}}.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "aus",
+      "von",
+      "an"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "von der Decke tropfen."
+    },
+    {
+     "o": [
+      "auf",
+      "über",
+      "an"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "die Wohnung über mir."
+    },
+    {
+     "o": [
+      "in",
+      "an",
+      "auf"
+     ],
+     "r": 2,
+     "k": "Wechselpräposition",
+     "e": "wohin? → auf den Boden."
+    },
+    {
+     "o": [
+      "dringlich",
+      "dringend",
+      "eilig"
+     ],
+     "r": 1,
+     "k": "Wortschatz",
+     "e": "sich dringend kümmern."
+    },
+    {
+     "o": [
+      "deren",
+      "denen",
+      "die"
+     ],
+     "r": 2,
+     "k": "Relativsatz",
+     "e": "Fotos (Akk. Plural), die …"
+    },
+    {
+     "o": [
+      "an",
+      "zurück",
+      "wieder"
+     ],
+     "r": 1,
+     "k": "trennbares Verb",
+     "e": "zurückrufen."
+    }
+   ]
+  },
+  {
+   "id": "s65",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kündigung des Fitnessstudios",
+   "text": "Sehr geehrte Damen und Herren,\n\nhiermit kündige ich meinen Vertrag {{1}} Mitgliedsnummer 45812 fristgerecht zum 31. Dezember. Ich ziehe {{2}} eine andere Stadt und kann das Studio nicht mehr nutzen. Bitte bestätigen Sie mir die Kündigung {{3}}. Ich bitte Sie außerdem, ab Januar kein Geld mehr {{4}} meinem Konto abzubuchen. {{5}} ich noch Unterlagen schicken muss, informieren Sie mich bitte. Vielen Dank für die schöne Zeit {{6}} Ihrem Studio.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "für die",
+      "von der",
+      "mit der"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "Vertrag mit der Nummer …"
+    },
+    {
+     "o": [
+      "in",
+      "zu",
+      "nach"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "in eine andere Stadt ziehen."
+    },
+    {
+     "o": [
+      "geschrieben",
+      "schreibend",
+      "schriftlich"
+     ],
+     "r": 2,
+     "k": "Wortschatz",
+     "e": "schriftlich = auf Papier/per Mail."
+    },
+    {
+     "o": [
+      "von",
+      "bei",
+      "aus"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "von einem Konto abbuchen."
+    },
+    {
+     "o": [
+      "Dass",
+      "Falls",
+      "Ob"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "falls = wenn."
+    },
+    {
+     "o": [
+      "bei",
+      "an",
+      "in"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "in Ihrem Studio."
+    }
+   ]
+  },
+  {
+   "id": "s66",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Beschwerde beim Busunternehmen",
+   "text": "Sehr geehrte Damen und Herren,\n\nich fahre jeden Morgen {{1}} der Linie 7 zur Arbeit. In den letzten zwei Wochen ist der Bus fünfmal zu spät gekommen. {{2}} bin ich mehrmals zu spät zur Arbeit gekommen und habe Ärger mit meinem Chef bekommen. Außerdem ist der Bus morgens so voll, {{3}} man kaum einsteigen kann. Ich bitte Sie, {{4}} Problem zu prüfen. Vielleicht wäre es möglich, morgens einen {{5}} Bus einzusetzen. Ich hoffe auf eine {{6}} Antwort.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "auf",
+      "in",
+      "mit"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "mit dem Bus / mit der Linie fahren."
+    },
+    {
+     "o": [
+      "Obwohl",
+      "Weil",
+      "Deshalb"
+     ],
+     "r": 2,
+     "k": "Konnektor",
+     "e": "deshalb + Verb auf Position 2."
+    },
+    {
+     "o": [
+      "weil",
+      "damit",
+      "dass"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "so …, dass."
+    },
+    {
+     "o": [
+      "dem",
+      "das",
+      "der"
+     ],
+     "r": 1,
+     "k": "Artikel Akkusativ",
+     "e": "prüfen + Akk.: das Problem."
+    },
+    {
+     "o": [
+      "zusätzlichen",
+      "zusätzliches",
+      "zusätzlicher"
+     ],
+     "r": 0,
+     "k": "Adjektivendung",
+     "e": "einen zusätzlichen Bus (Akk. mask.)."
+    },
+    {
+     "o": [
+      "baldigen",
+      "baldige",
+      "baldiger"
+     ],
+     "r": 1,
+     "k": "Adjektivendung",
+     "e": "eine baldige Antwort."
+    }
+   ]
+  },
+  {
+   "id": "s67",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Einladung zum Elternabend",
+   "text": "Liebe Eltern,\n\nhiermit laden wir Sie herzlich {{1}} Elternabend der Klasse 4b ein. Er findet am Dienstag, 12. März, um 19 Uhr {{2}} Raum 108 statt. Wir möchten mit Ihnen über die Klassenfahrt sprechen, {{3}} im Mai geplant ist. Außerdem stellen wir Ihnen die neue Lehrerin {{4}}. Bitte teilen Sie uns bis Freitag mit, {{5}} Sie kommen können. Wir freuen uns {{6}} Ihr Kommen.\n\nKlassenleitung 4b",
+   "gaps": [
+    {
+     "o": [
+      "zur",
+      "zum",
+      "beim"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "einladen zu + Dativ: zum Elternabend."
+    },
+    {
+     "o": [
+      "auf",
+      "in",
+      "an"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "in Raum 108."
+    },
+    {
+     "o": [
+      "das",
+      "die",
+      "der"
+     ],
+     "r": 1,
+     "k": "Relativpronomen",
+     "e": "die Klassenfahrt, die …"
+    },
+    {
+     "o": [
+      "vor",
+      "zu",
+      "an"
+     ],
+     "r": 0,
+     "k": "trennbares Verb",
+     "e": "vorstellen."
+    },
+    {
+     "o": [
+      "wenn",
+      "dass",
+      "ob"
+     ],
+     "r": 2,
+     "k": "indirekte Frage",
+     "e": "ob = ja/nein."
+    },
+    {
+     "o": [
+      "auf",
+      "für",
+      "über"
+     ],
+     "r": 0,
+     "k": "Verb mit Präposition",
+     "e": "sich freuen auf (Zukunft)."
+    }
+   ]
+  },
+  {
+   "id": "s68",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Mail an die Krankenkasse",
+   "text": "Sehr geehrte Damen und Herren,\n\nich habe {{1}} Monaten einen neuen Job und verdiene jetzt mehr. Deshalb möchte ich wissen, {{2}} sich mein Beitrag ändert. Mein Arbeitgeber hat mich schon {{3}} angemeldet. Außerdem brauche ich eine neue Versichertenkarte, {{4}} meine alte kaputt ist. Bitte schicken Sie die neue Karte {{5}} meine neue Adresse: Gartenweg 3, 28195 Bremen. Für Ihre Hilfe bedanke ich {{6}} im Voraus.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "vor zwei",
+      "seit zwei",
+      "ab zwei"
+     ],
+     "r": 1,
+     "k": "Zeit",
+     "e": "seit = bis jetzt."
+    },
+    {
+     "o": [
+      "dass",
+      "ob",
+      "wenn"
+     ],
+     "r": 1,
+     "k": "indirekte Frage",
+     "e": "ob sich … ändert."
+    },
+    {
+     "o": [
+      "von Ihnen",
+      "zu Ihnen",
+      "bei Ihnen"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "bei der Krankenkasse anmelden."
+    },
+    {
+     "o": [
+      "denn",
+      "deshalb",
+      "weil"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "weil: Verb am Ende."
+    },
+    {
+     "o": [
+      "an",
+      "zu",
+      "nach"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "an eine Adresse schicken."
+    },
+    {
+     "o": [
+      "mir",
+      "mich",
+      "sich"
+     ],
+     "r": 1,
+     "k": "Reflexivpronomen",
+     "e": "ich bedanke mich."
+    }
+   ]
+  },
+  {
+   "id": "s69",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Mitteilung an die Kita",
+   "text": "Liebe Frau Engel,\n\nab Montag holt nicht ich, {{1}} meine Schwester Irina unsere Tochter Mia ab. Ich habe eine neue Stelle und arbeite jetzt {{2}} 17 Uhr. Irina hat {{3}} Ausweis dabei, falls Sie ihn sehen möchten. Mia hat {{4}} Allergie gegen Nüsse, das wissen Sie ja schon. Bitte geben Sie Irina auch den Zettel {{5}} das Sommerfest mit. Wenn Sie Fragen haben, können Sie mich jederzeit {{6}}.\n\nViele Grüße\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "sondern",
+      "aber",
+      "oder"
+     ],
+     "r": 0,
+     "k": "Konnektor",
+     "e": "nicht …, sondern …"
+    },
+    {
+     "o": [
+      "bis",
+      "seit",
+      "ab"
+     ],
+     "r": 0,
+     "k": "Zeit",
+     "e": "bis 17 Uhr arbeiten."
+    },
+    {
+     "o": [
+      "ihre",
+      "ihrem",
+      "ihren"
+     ],
+     "r": 2,
+     "k": "Possessivartikel Akk.",
+     "e": "den Ausweis → ihren Ausweis."
+    },
+    {
+     "o": [
+      "einen",
+      "einer",
+      "eine"
+     ],
+     "r": 2,
+     "k": "Artikel Akk.",
+     "e": "die Allergie → eine Allergie."
+    },
+    {
+     "o": [
+      "über",
+      "für",
+      "um"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "der Zettel für das Sommerfest."
+    },
+    {
+     "o": [
+      "anruft",
+      "anrufen",
+      "angerufen"
+     ],
+     "r": 1,
+     "k": "Infinitiv",
+     "e": "können … anrufen."
+    }
+   ]
+  }
+ ],
+ "lesen": [
+  {
+   "id": "r23",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Aushang im Betrieb",
+   "anweisung": "Lesen Sie die Aushänge. Welche Antwort ist richtig?",
+   "texte": [
+    {
+     "k": "Aushänge",
+     "text": "A) Betriebsarzt: Grippeimpfung am 12.11. von 9–12 Uhr, Raum 014. Anmeldung bis 8.11. beim Empfang.\nB) Kantine: Wegen Umbau vom 4. bis 15.11. geschlossen. Essensgutscheine für das Café am Markt gibt es im Personalbüro.\nC) Betriebsrat: Sprechstunde jeden Dienstag 13–14 Uhr, Raum 210. Termine auch per Mail.\nD) Parkplatz: Ab 1.12. nur noch mit Parkausweis. Anträge bis 20.11. bei der Hausverwaltung."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten sich impfen lassen. Bis wann müssen Sie sich anmelden?",
+     "o": [
+      "8.11.",
+      "12.11.",
+      "20.11."
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wo bekommen Sie Gutscheine für das Mittagessen?",
+     "o": [
+      "in der Kantine",
+      "im Personalbüro",
+      "beim Empfang"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wann ist der Betriebsrat erreichbar?",
+     "o": [
+      "dienstags mittags",
+      "nur per Mail",
+      "jeden Tag"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was brauchen Sie ab Dezember zum Parken?",
+     "o": [
+      "einen Parkausweis",
+      "einen Gutschein",
+      "eine Mail"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Stellenanzeigen",
+   "anweisung": "Welche Anzeige passt zu der Person?",
+   "texte": [
+    {
+     "k": "Anzeigen",
+     "text": "A) Pflegehelfer/in (Teilzeit, 20 Std.), nur Frühdienst, Pflegeheim Sonnenhof.\nB) Lagerhelfer/in, Vollzeit, Schichtdienst, Staplerschein erforderlich.\nC) Bürokraft (m/w/d), Minijob, Mo–Mi vormittags, gute PC-Kenntnisse.\nD) Pflegefachkraft, Vollzeit, Nachtdienst, Zuschläge, Fortbildung möglich."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Frau Petrova hat kleine Kinder und kann nur vormittags 20 Stunden arbeiten. Sie hat Erfahrung in der Pflege.",
+     "o": [
+      "A",
+      "C",
+      "D"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Herr Kaya hat einen Staplerschein und möchte Vollzeit arbeiten.",
+     "o": [
+      "A",
+      "B",
+      "D"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Frau Lenz ist examinierte Pflegerin und möchte sich weiterbilden.",
+     "o": [
+      "A",
+      "C",
+      "D"
+     ],
+     "r": 2
+    },
+    {
+     "q": "Herr Novak sucht einen Nebenjob im Büro.",
+     "o": [
+      "B",
+      "C",
+      "D"
+     ],
+     "r": 1
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Hausordnung",
+   "anweisung": "Lesen Sie die Hausordnung. Richtig oder falsch?",
+   "texte": [
+    {
+     "k": "Hausordnung (Auszug)",
+     "text": "Ruhezeiten: 22–6 Uhr und sonntags. Fahrräder bitte nur im Fahrradkeller abstellen. Grillen auf dem Balkon nur mit Elektrogrill. Der Müll wird getrennt: Papier (blau), Verpackungen (gelb), Bio (braun), Restmüll (grau). Die Treppenhausreinigung übernimmt jede Partei abwechselnd laut Plan im Erdgeschoss."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Man darf sein Fahrrad im Treppenhaus abstellen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Mit einem Holzkohlegrill darf man auf dem Balkon grillen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Joghurtbecher gehören in die gelbe Tonne.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Der Putzplan hängt im Erdgeschoss.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Angebote der Volkshochschule",
+   "anweisung": "Welcher Kurs passt?",
+   "texte": [
+    {
+     "k": "VHS-Programm",
+     "text": "A) Deutsch für den Beruf B2 – Mo/Mi 18–21 Uhr, mit Prüfung DTB.\nB) Computer für Anfänger – Sa 9–13 Uhr, 4 Termine.\nC) Bewerbungstraining – Do 17–20 Uhr, Lebenslauf und Vorstellungsgespräch.\nD) Erste Hilfe – Fr 16–20 Uhr, für den Führerschein anerkannt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie brauchen den Erste-Hilfe-Kurs für den Führerschein.",
+     "o": [
+      "B",
+      "C",
+      "D"
+     ],
+     "r": 2
+    },
+    {
+     "q": "Sie möchten das B2-Zertifikat für den Beruf machen.",
+     "o": [
+      "A",
+      "B",
+      "C"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Sie möchten lernen, wie man ein Vorstellungsgespräch führt.",
+     "o": [
+      "A",
+      "C",
+      "D"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Sie können nur am Wochenende und möchten E-Mails schreiben lernen.",
+     "o": [
+      "A",
+      "B",
+      "D"
+     ],
+     "r": 1
+    }
+   ]
+  }
+ ]
+}

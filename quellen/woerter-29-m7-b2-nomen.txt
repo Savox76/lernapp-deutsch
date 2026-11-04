@@ -1,0 +1,111 @@
+# M7 B2: abstrakte Nomen und Nominalisierungen
+Abhängigkeit|die|Abhängigkeiten|N|зависимость|wenn man etwas oder jemanden braucht|Die Abhängigkeit vom Auto ist auf dem Land groß.|B2|Gesellschaft
+Ablehnung|die|Ablehnungen|N|отказ, неприятие|Nein zu etwas sagen|Die Ablehnung des Antrags kam per Post.|B2|Behörden
+Abwechslung|die|-|N|разнообразие|etwas anderes als sonst|Die Arbeit bietet viel Abwechslung.|B2|Arbeit
+Achtung|die|-|N|уважение|Respekt|Er behandelt alle mit Achtung.|B2|Gesellschaft
+Alternative|die|Alternativen|N|альтернатива|andere Möglichkeit|Gibt es eine Alternative?|B2|Meinung
+Analyse|die|Analysen|N|анализ|genaue Untersuchung|Die Analyse zeigt einige Probleme.|B2|Arbeit
+Änderung|die|Änderungen|N|изменение|wenn etwas anders wird|Es gibt eine Änderung im Dienstplan.|B1|Arbeit
+Angelegenheit|die|Angelegenheiten|N|дело, вопрос|Sache, Thema|Das ist eine private Angelegenheit.|B2|Alltag
+Annahme|die|Annahmen|N|предположение; приём|Vermutung; das Annehmen|Ihre Annahme ist falsch.|B2|Meinung
+Anpassung|die|Anpassungen|N|адаптация, корректировка|etwas passend machen|Die Anpassung an die neue Kultur braucht Zeit.|B2|Gesellschaft
+Anstieg|der|Anstiege|N|рост, подъём|wenn etwas mehr wird|Es gibt einen starken Anstieg der Preise.|B2|Wirtschaft
+Antrieb|der|-|N|движущая сила, мотивация|was jemanden motiviert|Meine Kinder sind mein größter Antrieb.|B2|Gefühle
+Anwendung|die|Anwendungen|N|применение; приложение|Gebrauch; Programm|Die Anwendung ist einfach.|B2|Technik
+Atmosphäre|die|-|N|атмосфера|Stimmung|Im Team herrscht eine gute Atmosphäre.|B2|Arbeit
+Aufmerksamkeit|die|-|N|внимание|Konzentration auf etwas|Vielen Dank für Ihre Aufmerksamkeit.|B2|Alltag
+Aufklärung|die|-|N|информирование, разъяснение|Information über ein Thema|Es braucht mehr Aufklärung über Gesundheit.|B2|Gesellschaft
+Ausbildungsplatz|der|-|N|место для профобучения|Stelle für eine Ausbildung|Er sucht einen Ausbildungsplatz.|B2|Bildung
+Auslöser|der|-|N|пусковой фактор, причина|was etwas startet|Stress war der Auslöser für die Krankheit.|B2|Gesundheit
+Ausstattung|die|-|N|оснащение|alle Geräte und Möbel|Die Ausstattung der Wohnung ist modern.|B2|Wohnen
+Auswahl|die|-|N|выбор|Möglichkeit zu wählen|Die Auswahl ist groß.|B1|Einkaufen
+Befürchtung|die|Befürchtungen|N|опасение|Angst, dass etwas passiert|Meine Befürchtung war richtig.|B2|Gefühle
+Begeisterung|die|-|N|восторг, воодушевление|große Freude|Die Kinder spielen mit Begeisterung.|B2|Gefühle
+Begegnung|die|Begegnungen|N|встреча|Treffen mit jemandem|Das war eine schöne Begegnung.|B2|Alltag
+Begriff|der|Begriffe|N|понятие, термин|Wort für etwas|Kennen Sie diesen Begriff?|B2|Bildung
+Beratungsstelle|die|-|N|консультационный центр|Ort, wo man Rat bekommt|Die Beratungsstelle hilft kostenlos.|B2|Behörden
+Bereich|der|Bereiche|N|область, сфера|Teil, Gebiet|In welchem Bereich arbeiten Sie?|B1|Arbeit
+Beschreibung|die|Beschreibungen|N|описание|Text, der etwas beschreibt|Die Beschreibung der Wohnung stimmt nicht.|B1|Alltag
+Besonderheit|die|Besonderheiten|N|особенность|etwas Besonderes|Eine Besonderheit von Dresden ist die Elbe.|B2|Alltag
+Beteiligung|die|-|N|участие|das Mitmachen|Die Beteiligung an der Wahl war hoch.|B2|Gesellschaft
+Betreuung|die|-|N|присмотр, уход|Pflege, Aufsicht|Die Betreuung der Kinder ist gesichert.|B2|Familie
+Bewegung|die|Bewegungen|N|движение|das Bewegen|Bewegung ist gut für die Gesundheit.|B1|Gesundheit
+Bildung|die|-|N|образование|Wissen, Schule, Ausbildung|Bildung ist der Schlüssel zum Erfolg.|B1|Bildung
+Dienstleistung|die|Dienstleistungen|N|услуга|Arbeit für Kunden|Die Firma bietet viele Dienstleistungen an.|B2|Wirtschaft
+Druck|der|-|N|давление; печать|Stress; das Drucken|Ich stehe unter großem Druck.|B1|Gefühle
+Durchführung|die|-|N|проведение|wie etwas gemacht wird|Die Durchführung der Prüfung ist streng geregelt.|B2|Arbeit
+Eigenschaft|die|Eigenschaften|N|качество, свойство|Merkmal eines Menschen|Geduld ist eine gute Eigenschaft.|B2|Charakter
+Eindruck|der|Eindrücke|N|впечатление|was man über jemanden denkt|Sie hat einen guten Eindruck gemacht.|B1|Meinung
+Einführung|die|Einführungen|N|введение|Beginn, Erklärung von Neuem|Die Einführung der neuen Software dauert einen Monat.|B2|Arbeit
+Einschränkung|die|Einschränkungen|N|ограничение|Begrenzung|Es gibt Einschränkungen im Busverkehr.|B2|Alltag
+Einsatz|der|Einsätze|N|применение; усердие; вызов|Engagement; Arbeitseinsatz|Danke für Ihren Einsatz!|B2|Arbeit
+Entlastung|die|-|N|облегчение (нагрузки)|weniger Belastung|Eine Haushaltshilfe wäre eine große Entlastung.|B2|Arbeit
+Erfahrungsbericht|der|-|N|отчёт об опыте|Text über eigene Erfahrungen|Ich habe einen Erfahrungsbericht gelesen.|B2|Medien
+Erklärung|die|Erklärungen|N|объяснение|was etwas erklärt|Danke für die Erklärung.|B1|Bildung
+Erleichterung|die|-|N|облегчение|wenn etwas leichter wird|Die neue Maschine ist eine große Erleichterung.|B2|Arbeit
+Existenz|die|Existenzen|N|существование|Leben, Lebensgrundlage|Die Firma kämpft um ihre Existenz.|B2|Wirtschaft
+Fehlentscheidung|die|-|N|ошибочное решение|falsche Entscheidung|Das war eine Fehlentscheidung.|B2|Meinung
+Finanzierung|die|-|N|финансирование|wie etwas bezahlt wird|Die Finanzierung ist noch nicht klar.|B2|Geld
+Forderung|die|Forderungen|N|требование|was man verlangt|Die Gewerkschaft stellt hohe Forderungen.|B2|Gesellschaft
+Förderung|die|-|N|поддержка, финансирование|Unterstützung|Für den Kurs gibt es eine staatliche Förderung.|B2|Bildung
+Gedanke|der|Gedanken|N|мысль|was man denkt|Ich mache mir Gedanken über die Zukunft.|B1|Meinung
+Gegensatz|der|Gegensätze|N|противоположность|das Gegenteil|Im Gegensatz zu dir mag ich Kaffee.|B2|Meinung
+Gegenteil|das|-|N|противоположность|das Andere|Das Gegenteil von groß ist klein.|B1|Alltag
+Gemeinschaft|die|Gemeinschaften|N|сообщество|Gruppe von Menschen|Die Gemeinschaft hilft sich gegenseitig.|B2|Gesellschaft
+Genehmigung|die|Genehmigungen|N|разрешение|offizielle Erlaubnis|Für den Umbau braucht man eine Genehmigung.|B2|Behörden
+Gesundheitswesen|das|-|N|здравоохранение|System von Ärzten, Krankenhäusern usw.|Im Gesundheitswesen fehlen Fachkräfte.|B2|Gesundheit
+Gewohnheit|die|Gewohnheiten|N|привычка|was man immer macht|Das ist eine schlechte Gewohnheit.|B1|Alltag
+Grundlage|die|Grundlagen|N|основа|Basis|Gute Deutschkenntnisse sind die Grundlage für die Arbeit.|B2|Bildung
+Grundsatz|der|Grundsätze|N|принцип|wichtige Regel|Das ist ein Grundsatz unserer Firma.|B2|Arbeit
+Haltung|die|Haltungen|N|позиция; осанка|Meinung; wie man steht|Seine Haltung zu dem Thema ist klar.|B2|Meinung
+Herkunft|die|-|N|происхождение|woher man kommt|Die Herkunft spielt keine Rolle.|B2|Gesellschaft
+Hürde|die|Hürden|N|препятствие|Schwierigkeit|Die Sprache ist die größte Hürde.|B2|Gesellschaft
+Ideal|das|Ideale|N|идеал|perfekte Vorstellung|Das ist mein Ideal von einem Chef.|B2|Meinung
+Inhaber|der|Inhaber|N|владелец|Besitzer|Der Inhaber des Geschäfts ist sehr nett.|B2|Wirtschaft
+Initiative|die|Initiativen|N|инициатива|eigene Idee und Aktion|Sie hat die Initiative ergriffen.|B2|Arbeit
+Interesse|das|Interessen|N|интерес|man möchte mehr wissen|Ich habe großes Interesse an der Stelle.|B1|Alltag
+Klarheit|die|-|N|ясность|wenn etwas klar ist|Wir brauchen Klarheit über die Kosten.|B2|Meinung
+Kommunikation|die|-|N|общение, коммуникация|Austausch von Informationen|Gute Kommunikation ist im Team wichtig.|B2|Arbeit
+Konflikt|der|Konflikte|N|конфликт|Streit|Wir müssen den Konflikt lösen.|B2|Arbeit
+Kraft|die|Kräfte|N|сила|Stärke, Energie|Ich habe keine Kraft mehr.|B1|Gesundheit
+Krise|die|Krisen|N|кризис|schwierige Situation|Die Firma ist in einer Krise.|B2|Wirtschaft
+Lösungsweg|der|-|N|путь решения|Weg zu einer Lösung|Es gibt mehrere Lösungswege.|B2|Meinung
+Maßnahme|die|Maßnahmen|N|мера|Handlung gegen ein Problem|Die Stadt plant neue Maßnahmen.|B2|Gesellschaft
+Meinungsverschiedenheit|die|-|N|разногласие|unterschiedliche Meinungen|Wir hatten eine kleine Meinungsverschiedenheit.|B2|Meinung
+Merkmal|das|Merkmale|N|признак|typische Eigenschaft|Ein Merkmal guter Arbeit ist Genauigkeit.|B2|Meinung
+Mittel|das|Mittel|N|средство|was man für etwas benutzt|Wir haben nicht genug finanzielle Mittel.|B2|Geld
+Notwendigkeit|die|-|N|необходимость|wenn etwas nötig ist|Ich sehe keine Notwendigkeit dafür.|B2|Meinung
+Öffentlichkeit|die|-|N|общественность|alle Menschen, die Gesellschaft|Die Öffentlichkeit wurde informiert.|B2|Gesellschaft
+Phase|die|Phasen|N|фаза, этап|Abschnitt|Wir sind in der letzten Phase des Projekts.|B2|Arbeit
+Problemlösung|die|-|N|решение проблемы|wie man ein Problem löst|Er ist gut in Problemlösung.|B2|Arbeit
+Qualität|die|Qualitäten|N|качество|wie gut etwas ist|Die Qualität ist uns wichtig.|B1|Arbeit
+Rahmen|der|-|N|рамки|Grenzen, Bedingungen|Im Rahmen des Projekts …|B2|Arbeit
+Rat|der|-|N|совет|Tipp, Empfehlung|Kannst du mir einen Rat geben?|B1|Alltag
+Reaktion|die|Reaktionen|N|реакция|Antwort auf etwas|Die Reaktion der Kunden war positiv.|B2|Meinung
+Regelung|die|Regelungen|N|правило, регулирование|offizielle Regel|Es gibt eine neue Regelung für Überstunden.|B2|Arbeit
+Rückgang|der|-|N|спад, уменьшение|wenn etwas weniger wird|Es gibt einen Rückgang der Arbeitslosigkeit.|B2|Wirtschaft
+Schwierigkeit|die|Schwierigkeiten|N|трудность|Problem|Ich habe Schwierigkeiten mit der Grammatik.|B1|Bildung
+Selbstvertrauen|das|-|N|уверенность в себе|man glaubt an sich|Durch den Kurs habe ich mehr Selbstvertrauen.|B2|Gefühle
+Sorgfalt|die|-|N|тщательность|Genauigkeit|Bitte arbeiten Sie mit Sorgfalt.|B2|Arbeit
+Stabilität|die|-|N|стабильность|wenn etwas sicher bleibt|Ein fester Job gibt Stabilität.|B2|Arbeit
+Stärkung|die|-|N|укрепление|stärker machen|Das dient der Stärkung des Teams.|B2|Arbeit
+Steigerung|die|Steigerungen|N|повышение|wenn etwas mehr wird|Wir erwarten eine Steigerung des Umsatzes.|B2|Wirtschaft
+Stellungnahme|die|Stellungnahmen|N|заявление о позиции|offizielle Meinung|Bitte schicken Sie eine Stellungnahme.|B2|Briefe
+Stimmung|die|-|N|настроение, атмосфера|Gefühl in einer Gruppe|Die Stimmung im Team ist gut.|B1|Gefühle
+Teilnahme|die|-|N|участие|das Teilnehmen|Die Teilnahme ist kostenlos.|B1|Bildung
+Verfahren|das|-|N|процедура, процесс|offizieller Ablauf|Das Verfahren dauert drei Monate.|B2|Behörden
+Vergleich|der|Vergleiche|N|сравнение|Gegenüberstellung|Im Vergleich zu früher ist alles teurer.|B2|Meinung
+Verlauf|der|-|N|ход (развитие)|Entwicklung über Zeit|Im Verlauf des Gesprächs wurde es besser.|B2|Alltag
+Vermutung|die|Vermutungen|N|предположение|was man glaubt, aber nicht weiß|Das ist nur eine Vermutung.|B2|Meinung
+Vernunft|die|-|N|разум|logisches Denken|Sei vernünftig – hör auf die Vernunft!|B2|Charakter
+Verpflichtung|die|Verpflichtungen|N|обязательство|Pflicht|Ich habe viele Verpflichtungen.|B2|Arbeit
+Versorgung|die|-|N|обеспечение; уход|Pflege, Bereitstellung|Die Versorgung der Patienten ist gut.|B2|Gesundheit
+Vorbild|das|Vorbilder|N|пример для подражания|Person, die man nachmachen möchte|Meine Mutter ist mein Vorbild.|B2|Familie
+Vorgehen|das|-|N|образ действий|wie man etwas macht|Wir besprechen das weitere Vorgehen.|B2|Arbeit
+Vorwurf|der|Vorwürfe|N|упрёк|Kritik, Beschuldigung|Ich mache dir keinen Vorwurf.|B2|Meinung
+Wahrnehmung|die|-|N|восприятие|wie man etwas sieht oder fühlt|Die Wahrnehmung ist unterschiedlich.|B2|Meinung
+Wandel|der|-|N|изменение, перемена|Veränderung|Die Arbeitswelt ist im Wandel.|B2|Gesellschaft
+Wert|der|Werte|N|ценность; значение|wie wichtig etwas ist; Zahl|Ehrlichkeit ist für mich ein wichtiger Wert.|B2|Gesellschaft
+Widerstand|der|-|N|сопротивление|Ablehnung, Kampf dagegen|Es gibt Widerstand gegen den Plan.|B2|Gesellschaft
+Zufall|der|Zufälle|N|случайность|nicht geplant|Das war reiner Zufall.|B1|Alltag
+Zugang|der|Zugänge|N|доступ|Möglichkeit, hineinzukommen|Alle Kinder sollen Zugang zu Bildung haben.|B2|Gesellschaft

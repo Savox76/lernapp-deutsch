@@ -1,0 +1,64 @@
+# M7 B2: Strukturen für Sprachbausteine und Schreiben
+Infolge des Sturms *fielen* viele Züge aus.|Вследствие бури многие поезда были отменены.|B2|infolge + Genitiv auf Position 1 → Verb → Subjekt.|Verkehr
+Angesichts der hohen Preise *kaufen* viele Menschen weniger ein.|Ввиду высоких цен многие люди покупают меньше.|B2|angesichts + Genitiv auf Position 1 → Verb → Subjekt.|Wirtschaft
+Dank der Hilfe meiner Kollegen *habe* ich die Prüfung bestanden.|Благодаря помощи коллег я сдала экзамен.|B2|dank auf Position 1 → Verb → Subjekt.|Bildung
+Statt eines Briefes *schicke* ich Ihnen eine E-Mail.|Вместо письма я отправлю вам электронное письмо.|B2|statt + Genitiv auf Position 1 → Verb → Subjekt.|Briefe
+Außerhalb der Öffnungszeiten *ist* das Büro nicht besetzt.|Вне часов работы в офисе никого нет.|B2|außerhalb + Genitiv auf Position 1 → Verb → Subjekt.|Arbeit
+Zum Schutz der Umwelt *trennen* wir den Müll.|Для защиты окружающей среды мы сортируем мусор.|B2|Angabe auf Position 1 → Verb → Subjekt.|Umwelt
+Bei schlechtem Wetter *findet* das Fest in der Halle statt.|В плохую погоду праздник пройдёт в зале.|B2|bei + Dativ auf Position 1 → Verb → Subjekt.|Freizeit
+Nach Abschluss der Ausbildung *möchte* ich in einem Krankenhaus arbeiten.|После окончания обучения я хочу работать в больнице.|B2|Nominalisierung auf Position 1 → Modalverb → Subjekt.|Arbeit
+Vor Beginn der Prüfung *müssen* alle Handys ausgeschaltet werden.|Перед началом экзамена все телефоны нужно выключить.|B2|vor + Nominalisierung; Passiv mit Modalverb.|Bildung
+Wegen Krankheit *bleibt* die Praxis heute geschlossen.|Из-за болезни практика сегодня закрыта.|B2|wegen ohne Artikel auf Position 1 → Verb → Subjekt.|Gesundheit
+Während des Umbaus *ist* der Eingang auf der Rückseite.|На время ремонта вход с обратной стороны.|B2|während + Genitiv auf Position 1 → Verb → Subjekt.|Alltag
+Trotz intensiver Suche *haben* wir den Schlüssel nicht gefunden.|Несмотря на тщательные поиски, мы не нашли ключ.|B2|trotz + Genitiv/Dativ auf Position 1 → Verb → Subjekt.|Alltag
+Mit Hilfe einer App *lerne* ich jeden Tag neue Wörter.|С помощью приложения я каждый день учу новые слова.|B2|Angabe auf Position 1 → Verb → Subjekt.|Bildung
+Ohne gültigen Ausweis *können* wir Ihnen das Paket nicht geben.|Без действительного удостоверения мы не можем выдать вам посылку.|B2|ohne + Akkusativ auf Position 1 → Modalverb → Subjekt.|Behörden
+Zur Verbesserung meiner Aussprache *höre* ich deutsche Podcasts.|Для улучшения произношения я слушаю немецкие подкасты.|B2|zu + Nominalisierung auf Position 1 → Verb → Subjekt.|Bildung
+Bei der Ankunft im Hotel *bekommen* Sie Ihren Schlüssel.|По прибытии в отель вы получите ключ.|B2|bei + Nominalisierung auf Position 1 → Verb → Subjekt.|Reisen
+Die Rechnung *ist* innerhalb von zwei Wochen zu bezahlen.|Счёт нужно оплатить в течение двух недель.|B2|sein + zu-Infinitiv = muss bezahlt werden.|Geld
+Das Problem *lässt* sich leicht lösen.|Проблему легко решить.|B2|sich lassen + Infinitiv = kann gelöst werden.|Arbeit
+Die Formulare *sind* vollständig auszufüllen.|Бланки необходимо заполнить полностью.|B2|sein + zu-Infinitiv: auszufüllen.|Behörden
+Der Fehler *ist* leicht zu erkennen.|Ошибку легко заметить.|B2|sein + zu-Infinitiv = kann erkannt werden.|Arbeit
+Diese Aufgabe *ist* nicht in einer Stunde zu schaffen.|Это задание не выполнить за час.|B2|sein + zu-Infinitiv = kann nicht geschafft werden.|Arbeit
+Die neue Regel *gilt* für alle Mitarbeiter.|Новое правило действует для всех сотрудников.|B2|Hauptsatz: Verb auf Platz 2.|Arbeit
+Der Kurs *wird* von einer erfahrenen Lehrerin geleitet.|Курс ведёт опытная учительница.|B2|Passiv mit von + Dativ.|Bildung
+Die Wohnung *wurde* vor dem Einzug komplett renoviert.|Квартиру полностью отремонтировали перед въездом.|B2|Passiv Präteritum.|Wohnen
+Die Bewerbungen *werden* bis Ende des Monats geprüft.|Заявления проверяют до конца месяца.|B2|Passiv Präsens.|Arbeit
+Es *wird* gebeten, das Rauchen zu unterlassen.|Просьба воздержаться от курения.|B2|unpersönliches Passiv + zu-Infinitiv.|Alltag
+Hier *darf* nicht geparkt werden.|Здесь нельзя парковаться.|B2|unpersönliches Passiv mit Modalverb.|Verkehr
+Am Wochenende *wird* in vielen Familien gemeinsam gegessen.|На выходных во многих семьях едят вместе.|B2|unpersönliches Passiv.|Familie
+Der Antrag *hätte* früher gestellt werden müssen.|Заявление нужно было подать раньше.|B2|Konjunktiv II Passiv Vergangenheit mit Modalverb.|Behörden
+Die neu eingestellte Kollegin *kommt* aus Polen.|Недавно принятая на работу коллега из Польши.|B2|Partizip II als Adjektiv vor dem Nomen.|Arbeit
+Das gestern bestellte Paket *ist* schon angekommen.|Заказанная вчера посылка уже пришла.|B2|Partizip als Adjektiv: das gestern bestellte Paket.|Einkaufen
+Die steigenden Preise *machen* vielen Familien Sorgen.|Растущие цены беспокоят многие семьи.|B2|Partizip I als Adjektiv: die steigenden Preise.|Wirtschaft
+Die im Text genannten Probleme *sind* typisch für Großstädte.|Названные в тексте проблемы типичны для крупных городов.|B2|erweitertes Partizip: die im Text genannten Probleme.|Gesellschaft
+Ein gut ausgebildetes Team *ist* das Wichtigste.|Хорошо обученная команда — самое главное.|B2|Partizip als Adjektiv.|Arbeit
+Die wartenden Kunden *wurden* zuerst bedient.|Ожидающих клиентов обслужили первыми.|B2|Partizip I als Adjektiv; Passiv.|Handel
+Er sagte, er *sei* krank.|Он сказал, что болен.|B2|Konjunktiv I in der indirekten Rede: er sei.|Medien
+Die Chefin sagte, sie *habe* keine Zeit.|Начальница сказала, что у неё нет времени.|B2|Konjunktiv I: sie habe.|Medien
+Laut Polizei *sei* niemand verletzt worden.|По данным полиции, никто не пострадал.|B2|Konjunktiv I in Nachrichten: sei … worden.|Medien
+Der Sprecher erklärte, die Firma *werde* neue Stellen schaffen.|Представитель заявил, что фирма создаст новые рабочие места.|B2|Konjunktiv I: werde … schaffen.|Medien
+Je länger ich in Deutschland lebe, desto besser *verstehe* ich die Kultur.|Чем дольше я живу в Германии, тем лучше понимаю культуру.|B2|je … desto: nach desto sofort das Verb.|Gesellschaft
+Kaum war ich zu Hause, *klingelte* das Telefon.|Едва я пришла домой, зазвонил телефон.|B2|kaum + Verb vorne, danach Hauptsatz-Verb.|Alltag
+Sobald die Ergebnisse vorliegen, *werden* wir Sie informieren.|Как только будут результаты, мы вас проинформируем.|B2|sobald-Satz zuerst → dann sofort das Verb.|Briefe
+Soweit ich weiß, *beginnt* der Kurs erst im Mai.|Насколько я знаю, курс начинается только в мае.|B2|soweit-Satz zuerst → dann sofort das Verb.|Bildung
+Solange es regnet, *bleiben* wir drinnen.|Пока идёт дождь, мы остаёмся внутри.|B2|solange-Satz zuerst → dann sofort das Verb.|Wetter
+Indem man regelmäßig übt, *verbessert* man seine Aussprache.|Регулярно тренируясь, улучшаешь произношение.|B2|indem-Satz zuerst → dann sofort das Verb.|Bildung
+Anstatt dass wir streiten, *sollten* wir eine Lösung suchen.|Вместо того чтобы ссориться, нам стоит искать решение.|B2|anstatt dass zuerst → dann sofort das Modalverb.|Meinung
+Ohne dass ich es gemerkt habe, *ist* die Zeit vergangen.|Я и не заметила, как прошло время.|B2|ohne dass zuerst → dann sofort das Verb.|Alltag
+Es ist wichtig, dass jeder Mitarbeiter die Regeln *kennt*.|Важно, чтобы каждый сотрудник знал правила.|B2|dass: Verb am Ende.|Arbeit
+Es ist fraglich, ob sich die Investition *lohnt*.|Сомнительно, окупятся ли инвестиции.|B2|ob: Verb am Ende.|Wirtschaft
+Ich bin froh darüber, dass ich hier Freunde gefunden *habe*.|Я рада тому, что нашла здесь друзей.|B2|darüber, dass: Hilfsverb am Ende.|Gefühle
+Ich *habe* mich daran gewöhnt, früh aufzustehen.|Я привыкла рано вставать.|B2|daran + zu-Infinitiv.|Alltag
+Wir müssen damit rechnen, dass es Verspätungen *gibt*.|Нужно учитывать, что будут задержки.|B2|damit rechnen, dass …|Verkehr
+Es kommt darauf an, wie schnell wir *reagieren*.|Всё зависит от того, как быстро мы отреагируем.|B2|darauf ankommen + indirekte Frage.|Arbeit
+Ich bin davon überzeugt, dass Bildung der Schlüssel zur Integration *ist*.|Я убеждена, что образование — ключ к интеграции.|B2|davon überzeugt, dass …|Gesellschaft
+Wir sprechen darüber, wie wir das Problem lösen *können*.|Мы обсуждаем, как можем решить проблему.|B2|darüber + indirekte Frage: Modalverb am Ende.|Arbeit
+Die Frage ist, wer die Kosten dafür *trägt*.|Вопрос в том, кто понесёт расходы.|B2|Indirekte Frage: Verb am Ende.|Geld
+Was mich stört, *ist* die Unpünktlichkeit der Bahn.|Что меня раздражает, так это непунктуальность поездов.|B2|was-Satz zuerst → dann sofort das Verb.|Verkehr
+Wer viel liest, *erweitert* seinen Wortschatz.|Кто много читает, расширяет словарный запас.|B2|wer-Satz zuerst → dann sofort das Verb.|Bildung
+Es *gibt* kaum etwas, was mir mehr Freude macht als Kochen.|Мало что доставляет мне больше радости, чем готовка.|B2|Relativsatz mit was nach etwas.|Freizeit
+Das Einzige, was fehlt, *ist* ein Balkon.|Единственное, чего не хватает, — балкон.|B2|Relativsatz mit was nach das Einzige.|Wohnen
+Die Stadt, in der ich aufgewachsen *bin*, liegt am Meer.|Город, в котором я выросла, находится у моря.|B2|Relativsatz mit Präposition.|Person
+Das Unternehmen, dessen Produkte wir *verkaufen*, sitzt in München.|Предприятие, чью продукцию мы продаём, находится в Мюнхене.|B2|Relativsatz mit dessen.|Wirtschaft
+Die Gründe, aus denen viele Menschen auswandern, *sind* vielfältig.|Причины, по которым многие эмигрируют, разнообразны.|B2|Relativsatz mit Präposition + denen.|Gesellschaft

@@ -56,8 +56,8 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 | M4 | Inhaltspaket 1 | Wörter 1.754 → 3.169 · Sätze 973 → 1.602 · Prüfung 130 → 240 | ✅ fertig |
 | M5 | Inhaltspaket 2: Beruf | Pflege, Lager, Büro, Handel, Gastro, Bau, Kita · Wörter → 3.524 · Sätze → 1.800 · Prüfung → 261 | ✅ fertig |
 | M6 | Inhaltspaket 3: Alltag | Küche, Einkaufen, Haushalt, Stadt, Familie, Kleidung, Natur · DTZ-Briefe, Lesen, Hören · Wörter → 3.829 · Sätze → 1.957 · Prüfung → 289 | ✅ fertig |
-| M7 | Inhaltspaket 4 | B2-Wortschatz · Sprachbausteine | ⏳ als Nächstes |
-| M8 | Inhaltspaket 5 | Gesundheit, Behörden · Hören | offen |
+| M7 | Inhaltspaket 4 | B2-Wortschatz · Sprachbausteine | ✅ fertig (Wörter → 4.114, Sätze → 2.197, Prüfung → 317) |
+| M8 | Inhaltspaket 5 | Gesundheit, Behörden · Hören | ⏳ als Nächstes |
 | M9 | Inhaltspaket 6 | Gesellschaft, Medien, Umwelt · Vortrag und Diskussion | offen |
 | M10 | Inhaltspaket 7 | Wohnen, Familie, Freizeit · Lösung finden, Fragen, Forum | offen |
 | M11 | Inhaltspaket 8 | Grammatik-Drill zu allen 12 Themen · DTB-E-Mails und Telefonnotizen | offen |
@@ -66,7 +66,7 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 | M14 | Inhaltspaket 11 | Lücken füllen, bis alle Zielzahlen erreicht sind | offen |
 | M15 | Abschluss | Qualitätscheck (Dubletten, Fehler, Test im Browser), Zahlen prüfen | offen |
 
-**Stand:** 6 von 15 Meilensteinen fertig. Aktuell: 3.829 Wörter · 1.957 Sätze · 72 Schreibaufgaben · 289 Prüfungsaufgaben.
+**Stand:** 7 von 15 Meilensteinen fertig. Aktuell: 4.114 Wörter · 2.197 Sätze · 72 Schreibaufgaben · 317 Prüfungsaufgaben.
 
 ---
 
