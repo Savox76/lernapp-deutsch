@@ -84,6 +84,61 @@ function say(text) {
 function sayBtn(text, label) { return HAS_TTS ? `<button class="say" data-say="${esc(text)}" aria-label="${esc(label || "Vorlesen")}">🔊</button>` : ""; }
 document.addEventListener("click", e => { const b = e.target.closest("[data-say]"); if (b) { e.stopPropagation(); say(b.dataset.say); } }, true);
 
+/* ================= Wort nachschlagen: deutsches Wort markieren → Erklärung, auf Wunsch Übersetzung ================= */
+/* Offline aus woerter.json. Zuerst deutsche Erklärung (Didaktik: Russisch nur als Hilfe), Übersetzung erst nach Tipp. */
+let LOOK = new Map();
+const AUX = /^(hat|ist|sind|haben|sein|sich|wird|wurde|hatte|war)$/;
+function normW(x) { return String(x || "").toLowerCase().replace(/[„“"'.,!?;:()]/g, "").replace(/\s+/g, " ").trim(); }
+function buildLookup() {
+  LOOK = new Map();
+  const add = (k, w) => { k = normW(k); if (k && k.length > 1 && !LOOK.has(k)) LOOK.set(k, w); };
+  const base = w => w.w.replace(/\s*\(.*?\)\s*/g, " ").trim();
+  W.forEach(w => { add(base(w), w); add(base(w).replace(/^sich /, ""), w); });
+  W.forEach(w => {
+    if (!w.f || w.f === "-" || /^\(/.test(w.f)) return;
+    w.f.split(/[,;]/).forEach(p => {
+      p = p.replace(/\(.*?\)/g, "").trim(); if (!p) return; add(p, w);
+      const t = p.split(/\s+/); if (t.length > 1) { add(t[t.length - 1], w); if (!AUX.test(t[0].toLowerCase())) add(t[0], w); }
+    });
+  });
+}
+function lookupFind(sel) {
+  let k = normW(sel).replace(/^(der|die|das|den|dem|des|ein|eine|einen|einem|einer|eines) /, "");
+  if (LOOK.has(k)) return LOOK.get(k);
+  for (const end of ["en", "em", "er", "es", "e", "n", "s", "st", "t", "te", "ten"]) {
+    if (k.length > end.length + 2 && k.endsWith(end)) { const b = k.slice(0, -end.length); if (LOOK.has(b)) return LOOK.get(b); if (LOOK.has(b + "en")) return LOOK.get(b + "en"); if (LOOK.has(b + "n")) return LOOK.get(b + "n"); }
+  }
+  return null;
+}
+function lookupShow(w) {
+  let el = $("#lookup");
+  if (!el) { el = document.createElement("div"); el.id = "lookup"; el.className = "lookup card"; el.setAttribute("role", "dialog"); document.body.appendChild(el); }
+  el.innerHTML = `<div class="row between" style="flex-wrap:nowrap"><b class="lk-word ${w.t === "Nomen" ? artClass(w.a) : ""}">${esc(deLabel(w))}</b><button class="btn lk-close" data-lk-close aria-label="Schließen">✕</button></div>
+    ${w.f && w.f !== "-" ? `<div class="hint small">${esc(w.f)}</div>` : ""}
+    ${w.b ? `<div>${esc(w.b)}</div>` : ""}${w.x ? `<div class="small"><i>${esc(w.x)}</i></div>` : ""}
+    <div class="row">${sayBtn(deLabel(w) + (w.x ? ". " + w.x : ""))}<button class="btn" data-lk-ru>Übersetzung · <span class="ru">перевод</span></button></div>
+    <div class="ru lk-ru" data-lk-out hidden>${esc(w.ru)}</div>`;
+  el.hidden = false;
+  try { const d = dayKey(); ST.lookups = ST.lookups || {}; ST.lookups[d] = (ST.lookups[d] || 0) + 1; LS.set("dl-stats", ST); } catch (e) { }
+}
+let lkT = 0;
+document.addEventListener("selectionchange", () => {
+  clearTimeout(lkT);
+  lkT = setTimeout(() => {
+    const sl = window.getSelection(); const sel = String(sl || "").trim();
+    if (!sel || sel.length > 40 || sel.split(/\s+/).length > 3 || !/[a-zäöüß]/i.test(sel)) return;
+    const a = document.activeElement; if (a && /^(INPUT|TEXTAREA)$/.test(a.tagName)) return;
+    const n = sl.anchorNode && (sl.anchorNode.nodeType === 1 ? sl.anchorNode : sl.anchorNode.parentElement);
+    if (n && n.closest && n.closest("#lookup, .ru, [data-nolookup]")) return;
+    const w = lookupFind(sel);
+    if (w) lookupShow(w); else toast("„" + sel + "“ steht noch nicht im Wörterbuch.");
+  }, 450);
+});
+document.addEventListener("click", e => {
+  if (e.target.closest("[data-lk-close]")) { const l = $("#lookup"); if (l) l.hidden = true; }
+  else if (e.target.closest("[data-lk-ru]")) { const o = $("#lookup [data-lk-out]"); if (o) o.hidden = false; }
+});
+
 /* ================= Inhalte laden ================= */
 async function getJSON(path) {
   const r = await fetch(path, { cache: "no-cache" });
@@ -101,6 +156,7 @@ async function loadContent() {
   S.forEach(x => x.k = categorize(x));
   WBYID = {}; W.forEach(x => WBYID[x.id] = x);
   SBYID = {}; S.forEach(x => SBYID[x.id] = x);
+  buildLookup();
   const oldW = LS.get("dl-count", null);
   LS.set("dl-count", { w: m.woerter, s: m.saetze });
   if (oldW && (m.woerter > oldW.w || m.saetze > oldW.s)) {
@@ -698,6 +754,7 @@ VIEWS.home = function () {
       <p class="hint small">Tagesziel: ${d.n} von ${SET.goal} Aufgaben${d.n >= SET.goal ? " – geschafft! 🎉" : ""} · <span class="ru">Цель дня</span></p>
       <button class="btn primary big" id="mix">▶ Tagesmix starten</button>
       <p class="hint small" style="text-align:center">20 Aufgaben gemischt · Satzbau-Schwerpunkt: ${esc(CATS[weakCats()[0]].l)}</p>
+      <p class="hint small" style="text-align:center">💡 Tipp: Ein deutsches Wort lange drücken (markieren) → Erklärung und Übersetzung · <span class="ru">выдели слово → перевод</span></p>
     </div>
     ${kursState().s >= KURS.length ? kursCard() : ""}
     <div class="menu">
