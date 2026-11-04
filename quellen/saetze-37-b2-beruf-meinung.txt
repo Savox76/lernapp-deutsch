@@ -1,0 +1,59 @@
+# B2 Beruf, Meinung, Prüfung (DTB)
+Aufgrund der hohen Nachfrage *verlängern* wir die Öffnungszeiten.|Из-за высокого спроса мы продлеваем часы работы.|B2|aufgrund + Genitiv auf Position 1 → Verb → Subjekt.|Arbeit
+Hinsichtlich der Kosten *sollten* wir noch einmal nachrechnen.|Что касается затрат, нам стоит ещё раз пересчитать.|B2|hinsichtlich auf Position 1 → Verb → Subjekt.|Arbeit
+Infolge des Unfalls *musste* die Produktion gestoppt werden.|Вследствие аварии производство пришлось остановить.|B2|infolge + Genitiv auf Position 1; Passiv mit Modalverb.|Arbeit
+Mangels Personal *bleibt* die Filiale am Samstag geschlossen.|Из-за нехватки персонала филиал в субботу закрыт.|B2|mangels + Genitiv auf Position 1 → Verb → Subjekt.|Arbeit
+Laut Arbeitsvertrag *stehen* mir 28 Urlaubstage zu.|Согласно трудовому договору, мне положено 28 дней отпуска.|B2|laut auf Position 1 → Verb → Subjekt; zustehen.|Arbeit
+Die Lieferung *wird* voraussichtlich mit zwei Tagen Verspätung eintreffen.|Поставка, предположительно, прибудет с опозданием на два дня.|B2|Futur: wird … eintreffen.|Arbeit
+Es *wurde* beschlossen, die Pausenzeiten neu zu regeln.|Было решено по-новому урегулировать время перерывов.|B2|Passiv + zu-Infinitiv.|Arbeit
+Die Unterlagen *sind* bis spätestens Freitag einzureichen.|Документы необходимо подать не позднее пятницы.|B2|sein + zu-Infinitiv = Passiv mit müssen.|Arbeit
+Der Auftrag *lässt* sich bis Ende der Woche erledigen.|Заказ можно выполнить до конца недели.|B2|sich lassen + Infinitiv = Passiv mit können.|Arbeit
+Ich *wäre* Ihnen dankbar, wenn Sie mir die Rechnung erneut zuschicken könnten.|Я была бы вам признательна, если бы вы снова прислали мне счёт.|B2|Konjunktiv II: wäre … könnten.|Arbeit
+Hätten wir die Ware rechtzeitig bestellt, *wäre* das Problem nicht entstanden.|Если бы мы вовремя заказали товар, проблемы бы не возникло.|B2|Konjunktiv II Vergangenheit ohne wenn.|Arbeit
+Der Kunde *tut* so, als ob er die Rechnung nie bekommen hätte.|Клиент делает вид, будто никогда не получал счёт.|B2|als ob + Konjunktiv II.|Arbeit
+Nicht nur die Kunden, sondern auch die Mitarbeiter *sind* mit der Lösung zufrieden.|Не только клиенты, но и сотрудники довольны решением.|B2|nicht nur … sondern auch.|Arbeit
+Entweder wir stellen mehr Personal ein, oder wir *müssen* Aufträge ablehnen.|Либо мы наймём больше персонала, либо придётся отказываться от заказов.|B2|entweder … oder.|Arbeit
+Sowohl die Planung als auch die Umsetzung *hat* gut funktioniert.|И планирование, и реализация прошли хорошо.|B2|sowohl … als auch.|Arbeit
+Weder der Chef noch die Kollegen *wussten* von dem Problem.|Ни начальник, ни коллеги не знали о проблеме.|B2|weder … noch.|Arbeit
+Je mehr Erfahrung man hat, desto leichter *fällt* einem die Arbeit.|Чем больше опыта, тем легче работа.|B2|je … desto: nach desto sofort das Verb.|Arbeit
+Die Kollegin, auf deren Unterstützung ich mich immer verlassen *kann*, geht in Rente.|Коллега, на поддержку которой я всегда могу положиться, уходит на пенсию.|B2|Relativsatz mit deren + Präposition.|Arbeit
+Das ist ein Thema, über das wir unbedingt sprechen *sollten*.|Это тема, о которой нам обязательно стоит поговорить.|B2|Relativsatz mit Präposition: über das.|Meinung
+Alles, was in der Besprechung gesagt *wurde*, bleibt vertraulich.|Всё, что было сказано на совещании, остаётся конфиденциальным.|B2|Relativsatz mit was + Passiv.|Arbeit
+Wer Fragen zum Datenschutz hat, *wendet* sich bitte an Herrn Lang.|У кого есть вопросы о защите данных, обращайтесь к господину Лангу.|B2|wer-Satz zuerst → dann sofort das Verb.|Arbeit
+Indem wir die Abläufe digitalisieren, *sparen* wir viel Zeit.|Оцифровывая процессы, мы экономим много времени.|B2|indem-Satz zuerst → dann sofort das Verb.|Arbeit
+Ohne dass es jemand bemerkt hatte, *war* der Server ausgefallen.|Сервер вышел из строя, и никто этого не заметил.|B2|ohne dass zuerst → dann sofort das Verb.|Arbeit
+Anstatt sich zu beschweren, *sollte* man konstruktive Vorschläge machen.|Вместо того чтобы жаловаться, следует вносить конструктивные предложения.|B2|anstatt … zu zuerst → dann sofort das Verb.|Meinung
+Meiner Ansicht nach *überwiegen* die Vorteile des Homeoffice.|По-моему, преимущества удалённой работы перевешивают.|B2|Meiner Ansicht nach auf Position 1 → Verb → Subjekt.|Meinung
+Ich *bin* davon überzeugt, dass Weiterbildung sich langfristig lohnt.|Я убеждена, что обучение окупается в долгосрочной перспективе.|B2|Hauptsatz + dass-Satz.|Meinung
+Es *lässt* sich nicht leugnen, dass der Fachkräftemangel zunimmt.|Нельзя отрицать, что нехватка специалистов растёт.|B2|Hauptsatz + dass-Satz.|Meinung
+Einerseits *bietet* die Digitalisierung Chancen, andererseits macht sie vielen Angst.|С одной стороны, цифровизация даёт шансы, с другой — многих пугает.|B2|einerseits + Verb + Subjekt.|Meinung
+Zwar *verdient* man in der Pflege inzwischen besser, aber die Belastung bleibt hoch.|Хотя в сфере ухода теперь платят лучше, нагрузка остаётся высокой.|B2|zwar + Verb + Subjekt, aber …|Meinung
+Im Gegensatz zu meinem Heimatland *spielt* Pünktlichkeit hier eine große Rolle.|В отличие от моей родины, здесь пунктуальность играет большую роль.|B2|Angabe auf Position 1 → Verb → Subjekt.|Meinung
+Verglichen mit früher *haben* Arbeitnehmer heute mehr Rechte.|По сравнению с прошлым, у работников сегодня больше прав.|B2|Angabe auf Position 1 → Verb → Subjekt.|Meinung
+Da muss ich Ihnen widersprechen, denn die Zahlen *zeigen* etwas anderes.|Тут я вынуждена возразить, потому что цифры показывают другое.|B2|denn + Subjekt + Verb.|Meinung
+Man *könnte* argumentieren, dass Kameras die Sicherheit erhöhen.|Можно было бы утверждать, что камеры повышают безопасность.|B2|Konjunktiv II: könnte … argumentieren.|Meinung
+Ausschlaggebend *ist* für mich, ob die Lösung fair für alle ist.|Решающим для меня является то, справедливо ли решение для всех.|B2|Adjektiv auf Position 1 → Verb → Subjekt.|Meinung
+Abschließend *möchte* ich betonen, wie wichtig gegenseitiger Respekt ist.|В заключение хочу подчеркнуть, насколько важно взаимное уважение.|B2|abschließend auf Position 1 → Verb → Subjekt.|Meinung
+Wie wäre es, wenn wir die Aufgaben nach Erfahrung *verteilen*?|Как насчёт того, чтобы распределить задачи по опыту?|B2|Konjunktiv II + wenn: Verb am Ende.|Arbeit
+Ich schlage vor, dass jeder bis Freitag seine Wünsche *einträgt*.|Я предлагаю, чтобы каждый до пятницы внёс свои пожелания.|B2|dass: trennbares Verb am Ende zusammen.|Arbeit
+Lassen Sie uns zuerst klären, wer für die Bestellung zuständig *ist*.|Давайте сначала выясним, кто отвечает за заказ.|B2|Indirekte Frage: Verb am Ende.|Arbeit
+Damit kein Missverständnis entsteht, *fasse* ich die Ergebnisse noch einmal zusammen.|Чтобы не возникло недоразумений, я ещё раз подведу итоги.|B2|damit-Satz zuerst → dann sofort das Verb.|Arbeit
+Sollten Sie Rückfragen haben, *stehe* ich Ihnen gern zur Verfügung.|Если у вас появятся вопросы, я в вашем распоряжении.|B2|Sollten-Satz zuerst (Bedingung) → dann sofort das Verb.|Briefe
+Wir *bedauern* sehr, dass Sie mit unserem Service nicht zufrieden waren.|Мы очень сожалеем, что вы были недовольны нашим сервисом.|B2|Hauptsatz + dass-Satz.|Briefe
+Als Ausgleich für die Unannehmlichkeiten *gewähren* wir Ihnen einen Rabatt.|В качестве компенсации за неудобства мы предоставляем вам скидку.|B2|Angabe auf Position 1 → Verb → Subjekt.|Briefe
+Bezugnehmend auf Ihr Schreiben vom 2. Mai *teilen* wir Ihnen mit, dass der Termin feststeht.|Ссылаясь на ваше письмо от 2 мая, сообщаем, что дата утверждена.|B2|Angabe auf Position 1 → Verb → Subjekt.|Briefe
+Die Ware *ist* beim Transport beschädigt worden.|Товар был повреждён при транспортировке.|B2|Passiv Perfekt: ist … worden.|Arbeit
+Der Fehler *hätte* vermieden werden können.|Ошибки можно было бы избежать.|B2|Konjunktiv II Passiv Vergangenheit mit Modalverb.|Arbeit
+Nachdem der Fehler entdeckt worden war, *informierten* wir sofort alle Kunden.|После того как ошибка была обнаружена, мы сразу проинформировали всех клиентов.|B2|nachdem + Plusquamperfekt Passiv → dann sofort das Verb.|Arbeit
+Es *ist* wichtig, dass neue Mitarbeiter gründlich eingearbeitet werden.|Важно, чтобы новых сотрудников основательно вводили в курс дела.|B2|dass + Passiv: werden am Ende.|Arbeit
+Die Frage, ob die Firma neue Stellen schafft, *ist* noch offen.|Вопрос о том, создаст ли фирма новые рабочие места, ещё открыт.|B2|Indirekte Frage in der Mitte, danach Hauptsatz-Verb.|Arbeit
+Wir müssen damit rechnen, dass die Preise weiter *steigen*.|Нам нужно рассчитывать на то, что цены будут расти дальше.|B2|damit rechnen, dass …: Verb am Ende.|Arbeit
+Ich habe mich darüber geärgert, dass niemand mich informiert *hatte*.|Я разозлилась из-за того, что никто меня не проинформировал.|B2|darüber …, dass: Hilfsverb am Ende.|Arbeit
+Es *kommt* darauf an, wie man mit Kritik umgeht.|Всё зависит от того, как относиться к критике.|B2|Es kommt darauf an, wie …|Meinung
+Ich *kann* mir gut vorstellen, in Zukunft eine Leitungsfunktion zu übernehmen.|Я вполне могу представить, что в будущем займу руководящую должность.|B2|Modalverb auf Platz 2; zu-Infinitiv am Ende.|Arbeit
+Statt die Schuld bei anderen zu suchen, *sollten* wir gemeinsam eine Lösung finden.|Вместо того чтобы искать виноватых, нам следует вместе найти решение.|B2|statt … zu zuerst → dann sofort das Verb.|Arbeit
+Die Zahl der Beschäftigten in der Pflege *ist* in den letzten Jahren gestiegen.|Число работников в сфере ухода за последние годы выросло.|B2|Perfekt: ist … gestiegen.|Gesellschaft
+Immer mehr Menschen *arbeiten* in Teilzeit, um Familie und Beruf zu vereinbaren.|Всё больше людей работают неполный день, чтобы совмещать семью и работу.|B2|Hauptsatz + um … zu.|Gesellschaft
+Laut einer Umfrage *wünschen* sich die meisten Beschäftigten flexiblere Arbeitszeiten.|Согласно опросу, большинство работников хотят более гибкого графика.|B2|laut auf Position 1 → Verb → Subjekt.|Gesellschaft
+Ob sich das neue Modell bewährt, *wird* sich erst in einem Jahr zeigen.|Оправдает ли себя новая модель, станет ясно только через год.|B2|ob-Satz zuerst → dann sofort das Verb.|Arbeit
+Was die Bezahlung betrifft, *gibt* es noch Verbesserungsbedarf.|Что касается оплаты, есть ещё что улучшать.|B2|was … betrifft zuerst → dann sofort das Verb.|Meinung
