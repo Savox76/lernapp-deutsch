@@ -1,0 +1,51 @@
+# M14 A2: einfache Alltagssätze (Hauptsatz, Position 1, Fragen, Satzklammer)
+Ich *stehe* jeden Tag um sechs Uhr auf.|Я встаю каждый день в шесть часов.|A2|aufstehen: trennbar, auf am Ende.|Alltag
+Morgens *trinke* ich einen Kaffee.|Утром я пью кофе.|A2|morgens auf Position 1 → Verb → Subjekt.|Alltag
+Mein Mann *macht* das Frühstück.|Мой муж готовит завтрак.|A2|Subjekt – Verb – Rest.|Familie
+Um halb acht *bringe* ich die Kinder zur Schule.|В половине восьмого я отвожу детей в школу.|A2|Zeit auf Position 1 → Verb → Subjekt.|Familie
+Die Schule *beginnt* um acht Uhr.|Школа начинается в восемь часов.|A2|Subjekt – Verb – Rest.|Familie
+Danach *fahre* ich mit dem Bus zur Arbeit.|Потом я еду на автобусе на работу.|A2|danach auf Position 1 → Verb.|Arbeit
+Ich *arbeite* von neun bis fünf.|Я работаю с девяти до пяти.|A2|von … bis.|Arbeit
+Mittags *esse* ich in der Kantine.|В обед я ем в столовой.|A2|mittags auf Position 1 → Verb.|Arbeit
+Nach der Arbeit *gehe* ich einkaufen.|После работы я иду за покупками.|A2|nach + Dativ auf Position 1.|Einkaufen
+Im Supermarkt *kaufe* ich Brot, Milch und Obst.|В супермаркете я покупаю хлеб, молоко и фрукты.|A2|Ort auf Position 1 → Verb.|Einkaufen
+Am Abend *kochen* wir zusammen.|Вечером мы готовим вместе.|A2|Zeit auf Position 1 → Verb.|Familie
+Die Kinder *machen* ihre Hausaufgaben.|Дети делают домашние задания.|A2|Subjekt – Verb – Rest.|Familie
+Um neun Uhr *gehen* die Kinder ins Bett.|В девять часов дети ложатся спать.|A2|Zeit auf Position 1 → Verb.|Familie
+Ich *lese* noch ein bisschen.|Я ещё немного читаю.|A2|Subjekt – Verb – Rest.|Freizeit
+Am Wochenende *schlafe* ich lange.|На выходных я долго сплю.|A2|am Wochenende auf Position 1.|Freizeit
+Am Samstag *putzen* wir die Wohnung.|В субботу мы убираем квартиру.|A2|Zeit auf Position 1 → Verb.|Wohnen
+Am Sonntag *besuchen* wir Freunde.|В воскресенье мы ходим в гости к друзьям.|A2|Zeit auf Position 1 → Verb.|Freizeit
+Heute *ist* das Wetter schön.|Сегодня хорошая погода.|A2|heute auf Position 1 → Verb.|Wetter
+Morgen *regnet* es vielleicht.|Завтра, может быть, будет дождь.|A2|morgen auf Position 1 → Verb.|Wetter
+Im Winter *ist* es hier sehr kalt.|Зимой здесь очень холодно.|A2|Zeit auf Position 1 → Verb.|Wetter
+Wie *geht* es dir?|Как у тебя дела?|A2|W-Frage: Verb auf Platz 2.|Alltag
+Wo *wohnst* du?|Где ты живёшь?|A2|W-Frage: Verb auf Platz 2.|Wohnen
+Was *machst* du am Wochenende?|Что ты делаешь на выходных?|A2|W-Frage: Verb auf Platz 2.|Freizeit
+Wann *kommst* du nach Hause?|Когда ты придёшь домой?|A2|W-Frage: Verb auf Platz 2.|Familie
+Wie viel *kostet* das?|Сколько это стоит?|A2|W-Frage: Verb auf Platz 2.|Einkaufen
+Woher *kommen* Sie?|Откуда вы?|A2|W-Frage: Verb auf Platz 2.|Person
+*Hast* du heute Zeit?|У тебя сегодня есть время?|A2|Ja/Nein-Frage: Verb auf Position 1.|Freizeit
+*Kommst* du mit ins Kino?|Пойдёшь со мной в кино?|A2|Ja/Nein-Frage; mitkommen trennbar.|Freizeit
+*Ist* der Platz noch frei?|Это место свободно?|A2|Ja/Nein-Frage: Verb auf Position 1.|Alltag
+*Haben* Sie das in Größe 38?|У вас есть это в 38-м размере?|A2|Ja/Nein-Frage.|Einkaufen
+Ich *möchte* einen Termin machen.|Я хочу записаться на приём.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Gesundheit
+Ich *kann* heute nicht kommen.|Я не могу сегодня прийти.|A2|Modalverb + Infinitiv am Ende.|Arbeit
+Wir *müssen* noch einkaufen.|Нам ещё нужно сходить за покупками.|A2|Modalverb + Infinitiv am Ende.|Einkaufen
+Du *darfst* hier nicht parken.|Здесь нельзя парковаться.|A2|Modalverb + Infinitiv am Ende.|Verkehr
+Mein Sohn *will* Fußball spielen.|Мой сын хочет играть в футбол.|A2|Modalverb + Infinitiv am Ende.|Freizeit
+Ich *rufe* dich morgen an.|Я позвоню тебе завтра.|A2|anrufen: trennbar, an am Ende.|Alltag
+Der Zug *fährt* um zehn Uhr ab.|Поезд отправляется в десять часов.|A2|abfahren: trennbar, ab am Ende.|Verkehr
+Wir *kaufen* am Samstag ein.|Мы делаем покупки в субботу.|A2|einkaufen: trennbar.|Einkaufen
+Ich *habe* gestern Pizza gegessen.|Вчера я ела пиццу.|A2|Perfekt: Partizip am Ende.|Essen
+Wir *sind* nach Berlin gefahren.|Мы поехали в Берлин.|A2|Perfekt mit sein: Bewegung.|Reisen
+*Hast* du schon gegessen?|Ты уже поел?|A2|Perfekt in der Frage.|Essen
+Sie *hat* mir ein Buch geschenkt.|Она подарила мне книгу.|A2|Perfekt: Dativ + Akkusativ.|Freizeit
+Gestern *war* ich beim Arzt.|Вчера я была у врача.|A2|gestern auf Position 1; Präteritum von sein.|Gesundheit
+Letzte Woche *hatte* ich viel Arbeit.|На прошлой неделе у меня было много работы.|A2|Zeit auf Position 1; Präteritum von haben.|Arbeit
+*Mach* bitte das Fenster zu.|Закрой, пожалуйста, окно.|A2|Imperativ (du): Verb vorne; zumachen trennbar.|Wohnen
+Bitte *warten* Sie einen Moment.|Подождите, пожалуйста, минутку.|A2|Imperativ (Sie).|Alltag
+Ich *heiße* Olga, und das ist mein Mann Andrej.|Меня зовут Ольга, а это мой муж Андрей.|A2|zwei Hauptsätze mit und.|Person
+Ich *mag* keinen Fisch, aber ich esse gern Fleisch.|Я не люблю рыбу, но охотно ем мясо.|A2|zwei Hauptsätze mit aber.|Essen
+Wir *gehen* in den Park oder wir bleiben zu Hause.|Мы пойдём в парк или останемся дома.|A2|zwei Hauptsätze mit oder.|Freizeit
+Ich *bin* müde, denn ich habe schlecht geschlafen.|Я устала, потому что плохо спала.|A2|denn: normale Wortstellung danach.|Alltag

@@ -2,13 +2,15 @@
 
 Stand: 04.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
 
-**Zuletzt komplett geprüft:** 04.11.2026 nach M13 (Code, Inhalte und Veröffentlichung abgeglichen).
+**Zuletzt komplett geprüft:** 04.11.2026 nach M14 (Code, Inhalte und Veröffentlichung abgeglichen).
 Zeichen: ✅ eingebaut/fertig · 🟡 teilweise · ⏳ in Arbeit · ⬜ offen · ❓ Entscheidung von Mario nötig
 Claude aktualisiert diesen Plan nach **jedem** Arbeitsschritt selbstständig.
 
 ---
 
 ## 1. Ziel
+
+**Vision (Mario, 04.11.2026):** Jedem Menschen das Deutschlernen so einfach wie möglich machen – von A2 bis später C2, in seiner eigenen Sprache erklärt.
 
 Die Lernerin besteht den **Deutsch-Test für den Beruf B2 (DTB)**. Ihr Alltagsdeutsch soll dabei mitwachsen, deshalb kann man in der App auch den **DTZ** (Deutsch-Test für Zuwanderer, A2–B1) wählen.
 
@@ -28,16 +30,16 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ---
 
-## 2. Stand heute (geprüft am 04.11.2026 nach M13)
+## 2. Stand heute (geprüft am 04.11.2026 nach M14)
 
 | Bereich | Stand | |
 |---|---|---|
 | Wortschatz | 5.710 Wörter (A2, B1, B2, Beruf, Alltag, Wortfamilien, Nomen-Verb-Verbindungen) | ✅ |
-| Satzbau | 3.430 Übungssätze (3.185 mit markiertem Verb), alle 12 Grammatik-Themen auf A2–B2 | ✅ |
-| Schreibaufgaben | 86 (A2, B1, B2, DTZ und DTB; Ziel 100) | ✅ |
+| Satzbau | 3.658 Übungssätze (3.413 mit markiertem Verb), alle 12 Grammatik-Themen auf A2–B2 | ✅ |
+| Schreibaufgaben | 100 (A2, B1, B2, DTZ und DTB; laufend mehr) | ✅ |
 | **Grundkurs von vorn** | 13 Stufen von „Verb auf Platz 2“ bis „Passiv“ plus Abschluss; Freischaltung ab 80 %; A2-Sätze zuerst | ✅ |
-| **Prüfung DTB** | 49 E-Mails · 38 Telefonnotizen · 30 Forumsbeiträge · 48 Sprachbausteine · 21 Vorträge · 10 Fragerunden · 22 Diskussionen · 15 Lösung finden · 49 Hörtexte | ✅ |
-| **Prüfung DTZ** | 34 Briefe · 30 Leseaufgaben · 33 Brief-Lückentexte · 26 Erzählthemen · 15 Fragerunden · 23 Gemeinsam planen · 54 Hörtexte | ✅ |
+| **Prüfung DTB** | 55 E-Mails · 42 Telefonnotizen · 34 Forumsbeiträge · 52 Sprachbausteine · 21 Vorträge · 10 Fragerunden · 26 Diskussionen · 15 Lösung finden · 53 Hörtexte | ✅ |
+| **Prüfung DTZ** | 38 Briefe · 30 Leseaufgaben · 33 Brief-Lückentexte · 26 Erzählthemen · 15 Fragerunden · 23 Gemeinsam planen · 54 Hörtexte | ✅ |
 | Prüfungsrechner | Punkte eintragen → bestanden ja/nein nach DTB-Regel und neuer DTZ-Regel (ab 1.11.2026) | ✅ |
 | Übungen | Karteikarten, Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat, Hörtraining, Bedeutung, der/die/das, Lückentext, Wortart, Schreiben mit Checkliste und Timer | ✅ |
 | Tagesmix | 20 Aufgaben, jede zweite Satzbau-Aufgabe aus den schwächsten Grammatik-Themen | ✅ |
@@ -52,7 +54,7 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ## 2a. Phase 1 – Meilensteine Inhalts-Ausbau A2–B2 (Auftrag vom 04.11.2026: alles vervierfachen)
 
-Ziel: ≈ 7.000 Wörter · ≈ 3.900 Übungssätze · **100 Schreibaufgaben** (am 04.11.2026 von 72 erhöht, weil der Wortschatz wächst) · ≈ 520 Prüfungsaufgaben (DTB + DTZ).
+Ziel: ≈ 7.000 Wörter · ≈ 3.900 Übungssätze · **mindestens 100 Schreibaufgaben** als Zwischenziel – danach laufend weitere, weil Lernende immer neue Aufgaben brauchen (Mario, 04.11.2026) · ≈ 520 Prüfungsaufgaben (DTB + DTZ).
 Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 Prüfungsaufgaben** und wird nach Abschluss auf main gepusht.
 (Plan am 04.11. nach M5 angepasst: Die Pakete sind kleiner als zuerst gedacht, dafür sind es mehr.)
 
@@ -71,13 +73,15 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 | M11 | Inhaltspaket 8 | Grammatik-Drill zu allen 12 Themen · DTB-E-Mails und Telefonnotizen | ✅ fertig (Wörter → 5.148, Sätze → 3.094, Prüfung → 437) |
 | M12 | Inhaltspaket 9 | Verben, Adjektive, Redemittel · gemischte Prüfungsaufgaben | ✅ fertig (Wörter → 5.457, Sätze → 3.285, Prüfung → 467) |
 | M13 | Inhaltspaket 10 | Wortfamilien, Nomen-Verb-Verbindungen · Sprechen DTZ · +14 Schreibaufgaben | ✅ fertig (Wörter → 5.710, Sätze → 3.430, Schreiben → 86, Prüfung → 497) |
-| M14 | Inhaltspaket 11 | Lücken füllen bei Sätzen und Prüfung, bis die Zielzahlen erreicht sind · +14 Schreibaufgaben (→ 100) | ⏳ als Nächstes |
-| M15 | Wörter-Paket A | +450 Wörter: Fachwortschatz (Pflege, Technik, Logistik, Verwaltung), Adjektive, Adverbien – Kandidaten vorab gegen Bestand prüfen | ⬜ offen |
-| M16 | Wörter-Paket B | +450 Wörter: Restlücke bis ≈ 7.000, Schwerpunkt B1/B2 | ⬜ offen |
+| M14 | Inhaltspaket 11 | Lücken füllen: A2-Sätze für den Grundkurs, Wortstellung, Beruf · +14 Schreibaufgaben (→ 100) · gemischte Prüfung | ✅ fertig (Sätze → 3.658, Schreiben → 100, Prüfung → 527 – Prüfungsziel erreicht) |
+| M15 | Wörter-Paket A | +450 Wörter: Fachwortschatz (Pflege, Technik, Logistik, Verwaltung), Adjektive, Adverbien – Kandidaten vorab gegen Bestand prüfen · dazu ≈120 Sätze mit den neuen Wörtern | ⏳ als Nächstes |
+| M16 | Wörter-Paket B | +450 Wörter: Restlücke bis ≈ 7.000, Schwerpunkt B1/B2 · dazu ≈120 Sätze (Rest bis ≈ 3.900) | ⬜ offen |
 | M17 | Abschluss Phase 1 | Qualitätscheck (Dubletten, Verbmarkierung, Übersetzungen, Test im Browser), Zahlen prüfen | ⬜ offen |
 
-**Stand:** 13 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 5.710 Wörter · 3.430 Sätze · 86 Schreibaufgaben · 497 Prüfungsaufgaben.
+**Stand:** 14 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 5.710 Wörter · 3.658 Sätze · 100 Schreibaufgaben · 527 Prüfungsaufgaben.
 
+
+**Nach Phase 1:** Inhalte (vor allem Schreibaufgaben, Sätze, Prüfungsaufgaben) wachsen laufend weiter – die Zielzahlen sind Zwischenziele, keine Obergrenze.
 
 **Warum 17 statt 15:** Gängige Wörter sind inzwischen fast alle vorhanden (oft 30–60 % Dubletten). M5–M11 haben je nur 170–340 statt 400 neue Wörter gebracht. Mario hat am 04.11.2026 zugestimmt, mehr Meilensteine einzuplanen.
 
@@ -85,7 +89,7 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 
 Die App soll eine **reine Lernapp** werden: später auch C1/C2 und weitere Ausgangssprachen. Reihenfolge: erst Phase 1 abschließen, dann Phase 2, dann Phase 3. Vor jedem Umbau Mario fragen.
 
-**Phase 2 – Mehrere Ausgangssprachen (M18–M24+)**
+**Phase 2 – Mehrere Ausgangssprachen (M18–M25+)**
 
 | # | Meilenstein | Inhalt | Status |
 |---|---|---|---|
@@ -95,18 +99,19 @@ Die App soll eine **reine Lernapp** werden: später auch C1/C2 und weitere Ausga
 | M21 | Arabisch | deckt auch Syrien, Irak usw. ab; Schrift von rechts nach links → Layout anpassen | ⬜ |
 | M22 | Türkisch | | ⬜ |
 | M23 | Dari (Afghanistan) | Persisch, ebenfalls rechts nach links; Paschtu optional später | ⬜ |
-| M24+ | weitere Sprachen nach Bedarf | | ⬜ |
+| M24 | Französisch | | ⬜ |
+| M25+ | weitere Sprachen nach Bedarf | | ⬜ |
 
-Hinweis: Jede neue Sprache bedeutet Übersetzungen für den gesamten Inhalt. Das ist pro Sprache etwa so viel Arbeit wie 3–4 Inhalts-Meilensteine. Reihenfolge laut Mario (04.11.2026): Ukrainisch, Englisch, Arabisch, Türkisch, Dari, weitere. Ukrainisch lohnt sich, weil in Deutschland sehr viele Ukrainerinnen und Ukrainer Deutsch lernen und viele DTZ/DTB machen.
+Hinweis: Jede neue Sprache bedeutet Übersetzungen für den gesamten Inhalt. Das ist pro Sprache etwa so viel Arbeit wie 3–4 Inhalts-Meilensteine. Reihenfolge laut Mario (04.11.2026): Ukrainisch, Englisch, Arabisch, Türkisch, Dari, Französisch, weitere. Ukrainisch lohnt sich, weil in Deutschland sehr viele Ukrainerinnen und Ukrainer Deutsch lernen und viele DTZ/DTB machen.
 
 **Phase 3 – C1 und C2 (später)**
 
 | # | Meilenstein | Inhalt | Status |
 |---|---|---|---|
-| M25 | Recherche C1/C2 | Prüfungsformate klären (z. B. Goethe-Zertifikat C1/C2, telc C1, DTB C1) – vor dem Bau mit Mario festlegen, welche Prüfung | ⬜ |
-| M26–M29 | C1-Inhalte | Wortschatz (abstrakt, akademisch, Fachsprache), komplexe Grammatik (Nominalstil, Partizipialattribute, Konjunktiv I), Prüfungsaufgaben im neuen Format | ⬜ |
-| M30–M32 | C2-Inhalte | Stilistik, Redewendungen, Textproduktion auf hohem Niveau | ⬜ |
-| M33 | Niveauwahl | In den Einstellungen Niveau A2–C2 wählbar, Grundkurs und Prüfungsbereich passen sich an | ⬜ |
+| M26 | Recherche C1/C2 | Prüfungsformate klären (z. B. Goethe-Zertifikat C1/C2, telc C1, DTB C1) – vor dem Bau mit Mario festlegen, welche Prüfung | ⬜ |
+| M27–M30 | C1-Inhalte | Wortschatz (abstrakt, akademisch, Fachsprache), komplexe Grammatik (Nominalstil, Partizipialattribute, Konjunktiv I), Prüfungsaufgaben im neuen Format | ⬜ |
+| M31–M33 | C2-Inhalte | Stilistik, Redewendungen, Textproduktion auf hohem Niveau | ⬜ |
+| M34 | Niveauwahl | In den Einstellungen Niveau A2–C2 wählbar, Grundkurs und Prüfungsbereich passen sich an | ⬜ |
 
 ---
 
@@ -251,7 +256,7 @@ Zusätzlich **7 Tage Premium kostenlos** testen. Die bisherige Lernerin behält 
 
 | # | Phase | Inhalt | Ergebnis / Bedingung zum Weitergehen | Status |
 |---|---|---|---|---|
-| G1 | Inhalte fertig | M7–M17 abschließen | alle Zielzahlen erreicht, Qualitätscheck bestanden | ⏳ läuft (13 von 17) |
+| G1 | Inhalte fertig | M7–M17 abschließen | alle Zielzahlen erreicht, Qualitätscheck bestanden | ⏳ läuft (14 von 17) |
 | G2 | Testgruppe | 10–20 fremde Lernende nutzen die Web-App **kostenlos** 4 Wochen lang. Kurzer Fragebogen: Was fehlt? Würdest du 4,99 € zahlen? | mind. die Hälfte lernt nach 4 Wochen noch ≥ 3 Tage pro Woche, mind. 5 würden zahlen | ⬜ offen |
 | G3 | Rechtliches | Gewerbe anmelden, steuerliche Einordnung klären (Kleinunternehmer?), Impressum, Datenschutzerklärung (DSGVO), AGB mit Widerrufsbelehrung, Google-Play-Entwicklerkonto mit Zahlungsprofil, App-Name auf Markenrechte prüfen | alles erledigt, bevor der erste Euro fließt | ⬜ offen |
 | G4 | Technik | Anmeldung und Online-Speicher, Bezahlinhalte privat, Gratis/Premium-Grenze, Play Billing, russische Oberfläche, Datenübernahme aus localStorage | geschlossener Test mit der Testgruppe im Play Store | ⬜ offen |

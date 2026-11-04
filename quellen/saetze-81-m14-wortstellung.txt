@@ -1,0 +1,41 @@
+# M14 Wortstellung gezielt: dieselbe Aussage in verschiedenen Satzarten (A2–B1) – typische Fehlerquelle
+Ich *gehe* heute zum Arzt.|Сегодня я иду к врачу.|A2|Subjekt auf Position 1 → Verb auf Platz 2.|Gesundheit
+Heute *gehe* ich zum Arzt.|Сегодня я иду к врачу.|A2|heute auf Position 1 → Verb → Subjekt.|Gesundheit
+Ich *gehe* zum Arzt, weil ich Fieber habe.|Я иду к врачу, потому что у меня температура.|A2|weil: Verb am Ende.|Gesundheit
+Weil ich Fieber habe, *gehe* ich heute zum Arzt.|Так как у меня температура, я сегодня иду к врачу.|A2|weil-Satz zuerst → dann sofort das Verb.|Gesundheit
+Ich *muss* heute zum Arzt gehen.|Мне нужно сегодня пойти к врачу.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Gesundheit
+Ich *bin* gestern zum Arzt gegangen.|Вчера я ходила к врачу.|A2|Perfekt: Partizip am Ende.|Gesundheit
+Gestern *bin* ich zum Arzt gegangen.|Вчера я ходила к врачу.|A2|gestern auf Position 1 → Hilfsverb → Subjekt.|Gesundheit
+*Gehst* du heute zum Arzt?|Ты сегодня идёшь к врачу?|A2|Ja/Nein-Frage: Verb auf Position 1.|Gesundheit
+Wann *gehst* du zum Arzt?|Когда ты идёшь к врачу?|A2|W-Frage: Verb auf Platz 2.|Gesundheit
+Ich *weiß* nicht, wann ich zum Arzt gehe.|Я не знаю, когда пойду к врачу.|A2|indirekte Frage: Verb am Ende.|Gesundheit
+Wir *kaufen* am Samstag ein.|Мы делаем покупки в субботу.|A2|trennbares Verb: ein am Ende.|Einkaufen
+Am Samstag *kaufen* wir ein.|В субботу мы делаем покупки.|A2|Zeit auf Position 1; ein am Ende.|Einkaufen
+Wir *wollen* am Samstag einkaufen.|Мы хотим в субботу сходить за покупками.|A2|Modalverb: einkaufen zusammen am Ende.|Einkaufen
+Wir *haben* am Samstag eingekauft.|Мы сделали покупки в субботу.|A2|Perfekt: eingekauft am Ende.|Einkaufen
+Ich *weiß*, dass wir am Samstag einkaufen.|Я знаю, что мы в субботу идём за покупками.|A2|dass: einkaufen zusammen am Ende.|Einkaufen
+Die Kinder *spielen* nach der Schule im Park.|Дети играют после школы в парке.|A2|Zeit vor Ort: nach der Schule – im Park.|Familie
+Nach der Schule *spielen* die Kinder im Park.|После школы дети играют в парке.|A2|Zeit auf Position 1 → Verb → Subjekt.|Familie
+Im Park *spielen* die Kinder nach der Schule.|В парке дети играют после школы.|A2|Ort auf Position 1 → Verb → Subjekt.|Familie
+Die Kinder *dürfen* nach der Schule im Park spielen.|Детям можно играть в парке после школы.|B1|Modalverb: spielen am Ende.|Familie
+Wenn die Schule aus ist, *spielen* die Kinder im Park.|Когда заканчивается школа, дети играют в парке.|B1|wenn-Satz zuerst → Verb.|Familie
+Mein Mann *holt* die Kinder heute ab.|Мой муж сегодня забирает детей.|A2|abholen: ab am Ende.|Familie
+Heute *holt* mein Mann die Kinder ab.|Сегодня детей забирает мой муж.|A2|heute auf Position 1 → Verb → Subjekt.|Familie
+Mein Mann *kann* die Kinder heute nicht abholen.|Мой муж не может сегодня забрать детей.|A2|Modalverb; nicht vor abholen.|Familie
+Ich *hoffe*, dass mein Mann die Kinder abholt.|Надеюсь, что муж заберёт детей.|B1|dass: abholt zusammen am Ende.|Familie
+Ich *weiß* nicht, ob mein Mann die Kinder abholen kann.|Не знаю, сможет ли муж забрать детей.|B1|ob: Modalverb ganz am Ende.|Familie
+Ich *habe* die Prüfung bestanden.|Я сдала экзамен.|A2|Perfekt: bestanden am Ende.|Bildung
+Endlich *habe* ich die Prüfung bestanden!|Наконец-то я сдала экзамен!|A2|endlich auf Position 1 → Verb.|Bildung
+Ich *freue* mich, dass ich die Prüfung bestanden habe.|Я рада, что сдала экзамен.|B1|dass: habe ganz am Ende.|Bildung
+Weil ich viel gelernt habe, *habe* ich die Prüfung bestanden.|Так как я много учила, я сдала экзамен.|B1|weil-Satz zuerst → Hilfsverb sofort.|Bildung
+Ich *hätte* die Prüfung nicht ohne meine Lehrerin bestanden.|Без моей учительницы я бы не сдала экзамен.|B1|Konjunktiv II Vergangenheit.|Bildung
+Die Wohnung *wird* nächste Woche renoviert.|Квартиру отремонтируют на следующей неделе.|B1|Passiv: renoviert am Ende.|Wohnen
+Nächste Woche *wird* die Wohnung renoviert.|На следующей неделе квартиру отремонтируют.|B1|Zeit auf Position 1 → werden → Subjekt.|Wohnen
+Die Wohnung *muss* dringend renoviert werden.|Квартиру срочно нужно отремонтировать.|B1|Modalverb + Partizip + werden am Ende.|Wohnen
+Der Vermieter *sagt*, dass die Wohnung renoviert wird.|Арендодатель говорит, что квартиру отремонтируют.|B1|dass + Passiv: wird am Ende.|Wohnen
+Die Wohnung, die renoviert wird, *ist* im dritten Stock.|Квартира, которую ремонтируют, на третьем этаже.|B1|Relativsatz + Passiv.|Wohnen
+Sie *spricht* sehr gut Deutsch.|Она очень хорошо говорит по-немецки.|A2|Subjekt – Verb – Rest.|Bildung
+Sehr gut *spricht* sie Deutsch.|По-немецки она говорит очень хорошо.|A2|Betonung auf Position 1 → Verb → Subjekt.|Bildung
+Seit zwei Jahren *spricht* sie Deutsch.|Она говорит по-немецки уже два года.|A2|seit auf Position 1 → Verb.|Bildung
+Obwohl sie erst seit zwei Jahren hier ist, *spricht* sie sehr gut Deutsch.|Хотя она здесь только два года, она очень хорошо говорит по-немецки.|B1|obwohl-Satz zuerst → Verb sofort.|Bildung
+Die Frau, die so gut Deutsch spricht, *kommt* aus Kiew.|Женщина, которая так хорошо говорит по-немецки, из Киева.|B1|Relativsatz in der Mitte → Verb danach.|Bildung

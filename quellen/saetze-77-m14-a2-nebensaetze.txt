@@ -1,0 +1,49 @@
+# M14 A2: Nebensätze (weil, dass, wenn, ob, W-Fragen), Relativsätze, zu-Infinitiv
+Ich *bleibe* zu Hause, weil ich krank bin.|Я остаюсь дома, потому что болею.|A2|weil: Verb am Ende.|Gesundheit
+Ich *lerne* Deutsch, weil ich hier arbeiten möchte.|Я учу немецкий, потому что хочу здесь работать.|A2|weil: Modalverb am Ende.|Bildung
+Er *kommt* nicht, weil er keine Zeit hat.|Он не придёт, потому что у него нет времени.|A2|weil: Verb am Ende.|Alltag
+Ich *glaube*, dass er recht hat.|Я думаю, что он прав.|A2|dass: Verb am Ende.|Meinung
+Ich *weiß*, dass du müde bist.|Я знаю, что ты устал.|A2|dass: Verb am Ende.|Alltag
+Sie *sagt*, dass der Kurs morgen ausfällt.|Она говорит, что курс завтра не состоится.|A2|dass: trennbares Verb zusammen am Ende.|Bildung
+Wir *hoffen*, dass das Wetter gut wird.|Мы надеемся, что погода будет хорошей.|A2|dass: Verb am Ende.|Wetter
+Ich *gehe* spazieren, wenn die Sonne scheint.|Я иду гулять, когда светит солнце.|A2|wenn: Verb am Ende.|Freizeit
+*Ruf* mich an, wenn du Zeit hast.|Позвони мне, когда у тебя будет время.|A2|Imperativ + wenn-Satz.|Alltag
+Ich *frage*, ob der Arzt heute da ist.|Я спрашиваю, на месте ли сегодня врач.|A2|ob: Verb am Ende.|Gesundheit
+*Weißt* du, ob der Supermarkt noch offen ist?|Ты знаешь, открыт ли ещё супермаркет?|A2|ob: Verb am Ende.|Einkaufen
+Ich *weiß* nicht, wo meine Brille ist.|Я не знаю, где мои очки.|A2|indirekte Frage mit wo.|Alltag
+*Kannst* du mir sagen, wie spät es ist?|Можешь сказать, который час?|A2|indirekte Frage mit wie.|Alltag
+Ich *verstehe* nicht, was er sagt.|Я не понимаю, что он говорит.|A2|indirekte Frage mit was.|Bildung
+Wir *wissen* noch nicht, wann wir in Urlaub fahren.|Мы ещё не знаем, когда поедем в отпуск.|A2|indirekte Frage mit wann.|Reisen
+Sie *fragt*, warum ich so traurig bin.|Она спрашивает, почему я такая грустная.|A2|indirekte Frage mit warum.|Gefühle
+Weil es regnet, *nehme* ich einen Schirm mit.|Так как идёт дождь, я беру зонт.|A2|weil-Satz zuerst → dann sofort das Verb.|Wetter
+Wenn ich Hunger habe, *esse* ich einen Apfel.|Когда я голодна, я ем яблоко.|A2|wenn-Satz zuerst → dann sofort das Verb.|Essen
+Wenn du Fragen hast, *ruf* mich an.|Если у тебя есть вопросы, позвони мне.|A2|wenn-Satz zuerst → dann Imperativ.|Alltag
+Als ich ein Kind war, *hatte* ich einen Hund.|Когда я была ребёнком, у меня была собака.|A2|als-Satz zuerst → dann sofort das Verb.|Familie
+Wenn der Bus kommt, *steigen* wir ein.|Когда придёт автобус, мы сядем.|A2|wenn-Satz zuerst; einsteigen trennbar.|Verkehr
+Weil ich müde bin, *gehe* ich früh schlafen.|Так как я устала, я рано ложусь спать.|A2|weil-Satz zuerst → dann sofort das Verb.|Alltag
+Wenn es warm ist, *gehen* wir schwimmen.|Когда тепло, мы ходим плавать.|A2|wenn-Satz zuerst → dann sofort das Verb.|Freizeit
+Dass du kommst, *freut* mich sehr.|Я очень рада, что ты придёшь.|A2|dass-Satz zuerst → dann sofort das Verb.|Gefühle
+Das *ist* der Mann, der neben uns wohnt.|Это мужчина, который живёт рядом с нами.|A2|Relativsatz: der … wohnt.|Wohnen
+Das *ist* die Frau, die bei der Post arbeitet.|Это женщина, которая работает на почте.|A2|Relativsatz: die … arbeitet.|Arbeit
+Das *ist* das Kind, das immer so laut lacht.|Это ребёнок, который всегда так громко смеётся.|A2|Relativsatz: das … lacht.|Familie
+Wo *ist* das Buch, das ich gestern gekauft habe?|Где книга, которую я вчера купила?|A2|Relativsatz Akkusativ: das … gekauft habe.|Alltag
+Ich *habe* eine Freundin, die gut kochen kann.|У меня есть подруга, которая хорошо готовит.|A2|Relativsatz: Modalverb am Ende.|Essen
+Der Bus, der zum Bahnhof fährt, *kommt* gleich.|Автобус, который идёт к вокзалу, сейчас придёт.|A2|Relativsatz in der Mitte.|Verkehr
+Wie *heißt* der Film, den du gesehen hast?|Как называется фильм, который ты посмотрел?|A2|Relativsatz Akkusativ: den.|Freizeit
+Die Leute, die hier wohnen, *sind* sehr nett.|Люди, которые здесь живут, очень приятные.|A2|Relativsatz Plural: die.|Wohnen
+Ich *suche* einen Job, der mir Spaß macht.|Я ищу работу, которая мне нравится.|A2|Relativsatz: der … macht.|Arbeit
+Es *ist* schön, hier zu sein.|Хорошо быть здесь.|A2|Es ist + Adjektiv + zu-Infinitiv.|Gefühle
+Ich *habe* keine Lust, heute zu arbeiten.|У меня нет желания сегодня работать.|A2|Lust haben + zu-Infinitiv.|Arbeit
+*Vergiss* nicht, Milch zu kaufen!|Не забудь купить молоко!|A2|vergessen + zu-Infinitiv.|Einkaufen
+Ich *versuche*, jeden Tag zu lernen.|Я стараюсь учиться каждый день.|A2|versuchen + zu-Infinitiv.|Bildung
+Es *ist* wichtig, pünktlich zu sein.|Важно быть пунктуальным.|A2|Es ist wichtig + zu-Infinitiv.|Arbeit
+Wir *haben* keine Zeit, zu warten.|У нас нет времени ждать.|A2|Zeit haben + zu-Infinitiv.|Alltag
+Es *macht* mir Spaß, mit dir zu sprechen.|Мне нравится с тобой разговаривать.|A2|Spaß machen + zu-Infinitiv.|Freizeit
+Es *ist* verboten, hier zu rauchen.|Здесь запрещено курить.|A2|Es ist verboten + zu-Infinitiv.|Alltag
+Ich *fange* morgen an, Englisch zu lernen.|Завтра я начну учить английский.|A2|anfangen + zu-Infinitiv.|Bildung
+*Hast* du Lust, mit mir zu kochen?|Хочешь готовить со мной?|A2|Lust haben + zu-Infinitiv in der Frage.|Essen
+Ich *bin* müde, deshalb gehe ich nach Hause.|Я устала, поэтому иду домой.|A2|deshalb: Verb auf Position 2.|Alltag
+Es *regnet*, trotzdem fahren wir mit dem Fahrrad.|Идёт дождь, но мы всё равно едем на велосипеде.|A2|trotzdem: Verb auf Position 2.|Verkehr
+Ich *habe* kein Auto, deshalb fahre ich mit dem Bus.|У меня нет машины, поэтому я езжу на автобусе.|A2|deshalb: Verb auf Position 2.|Verkehr
+Ich *trinke* keinen Kaffee, sondern Tee.|Я пью не кофе, а чай.|A2|nicht/kein …, sondern …|Essen
+Er *ist* krank, trotzdem geht er zur Arbeit.|Он болен, но всё равно идёт на работу.|A2|trotzdem: Verb auf Position 2.|Arbeit

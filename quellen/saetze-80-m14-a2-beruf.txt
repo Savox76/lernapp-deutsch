@@ -1,0 +1,41 @@
+# M14 A2: einfache Sätze für den Arbeitsalltag (Pflege, Lager, Küche, Büro)
+Ich *arbeite* in einem Altenheim.|Я работаю в доме престарелых.|A2|Subjekt – Verb – Rest.|Pflege
+Mein Dienst *beginnt* um sechs Uhr.|Моя смена начинается в шесть часов.|A2|Subjekt – Verb – Rest.|Arbeit
+Zuerst *wasche* ich die Bewohner.|Сначала я мою жителей.|A2|zuerst auf Position 1 → Verb.|Pflege
+Dann *bringe* ich das Frühstück.|Потом я приношу завтрак.|A2|dann auf Position 1 → Verb.|Pflege
+Frau Klein *braucht* Hilfe beim Essen.|Госпоже Кляйн нужна помощь при еде.|A2|Subjekt – Verb – Rest.|Pflege
+Um zehn Uhr *mache* ich eine Pause.|В десять часов я делаю перерыв.|A2|Zeit auf Position 1 → Verb.|Arbeit
+Die Kollegin *zeigt* mir das Programm.|Коллега показывает мне программу.|A2|Dativ vor Akkusativ.|Arbeit
+*Kannst* du mir helfen?|Можешь мне помочь?|A2|Frage mit Modalverb.|Arbeit
+Wo *ist* der Schlüssel für das Lager?|Где ключ от склада?|A2|W-Frage.|Arbeit
+Die Ware *kommt* heute um elf.|Товар придёт сегодня в одиннадцать.|A2|Subjekt – Verb – Rest.|Arbeit
+Ich *packe* die Kartons aus.|Я распаковываю коробки.|A2|auspacken: trennbar.|Arbeit
+Die Kartons *stelle* ich ins Regal.|Коробки я ставлю на полку.|A2|Objekt auf Position 1 → Verb.|Arbeit
+In der Küche *schneide* ich das Gemüse.|На кухне я режу овощи.|A2|Ort auf Position 1 → Verb.|Arbeit
+Der Koch *macht* die Soße.|Повар делает соус.|A2|Subjekt – Verb – Rest.|Arbeit
+Bitte *wasch* dir die Hände.|Пожалуйста, вымой руки.|A2|Imperativ (du).|Arbeit
+Ich *muss* noch die Tische putzen.|Мне ещё нужно протереть столы.|A2|Modalverb + Infinitiv am Ende.|Arbeit
+Im Büro *beantworte* ich E-Mails.|В офисе я отвечаю на письма.|A2|Ort auf Position 1 → Verb.|Arbeit
+Ich *schreibe* die Rechnung.|Я пишу счёт.|A2|Subjekt – Verb – Rest.|Arbeit
+Der Drucker *funktioniert* nicht.|Принтер не работает.|A2|nicht nach dem Verb.|Arbeit
+*Kannst* du den Techniker anrufen?|Можешь позвонить технику?|A2|Frage mit Modalverb; anrufen am Ende.|Arbeit
+Heute *habe* ich Spätdienst.|Сегодня у меня вечерняя смена.|A2|heute auf Position 1.|Arbeit
+Morgen *arbeite* ich nicht.|Завтра я не работаю.|A2|morgen auf Position 1; nicht am Ende.|Arbeit
+Ich *habe* heute viel gearbeitet.|Сегодня я много работала.|A2|Perfekt.|Arbeit
+Wir *haben* zusammen Mittag gegessen.|Мы вместе пообедали.|A2|Perfekt.|Arbeit
+Die Chefin *ist* heute nicht da.|Начальницы сегодня нет.|A2|nicht vor da.|Arbeit
+Ich *bin* krank und bleibe zu Hause.|Я больна и остаюсь дома.|A2|zwei Verben mit und.|Gesundheit
+Ich *rufe* meine Chefin an.|Я звоню начальнице.|A2|anrufen: trennbar.|Arbeit
+Ich *schicke* die Krankmeldung per App.|Я отправляю больничный через приложение.|A2|Subjekt – Verb – Rest.|Arbeit
+Der neue Kollege *heißt* Ahmed.|Нового коллегу зовут Ахмед.|A2|Subjekt – Verb – Rest.|Arbeit
+Er *kommt* aus Syrien und spricht gut Deutsch.|Он из Сирии и хорошо говорит по-немецки.|A2|zwei Verben mit und.|Arbeit
+Ich *verdiene* 14 Euro pro Stunde.|Я зарабатываю 14 евро в час.|A2|Subjekt – Verb – Rest.|Arbeit
+Am Freitag *bekommen* wir den Dienstplan.|В пятницу мы получим график.|A2|Zeit auf Position 1 → Verb.|Arbeit
+Im August *habe* ich zwei Wochen Urlaub.|В августе у меня две недели отпуска.|A2|Zeit auf Position 1.|Arbeit
+Die Arbeit *ist* anstrengend, aber sie macht mir Spaß.|Работа тяжёлая, но мне нравится.|A2|zwei Hauptsätze mit aber.|Arbeit
+Ich *arbeite* gern im Team.|Я люблю работать в команде.|A2|gern nach dem Verb.|Arbeit
+Ich *lerne* jeden Tag neue Wörter für die Arbeit.|Каждый день я учу новые слова для работы.|A2|Subjekt – Verb – Rest.|Bildung
+Wie lange *arbeitest* du schon hier?|Как долго ты уже здесь работаешь?|A2|W-Frage mit wie lange.|Arbeit
+Was *machst* du in deiner Pause?|Что ты делаешь в перерыв?|A2|W-Frage.|Arbeit
+In der Pause *trinke* ich Tee und rufe meine Mutter an.|В перерыв я пью чай и звоню маме.|A2|Angabe auf Position 1 → Verb.|Arbeit
+Nach dem Dienst *bin* ich oft sehr müde.|После смены я часто очень устаю.|A2|nach + Dativ auf Position 1.|Arbeit

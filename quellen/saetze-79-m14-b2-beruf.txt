@@ -1,0 +1,41 @@
+# M14 B2: Beruf und Meinung – Nominalstil, Passiv, Konjunktiv, Konnektoren
+Aufgrund der hohen Nachfrage *wurden* zusätzliche Mitarbeiter eingestellt.|Из-за высокого спроса были приняты дополнительные сотрудники.|B2|aufgrund + Genitiv; Passiv Präteritum.|Arbeit
+Infolge des Personalmangels *müssen* viele Kollegen Überstunden machen.|Вследствие нехватки персонала многим коллегам приходится работать сверхурочно.|B2|infolge + Genitiv; Modalverb.|Arbeit
+Nach erfolgreicher Prüfung *erhalten* Sie ein Zertifikat.|После успешной сдачи экзамена вы получите сертификат.|B2|Nominalisierung: nach erfolgreicher Prüfung.|Bildung
+Bei Nichteinhaltung der Frist *verfällt* der Anspruch.|При несоблюдении срока право утрачивается.|B2|Nominalstil: bei Nichteinhaltung.|Behörden
+Zur Verbesserung der Arbeitsabläufe *wurde* eine Software eingeführt.|Для улучшения рабочих процессов была внедрена программа.|B2|zur + Nominalisierung; Passiv.|Arbeit
+Die Bewerbungsfrist *endet* am 30. September.|Срок подачи заявлений заканчивается 30 сентября.|B2|Hauptsatz: Verb auf Platz 2.|Arbeit
+Die Unterlagen *sind* bis spätestens Freitag einzureichen.|Документы нужно подать не позднее пятницы.|B2|sein + zu-Infinitiv = müssen + Passiv.|Behörden
+Die Maschine *lässt* sich leicht bedienen.|Машиной легко управлять.|B2|sich lassen + Infinitiv.|Arbeit
+Der Fehler *hätte* vermieden werden können.|Ошибку можно было бы избежать.|B2|Konjunktiv II Passiv Vergangenheit.|Arbeit
+Wäre die Lieferung pünktlich gekommen, *hätten* wir keine Probleme gehabt.|Если бы доставка пришла вовремя, у нас не было бы проблем.|B2|Konjunktiv II ohne wenn.|Handel
+Der Sprecher *betonte*, das Unternehmen sei gut aufgestellt.|Представитель подчеркнул, что предприятие в хорошем положении.|B2|Konjunktiv I in indirekter Rede.|Wirtschaft
+Laut Betriebsrat *seien* die Arbeitsbedingungen verbessert worden.|По словам производственного совета, условия труда улучшились.|B2|Konjunktiv I Passiv.|Arbeit
+Die Chefin *meinte*, sie werde sich darum kümmern.|Начальница сказала, что займётся этим.|B2|Konjunktiv I: werde.|Arbeit
+Nicht nur die Löhne, sondern auch die Arbeitszeiten *spielen* eine Rolle.|Роль играют не только зарплаты, но и рабочее время.|B2|nicht nur … sondern auch.|Arbeit
+Einerseits *ist* Homeoffice praktisch, andererseits fehlt der Kontakt.|С одной стороны, работа из дома удобна, с другой — не хватает общения.|B2|einerseits … andererseits.|Arbeit
+Die Kosten sind gestiegen, folglich *müssen* die Preise erhöht werden.|Расходы выросли, следовательно, цены нужно повысить.|B2|folglich; Passiv mit Modalverb.|Wirtschaft
+Die Mitarbeiterin, deren Vertrag ausläuft, *wird* übernommen.|Сотрудницу, чей договор истекает, оставляют на работе.|B2|Relativsatz Genitiv: deren; Passiv.|Arbeit
+Das Projekt, an dem wir seit Monaten arbeiten, *ist* fast fertig.|Проект, над которым мы работаем месяцами, почти готов.|B2|Relativsatz mit an dem.|Arbeit
+Es *gibt* vieles, worüber wir noch sprechen müssen.|Есть многое, о чём нам ещё нужно поговорить.|B2|Relativsatz mit worüber.|Arbeit
+Sie *hat* den Test bestanden, was niemand erwartet hatte.|Она сдала тест, чего никто не ожидал.|B2|Relativsatz mit was auf den ganzen Satz.|Bildung
+Indem wir die Pausen besser verteilen, *entlasten* wir das Team.|Лучше распределяя перерывы, мы разгружаем команду.|B2|indem-Satz zuerst → Verb.|Arbeit
+Anstatt sich zu beschweren, *sollte* man Vorschläge machen.|Вместо того чтобы жаловаться, стоит вносить предложения.|B2|anstatt … zu zuerst → Modalverb.|Meinung
+Soweit ich informiert bin, *beginnt* die Schulung um neun.|Насколько мне известно, обучение начинается в девять.|B2|soweit-Satz zuerst → Verb.|Arbeit
+Es *ist* fraglich, ob sich der Aufwand lohnt.|Сомнительно, окупятся ли затраты.|B2|ob: Verb am Ende.|Meinung
+Entscheidend *ist*, wie wir mit Kritik umgehen.|Решающее значение имеет, как мы обращаемся с критикой.|B2|indirekte Frage als Subjekt.|Arbeit
+Wir *müssen* klären, inwieweit die Kollegen entlastet werden können.|Нам нужно выяснить, насколько можно разгрузить коллег.|B2|indirekte Frage + Passiv mit Modalverb.|Arbeit
+Ich *bin* davon überzeugt, dass Weiterbildung sich lohnt.|Я убеждена, что повышение квалификации окупается.|B2|davon überzeugt, dass …|Meinung
+Es *kommt* darauf an, dass alle an einem Strang ziehen.|Важно, чтобы все тянули в одну сторону.|B2|darauf ankommen, dass …|Arbeit
+Ich *gehe* davon aus, dass die Frist eingehalten wird.|Я исхожу из того, что срок будет соблюдён.|B2|davon ausgehen, dass …|Arbeit
+Wir *legen* großen Wert darauf, dass Kunden zufrieden sind.|Мы придаём большое значение тому, чтобы клиенты были довольны.|B2|Wert legen auf; darauf, dass …|Handel
+Die Firma *bemüht* sich darum, mehr Ausbildungsplätze anzubieten.|Фирма старается предложить больше мест для обучения.|B2|sich bemühen um; darum + zu-Infinitiv.|Arbeit
+Ich *habe* mich daran gewöhnt, im Schichtdienst zu arbeiten.|Я привыкла работать посменно.|B2|sich gewöhnen an; daran + zu-Infinitiv.|Arbeit
+Viele *fürchten* sich davor, ihre Arbeit zu verlieren.|Многие боятся потерять работу.|B2|sich fürchten vor; davor + zu-Infinitiv.|Arbeit
+Er *besteht* darauf, dass der Fehler korrigiert wird.|Он настаивает на том, чтобы ошибку исправили.|B2|bestehen auf; darauf, dass + Passiv.|Arbeit
+Die neue Regelung *trägt* dazu bei, Missverständnisse zu vermeiden.|Новое правило помогает избегать недоразумений.|B2|beitragen zu; dazu + zu-Infinitiv.|Arbeit
+Mir *liegt* viel daran, ein gutes Verhältnis zu den Kollegen zu haben.|Мне очень важно иметь хорошие отношения с коллегами.|B2|jemandem liegt an; daran + zu-Infinitiv.|Arbeit
+Wir *sind* darauf angewiesen, dass die Lieferanten pünktlich liefern.|Мы зависим от того, чтобы поставщики поставляли вовремя.|B2|angewiesen sein auf; darauf, dass …|Handel
+Es *hängt* davon ab, wie viele Leute sich anmelden.|Это зависит от того, сколько людей запишется.|B2|abhängen von; davon + indirekte Frage.|Freizeit
+Ich *kann* mir gut vorstellen, in einem Krankenhaus zu arbeiten.|Я вполне могу представить себе работу в больнице.|B2|sich vorstellen + zu-Infinitiv.|Arbeit
+Es *lohnt* sich, früh mit der Vorbereitung anzufangen.|Стоит рано начать подготовку.|B2|sich lohnen + zu-Infinitiv.|Bildung

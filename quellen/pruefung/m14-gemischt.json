@@ -1,0 +1,1251 @@
+{
+ "mail": [
+  {
+   "id": "m50",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kunde bittet um Kostenvoranschlag",
+   "von": "Herr Lindner",
+   "betreff": "Anfrage Badsanierung",
+   "text": "Guten Tag,\n\nwir möchten unser Badezimmer renovieren lassen: neue Fliesen, eine bodengleiche Dusche statt der Badewanne und ein neues Waschbecken. Das Bad hat 6 Quadratmeter. Können Sie uns einen Kostenvoranschlag schicken? Wann könnten die Arbeiten frühestens beginnen? Wir sind beide berufstätig und nur nach 17 Uhr erreichbar.\n\nMit freundlichen Grüßen\nThomas Lindner",
+   "fragen": [
+    {
+     "q": "Was möchte Herr Lindner statt der Badewanne?",
+     "o": [
+      "ein neues Waschbecken",
+      "eine neue Badewanne",
+      "eine bodengleiche Dusche"
+     ],
+     "r": 2
+    },
+    {
+     "q": "Wann ist Herr Lindner erreichbar?",
+     "o": [
+      "nach 17 Uhr",
+      "am Wochenende",
+      "vormittags"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Sie arbeiten im Büro eines Handwerksbetriebs. Antworten Sie Herrn Lindner.",
+   "punkte": [
+    "Dank für die Anfrage",
+    "Besichtigungstermin vorschlagen",
+    "Möglicher Beginn",
+    "Hinweis zu Kosten"
+   ],
+   "ru": "Вы работаете в офисе ремесленной фирмы. Ответьте: благодарность, предложите осмотр, возможный срок начала, о стоимости.",
+   "rm": [
+    "Vielen Dank für Ihre Anfrage.",
+    "Für einen genauen Kostenvoranschlag …",
+    "Frühestens könnten wir …",
+    "Die Kosten hängen davon ab, …"
+   ],
+   "m": "Sehr geehrter Herr Lindner,\n\nvielen Dank für Ihre Anfrage.\n\nFür einen genauen Kostenvoranschlag müsste sich unser Meister das Bad ansehen. Wäre Ihnen Dienstag oder Donnerstag um 17:30 Uhr recht?\n\nFrühestens könnten wir Mitte März mit den Arbeiten beginnen. Die Arbeiten dauern etwa zwei Wochen.\n\nDie Kosten hängen davon ab, welche Fliesen Sie wählen und ob Leitungen verlegt werden müssen. Nach der Besichtigung erhalten Sie innerhalb einer Woche ein unverbindliches Angebot.\n\nMit freundlichen Grüßen\nOlga Iwanowa\nSanitär Weber GmbH"
+  },
+  {
+   "id": "m51",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kollegin bittet um Hilfe bei der Dokumentation",
+   "von": "Lena aus der Nachtschicht",
+   "betreff": "Frage zur neuen Software",
+   "text": "Hallo Olga,\n\nich komme mit dem neuen Dokumentationsprogramm überhaupt nicht zurecht. Gestern Nacht habe ich zwei Einträge gemacht, und heute sind sie weg. Ich glaube, ich habe vergessen zu speichern. Du kennst dich doch gut damit aus. Könntest du mir das mal in Ruhe zeigen? Ich habe diese Woche Montag und Mittwoch frei.\n\nDanke dir!\nLena",
+   "fragen": [
+    {
+     "q": "Was ist Lenas Problem?",
+     "o": [
+      "Der Computer ist kaputt.",
+      "Ihre Einträge sind verschwunden.",
+      "Sie hat kein Passwort."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wann hat Lena frei?",
+     "o": [
+      "Montag und Mittwoch",
+      "Dienstag und Donnerstag",
+      "am Wochenende"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Antworten Sie Lena.",
+   "punkte": [
+    "Verständnis zeigen",
+    "Möglichen Fehler erklären",
+    "Termin vorschlagen",
+    "Weitere Hilfe anbieten"
+   ],
+   "ru": "Ответьте Лене: проявите понимание, объясните возможную ошибку, предложите время, предложите дальнейшую помощь.",
+   "rm": [
+    "Das kenne ich, am Anfang …",
+    "Wahrscheinlich hast du …",
+    "Wie wäre es mit …?",
+    "Außerdem kannst du …"
+   ],
+   "m": "Hallo Lena,\n\ndas kenne ich, am Anfang hatte ich auch Probleme mit dem Programm.\n\nWahrscheinlich hast du am Ende nicht auf „Speichern und abschließen“ geklickt. Wenn man nur das Fenster schließt, sind die Einträge weg.\n\nWie wäre es mit Mittwoch um 13 Uhr? Dann habe ich Frühdienst bis 13:30 und kann dir alles in Ruhe am Computer im Dienstzimmer zeigen.\n\nAußerdem gibt es im Intranet eine kurze Anleitung mit Bildern. Den Link schicke ich dir gleich.\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "m52",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Lieferant schickt falsche Ware",
+   "von": "Frau Brandt, Medizinbedarf Nord",
+   "betreff": "Ihre Bestellung 4410",
+   "text": "Sehr geehrte Frau Iwanowa,\n\nvielen Dank für Ihre Bestellung. Leider ist uns bei der Lieferung ein Fehler passiert: Statt 20 Packungen Handschuhe in Größe M haben Sie Größe L erhalten. Wir schicken Ihnen die richtige Ware heute noch per Express. Die falschen Handschuhe können Sie behalten oder zurückschicken – bitte teilen Sie uns mit, was Sie bevorzugen.\n\nMit freundlichen Grüßen\nSabine Brandt",
+   "fragen": [
+    {
+     "q": "Was war falsch?",
+     "o": [
+      "die Größe der Handschuhe",
+      "der Preis",
+      "die Menge"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was dürfen die Kunden mit der falschen Ware machen?",
+     "o": [
+      "behalten oder zurückschicken",
+      "nur zurückschicken",
+      "wegwerfen"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Antworten Sie Frau Brandt.",
+   "punkte": [
+    "Dank für die Information",
+    "Entscheidung: behalten oder zurückschicken?",
+    "Begründung",
+    "Frage zur Rechnung"
+   ],
+   "ru": "Ответьте г-же Брандт: благодарность, решение, обоснование, вопрос о счёте.",
+   "rm": [
+    "Vielen Dank, dass Sie …",
+    "Wir möchten die Handschuhe …",
+    "Der Grund ist, dass …",
+    "Könnten Sie uns bitte mitteilen, ob …?"
+   ],
+   "m": "Sehr geehrte Frau Brandt,\n\nvielen Dank, dass Sie uns so schnell informiert haben und die richtige Ware per Express schicken.\n\nWir möchten die Handschuhe in Größe L gern behalten. Der Grund ist, dass einige Kollegen große Hände haben und wir diese Größe ohnehin bald bestellt hätten.\n\nKönnten Sie uns bitte mitteilen, ob Sie die zusätzlichen Packungen auf einer neuen Rechnung berechnen oder ob wir sie mit der nächsten Bestellung bezahlen sollen?\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "m53",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Einladung zum Mitarbeitergespräch",
+   "von": "Herr Weiß, Pflegedienstleitung",
+   "betreff": "Jahresgespräch",
+   "text": "Liebe Frau Iwanowa,\n\nwie jedes Jahr möchte ich mit allen Mitarbeitenden ein Jahresgespräch führen. Wir sprechen über das vergangene Jahr, Ihre Ziele und Ihre Wünsche zur Weiterbildung. Bitte überlegen Sie sich vorher, was gut lief und was wir verbessern können. Ich schlage Donnerstag, den 21., um 14 Uhr vor.\n\nViele Grüße\nPeter Weiß",
+   "fragen": [
+    {
+     "q": "Worüber wird gesprochen?",
+     "o": [
+      "über einen Fehler",
+      "über das Jahr, Ziele und Weiterbildung",
+      "nur über das Gehalt"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was soll Frau Iwanowa vorher tun?",
+     "o": [
+      "ihre Zeugnisse mitbringen",
+      "sich überlegen, was gut lief und was besser werden kann",
+      "einen Bericht schreiben"
+     ],
+     "r": 1
+    }
+   ],
+   "aufgabe": "Antworten Sie Herrn Weiß.",
+   "punkte": [
+    "Termin bestätigen oder Alternative",
+    "Ein Thema, das Ihnen wichtig ist",
+    "Wunsch zur Weiterbildung",
+    "Gruß"
+   ],
+   "ru": "Ответьте г-ну Вайсу: подтвердите время или предложите другое, важная тема, пожелание об обучении.",
+   "rm": [
+    "Vielen Dank für die Einladung.",
+    "Der Termin am … passt mir …",
+    "Besonders wichtig ist mir …",
+    "Ich würde gern …"
+   ],
+   "m": "Lieber Herr Weiß,\n\nvielen Dank für die Einladung. Der Termin am Donnerstag, den 21., um 14 Uhr passt mir gut.\n\nBesonders wichtig ist mir das Thema Dienstplan: Seit dem Sommer muss ich sehr oft kurzfristig einspringen. Ich würde gern besprechen, wie man das besser planen kann.\n\nAußerdem würde ich gern die Fortbildung zur Praxisanleiterin machen. Ich habe mich schon über die Kosten und Termine informiert und bringe die Unterlagen mit.\n\nViele Grüße\nOlga Iwanowa"
+  },
+  {
+   "id": "m54",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Beschwerde eines Angehörigen",
+   "von": "Frau Sommer",
+   "betreff": "Mein Vater, Zimmer 15",
+   "text": "Sehr geehrte Damen und Herren,\n\nbei meinem Besuch am Sonntag war mein Vater um 11 Uhr noch nicht gewaschen und hatte kein Frühstück bekommen. Außerdem war seine Brille nicht auffindbar. Ich verstehe, dass Sie viel Arbeit haben, aber so geht das nicht. Ich bitte um eine Erklärung und um ein Gespräch.\n\nMit freundlichen Grüßen\nKarin Sommer",
+   "fragen": [
+    {
+     "q": "Was war am Sonntag nicht in Ordnung?",
+     "o": [
+      "Der Vater war nicht gewaschen und hatte kein Frühstück.",
+      "Das Zimmer war schmutzig.",
+      "Der Vater war krank."
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was möchte Frau Sommer?",
+     "o": [
+      "eine Erklärung und ein Gespräch",
+      "einen anderen Pflegeplatz",
+      "Geld zurück"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Sie sind Wohnbereichsleitung. Antworten Sie Frau Sommer.",
+   "punkte": [
+    "Entschuldigung",
+    "Erklärung",
+    "Was ändert sich?",
+    "Gesprächstermin"
+   ],
+   "ru": "Вы руководитель отделения. Ответьте г-же Зоммер: извинение, объяснение, что изменится, время встречи.",
+   "rm": [
+    "Es tut mir sehr leid, dass …",
+    "Am Sonntag war leider …",
+    "Ab sofort …",
+    "Gern biete ich Ihnen ein Gespräch am … an."
+   ],
+   "m": "Sehr geehrte Frau Sommer,\n\nes tut mir sehr leid, dass Ihr Vater am Sonntag so lange warten musste.\n\nAm Sonntag waren leider zwei Kolleginnen kurzfristig krank, und wir konnten keine Vertretung finden. Das ist keine Entschuldigung, aber eine Erklärung. Die Brille wurde am Nachmittag in der Wäsche gefunden.\n\nAb sofort ist Ihr Vater morgens als einer der Ersten eingeplant, und wir haben für die Brille ein festes Etui auf dem Nachttisch.\n\nGern biete ich Ihnen ein Gespräch am Mittwoch um 16 Uhr in meinem Büro an.\n\nMit freundlichen Grüßen\nOlga Iwanowa, Wohnbereichsleitung"
+  },
+  {
+   "id": "m55",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Absage einer Fortbildung",
+   "von": "Bildungszentrum Pflege",
+   "betreff": "Kurs „Demenz verstehen“",
+   "text": "Sehr geehrte Teilnehmende,\n\nleider müssen wir den Kurs „Demenz verstehen“ am 9. und 10. Mai absagen, da die Referentin erkrankt ist. Wir bieten einen Ersatztermin am 13. und 14. Juni an. Wer an diesem Termin nicht teilnehmen kann, erhält die Kursgebühr vollständig zurück. Bitte teilen Sie uns bis zum 20. Mai mit, wie Sie sich entscheiden.\n\nMit freundlichen Grüßen\nIhr Bildungszentrum",
+   "fragen": [
+    {
+     "q": "Warum fällt der Kurs aus?",
+     "o": [
+      "Es gibt zu wenige Teilnehmer.",
+      "Die Referentin ist krank.",
+      "Der Raum ist besetzt."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Bis wann muss man antworten?",
+     "o": [
+      "bis zum 13. Juni",
+      "bis zum 9. Mai",
+      "bis zum 20. Mai"
+     ],
+     "r": 2
+    }
+   ],
+   "aufgabe": "Antworten Sie dem Bildungszentrum.",
+   "punkte": [
+    "Bedauern",
+    "Entscheidung",
+    "Begründung",
+    "Frage"
+   ],
+   "ru": "Ответьте учебному центру: сожаление, решение, обоснование, вопрос.",
+   "rm": [
+    "Schade, dass …",
+    "Ich nehme gern am Ersatztermin teil / Ich bitte um Erstattung …",
+    "Der Grund ist …",
+    "Könnten Sie mir noch sagen, …?"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nschade, dass der Kurs ausfallen muss. Ich wünsche der Referentin gute Besserung.\n\nIch nehme gern am Ersatztermin am 13. und 14. Juni teil. Der Kurs ist für meine Arbeit sehr wichtig, weil wir auf unserem Wohnbereich immer mehr Menschen mit Demenz betreuen.\n\nKönnten Sie mir noch sagen, ob der Kurs wieder im gleichen Raum stattfindet und ob die Zeiten gleich bleiben?\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  }
+ ],
+ "notiz": [
+  {
+   "id": "n39",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kunde will Termin für Reparatur",
+   "situation": "Sie arbeiten in einer Autowerkstatt. Ein Kunde ruft an. Notieren Sie die Informationen für den Meister.",
+   "audio": "Ja, guten Tag, Hartmann hier. Mein Auto, ein blauer Golf mit dem Kennzeichen DD – K M 4 4 2, macht beim Bremsen so ein lautes Quietschen. Ich bräuchte einen Termin, am besten diese Woche noch. Ich kann das Auto am Donnerstag früh um sieben bringen und brauche es Freitagabend wieder. Erreichbar bin ich unter 0 1 7 2, 6 6 5 4 3 2 1.",
+   "felder": [
+    {
+     "l": "Kunde",
+     "a": [
+      "hartmann"
+     ]
+    },
+    {
+     "l": "Auto",
+     "a": [
+      "golf"
+     ]
+    },
+    {
+     "l": "Problem",
+     "a": [
+      "bremse",
+      "quietsch"
+     ]
+    },
+    {
+     "l": "Bringt Auto",
+     "a": [
+      "donnerstag"
+     ]
+    },
+    {
+     "l": "Telefon",
+     "a": [
+      "6654321"
+     ]
+    }
+   ],
+   "m": "Für den Meister\nHr. Hartmann, blauer Golf (DD-KM 442)\nProblem: lautes Quietschen beim Bremsen\nBringt das Auto Do 7 Uhr, braucht es Fr abends zurück\nTel. 0172 6654321"
+  },
+  {
+   "id": "n40",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Apotheke ruft im Pflegeheim an",
+   "situation": "Sie arbeiten im Pflegeheim. Die Apotheke ruft an. Notieren Sie die Informationen für die Pflegefachkraft.",
+   "audio": "Hallo, hier ist die Rosen-Apotheke, Herr Klein. Es geht um das Rezept für Frau Weber, Zimmer 9. Das Blutdruckmittel ist im Moment nicht lieferbar. Wir haben aber ein anderes Präparat mit dem gleichen Wirkstoff. Der Arzt muss aber zustimmen. Können Sie bitte bei Dr. Neumann nachfragen und uns bis morgen 12 Uhr Bescheid geben? Unsere Nummer ist 0 3 5 1, 4 0 3 3 2 1.",
+   "felder": [
+    {
+     "l": "Bewohnerin",
+     "a": [
+      "weber"
+     ]
+    },
+    {
+     "l": "Problem",
+     "a": [
+      "nicht lieferbar"
+     ]
+    },
+    {
+     "l": "Alternative",
+     "a": [
+      "gleichen wirkstoff",
+      "anderes"
+     ]
+    },
+    {
+     "l": "Arzt fragen",
+     "a": [
+      "neumann"
+     ]
+    },
+    {
+     "l": "Frist",
+     "a": [
+      "morgen",
+      "12"
+     ]
+    }
+   ],
+   "m": "Für die Pflegefachkraft\nRosen-Apotheke (Hr. Klein): Blutdruckmittel für Fr. Weber, Zi. 9, nicht lieferbar\nAlternative mit gleichem Wirkstoff möglich – Arzt muss zustimmen\nBitte bei Dr. Neumann nachfragen, Apotheke bis morgen 12 Uhr informieren: 0351 403321"
+  },
+  {
+   "id": "n41",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Bewerber fragt nach",
+   "situation": "Sie arbeiten in der Personalabteilung. Ein Bewerber ruft an. Notieren Sie das Wichtigste für Ihre Chefin.",
+   "audio": "Guten Tag, mein Name ist Daniel Popescu, das schreibt man P – O – P – E – S – C – U. Ich habe mich vor drei Wochen als Lagerhelfer beworben und noch keine Antwort bekommen. Ich wollte fragen, ob meine Bewerbung angekommen ist. Ich habe inzwischen auch den Staplerschein gemacht, das Zertifikat kann ich nachreichen. Sie erreichen mich am besten vormittags.",
+   "felder": [
+    {
+     "l": "Name",
+     "a": [
+      "popescu"
+     ]
+    },
+    {
+     "l": "Stelle",
+     "a": [
+      "lager"
+     ]
+    },
+    {
+     "l": "Frage",
+     "a": [
+      "bewerbung",
+      "angekommen"
+     ]
+    },
+    {
+     "l": "Neu",
+     "a": [
+      "stapler"
+     ]
+    },
+    {
+     "l": "Erreichbar",
+     "a": [
+      "vormittag"
+     ]
+    }
+   ],
+   "m": "Für Frau Hartmann\nBewerber Daniel Popescu (Lagerhelfer, Bewerbung vor 3 Wochen)\nFragt, ob die Bewerbung angekommen ist\nNeu: hat jetzt Staplerschein, Zertifikat kommt\nAm besten vormittags erreichbar"
+  },
+  {
+   "id": "n42",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Hausmeister meldet Problem",
+   "situation": "Sie arbeiten am Empfang einer Schule. Der Hausmeister ruft an. Notieren Sie die Nachricht für die Schulleiterin.",
+   "audio": "Hallo, hier ist Krüger, der Hausmeister. In der Turnhalle ist heute Nacht ein Rohr kaputtgegangen. Der Boden ist nass. Die Turnhalle muss heute und morgen gesperrt bleiben. Der Sportunterricht kann auf dem Sportplatz stattfinden, wenn das Wetter gut ist, sonst in der Aula. Die Firma Wasser-Weber kommt heute um 10 Uhr. Ich bin auf dem Handy erreichbar.",
+   "felder": [
+    {
+     "l": "Wo",
+     "a": [
+      "turnhalle"
+     ]
+    },
+    {
+     "l": "Problem",
+     "a": [
+      "rohr",
+      "nass"
+     ]
+    },
+    {
+     "l": "Gesperrt",
+     "a": [
+      "heute",
+      "morgen"
+     ]
+    },
+    {
+     "l": "Alternative",
+     "a": [
+      "sportplatz",
+      "aula"
+     ]
+    },
+    {
+     "l": "Firma",
+     "a": [
+      "10",
+      "weber"
+     ]
+    }
+   ],
+   "m": "Für die Schulleiterin\nHausmeister Krüger: Rohrbruch in der Turnhalle, Boden nass\nTurnhalle heute und morgen gesperrt\nSport: auf dem Sportplatz, bei schlechtem Wetter in der Aula\nFa. Wasser-Weber kommt heute 10 Uhr; Hr. Krüger per Handy erreichbar"
+  }
+ ],
+ "forum": [
+  {
+   "id": "f31",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Sprachkurs während der Arbeitszeit",
+   "frage": "Sollten Arbeitgeber Deutschkurse während der Arbeitszeit erlauben?",
+   "beitraege": [
+    {
+     "name": "Svetlana",
+     "text": "Nach acht Stunden Pflege bin ich zu müde zum Lernen. Ein Kurs am Vormittag wäre ideal."
+    },
+    {
+     "name": "Rolf",
+     "text": "Dann fehlt ja jemand auf der Station. Lernen ist Privatsache."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung",
+    "Vorteile für Betrieb und Mitarbeiter",
+    "Mögliche Lösung"
+   ],
+   "ru": "Должны ли работодатели разрешать языковые курсы в рабочее время: мнение, польза, решение.",
+   "rm": [
+    "Ich kann Svetlana gut verstehen, weil …",
+    "Rolf hat insofern recht, als …",
+    "Für den Betrieb lohnt sich das, weil …",
+    "Eine Lösung wäre …"
+   ],
+   "m": "Ich kann Svetlana gut verstehen, weil Lernen nach einer langen Schicht wirklich schwer ist. Ich kenne das aus eigener Erfahrung.\n\nRolf hat insofern recht, als ein Kurs während der Arbeitszeit für das Team eine Belastung ist.\n\nFür den Betrieb lohnt sich das aber, weil Mitarbeiter mit besseren Deutschkenntnissen weniger Fehler machen, sicherer mit Ärzten und Angehörigen sprechen und länger im Betrieb bleiben.\n\nEine Lösung wäre, dass ein Teil des Kurses als Arbeitszeit zählt und der andere Teil in der Freizeit stattfindet. So tragen beide Seiten etwas bei."
+  },
+  {
+   "id": "f32",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Feedback von Kunden im Internet",
+   "frage": "Sollten Firmen auf jede Online-Bewertung antworten?",
+   "beitraege": [
+    {
+     "name": "Mareike",
+     "text": "Wir antworten auf jede Bewertung, auch auf die schlechten. Die Kunden finden das gut."
+    },
+    {
+     "name": "Jonas",
+     "text": "Das kostet viel zu viel Zeit. Viele Bewertungen sind sowieso unfair."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung",
+    "Vor- und Nachteile",
+    "Tipps"
+   ],
+   "ru": "Должны ли фирмы отвечать на каждый отзыв в интернете: мнение, плюсы и минусы, советы.",
+   "rm": [
+    "Meiner Ansicht nach …",
+    "Ein großer Vorteil ist …",
+    "Allerdings …",
+    "Mein Tipp: …"
+   ],
+   "m": "Meiner Ansicht nach sollten Firmen zumindest auf alle negativen Bewertungen antworten.\n\nEin großer Vorteil ist, dass andere Kunden sehen, dass die Firma Probleme ernst nimmt. Eine freundliche Antwort kann sogar einen verärgerten Kunden zurückgewinnen.\n\nAllerdings hat Jonas recht, dass das viel Zeit kostet, besonders für kleine Firmen.\n\nMein Tipp: Eine Person ist verantwortlich und antwortet einmal pro Woche. Bei positiven Bewertungen reicht ein kurzes Dankeschön, bei negativen sollte man sachlich bleiben und eine Lösung anbieten."
+  },
+  {
+   "id": "f33",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Generationen im Team",
+   "frage": "Funktioniert die Zusammenarbeit zwischen Jung und Alt im Betrieb?",
+   "beitraege": [
+    {
+     "name": "Paul",
+     "text": "Die älteren Kollegen wollen nichts Neues lernen. Mit Computern sind sie langsam."
+    },
+    {
+     "name": "Brigitte",
+     "text": "Die Jungen haben keine Geduld und schauen ständig aufs Handy. Erfahrung zählt nichts mehr."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung",
+    "Stärken beider Gruppen",
+    "Vorschlag"
+   ],
+   "ru": "Работает ли сотрудничество молодых и пожилых в коллективе: мнение, сильные стороны, предложение.",
+   "rm": [
+    "Beide Beiträge zeigen …",
+    "Ältere Kollegen bringen … mit, jüngere …",
+    "Ich schlage vor, …"
+   ],
+   "m": "Beide Beiträge zeigen leider vor allem Vorurteile.\n\nÄltere Kollegen bringen viel Erfahrung mit. Sie wissen, wie man mit schwierigen Situationen umgeht, und bleiben oft ruhiger. Jüngere Kollegen kennen sich dagegen besser mit Technik aus und haben neue Ideen.\n\nIn meinem Team arbeiten Menschen zwischen 19 und 63 Jahren zusammen, und meistens klappt das sehr gut.\n\nIch schlage vor, dass Firmen Tandems bilden: Ein jüngerer und ein älterer Kollege arbeiten zusammen und lernen voneinander. So profitieren alle."
+  },
+  {
+   "id": "f34",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Pause oder durcharbeiten?",
+   "frage": "Ist es besser, die Pause zu machen oder durchzuarbeiten und früher zu gehen?",
+   "beitraege": [
+    {
+     "name": "Mehmet",
+     "text": "Ich arbeite lieber durch und gehe eine halbe Stunde früher nach Hause zu meinen Kindern."
+    },
+    {
+     "name": "Ulrike",
+     "text": "Ohne Pause mache ich am Nachmittag Fehler. Die Pause ist gesetzlich vorgeschrieben."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung",
+    "Gesundheit und Sicherheit",
+    "Ihre Erfahrung"
+   ],
+   "ru": "Лучше делать перерыв или работать без перерыва и уходить раньше: мнение, здоровье и безопасность, опыт.",
+   "rm": [
+    "Ich verstehe Mehmets Wunsch, aber …",
+    "Ulrike hat recht, dass …",
+    "Aus eigener Erfahrung …",
+    "Deshalb …"
+   ],
+   "m": "Ich verstehe Mehmets Wunsch, früher bei seinen Kindern zu sein, aber ich halte das für keine gute Idee.\n\nUlrike hat recht, dass die Pause gesetzlich vorgeschrieben ist. Sie schützt nicht nur die Gesundheit, sondern auch die Kunden oder Patienten, denn müde Mitarbeiter machen mehr Fehler.\n\nAus eigener Erfahrung weiß ich, dass schon 30 Minuten Pause mit einem Spaziergang an der frischen Luft viel bringen. Danach kann ich mich wieder viel besser konzentrieren.\n\nDeshalb finde ich: Pause machen und lieber mit dem Chef über flexible Arbeitszeiten sprechen."
+  }
+ ],
+ "diskussion": [
+  {
+   "id": "d23",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Dienstkleidung für alle",
+   "thema": "Sollten alle Mitarbeiter einheitliche Dienstkleidung tragen?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Einheitliche Kleidung ist gut. Dann sieht man sofort, wer zum Team gehört.",
+     "o": [
+      "Das kann ich nachvollziehen. Allerdings sollte die Kleidung bequem sein und vom Betrieb gewaschen werden, sonst ist es ungerecht.",
+      "Ich mag keine Uniform.",
+      "Stimmt."
+     ],
+     "r": 0,
+     "e": " Zustimmen und Bedingungen nennen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Und wer bezahlt das?",
+     "o": [
+      "Die Firma sollte die Kleidung bezahlen, denn sie will ja das einheitliche Aussehen. Ein Kompromiss wäre, dass jeder drei Sets bekommt und beim Kauf mitentscheiden darf.",
+      "Jeder selbst.",
+      "Egal."
+     ],
+     "r": 0,
+     "e": "Kostenfrage klären + Kompromiss."
+    }
+   ],
+   "m": "Einheitliche Dienstkleidung ja, aber bequem, vom Betrieb bezahlt und gewaschen; Mitarbeiter dürfen bei der Auswahl mitentscheiden."
+  },
+  {
+   "id": "d24",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kameras im Pflegeheim",
+   "thema": "Sollten in Gemeinschaftsräumen von Pflegeheimen Kameras hängen?",
+   "situation": "Diskutieren Sie mit Ihrer Kollegin.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Kameras würden Stürze schneller zeigen. Dann können wir sofort helfen.",
+     "o": [
+      "Das ist ein Argument. Da muss ich aber widersprechen: Die Bewohner haben ein Recht auf Privatsphäre, und das Personal würde sich ständig kontrolliert fühlen.",
+      "Kameras sind gut.",
+      "Kameras kosten Geld."
+     ],
+     "r": 0,
+     "e": "Gegenargument mit zwei Gründen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Was schlagen Sie stattdessen vor?",
+     "o": [
+      "Ein Kompromiss wäre Technik ohne Bild, zum Beispiel Sensoren im Boden, die bei einem Sturz Alarm geben. Außerdem brauchen wir genug Personal in den Räumen.",
+      "Nichts.",
+      "Mehr Kameras."
+     ],
+     "r": 0,
+     "e": "Alternative vorschlagen."
+    }
+   ],
+   "m": "Keine Kameras wegen Privatsphäre; besser Sturzsensoren ohne Bild und mehr Personal in den Gemeinschaftsräumen."
+  },
+  {
+   "id": "d25",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kostenlose Getränke am Arbeitsplatz",
+   "thema": "Sollte die Firma allen Mitarbeitern kostenlos Kaffee und Wasser geben?",
+   "situation": "Sie sprechen mit dem Betriebsrat.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Kostenloser Kaffee ist zu teuer für die Firma. Jeder kann sich seinen Kaffee selbst mitbringen.",
+     "o": [
+      "Das sehe ich anders. Die Kosten sind im Vergleich zu den Gehältern sehr gering, und zufriedene Mitarbeiter arbeiten besser.",
+      "Kaffee ist ungesund.",
+      "Stimmt, zu teuer."
+     ],
+     "r": 0,
+     "e": "Widersprechen mit Kosten-Nutzen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Und wenn manche den Kaffee mit nach Hause nehmen?",
+     "o": [
+      "Dann könnte man Kaffee aus dem Automaten anbieten, der nur im Pausenraum funktioniert. Wasser sollte auf jeden Fall kostenlos sein, besonders im Sommer.",
+      "Dann verbieten wir alles.",
+      "Das passiert nicht."
+     ],
+     "r": 0,
+     "e": "Praktische Lösung."
+    }
+   ],
+   "m": "Wasser kostenlos für alle; Kaffee über einen Automaten im Pausenraum – geringe Kosten, hohe Zufriedenheit."
+  },
+  {
+   "id": "d26",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Englisch im Pflegeheim",
+   "thema": "Sollten Pflegekräfte auch Englisch lernen müssen?",
+   "situation": "Diskutieren Sie mit Ihrem Partner.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Viele Ärzte und Kollegen kommen aus dem Ausland. Englisch würde die Kommunikation erleichtern.",
+     "o": [
+      "Das kann ich nachvollziehen. Aber die Bewohner sprechen Deutsch, oft auch Dialekt. Deutsch muss für alle die wichtigste Sprache bleiben.",
+      "Englisch ist einfach.",
+      "Nein."
+     ],
+     "r": 0,
+     "e": "Verständnis + Priorität Deutsch."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Also gar kein Englisch?",
+     "o": [
+      "Doch, als Zusatzangebot ist das sinnvoll. Ein Kompromiss wäre ein freiwilliger Englischkurs, aber verpflichtend sollte nur Deutsch sein.",
+      "Nur Englisch.",
+      "Keine Sprachen."
+     ],
+     "r": 0,
+     "e": "Kompromiss formulieren."
+    }
+   ],
+   "m": "Deutsch bleibt Pflicht, Englisch als freiwilliges Zusatzangebot."
+  }
+ ],
+ "brief": [
+  {
+   "id": "b35",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fahrrad gestohlen – Versicherung",
+   "situation": "Ihr Fahrrad wurde vor dem Supermarkt gestohlen. Schreiben Sie an Ihre Hausratversicherung.",
+   "punkte": [
+    "Was ist passiert?",
+    "Wann und wo?",
+    "Haben Sie die Polizei informiert?",
+    "Was möchten Sie?"
+   ],
+   "ru": "Напишите в страховую о краже велосипеда: что случилось, когда и где, сообщили ли в полицию, чего хотите.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren,",
+    "am … wurde mein Fahrrad …",
+    "Ich habe Anzeige …",
+    "Bitte …"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nam Montag, 3. Juni, wurde mein Fahrrad vor dem Supermarkt in der Bahnhofstraße gestohlen. Es war abgeschlossen.\n\nIch habe sofort bei der Polizei Anzeige erstattet. Die Bescheinigung schicke ich Ihnen mit.\n\nBitte ersetzen Sie mir den Schaden. Das Fahrrad war zwei Jahre alt und hat 600 Euro gekostet. Die Rechnung habe ich noch.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "b36",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anmeldung im Sportverein für das Kind",
+   "situation": "Ihr Sohn möchte Fußball spielen. Schreiben Sie an den Verein.",
+   "punkte": [
+    "Wer ist Ihr Kind?",
+    "Erfahrung",
+    "Fragen zu Training und Kosten",
+    "Probetraining"
+   ],
+   "ru": "Напишите в спортивный клуб: кто ваш ребёнок, опыт, вопросы о тренировках и стоимости, пробная тренировка.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren,",
+    "mein Sohn … ist … Jahre alt.",
+    "Wann ist das Training?",
+    "Darf er zuerst …?"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nmein Sohn Maxim ist acht Jahre alt und möchte gern Fußball spielen. In der Schule spielt er jede Pause und hat viel Spaß dabei.\n\nWann ist das Training für seine Altersgruppe und wie viel kostet der Verein im Monat?\n\nDarf er zuerst einmal kostenlos zum Probetraining kommen?\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "b37",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Bitte an den Vermieter: Haustier",
+   "situation": "Sie möchten eine Katze haben. Schreiben Sie Ihrem Vermieter.",
+   "punkte": [
+    "Ihre Bitte",
+    "Warum möchten Sie eine Katze?",
+    "Versprechen",
+    "Bitte um Antwort"
+   ],
+   "ru": "Попросите арендодателя разрешить кошку: просьба, почему, обещание, просьба ответить.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrter Herr …,",
+    "ich möchte Sie fragen, ob …",
+    "Meine Kinder …",
+    "Ich verspreche, dass …",
+    "Bitte geben Sie mir Bescheid."
+   ],
+   "m": "Sehr geehrter Herr Wolf,\n\nich möchte Sie fragen, ob wir in unserer Wohnung eine Katze halten dürfen.\n\nMeine Kinder wünschen sich schon lange ein Haustier, und eine Katze macht keinen Lärm.\n\nIch verspreche, dass wir gut auf die Wohnung aufpassen. Falls etwas kaputtgeht, bezahlen wir den Schaden.\n\nBitte geben Sie mir bis Ende des Monats Bescheid.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "b38",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Termin beim Bürgeramt verschieben",
+   "situation": "Sie haben einen Termin beim Bürgeramt für einen neuen Reisepass. Sie können nicht kommen. Schreiben Sie eine E-Mail.",
+   "punkte": [
+    "Ihr Termin",
+    "Grund",
+    "Neuer Termin",
+    "Frage"
+   ],
+   "ru": "Перенесите запись в бюро обслуживания граждан: ваш термин, причина, новый термин, вопрос.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren,",
+    "ich habe am … einen Termin …",
+    "Leider …",
+    "Ist es möglich, …?",
+    "Muss ich …?"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nich habe am Dienstag, 14. Mai, um 9:30 Uhr einen Termin für einen neuen Reisepass.\n\nLeider muss ich an diesem Tag arbeiten, weil eine Kollegin krank ist.\n\nIst es möglich, einen Termin in der nächsten Woche am Nachmittag zu bekommen?\n\nMuss ich zum neuen Termin wieder ein biometrisches Foto mitbringen, oder reicht das alte?\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  }
+ ],
+ "hoeren": [
+  {
+   "id": "h104",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Telefonat mit dem Lieferanten",
+   "situation": "Eine Mitarbeiterin ruft beim Lieferanten an.",
+   "text": "– Großhandel Ost, Peters. – Guten Tag, Iwanowa vom Pflegeheim Sonnenhof. Unsere Bestellung von Dienstag ist noch nicht da. Uns gehen die Handschuhe aus. – Einen Moment … Ihre Bestellung ist im Lager, aber der Fahrer ist krank. Wir können morgen früh liefern. – Morgen ist zu spät, wir brauchen heute zumindest ein paar Packungen. – Dann holen Sie doch fünf Packungen bei uns ab, wir haben bis 18 Uhr geöffnet. Den Rest liefern wir morgen kostenlos.",
+   "fragen": [
+    {
+     "q": "Warum ist die Bestellung nicht da?",
+     "o": [
+      "Die Ware fehlt im Lager.",
+      "Die Bestellung wurde vergessen.",
+      "Der Fahrer ist krank."
+     ],
+     "r": 2
+    },
+    {
+     "q": "Was schlägt Herr Peters vor?",
+     "o": [
+      "morgen alles abholen",
+      "fünf Packungen heute abholen",
+      "bei einem anderen Lieferanten bestellen"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Die Lieferung morgen kostet extra."
+    }
+   ]
+  },
+  {
+   "id": "h105",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Besprechung: Urlaubsplanung",
+   "situation": "Die Teamleiterin spricht mit dem Team.",
+   "text": "Kurz zur Urlaubsplanung für den Sommer: Bitte tragt eure Wünsche bis Ende Februar in die Liste ein. Wichtig: Es dürfen höchstens drei Personen gleichzeitig Urlaub haben. Kollegen mit schulpflichtigen Kindern haben in den Sommerferien Vorrang, aber nur für zwei Wochen. Wer letztes Jahr im Juli frei hatte, plant dieses Jahr bitte eher Juni oder August.",
+   "fragen": [
+    {
+     "q": "Bis wann sollen die Wünsche eingetragen werden?",
+     "o": [
+      "bis zu den Sommerferien",
+      "bis Ende März",
+      "bis Ende Februar"
+     ],
+     "r": 2
+    },
+    {
+     "q": "Wie viele Personen dürfen gleichzeitig Urlaub haben?",
+     "o": [
+      "höchstens zwei",
+      "beliebig viele",
+      "höchstens drei"
+     ],
+     "r": 2
+    },
+    {
+     "rf": false,
+     "q": "Eltern bekommen in den Sommerferien vier Wochen Vorrang."
+    }
+   ]
+  },
+  {
+   "id": "h106",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Radio: Neue Regeln für Minijobs",
+   "situation": "Sie hören eine Meldung im Radio.",
+   "text": "Ab dem nächsten Jahr steigt die Grenze für Minijobs auf 590 Euro im Monat. Wer mehr verdient, muss Sozialversicherungsbeiträge zahlen. Minijobber haben übrigens die gleichen Rechte wie andere Beschäftigte: Sie haben Anspruch auf bezahlten Urlaub und auf Lohnfortzahlung bei Krankheit. Viele wissen das nicht. Eine kostenlose Beratung gibt es bei den Gewerkschaften.",
+   "fragen": [
+    {
+     "q": "Was ändert sich?",
+     "o": [
+      "Minijobber zahlen mehr Steuern.",
+      "Die Grenze für Minijobs steigt.",
+      "Minijobs werden abgeschafft."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Welches Recht haben Minijobber?",
+     "o": [
+      "bezahlten Urlaub",
+      "eine Betriebsrente",
+      "einen Dienstwagen"
+     ],
+     "r": 0
+    },
+    {
+     "rf": true,
+     "q": "Beratung bekommt man kostenlos bei den Gewerkschaften."
+    }
+   ]
+  },
+  {
+   "id": "h107",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch mit einem Kunden im Baumarkt",
+   "situation": "Ein Kunde spricht mit einer Verkäuferin.",
+   "text": "– Entschuldigung, ich suche Dübel für eine Gipswand. Ich möchte ein schweres Regal aufhängen. – Für Gipswände brauchen Sie spezielle Hohlraumdübel, die normalen halten nicht. Die finden Sie in Gang 7. – Und welche Größe? – Für ein schweres Regal nehmen Sie am besten die 10er. Ein Paket mit acht Stück kostet 6,90 Euro. Wenn Sie keinen passenden Bohrer haben, können Sie bei uns auch einen ausleihen.",
+   "fragen": [
+    {
+     "q": "Was braucht der Kunde?",
+     "o": [
+      "spezielle Dübel für eine Gipswand",
+      "ein neues Regal",
+      "eine Bohrmaschine"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wo findet er die Dübel?",
+     "o": [
+      "an der Kasse",
+      "in Gang 7",
+      "im Lager"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Man kann im Baumarkt einen Bohrer ausleihen."
+    }
+   ]
+  }
+ ],
+ "sb": [
+  {
+   "id": "s82",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Rundschreiben: Weihnachtsfeier",
+   "text": "Liebe Kolleginnen und Kollegen,\n\nauch in diesem Jahr möchten wir uns {{1}} euch für die gute Zusammenarbeit bedanken. Deshalb laden wir euch herzlich zu unserer Weihnachtsfeier ein, {{2}} am 15. Dezember im Restaurant „Elbblick“ stattfindet. Wer im Spätdienst eingeteilt ist, {{3}} gern später dazukommen. Bitte meldet euch bis zum 1. Dezember an, {{4}} wir die Plätze reservieren können. Teilt uns bitte auch mit, {{5}} ihr vegetarisch essen möchtet. Wir freuen uns {{6}} einen schönen Abend mit euch!\n\nEure Geschäftsleitung",
+   "gaps": [
+    {
+     "o": [
+      "für",
+      "bei",
+      "an"
+     ],
+     "r": 1,
+     "k": "Verb mit Präposition",
+     "e": "sich bedanken bei + Person."
+    },
+    {
+     "o": [
+      "die",
+      "der",
+      "das"
+     ],
+     "r": 0,
+     "k": "Relativpronomen",
+     "e": "die Weihnachtsfeier → die."
+    },
+    {
+     "o": [
+      "können",
+      "könnt",
+      "kann"
+     ],
+     "r": 2,
+     "k": "Modalverb",
+     "e": "wer … kann (3. Person)."
+    },
+    {
+     "o": [
+      "damit",
+      "weil",
+      "obwohl"
+     ],
+     "r": 0,
+     "k": "Nebensatz",
+     "e": "damit = Ziel."
+    },
+    {
+     "o": [
+      "dass",
+      "ob",
+      "wenn"
+     ],
+     "r": 1,
+     "k": "indirekte Frage",
+     "e": "ja/nein → ob."
+    },
+    {
+     "o": [
+      "auf",
+      "an",
+      "über"
+     ],
+     "r": 0,
+     "k": "Verb mit Präposition",
+     "e": "sich freuen auf (Zukunft)."
+    }
+   ]
+  },
+  {
+   "id": "s83",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Antwort auf eine Reklamation",
+   "text": "Sehr geehrte Frau Neumann,\n\nvielen Dank für Ihre E-Mail. Es tut uns sehr leid, {{1}} der Kühlschrank bei der Lieferung beschädigt war. Selbstverständlich {{2}} wir Ihnen ein neues Gerät. Der Fahrer bringt es am Freitag zwischen 8 und 12 Uhr und nimmt das beschädigte Gerät {{3}}. Sollte dieser Termin nicht passen, {{4}} Sie uns bitte kurz an. Als Entschuldigung erhalten Sie einen Gutschein {{5}} Wert von 30 Euro. Wir bitten nochmals {{6}} Entschuldigung.\n\nMit freundlichen Grüßen\nKundenservice",
+   "gaps": [
+    {
+     "o": [
+      "ob",
+      "dass",
+      "weil"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "es tut uns leid, dass …"
+    },
+    {
+     "o": [
+      "schicken",
+      "geschickt",
+      "schickt"
+     ],
+     "r": 0,
+     "k": "Konjugation",
+     "e": "wir schicken."
+    },
+    {
+     "o": [
+      "mit",
+      "ab",
+      "an"
+     ],
+     "r": 0,
+     "k": "trennbares Verb",
+     "e": "mitnehmen."
+    },
+    {
+     "o": [
+      "ruft",
+      "gerufen",
+      "rufen"
+     ],
+     "r": 2,
+     "k": "Imperativ Sie",
+     "e": "… rufen Sie uns an."
+    },
+    {
+     "o": [
+      "zum",
+      "am",
+      "im"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "im Wert von."
+    },
+    {
+     "o": [
+      "über",
+      "um",
+      "für"
+     ],
+     "r": 1,
+     "k": "Verb mit Präposition",
+     "e": "um Entschuldigung bitten."
+    }
+   ]
+  },
+  {
+   "id": "s84",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Information an Bewerber",
+   "text": "Sehr geehrte Bewerberinnen und Bewerber,\n\nwir freuen uns {{1}} Ihr Interesse an einer Ausbildung in unserem Haus. Das Auswahlverfahren besteht {{2}} zwei Teilen: einem Online-Test und einem persönlichen Gespräch. Wer den Test bestanden hat, {{3}} innerhalb von zwei Wochen eine Einladung. Bitte bringen Sie zum Gespräch Ihre Zeugnisse im Original {{4}}. Die Ausbildung beginnt am 1. September und dauert drei Jahre. Während der Ausbildung erhalten Sie eine Vergütung, {{5}} jedes Jahr steigt. Bei Fragen wenden Sie sich bitte {{6}} Frau Lorenz.\n\nIhre Personalabteilung",
+   "gaps": [
+    {
+     "o": [
+      "auf",
+      "an",
+      "über"
+     ],
+     "r": 2,
+     "k": "Verb mit Präposition",
+     "e": "sich freuen über (schon da)."
+    },
+    {
+     "o": [
+      "aus",
+      "von",
+      "mit"
+     ],
+     "r": 0,
+     "k": "Verb mit Präposition",
+     "e": "bestehen aus + Dativ."
+    },
+    {
+     "o": [
+      "erhalten",
+      "erhielt",
+      "erhält"
+     ],
+     "r": 2,
+     "k": "Konjugation",
+     "e": "wer … erhält (3. Person)."
+    },
+    {
+     "o": [
+      "mit",
+      "zu",
+      "an"
+     ],
+     "r": 0,
+     "k": "trennbares Verb",
+     "e": "mitbringen."
+    },
+    {
+     "o": [
+      "der",
+      "die",
+      "das"
+     ],
+     "r": 1,
+     "k": "Relativpronomen",
+     "e": "die Vergütung → die."
+    },
+    {
+     "o": [
+      "an",
+      "zu",
+      "bei"
+     ],
+     "r": 0,
+     "k": "Verb mit Präposition",
+     "e": "sich wenden an + Akk."
+    }
+   ]
+  },
+  {
+   "id": "s85",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Notiz zur Übergabe",
+   "text": "Hallo Team,\n\nfür die Nachtschicht: Herr Braun aus Zimmer 4 hatte heute Nachmittag Fieber, {{1}} 38,5 Grad. Die Ärztin war da und hat ein Antibiotikum {{2}}. Bitte messt nachts noch zweimal die Temperatur und tragt die Werte {{3}} die Dokumentation ein. Falls das Fieber über 39 Grad steigt, {{4}} bitte den Bereitschaftsarzt an. Frau Klein aus Zimmer 6 ist sehr unruhig, {{5}} ihre Tochter heute nicht kommen konnte. Vielleicht hilft es, {{6}} ihr eine warme Milch bringt.\n\nLG Olga",
+   "gaps": [
+    {
+     "o": [
+      "etwa",
+      "schon",
+      "fast"
+     ],
+     "r": 0,
+     "k": "Wortschatz",
+     "e": "etwa = ungefähr."
+    },
+    {
+     "o": [
+      "verordnet",
+      "verordnete",
+      "verordnen"
+     ],
+     "r": 0,
+     "k": "Perfekt",
+     "e": "hat … verordnet."
+    },
+    {
+     "o": [
+      "in",
+      "auf",
+      "an"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "eintragen in + Akk."
+    },
+    {
+     "o": [
+      "rufen",
+      "ruft",
+      "gerufen"
+     ],
+     "r": 1,
+     "k": "Imperativ ihr",
+     "e": "ruft … an."
+    },
+    {
+     "o": [
+      "weil",
+      "obwohl",
+      "deshalb"
+     ],
+     "r": 0,
+     "k": "Nebensatz",
+     "e": "weil: Verb am Ende."
+    },
+    {
+     "o": [
+      "dass man",
+      "wenn man",
+      "ob man"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "es hilft, wenn man …"
+    }
+   ]
+  }
+ ]
+}
