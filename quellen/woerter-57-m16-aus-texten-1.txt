@@ -1,0 +1,171 @@
+# M16 Wörter, die in Sätzen und Prüfungstexten der App vorkommen, aber noch fehlten (Teil 1)
+Herr|der|Herren|N|господин|Anrede für einen Mann|Guten Tag, Herr Weber!|A2|Person
+Dame|die|Damen|N|дама|höfliches Wort für Frau|Sehr geehrte Damen und Herren, …|A2|Briefe
+Team|das|Teams|N|команда|Gruppe, die zusammenarbeitet|Unser Team ist sehr nett.|A2|Arbeit
+Auto|das|Autos|N|машина, автомобиль|Fahrzeug mit vier Rädern|Ich fahre mit dem Auto zur Arbeit.|A2|Verkehr
+Internet|das|-|N|интернет|weltweites Computernetz|Ich suche die Adresse im Internet.|A2|Medien
+Supermarkt|der|Supermärkte|N|супермаркет|großes Lebensmittelgeschäft|Ich kaufe im Supermarkt ein.|A2|Einkaufen
+Park|der|Parks|N|парк|Grünanlage in der Stadt|Am Sonntag gehen wir in den Park.|A2|Freizeit
+Buch|das|Bücher|N|книга|Text mit vielen Seiten|Ich lese gerade ein spannendes Buch.|A2|Freizeit
+Telefon|das|Telefone|N|телефон|Gerät zum Anrufen|Das Telefon klingelt.|A2|Medien
+Reparatur|die|Reparaturen|N|ремонт|wieder ganz machen|Die Reparatur dauert zwei Tage.|A2|Wohnen
+Kundin|die|Kundinnen|N|клиентка, покупательница|Frau, die etwas kauft|Die Kundin möchte das Kleid umtauschen.|A2|Einkaufen
+Deutschkurs|der|Deutschkurse|N|курс немецкого|Unterricht in Deutsch|Ich besuche einen Deutschkurs.|A2|Bildung
+Personal|das|-|N|персонал|alle Mitarbeiter|Im Krankenhaus fehlt Personal.|B1|Arbeit
+Hotel|das|Hotels|N|гостиница|Haus zum Übernachten für Gäste|Wir übernachten in einem Hotel.|A2|Reisen
+Restaurant|das|Restaurants|N|ресторан|Lokal zum Essen|Wir gehen heute ins Restaurant.|A2|Essen
+Euro|der|Euros (meist: 5 Euro)|N|евро|Geld in Deutschland|Das kostet zehn Euro.|A2|Geld
+Vortrag|der|Vorträge|N|доклад|Rede über ein Thema|Sie hält einen Vortrag über Ernährung.|B1|Bildung
+Tipp|der|Tipps|N|совет|kleiner Rat|Hast du einen Tipp für mich?|A2|Alltag
+Techniker|der|Techniker|N|техник|Fachmann für Geräte|Der Techniker kommt morgen.|A2|Arbeit
+Film|der|Filme|N|фильм|bewegte Bilder im Kino oder TV|Der Film war sehr lustig.|A2|Freizeit
+Pass|der|Pässe|N|паспорт (загран.)|Dokument für Reisen|Mein Pass ist nicht mehr gültig.|A2|Behörden
+Musik|die|-|N|музыка|Töne, Lieder|Ich höre gern Musik.|A2|Freizeit
+Fußball|der|Fußbälle|N|футбол; футбольный мяч|Ballspiel; Ball|Mein Sohn spielt Fußball im Verein.|A2|Freizeit
+Kamera|die|Kameras|N|камера, фотоаппарат|Gerät für Fotos oder Videos|Im Eingang hängen Kameras.|A2|Medien
+Text|der|Texte|N|текст|geschriebene Sätze|Lesen Sie den Text.|A2|Bildung
+Dokumentation|die|Dokumentationen|N|документация|schriftliches Festhalten|Die Dokumentation muss vollständig sein.|B2|Pflege
+Job|der|Jobs|N|работа, подработка|Arbeit, Stelle|Ich habe einen neuen Job.|A2|Arbeit
+Forum|das|Foren|N|форум|Diskussionsseite im Internet|Ich habe die Frage in einem Forum gestellt.|B1|Medien
+Maschine|die|Maschinen|N|машина, аппарат|Gerät, das arbeitet|Die Maschine ist kaputt.|A2|Arbeit
+Schichtdienst|der|-|N|сменная работа|Arbeit in wechselnden Schichten|Im Schichtdienst ist die Kinderbetreuung schwer.|B1|Arbeit
+Laden|der|Läden|N|магазин|kleines Geschäft|Der Laden an der Ecke hat bis 20 Uhr geöffnet.|A2|Einkaufen
+Bahn|die|Bahnen|N|железная дорога; трамвай|Zug; Straßenbahn|Ich fahre mit der Bahn.|A2|Verkehr
+Video|das|Videos|N|видео|Film am Computer oder Handy|Ich schicke dir ein Video.|A2|Medien
+Halsschmerzen|die|(Pl.)|N|боль в горле|Schmerzen im Hals|Ich habe Halsschmerzen und Fieber.|A2|Gesundheit
+Planung|die|Planungen|N|планирование|das Planen|Die Planung der Feier läuft.|B1|Arbeit
+Bewohnerin|die|Bewohnerinnen|N|жительница, проживающая|Frau, die in einem Heim wohnt|Die Bewohnerin möchte spazieren gehen.|B1|Pflege
+Patientin|die|Patientinnen|N|пациентка|kranke Frau beim Arzt|Die Patientin wartet im Wartezimmer.|A2|Gesundheit
+Jobticket|das|Jobtickets|N|проездной от работодателя|günstige Monatskarte über die Firma|Mit dem Jobticket fahre ich günstig.|B1|Arbeit
+Schluss|der|Schlüsse|N|конец; вывод|Ende; Ergebnis des Denkens|Zum Schluss möchte ich mich bedanken.|A2|Alltag
+Pizza|die|Pizzen/Pizzas|N|пицца|italienisches Gericht|Wir bestellen eine Pizza.|A2|Essen
+Technik|die|Techniken|N|техника|Maschinen, Geräte; Methode|Die Technik funktioniert nicht.|A2|Arbeit
+Ahnung|die|Ahnungen|N|понятие, представление|Vermutung, Wissen|Keine Ahnung!|A2|Alltag
+Service|der|-|N|сервис, обслуживание|Hilfe für Kunden|Der Service im Hotel war sehr gut.|A2|Einkaufen
+Modell|das|Modelle|N|модель|Typ, Version|Welches Modell möchten Sie?|B1|Einkaufen
+Produkt|das|Produkte|N|продукт, товар|Ware|Das Produkt ist im Angebot.|A2|Einkaufen
+Haupteingang|der|Haupteingänge|N|главный вход|wichtigster Eingang|Wir treffen uns am Haupteingang.|A2|Alltag
+Mathe|die|-|N|математика (разг.)|kurz für Mathematik|Mein Sohn braucht Hilfe in Mathe.|A2|Bildung
+Sommerfest|das|Sommerfeste|N|летний праздник|Fest im Sommer|Die Kita feiert ein Sommerfest.|A2|Freizeit
+Taxi|das|Taxis|N|такси|Auto mit Fahrer, das man bezahlt|Wir nehmen ein Taxi zum Bahnhof.|A2|Verkehr
+Wendung|die|Wendungen|N|оборот (речи); поворот|feste Formulierung; Änderung|Lernen Sie feste Wendungen für Briefe.|B2|Bildung
+Punkt|der|Punkte|N|точка; пункт; балл|Satzzeichen; Thema; Bewertung|Der nächste Punkt ist die Urlaubsplanung.|A2|Bildung
+Bauarbeiten|die|(Pl.)|N|строительные работы|Arbeiten an einem Gebäude oder einer Straße|Wegen Bauarbeiten ist die Straße gesperrt.|B1|Verkehr
+Bewerber|der|Bewerber|N|кандидат|Person, die sich bewirbt|Wir haben zehn Bewerber eingeladen.|B1|Arbeit
+Wohnbereichsleitung|die|Wohnbereichsleitungen|N|руководитель отделения (в доме престарелых)|Chefin eines Wohnbereichs im Pflegeheim|Bitte informieren Sie die Wohnbereichsleitung.|B2|Pflege
+Deutschkenntnisse|die|(Pl.)|N|знание немецкого|was man in Deutsch kann|Für die Stelle brauchen Sie gute Deutschkenntnisse.|B1|Arbeit
+Ort|der|Orte|N|место; населённый пункт|Platz; Dorf oder Stadt|Wir treffen uns am gleichen Ort.|A2|Alltag
+Bezahlung|die|-|N|оплата|Lohn; das Bezahlen|Die Bezahlung in der Pflege ist besser geworden.|B1|Arbeit
+Dankeschön|das|-|N|спасибо, благодарность|kleiner Dank|Das ist ein kleines Dankeschön für Ihre Hilfe.|A2|Alltag
+Sommerferien|die|(Pl.)|N|летние каникулы|Ferien im Sommer|In den Sommerferien fahren wir weg.|A2|Familie
+Arbeitstag|der|Arbeitstage|N|рабочий день|Tag, an dem man arbeitet|Mein Arbeitstag beginnt um sechs Uhr.|A2|Arbeit
+Computerkurs|der|Computerkurse|N|компьютерный курс|Kurs am Computer|Ich mache einen Computerkurs an der VHS.|A2|Bildung
+Automat|der|Automaten|N|автомат|Maschine für Tickets, Getränke usw.|Die Fahrkarte gibt es am Automaten.|A2|Verkehr
+Abholung|die|Abholungen|N|получение, вывоз|das Abholen|Die Abholung des Pakets ist ab morgen möglich.|B1|Alltag
+Wartezeit|die|Wartezeiten|N|время ожидания|Zeit, die man warten muss|Die Wartezeit beträgt etwa 30 Minuten.|B1|Gesundheit
+Tonne|die|Tonnen|N|мусорный бак; тонна|Mülleimer draußen; 1000 Kilo|Die Tonne wird am Dienstag geleert.|A2|Wohnen
+Pflegerin|die|Pflegerinnen|N|сиделка, медсестра по уходу|Frau, die pflegt|Die Pflegerin hilft beim Anziehen.|A2|Pflege
+Intranet|das|Intranets|N|интранет|internes Netz einer Firma|Den Dienstplan finden Sie im Intranet.|B2|Arbeit
+Einkauf|der|Einkäufe|N|покупка|das Einkaufen|Kannst du den Einkauf machen?|A2|Einkaufen
+Heim|das|Heime|N|дом (престарелых и т. п.); дом|Pflegeheim; Zuhause|Meine Oma lebt in einem Heim.|A2|Pflege
+Monatsende|das|-|N|конец месяца|letzte Tage im Monat|Die Miete ist bis Monatsende zu zahlen.|A2|Geld
+Sonnenschein|der|-|N|солнечный свет|Licht der Sonne|Morgen gibt es viel Sonnenschein.|A2|Wetter
+Engel|der|Engel|N|ангел|Wesen aus dem Himmel; sehr lieber Mensch|Du bist ein Engel!|A2|Gefühle
+Hauptbahnhof|der|Hauptbahnhöfe|N|главный вокзал|größter Bahnhof einer Stadt|Der Zug fährt vom Hauptbahnhof ab.|A2|Verkehr
+Ausgleich|der|-|N|компенсация; баланс|etwas, das gleich macht|Als Ausgleich für die Überstunden bekomme ich einen freien Tag.|B2|Arbeit
+Krankheit|die|Krankheiten|N|болезнь|wenn man krank ist|Grippe ist eine ansteckende Krankheit.|A2|Gesundheit
+Bearbeitung|die|Bearbeitungen|N|обработка, рассмотрение|das Bearbeiten|Die Bearbeitung Ihres Antrags dauert vier Wochen.|B1|Behörden
+Dienstzimmer|das|Dienstzimmer|N|служебная комната (на отделении)|Raum für das Personal|Die Akten liegen im Dienstzimmer.|B1|Pflege
+Intelligenz|die|-|N|интеллект|Klugheit|Künstliche Intelligenz verändert die Arbeit.|B2|Medien
+Buffet|das|Buffets|N|шведский стол, буфет|Essen zum Selbstnehmen|Beim Fest gibt es ein Buffet.|A2|Essen
+Firmensprache|die|Firmensprachen|N|язык компании|Sprache, die in einer Firma gesprochen wird|Die Firmensprache ist Deutsch.|B2|Arbeit
+Endung|die|Endungen|N|окончание|Ende eines Wortes|Achten Sie auf die Endung des Adjektivs.|A2|Bildung
+Hygieneregel|die|Hygieneregeln|N|правило гигиены|Regel für Sauberkeit|Bitte beachten Sie die Hygieneregeln.|B1|Pflege
+Catering|das|Caterings|N|кейтеринг|geliefertes Essen für Feiern|Für die Feier bestellen wir ein Catering.|B2|Essen
+Handwerk|das|Handwerke|N|ремесло|Beruf mit den Händen|Im Handwerk werden Fachkräfte gesucht.|B1|Arbeit
+Putzplan|der|Putzpläne|N|график уборки|Plan, wer wann putzt|Laut Putzplan ist diese Woche Frau Kim dran.|A2|Wohnen
+Urlaubsplanung|die|-|N|планирование отпусков|Planung des Urlaubs|Die Urlaubsplanung muss bis März fertig sein.|B1|Arbeit
+Meldung|die|Meldungen|N|сообщение|Nachricht, Mitteilung|Laut einer Meldung im Radio gibt es Stau.|B1|Medien
+Heiligabend|der|-|N|сочельник|24. Dezember|An Heiligabend feiern wir mit der Familie.|A2|Freizeit
+Führung|die|Führungen|N|экскурсия; руководство|Rundgang mit Erklärung; Leitung|Um 14 Uhr gibt es eine Führung durch das Museum.|B1|Freizeit
+Dienstkleidung|die|-|N|рабочая одежда|Kleidung für die Arbeit|Die Dienstkleidung wird in der Firma gewaschen.|B1|Arbeit
+Mailbox|die|Mailboxen|N|голосовая почта|Anrufbeantworter im Handy|Ich habe Ihnen auf die Mailbox gesprochen.|A2|Medien
+Kursraum|der|Kursräume|N|учебная аудитория|Raum für den Kurs|Der Kursraum ist im zweiten Stock.|A2|Bildung
+Wanderung|die|Wanderungen|N|поход|lange Tour zu Fuß|Am Wochenende machen wir eine Wanderung.|A2|Freizeit
+Dreizimmerwohnung|die|Dreizimmerwohnungen|N|трёхкомнатная квартира|Wohnung mit drei Zimmern|Wir suchen eine Dreizimmerwohnung.|A2|Wohnen
+Wetterbericht|der|Wetterberichte|N|прогноз погоды|Information über das Wetter|Laut Wetterbericht regnet es morgen.|A2|Wetter
+Besserung|die|-|N|улучшение, выздоровление|wieder gesund werden|Gute Besserung!|A2|Gesundheit
+Handyvertrag|der|Handyverträge|N|договор мобильной связи|Vertrag für das Handy|Mein Handyvertrag läuft im Mai aus.|B1|Medien
+Linie|die|Linien|N|линия; маршрут|Strich; Bus- oder Bahnstrecke|Nehmen Sie die Linie 3.|A2|Verkehr
+Mittagspause|die|Mittagspausen|N|обеденный перерыв|Pause zum Mittagessen|Die Mittagspause dauert 30 Minuten.|A2|Arbeit
+Nuss|die|Nüsse|N|орех|harte Frucht|Ich bin allergisch gegen Nüsse.|A2|Essen
+Medizin|die|-|N|медицина; лекарство|Wissenschaft vom Heilen; Medikament|Sie studiert Medizin.|A2|Gesundheit
+Telefonnummer|die|Telefonnummern|N|номер телефона|Nummer zum Anrufen|Können Sie mir Ihre Telefonnummer geben?|A2|Medien
+Dach|das|Dächer|N|крыша|oberer Teil des Hauses|Das Dach ist undicht.|A2|Wohnen
+Grafik|die|Grafiken|N|график, диаграмма|Bild mit Zahlen|Die Grafik zeigt die Entwicklung der Preise.|B1|Medien
+Angabe|die|Angaben|N|данные, указание|Information in einem Formular|Bitte prüfen Sie Ihre Angaben.|B1|Behörden
+Filialleiterin|die|Filialleiterinnen|N|заведующая филиалом|Chefin einer Filiale|Die Filialleiterin macht den Dienstplan.|B1|Handel
+Gang|der|Gänge|N|коридор; ход; блюдо|Flur; Gehen; Teil eines Menüs|Die Toiletten sind am Ende des Gangs.|A2|Alltag
+Sprachschule|die|Sprachschulen|N|языковая школа|Schule für Sprachen|Ich lerne in einer Sprachschule Deutsch.|A2|Bildung
+Sicherheitsschulung|die|Sicherheitsschulungen|N|инструктаж по технике безопасности|Kurs über Sicherheit am Arbeitsplatz|Die Sicherheitsschulung ist Pflicht.|B2|Arbeit
+Arzttermin|der|Arzttermine|N|приём у врача|Termin beim Arzt|Ich habe morgen einen Arzttermin.|A2|Gesundheit
+Fachsprache|die|Fachsprachen|N|профессиональный язык|Sprache eines Berufs|Die Fachsprache in der Pflege ist schwer.|B2|Arbeit
+Klinik|die|Kliniken|N|клиника|Krankenhaus|Er liegt in der Klinik.|A2|Gesundheit
+Vorrang|der|-|N|приоритет, преимущество|wichtiger als anderes|Notfälle haben Vorrang.|B2|Alltag
+Arztpraxis|die|Arztpraxen|N|врачебный кабинет|Räume eines Arztes|Die Arztpraxis ist mittwochs nachmittags geschlossen.|A2|Gesundheit
+Anfahrt|die|Anfahrten|N|подъезд, дорога (туда)|Weg zu einem Ort|Eine Beschreibung der Anfahrt finden Sie auf der Webseite.|B1|Verkehr
+Doktor|der|Doktoren|N|доктор|Arzt; Titel|Der Doktor hat mich krankgeschrieben.|A2|Gesundheit
+Parkausweis|der|Parkausweise|N|разрешение на парковку|Karte zum Parken|Ohne Parkausweis dürfen Sie hier nicht parken.|B1|Verkehr
+Sportunterricht|der|-|N|урок физкультуры|Sport in der Schule|Er hat heute Sportunterricht.|A2|Bildung
+Stadtbibliothek|die|Stadtbibliotheken|N|городская библиотека|Bibliothek der Stadt|In der Stadtbibliothek kann man Bücher ausleihen.|A2|Bildung
+Stadtwerke|die|(Pl.)|N|городские коммунальные службы|Firma für Strom, Wasser, Gas|Die Stadtwerke schicken die Rechnung.|B1|Wohnen
+Putzraum|der|Putzräume|N|подсобка для уборки|Raum für Putzmittel|Der Wischmopp steht im Putzraum.|B1|Arbeit
+Arbeitswelt|die|-|N|мир труда|Berufsleben allgemein|Die Arbeitswelt verändert sich schnell.|B2|Arbeit
+Dokument|das|Dokumente|N|документ|wichtiges Papier|Bitte unterschreiben Sie das Dokument.|A2|Behörden
+Restmüll|der|-|N|остаточный мусор|Müll, der nicht recycelt wird|Windeln gehören in den Restmüll.|A2|Wohnen
+Formel|die|Formeln|N|формула|feste Form; Rechenregel|Lernen Sie die Formel für den Briefschluss.|B2|Bildung
+Arbeitsklima|das|-|N|атмосфера на работе|Stimmung bei der Arbeit|Das Arbeitsklima in unserem Team ist gut.|B1|Arbeit
+Schirm|der|Schirme|N|зонт|Schutz gegen Regen|Vergiss deinen Schirm nicht!|A2|Wetter
+Fachkraft|die|Fachkräfte|N|специалист|ausgebildete Arbeitskraft|In der Pflege fehlen Fachkräfte.|B1|Arbeit
+Beginn|der|-|N|начало|Anfang|Kommen Sie bitte vor Beginn des Kurses.|A2|Alltag
+Rückseite|die|Rückseiten|N|обратная сторона|hintere Seite|Die Nummer steht auf der Rückseite.|A2|Alltag
+Webseite|die|Webseiten|N|веб-сайт|Seite im Internet|Die Öffnungszeiten stehen auf der Webseite.|A2|Medien
+Ansage|die|Ansagen|N|объявление (устное)|gesprochene Information|Hören Sie die Ansage am Bahnhof.|A2|Verkehr
+Abrechnung|die|Abrechnungen|N|расчёт, счёт|Rechnung über Kosten|Die Abrechnung kommt im Frühjahr.|B1|Geld
+Zahlung|die|Zahlungen|N|платёж|das Bezahlen|Die Zahlung ist eingegangen.|B1|Geld
+Tierart|die|Tierarten|N|вид животных|Gruppe von Tieren|Viele Tierarten sind bedroht.|B2|Umwelt
+Zuschuss|der|Zuschüsse|N|субсидия, доплата|Geld als Hilfe|Die Firma zahlt einen Zuschuss zum Jobticket.|B2|Geld
+Region|die|Regionen|N|регион|Gebiet|In unserer Region gibt es viele Arbeitsplätze.|B1|Gesellschaft
+Freitagabend|der|Freitagabende|N|вечер пятницы|Abend am Freitag|Am Freitagabend gehen wir essen.|A2|Freizeit
+Praktikantin|die|Praktikantinnen|N|практикантка|Frau, die ein Praktikum macht|Die Praktikantin bleibt drei Monate.|B1|Arbeit
+Karriere|die|Karrieren|N|карьера|beruflicher Aufstieg|Sie hat Karriere gemacht.|B1|Arbeit
+Bewerberin|die|Bewerberinnen|N|кандидатка|Frau, die sich bewirbt|Die Bewerberin hat gute Zeugnisse.|B1|Arbeit
+Umbau|der|Umbauten|N|перестройка|Veränderung eines Gebäudes|Wegen Umbau geschlossen.|B1|Wohnen
+Buchung|die|Buchungen|N|бронирование|das Buchen|Ihre Buchung ist bestätigt.|A2|Reisen
+Studio|das|Studios|N|студия|Raum für Sport, Aufnahmen; kleine Wohnung|Ich trainiere im Studio.|A2|Freizeit
+Aufbau|der|-|N|построение, сборка|Struktur; das Aufbauen|Der Aufbau des Schranks dauert eine Stunde.|B1|Wohnen
+Vermieterin|die|Vermieterinnen|N|арендодательница|Frau, die eine Wohnung vermietet|Die Vermieterin kommt morgen vorbei.|A2|Wohnen
+Preisliste|die|Preislisten|N|прейскурант|Liste mit Preisen|Hier ist unsere aktuelle Preisliste.|A2|Einkaufen
+Jahresvertrag|der|Jahresverträge|N|годовой договор|Vertrag für ein Jahr|Im Fitnessstudio gibt es nur einen Jahresvertrag.|B1|Freizeit
+Personalbüro|das|Personalbüros|N|отдел кадров|Büro für Personalfragen|Geben Sie die Krankmeldung im Personalbüro ab.|B1|Arbeit
+Link|der|Links|N|ссылка|Verbindung zu einer Webseite|Ich schicke Ihnen den Link.|A2|Medien
+Patrone|die|Patronen|N|картридж|Behälter mit Tinte|Der Drucker braucht neue Patronen.|B1|Arbeit
+Bau|der|Bauten|N|стройка; здание|das Bauen; Gebäude|Mein Mann arbeitet auf dem Bau.|B1|Arbeit
+Arbeitszeitmodell|das|Arbeitszeitmodelle|N|модель рабочего времени|Regelung der Arbeitszeiten|Die Firma bietet flexible Arbeitszeitmodelle.|B2|Arbeit
+Besuchszeit|die|Besuchszeiten|N|время посещения|Zeit für Besuch im Krankenhaus|Die Besuchszeit endet um 19 Uhr.|A2|Gesundheit
+Bildungszentrum|das|Bildungszentren|N|образовательный центр|Haus für Kurse|Der Kurs findet im Bildungszentrum statt.|B1|Bildung
+Mappe|die|Mappen|N|папка|Hülle für Papiere|Legen Sie die Unterlagen in die blaue Mappe.|A2|Arbeit
+Serverraum|der|Serverräume|N|серверная|Raum mit Computern für das Netz|Der Zutritt zum Serverraum ist verboten.|B2|Arbeit
+Training|das|Trainings|N|тренировка|Übung im Sport|Das Training beginnt um 18 Uhr.|A2|Freizeit
+Sportfest|das|Sportfeste|N|спортивный праздник|Fest mit Sport|Die Schule veranstaltet ein Sportfest.|A2|Bildung
+Cafeteria|die|Cafeterias|N|кафетерий|kleines Café in einer Firma|Wir essen in der Cafeteria.|A2|Arbeit
+Schild|das|Schilder|N|табличка, знак|Tafel mit Text|Auf dem Schild steht „Rauchen verboten“.|A2|Alltag
+Ausschnitt|der|Ausschnitte|N|отрывок, фрагмент|Teil von etwas|Hören Sie einen Ausschnitt aus der Sendung.|B2|Medien
+Regionalexpress|der|Regionalexpresse|N|региональный экспресс|schneller Nahverkehrszug|Der Regionalexpress hat zehn Minuten Verspätung.|B1|Verkehr
+Alarm|der|Alarme|N|тревога|Warnsignal|Bei Alarm verlassen alle das Gebäude.|B1|Arbeit
+Elterngeldstelle|die|Elterngeldstellen|N|служба по выплате родительского пособия|Amt für Elterngeld|Den Antrag schicken Sie an die Elterngeldstelle.|B2|Behörden
+Kursteilnehmerin|die|Kursteilnehmerinnen|N|участница курса|Frau in einem Kurs|Jede Kursteilnehmerin bekommt ein Zertifikat.|A2|Bildung
+Weihnachtsfeier|die|Weihnachtsfeiern|N|рождественский праздник|Fest vor Weihnachten|Die Weihnachtsfeier der Firma ist am Freitag.|A2|Arbeit
+Bootsfahrt|die|Bootsfahrten|N|прогулка на лодке|Fahrt mit dem Boot|Wir machen eine Bootsfahrt auf der Elbe.|A2|Freizeit
+Schatzsuche|die|Schatzsuchen|N|поиск клада (игра)|Spiel, bei dem Kinder etwas suchen|Beim Kindergeburtstag gibt es eine Schatzsuche.|A2|Familie
+Flugzeug|das|Flugzeuge|N|самолёт|Fahrzeug, das fliegt|Das Flugzeug landet um 10 Uhr.|A2|Reisen

@@ -1,0 +1,190 @@
+# M16 Wörter aus Sätzen und Prüfungstexten der App (Teil 4)
+Fähre|die|Fähren|N|паром|Schiff, das Autos und Menschen übersetzt|Wir nehmen die Fähre über die Elbe.|A2|Verkehr
+Beschriftung|die|Beschriftungen|N|надпись, маркировка|Text auf einem Gegenstand|Achten Sie auf die Beschriftung der Kisten.|B2|Arbeit
+Strauß|der|Sträuße|N|букет|zusammengebundene Blumen|Ich kaufe einen Strauß Tulpen.|A2|Einkaufen
+Herbstferien|die|(Pl.)|N|осенние каникулы|Ferien im Herbst|In den Herbstferien fahren wir ans Meer.|A2|Familie
+Flickzeug|das|-|N|ремкомплект (для шин)|Set zum Reparieren von Reifen|Mit dem Flickzeug repariere ich den Reifen.|B2|Verkehr
+Erlös|der|Erlöse|N|выручка|Geld aus einem Verkauf|Der Erlös geht an das Kinderhospiz.|B2|Geld
+Deutschlehrer|der|Deutschlehrer|N|учитель немецкого|Lehrer für Deutsch|Mein Deutschlehrer erklärt sehr gut.|A2|Bildung
+Blumenstrauß|der|Blumensträuße|N|букет цветов|Strauß aus Blumen|Zum Geburtstag bekommt sie einen Blumenstrauß.|A2|Freizeit
+Dekoration|die|Dekorationen|N|украшение, декор|Schmuck für einen Raum|Wer kümmert sich um die Dekoration?|B1|Freizeit
+Teeküche|die|Teeküchen|N|кухонька на работе|kleine Küche im Büro|Das Geschirr bitte in der Teeküche spülen.|B1|Arbeit
+Kapsel|die|Kapseln|N|капсула|kleine Hülle mit Medikament oder Kaffee|Schlucken Sie die Kapsel mit Wasser.|B1|Gesundheit
+Hausfest|das|Hausfeste|N|праздник дома (для жильцов)|Fest für alle Bewohner eines Hauses|Im Sommer gibt es ein Hausfest im Hof.|A2|Wohnen
+Schifffahrt|die|Schifffahrten|N|судоходство; поездка на корабле|Fahrt mit dem Schiff|Wir machen eine Schifffahrt auf der Elbe.|B1|Freizeit
+Infomappe|die|Infomappen|N|информационная папка|Mappe mit Informationen|Neue Mitarbeiter bekommen eine Infomappe.|B1|Arbeit
+Wochenplan|der|Wochenpläne|N|план на неделю|Plan für eine Woche|Der Wochenplan hängt in der Küche.|A2|Alltag
+Fahrdienst|der|Fahrdienste|N|служба перевозки|Service, der Menschen fährt|Der Fahrdienst holt Herrn Braun um acht ab.|B1|Pflege
+Probetag|der|Probetage|N|пробный рабочий день|Tag zum Ausprobieren der Arbeit|Kommen Sie gern zu einem Probetag.|B1|Arbeit
+Migrationsberatung|die|-|N|консультация для мигрантов|Beratungsstelle für Zuwanderer|Die Migrationsberatung hilft beim Antrag.|B2|Behörden
+Brett|das|Bretter|N|доска|flaches Stück Holz|Das Brett im Regal ist gebrochen.|B1|Wohnen
+Radfahrer|der|Radfahrer|N|велосипедист|Person auf dem Fahrrad|Radfahrer müssen auf dem Radweg fahren.|A2|Verkehr
+Volleyball|der|-|N|волейбол|Ballspiel mit Netz|Am Strand spielen wir Volleyball.|A2|Freizeit
+Bereitschaftsarzt|der|Bereitschaftsärzte|N|дежурный врач|Arzt am Wochenende oder nachts|Am Wochenende rufen Sie den Bereitschaftsarzt unter 116 117.|B1|Gesundheit
+Trainer|der|Trainer|N|тренер|Mann, der Sport leitet|Der Trainer lobt die Mannschaft.|A2|Freizeit
+Kranz|der|Kränze|N|венок|runde Form aus Blumen oder Zweigen|Im Advent steht ein Kranz auf dem Tisch.|B1|Freizeit
+Heimleitung|die|Heimleitungen|N|руководство дома престарелых|Leitung eines Pflegeheims|Die Heimleitung lädt zum Angehörigenabend ein.|B2|Pflege
+Arbeitssicherheit|die|-|N|охрана труда|Schutz vor Unfällen bei der Arbeit|Arbeitssicherheit hat bei uns Vorrang.|B2|Arbeit
+Arbeitsblatt|das|Arbeitsblätter|N|рабочий лист|Blatt mit Aufgaben|Bearbeiten Sie das Arbeitsblatt.|A2|Bildung
+Busunternehmen|das|Busunternehmen|N|автобусная компания|Firma mit Bussen|Das Busunternehmen sucht Fahrer.|B1|Verkehr
+Ritual|das|Rituale|N|ритуал|feste Gewohnheit|Das Vorlesen ist unser Abendritual.|B2|Familie
+Kaufvertrag|der|Kaufverträge|N|договор купли-продажи|Vertrag über einen Kauf|Lesen Sie den Kaufvertrag genau.|B1|Einkaufen
+Informationsblatt|das|Informationsblätter|N|информационный листок|Blatt mit Informationen|Alles steht auf dem Informationsblatt.|B1|Behörden
+Einwegbecher|der|Einwegbecher|N|одноразовый стакан|Becher, den man wegwirft|Einwegbecher sind schlecht für die Umwelt.|B1|Umwelt
+Patientendaten|die|(Pl.)|N|данные пациентов|Informationen über Patienten|Patientendaten sind vertraulich.|B2|Gesundheit
+Tempo|das|Tempos|N|темп, скорость|Geschwindigkeit|In der Stadt gilt Tempo 30.|B1|Verkehr
+Müdigkeit|die|-|N|усталость|müde sein|Bei Müdigkeit sollte man nicht Auto fahren.|B1|Gesundheit
+Drittel|das|Drittel|N|треть|ein Teil von drei|Ein Drittel der Mitarbeiter arbeitet in Teilzeit.|B1|Alltag
+Quote|die|Quoten|N|квота; доля|Anteil in Prozent|Die Quote der Frauen in Führungspositionen steigt.|B2|Gesellschaft
+Biomüll|der|-|N|биоотходы|Abfall aus Küche und Garten|Kaffeesatz gehört in den Biomüll.|A2|Wohnen
+Präsident|der|Präsidenten|N|президент|Chef eines Staates oder Vereins|Der Präsident hält eine Rede.|B1|Gesellschaft
+Arbeitsleben|das|-|N|трудовая жизнь|Zeit, in der man arbeitet|Im Arbeitsleben lernt man nie aus.|B1|Arbeit
+Tannenbaum|der|Tannenbäume|N|ёлка|Weihnachtsbaum|Wir schmücken den Tannenbaum.|A2|Freizeit
+Hausmittel|das|Hausmittel|N|домашнее средство|einfaches Mittel gegen Krankheiten|Tee mit Honig ist ein gutes Hausmittel.|B1|Gesundheit
+Berufsausbildung|die|Berufsausbildungen|N|профессиональное образование|Ausbildung für einen Beruf|Eine Berufsausbildung dauert meist drei Jahre.|B1|Bildung
+Fachschule|die|Fachschulen|N|техникум|Schule für einen Beruf|Sie besucht eine Fachschule für Pflege.|B1|Bildung
+Hochschule|die|Hochschulen|N|высшее учебное заведение|Universität oder Fachhochschule|Er studiert an der Hochschule.|B1|Bildung
+Theorie|die|Theorien|N|теория|Wissen ohne Praxis|In der Theorie klingt das einfach.|B1|Bildung
+Jobsuche|die|-|N|поиск работы|das Suchen einer Arbeit|Bei der Jobsuche hilft das Jobcenter.|A2|Arbeit
+Zeitarbeitsfirma|die|Zeitarbeitsfirmen|N|кадровое агентство (временной работы)|Firma, die Arbeitskräfte verleiht|Er arbeitet über eine Zeitarbeitsfirma.|B2|Arbeit
+Elektrogerät|das|Elektrogeräte|N|электроприбор|Gerät mit Strom|Alte Elektrogeräte gehören nicht in den Müll.|B1|Wohnen
+Hochhaus|das|Hochhäuser|N|высотный дом|sehr hohes Haus|Wir wohnen im zehnten Stock eines Hochhauses.|A2|Wohnen
+Traumberuf|der|Traumberufe|N|профессия мечты|Beruf, den man sich wünscht|Krankenschwester war schon immer mein Traumberuf.|A2|Arbeit
+Uniform|die|Uniformen|N|униформа|gleiche Kleidung für eine Gruppe|Die Polizei trägt eine Uniform.|B1|Arbeit
+Sensor|der|Sensoren|N|датчик|Teil, das etwas misst|Der Sensor meldet einen Sturz.|B2|Pflege
+Dialekt|der|Dialekte|N|диалект|regionale Sprache|In Sachsen spricht man einen Dialekt.|B1|Gesellschaft
+Englischkurs|der|Englischkurse|N|курс английского|Kurs für Englisch|Meine Tochter macht einen Englischkurs.|A2|Bildung
+Zeitverlust|der|-|N|потеря времени|Zeit, die man verliert|Der Umweg bedeutet einen Zeitverlust.|B2|Verkehr
+Straftat|die|Straftaten|N|преступление|Handlung gegen das Gesetz|Diebstahl ist eine Straftat.|B2|Gesellschaft
+Beleuchtung|die|Beleuchtungen|N|освещение|Licht|Die Beleuchtung im Treppenhaus ist kaputt.|B1|Wohnen
+Heimweg|der|Heimwege|N|дорога домой|Weg nach Hause|Auf dem Heimweg kaufe ich Brot.|A2|Alltag
+Anreiz|der|Anreize|N|стимул|Grund, etwas zu tun|Ein Bonus ist ein guter Anreiz.|B2|Arbeit
+Kapazität|die|Kapazitäten|N|вместимость, мощность|wie viel möglich ist|Die Kita hat keine Kapazität mehr.|B2|Arbeit
+Akzent|der|Akzente|N|акцент|Art der Aussprache|Sie spricht mit einem leichten Akzent.|B1|Bildung
+Benachteiligung|die|Benachteiligungen|N|дискриминация, ущемление|schlechtere Behandlung|Benachteiligung wegen der Herkunft ist verboten.|B2|Gesellschaft
+Nutzung|die|Nutzungen|N|использование|das Benutzen|Die Nutzung des Parkplatzes ist kostenlos.|B1|Alltag
+Überblick|der|Überblicke|N|обзор|Übersicht|Hier bekommen Sie einen Überblick über die Kurse.|B1|Bildung
+Gesprächspartner|der|Gesprächspartner|N|собеседник|Person im Gespräch|Schauen Sie Ihren Gesprächspartner an.|B1|Alltag
+Vollzeitarbeit|die|-|N|работа полный день|Arbeit mit allen Stunden|Mit Kindern ist Vollzeitarbeit schwer.|B1|Arbeit
+Lohnkosten|die|(Pl.)|N|расходы на зарплату|Kosten für Löhne|Die Lohnkosten sind gestiegen.|B2|Wirtschaft
+Richtlinie|die|Richtlinien|N|директива, правило|offizielle Regel|Die Richtlinie gilt ab Januar.|B2|Arbeit
+Neid|der|-|N|зависть|man will haben, was andere haben|Der Neid unter Kollegen ist groß.|B2|Gefühle
+Verschwendung|die|Verschwendungen|N|расточительство|zu viel verbrauchen|Das ist Verschwendung von Lebensmitteln.|B2|Umwelt
+Landwirtschaft|die|-|N|сельское хозяйство|Arbeit auf Feldern und mit Tieren|Er arbeitet in der Landwirtschaft.|B1|Wirtschaft
+Krankenpflegerin|die|Krankenpflegerinnen|N|медсестра|Frau, die Kranke pflegt|Meine Schwester ist Krankenpflegerin.|A2|Pflege
+Mitbewohnerin|die|Mitbewohnerinnen|N|соседка по квартире|Frau in derselben Wohnung|Meine Mitbewohnerin kocht gern.|A2|Wohnen
+Rechtschreibung|die|-|N|орфография|richtiges Schreiben|Achten Sie auf die Rechtschreibung.|B1|Bildung
+Postbote|der|Postboten|N|почтальон|Person, die Briefe bringt|Der Postbote hat ein Paket gebracht.|A2|Alltag
+Portal|das|Portale|N|портал|Webseite mit Angeboten|Den Antrag stellen Sie im Online-Portal.|B2|Medien
+Schwimmverein|der|Schwimmvereine|N|плавательный клуб|Verein zum Schwimmen|Meine Tochter ist im Schwimmverein.|A2|Freizeit
+Yogakurs|der|Yogakurse|N|курс йоги|Kurs für Yoga|Der Yogakurs ist donnerstags.|A2|Freizeit
+Wolle|die|-|N|шерсть|Material von Schafen|Der Pullover ist aus Wolle.|A2|Einkaufen
+Orangensaft|der|Orangensäfte|N|апельсиновый сок|Saft aus Orangen|Zum Frühstück trinke ich Orangensaft.|A2|Essen
+Burg|die|Burgen|N|крепость, замок|altes, festes Gebäude|Am Wochenende besichtigen wir eine Burg.|A2|Freizeit
+Gift|das|Gifte|N|яд|gefährlicher Stoff|Putzmittel sind Gift für Kinder.|B1|Gesundheit
+Kasten|der|Kästen|N|ящик|Kiste|Kauf bitte einen Kasten Wasser.|A2|Einkaufen
+Sängerin|die|Sängerinnen|N|певица|Frau, die singt|Sie ist eine bekannte Sängerin.|A2|Freizeit
+Kohlensäure|die|-|N|газ (в напитках)|Gas im Wasser|Wasser mit oder ohne Kohlensäure?|A2|Essen
+Parkautomat|der|Parkautomaten|N|паркомат|Automat für Parktickets|Der Parkautomat nimmt nur Münzen.|A2|Verkehr
+Seide|die|-|N|шёлк|feiner Stoff|Die Bluse ist aus Seide.|B1|Einkaufen
+Gold|das|-|N|золото|gelbes Edelmetall|Der Ring ist aus Gold.|A2|Einkaufen
+Weizen|der|-|N|пшеница|Getreide für Brot|Das Brot ist aus Weizen.|B1|Essen
+Vollmond|der|-|N|полнолуние|ganzer, runder Mond|Bei Vollmond schlafe ich schlecht.|B1|Umwelt
+Marathon|der|Marathons|N|марафон|Lauf über 42 Kilometer|Er ist einen Marathon gelaufen.|B1|Freizeit
+Publikum|das|-|N|публика|Zuschauer|Das Publikum hat lange geklatscht.|B1|Freizeit
+Brautpaar|das|Brautpaare|N|жених и невеста|Paar bei der Hochzeit|Das Brautpaar tanzt den ersten Tanz.|B1|Familie
+Beraterin|die|Beraterinnen|N|консультант (жен.)|Frau, die berät|Die Beraterin hilft beim Antrag.|B1|Behörden
+Druckerpapier|das|-|N|бумага для принтера|Papier für den Drucker|Das Druckerpapier ist alle.|A2|Arbeit
+Wasserleitung|die|Wasserleitungen|N|водопровод|Rohr für Wasser|Die Wasserleitung ist eingefroren.|B1|Wohnen
+Sack|der|Säcke|N|мешок|große Tüte|Der Müll kommt in einen blauen Sack.|A2|Wohnen
+Flut|die|Fluten|N|прилив; наводнение|hohes Wasser|Bei Flut ist der Strand weg.|B1|Umwelt
+Getreide|das|-|N|зерно, злаки|Weizen, Roggen usw.|Aus Getreide macht man Mehl.|B1|Essen
+Elternrat|der|Elternräte|N|родительский совет|gewählte Vertreter der Eltern|Der Elternrat organisiert das Sommerfest.|B1|Bildung
+Traumjob|der|Traumjobs|N|работа мечты|Job, den man sich wünscht|Ich habe meinen Traumjob gefunden.|A2|Arbeit
+Anzeigetafel|die|Anzeigetafeln|N|табло|Tafel mit Informationen|Auf der Anzeigetafel steht das Gleis.|B1|Verkehr
+Winterreifen|der|Winterreifen|N|зимняя шина|Reifen für Schnee und Eis|Im Oktober brauchen wir Winterreifen.|B1|Verkehr
+Atemübung|die|Atemübungen|N|дыхательное упражнение|Übung zum Atmen|Atemübungen helfen gegen Stress.|B1|Gesundheit
+Kellnerin|die|Kellnerinnen|N|официантка|Frau, die im Restaurant bedient|Die Kellnerin bringt die Rechnung.|A2|Essen
+Türklinke|die|Türklinken|N|дверная ручка|Griff an der Tür|Desinfizieren Sie auch die Türklinken.|B1|Wohnen
+Platte|die|Platten|N|плита; блюдо|flaches Teil; Teller mit Essen|Stellen Sie die Platte auf den Tisch.|B1|Essen
+Loch|das|Löcher|N|дыра|Öffnung|Die Socke hat ein Loch.|A2|Alltag
+Laterne|die|Laternen|N|фонарь|Lampe; Licht für Kinder beim Umzug|Im November gibt es einen Laternenumzug.|A2|Freizeit
+Schichtbetrieb|der|-|N|сменный режим работы|Arbeit rund um die Uhr in Schichten|Das Werk arbeitet im Schichtbetrieb.|B2|Arbeit
+Erbsensuppe|die|Erbsensuppen|N|гороховый суп|Suppe aus Erbsen|Heute gibt es Erbsensuppe.|A2|Essen
+Kürbissuppe|die|Kürbissuppen|N|тыквенный суп|Suppe aus Kürbis|Im Herbst koche ich Kürbissuppe.|A2|Essen
+Silber|das|-|N|серебро|weißes Edelmetall|Die Kette ist aus Silber.|A2|Einkaufen
+Kuss|der|Küsse|N|поцелуй|Berührung mit den Lippen|Sie gibt dem Kind einen Kuss.|A2|Familie
+Kirschbaum|der|Kirschbäume|N|вишнёвое дерево|Baum mit Kirschen|Im Garten steht ein Kirschbaum.|A2|Umwelt
+Symbol|das|Symbole|N|символ|Zeichen|Das Herz ist ein Symbol für Liebe.|B1|Alltag
+Haushaltshilfe|die|Haushaltshilfen|N|помощница по хозяйству|Person, die im Haushalt hilft|Die Krankenkasse zahlt eine Haushaltshilfe.|B1|Wohnen
+Rauch|der|-|N|дым|Gas vom Feuer|Aus der Küche kommt Rauch!|A2|Wohnen
+Wespenstich|der|Wespenstiche|N|укус осы|Stich einer Wespe|Gegen den Wespenstich hilft Kühlen.|B1|Gesundheit
+Schwung|der|-|N|энергия, задор; размах|Energie, Bewegung|Der neue Kollege bringt Schwung ins Team.|B2|Arbeit
+Juckreiz|der|-|N|зуд|man will sich kratzen|Die Salbe hilft gegen den Juckreiz.|B1|Gesundheit
+Zahnärztin|die|Zahnärztinnen|N|стоматолог (жен.)|Ärztin für Zähne|Die Zahnärztin ist sehr freundlich.|A2|Gesundheit
+Brustschmerzen|die|(Pl.)|N|боли в груди|Schmerzen in der Brust|Bei starken Brustschmerzen rufen Sie die 112.|B1|Gesundheit
+Giftnotruf|der|-|N|токсикологическая служба экстренной помощи|Notrufnummer bei Vergiftungen|Das Kind hat Putzmittel getrunken – rufen Sie den Giftnotruf!|B2|Gesundheit
+Organspendeausweis|der|Organspendeausweise|N|карта донора органов|Ausweis für Organspende|Ich habe einen Organspendeausweis.|B2|Gesundheit
+Spray|das|Sprays|N|спрей|Flüssigkeit zum Sprühen|Das Spray hilft bei Schnupfen.|B1|Gesundheit
+Knoten|der|Knoten|N|узел|feste Verbindung von Bändern|Mach einen Knoten in den Müllsack.|B1|Alltag
+Plakette|die|Plaketten|N|наклейка (экологическая и т. п.)|kleines Schild am Auto|Ohne grüne Plakette darf man nicht in die Innenstadt.|B2|Verkehr
+Plattform|die|Plattformen|N|платформа|Webseite; erhöhte Fläche|Auf der Plattform kann man Wohnungen suchen.|B2|Medien
+Anwohner|der|Anwohner|N|местный житель|Person, die in der Straße wohnt|Die Anwohner beschweren sich über den Lärm.|B1|Wohnen
+Leine|die|Leinen|N|поводок; верёвка|Band für den Hund; Wäscheleine|Im Park müssen Hunde an der Leine sein.|A2|Umwelt
+Kinderkleidung|die|-|N|детская одежда|Kleidung für Kinder|Kinderkleidung gibt es im ersten Stock.|A2|Einkaufen
+Vegetarierin|die|Vegetarierinnen|N|вегетарианка|Frau, die kein Fleisch isst|Meine Kollegin ist Vegetarierin.|A2|Essen
+Werk|das|Werke|N|завод; произведение|Fabrik; Kunstwerk, Buch|Er arbeitet im VW-Werk.|B1|Arbeit
+Kreuz|das|Kreuze|N|крест|Zeichen x oder †|Machen Sie ein Kreuz bei der richtigen Antwort.|A2|Bildung
+Autofahrer|der|Autofahrer|N|водитель (автомобиля)|Person, die Auto fährt|Autofahrer müssen hier langsam fahren.|A2|Verkehr
+Altbauwohnung|die|Altbauwohnungen|N|квартира в старом доме|Wohnung in einem alten Haus|Die Altbauwohnung hat hohe Decken.|B1|Wohnen
+Kofferraum|der|Kofferräume|N|багажник|Raum hinten im Auto|Die Einkäufe sind im Kofferraum.|A2|Verkehr
+Bär|der|Bären|N|медведь|großes, starkes Tier|Im Zoo gibt es Bären.|A2|Umwelt
+Wolf|der|Wölfe|N|волк|wildes Tier, wie ein Hund|In Sachsen leben wieder Wölfe.|A2|Umwelt
+Untervermietung|die|Untervermietungen|N|субаренда|Vermietung durch den Mieter|Für die Untervermietung brauchen Sie die Erlaubnis des Vermieters.|B2|Wohnen
+Pfannkuchen|der|Pfannkuchen|N|блин|flacher Kuchen aus der Pfanne|Die Kinder essen gern Pfannkuchen.|A2|Essen
+Blech|das|Bleche|N|противень; жесть|Backblech; dünnes Metall|Legen Sie die Plätzchen auf das Blech.|B1|Essen
+Milchreis|der|-|N|рисовая каша на молоке|süßer Reis mit Milch|Heute gibt es Milchreis mit Zimt.|A2|Essen
+Kartoffelpüree|das|-|N|картофельное пюре|zerdrückte Kartoffeln|Zum Fisch gibt es Kartoffelpüree.|A2|Essen
+Stange|die|Stangen|N|палка, стержень|langes, dünnes Teil|Kauf bitte eine Stange Lauch.|B1|Essen
+Gans|die|Gänse|N|гусь|großer Vogel|Zu Weihnachten gibt es Gans.|A2|Essen
+Kloß|der|Klöße|N|клёцка|runde Beilage aus Kartoffeln|Zum Braten gibt es Klöße.|A2|Essen
+Speck|der|-|N|шпик, бекон|fettes Schweinefleisch|Ich esse keinen Speck.|A2|Essen
+Kalbfleisch|das|-|N|телятина|Fleisch vom jungen Rind|Das Schnitzel ist aus Kalbfleisch.|B1|Essen
+Nudelauflauf|der|Nudelaufläufe|N|запеканка из макарон|Nudeln aus dem Ofen mit Käse|Zum Mittag gibt es Nudelauflauf.|A2|Essen
+Außendienst|der|-|N|работа с выездом к клиентам|Arbeit unterwegs bei Kunden|Er arbeitet im Außendienst.|B2|Arbeit
+Wohngruppe|die|Wohngruppen|N|группа совместного проживания|Gruppe, die zusammen betreut wohnt|In der Wohngruppe leben acht Personen mit Demenz.|B2|Pflege
+Speiseplan|der|Speisepläne|N|меню (на неделю)|Plan für das Essen|Der Speiseplan hängt neben der Küche.|A2|Essen
+Schiedsrichter|der|Schiedsrichter|N|судья (спорт.)|Person, die beim Sport entscheidet|Der Schiedsrichter pfeift.|B1|Freizeit
+Einfahrt|die|Einfahrten|N|въезд|Weg für Autos hinein|Bitte nicht in der Einfahrt parken.|A2|Verkehr
+Arbeitsatmosphäre|die|-|N|рабочая атмосфера|Stimmung bei der Arbeit|Wir bieten eine angenehme Arbeitsatmosphäre.|B2|Arbeit
+Aufsehen|das|-|N|сенсация, шум|große Aufmerksamkeit|Der Fall hat großes Aufsehen erregt.|B2|Medien
+Klassenzimmer|das|Klassenzimmer|N|классная комната|Raum für den Unterricht|Das Klassenzimmer ist im ersten Stock.|A2|Bildung
+Bürokratie|die|-|N|бюрократия|viele Regeln und Formulare|Die Bürokratie in Deutschland nervt.|B2|Behörden
+Alphabet|das|Alphabete|N|алфавит|alle Buchstaben|Das deutsche Alphabet hat 26 Buchstaben.|A2|Bildung
+Neuanfang|der|Neuanfänge|N|новое начало|neuer Start|Der Umzug war ein Neuanfang für uns.|B2|Gefühle
+Leder|das|-|N|кожа (материал)|Material aus Tierhaut|Die Tasche ist aus Leder.|A2|Einkaufen
+Anfall|der|Anfälle|N|приступ|plötzliche Krankheitsattacke|Er hatte einen epileptischen Anfall.|B2|Gesundheit
+Altersvorsorge|die|-|N|пенсионное обеспечение|Geld sparen für das Alter|Denken Sie früh an die Altersvorsorge.|B2|Geld
+Pflegehelfer|der|Pflegehelfer|N|помощник по уходу|Hilfskraft in der Pflege|Als Pflegehelfer hilft er beim Waschen.|B1|Pflege
+Broschüre|die|Broschüren|N|брошюра|kleines Heft mit Informationen|Nehmen Sie eine Broschüre mit.|B1|Behörden
+Schleim|der|-|N|слизь, мокрота|zähe Flüssigkeit im Hals|Er hustet viel Schleim.|B2|Gesundheit
+Strumpf|der|Strümpfe|N|чулок, носок|Kleidung für Fuß und Bein|Ziehen Sie die Kompressionsstrümpfe an.|B1|Pflege
+Disponent|der|Disponenten|N|диспетчер|Person, die Touren plant|Der Disponent plant die Touren der Fahrer.|B2|Arbeit
+Schere|die|Scheren|N|ножницы|Werkzeug zum Schneiden|Gib mir bitte die Schere.|A2|Alltag
+Waldrand|der|Waldränder|N|опушка леса|Ende des Waldes|Am Waldrand stehen Rehe.|B1|Umwelt
+Camping|das|-|N|кемпинг|Urlaub im Zelt|Im Sommer machen wir Camping.|A2|Reisen
+Passagier|der|Passagiere|N|пассажир|Person im Flugzeug oder Schiff|Alle Passagiere bitte einsteigen.|A2|Reisen
+Tuch|das|Tücher|N|платок; тряпка|Stück Stoff|Wischen Sie mit einem feuchten Tuch.|A2|Wohnen
+Meter|der|Meter|N|метр|Maß für Länge|Das Zimmer ist vier Meter breit.|A2|Alltag
+Rauchverbot|das|Rauchverbote|N|запрет на курение|Verbot zu rauchen|Im ganzen Gebäude gilt Rauchverbot.|A2|Alltag
+Zopf|der|Zöpfe|N|коса|geflochtene Haare|Das Mädchen hat lange Zöpfe.|B1|Person
+Gas|das|Gase|N|газ|Stoff wie Luft; Energie zum Heizen|Wir kochen mit Gas.|A2|Wohnen
+Zutritt|der|-|N|доступ, вход|Recht hineinzugehen|Zutritt nur für Personal!|B1|Arbeit
+Monatsanfang|der|-|N|начало месяца|erste Tage im Monat|Die Miete ist am Monatsanfang fällig.|A2|Geld
+Winterzeit|die|-|N|зимнее время|Uhrzeit im Winter|Am Sonntag beginnt die Winterzeit.|B1|Alltag
+Pflegeberuf|der|Pflegeberufe|N|профессия в сфере ухода|Beruf in der Pflege|Pflegeberufe sind sehr gefragt.|B1|Pflege
+Pforte|die|Pforten|N|проходная, вахта|Eingang mit Empfang|Melden Sie sich bitte an der Pforte.|B1|Arbeit
+Feueralarm|der|Feueralarme|N|пожарная тревога|Alarm bei Feuer|Beim Feueralarm nicht den Aufzug benutzen!|B1|Arbeit
+Blumenerde|die|-|N|земля для цветов|Erde für Pflanzen|Ich brauche einen Sack Blumenerde.|A2|Wohnen
+Weißwein|der|Weißweine|N|белое вино|heller Wein|Zum Fisch passt Weißwein.|A2|Essen
+Lehrjahr|das|Lehrjahre|N|год обучения (в профобучении)|Jahr einer Ausbildung|Sie ist im zweiten Lehrjahr.|B1|Arbeit

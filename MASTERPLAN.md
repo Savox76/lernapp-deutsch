@@ -2,7 +2,7 @@
 
 Stand: 04.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
 
-**Zuletzt komplett geprüft:** 04.11.2026 nach M15 (Code, Inhalte und Veröffentlichung abgeglichen).
+**Zuletzt komplett geprüft:** 04.11.2026 nach M16 (Code, Inhalte und Veröffentlichung abgeglichen).
 Zeichen: ✅ eingebaut/fertig · 🟡 teilweise · ⏳ in Arbeit · ⬜ offen · ❓ Entscheidung von Mario nötig
 Claude aktualisiert diesen Plan nach **jedem** Arbeitsschritt selbstständig.
 
@@ -30,18 +30,18 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ---
 
-## 2. Stand heute (geprüft am 04.11.2026 nach M15)
+## 2. Stand heute (geprüft am 04.11.2026 nach M16)
 
 | Bereich | Stand | |
 |---|---|---|
-| Wortschatz | 6.050 Wörter (A2, B1, B2, Beruf, Alltag, Wortfamilien, Nomen-Verb-Verbindungen) | ✅ |
-| Satzbau | 3.750 Übungssätze (3.505 mit markiertem Verb), alle 12 Grammatik-Themen auf A2–B2 | ✅ |
+| Wortschatz | 7.079 Wörter (A2, B1, B2, Beruf, Alltag, Wortfamilien, Nomen-Verb-Verbindungen) | ✅ |
+| Satzbau | 3.905 Übungssätze (3.660 mit markiertem Verb), alle 12 Grammatik-Themen auf A2–B2 | ✅ |
 | Schreibaufgaben | 100 (A2, B1, B2, DTZ und DTB; laufend mehr) | ✅ |
 | **Grundkurs von vorn** | 13 Stufen von „Verb auf Platz 2“ bis „Passiv“ plus Abschluss; Freischaltung ab 80 %; A2-Sätze zuerst | ✅ |
 | **Prüfung DTB** | 55 E-Mails · 42 Telefonnotizen · 34 Forumsbeiträge · 52 Sprachbausteine · 21 Vorträge · 10 Fragerunden · 26 Diskussionen · 15 Lösung finden · 53 Hörtexte | ✅ |
 | **Prüfung DTZ** | 38 Briefe · 30 Leseaufgaben · 33 Brief-Lückentexte · 26 Erzählthemen · 15 Fragerunden · 23 Gemeinsam planen · 54 Hörtexte | ✅ |
 | Prüfungsrechner | Punkte eintragen → bestanden ja/nein nach DTB-Regel und neuer DTZ-Regel (ab 1.11.2026) | ✅ |
-| Übungen | Karteikarten, Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat, Hörtraining, Bedeutung, der/die/das, Lückentext, Wortart, Schreiben mit Checkliste und Timer | ✅ |
+| Übungen | Karteikarten, Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat, Hörtraining, Bedeutung, der/die/das, Lückentext, Wortart, Schreiben mit Checkliste und Timer · Wort markieren (lange drücken) → Erklärung, Formen, Beispiel, Vorlesen, Übersetzung auf Tipp (offline) | ✅ |
 | Tagesmix | 20 Aufgaben, jede zweite Satzbau-Aufgabe aus den schwächsten Grammatik-Themen | ✅ |
 | Lernsteuerung | 30 neue Wörter pro Tag (einstellbar 20–80), Satz erst nach 40, Wort nach 20 anderen wieder | ✅ |
 | Statistik | pro Tag Aufgaben, richtig, falsch, Minuten; Serie; Pausentage; Fehleranalyse nach 12 Grammatik-Themen; „Auswertung teilen“ | ✅ |
@@ -75,10 +75,10 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 | M13 | Inhaltspaket 10 | Wortfamilien, Nomen-Verb-Verbindungen · Sprechen DTZ · +14 Schreibaufgaben | ✅ fertig (Wörter → 5.710, Sätze → 3.430, Schreiben → 86, Prüfung → 497) |
 | M14 | Inhaltspaket 11 | Lücken füllen: A2-Sätze für den Grundkurs, Wortstellung, Beruf · +14 Schreibaufgaben (→ 100) · gemischte Prüfung | ✅ fertig (Sätze → 3.658, Schreiben → 100, Prüfung → 527 – Prüfungsziel erreicht) |
 | M15 | Wörter-Paket A | Fachwortschatz Pflege, Lager, Technik, Büro, Handel, Kita, Gastro · Adverbien · Natur/Körper/Verkehr · 92 Sätze dazu | ✅ fertig (Wörter → 6.050, Sätze → 3.750) |
-| M16 | Wörter-Paket B | Restlücke bis ≈ 7.000 (noch ≈ 950 → ggf. auf M16a/M16b aufteilen), Schwerpunkt B1/B2 · dazu ≈ 150 Sätze (Rest bis ≈ 3.900) | ⏳ als Nächstes |
-| M17 | Abschluss Phase 1 | Qualitätscheck (Dubletten, Verbmarkierung, Übersetzungen, Test im Browser), Zahlen prüfen | ⬜ offen |
+| M16 | Wörter-Paket B | Restlücke bis ≈ 7.000 geschlossen: +1.029 Wörter (häufige Nomen/Verben B1/B2 und alle Wörter, die in Sätzen und Prüfungstexten der App vorkamen, aber im Wörterbuch fehlten) · +155 Sätze für die schwächsten Themen (Relativsatz/zu-Infinitiv/indirekte Frage A2, Konnektoren B1, Fragen B2) · neue Funktion „Wort markieren → Erklärung + Übersetzung“ | ✅ fertig |
+| M17 | Abschluss Phase 1 | Qualitätscheck (Dubletten, Verbmarkierung, Übersetzungen, Test im Browser), Zahlen prüfen | ⏳ als Nächstes |
 
-**Stand:** 15 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 6.050 Wörter · 3.750 Sätze · 100 Schreibaufgaben · 527 Prüfungsaufgaben.
+**Stand:** 16 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 7.079 Wörter · 3.905 Sätze · 100 Schreibaufgaben · 527 Prüfungsaufgaben.
 
 
 **Nach Phase 1:** Inhalte (vor allem Schreibaufgaben, Sätze, Prüfungsaufgaben) wachsen laufend weiter – die Zielzahlen sind Zwischenziele, keine Obergrenze.
@@ -267,7 +267,7 @@ Zusätzlich **7 Tage Premium kostenlos** testen. Die bisherige Lernerin behält 
 
 | # | Phase | Inhalt | Ergebnis / Bedingung zum Weitergehen | Status |
 |---|---|---|---|---|
-| G1 | Inhalte fertig | M7–M17 abschließen | alle Zielzahlen erreicht, Qualitätscheck bestanden | ⏳ läuft (15 von 17) |
+| G1 | Inhalte fertig | M7–M17 abschließen | alle Zielzahlen erreicht, Qualitätscheck bestanden | ⏳ läuft (16 von 17) |
 | G2 | Testgruppe | 10–20 fremde Lernende nutzen die Web-App **kostenlos** 4 Wochen lang. Kurzer Fragebogen: Was fehlt? Würdest du 4,99 € zahlen? | mind. die Hälfte lernt nach 4 Wochen noch ≥ 3 Tage pro Woche, mind. 5 würden zahlen | ⬜ offen |
 | G3 | Rechtliches | Gewerbe anmelden, steuerliche Einordnung klären (Kleinunternehmer?), Impressum, Datenschutzerklärung (DSGVO), AGB mit Widerrufsbelehrung, Google-Play-Entwicklerkonto mit Zahlungsprofil, App-Name auf Markenrechte prüfen | alles erledigt, bevor der erste Euro fließt | ⬜ offen |
 | G4 | Technik | Anmeldung und Online-Speicher, Bezahlinhalte privat, Gratis/Premium-Grenze, Play Billing, russische Oberfläche, Datenübernahme aus localStorage | geschlossener Test mit der Testgruppe im Play Store | ⬜ offen |

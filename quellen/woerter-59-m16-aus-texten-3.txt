@@ -1,0 +1,191 @@
+# M16 Wörter aus Sätzen und Prüfungstexten der App (Teil 3)
+Krankenzimmer|das|Krankenzimmer|N|больничная палата|Zimmer im Krankenhaus|Das Krankenzimmer ist im dritten Stock.|A2|Gesundheit
+Kennzeichen|das|Kennzeichen|N|номерной знак; признак|Autonummer; Merkmal|Notieren Sie das Kennzeichen des Autos.|B1|Verkehr
+Lesebrille|die|Lesebrillen|N|очки для чтения|Brille zum Lesen|Wo ist meine Lesebrille?|A2|Gesundheit
+Schulleiterin|die|Schulleiterinnen|N|директор школы (жен.)|Chefin einer Schule|Die Schulleiterin begrüßt die Eltern.|B1|Bildung
+Heizungskeller|der|Heizungskeller|N|котельная (в подвале)|Kellerraum mit der Heizung|Der Hausmeister ist im Heizungskeller.|B1|Wohnen
+Therapeutin|die|Therapeutinnen|N|терапевт (жен.)|Frau, die eine Therapie macht|Die Therapeutin übt mit ihm das Gehen.|B1|Gesundheit
+Fußpflege|die|-|N|педикюр, уход за ногами|Pflege der Füße|Die Fußpflege kommt einmal im Monat ins Heim.|B1|Pflege
+Schulfest|das|Schulfeste|N|школьный праздник|Fest in der Schule|Beim Schulfest helfen alle Eltern.|A2|Bildung
+Arbeitsstelle|die|Arbeitsstellen|N|место работы|Stelle, Job|Ich habe eine neue Arbeitsstelle gefunden.|A2|Arbeit
+Probetraining|das|Probetrainings|N|пробная тренировка|erstes Training zum Testen|Das Probetraining ist kostenlos.|A2|Freizeit
+Wegweiser|der|Wegweiser|N|указатель|Schild, das den Weg zeigt|Folgen Sie dem Wegweiser zur Notaufnahme.|B1|Verkehr
+Schmuck|der|-|N|украшения|Ketten, Ringe usw.|Bei der Arbeit darf man keinen Schmuck tragen.|A2|Einkaufen
+Stift|der|Stifte|N|ручка, карандаш|etwas zum Schreiben|Hast du einen Stift für mich?|A2|Bildung
+Familienzentrum|das|Familienzentren|N|семейный центр|Treffpunkt und Beratung für Familien|Im Familienzentrum gibt es eine Krabbelgruppe.|B1|Familie
+Grundpreis|der|Grundpreise|N|базовая цена|Preis ohne Extras|Der Grundpreis beträgt 20 Euro im Monat.|B1|Geld
+Gewerbe|das|Gewerbe|N|промысел, предпринимательство|selbstständige Arbeit, Betrieb|Sie hat ein Gewerbe angemeldet.|B2|Wirtschaft
+Bibliotheksausweis|der|Bibliotheksausweise|N|читательский билет|Karte für die Bibliothek|Mit dem Bibliotheksausweis kann man Bücher ausleihen.|A2|Bildung
+Handel|der|-|N|торговля|Kauf und Verkauf|Sie arbeitet im Handel.|B1|Handel
+Leihfrist|die|Leihfristen|N|срок выдачи|wie lange man etwas leihen darf|Die Leihfrist beträgt vier Wochen.|B1|Bildung
+Grundschüler|der|Grundschüler|N|ученик начальной школы|Kind in der Grundschule|Grundschüler haben bis mittags Unterricht.|B1|Bildung
+Saisonkarte|die|Saisonkarten|N|сезонный абонемент|Karte für eine ganze Saison|Mit der Saisonkarte gehen wir jeden Tag ins Freibad.|B1|Freizeit
+Reisende|der|Reisenden|N|путешественник, пассажир|Person, die reist|Reisende nach Berlin steigen bitte um.|B1|Reisen
+Besucherin|die|Besucherinnen|N|посетительница|Frau, die zu Besuch kommt|Die Besucherin meldet sich an der Pforte.|A2|Alltag
+Notbetreuung|die|-|N|экстренный присмотр (за детьми)|Betreuung in Ausnahmefällen|Während des Streiks gibt es eine Notbetreuung.|B2|Familie
+Signalton|der|Signaltöne|N|звуковой сигнал|kurzer Ton|Sprechen Sie nach dem Signalton.|B1|Medien
+Hörer|der|Hörer|N|трубка; слушатель|Teil des Telefons; Person, die zuhört|Liebe Hörerinnen und Hörer, …|B1|Medien
+Sportlehrer|der|Sportlehrer|N|учитель физкультуры|Lehrer für Sport|Der Sportlehrer ist krank.|A2|Bildung
+Kundenumfrage|die|Kundenumfragen|N|опрос клиентов|Befragung von Kunden|Bitte nehmen Sie an unserer Kundenumfrage teil.|B1|Handel
+Hindernis|das|Hindernisse|N|препятствие|etwas, das im Weg ist|Die Sprache ist oft ein Hindernis.|B2|Alltag
+Becken|das|Becken|N|бассейн (чаша); таз|Schwimmbecken; Teil des Körpers|Das Becken für Kinder ist nicht tief.|B1|Freizeit
+Sauna|die|Saunen|N|сауна|heißer Raum zum Schwitzen|Nach dem Schwimmen gehe ich in die Sauna.|A2|Freizeit
+Zehnerkarte|die|Zehnerkarten|N|абонемент на 10 раз|Karte für zehn Besuche|Die Zehnerkarte ist günstiger.|A2|Freizeit
+Signalstörung|die|Signalstörungen|N|неисправность сигнализации|technisches Problem bei der Bahn|Wegen einer Signalstörung fallen Züge aus.|B2|Verkehr
+Ersatzbus|der|Ersatzbusse|N|автобус взамен поезда|Bus statt Zug oder Bahn|Zwischen Pirna und Dresden fährt ein Ersatzbus.|B1|Verkehr
+Freigabe|die|Freigaben|N|разрешение, одобрение|Erlaubnis|Für die Bestellung brauchen wir die Freigabe der Chefin.|B2|Arbeit
+Lobby|die|Lobbys|N|вестибюль; лобби|Eingangshalle; Interessengruppe|Wir treffen uns in der Lobby des Hotels.|B2|Reisen
+Weihnachtsmann|der|Weihnachtsmänner|N|Дед Мороз (рождественский)|Figur, die Geschenke bringt|Der Weihnachtsmann kommt zur Kita.|A2|Freizeit
+Erstgespräch|das|Erstgespräche|N|первая беседа|erstes Gespräch|Im Erstgespräch klären wir Ihre Wünsche.|B2|Arbeit
+Portemonnaie|das|Portemonnaies|N|кошелёк|Geldbörse|Ich habe mein Portemonnaie verloren.|A2|Geld
+Nachtarbeit|die|-|N|ночная работа|Arbeit in der Nacht|Für Nachtarbeit gibt es einen Zuschlag.|B1|Arbeit
+Sammelplatz|der|Sammelplätze|N|место сбора|Ort, wo sich alle treffen|Bei Feueralarm gehen alle zum Sammelplatz.|B1|Arbeit
+Fragebogen|der|Fragebögen|N|анкета|Blatt mit Fragen|Bitte füllen Sie den Fragebogen aus.|B1|Behörden
+Chaos|das|-|N|хаос|große Unordnung|Im Büro herrscht Chaos.|B1|Alltag
+Lerngruppe|die|Lerngruppen|N|учебная группа|Gruppe, die zusammen lernt|Wir treffen uns jeden Mittwoch in der Lerngruppe.|A2|Bildung
+Luftpumpe|die|Luftpumpen|N|насос|Gerät für Luft in Reifen|Hast du eine Luftpumpe für das Fahrrad?|B1|Verkehr
+Serviette|die|Servietten|N|салфетка|Tuch oder Papier beim Essen|Leg bitte Servietten auf den Tisch.|A2|Essen
+Wochenticket|das|Wochentickets|N|недельный проездной|Fahrkarte für eine Woche|Ein Wochenticket kostet 25 Euro.|A2|Verkehr
+Gartencenter|das|Gartencenter|N|садовый центр|Geschäft für Pflanzen|Im Gartencenter kaufen wir Blumenerde.|B1|Einkaufen
+Computerprogramm|das|Computerprogramme|N|компьютерная программа|Software|Das Computerprogramm ist neu.|A2|Medien
+Prospekt|der|Prospekte|N|проспект, буклет|Heft mit Werbung|Im Prospekt sind die Angebote der Woche.|A2|Einkaufen
+Visitenkarte|die|Visitenkarten|N|визитная карточка|Karte mit Name und Adresse|Hier ist meine Visitenkarte.|B1|Arbeit
+Datenbank|die|Datenbanken|N|база данных|System zum Speichern von Daten|Die Kundendaten sind in der Datenbank.|B2|Medien
+Mitgliedschaft|die|Mitgliedschaften|N|членство|Mitglied sein|Die Mitgliedschaft kostet 10 Euro im Monat.|B1|Freizeit
+Vergütung|die|Vergütungen|N|оплата, вознаграждение|Bezahlung|Die Vergütung erfolgt nach Tarif.|B2|Arbeit
+Mithilfe|die|-|N|помощь, содействие|Hilfe|Vielen Dank für Ihre Mithilfe!|B1|Alltag
+Dozentin|die|Dozentinnen|N|преподавательница|Lehrerin an einer Hochschule oder im Kurs|Die Dozentin erklärt die Grammatik.|B1|Bildung
+Schultag|der|Schultage|N|учебный день|Tag mit Schule|Der erste Schultag ist im August.|A2|Bildung
+Container|der|Container|N|контейнер|großer Behälter|Altglas kommt in den Container.|B1|Wohnen
+Nichtraucher|der|Nichtraucher|N|некурящий|Person, die nicht raucht|Ich bin Nichtraucher.|A2|Gesundheit
+Aufsicht|die|-|N|надзор|Kontrolle, Beobachtung|Die Kinder spielen unter Aufsicht.|B1|Familie
+Rotwein|der|Rotweine|N|красное вино|roter Wein|Möchten Sie Rotwein oder Weißwein?|A2|Essen
+Methode|die|Methoden|N|метод|Art und Weise|Diese Methode hilft beim Lernen.|B1|Bildung
+Ministerin|die|Ministerinnen|N|министр (жен.)|Frau in der Regierung|Die Ministerin hat ein neues Gesetz vorgestellt.|B2|Gesellschaft
+Gedächtnistraining|das|-|N|тренировка памяти|Übungen für das Gedächtnis|Im Heim gibt es Gedächtnistraining.|B2|Pflege
+Verkauf|der|Verkäufe|N|продажа|das Verkaufen|Der Verkauf beginnt um neun Uhr.|A2|Handel
+Pommes|die|(Pl.)|N|картофель фри|frittierte Kartoffelstäbchen|Ich nehme eine Portion Pommes.|A2|Essen
+Nahrung|die|-|N|пища|Essen|Gesunde Nahrung ist wichtig.|B1|Essen
+Fahrschein|der|Fahrscheine|N|проездной билет|Fahrkarte|Bitte zeigen Sie Ihren Fahrschein.|A2|Verkehr
+Vorsilbe|die|Vorsilben|N|приставка|Silbe am Anfang eines Wortes|„ver-“ ist eine Vorsilbe.|B1|Bildung
+Mädchen|das|Mädchen|N|девочка|weibliches Kind|Das Mädchen spielt im Garten.|A2|Familie
+Autor|der|Autoren|N|автор|Person, die ein Buch schreibt|Der Autor liest aus seinem Buch.|B1|Medien
+Aufforderung|die|Aufforderungen|N|требование, призыв|Bitte, etwas zu tun|Wir haben eine Aufforderung zur Zahlung bekommen.|B2|Briefe
+Komma|das|Kommas|N|запятая|Satzzeichen ,|Vor „weil“ steht ein Komma.|A2|Bildung
+Musikinstrument|das|Musikinstrumente|N|музыкальный инструмент|Gerät zum Musizieren|Spielst du ein Musikinstrument?|A2|Freizeit
+Schuluniform|die|Schuluniformen|N|школьная форма|gleiche Kleidung für alle Schüler|In Deutschland gibt es keine Schuluniformen.|B1|Bildung
+Instrument|das|Instrumente|N|инструмент|Musikinstrument; Werkzeug|Sie spielt drei Instrumente.|A2|Freizeit
+Strompreis|der|Strompreise|N|цена на электричество|Preis für Strom|Die Strompreise sind gestiegen.|B1|Wohnen
+Produktivität|die|-|N|производительность|wie viel man schafft|Die Produktivität ist im Homeoffice höher.|B2|Wirtschaft
+Pflegefachfrau|die|Pflegefachfrauen|N|медсестра (дипломированная)|ausgebildete Pflegekraft|Sie arbeitet als Pflegefachfrau.|B1|Pflege
+Umsetzung|die|Umsetzungen|N|реализация|das Umsetzen eines Plans|Die Umsetzung dauert ein Jahr.|B2|Arbeit
+Azubi|der|Azubis|N|ученик (в профобучении)|Auszubildender (kurz)|Unser Azubi ist im zweiten Lehrjahr.|B1|Arbeit
+Gesellenbrief|der|Gesellenbriefe|N|свидетельство подмастерья|Zeugnis nach der Ausbildung im Handwerk|Nach drei Jahren bekommt er den Gesellenbrief.|B2|Arbeit
+Vertrieb|der|-|N|сбыт, отдел продаж|Verkauf von Produkten|Sie arbeitet im Vertrieb.|B2|Wirtschaft
+Motor|der|Motoren|N|мотор|Maschine, die ein Fahrzeug bewegt|Der Motor macht komische Geräusche.|A2|Verkehr
+Arbeitshandschuhe|die|(Pl.)|N|рабочие перчатки|Handschuhe für die Arbeit|Tragen Sie im Lager Arbeitshandschuhe.|B1|Arbeit
+Cent|der|Cents (meist: 50 Cent)|N|цент|Hundertstel Euro|Das kostet 99 Cent.|A2|Geld
+Ofen|der|Öfen|N|печь, духовка|Gerät zum Backen oder Heizen|Der Kuchen ist im Ofen.|A2|Wohnen
+Laub|das|-|N|листва|Blätter der Bäume|Im Herbst fegen wir das Laub.|B1|Umwelt
+Zahnarzttermin|der|Zahnarzttermine|N|приём у стоматолога|Termin beim Zahnarzt|Ich muss meinen Zahnarzttermin verschieben.|A2|Gesundheit
+Muskelkater|der|-|N|крепатура, боль в мышцах|Schmerz nach Sport|Nach dem Training habe ich Muskelkater.|B1|Gesundheit
+Gliederung|die|Gliederungen|N|структура, план|Aufbau eines Textes|Machen Sie zuerst eine Gliederung.|B1|Bildung
+Zunahme|die|Zunahmen|N|увеличение, рост|das Mehrwerden|Die Zunahme des Verkehrs ist ein Problem.|B2|Gesellschaft
+Faktor|der|Faktoren|N|фактор|Umstand, der wirkt|Das Gehalt ist nur ein Faktor.|B2|Meinung
+Modul|das|Module|N|модуль|Teil eines Kurses oder Systems|Die Prüfung hat vier Module.|B2|Bildung
+Richtigkeit|die|-|N|правильность|richtig sein|Ich bestätige die Richtigkeit meiner Angaben.|B2|Behörden
+Kommission|die|Kommissionen|N|комиссия|Gruppe, die entscheidet|Die Kommission prüft den Antrag.|B2|Behörden
+Oberkörper|der|Oberkörper|N|верхняя часть тела|Körper über der Hüfte|Machen Sie bitte den Oberkörper frei.|B1|Gesundheit
+Alkohol|der|-|N|алкоголь|Bier, Wein usw.|Mit diesem Medikament keinen Alkohol trinken!|A2|Gesundheit
+Attest|das|Atteste|N|медицинская справка|ärztliche Bescheinigung|Für die Schule braucht mein Sohn ein Attest.|B1|Gesundheit
+Tagesablauf|der|Tagesabläufe|N|распорядок дня|was man an einem Tag macht|Beschreiben Sie Ihren Tagesablauf.|A2|Alltag
+Familienversicherung|die|-|N|семейное страхование|kostenlose Mitversicherung der Familie|Meine Kinder sind in der Familienversicherung.|B2|Behörden
+Prävention|die|-|N|профилактика|Vorbeugung|Prävention ist besser als Heilung.|B2|Gesundheit
+Patientenakte|die|Patientenakten|N|медицинская карта|Unterlagen über einen Patienten|Der Befund kommt in die Patientenakte.|B2|Gesundheit
+Einbürgerungstest|der|Einbürgerungstests|N|тест на гражданство|Test über Deutschland|Für den Einbürgerungstest lerne ich 300 Fragen.|B1|Behörden
+Sprechzeit|die|Sprechzeiten|N|часы приёма|Zeit, in der man jemanden erreicht|Die Sprechzeiten sind von 8 bis 12 Uhr.|A2|Behörden
+Korrektur|die|Korrekturen|N|исправление|Verbesserung von Fehlern|Danke für die Korrektur!|B1|Bildung
+Stofftasche|die|Stofftaschen|N|тканевая сумка|Tasche aus Stoff|Ich nehme immer eine Stofftasche zum Einkaufen mit.|A2|Einkaufen
+Million|die|Millionen|N|миллион|1 000 000|In Berlin leben fast vier Millionen Menschen.|A2|Gesellschaft
+Politik|die|-|N|политика|Staat und Regierung|Ich interessiere mich nicht für Politik.|B1|Gesellschaft
+Rahmenbedingungen|die|(Pl.)|N|рамочные условия|allgemeine Bedingungen|Die Rahmenbedingungen in der Pflege müssen besser werden.|B2|Arbeit
+Industrie|die|Industrien|N|промышленность|Fabriken, Produktion|In Sachsen gibt es viel Industrie.|B1|Wirtschaft
+Journalismus|der|-|N|журналистика|Arbeit von Journalisten|Guter Journalismus prüft die Fakten.|B2|Medien
+Mediennutzung|die|-|N|использование медиа|wie man Medien benutzt|Die Mediennutzung von Kindern steigt.|B2|Medien
+Jahrzehnt|das|Jahrzehnte|N|десятилетие|zehn Jahre|Seit Jahrzehnten wohnt sie in Dresden.|B1|Alltag
+Bundestagswahl|die|Bundestagswahlen|N|выборы в бундестаг|Wahl zum deutschen Parlament|Die Bundestagswahl ist alle vier Jahre.|B1|Gesellschaft
+Mitspracherecht|das|Mitspracherechte|N|право голоса|Recht, mitzuentscheiden|Die Mitarbeiter wollen ein Mitspracherecht.|B2|Arbeit
+Mauer|die|Mauern|N|стена (каменная)|Wand aus Stein|Die Berliner Mauer fiel 1989.|B1|Gesellschaft
+Trotzphase|die|Trotzphasen|N|кризис трёх лет (упрямство)|Zeit, in der kleine Kinder oft Nein sagen|Unser Sohn ist mitten in der Trotzphase.|B2|Familie
+Nähkurs|der|Nähkurse|N|курс шитья|Kurs zum Nähen|Ich mache einen Nähkurs.|A2|Freizeit
+Glühwein|der|Glühweine|N|глинтвейн|heißer Wein mit Gewürzen|Auf dem Weihnachtsmarkt trinken wir Glühwein.|A2|Essen
+Abschiedsfeier|die|Abschiedsfeiern|N|прощальная вечеринка|Feier zum Abschied|Für die Kollegin machen wir eine Abschiedsfeier.|B1|Arbeit
+Teilzeitarbeit|die|-|N|работа неполный день|Arbeit mit weniger Stunden|Teilzeitarbeit passt gut zur Familie.|B1|Arbeit
+Aushilfe|die|Aushilfen|N|временный работник|Person, die kurz aushilft|Wir suchen eine Aushilfe für den Sommer.|B1|Arbeit
+Mehrfamilienhaus|das|Mehrfamilienhäuser|N|многоквартирный дом|Haus mit mehreren Wohnungen|Wir wohnen in einem Mehrfamilienhaus.|B1|Wohnen
+Pollen|die|(Pl.)|N|пыльца|Blütenstaub|Im Frühling fliegen viele Pollen.|B1|Gesundheit
+Formsache|die|Formsachen|N|формальность|nur eine Formalität|Die Unterschrift ist nur eine Formsache.|B2|Behörden
+Schrift|die|Schriften|N|почерк; шрифт|Art zu schreiben|Ihre Schrift ist schwer zu lesen.|B1|Bildung
+Bewerbungsfrist|die|Bewerbungsfristen|N|срок подачи заявок|letzter Tag für Bewerbungen|Die Bewerbungsfrist endet am 31. März.|B1|Arbeit
+Strang|der|Stränge|N|верёвка; нить|Seil; in: an einem Strang ziehen = zusammenarbeiten|Wir müssen alle an einem Strang ziehen.|B2|Arbeit
+Reichweite|die|-|N|досягаемость; охват|wie weit etwas reicht|Die Klingel muss in Reichweite sein.|B2|Pflege
+Vorkenntnisse|die|(Pl.)|N|предварительные знания|Wissen, das man schon hat|Für den Kurs brauchen Sie keine Vorkenntnisse.|B1|Bildung
+Klassenlehrer|der|Klassenlehrer|N|классный руководитель|Lehrer, der für eine Klasse zuständig ist|Der Klassenlehrer lädt zum Elternabend ein.|A2|Bildung
+Kurierdienst|der|Kurierdienste|N|курьерская служба|Firma für schnelle Lieferungen|Die Dokumente bringt ein Kurierdienst.|B1|Arbeit
+Kaffeebohne|die|Kaffeebohnen|N|кофейное зерно|Bohne für Kaffee|Die Maschine mahlt die Kaffeebohnen frisch.|B1|Essen
+Mitarbeit|die|-|N|сотрудничество, участие|das Mitarbeiten|Vielen Dank für Ihre Mitarbeit.|B1|Arbeit
+Ankündigung|die|Ankündigungen|N|объявление, уведомление|Information vorab|Ohne Ankündigung kam der Techniker.|B2|Wohnen
+Bewerbungsschreiben|das|Bewerbungsschreiben|N|сопроводительное письмо|Brief für eine Bewerbung|Ich schreibe gerade mein Bewerbungsschreiben.|B1|Arbeit
+Einfühlungsvermögen|das|-|N|эмпатия, чуткость|andere gut verstehen|In der Pflege braucht man Einfühlungsvermögen.|B2|Pflege
+Durchgangsarzt|der|Durchgangsärzte|N|врач по производственным травмам|Arzt für Arbeitsunfälle|Nach einem Arbeitsunfall müssen Sie zum Durchgangsarzt.|B2|Gesundheit
+Firmenfeier|die|Firmenfeiern|N|корпоратив|Feier der Firma|Die Firmenfeier ist im Dezember.|B1|Arbeit
+Fingerfood|das|-|N|закуски (едят руками)|kleine Speisen für die Hand|Zum Empfang gibt es Fingerfood.|B2|Essen
+Häppchen|das|Häppchen|N|канапе, закуска|kleines Stück Essen|Es gibt Häppchen und Sekt.|B1|Essen
+Dessert|das|Desserts|N|десерт|süßer Nachtisch|Als Dessert gibt es Eis.|A2|Essen
+Unverträglichkeit|die|Unverträglichkeiten|N|непереносимость|Körper verträgt etwas nicht|Haben Sie Unverträglichkeiten?|B2|Gesundheit
+Apfelkuchen|der|Apfelkuchen|N|яблочный пирог|Kuchen mit Äpfeln|Oma backt den besten Apfelkuchen.|A2|Essen
+Wohnungsanzeige|die|Wohnungsanzeigen|N|объявление о квартире|Anzeige für eine Wohnung|Ich lese jeden Tag Wohnungsanzeigen.|A2|Wohnen
+Klassenkasse|die|Klassenkassen|N|классная касса|Geld der Klasse für Ausflüge|Jedes Kind zahlt 10 Euro in die Klassenkasse.|B1|Bildung
+Netzbetreiber|der|Netzbetreiber|N|оператор сети|Firma für Handy- oder Stromnetz|Ich wechsle den Netzbetreiber.|B2|Medien
+Vorrat|der|Vorräte|N|запас|etwas, das man aufbewahrt|Wir haben einen Vorrat an Wasser.|B1|Essen
+Routineaufgabe|die|Routineaufgaben|N|рутинная задача|Aufgabe, die man oft macht|Routineaufgaben erledige ich am Morgen.|B2|Arbeit
+Kürzung|die|Kürzungen|N|сокращение|das Kürzen|Es gibt Kürzungen beim Budget.|B2|Wirtschaft
+Koordination|die|-|N|координация|Organisation von Abläufen|Sie ist für die Koordination der Termine zuständig.|B2|Arbeit
+Schande|die|-|N|позор|etwas sehr Schlechtes|Es ist eine Schande, so viel Essen wegzuwerfen.|B2|Gefühle
+Seil|das|Seile|N|верёвка, канат|dickes Band|Die Kinder springen Seil.|A2|Freizeit
+Scherbe|die|Scherben|N|осколок|Stück von zerbrochenem Glas|Vorsicht, hier liegen Scherben!|B1|Alltag
+Tarif|der|Tarife|N|тариф|Preis; vereinbarter Lohn|Wir werden nach Tarif bezahlt.|B1|Arbeit
+Bandscheibenvorfall|der|Bandscheibenvorfälle|N|грыжа межпозвоночного диска|Erkrankung der Wirbelsäule|Wegen eines Bandscheibenvorfalls fällt sie lange aus.|B2|Gesundheit
+Verordnung|die|Verordnungen|N|предписание, распоряжение|Rezept; Vorschrift|Für die Physiotherapie brauchen Sie eine Verordnung.|B2|Gesundheit
+Gegenleistung|die|Gegenleistungen|N|ответная услуга|etwas, das man zurückgibt|Als Gegenleistung hilft er mir im Garten.|B2|Alltag
+Trainerin|die|Trainerinnen|N|тренер (жен.)|Frau, die Sport leitet|Die Trainerin ist sehr streng.|A2|Freizeit
+Postkarte|die|Postkarten|N|открытка|Karte zum Verschicken|Schreib mir eine Postkarte aus dem Urlaub!|A2|Briefe
+Wintermantel|der|Wintermäntel|N|зимнее пальто|warmer Mantel|Ich brauche einen neuen Wintermantel.|A2|Einkaufen
+Rentnerin|die|Rentnerinnen|N|пенсионерка|Frau, die Rente bekommt|Die Rentnerin geht jeden Tag spazieren.|A2|Gesellschaft
+Fahrzeit|die|Fahrzeiten|N|время в пути|wie lange man fährt|Die Fahrzeit beträgt zwei Stunden.|A2|Verkehr
+Hilfskraft|die|Hilfskräfte|N|вспомогательный работник|Person ohne Fachausbildung, die hilft|Als Hilfskraft verdient man weniger.|B1|Arbeit
+Rettung|die|Rettungen|N|спасение|das Retten|Die Rettung kam schnell.|B1|Gesundheit
+Weihnachtsferien|die|(Pl.)|N|рождественские каникулы|Ferien an Weihnachten|In den Weihnachtsferien besuchen wir die Oma.|A2|Familie
+Unsinn|der|-|N|ерунда|etwas Dummes|Das ist doch Unsinn!|B1|Meinung
+Krankschreibung|die|Krankschreibungen|N|больничный лист|Bescheinigung vom Arzt|Die Krankschreibung gilt bis Freitag.|B1|Arbeit
+Meeting|das|Meetings|N|совещание|Besprechung|Das Meeting beginnt um zehn.|B1|Arbeit
+Wahnsinn|der|-|N|безумие; (разг.) потрясающе|Verrücktheit; etwas Unglaubliches|Das ist ja Wahnsinn!|B1|Gefühle
+Betriebskita|die|Betriebskitas|N|детсад при предприятии|Kita einer Firma|Unsere Tochter geht in die Betriebskita.|B2|Familie
+Stellvertretung|die|Stellvertretungen|N|заместитель, замещение|Person, die vertritt|In meiner Abwesenheit wenden Sie sich an meine Stellvertretung.|B2|Arbeit
+Bevormundung|die|-|N|опека, навязывание (решений)|andere entscheiden für einen|Viele empfinden die Regel als Bevormundung.|B2|Meinung
+Arbeitskraft|die|Arbeitskräfte|N|рабочая сила|Person, die arbeitet|Es fehlen Arbeitskräfte.|B2|Wirtschaft
+Checkliste|die|Checklisten|N|контрольный список|Liste zum Abhaken|Arbeiten Sie die Checkliste ab.|B1|Arbeit
+Truhe|die|Truhen|N|сундук; морозильный ларь|große Kiste mit Deckel|Das Eis ist in der Truhe.|B1|Wohnen
+Tätigkeit|die|Tätigkeiten|N|деятельность|Arbeit, Aufgabe|Beschreiben Sie Ihre Tätigkeit.|B1|Arbeit
+Masernimpfung|die|Masernimpfungen|N|прививка от кори|Impfung gegen Masern|Für die Kita ist die Masernimpfung Pflicht.|B1|Gesundheit
+Apfelsaft|der|Apfelsäfte|N|яблочный сок|Saft aus Äpfeln|Ein Glas Apfelsaft, bitte.|A2|Essen
+Glanz|der|-|N|блеск|helles Leuchten|Nach dem Putzen hat der Boden wieder Glanz.|B2|Wohnen
+Pension|die|Pensionen|N|пансион, гостиница; пенсия (чиновника)|kleines Hotel; Rente von Beamten|Wir übernachten in einer Pension.|B1|Reisen
+Dienstzeit|die|Dienstzeiten|N|рабочее время|Zeit im Dienst|Die Dienstzeiten ändern sich im Sommer.|B1|Arbeit
+Fachbegriff|der|Fachbegriffe|N|специальный термин|Wort aus einer Fachsprache|Lernen Sie die wichtigsten Fachbegriffe.|B2|Bildung
+Biergarten|der|Biergärten|N|пивной сад|Lokal im Freien|Im Sommer sitzen wir im Biergarten.|A2|Freizeit
+Nation|die|Nationen|N|нация|Volk, Staat|Im Kurs sind zehn Nationen vertreten.|B1|Gesellschaft
+Urlaubstag|der|Urlaubstage|N|день отпуска|freier Tag im Urlaub|Ich habe 30 Urlaubstage im Jahr.|A2|Arbeit
+Etui|das|Etuis|N|футляр|kleine Hülle|Die Brille ist im Etui.|B1|Alltag
+Trinkplan|der|Trinkpläne|N|план питья|Plan, wie viel jemand trinkt|Für Frau Klein führen wir einen Trinkplan.|B2|Pflege
+Vollbremsung|die|Vollbremsungen|N|экстренное торможение|sehr starkes Bremsen|Der Busfahrer musste eine Vollbremsung machen.|B2|Verkehr

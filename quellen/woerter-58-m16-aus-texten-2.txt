@@ -1,0 +1,182 @@
+# M16 Wörter aus Sätzen und Prüfungstexten der App (Teil 2)
+Abendkurs|der|Abendkurse|N|вечерний курс|Kurs am Abend|Ich mache einen Abendkurs an der Volkshochschule.|A2|Bildung
+Schwiegereltern|die|(Pl.)|N|родители супруга|Eltern des Ehepartners|Am Sonntag besuchen wir die Schwiegereltern.|B1|Familie
+Helm|der|Helme|N|шлем|Schutz für den Kopf|Beim Radfahren trage ich einen Helm.|A2|Verkehr
+Elternteil|der|Elternteile|N|один из родителей|Mutter oder Vater|Ein Elternteil muss unterschreiben.|B1|Familie
+Vase|die|Vasen|N|ваза|Gefäß für Blumen|Stell die Blumen in die Vase.|A2|Wohnen
+Stadtverwaltung|die|Stadtverwaltungen|N|городская администрация|Behörde der Stadt|Die Stadtverwaltung ist im Rathaus.|B1|Behörden
+Trockenheit|die|-|N|засуха, сухость|kein Regen über lange Zeit|Wegen der Trockenheit ist die Ernte schlecht.|B2|Umwelt
+Handynutzung|die|-|N|пользование телефоном|das Benutzen des Handys|Die Handynutzung im Unterricht ist verboten.|B2|Medien
+Balkontür|die|Balkontüren|N|балконная дверь|Tür zum Balkon|Die Balkontür klemmt.|A2|Wohnen
+Ranzen|der|Ranzen|N|школьный ранец|Schultasche|Der Ranzen ist zu schwer.|A2|Familie
+Sonnencreme|die|Sonnencremes|N|солнцезащитный крем|Creme gegen Sonnenbrand|Vergiss die Sonnencreme nicht!|A2|Gesundheit
+Gemeinschaftsraum|der|Gemeinschaftsräume|N|общая комната|Raum für alle|Die Feier ist im Gemeinschaftsraum.|B1|Wohnen
+Klammer|die|Klammern|N|скобка; прищепка|Zeichen ( ); Wäscheklammer|Setzen Sie das Wort in Klammern.|B1|Bildung
+Schulsystem|das|Schulsysteme|N|школьная система|Aufbau der Schulen|Das deutsche Schulsystem ist kompliziert.|B1|Bildung
+Führungskraft|die|Führungskräfte|N|руководитель|Person mit Leitungsaufgabe|Führungskräfte sollten gut zuhören.|B2|Arbeit
+Pflegeausbildung|die|Pflegeausbildungen|N|обучение уходу (профессиональное)|Ausbildung in der Pflege|Die Pflegeausbildung dauert drei Jahre.|B1|Pflege
+Sonntagsarbeit|die|-|N|работа в воскресенье|Arbeit am Sonntag|Für Sonntagsarbeit gibt es einen Zuschlag.|B2|Arbeit
+Lied|das|Lieder|N|песня|Musik mit Text|Die Kinder singen ein Lied.|A2|Freizeit
+Mitgliedsnummer|die|Mitgliedsnummern|N|членский номер|Nummer eines Mitglieds|Bitte geben Sie Ihre Mitgliedsnummer an.|B1|Freizeit
+Getränkelager|das|Getränkelager|N|склад напитков|Raum für Getränke|Die Kisten stehen im Getränkelager.|B1|Arbeit
+Probestunde|die|Probestunden|N|пробное занятие|kostenlose erste Stunde|Sie können gern eine Probestunde machen.|A2|Freizeit
+Pflegedienstleitung|die|Pflegedienstleitungen|N|руководство службы ухода|Chefin oder Chef der Pflege|Die Pflegedienstleitung führt das Gespräch.|B2|Pflege
+Schulzeit|die|-|N|школьные годы|Zeit in der Schule|In meiner Schulzeit habe ich Englisch gelernt.|A2|Bildung
+Ersthelferin|die|Ersthelferinnen|N|ответственная за первую помощь|Frau, die Erste Hilfe leistet|Frau Kim ist Ersthelferin in unserer Abteilung.|B2|Arbeit
+Kuchenverkauf|der|Kuchenverkäufe|N|продажа выпечки|Verkauf von Kuchen|Beim Schulfest gibt es einen Kuchenverkauf.|A2|Familie
+Arbeitsalltag|der|-|N|рабочие будни|normaler Tag bei der Arbeit|Im Arbeitsalltag spreche ich viel Deutsch.|B1|Arbeit
+Mischung|die|Mischungen|N|смесь|etwas Gemischtes|Das ist eine gute Mischung aus Arbeit und Freizeit.|B1|Alltag
+Gegenvorschlag|der|Gegenvorschläge|N|встречное предложение|anderer Vorschlag|Darf ich einen Gegenvorschlag machen?|B2|Meinung
+Therapie|die|Therapien|N|терапия, лечение|Behandlung|Die Therapie dauert sechs Wochen.|B1|Gesundheit
+Mittelohrentzündung|die|Mittelohrentzündungen|N|воспаление среднего уха|Entzündung im Ohr|Das Kind hat eine Mittelohrentzündung.|B2|Gesundheit
+Versichertennummer|die|Versichertennummern|N|номер страхования|Nummer bei der Krankenkasse|Ihre Versichertennummer steht auf der Karte.|B1|Behörden
+Kaffeeküche|die|Kaffeeküchen|N|кухня для сотрудников|kleine Küche im Büro|Wir treffen uns in der Kaffeeküche.|B1|Arbeit
+Betriebsausflug|der|Betriebsausflüge|N|корпоративная поездка|Ausflug mit allen Kollegen|Der Betriebsausflug geht nach Meißen.|B1|Arbeit
+Schulferien|die|(Pl.)|N|школьные каникулы|freie Zeit von der Schule|In den Schulferien ist die Kita offen.|A2|Familie
+Privatsache|die|Privatsachen|N|личное дело|etwas Persönliches|Das ist meine Privatsache.|B2|Gefühle
+Organisation|die|Organisationen|N|организация|Planung; Verein, Institution|Die Organisation der Feier war super.|B1|Arbeit
+Tiefkühlware|die|Tiefkühlwaren|N|замороженные продукты|gefrorene Lebensmittel|Die Tiefkühlware muss sofort in den Kühlraum.|B2|Handel
+Abbuchung|die|Abbuchungen|N|списание (со счёта)|Geld wird vom Konto genommen|Die Abbuchung erfolgt am Monatsanfang.|B2|Geld
+Radiologie|die|-|N|радиология, рентген-отделение|Abteilung für Röntgen|Gehen Sie bitte zur Radiologie im Keller.|B2|Gesundheit
+Fax|das|Faxe|N|факс|Kopie über das Telefonnetz|Schicken Sie das Formular bitte per Fax.|B1|Arbeit
+Übernachtung|die|Übernachtungen|N|ночёвка|eine Nacht im Hotel|Die Übernachtung kostet 80 Euro.|A2|Reisen
+Schichtleiterin|die|Schichtleiterinnen|N|начальница смены|Chefin einer Schicht|Melden Sie sich bei der Schichtleiterin.|B1|Arbeit
+Lieferkosten|die|(Pl.)|N|стоимость доставки|Kosten für das Liefern|Ab 50 Euro gibt es keine Lieferkosten.|B1|Einkaufen
+Telefonat|das|Telefonate|N|телефонный разговор|Gespräch am Telefon|Nach unserem Telefonat schicke ich Ihnen die Unterlagen.|B1|Arbeit
+Geschäftsbedingungen|die|(Pl.)|N|условия (договора)|Regeln eines Vertrags|Lesen Sie die Allgemeinen Geschäftsbedingungen.|B2|Einkaufen
+Großkunde|der|Großkunden|N|крупный клиент|Kunde, der viel kauft|Der Großkunde bestellt jeden Monat.|B2|Handel
+Kinderprogramm|das|Kinderprogramme|N|детская программа|Angebot für Kinder|Beim Fest gibt es ein Kinderprogramm.|A2|Freizeit
+Kratzer|der|Kratzer|N|царапина|kleine Beschädigung|Der Tisch hat einen Kratzer.|B1|Einkaufen
+Fahrtkosten|die|(Pl.)|N|транспортные расходы|Geld für die Fahrt|Die Firma übernimmt die Fahrtkosten.|B1|Arbeit
+Eintrag|der|Einträge|N|запись|etwas, das man einträgt|Bitte prüfen Sie die Einträge im Dienstplan.|B1|Arbeit
+Nachttisch|der|Nachttische|N|прикроватная тумбочка|kleiner Tisch neben dem Bett|Die Brille liegt auf dem Nachttisch.|A2|Wohnen
+Referentin|die|Referentinnen|N|докладчица; референт|Frau, die einen Vortrag hält|Die Referentin spricht über Ernährung.|B2|Bildung
+Ersatztermin|der|Ersatztermine|N|запасная дата|neuer Termin statt des alten|Wir bieten Ihnen einen Ersatztermin an.|B1|Alltag
+Autowerkstatt|die|Autowerkstätten|N|автомастерская|Werkstatt für Autos|Mein Auto ist in der Autowerkstatt.|A2|Verkehr
+Labor|das|Labore|N|лаборатория|Raum für Untersuchungen|Das Blut wird im Labor untersucht.|B1|Gesundheit
+Teamleiter|der|Teamleiter|N|руководитель группы|Chef eines Teams|Der Teamleiter verteilt die Aufgaben.|B1|Arbeit
+Hintereingang|der|Hintereingänge|N|задний вход|Eingang hinten|Lieferungen bitte am Hintereingang abgeben.|A2|Alltag
+Wäscherei|die|Wäschereien|N|прачечная|Betrieb, der Wäsche wäscht|Die Bettwäsche geht in die Wäscherei.|B1|Arbeit
+Präparat|das|Präparate|N|препарат|Medikament|Nehmen Sie das Präparat zweimal täglich.|B2|Gesundheit
+Aula|die|Aulen|N|актовый зал|großer Saal in der Schule|Die Zeugnisse werden in der Aula verteilt.|B1|Bildung
+Bonusprogramm|das|Bonusprogramme|N|бонусная программа|Programm mit Prämien|Die Krankenkasse hat ein Bonusprogramm.|B2|Gesundheit
+Shop|der|Shops|N|магазин (интернет-)|Laden, Onlineladen|Das bestelle ich im Onlineshop.|A2|Einkaufen
+Kaffeemaschine|die|Kaffeemaschinen|N|кофемашина|Gerät für Kaffee|Die Kaffeemaschine ist kaputt.|A2|Wohnen
+Sportkleidung|die|-|N|спортивная одежда|Kleidung für Sport|Bringt bitte Sportkleidung mit.|A2|Freizeit
+Wohngeldstelle|die|Wohngeldstellen|N|служба жилищных субсидий|Amt für Wohngeld|Den Antrag gibt es bei der Wohngeldstelle.|B2|Behörden
+Aushang|der|Aushänge|N|объявление (на доске)|Zettel an der Wand|Lesen Sie den Aushang im Treppenhaus.|B1|Wohnen
+Versammlung|die|Versammlungen|N|собрание|Treffen vieler Menschen|Die Versammlung der Mieter ist am Dienstag.|B1|Gesellschaft
+Lungenentzündung|die|Lungenentzündungen|N|воспаление лёгких|Entzündung der Lunge|Er liegt mit einer Lungenentzündung im Krankenhaus.|B1|Gesundheit
+Kiste|die|Kisten|N|ящик|Kasten aus Holz oder Plastik|Die Kiste ist sehr schwer.|A2|Alltag
+Student|der|Studenten|N|студент|Person an einer Universität|Mein Bruder ist Student.|A2|Bildung
+Umstellung|die|Umstellungen|N|перестройка, переход|Änderung|Die Umstellung auf die Winterzeit ist am Sonntag.|B2|Alltag
+Stapler|der|Stapler|N|погрузчик|Fahrzeug im Lager|Für den Stapler braucht man einen Schein.|B1|Arbeit
+Reform|die|Reformen|N|реформа|große Veränderung durch Gesetz|Die Reform betrifft alle Rentner.|B2|Gesellschaft
+Begleitung|die|Begleitungen|N|сопровождение|Person, die mitkommt|Der Patient darf nur mit Begleitung gehen.|B1|Pflege
+Gasthaus|das|Gasthäuser|N|трактир, гостиница|Restaurant mit Zimmern|Wir essen im Gasthaus am See.|B1|Essen
+Spielsachen|die|(Pl.)|N|игрушки|Spielzeug|Räum deine Spielsachen auf!|A2|Familie
+Grill|der|Grills|N|гриль|Gerät zum Grillen|Wer bringt den Grill mit?|A2|Freizeit
+Diplom|das|Diplome|N|диплом|Zeugnis über einen Abschluss|Ihr Diplom wird in Deutschland anerkannt.|B1|Bildung
+Geschäftsleitung|die|Geschäftsleitungen|N|руководство фирмы|Chefs einer Firma|Die Geschäftsleitung hat eine Entscheidung getroffen.|B2|Arbeit
+Lieblingsort|der|Lieblingsorte|N|любимое место|Ort, den man am meisten mag|Der Garten ist mein Lieblingsort.|A2|Freizeit
+Führungsposition|die|Führungspositionen|N|руководящая должность|leitende Stelle|Wenige Frauen haben eine Führungsposition.|B2|Arbeit
+Agentur|die|Agenturen|N|агентство|Firma, die vermittelt|Ich habe den Job über eine Agentur bekommen.|B1|Arbeit
+Täter|der|Täter|N|преступник|Person, die eine Straftat begeht|Die Polizei sucht den Täter.|B2|Gesellschaft
+Kundendaten|die|(Pl.)|N|данные клиентов|Informationen über Kunden|Kundendaten dürfen nicht weitergegeben werden.|B2|Arbeit
+Kilometer|der|Kilometer|N|километр|1000 Meter|Bis zur Arbeit sind es fünf Kilometer.|A2|Verkehr
+Bruch|der|Brüche|N|перелом; разрыв|gebrochener Knochen; Ende|Der Arzt hat einen Bruch festgestellt.|B1|Gesundheit
+Teilnehmerzahl|die|Teilnehmerzahlen|N|число участников|wie viele Personen teilnehmen|Die Teilnehmerzahl ist auf 12 begrenzt.|B1|Bildung
+Vordergrund|der|-|N|передний план|vorderer Teil; das Wichtigste|Die Sicherheit steht im Vordergrund.|B2|Meinung
+Hausmüll|der|-|N|бытовой мусор|Müll aus dem Haushalt|Batterien gehören nicht in den Hausmüll.|B1|Wohnen
+Kleiderkammer|die|Kleiderkammern|N|пункт выдачи одежды|Ort mit gespendeter Kleidung|In der Kleiderkammer gibt es Winterjacken.|B2|Gesellschaft
+Fotografie|die|Fotografien|N|фотография|Foto; Kunst des Fotografierens|Sie interessiert sich für Fotografie.|B1|Freizeit
+Osten|der|-|N|восток|Himmelsrichtung|Die Sonne geht im Osten auf.|A2|Umwelt
+Pausenzeit|die|Pausenzeiten|N|время перерыва|Zeit für die Pause|Die Pausenzeiten stehen im Dienstplan.|B1|Arbeit
+Transport|der|Transporte|N|транспорт, перевозка|das Bringen von Waren oder Personen|Der Transport ins Krankenhaus ist organisiert.|B1|Verkehr
+Kühlraum|der|Kühlräume|N|холодильная камера|kalter Raum für Lebensmittel|Die Milch kommt in den Kühlraum.|B1|Arbeit
+Tunnel|der|Tunnel|N|туннель|Weg durch einen Berg|Im Tunnel ist Stau.|A2|Verkehr
+Unpünktlichkeit|die|-|N|непунктуальность|zu spät kommen|Unpünktlichkeit ist im Job ein Problem.|B2|Arbeit
+Hinblick|der|-|N|отношение (в отношении)|nur in: im Hinblick auf|Im Hinblick auf die Prüfung lerne ich jeden Tag.|B2|Bildung
+Vorsorge|die|-|N|профилактика; забота о будущем|Maßnahme gegen spätere Probleme|Die Vorsorge beim Zahnarzt ist wichtig.|B1|Gesundheit
+Seitenlage|die|-|N|положение на боку|Lage auf der Seite|Bringen Sie die Person in die stabile Seitenlage.|B2|Gesundheit
+Auffälligkeit|die|Auffälligkeiten|N|отклонение, особенность|etwas Ungewöhnliches|Melden Sie Auffälligkeiten sofort.|B2|Pflege
+Austausch|der|-|N|обмен|das Tauschen; Gespräch|Der Austausch mit Kollegen hilft mir.|B1|Arbeit
+Gehaltsnachweis|der|Gehaltsnachweise|N|справка о зарплате|Beleg über das Gehalt|Für die Wohnung brauche ich drei Gehaltsnachweise.|B1|Wohnen
+Dieb|der|Diebe|N|вор|Person, die stiehlt|Der Dieb hat meine Tasche genommen.|A2|Gesellschaft
+Amt|das|Ämter|N|ведомство, учреждение|Behörde|Ich muss morgen aufs Amt.|A2|Behörden
+Insekt|das|Insekten|N|насекомое|kleines Tier mit sechs Beinen|Bienen sind nützliche Insekten.|A2|Umwelt
+Viertel|das|Viertel|N|четверть; район|ein Teil von vier; Stadtteil|Es ist Viertel nach acht.|A2|Wohnen
+Schließung|die|Schließungen|N|закрытие|das Schließen|Die Schließung der Filiale ist geplant.|B2|Wirtschaft
+Einheit|die|Einheiten|N|единица; единство|Teil; Zusammengehörigkeit|Der Kurs hat zehn Einheiten.|B1|Bildung
+Blick|der|Blicke|N|взгляд; вид|das Sehen; Aussicht|Das Zimmer hat einen schönen Blick auf den Fluss.|B1|Wohnen
+Nachtruhe|die|-|N|ночной покой (тишина)|Ruhe in der Nacht|Die Nachtruhe beginnt um 22 Uhr.|B1|Wohnen
+Patin|die|Patinnen|N|крёстная|Frau, die ein Kind begleitet|Meine Schwester ist die Patin meiner Tochter.|B1|Familie
+Kindergeburtstag|der|Kindergeburtstage|N|детский день рождения|Feier für ein Kind|Am Samstag ist der Kindergeburtstag.|A2|Familie
+Warteliste|die|Wartelisten|N|список ожидания|Liste von Wartenden|Wir stehen auf der Warteliste für einen Kitaplatz.|B1|Familie
+Advent|der|-|N|адвент|vier Wochen vor Weihnachten|Im Advent backen wir Plätzchen.|A2|Freizeit
+Urlaubsvertretung|die|Urlaubsvertretungen|N|замещение на время отпуска|Person, die im Urlaub vertritt|Wer ist Ihre Urlaubsvertretung?|B2|Arbeit
+Erhalt|der|-|N|получение|das Bekommen|Bitte bestätigen Sie den Erhalt der E-Mail.|B2|Briefe
+Krieg|der|Kriege|N|война|Kampf zwischen Ländern|Wegen des Krieges ist die Familie geflohen.|B1|Gesellschaft
+Schulwahl|die|-|N|выбор школы|Entscheidung für eine Schule|Bei der Schulwahl hilft die Lehrerin.|B2|Bildung
+Medikamentengabe|die|-|N|выдача лекарств|das Geben von Medikamenten|Die Medikamentengabe wird dokumentiert.|B2|Pflege
+Aufnahme|die|Aufnahmen|N|приём; запись|das Aufnehmen; Foto, Tonaufnahme|Bei der Aufnahme im Krankenhaus brauchen Sie die Karte.|B1|Gesundheit
+Flüssigkeitsmangel|der|-|N|нехватка жидкости|zu wenig Trinken|Flüssigkeitsmangel macht müde.|B2|Pflege
+Wundversorgung|die|-|N|обработка раны|Pflege einer Wunde|Die Wundversorgung macht die Fachkraft.|B2|Pflege
+Seele|die|Seelen|N|душа|Innerstes des Menschen|Sie ist die Seele des Teams.|B1|Gefühle
+Schließfach|das|Schließfächer|N|камера хранения, шкафчик|Fach zum Abschließen|Die Taschen kommen ins Schließfach.|A2|Alltag
+Tausch|der|-|N|обмен|das Tauschen|Ein Tausch der Schichten ist möglich.|B1|Arbeit
+Meerblick|der|-|N|вид на море|Aussicht auf das Meer|Wir hätten gern ein Zimmer mit Meerblick.|A2|Reisen
+Reiseleitung|die|Reiseleitungen|N|гид, руководство тура|Person, die eine Reise führt|Die Reiseleitung holt uns am Flughafen ab.|B1|Reisen
+Kursprogramm|das|Kursprogramme|N|программа курсов|Liste aller Kurse|Im Kursprogramm finden Sie alle Termine.|B1|Bildung
+Paketdienst|der|Paketdienste|N|служба доставки посылок|Firma, die Pakete bringt|Der Paketdienst kommt am Vormittag.|A2|Alltag
+Klärung|die|Klärungen|N|выяснение|das Klären|Zur Klärung rufe ich Sie morgen an.|B2|Arbeit
+Lagerhelfer|der|Lagerhelfer|N|помощник на складе|Hilfskraft im Lager|Wir suchen Lagerhelfer für die Frühschicht.|B1|Arbeit
+Handscanner|der|Handscanner|N|ручной сканер|kleines Gerät zum Scannen|Mit dem Handscanner erfassen wir die Ware.|B2|Arbeit
+Blutuntersuchung|die|Blutuntersuchungen|N|анализ крови|Untersuchung des Blutes|Für die Blutuntersuchung müssen Sie nüchtern sein.|B1|Gesundheit
+Faxnummer|die|Faxnummern|N|номер факса|Nummer für Faxe|Wie ist Ihre Faxnummer?|B1|Arbeit
+Monatsbeginn|der|-|N|начало месяца|Anfang des Monats|Das Gehalt kommt zu Monatsbeginn.|B1|Geld
+Kanister|der|Kanister|N|канистра|Behälter für Flüssigkeit|Der Kanister ist voll mit Wasser.|B1|Alltag
+Verbandbuch|das|Verbandbücher|N|журнал первой помощи|Buch für kleine Unfälle am Arbeitsplatz|Tragen Sie die Verletzung ins Verbandbuch ein.|B2|Arbeit
+Kundenanfrage|die|Kundenanfragen|N|запрос клиента|Frage eines Kunden|Ich beantworte jeden Tag viele Kundenanfragen.|B2|Arbeit
+Variante|die|Varianten|N|вариант|andere Möglichkeit|Welche Variante gefällt Ihnen besser?|B1|Alltag
+Probe|die|Proben|N|проба; репетиция|Test; Übung vor einem Auftritt|Der Arzt nimmt eine Probe.|B1|Gesundheit
+Internetvertrag|der|Internetverträge|N|договор на интернет|Vertrag für Internet|Ich möchte meinen Internetvertrag kündigen.|B1|Medien
+Router|der|Router|N|роутер|Gerät für das Internet|Starten Sie den Router neu.|B1|Medien
+Installation|die|Installationen|N|установка|das Einrichten von Geräten oder Programmen|Die Installation dauert zehn Minuten.|B1|Medien
+Frühjahr|das|Frühjahre|N|весна|Frühling|Im Frühjahr ziehen wir um.|A2|Wetter
+Rufnummer|die|Rufnummern|N|номер телефона|Telefonnummer|Bitte nennen Sie Ihre Rufnummer.|B1|Medien
+Konzentration|die|-|N|концентрация|Aufmerksamkeit|Lärm stört meine Konzentration.|B1|Bildung
+Kostenübernahme|die|Kostenübernahmen|N|оплата расходов (кем-то)|jemand zahlt die Kosten|Die Krankenkasse hat die Kostenübernahme bestätigt.|B2|Behörden
+Freistellung|die|Freistellungen|N|освобождение от работы|frei von der Arbeit bekommen|Für die Prüfung bekomme ich eine Freistellung.|B2|Arbeit
+Ohrentropfen|die|(Pl.)|N|ушные капли|Medikament für das Ohr|Geben Sie zweimal täglich Ohrentropfen.|B1|Gesundheit
+Altenpflege|die|-|N|уход за пожилыми|Pflege alter Menschen|Ich möchte in der Altenpflege arbeiten.|B1|Pflege
+Start|der|Starts|N|старт, начало|Beginn|Der Start des Kurses ist im März.|A2|Alltag
+Privatleben|das|-|N|личная жизнь|Leben außerhalb der Arbeit|Arbeit und Privatleben sollten getrennt sein.|B1|Alltag
+Lücke|die|Lücken|N|пробел, пропуск|leere Stelle|Füllen Sie die Lücken.|A2|Bildung
+Teamgeist|der|-|N|командный дух|gutes Zusammenarbeiten|Wir suchen jemanden mit Teamgeist.|B2|Arbeit
+Teamarbeit|die|-|N|командная работа|Arbeit in der Gruppe|Teamarbeit ist bei uns wichtig.|B1|Arbeit
+Image|das|Images|N|имидж|Bild in der Öffentlichkeit|Der Pflegeberuf hat ein schlechtes Image.|B2|Gesellschaft
+Büromaterial|das|Büromaterialien|N|канцтовары|Stifte, Papier usw.|Das Büromaterial ist im Schrank.|B1|Arbeit
+Praktikumsplatz|der|Praktikumsplätze|N|место для практики|Stelle für ein Praktikum|Ich suche einen Praktikumsplatz in der Pflege.|B1|Arbeit
+Busverbindung|die|Busverbindungen|N|автобусное сообщение|Fahrt mit dem Bus|Die Busverbindung ist sehr schlecht.|A2|Verkehr
+Eröffnung|die|Eröffnungen|N|открытие|Beginn, erster Tag|Zur Eröffnung gibt es 20 Prozent Rabatt.|B1|Einkaufen
+Bürostuhl|der|Bürostühle|N|офисный стул|Stuhl für den Schreibtisch|Der Bürostuhl ist bequem.|A2|Arbeit
+Schichttausch|der|-|N|обмен сменами|Tausch von Diensten|Ein Schichttausch muss genehmigt werden.|B1|Arbeit
+Trauzeugin|die|Trauzeuginnen|N|свидетельница на свадьбе|Zeugin bei der Hochzeit|Meine Freundin ist meine Trauzeugin.|B1|Familie
+Info|die|Infos|N|инфо (разг.)|Information|Danke für die Info!|A2|Alltag
+Display|das|Displays|N|дисплей|Bildschirm eines Geräts|Das Display ist kaputt.|B1|Medien
+Urlaubswunsch|der|Urlaubswünsche|N|пожелание по отпуску|gewünschte Urlaubszeit|Bitte tragen Sie Ihre Urlaubswünsche bis Januar ein.|B1|Arbeit
+Überschneidung|die|Überschneidungen|N|наложение, пересечение|zwei Dinge zur gleichen Zeit|Es gibt eine Überschneidung bei den Terminen.|B2|Arbeit
+Verschiebung|die|Verschiebungen|N|перенос|das Verschieben|Eine Verschiebung des Termins ist möglich.|B2|Arbeit
+Lautsprecher|der|Lautsprecher|N|громкоговоритель, динамик|Gerät für Ton|Die Durchsage kommt aus dem Lautsprecher.|B1|Medien
+Firmengelände|das|Firmengelände|N|территория фирмы|Grundstück einer Firma|Auf dem Firmengelände ist Rauchen verboten.|B2|Arbeit
+Esstisch|der|Esstische|N|обеденный стол|Tisch zum Essen|Der Esstisch hat sechs Stühle.|A2|Wohnen
+Lieferschwierigkeiten|die|(Pl.)|N|трудности с поставкой|Probleme beim Liefern|Wegen Lieferschwierigkeiten kommt die Ware später.|B2|Handel
+Mehrkosten|die|(Pl.)|N|дополнительные расходы|zusätzliche Kosten|Für Sie entstehen keine Mehrkosten.|B2|Geld
+Kaufdatum|das|Kaufdaten|N|дата покупки|Tag des Kaufs|Das Kaufdatum steht auf dem Kassenbon.|B1|Einkaufen
+Teamausflug|der|Teamausflüge|N|выезд команды|Ausflug mit dem Team|Der Teamausflug ist im Juni.|B1|Arbeit
+Kursgebühr|die|Kursgebühren|N|плата за курс|Geld für einen Kurs|Die Kursgebühr beträgt 120 Euro.|A2|Bildung
+Bon|der|Bons|N|чек|Kassenzettel|Heben Sie den Bon gut auf.|A2|Einkaufen
+Schlange|die|Schlangen|N|змея; очередь|Tier; Reihe von Wartenden|An der Kasse ist eine lange Schlange.|A2|Einkaufen
+Auswahlverfahren|das|Auswahlverfahren|N|процедура отбора|Prozess zur Auswahl von Bewerbern|Das Auswahlverfahren hat drei Stufen.|B2|Arbeit
+Wartungsarbeiten|die|(Pl.)|N|работы по техобслуживанию|Arbeiten zur Pflege von Technik|Wegen Wartungsarbeiten ist das System offline.|B2|Arbeit

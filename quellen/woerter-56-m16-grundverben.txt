@@ -1,0 +1,37 @@
+# M16 Häufige Verben (geprüfte neue Wörter)
+baden|-|badet, badete, hat gebadet|V|купаться, принимать ванну|in der Badewanne oder im See waschen/schwimmen|Am Abend baden wir das Baby.|A2|Alltag
+beten|-|betet, betete, hat gebetet|V|молиться|mit Gott sprechen|Meine Oma betet jeden Abend.|B1|Gesellschaft
+biegen|-|biegt, bog, ist/hat gebogen|V|сворачивать; гнуть|die Richtung ändern; krumm machen|Biegen Sie an der Ampel links ab.|B1|Verkehr
+binden|-|bindet, band, hat gebunden|V|связывать, завязывать|mit einem Band festmachen|Sie bindet die Haare zu einem Zopf.|B1|Alltag
+blasen|-|bläst, blies, hat geblasen|V|дуть|Luft aus dem Mund pressen|Das Kind bläst die Kerzen aus.|B1|Freizeit
+borgen|-|borgt, borgte, hat geborgt|V|одалживать|leihen|Kannst du mir dein Fahrrad borgen?|B1|Alltag
+drehen|-|dreht, drehte, hat gedreht|V|поворачивать, крутить|im Kreis bewegen|Drehen Sie den Schlüssel nach rechts.|A2|Alltag
+duschen|-|duscht, duschte, hat geduscht|V|принимать душ|sich unter der Dusche waschen|Ich dusche jeden Morgen.|A2|Alltag
+fassen|-|fasst, fasste, hat gefasst|V|хватать; вмещать|greifen; Platz haben für|Der Saal fasst 200 Personen.|B2|Alltag
+fließen|-|fließt, floss, ist geflossen|V|течь|sich als Wasser bewegen|Der Rhein fließt durch Köln.|B1|Umwelt
+fühlen|-|fühlt, fühlte, hat gefühlt|V|чувствовать|empfinden; tasten|Ich fühle mich heute nicht gut.|A2|Gesundheit
+fürchten|-|fürchtet, fürchtete, hat gefürchtet|V|бояться, опасаться|Angst haben|Ich fürchte, wir kommen zu spät.|B1|Gefühle
+gleichen|-|gleicht, glich, hat geglichen|V|быть похожим|ähnlich sein|Die Zwillinge gleichen sich sehr.|B2|Familie
+graben|-|gräbt, grub, hat gegraben|V|копать|ein Loch in die Erde machen|Der Hund gräbt im Garten.|B1|Umwelt
+greifen|-|greift, griff, hat gegriffen|V|хватать|mit der Hand nehmen|Sie greift nach dem Glas.|B1|Alltag
+hören|-|hört, hörte, hat gehört|V|слышать, слушать|mit den Ohren wahrnehmen|Ich höre gern Musik.|A2|Freizeit
+kämpfen|-|kämpft, kämpfte, hat gekämpft|V|бороться|sich stark für etwas einsetzen|Wir kämpfen für bessere Arbeitszeiten.|B1|Gesellschaft
+kriegen|-|kriegt, kriegte, hat gekriegt|V|получать (разг.)|bekommen (umgangssprachlich)|Was kriegen Sie?|A2|Alltag
+malen|-|malt, malte, hat gemalt|V|рисовать (красками)|ein Bild mit Farbe machen|Die Kinder malen ein Bild für Oma.|A2|Freizeit
+nicken|-|nickt, nickte, hat genickt|V|кивать|den Kopf auf und ab bewegen|Er nickt, weil er einverstanden ist.|B1|Alltag
+rechnen|-|rechnet, rechnete, hat gerechnet|V|считать; рассчитывать|mit Zahlen arbeiten; erwarten|Mit so viel Verkehr habe ich nicht gerechnet.|A2|Bildung
+reisen|-|reist, reiste, ist gereist|V|путешествовать|in andere Orte fahren|Im Sommer reisen wir nach Italien.|A2|Reisen
+reißen|-|reißt, riss, hat/ist gerissen|V|рвать; рваться|kaputt ziehen; kaputtgehen|Die Tüte ist gerissen.|B1|Alltag
+riechen|-|riecht, roch, hat gerochen|V|пахнуть; нюхать|mit der Nase wahrnehmen|Hier riecht es nach Gas!|A2|Alltag
+ruhen|-|ruht, ruhte, hat geruht|V|отдыхать, покоиться|sich ausruhen|Nach der Operation muss er ruhen.|B1|Gesundheit
+schauen|-|schaut, schaute, hat geschaut|V|смотреть|sehen, gucken|Schau mal, ein Regenbogen!|A2|Alltag
+schießen|-|schießt, schoss, hat geschossen|V|стрелять; бить (по мячу)|mit einer Waffe; den Ball treten|Er schießt das Tor.|B1|Freizeit
+senden|-|sendet, sendete/sandte, hat gesendet/gesandt|V|посылать; транслировать|schicken; im Radio/TV zeigen|Bitte senden Sie die Unterlagen per E-Mail.|B1|Briefe
+sollen|-|soll, sollte, hat gesollt|V|быть должным|Modalverb: Auftrag oder Rat|Sie sollen um 8 Uhr da sein.|A2|Alltag
+starten|-|startet, startete, ist/hat gestartet|V|стартовать, запускать|beginnen; losfliegen|Das Flugzeug startet pünktlich.|A2|Reisen
+stoßen|-|stößt, stieß, hat/ist gestoßen|V|толкать; удариться|kräftig schieben; dagegen kommen|Ich habe mich am Tisch gestoßen.|B1|Gesundheit
+strahlen|-|strahlt, strahlte, hat gestrahlt|V|сиять|hell leuchten; sehr froh aussehen|Die Sonne strahlt.|B1|Wetter
+stürzen|-|stürzt, stürzte, ist gestürzt|V|падать|hinfallen|Die Bewohnerin ist im Bad gestürzt.|B1|Pflege
+treiben|-|treibt, trieb, hat getrieben|V|гнать; заниматься (спортом)|bewegen; Sport machen|Ich treibe dreimal pro Woche Sport.|A2|Freizeit
+treten|-|tritt, trat, hat/ist getreten|V|ступать; пинать|mit dem Fuß; einen Schritt machen|Bitte treten Sie zur Seite.|B1|Alltag
+trocknen|-|trocknet, trocknete, hat/ist getrocknet|V|сушить; сохнуть|trocken machen; trocken werden|Die Wäsche trocknet auf dem Balkon.|A2|Wohnen

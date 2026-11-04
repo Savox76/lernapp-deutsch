@@ -1,0 +1,116 @@
+# M16 Häufige Nomen B1/B2 (geprüfte neue Wörter)
+Absatz|der|Absätze|N|абзац; каблук|Teil eines Textes; Teil des Schuhs|Beginnen Sie einen neuen Absatz.|B1|Bildung
+Abteil|das|Abteile|N|купе|Raum im Zug|Unser Abteil ist ganz hinten.|B1|Verkehr
+Aktivität|die|Aktivitäten|N|активность, занятие|etwas, was man macht|Im Heim gibt es viele Aktivitäten.|B1|Freizeit
+Anblick|der|Anblicke|N|вид, зрелище|was man sieht|Der Anblick der Berge war wunderschön.|B2|Freizeit
+Anfänger|der|Anfänger|N|начинающий|jemand, der neu lernt|Der Kurs ist für Anfänger.|A2|Bildung
+Anlass|der|Anlässe|N|повод|Grund für ein Fest oder eine Handlung|Zu welchem Anlass ist das Geschenk?|B2|Freizeit
+Ansprache|die|Ansprachen|N|речь, обращение|kurze Rede|Die Chefin hielt eine kurze Ansprache.|B2|Arbeit
+Anstand|der|-|N|приличие|gutes Benehmen|Das ist eine Frage des Anstands.|B2|Gefühle
+Anzahl|die|-|N|количество|Zahl, Menge|Die Anzahl der Teilnehmer ist begrenzt.|B1|Arbeit
+Aufenthalt|der|Aufenthalte|N|пребывание|Zeit an einem Ort|Wir wünschen Ihnen einen schönen Aufenthalt.|B1|Reisen
+Aufsatz|der|Aufsätze|N|сочинение|längerer Schultext|Mein Sohn schreibt einen Aufsatz über die Ferien.|B1|Bildung
+Aufschrift|die|Aufschriften|N|надпись|Text auf etwas|Was steht auf der Aufschrift?|B2|Alltag
+Ausgabe|die|Ausgaben|N|расход; выпуск; выдача|Geld, das man ausgibt; Nummer einer Zeitung|Unsere Ausgaben sind zu hoch.|B1|Geld
+Auskunft|die|Auskünfte|N|справка, информация|Information|An der Information bekommen Sie Auskunft.|A2|Alltag
+Ausrede|die|Ausreden|N|отговорка|falscher Grund|Das ist doch nur eine Ausrede!|B1|Gefühle
+Ausrüstung|die|Ausrüstungen|N|снаряжение, оборудование|alles, was man für etwas braucht|Die Ausrüstung für das Camping ist teuer.|B1|Freizeit
+Bedürfnis|das|Bedürfnisse|N|потребность|was man braucht|Wir achten auf die Bedürfnisse der Bewohner.|B2|Pflege
+Begabung|die|Begabungen|N|талант, одарённость|Talent|Sie hat eine Begabung für Sprachen.|B2|Bildung
+Bekanntschaft|die|Bekanntschaften|N|знакомство|Kontakt zu einer Person|Ich habe im Kurs viele Bekanntschaften gemacht.|B2|Person
+Bemerkung|die|Bemerkungen|N|замечание|kurze Aussage|Seine Bemerkung war nicht nett.|B1|Gefühle
+Beruhigung|die|-|N|успокоение|ruhig werden|Zur Beruhigung trinkt sie einen Tee.|B2|Gesundheit
+Besatzung|die|Besatzungen|N|экипаж|Mannschaft auf Schiff oder Flugzeug|Die Besatzung begrüßt die Passagiere.|B2|Reisen
+Besitz|der|-|N|владение, имущество|was jemandem gehört|Das Haus ist in ihrem Besitz.|B2|Geld
+Besitzer|der|Besitzer|N|владелец|Person, der etwas gehört|Der Besitzer des Hundes ist nicht da.|B1|Alltag
+Bestandteil|der|Bestandteile|N|составная часть|Teil von etwas|Bewegung ist ein wichtiger Bestandteil der Therapie.|B2|Gesundheit
+Betrag|der|Beträge|N|сумма|Geldsumme|Bitte überweisen Sie den Betrag bis Freitag.|B1|Geld
+Bewusstsein|das|-|N|сознание|wach sein; Wissen über etwas|Der Patient hat das Bewusstsein verloren.|B2|Gesundheit
+Bezirk|der|Bezirke|N|район|Teil einer Stadt|In welchem Bezirk wohnen Sie?|B1|Wohnen
+Bitte|die|Bitten|N|просьба|wenn man um etwas bittet|Ich habe eine Bitte an Sie.|A2|Alltag
+Bündel|das|Bündel|N|связка, пачка|zusammengebundene Dinge|Ein Bündel Briefe lag auf dem Tisch.|B2|Alltag
+Charakter|der|Charaktere|N|характер|Eigenschaften eines Menschen|Sie hat einen starken Charakter.|B1|Person
+Dauer|die|-|N|продолжительность|wie lange etwas geht|Die Dauer der Ausbildung beträgt drei Jahre.|B1|Bildung
+Denkmal|das|Denkmäler|N|памятник|Statue zur Erinnerung|Vor dem Rathaus steht ein Denkmal.|B1|Freizeit
+Eigentum|das|-|N|собственность|was jemandem gehört|Die Wohnung ist unser Eigentum.|B2|Wohnen
+Eigentümer|der|Eigentümer|N|собственник|Besitzer|Der Eigentümer der Wohnung wohnt in München.|B2|Wohnen
+Einfluss|der|Einflüsse|N|влияние|Wirkung auf etwas|Das Wetter hat Einfluss auf unsere Laune.|B2|Gesellschaft
+Einrichtung|die|Einrichtungen|N|учреждение; обстановка|Institution; Möbel|Das Pflegeheim ist eine soziale Einrichtung.|B1|Arbeit
+Einzelheit|die|Einzelheiten|N|подробность|Detail|Die Einzelheiten besprechen wir morgen.|B2|Arbeit
+Ereignis|das|Ereignisse|N|событие|etwas Wichtiges, das passiert|Die Hochzeit war ein großes Ereignis.|B1|Freizeit
+Ersatz|der|-|N|замена|etwas statt etwas anderem|Wir brauchen einen Ersatz für den kranken Kollegen.|B1|Arbeit
+Erscheinung|die|Erscheinungen|N|явление; внешность|etwas, das man sieht; Aussehen|Müdigkeit ist eine typische Erscheinung im Winter.|B2|Gesundheit
+Erwachsene|der|Erwachsenen|N|взрослый|Person über 18|Erwachsene zahlen 8 Euro Eintritt.|A2|Familie
+Erzählung|die|Erzählungen|N|рассказ|Geschichte|Die Kinder lieben die Erzählungen der Oma.|B1|Freizeit
+Fall|der|Fälle|N|случай; падение|Situation; Sturz|In diesem Fall rufen Sie bitte den Arzt.|B1|Alltag
+Feind|der|Feinde|N|враг|Gegner|Er hat keine Feinde.|B1|Gesellschaft
+Fläche|die|Flächen|N|площадь, поверхность|Größe in Quadratmetern; Oberfläche|Die Wohnung hat eine Fläche von 70 Quadratmetern.|B1|Wohnen
+Flucht|die|-|N|бегство|das Fliehen|Nach der Flucht kam die Familie nach Deutschland.|B2|Gesellschaft
+Frieden|der|-|N|мир|kein Krieg|Wir wünschen uns Frieden.|B1|Gesellschaft
+Gebiet|das|Gebiete|N|область, территория|Region; Fachbereich|In diesem Gebiet gibt es viele Wälder.|B1|Umwelt
+Gebrauch|der|-|N|употребление|Benutzung|Vor Gebrauch schütteln!|B1|Alltag
+Gegenstand|der|Gegenstände|N|предмет|Ding, Sache|Lassen Sie keine Gegenstände im Flur stehen.|B1|Alltag
+Geheimnis|das|Geheimnisse|N|тайна|etwas, was niemand wissen soll|Kannst du ein Geheimnis behalten?|B1|Gefühle
+Gestalt|die|Gestalten|N|фигура, облик|Form, Figur|Im Dunkeln sah ich eine Gestalt.|B2|Alltag
+Glaube|der|-|N|вера|Religion; Vertrauen|Der Glaube ist ihr wichtig.|B2|Gesellschaft
+Gründung|die|Gründungen|N|основание|Beginn einer Firma oder eines Vereins|Seit der Gründung sind 20 Jahre vergangen.|B2|Wirtschaft
+Gruppe|die|Gruppen|N|группа|mehrere Personen zusammen|Wir arbeiten in Gruppen.|A2|Bildung
+Gültigkeit|die|-|N|действительность|wie lange etwas gilt|Die Gültigkeit des Tickets endet heute.|B2|Behörden
+Handlung|die|Handlungen|N|действие; сюжет|Tat; Inhalt eines Films|Die Handlung des Films ist spannend.|B2|Freizeit
+Hintergrund|der|Hintergründe|N|фон; подоплёка|hinterer Teil; Ursache|Im Hintergrund sieht man die Berge.|B2|Medien
+Höhe|die|Höhen|N|высота; размер (суммы)|wie hoch; wie viel|Die Höhe der Miete hängt von der Lage ab.|B1|Wohnen
+Kontakt|der|Kontakte|N|контакт|Verbindung zu Menschen|Ich habe Kontakt zu meiner Familie.|A2|Person
+Kunst|die|Künste|N|искусство|Malerei, Musik usw.|Sie interessiert sich für Kunst.|A2|Freizeit
+Lage|die|Lagen|N|положение; расположение|Situation; Ort|Die Wohnung hat eine gute Lage.|B1|Wohnen
+Macht|die|Mächte|N|власть, сила|Kraft, Einfluss|Er hat viel Macht in der Firma.|B2|Gesellschaft
+Maß|das|Maße|N|мера; размер|Größe; Menge|Nehmen Sie das Maß für den Schrank.|B2|Wohnen
+Mittelpunkt|der|Mittelpunkte|N|центр внимания|Zentrum|Der Patient steht im Mittelpunkt.|B2|Pflege
+Motiv|das|Motive|N|мотив|Grund; Bildthema|Was war das Motiv für die Tat?|B2|Medien
+Muster|das|Muster|N|образец; узор|Vorlage; Verzierung|Das Kleid hat ein schönes Muster.|B1|Einkaufen
+Neuigkeit|die|Neuigkeiten|N|новость|neue Information|Gibt es Neuigkeiten?|B1|Alltag
+Niveau|das|Niveaus|N|уровень|Stufe, Qualität|Der Kurs hat B1-Niveau.|B1|Bildung
+Not|die|Nöte|N|нужда, беда|schwierige Lage|In der Not helfen Freunde.|B2|Gesellschaft
+Notiz|die|Notizen|N|заметка|kurze Aufzeichnung|Ich mache mir eine Notiz.|A2|Arbeit
+Oberfläche|die|Oberflächen|N|поверхность|äußere Seite|Reinigen Sie die Oberfläche mit einem Tuch.|B2|Arbeit
+Opfer|das|Opfer|N|жертва|jemand, dem etwas Schlimmes passiert|Bei dem Unfall gab es keine Opfer.|B2|Gesellschaft
+Prinzip|das|Prinzipien|N|принцип|Grundregel|Im Prinzip bin ich einverstanden.|B2|Meinung
+Programm|das|Programme|N|программа|Plan; Software; Sender|Was steht heute auf dem Programm?|A2|Freizeit
+Prozess|der|Prozesse|N|процесс|Ablauf; Gerichtsverfahren|Lernen ist ein langer Prozess.|B2|Bildung
+Rand|der|Ränder|N|край|äußerer Teil|Schreiben Sie nicht auf den Rand.|B1|Alltag
+Rang|der|Ränge|N|ранг, место|Platz in einer Reihenfolge|Unsere Mannschaft ist auf Rang zwei.|B2|Freizeit
+Reihe|die|Reihen|N|ряд; очередь|Linie; Reihenfolge|Sie sind jetzt an der Reihe.|A2|Alltag
+Reihenfolge|die|Reihenfolgen|N|порядок, последовательность|wer zuerst, wer danach|Bringen Sie die Sätze in die richtige Reihenfolge.|B1|Bildung
+Rückkehr|die|-|N|возвращение|das Zurückkommen|Nach ihrer Rückkehr aus dem Urlaub hatte sie viel Arbeit.|B2|Reisen
+Ruf|der|-|N|репутация; зов|Ansehen; Rufen|Die Klinik hat einen guten Ruf.|B2|Arbeit
+Schicksal|das|Schicksale|N|судьба|was im Leben passiert|Sie hatte ein schweres Schicksal.|B2|Gefühle
+Schritt|der|Schritte|N|шаг|Bewegung mit dem Fuß; Etappe|Der erste Schritt ist der schwerste.|B1|Alltag
+Schuld|die|Schulden|N|вина; (мн.) долги|Verantwortung für Fehler; Geld, das man zurückzahlen muss|Das ist nicht deine Schuld.|B1|Gefühle
+Schutz|der|-|N|защита|Sicherheit vor Gefahr|Der Helm bietet Schutz.|B1|Alltag
+Schwerpunkt|der|Schwerpunkte|N|основной акцент|wichtigster Teil|Der Schwerpunkt des Kurses ist Sprechen.|B2|Bildung
+Sinn|der|Sinne|N|смысл; чувство|Bedeutung; Sehen, Hören usw.|Das macht keinen Sinn.|B1|Meinung
+Spannung|die|Spannungen|N|напряжение|Konflikt; Elektrizität|Im Team gibt es Spannungen.|B2|Arbeit
+Stand|der|Stände|N|состояние; стенд|aktuelle Lage; Verkaufsstand|Wie ist der Stand der Dinge?|B2|Arbeit
+Strecke|die|Strecken|N|отрезок пути, маршрут|Weg zwischen zwei Orten|Die Strecke nach Berlin ist 200 Kilometer lang.|B1|Verkehr
+Struktur|die|Strukturen|N|структура|Aufbau|Der Text braucht eine klare Struktur.|B2|Bildung
+Stufe|die|Stufen|N|ступень|Treppe; Niveau|Vorsicht, Stufe!|B1|Alltag
+Summe|die|Summen|N|сумма|Gesamtbetrag|Die Summe ist zu hoch.|B1|Geld
+System|das|Systeme|N|система|Ordnung, Aufbau|Das Schulsystem in Deutschland ist kompliziert.|B1|Gesellschaft
+Tatsache|die|Tatsachen|N|факт|etwas, das wahr ist|Das ist eine Tatsache.|B2|Meinung
+Thema|das|Themen|N|тема|worüber man spricht|Das Thema der Prüfung ist Arbeit.|A2|Bildung
+Tiefe|die|Tiefen|N|глубина|wie tief|Der See hat eine Tiefe von zehn Metern.|B2|Umwelt
+Übereinstimmung|die|Übereinstimmungen|N|совпадение, согласие|gleiche Meinung|Wir haben keine Übereinstimmung gefunden.|B2|Meinung
+Übergang|der|Übergänge|N|переход|Wechsel von einem zum anderen|Der Übergang von der Kita zur Schule ist wichtig.|B2|Familie
+Übersicht|die|Übersichten|N|обзор|kurze Zusammenfassung|Hier finden Sie eine Übersicht über alle Kurse.|B1|Bildung
+Umgebung|die|Umgebungen|N|окрестность, окружение|Gegend um einen Ort|In der Umgebung gibt es viele Wanderwege.|B1|Wohnen
+Umstand|der|Umstände|N|обстоятельство|Situation, Bedingung|Unter diesen Umständen kann ich nicht kommen.|B2|Alltag
+Unterhaltung|die|Unterhaltungen|N|разговор; развлечение|Gespräch; Spaß|Wir hatten eine nette Unterhaltung.|B1|Freizeit
+Unterlage|die|Unterlagen|N|документ; подкладка|Dokument|Bitte bringen Sie alle Unterlagen mit.|B1|Behörden
+Ursprung|der|Ursprünge|N|происхождение|Anfang, Herkunft|Der Ursprung des Wortes ist lateinisch.|B2|Bildung
+Verbot|das|Verbote|N|запрет|man darf etwas nicht|Hier gilt ein Rauchverbot.|B1|Alltag
+Versuch|der|Versuche|N|попытка; опыт|Probe; Experiment|Beim zweiten Versuch hat es geklappt.|B1|Alltag
+Wechsel|der|Wechsel|N|смена|Änderung, Tausch|Der Wechsel der Schichten ist um 14 Uhr.|B1|Arbeit
+Wille|der|-|N|воля|was man will|Wo ein Wille ist, ist auch ein Weg.|B2|Gefühle
+Wirklichkeit|die|-|N|действительность|Realität|In Wirklichkeit war alles ganz anders.|B2|Meinung
+Würde|die|-|N|достоинство|Wert des Menschen|Die Würde des Menschen ist unantastbar.|B2|Gesellschaft
+Zeichen|das|Zeichen|N|знак|Symbol; Signal|Das ist ein gutes Zeichen.|B1|Alltag
+Zentrum|das|Zentren|N|центр|Mitte; Innenstadt|Wir wohnen im Zentrum.|A2|Wohnen
