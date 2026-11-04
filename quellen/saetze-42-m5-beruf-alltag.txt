@@ -1,0 +1,53 @@
+# M5 Beruf: kurze Sätze aus dem Arbeitsalltag (A2/B1)
+Ich *arbeite* seit zwei Jahren in einem Pflegeheim.|Я два года работаю в доме престарелых.|A2|Subjekt – Verb – Rest.|Pflege
+Meine Schicht *beginnt* um 13 Uhr.|Моя смена начинается в 13 часов.|A2|Subjekt – Verb – Rest.|Arbeit
+Der Chef *ist* heute im Urlaub.|Начальник сегодня в отпуске.|A2|Subjekt – Verb – Rest.|Arbeit
+Wir *haben* um zehn Uhr eine Besprechung.|У нас в десять часов совещание.|A2|Subjekt – Verb – Rest.|Arbeit
+Die Pause *dauert* dreißig Minuten.|Перерыв длится тридцать минут.|A2|Subjekt – Verb – Rest.|Arbeit
+Mein Kollege *hilft* mir beim Tragen.|Мой коллега помогает мне нести.|A2|Subjekt – Verb – Rest.|Arbeit
+Die Kunden *warten* schon an der Kasse.|Клиенты уже ждут у кассы.|A2|Subjekt – Verb – Rest.|Handel
+Der Lkw *steht* an der Rampe.|Грузовик стоит у рампы.|A2|Subjekt – Verb – Rest.|Logistik
+Die Bewohnerin *möchte* einen Tee.|Жительница хочет чаю.|A2|Subjekt – Verb – Rest.|Pflege
+Ich *brauche* neue Arbeitshandschuhe.|Мне нужны новые рабочие перчатки.|A2|Subjekt – Verb – Rest.|Arbeit
+Heute *arbeite* ich in der Spätschicht.|Сегодня я работаю в вечернюю смену.|A2|Zeit auf Position 1 → Verb → Subjekt.|Arbeit
+Morgen *kommt* eine neue Kollegin.|Завтра придёт новая коллега.|A2|Zeit auf Position 1 → Verb → Subjekt.|Arbeit
+Im Lager *ist* es im Winter kalt.|На складе зимой холодно.|A2|Ort auf Position 1 → Verb → Subjekt.|Logistik
+Nach der Arbeit *bin* ich oft sehr müde.|После работы я часто очень устаю.|A2|Zeit auf Position 1 → Verb → Subjekt.|Arbeit
+Am Freitag *bekommen* wir den neuen Dienstplan.|В пятницу мы получим новый график.|A2|Zeit auf Position 1 → Verb → Subjekt.|Arbeit
+In der Kantine *gibt* es heute Fisch.|В столовой сегодня рыба.|A2|Ort auf Position 1 → Verb → es.|Arbeit
+Leider *ist* der Kopierer schon wieder kaputt.|К сожалению, копир снова сломан.|A2|leider auf Position 1 → Verb → Subjekt.|Büro
+Wo *finde* ich die Lieferscheine?|Где мне найти накладные?|A2|W-Frage: Verb auf Position 2.|Logistik
+Wann *beginnt* die Schulung?|Когда начинается обучение?|A2|W-Frage: Verb auf Position 2.|Arbeit
+Wer *hat* heute Frühschicht?|У кого сегодня утренняя смена?|A2|W-Frage: Verb auf Position 2.|Arbeit
+*Kannst* du mir kurz helfen?|Можешь мне быстро помочь?|A2|Ja/Nein-Frage: Modalverb auf Position 1.|Arbeit
+*Ist* das Paket schon gekommen?|Посылка уже пришла?|A2|Ja/Nein-Frage: Verb auf Position 1.|Logistik
+*Haben* Sie einen Termin?|У вас назначено?|A2|Ja/Nein-Frage: Verb auf Position 1.|Kunden
+*Bringen* Sie bitte die Kartons ins Lager.|Отнесите, пожалуйста, коробки на склад.|A2|Imperativ mit Sie.|Logistik
+*Mach* bitte die Tür zu!|Закрой, пожалуйста, дверь!|A2|Imperativ mit du: zu am Ende.|Arbeit
+Ich *muss* heute länger arbeiten.|Сегодня мне нужно работать дольше.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Arbeit
+Wir *dürfen* im Lager nicht essen.|На складе нам нельзя есть.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Logistik
+Ich *kann* am Samstag nicht arbeiten.|Я не могу работать в субботу.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Arbeit
+Der Fahrer *holt* die Paletten um zehn ab.|Водитель забирает паллеты в десять.|A2|Trennbares Verb: holt … ab.|Logistik
+Ich *räume* die Regale ein.|Я раскладываю товар по полкам.|A2|Trennbares Verb: räume … ein.|Handel
+Ich *habe* heute zwölf Pakete gepackt.|Сегодня я упаковала двенадцать посылок.|A2|Perfekt: habe … gepackt.|Logistik
+Die Lieferung *ist* pünktlich angekommen.|Поставка прибыла вовремя.|A2|Perfekt mit sein: ist … angekommen.|Logistik
+Die Kollegin *hat* sich krankgemeldet.|Коллега сообщила о болезни.|A2|Perfekt: hat … krankgemeldet.|Arbeit
+Ich bin müde, denn ich *hatte* Nachtschicht.|Я устала, потому что у меня была ночная смена.|A2|denn + Subjekt + Verb.|Arbeit
+Der Bus kam zu spät, deshalb *war* ich nicht pünktlich.|Автобус опоздал, поэтому я пришла не вовремя.|A2|deshalb + Verb + Subjekt.|Arbeit
+Die Arbeit ist schwer, trotzdem *macht* sie mir Spaß.|Работа тяжёлая, но всё равно мне нравится.|A2|trotzdem + Verb + Subjekt.|Arbeit
+Ich komme heute später, weil mein Kind krank *ist*.|Я сегодня приду позже, потому что мой ребёнок болен.|A2|weil: Verb am Ende.|Arbeit
+Ich hoffe, dass ich die Stelle *bekomme*.|Надеюсь, что получу это место.|A2|dass: Verb am Ende.|Bewerbung
+Wenn du fertig bist, *hilf* mir bitte im Lager.|Когда закончишь, помоги мне, пожалуйста, на складе.|A2|wenn-Satz zuerst → dann sofort das Verb.|Logistik
+Sag mir bitte, wenn der Lkw *kommt*.|Скажи мне, пожалуйста, когда придёт грузовик.|A2|wenn: Verb am Ende.|Logistik
+Die Chefin sagt, dass wir morgen früher anfangen *sollen*.|Начальница говорит, что завтра мы должны начать раньше.|B1|dass: Modalverb ganz am Ende.|Arbeit
+Ich weiß nicht, ob die Ware heute noch *kommt*.|Я не знаю, придёт ли товар сегодня.|B1|ob: Verb am Ende.|Logistik
+Bitte frag Herrn Weber, wann er Zeit *hat*.|Пожалуйста, спроси господина Вебера, когда у него есть время.|B1|Indirekte Frage: Verb am Ende.|Arbeit
+Ich habe vergessen, die Kasse zu zählen.|Я забыла пересчитать кассу.|B1|zu-Infinitiv am Ende.|Handel
+Es ist wichtig, die Hände oft zu waschen.|Важно часто мыть руки.|B1|zu-Infinitiv am Ende.|Pflege
+Das ist der Kollege, der mich einarbeitet.|Это коллега, который меня обучает.|B1|Relativsatz: Verb am Ende.|Arbeit
+Die Kartons, die dort *stehen*, kommen nach Leipzig.|Коробки, которые там стоят, едут в Лейпциг.|B1|Relativsatz in der Mitte.|Logistik
+Ich *würde* gern mehr Stunden arbeiten.|Я бы хотела работать больше часов.|B1|Konjunktiv II: würde.|Arbeit
+*Könnten* Sie mir bitte den Schlüssel geben?|Не могли бы вы дать мне ключ?|B1|Konjunktiv II: höfliche Bitte.|Arbeit
+Die Paletten *werden* morgen abgeholt.|Паллеты заберут завтра.|B1|Passiv Präsens.|Logistik
+Das Zimmer *wird* gerade geputzt.|Комнату сейчас убирают.|B1|Passiv Präsens.|Reinigung
+Die Bestellung *wurde* gestern verschickt.|Заказ отправили вчера.|B1|Passiv Präteritum.|Logistik

@@ -1,0 +1,81 @@
+# M5 Beruf 3: Firma, Wirtschaft, Besprechung, Projekt, Technik im Betrieb
+Konzern|der|Konzerne|N|концерн|sehr großes Unternehmen|Sie arbeitet bei einem großen Konzern.|B2|Wirtschaft
+Mittelstand|der|-|N|средний бизнес|kleine und mittlere Firmen|Der Mittelstand ist wichtig für Deutschland.|B2|Wirtschaft
+Standort|der|Standorte|N|местонахождение (филиал)|Ort, an dem eine Firma arbeitet|Die Firma hat drei Standorte in Sachsen.|B2|Wirtschaft
+Branche|die|Branchen|N|отрасль|Bereich der Wirtschaft|In welcher Branche arbeiten Sie?|B2|Wirtschaft
+Gewinn|der|Gewinne|N|прибыль|Geld, das übrig bleibt|Die Firma macht dieses Jahr Gewinn.|B2|Wirtschaft
+Verlust|der|Verluste|N|убыток; потеря|wenn man Geld verliert|Das Geschäft hat Verluste gemacht.|B2|Wirtschaft
+Kosten senken|-|senkt Kosten|R|снижать затраты|weniger Geld ausgeben|Wir müssen die Kosten senken.|B2|Wirtschaft
+Konkurrenz|die|-|N|конкуренция; конкуренты|andere Firmen, die das Gleiche verkaufen|Die Konkurrenz ist billiger.|B2|Wirtschaft
+Nachfrage|die|-|N|спрос|wie viel Kunden kaufen möchten|Die Nachfrage nach Pflegekräften ist hoch.|B2|Wirtschaft
+Angebot und Nachfrage|-|-|R|спрос и предложение|wie Preise entstehen|Der Preis hängt von Angebot und Nachfrage ab.|B2|Wirtschaft
+Produktion|die|-|N|производство|Herstellung von Waren|Die Produktion läuft im Schichtbetrieb.|B2|Wirtschaft
+Qualitätskontrolle|die|-|N|контроль качества|Prüfung, ob die Ware gut ist|In der Qualitätskontrolle werden Fehler gefunden.|B2|Wirtschaft
+Lieferkette|die|Lieferketten|N|цепочка поставок|alle Schritte vom Hersteller zum Kunden|Die Lieferkette ist unterbrochen.|B2|Wirtschaft
+Auftragslage|die|-|N|ситуация с заказами|wie viele Aufträge eine Firma hat|Die Auftragslage ist gut.|B2|Wirtschaft
+Kurzarbeit|die|-|N|сокращённый рабочий день|weniger Arbeit, der Staat zahlt einen Teil des Lohns|Wegen der Krise gibt es Kurzarbeit.|B2|Wirtschaft
+Insolvenz|die|-|N|банкротство|Firma kann ihre Rechnungen nicht mehr bezahlen|Die Firma hat Insolvenz angemeldet.|B2|Wirtschaft
+Investition|die|Investitionen|N|инвестиция|Geld für etwas Neues|Die neue Maschine ist eine große Investition.|B2|Wirtschaft
+Teambesprechung|die|-|N|совещание команды|Treffen des Teams|Die Teambesprechung ist jeden Montag.|B1|Besprechung
+Sitzung|die|Sitzungen|N|заседание|offizielles Treffen|Die Sitzung dauert zwei Stunden.|B2|Besprechung
+Moderation|die|-|N|ведение (совещания)|Leitung eines Gesprächs|Wer übernimmt heute die Moderation?|B2|Besprechung
+Wortmeldung|die|Wortmeldungen|N|просьба слова|wenn man etwas sagen möchte|Gibt es weitere Wortmeldungen?|B2|Besprechung
+Tagesordnungspunkt|der|-|N|пункт повестки|ein Thema in der Besprechung|Kommen wir zum nächsten Tagesordnungspunkt.|B2|Besprechung
+Beschluss|der|Beschlüsse|N|решение (принятое)|Entscheidung einer Gruppe|Der Beschluss wurde einstimmig gefasst.|B2|Besprechung
+einstimmig|-|-|A|единогласно|alle sind dafür|Der Vorschlag wurde einstimmig angenommen.|B2|Besprechung
+Teilnehmerliste|die|-|N|список участников|Liste der Teilnehmer|Bitte tragen Sie sich in die Teilnehmerliste ein.|B2|Besprechung
+Präsentation|die|Präsentationen|N|презентация|Vortrag mit Folien|Die Präsentation dauert zehn Minuten.|B1|Besprechung
+Diagramm|das|Diagramme|N|диаграмма|Grafik mit Zahlen|Das Diagramm zeigt die Entwicklung.|B2|Besprechung
+Zusammenfassung|die|Zusammenfassungen|N|резюме, краткое изложение|kurze Wiedergabe des Wichtigsten|Hier eine kurze Zusammenfassung.|B2|Besprechung
+Ergebnisprotokoll|das|-|N|протокол результатов|kurzes Protokoll mit Entscheidungen|Das Ergebnisprotokoll schicke ich morgen.|B2|Besprechung
+Anregung|die|Anregungen|N|предложение, идея|Idee, Vorschlag|Vielen Dank für Ihre Anregungen.|B2|Besprechung
+vertagen|-|vertagt, vertagte, hat vertagt|V|откладывать (на другой день)|auf einen späteren Termin verschieben|Die Entscheidung wird vertagt.|B2|Besprechung
+festhalten|-|hält fest, hielt fest, hat festgehalten|V|фиксировать (письменно)|aufschreiben, notieren|Das halten wir im Protokoll fest.|B2|Besprechung
+Projekt|das|Projekte|N|проект|zeitlich begrenzte Aufgabe mit Ziel|Das Projekt endet im Dezember.|B1|Projekt
+Projektleiter|der|Projektleiter|N|руководитель проекта|Person, die ein Projekt leitet|Der Projektleiter verteilt die Aufgaben.|B2|Projekt
+Zeitplan|der|Zeitpläne|N|график, план по времени|Plan, wann was gemacht wird|Wir liegen gut im Zeitplan.|B2|Projekt
+Meilenstein|der|Meilensteine|N|этап, веха|wichtiger Zwischenschritt|Der erste Meilenstein ist erreicht.|B2|Projekt
+Aufgabenverteilung|die|-|N|распределение задач|wer welche Aufgabe macht|Die Aufgabenverteilung ist klar.|B2|Projekt
+Zuständigkeitsbereich|der|-|N|сфера ответственности|wofür jemand zuständig ist|Das fällt nicht in meinen Zuständigkeitsbereich.|B2|Projekt
+Rückstand|der|Rückstände|N|отставание|man ist zu spät mit der Arbeit|Wir sind zwei Wochen im Rückstand.|B2|Projekt
+Engpass|der|Engpässe|N|нехватка, узкое место|wenn etwas knapp ist|Im Dezember gibt es einen Engpass beim Personal.|B2|Projekt
+Arbeitsablauf|der|Arbeitsabläufe|N|рабочий процесс|Reihenfolge der Arbeitsschritte|Wir optimieren die Arbeitsabläufe.|B2|Projekt
+optimieren|-|optimiert, optimierte, hat optimiert|V|оптимизировать|verbessern|Wir optimieren die Lagerplätze.|B2|Projekt
+priorisieren|-|priorisiert, priorisierte, hat priorisiert|V|расставлять приоритеты|entscheiden, was am wichtigsten ist|Wir müssen die Aufgaben priorisieren.|B2|Projekt
+bewältigen|-|bewältigt, bewältigte, hat bewältigt|V|справляться|eine schwere Aufgabe schaffen|Wir haben die Arbeit gemeinsam bewältigt.|B2|Projekt
+Arbeitsplatzrechner|der|-|N|рабочий компьютер|Computer am Arbeitsplatz|Mein Arbeitsplatzrechner ist sehr langsam.|B2|Technik
+Laufwerk|das|Laufwerke|N|диск (сетевой)|Speicherort im Firmennetz|Die Datei liegt auf dem Laufwerk G.|B2|Technik
+Server|der|Server|N|сервер|zentraler Computer im Netzwerk|Der Server ist ausgefallen.|B2|Technik
+Netzwerk|das|Netzwerke|N|сеть|verbundene Computer|Ich bin nicht mit dem Netzwerk verbunden.|B2|Technik
+Störungsmeldung|die|-|N|заявка о неисправности|Meldung, dass etwas nicht funktioniert|Ich schreibe eine Störungsmeldung an die IT.|B2|Technik
+Ticket|das|-|N|заявка (в IT)|Anfrage an die IT-Abteilung|Bitte eröffnen Sie ein Ticket.|B2|Technik
+Datensicherung|die|-|N|резервное копирование|Kopie aller Daten|Die Datensicherung läuft jede Nacht.|B2|Technik
+Bedienungsanleitung|die|-|N|инструкция по эксплуатации|Text, wie man ein Gerät benutzt|Lesen Sie zuerst die Bedienungsanleitung.|B1|Technik
+Fehlermeldung|die|Fehlermeldungen|N|сообщение об ошибке|Nachricht auf dem Bildschirm bei einem Fehler|Es erscheint eine Fehlermeldung.|B2|Technik
+Druckauftrag|der|-|N|задание на печать|Dokument, das gedruckt werden soll|Der Druckauftrag hängt fest.|B2|Technik
+neu starten|-|startet neu, startete neu, hat neu gestartet|V|перезагружать|ein Gerät aus- und wieder einschalten|Starten Sie den Computer neu.|B1|Technik
+abstürzen|-|stürzt ab, stürzte ab, ist abgestürzt|V|зависать, «падать» (о программе)|plötzlich nicht mehr funktionieren|Das Programm ist schon wieder abgestürzt.|B2|Technik
+eingeben|-|gibt ein, gab ein, hat eingegeben|V|вводить|Daten in den Computer schreiben|Geben Sie Ihre Personalnummer ein.|B1|Technik
+Personalnummer|die|-|N|табельный номер|Nummer eines Mitarbeiters|Meine Personalnummer steht auf dem Ausweis.|B2|Arbeit
+Mitarbeiterausweis|der|-|N|пропуск сотрудника|Ausweis für Mitarbeiter|Ohne Mitarbeiterausweis kommt man nicht ins Gebäude.|B1|Arbeit
+Dienstreise|die|Dienstreisen|N|командировка|Reise für die Arbeit|Nächste Woche bin ich auf Dienstreise.|B2|Arbeit
+Reisekosten|die|-|N|командировочные расходы|Kosten einer Dienstreise|Die Reisekosten übernimmt die Firma.|B2|Arbeit
+Spesen|die|-|N|издержки, командировочные|Kosten, die die Firma erstattet|Die Spesen rechne ich am Monatsende ab.|B2|Arbeit
+Firmenwagen|der|-|N|служебный автомобиль|Auto, das die Firma stellt|Er darf den Firmenwagen auch privat nutzen.|B2|Arbeit
+Arbeitskleidung|die|-|N|рабочая одежда|Kleidung für die Arbeit|Die Arbeitskleidung wird von der Firma gewaschen.|B1|Arbeit
+Arbeitsweg|der|-|N|дорога на работу|Strecke zwischen Wohnung und Arbeit|Mein Arbeitsweg dauert 40 Minuten.|B1|Arbeit
+Kollegium|das|-|N|коллектив|alle Kolleginnen und Kollegen|Das Kollegium hat mich herzlich aufgenommen.|B2|Arbeit
+Betriebsklima|das|-|N|атмосфера на предприятии|Stimmung in der Firma|Das Betriebsklima ist sehr gut.|B2|Arbeit
+Arbeitsbelastung|die|-|N|рабочая нагрузка|wie viel Arbeit man hat|Die Arbeitsbelastung ist in letzter Zeit sehr hoch.|B2|Arbeit
+Leistungsbeurteilung|die|-|N|оценка работы|Bewertung der Arbeit eines Mitarbeiters|Die Leistungsbeurteilung findet einmal im Jahr statt.|B2|Arbeit
+Fehlzeit|die|Fehlzeiten|N|время отсутствия|Zeit, in der man nicht arbeitet|Die Fehlzeiten sind gesunken.|B2|Arbeit
+Arbeitsunterbrechung|die|-|N|перерыв в работе|Pause oder Stopp der Arbeit|Wegen der Störung gab es eine Arbeitsunterbrechung.|B2|Arbeit
+pünktlich erscheinen|-|erscheint pünktlich|R|приходить вовремя|zur richtigen Zeit kommen|Bitte erscheinen Sie pünktlich zum Dienst.|B2|Arbeit
+Feierabend machen|-|macht Feierabend|R|заканчивать работу|die Arbeit für heute beenden|Um 16 Uhr mache ich Feierabend.|A2|Arbeit
+Überstunden abbauen|-|baut Überstunden ab|R|отгуливать сверхурочные|freie Zeit für Überstunden nehmen|Im Januar baue ich Überstunden ab.|B2|Arbeit
+Urlaub einreichen|-|reicht Urlaub ein|R|подать заявление на отпуск|Urlaub beantragen|Ich habe meinen Urlaub für Juli eingereicht.|B2|Arbeit
+in Teilzeit arbeiten|-|arbeitet in Teilzeit|R|работать неполный день|weniger Stunden arbeiten|Seit der Geburt arbeite ich in Teilzeit.|B1|Arbeit
+in Vollzeit arbeiten|-|arbeitet in Vollzeit|R|работать полный день|alle Stunden arbeiten|Mein Mann arbeitet in Vollzeit.|B1|Arbeit
+einen Vertrag abschließen|-|schließt einen Vertrag ab|R|заключить договор|einen Vertrag unterschreiben|Wir haben einen neuen Vertrag abgeschlossen.|B2|Arbeit
+die Verantwortung tragen|-|trägt die Verantwortung|R|нести ответственность|verantwortlich sein|Die Schichtleitung trägt die Verantwortung.|B2|Arbeit
+sich um eine Stelle bewerben|-|bewirbt sich|R|претендовать на место|eine Bewerbung schicken|Ich bewerbe mich um eine Stelle als Verkäuferin.|B1|Bewerbung

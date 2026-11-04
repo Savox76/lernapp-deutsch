@@ -1,0 +1,50 @@
+# M5 Beruf: Telefon, Kundenkontakt, Termine (B1/B2)
+Guten Tag, Sie *sprechen* mit Olga Iwanowa, was kann ich für Sie tun?|Добрый день, вы говорите с Ольгой Ивановой, чем могу помочь?|B1|Hauptsatz: Verb auf Platz 2.|Kunden
+Einen Moment bitte, ich *verbinde* Sie mit der Buchhaltung.|Минутку, я соединю вас с бухгалтерией.|B1|Hauptsatz: Verb auf Platz 2.|Kunden
+Frau Koch *ist* gerade nicht am Platz.|Госпожи Кох сейчас нет на месте.|B1|Hauptsatz: Verb auf Platz 2.|Kunden
+Kann ich ihr etwas ausrichten?|Могу я ей что-нибудь передать?|B1|Ja/Nein-Frage mit Modalverb: ausrichten am Ende.|Kunden
+*Könnten* Sie Ihren Namen bitte buchstabieren?|Не могли бы вы произнести свою фамилию по буквам?|B1|Konjunktiv II: höfliche Bitte.|Kunden
+*Darf* ich Ihre Kundennummer notieren?|Можно записать ваш номер клиента?|B1|Ja/Nein-Frage: Modalverb auf Position 1.|Kunden
+Ich *rufe* Sie zurück, sobald ich mehr weiß.|Я перезвоню вам, как только узнаю больше.|B1|Hauptsatz + sobald: Verb am Ende.|Kunden
+Leider *habe* ich Sie akustisch nicht verstanden.|К сожалению, я вас не расслышала.|B1|leider auf Position 1 → Verb → Subjekt.|Kunden
+*Würden* Sie das bitte noch einmal wiederholen?|Не могли бы вы повторить ещё раз?|B1|Konjunktiv II: höfliche Frage.|Kunden
+Unter welcher Nummer *sind* Sie erreichbar?|По какому номеру с вами можно связаться?|B1|W-Frage: Verb auf Position 2.|Kunden
+Ich *gebe* Ihre Nachricht sofort an den Kollegen weiter.|Я сразу передам ваше сообщение коллеге.|B1|Trennbares Verb: gebe … weiter.|Kunden
+Es *tut* mir leid, dass Sie so lange warten mussten.|Мне жаль, что вам пришлось так долго ждать.|B1|Hauptsatz + dass-Satz.|Kunden
+Ich verstehe gut, dass Sie verärgert *sind*.|Я хорошо понимаю, что вы раздражены.|B1|dass: Verb am Ende.|Kunden
+Wir *werden* uns sofort um Ihr Anliegen kümmern.|Мы немедленно займёмся вашим вопросом.|B2|Futur: werden … kümmern.|Kunden
+Ich prüfe gerade, ob die Ware noch auf Lager *ist*.|Я сейчас проверяю, есть ли товар на складе.|B1|ob: Verb am Ende.|Kunden
+Sobald die Lieferung da ist, *informieren* wir Sie per E-Mail.|Как только поставка придёт, мы сообщим вам по почте.|B1|sobald-Satz zuerst → dann sofort das Verb.|Kunden
+Der Termin am Montag *passt* mir leider nicht.|Встреча в понедельник мне, к сожалению, не подходит.|B1|Hauptsatz: Verb auf Platz 2.|Termine
+Wäre Ihnen Dienstag um zehn Uhr recht?|Вам подойдёт вторник в десять часов?|B1|Konjunktiv II: höfliche Frage.|Termine
+Können wir den Termin um eine Stunde verschieben?|Можем мы перенести встречу на час?|B1|Ja/Nein-Frage: Infinitiv am Ende.|Termine
+Ich *muss* unseren Termin leider absagen, weil ich krank bin.|Мне, к сожалению, нужно отменить нашу встречу, потому что я больна.|B1|Modalverb auf Platz 2; weil: Verb am Ende.|Termine
+Ich *bestätige* hiermit unseren Termin am Freitag.|Настоящим подтверждаю нашу встречу в пятницу.|B1|Hauptsatz: Verb auf Platz 2.|Termine
+Falls etwas dazwischenkommt, *melde* ich mich rechtzeitig.|Если что-то помешает, я сообщу заранее.|B1|falls-Satz zuerst → dann sofort das Verb.|Termine
+Ich *trage* den Termin gleich in meinen Kalender ein.|Я сразу внесу встречу в свой календарь.|B1|Trennbares Verb: trage … ein.|Termine
+Wir *haben* vereinbart, dass wir uns nächste Woche treffen.|Мы договорились, что встретимся на следующей неделе.|B1|Perfekt + dass-Satz.|Termine
+Bis wann *brauchen* Sie die Unterlagen?|До какого срока вам нужны документы?|B1|W-Frage: Verb auf Position 2.|Termine
+Die Besprechung *wurde* auf Donnerstag verschoben.|Совещание перенесли на четверг.|B1|Passiv Präteritum.|Termine
+Ich *schaffe* es heute leider nicht mehr bis 17 Uhr.|Я сегодня, к сожалению, не успею к 17 часам.|B1|Hauptsatz: Verb auf Platz 2.|Termine
+Wenn Sie einverstanden sind, *schicke* ich Ihnen das Angebot heute noch.|Если вы согласны, я пришлю вам предложение ещё сегодня.|B2|wenn-Satz zuerst → dann sofort das Verb.|Kunden
+Wir *bieten* Ihnen als Entschädigung einen Gutschein an.|В качестве компенсации мы предлагаем вам ваучер.|B1|Trennbares Verb: bieten … an.|Kunden
+Der Kunde *besteht* darauf, mit dem Chef zu sprechen.|Клиент настаивает на разговоре с начальником.|B2|bestehen auf + zu-Infinitiv.|Kunden
+Ich *kann* Ihnen leider keine genaue Auskunft geben.|Я, к сожалению, не могу дать вам точную информацию.|B1|Modalverb auf Platz 2, Infinitiv am Ende.|Kunden
+Dafür *ist* meine Kollegin aus dem Vertrieb zuständig.|За это отвечает моя коллега из отдела продаж.|B1|dafür auf Position 1 → Verb → Subjekt.|Kunden
+Ich *frage* nach und melde mich dann bei Ihnen.|Я уточню и потом свяжусь с вами.|B1|Trennbares Verb nachfragen + und.|Kunden
+Haben Sie noch weitere Fragen?|У вас есть ещё вопросы?|A2|Ja/Nein-Frage: Verb auf Position 1.|Kunden
+Vielen Dank für Ihren Anruf und einen schönen Tag noch!|Спасибо за звонок и хорошего дня!|A2|Feste Formel am Ende eines Telefonats.|Kunden
+Der Kunde *hat* gefragt, wann die Reparatur fertig ist.|Клиент спросил, когда будет готов ремонт.|B1|Perfekt + indirekte Frage.|Kunden
+Ich *habe* Ihnen die Unterlagen bereits gestern geschickt.|Я уже вчера отправила вам документы.|B1|Perfekt: habe auf Platz 2, Partizip am Ende.|Kunden
+Bitte *entschuldigen* Sie die späte Antwort.|Пожалуйста, извините за поздний ответ.|B1|Imperativ mit Sie.|Kunden
+Dürfte ich Sie kurz unterbrechen?|Можно мне вас ненадолго прервать?|B2|Konjunktiv II: sehr höflich.|Kunden
+Das *ist* ein Missverständnis, das ich gern aufkläre.|Это недоразумение, которое я охотно проясню.|B2|Relativsatz: aufkläre am Ende.|Kunden
+Ich kann Ihren Ärger gut nachvollziehen.|Я хорошо понимаю ваше недовольство.|B2|Modalverb + Infinitiv am Ende.|Kunden
+Lassen Sie mich kurz erklären, wie es dazu gekommen *ist*.|Позвольте мне коротко объяснить, как это произошло.|B2|Indirekte Frage: ist ganz am Ende.|Kunden
+Damit so etwas nicht wieder passiert, *haben* wir die Abläufe geändert.|Чтобы такое больше не повторилось, мы изменили процессы.|B2|damit-Satz zuerst → dann sofort das Verb.|Kunden
+Wir *würden* uns freuen, Sie bald wieder als Kunden begrüßen zu dürfen.|Мы были бы рады снова видеть вас в качестве клиента.|B2|Konjunktiv II + zu-Infinitiv.|Kunden
+Laut Ihrer Bestellung *sollten* die Kartons heute ankommen.|Согласно вашему заказу, коробки должны прийти сегодня.|B2|laut auf Position 1 → Verb → Subjekt.|Kunden
+Es *wäre* hilfreich, wenn Sie uns ein Foto des Schadens schicken.|Было бы полезно, если бы вы прислали нам фото повреждения.|B2|Konjunktiv II + wenn: Verb am Ende.|Kunden
+Nach Rücksprache mit meiner Chefin *kann* ich Ihnen zehn Prozent Rabatt anbieten.|После согласования с начальницей я могу предложить вам скидку десять процентов.|B2|Angabe auf Position 1 → Modalverb → Subjekt.|Kunden
+Bitte *haben* Sie noch etwas Geduld.|Пожалуйста, наберитесь ещё немного терпения.|B1|Imperativ mit Sie.|Kunden
+Wir *bedanken* uns für Ihr Verständnis.|Благодарим вас за понимание.|B1|Hauptsatz: Verb auf Platz 2.|Kunden

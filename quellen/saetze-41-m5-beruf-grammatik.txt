@@ -1,0 +1,52 @@
+# M5 Beruf: Grammatik-Schwerpunkte im Arbeitskontext (B1/B2)
+Bevor ich nach Hause gehe, *räume* ich meinen Arbeitsplatz auf.|Перед уходом домой я убираю своё рабочее место.|B1|bevor-Satz zuerst → dann sofort das Verb.|Arbeit
+Nachdem die Ware geprüft worden war, *wurde* sie eingelagert.|После того как товар проверили, его разместили на складе.|B2|nachdem + Plusquamperfekt Passiv → dann sofort das Verb.|Logistik
+Während der Chef im Urlaub ist, *übernimmt* Frau Lang die Leitung.|Пока начальник в отпуске, руководство берёт на себя госпожа Ланг.|B1|während-Satz zuerst → dann sofort das Verb.|Arbeit
+Seitdem wir die neue Software haben, *geht* alles schneller.|С тех пор как у нас новая программа, всё идёт быстрее.|B1|seitdem-Satz zuerst → dann sofort das Verb.|Technik
+Obwohl ich Frühschicht hatte, *bin* ich bis 16 Uhr geblieben.|Хотя у меня была утренняя смена, я осталась до 16 часов.|B1|obwohl-Satz zuerst → dann sofort das Verb.|Arbeit
+Da der Drucker kaputt ist, *schicke* ich Ihnen die Datei per E-Mail.|Так как принтер сломан, я пришлю вам файл по почте.|B1|da-Satz zuerst → dann sofort das Verb.|Büro
+Solange die Maschine läuft, *darf* niemand die Abdeckung öffnen.|Пока машина работает, никто не должен открывать крышку.|B2|solange-Satz zuerst → dann sofort das Modalverb.|Arbeit
+Je schneller wir arbeiten, desto mehr Fehler *passieren*.|Чем быстрее мы работаем, тем больше ошибок случается.|B2|je … desto: nach desto sofort das Verb.|Arbeit
+Ich habe meine Chefin gefragt, ob ich früher gehen *darf*.|Я спросила начальницу, можно ли мне уйти раньше.|B1|ob: Modalverb am Ende.|Arbeit
+Weißt du, wo die neuen Arbeitsschuhe *liegen*?|Ты знаешь, где лежит новая рабочая обувь?|B1|Indirekte Frage: Verb am Ende.|Arbeit
+Der Kollege hat mir erklärt, wie die Kasse *funktioniert*.|Коллега объяснил мне, как работает касса.|B1|Indirekte Frage: Verb am Ende.|Handel
+Niemand weiß, warum der Server ausgefallen *ist*.|Никто не знает, почему сервер вышел из строя.|B1|Indirekte Frage + Perfekt: ist ganz am Ende.|Technik
+Können Sie mir sagen, wie lange die Reparatur dauern *wird*?|Можете сказать, сколько продлится ремонт?|B2|Indirekte Frage + Futur: wird ganz am Ende.|Handwerk
+Es ist verboten, im Lager zu rauchen.|На складе курить запрещено.|B1|zu-Infinitiv am Ende.|Logistik
+Vergessen Sie nicht, die Tür beim Gehen abzuschließen.|Не забудьте запереть дверь при уходе.|B1|zu bei trennbaren Verben in der Mitte.|Arbeit
+Ich habe keine Lust, schon wieder Überstunden zu machen.|У меня нет желания снова работать сверхурочно.|B1|zu-Infinitiv am Ende.|Arbeit
+Die Chefin hat mich gebeten, die neue Kollegin einzuarbeiten.|Начальница попросила меня ввести новую коллегу в курс дела.|B2|einarbeiten → einzuarbeiten.|Arbeit
+Um Zeit zu sparen, *bestellen* wir das Material online.|Чтобы сэкономить время, мы заказываем материал онлайн.|B1|um … zu zuerst → dann sofort das Verb.|Arbeit
+Ohne zu fragen, *hat* er meinen Kugelschreiber genommen.|Не спросив, он взял мою ручку.|B2|ohne … zu zuerst → dann sofort das Verb.|Büro
+Statt die Kunden warten zu lassen, *öffnen* wir eine zweite Kasse.|Вместо того чтобы заставлять клиентов ждать, мы открываем вторую кассу.|B2|statt … zu zuerst → dann sofort das Verb.|Handel
+Das ist die Kundin, die sich gestern beschwert *hat*.|Это клиентка, которая вчера жаловалась.|B1|Relativsatz: hat am Ende.|Kunden
+Der Lieferant, mit dem wir *arbeiten*, ist sehr zuverlässig.|Поставщик, с которым мы работаем, очень надёжный.|B1|Relativsatz mit Präposition.|Logistik
+Die Maschine, deren Motor kaputt *war*, ist wieder repariert.|Машину, у которой был сломан мотор, снова починили.|B2|Relativsatz mit deren.|Arbeit
+Das Team, für das ich *arbeite*, besteht aus acht Personen.|Команда, в которой я работаю, состоит из восьми человек.|B1|Relativsatz mit Präposition: für das.|Arbeit
+Alles, was Sie für die Arbeit brauchen, *bekommen* Sie von uns.|Всё, что вам нужно для работы, вы получите от нас.|B2|Relativsatz mit was in der Mitte, danach Hauptsatz-Verb.|Arbeit
+Wer zu spät kommt, *muss* sich bei der Schichtleitung melden.|Кто опоздает, должен отметиться у руководителя смены.|B1|wer-Satz zuerst → dann sofort das Modalverb.|Arbeit
+Die Bewohner, denen wir beim Essen helfen, *sitzen* am großen Tisch.|Жильцы, которым мы помогаем с едой, сидят за большим столом.|B2|Relativsatz Dativ Plural: denen.|Pflege
+Wenn ich mehr Erfahrung hätte, *würde* ich mich als Teamleiterin bewerben.|Если бы у меня было больше опыта, я бы подала заявку на руководителя группы.|B2|Konjunktiv II: würde.|Arbeit
+An Ihrer Stelle *würde* ich den Vertrag genau lesen.|На вашем месте я бы внимательно прочитала договор.|B1|Konjunktiv II: Ratschlag.|Arbeit
+Hätten wir mehr Personal, *könnten* wir auch samstags öffnen.|Если бы у нас было больше персонала, мы могли бы открываться и по субботам.|B2|Konjunktiv II ohne wenn.|Handel
+Es *wäre* gut, wenn alle ihre Wünsche bis Freitag eintragen würden.|Было бы хорошо, если бы все внесли свои пожелания до пятницы.|B2|Konjunktiv II + wenn: würden am Ende.|Arbeit
+Ich *hätte* die Rechnung besser vorher kontrollieren sollen.|Мне следовало бы проверить счёт заранее.|B2|Konjunktiv II Vergangenheit mit Modalverb.|Büro
+*Würden* Sie mir bitte zeigen, wo ich unterschreiben muss?|Не покажете мне, где нужно подписать?|B1|Konjunktiv II: höfliche Bitte.|Büro
+Die Lieferscheine *werden* jeden Abend abgeheftet.|Накладные подшивают каждый вечер.|B1|Passiv Präsens.|Büro
+Der Vertrag *wurde* gestern vom Geschäftsführer unterschrieben.|Договор вчера подписал директор.|B1|Passiv Präteritum mit von.|Büro
+Die Bewohner *werden* zweimal pro Woche geduscht.|Жильцов купают два раза в неделю.|B1|Passiv Präsens.|Pflege
+Alle Unfälle *müssen* sofort gemeldet werden.|Обо всех несчастных случаях нужно сообщать немедленно.|B1|Passiv mit Modalverb.|Arbeit
+Die neue Kollegin *ist* gut eingearbeitet worden.|Новую коллегу хорошо ввели в курс дела.|B2|Passiv Perfekt.|Arbeit
+Das Problem *konnte* schnell gelöst werden.|Проблему удалось быстро решить.|B2|Passiv mit Modalverb im Präteritum.|Arbeit
+Die Ware *ist* schon verpackt.|Товар уже упакован.|B1|Zustandspassiv: sein + Partizip.|Logistik
+Die Kasse *ist* heute geschlossen.|Касса сегодня закрыта.|B1|Zustandspassiv: sein + Partizip.|Handel
+Aufgrund eines technischen Problems *können* wir heute keine Kartenzahlung annehmen.|Из-за технической проблемы мы сегодня не можем принимать оплату картой.|B2|aufgrund auf Position 1 → Modalverb → Subjekt.|Handel
+Trotz der Hitze *müssen* alle Schutzkleidung tragen.|Несмотря на жару, все должны носить защитную одежду.|B2|trotz auf Position 1 → Modalverb → Subjekt.|Arbeit
+Innerhalb von zwei Wochen *erhalten* Sie Ihr Arbeitszeugnis.|В течение двух недель вы получите характеристику.|B2|innerhalb auf Position 1 → Verb → Subjekt.|Arbeit
+Während der Mittagspause *ist* das Büro nicht besetzt.|Во время обеденного перерыва в офисе никого нет.|B1|während + Genitiv auf Position 1 → Verb → Subjekt.|Büro
+Außerhalb der Geschäftszeiten *erreichen* Sie uns per E-Mail.|Вне рабочего времени вы можете связаться с нами по почте.|B2|außerhalb auf Position 1 → Verb → Subjekt.|Büro
+Sowohl die Kunden als auch die Mitarbeiter *loben* die neue Filiale.|И клиенты, и сотрудники хвалят новый филиал.|B2|sowohl … als auch.|Handel
+Entweder du übernimmst die Spätschicht, oder ich *frage* Anna.|Либо ты берёшь вечернюю смену, либо я спрошу Анну.|B2|entweder … oder.|Arbeit
+Weder der Scanner noch der Drucker *funktioniert* heute.|Сегодня не работает ни сканер, ни принтер.|B2|weder … noch.|Technik
+Zwar *ist* die Arbeit schwer, aber das Team ist super.|Хотя работа тяжёлая, команда отличная.|B2|zwar + Verb + Subjekt, aber …|Arbeit
+Nicht nur die Bezahlung, sondern auch die Arbeitszeiten *haben* sich verbessert.|Улучшилась не только оплата, но и рабочее время.|B2|nicht nur …, sondern auch.|Arbeit

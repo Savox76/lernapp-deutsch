@@ -1,0 +1,125 @@
+# M5 Beruf: Pflege, Lager/Logistik, Büro, Handel, Arbeitsrecht
+Pflegegrad|der|Pflegegrade|N|степень потребности в уходе|Einstufung, wie viel Pflege jemand braucht (1–5)|Meine Mutter hat Pflegegrad 3.|B2|Pflege
+Pflegekasse|die|Pflegekassen|N|касса страхования по уходу|Versicherung, die Pflege bezahlt|Die Pflegekasse übernimmt einen Teil der Kosten.|B2|Pflege
+Pflegeplanung|die|-|N|планирование ухода|Plan, welche Pflege ein Patient braucht|Die Pflegeplanung wird jede Woche angepasst.|B2|Pflege
+Visite|die|Visiten|N|обход (врача)|Besuch des Arztes bei den Patienten|Um zehn Uhr ist Visite.|B2|Pflege
+Dienstübergabe|die|-|N|передача смены|Informationen am Ende einer Schicht weitergeben|Bei der Dienstübergabe fehlte eine wichtige Information.|B2|Pflege
+Nachtdienst|der|Nachtdienste|N|ночная смена|Arbeit in der Nacht|Diese Woche habe ich Nachtdienst.|B1|Pflege
+Wohnbereich|der|Wohnbereiche|N|жилой блок (в доме престарелых)|Bereich im Pflegeheim|Ich arbeite im Wohnbereich 2.|B2|Pflege
+Bettpfanne|die|Bettpfannen|N|подкладное судно|Gefäß für die Toilette im Bett|Bitte bringen Sie eine Bettpfanne.|B2|Pflege
+Inkontinenz|die|-|N|недержание|man kann Urin nicht halten|Viele Bewohner leiden an Inkontinenz.|B2|Pflege
+Druckgeschwür|das|Druckgeschwüre|N|пролежень|Wunde vom langen Liegen|Um ein Druckgeschwür zu vermeiden, lagern wir den Patienten um.|B2|Pflege
+Mobilisation|die|-|N|мобилизация (активизация пациента)|Patienten in Bewegung bringen|Nach der Operation ist frühe Mobilisation wichtig.|B2|Pflege
+Nahrungsaufnahme|die|-|N|приём пищи|das Essen und Trinken|Frau Lang braucht Hilfe bei der Nahrungsaufnahme.|B2|Pflege
+Flüssigkeit|die|Flüssigkeiten|N|жидкость|Wasser, Tee, Saft usw.|Achten Sie auf genug Flüssigkeit.|B1|Pflege
+Fieberthermometer|das|Fieberthermometer|N|термометр|Gerät zum Fiebermessen|Wo ist das Fieberthermometer?|B1|Pflege
+Blutzucker|der|-|N|сахар в крови|Zuckerwert im Blut|Der Blutzucker wird vor dem Essen gemessen.|B2|Pflege
+Pflegebett|das|Pflegebetten|N|функциональная кровать|spezielles Bett für Kranke|Das Pflegebett lässt sich elektrisch verstellen.|B2|Pflege
+Hilfsmittel|das|Hilfsmittel|N|вспомогательное средство|Gerät, das Kranken hilft, z. B. Rollator|Die Krankenkasse bezahlt viele Hilfsmittel.|B2|Pflege
+Betreuungskraft|die|Betreuungskräfte|N|сотрудник по досугу (в доме престарелых)|Person, die mit Bewohnern spielt, singt, spazieren geht|Die Betreuungskraft macht heute Gedächtnistraining.|B2|Pflege
+Sterbebegleitung|die|-|N|сопровождение умирающих|Begleitung von Menschen am Lebensende|Sterbebegleitung gehört auch zur Pflege.|B2|Pflege
+Schweigepflicht|die|-|N|обязанность хранить тайну|man darf nichts über Patienten erzählen|Alle Pflegekräfte haben Schweigepflicht.|B2|Pflege
+Hygieneplan|der|Hygienepläne|N|план гигиены|Regeln für Sauberkeit und Desinfektion|Bitte halten Sie sich an den Hygieneplan.|B2|Pflege
+umlagern|-|lagert um, lagerte um, hat umgelagert|V|перекладывать (пациента)|einen Patienten anders hinlegen|Wir lagern Herrn Meier alle zwei Stunden um.|B2|Pflege
+dokumentieren|-|dokumentiert, dokumentierte, hat dokumentiert|V|документировать|schriftlich festhalten|Bitte dokumentieren Sie alle Medikamente.|B2|Pflege
+anreichen|-|reicht an, reichte an, hat angereicht|V|кормить (подавать еду)|jemandem beim Essen helfen|Ich reiche Frau Hahn das Essen an.|B2|Pflege
+trösten|-|tröstet, tröstete, hat getröstet|V|утешать|jemandem helfen, der traurig ist|Die Pflegerin tröstet die weinende Bewohnerin.|B1|Pflege
+beobachten|-|beobachtet, beobachtete, hat beobachtet|V|наблюдать|genau ansehen|Bitte beobachten Sie, ob er genug trinkt.|B1|Pflege
+verabreichen|-|verabreicht, verabreichte, hat verabreicht|V|давать (лекарство)|ein Medikament geben (formell)|Die Fachkraft verabreicht die Spritze.|B2|Pflege
+pflegebedürftig|-|-|A|нуждающийся в уходе|braucht Pflege|Meine Oma ist pflegebedürftig.|B2|Pflege
+bettlägerig|-|-|A|лежачий|kann nicht aufstehen|Herr Klein ist seit dem Sturz bettlägerig.|B2|Pflege
+verwirrt|-|verwirrter|A|растерянный, спутанный|weiß nicht, wo oder wann er ist|Die Bewohnerin ist heute sehr verwirrt.|B2|Pflege
+ansprechbar|-|-|A|в сознании (отвечает)|reagiert, wenn man mit ihm spricht|Der Patient ist wach und ansprechbar.|B2|Pflege
+Logistik|die|-|N|логистика|Planung und Transport von Waren|Ich arbeite in der Logistik.|B1|Logistik
+Lagerhalle|die|Lagerhallen|N|складской ангар|großes Gebäude für Waren|Die Lagerhalle ist 5.000 m² groß.|B1|Logistik
+Hochregal|das|Hochregale|N|высокий стеллаж|sehr hohes Regal im Lager|Die Paletten stehen im Hochregal.|B2|Logistik
+Lagerplatz|der|Lagerplätze|N|место хранения|bestimmter Platz für eine Ware|Jede Ware hat einen festen Lagerplatz.|B2|Logistik
+Inventurliste|die|-|N|инвентаризационный список|Liste mit allen gezählten Waren|Trag die Zahlen in die Inventurliste ein.|B2|Logistik
+Fehlmenge|die|Fehlmengen|N|недостача|Menge, die fehlt|Bei der Lieferung gab es eine Fehlmenge.|B2|Logistik
+Mindesthaltbarkeitsdatum|das|-|N|срок годности|bis wann ein Lebensmittel sicher gut ist (MHD)|Bitte kontrollieren Sie das Mindesthaltbarkeitsdatum.|B2|Logistik
+Kühlkette|die|-|N|холодовая цепь|Lebensmittel müssen immer kalt bleiben|Die Kühlkette darf nicht unterbrochen werden.|B2|Logistik
+Versandabteilung|die|-|N|отдел отгрузки|Abteilung, die Pakete verschickt|Die Versandabteilung arbeitet bis 22 Uhr.|B2|Logistik
+Verpackungsmaterial|das|-|N|упаковочный материал|Kartons, Folie, Klebeband|Wir brauchen mehr Verpackungsmaterial.|B2|Logistik
+Klebeband|das|Klebebänder|N|скотч|Band zum Zukleben|Gib mir mal das Klebeband.|B1|Logistik
+Folie|die|Folien|N|плёнка|dünnes Plastik zum Einpacken|Die Paletten werden mit Folie umwickelt.|B1|Logistik
+Gewicht|das|Gewichte|N|вес|wie schwer etwas ist|Das Gewicht des Pakets darf 30 kg nicht überschreiten.|B1|Logistik
+Retoure|die|Retouren|N|возврат (товара)|Ware, die der Kunde zurückschickt|Montags kommen besonders viele Retouren.|B2|Logistik
+Frachtbrief|der|Frachtbriefe|N|транспортная накладная|Dokument für einen Transport|Der Fahrer braucht den Frachtbrief.|B2|Logistik
+Lieferverzug|der|-|N|задержка поставки|wenn eine Lieferung zu spät kommt|Wir haben drei Tage Lieferverzug.|B2|Logistik
+Fuhrpark|der|-|N|автопарк|alle Fahrzeuge einer Firma|Unser Fuhrpark hat 20 Lkw.|B2|Logistik
+Ladefläche|die|Ladeflächen|N|грузовая площадка|Platz für Waren im Lkw|Die Ladefläche ist voll.|B2|Logistik
+Ladung|die|Ladungen|N|груз|Waren, die transportiert werden|Die Ladung muss gesichert werden.|B2|Logistik
+Spanngurt|der|Spanngurte|N|стяжной ремень|Gurt zum Festmachen der Ladung|Ohne Spanngurte darf der Lkw nicht losfahren.|B2|Logistik
+Tachograf|der|Tachografen|N|тахограф|Gerät, das Fahr- und Ruhezeiten speichert|Der Tachograf zeigt meine Lenkzeiten.|B2|Logistik
+Lenkzeit|die|Lenkzeiten|N|время вождения|wie lange ein Fahrer fahren darf|Nach 4,5 Stunden Lenkzeit muss man Pause machen.|B2|Logistik
+Navigationsgerät|das|-|N|навигатор|Gerät, das den Weg zeigt|Das Navigationsgerät kennt die Baustelle nicht.|B1|Logistik
+Lieferadresse|die|Lieferadressen|N|адрес доставки|wohin die Ware gebracht wird|Bitte prüfen Sie die Lieferadresse.|B1|Logistik
+quittieren|-|quittiert, quittierte, hat quittiert|V|расписаться в получении|mit Unterschrift bestätigen|Bitte quittieren Sie den Empfang der Ware.|B2|Logistik
+verladen|-|verlädt, verlud, hat verladen|V|грузить|auf ein Fahrzeug laden|Die Ware wird morgen früh verladen.|B2|Logistik
+sichern|-|sichert, sicherte, hat gesichert|V|закреплять|festmachen, damit nichts fällt|Die Ladung muss gut gesichert werden.|B2|Logistik
+einlagern|-|lagert ein, lagerte ein, hat eingelagert|V|размещать на складе|Ware ins Lager bringen|Neue Ware wird sofort eingelagert.|B2|Logistik
+auslagern|-|lagert aus, lagerte aus, hat ausgelagert|V|снимать со склада|Ware aus dem Lager holen|Für den Auftrag müssen wir zehn Kartons auslagern.|B2|Logistik
+etikettieren|-|etikettiert, etikettierte, hat etikettiert|V|наклеивать этикетки|Etiketten aufkleben|Jeder Karton wird etikettiert.|B2|Logistik
+Etikett|das|Etiketten|N|этикетка|Aufkleber mit Informationen|Das Etikett ist falsch gedruckt.|B1|Logistik
+zerbrechlich|-|-|A|хрупкий|kann leicht kaputtgehen|Vorsicht, zerbrechlich!|B1|Logistik
+sperrig|-|sperriger|A|громоздкий|groß und unpraktisch zu tragen|Das Paket ist sehr sperrig.|B2|Logistik
+termingerecht|-|-|A|в срок|zur richtigen Zeit|Die Ware wurde termingerecht geliefert.|B2|Logistik
+Bürobedarf|der|-|N|канцтовары|Papier, Stifte, Ordner usw.|Wir bestellen den Bürobedarf einmal im Monat.|B2|Büro
+Aktenordner|der|Aktenordner|N|папка-регистратор|Ordner für Akten|Die Verträge sind im Aktenordner.|B1|Büro
+Schriftverkehr|der|-|N|деловая переписка|alle Briefe und E-Mails|Sie ist für den Schriftverkehr zuständig.|B2|Büro
+Korrespondenz|die|-|N|корреспонденция|Briefwechsel|Die Korrespondenz mit Kunden ist auf Deutsch.|B2|Büro
+Vorlage|die|Vorlagen|N|шаблон|fertiges Muster für einen Text|Nutzen Sie bitte die Vorlage für Angebote.|B2|Büro
+Entwurf|der|Entwürfe|N|черновик|erste Version eines Textes|Ich schicke Ihnen den Entwurf zur Kontrolle.|B2|Büro
+Terminkalender|der|Terminkalender|N|ежедневник, календарь встреч|Kalender für Termine|Ich schaue in meinen Terminkalender.|B1|Büro
+Wiedervorlage|die|-|N|повторное рассмотрение (напоминание)|Erinnerung, einen Vorgang später wieder zu bearbeiten|Ich lege mir den Vorgang auf Wiedervorlage.|B2|Büro
+Vorgang|der|Vorgänge|N|дело, процесс|ein Fall, der bearbeitet wird|Bitte nennen Sie die Nummer des Vorgangs.|B2|Büro
+Aktenzeichen|das|Aktenzeichen|N|номер дела|Nummer eines Vorgangs|Bitte geben Sie immer das Aktenzeichen an.|B2|Büro
+Durchschrift|die|Durchschriften|N|копия (под копирку)|Kopie eines Dokuments|Die Durchschrift behalten Sie.|B2|Büro
+Briefkopf|der|Briefköpfe|N|шапка письма|oberer Teil eines Geschäftsbriefs mit Logo und Adresse|Bitte benutzen Sie den neuen Briefkopf.|B2|Büro
+Anlage|die|Anlagen|N|приложение (к письму)|Dokument, das man mitschickt|Anlage: Rechnung Nr. 4711|B2|Büro
+Kenntnisnahme|die|-|N|ознакомление|man liest etwas zur Information|Zur Kenntnisnahme an Frau Koch.|B2|Büro
+Geschäftszeiten|die|-|N|часы работы|wann eine Firma arbeitet|Unsere Geschäftszeiten sind Mo–Fr 8–17 Uhr.|B1|Büro
+Abwesenheitsnotiz|die|-|N|автоответ об отсутствии|automatische E-Mail, wenn man nicht da ist|Vor dem Urlaub aktiviere ich die Abwesenheitsnotiz.|B2|Büro
+Zugangsdaten|die|-|N|данные для входа|Benutzername und Passwort|Die Zugangsdaten bekommen Sie von der IT.|B2|Büro
+ablegen|-|legt ab, legte ab, hat abgelegt|V|подшивать, класть в архив|ein Dokument an seinen Platz tun|Bitte legen Sie die Rechnung im Ordner ab.|B2|Büro
+abheften|-|heftet ab, heftete ab, hat abgeheftet|V|подшивать|in einen Ordner tun|Ich hefte die Lieferscheine ab.|B2|Büro
+einscannen|-|scannt ein, scannte ein, hat eingescannt|V|сканировать|ein Papier in den Computer bringen|Ich scanne den Vertrag ein.|B1|Büro
+weitergeben|-|gibt weiter, gab weiter, hat weitergegeben|V|передавать|an eine andere Person geben|Ich gebe die Information an die Chefin weiter.|B1|Büro
+rückmelden|-|meldet zurück, meldete zurück, hat zurückgemeldet|V|дать обратную связь|eine Antwort geben|Ich melde mich bis Freitag bei Ihnen zurück.|B2|Büro
+vertraulich|-|-|A|конфиденциальный|geheim, nicht für alle|Die Unterlagen sind vertraulich.|B2|Büro
+dringlich|-|-|A|срочный|sehr eilig (formell)|Die Angelegenheit ist dringlich.|B2|Büro
+Einzelhandel|der|-|N|розничная торговля|Verkauf an Endkunden in Geschäften|Sie arbeitet im Einzelhandel.|B2|Handel
+Großhandel|der|-|N|оптовая торговля|Verkauf großer Mengen an Firmen|Der Großhandel liefert an Restaurants.|B2|Handel
+Warenwirtschaft|die|-|N|товарный учёт|System für Einkauf, Lager und Verkauf|Im Warenwirtschaftssystem sehe ich den Bestand.|B2|Handel
+Kassensturz|der|-|N|подсчёт кассы|Zählen des Geldes in der Kasse|Nach Ladenschluss machen wir Kassensturz.|B2|Handel
+Kundenkarte|die|Kundenkarten|N|карта клиента|Karte für Rabatte und Punkte|Haben Sie eine Kundenkarte?|B1|Handel
+Sonderangebot|das|Sonderangebote|N|специальное предложение|Ware für kurze Zeit billiger|Die Butter ist im Sonderangebot.|A2|Handel
+Schaufenster|das|Schaufenster|N|витрина|Fenster mit Ware zum Ansehen|Das Kleid im Schaufenster gefällt mir.|B1|Handel
+Ladenschluss|der|-|N|закрытие магазина|wenn das Geschäft schließt|Ladenschluss ist um 20 Uhr.|B1|Handel
+Inventar|das|-|N|инвентарь|alle Gegenstände einer Firma|Das Inventar wird jedes Jahr gezählt.|B2|Handel
+Reklamationsgrund|der|-|N|причина рекламации|warum ein Kunde reklamiert|Bitte notieren Sie den Reklamationsgrund.|B2|Handel
+Gewährleistung|die|-|N|гарантийные обязательства (по закону)|gesetzliches Recht bei fehlerhafter Ware (2 Jahre)|Die Gewährleistung beträgt zwei Jahre.|B2|Handel
+kassieren|-|kassiert, kassierte, hat kassiert|V|принимать оплату|Geld von Kunden nehmen|Heute kassiere ich an Kasse 2.|B1|Handel
+auffüllen|-|füllt auf, füllte auf, hat aufgefüllt|V|пополнять|wieder voll machen|Ich fülle das Regal mit Milch auf.|B1|Handel
+vorrätig|-|-|A|в наличии|ist im Lager da|Dieses Modell ist leider nicht vorrätig.|B2|Handel
+lieferbar|-|-|A|доступный для поставки|kann geliefert werden|Die Ware ist ab Montag wieder lieferbar.|B2|Handel
+Arbeitszeitgesetz|das|-|N|закон о рабочем времени|Gesetz über die erlaubte Arbeitszeit|Laut Arbeitszeitgesetz darf man höchstens zehn Stunden am Tag arbeiten.|B2|Arbeitsrecht
+Mindestlohn|der|-|N|минимальная зарплата|kleinster erlaubter Stundenlohn|Der Mindestlohn ist gestiegen.|B1|Arbeitsrecht
+Urlaubsgeld|das|-|N|отпускные|zusätzliches Geld für den Urlaub|Im Juni bekommen wir Urlaubsgeld.|B2|Arbeitsrecht
+Weihnachtsgeld|das|-|N|рождественская премия|zusätzliches Geld im Dezember|Nicht alle Firmen zahlen Weihnachtsgeld.|B2|Arbeitsrecht
+Lohnsteuer|die|-|N|подоходный налог (с зарплаты)|Steuer auf den Lohn|Die Lohnsteuer wird automatisch abgezogen.|B2|Arbeitsrecht
+Steuerklasse|die|Steuerklassen|N|налоговый класс|Gruppe, die bestimmt, wie viel Steuer man zahlt|Verheiratete können die Steuerklasse wechseln.|B2|Arbeitsrecht
+Krankengeld|das|-|N|пособие по болезни|Geld von der Krankenkasse bei langer Krankheit|Nach sechs Wochen bekommt man Krankengeld.|B2|Arbeitsrecht
+Aufhebungsvertrag|der|-|N|соглашение о расторжении|Vertrag, mit dem beide das Arbeitsverhältnis beenden|Er hat einen Aufhebungsvertrag unterschrieben.|B2|Arbeitsrecht
+Arbeitsverhältnis|das|Arbeitsverhältnisse|N|трудовые отношения|Beziehung zwischen Arbeitgeber und Arbeitnehmer|Das Arbeitsverhältnis endet am 30. Juni.|B2|Arbeitsrecht
+Nebenjob|der|Nebenjobs|N|подработка|zweite, kleine Arbeit|Am Wochenende habe ich einen Nebenjob.|B1|Arbeitsrecht
+Gleichbehandlung|die|-|N|равное обращение|alle werden gleich behandelt|Das Gesetz verlangt Gleichbehandlung.|B2|Arbeitsrecht
+Mobbing|das|-|N|травля на работе|wenn Kollegen jemanden immer wieder schlecht behandeln|Mobbing am Arbeitsplatz ist ein ernstes Problem.|B2|Arbeitsrecht
+Beschwerdestelle|die|-|N|инстанция для жалоб|Stelle, an die man sich bei Problemen wendet|Wenden Sie sich an die Beschwerdestelle.|B2|Arbeitsrecht
+entlassen|-|entlässt, entließ, hat entlassen|V|увольнять|jemandem kündigen|Die Firma hat 50 Mitarbeiter entlassen.|B2|Arbeitsrecht
+befördern|-|befördert, beförderte, hat befördert|V|повышать по службе; перевозить|eine höhere Stelle geben; transportieren|Sie wurde zur Teamleiterin befördert.|B2|Arbeitsrecht
+abmahnen|-|mahnt ab, mahnte ab, hat abgemahnt|V|делать выговор|schriftlich verwarnen|Der Mitarbeiter wurde abgemahnt.|B2|Arbeitsrecht
+sich krankschreiben lassen|-|lässt sich krankschreiben|V|взять больничный|vom Arzt eine Krankmeldung bekommen|Ich lasse mich für drei Tage krankschreiben.|B1|Arbeitsrecht
+arbeitsunfähig|-|-|A|нетрудоспособный|kann wegen Krankheit nicht arbeiten|Sie ist bis Freitag arbeitsunfähig.|B2|Arbeitsrecht
+sozialversicherungspflichtig|-|-|A|облагаемый соцстрахованием|mit Beiträgen zur Sozialversicherung|Das ist eine sozialversicherungspflichtige Stelle.|B2|Arbeitsrecht
+tariflich|-|-|A|по тарифу|nach Tarifvertrag|Wir werden tariflich bezahlt.|B2|Arbeitsrecht

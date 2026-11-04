@@ -1,0 +1,47 @@
+# M5 Beruf: Pflege, Lager, Reinigung, Gastronomie (A2–B2)
+Die Bewohnerin in Zimmer 5 *braucht* Hilfe beim Aufstehen.|Жительнице в комнате 5 нужна помощь, чтобы встать.|A2|Subjekt – Verb – Rest.|Pflege
+Am Morgen *messe* ich bei allen Bewohnern den Blutdruck.|Утром я измеряю давление у всех жильцов.|B1|Zeit auf Position 1 → Verb → Subjekt.|Pflege
+Herr Lehmann *will* heute nicht aufstehen.|Господин Леманн сегодня не хочет вставать.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Pflege
+Ich *frage* die Bewohnerin, ob sie Schmerzen hat.|Я спрашиваю жительницу, есть ли у неё боли.|B1|Hauptsatz + ob-Satz.|Pflege
+Wenn ein Bewohner Fieber hat, *informiere* ich sofort die Fachkraft.|Если у жильца температура, я сразу сообщаю медсестре.|B1|wenn-Satz zuerst → dann sofort das Verb.|Pflege
+Die Tochter von Frau Hahn *hat* angerufen und kommt um drei.|Дочь госпожи Хан позвонила и придёт в три.|B1|Perfekt + und + Hauptsatz.|Pflege
+Bei Demenz *ist* es wichtig, ruhig und geduldig zu bleiben.|При деменции важно оставаться спокойной и терпеливой.|B2|Angabe auf Position 1 → Verb; zu-Infinitiv am Ende.|Pflege
+Ich habe beobachtet, dass Herr Klein kaum etwas *isst*.|Я заметила, что господин Кляйн почти ничего не ест.|B1|dass: Verb am Ende.|Pflege
+Das Essen *wird* um 12 Uhr auf die Station gebracht.|Еду приносят на отделение в 12 часов.|B1|Passiv Präsens.|Pflege
+Die Pflegedokumentation *muss* am Ende jeder Schicht ausgefüllt werden.|Документацию по уходу нужно заполнять в конце каждой смены.|B2|Passiv mit Modalverb.|Pflege
+Weil Frau Lang gestürzt ist, *bekommt* sie jetzt einen Rollator.|Так как госпожа Ланг упала, теперь ей дают ходунки.|B1|weil-Satz zuerst → dann sofort das Verb.|Pflege
+Die Angehörigen *dürfen* jederzeit zu Besuch kommen.|Родственники могут приходить в любое время.|B1|Modalverb auf Platz 2, Infinitiv am Ende.|Pflege
+Im Lager *gibt* es feste Regeln für die Sicherheit.|На складе есть чёткие правила безопасности.|B1|Ort auf Position 1 → Verb → es.|Logistik
+Bevor die Ware eingelagert wird, *muss* sie kontrolliert werden.|Прежде чем товар разместят на складе, его нужно проверить.|B2|bevor-Satz zuerst → dann sofort das Modalverb; Passiv.|Logistik
+Die schweren Kartons *heben* wir immer zu zweit.|Тяжёлые коробки мы всегда поднимаем вдвоём.|B1|Objekt auf Position 1 → Verb → Subjekt.|Logistik
+Ich *zähle* die Paletten und schreibe die Zahl auf.|Я пересчитываю паллеты и записываю число.|A2|Hauptsatz + und + Hauptsatz.|Logistik
+Der Scanner *piept*, wenn der Barcode falsch ist.|Сканер пищит, если штрихкод неправильный.|B1|Hauptsatz + wenn: Verb am Ende.|Logistik
+Die Kühlware *muss* sofort in den Kühlraum gebracht werden.|Охлаждённый товар нужно сразу отнести в холодильную камеру.|B2|Passiv mit Modalverb.|Logistik
+Wer den Gabelstapler fährt, *trägt* die Verantwortung für die Ladung.|Кто ведёт погрузчик, отвечает за груз.|B2|wer-Satz zuerst → dann sofort das Verb.|Logistik
+Die Kollegen in der Kommissionierung *arbeiten* sehr schnell.|Коллеги в комплектации работают очень быстро.|A2|Subjekt – Verb – Rest.|Logistik
+Bitte *stellen* Sie die leeren Paletten an die Wand.|Пожалуйста, поставьте пустые паллеты к стене.|A2|Imperativ mit Sie.|Logistik
+Nach der Inventur *haben* wir festgestellt, dass Ware fehlt.|После инвентаризации мы обнаружили, что не хватает товара.|B1|Zeit auf Position 1 → haben → Subjekt; dass-Satz.|Logistik
+Die Reinigungskräfte *beginnen* um 18 Uhr, wenn die Büros leer sind.|Уборщицы начинают в 18 часов, когда офисы пустые.|B1|Hauptsatz + wenn: Verb am Ende.|Reinigung
+Zuerst *leere* ich die Mülleimer, dann wische ich den Boden.|Сначала я опорожняю мусорные вёдра, потом мою пол.|A2|zuerst/dann auf Position 1 → Verb → Subjekt.|Reinigung
+Die Toiletten *werden* zweimal täglich gereinigt.|Туалеты убирают два раза в день.|B1|Passiv Präsens.|Reinigung
+Man darf verschiedene Reinigungsmittel nie mischen, weil das gefährlich *ist*.|Разные моющие средства нельзя смешивать, потому что это опасно.|B1|weil: Verb am Ende.|Reinigung
+Ich *habe* den Fehler im Reinigungsplan sofort gemeldet.|Я сразу сообщила об ошибке в графике уборки.|B1|Perfekt: habe … gemeldet.|Reinigung
+Im Restaurant *bin* ich für die Getränke zuständig.|В ресторане я отвечаю за напитки.|B1|Ort auf Position 1 → Verb → Subjekt.|Gastro
+Der Gast *möchte* wissen, ob in der Soße Nüsse sind.|Гость хочет знать, есть ли в соусе орехи.|B1|Modalverb + ob-Satz.|Gastro
+Bevor wir öffnen, *muss* die Küche sauber sein.|Перед открытием кухня должна быть чистой.|B1|bevor-Satz zuerst → dann sofort das Modalverb.|Gastro
+Die Bestellung von Tisch 4 *ist* noch nicht fertig.|Заказ четвёртого столика ещё не готов.|A2|Subjekt – Verb – Rest.|Gastro
+*Darf* ich Ihnen noch etwas bringen?|Могу я вам ещё что-нибудь принести?|A2|Ja/Nein-Frage: Modalverb auf Position 1.|Gastro
+Der Gast hat sich beschwert, weil das Essen kalt *war*.|Гость пожаловался, потому что еда была холодной.|B1|weil: Verb am Ende.|Gastro
+Das Zimmer *wird* gereinigt, während die Gäste beim Frühstück sind.|Номер убирают, пока гости завтракают.|B2|Passiv + während: Verb am Ende.|Gastro
+Hätte der Gast vorher angerufen, *hätten* wir ein ruhigeres Zimmer reserviert.|Если бы гость позвонил заранее, мы бы забронировали более тихий номер.|B2|Konjunktiv II Vergangenheit.|Gastro
+Meine Aufgabe *ist* es, die Kunden freundlich zu beraten.|Моя задача — дружелюбно консультировать клиентов.|B1|Hauptsatz + zu-Infinitiv.|Handel
+Wenn ein Kunde etwas umtauschen möchte, *brauche* ich den Kassenbon.|Если клиент хочет что-то обменять, мне нужен чек.|B1|wenn-Satz zuerst → dann sofort das Verb.|Handel
+Die Ware, die heute *kam*, muss noch ausgezeichnet werden.|Товар, который пришёл сегодня, ещё нужно оценить.|B2|Relativsatz + Passiv mit Modalverb.|Handel
+Die Kasse *stimmt* heute auf den Cent genau.|Касса сегодня сходится до цента.|B1|Hauptsatz: Verb auf Platz 2.|Handel
+Ich *habe* den Kunden in die Elektroabteilung geschickt.|Я отправила клиента в отдел электроники.|B1|Perfekt: habe … geschickt.|Handel
+Auf der Baustelle *müssen* alle einen Helm tragen.|На стройке все должны носить каску.|B1|Ort auf Position 1 → Modalverb → Subjekt.|Bau
+Der Maler *streicht* morgen das Treppenhaus.|Маляр завтра красит подъезд.|A2|Subjekt – Verb – Rest.|Bau
+Das Material *wurde* leider zu spät geliefert.|Материал, к сожалению, привезли слишком поздно.|B1|Passiv Präteritum.|Bau
+Die Erzieherin *liest* den Kindern nach dem Mittagessen eine Geschichte vor.|Воспитательница читает детям сказку после обеда.|B1|Trennbares Verb: liest … vor.|Kita
+In der Eingewöhnung *bleibt* ein Elternteil die ersten Tage in der Kita.|В период адаптации один из родителей первые дни остаётся в садике.|B2|Angabe auf Position 1 → Verb → Subjekt.|Kita
+Die Kinder *werden* bis 16:30 Uhr abgeholt.|Детей забирают до 16:30.|B1|Passiv Präsens.|Kita

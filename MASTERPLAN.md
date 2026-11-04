@@ -42,6 +42,34 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ---
 
+## 2a. Meilensteine Inhalts-Ausbau (Auftrag vom 04.11.2026: alles vervierfachen)
+
+Ziel: ≈ 7.000 Wörter · ≈ 3.900 Übungssätze · 72 Schreibaufgaben · ≈ 520 Prüfungsaufgaben (DTB + DTZ).
+Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 Prüfungsaufgaben** und wird nach Abschluss auf main gepusht.
+(Plan am 04.11. nach M5 angepasst: Die Pakete sind kleiner als zuerst gedacht, dafür sind es mehr.)
+
+| # | Meilenstein | Schwerpunkt | Status |
+|---|---|---|---|
+| M1 | Lernsteuerung | 30 neue Wörter/Tag, weniger Wiederholungen (Satz erst nach 40, Wort nach 20 anderen) | ✅ fertig |
+| M2 | Grundkurs-Sätze | 40–90 Sätze pro Stufe, A2 zuerst | ✅ fertig |
+| M3 | Schreibaufgaben | 18 → 72 (A2, B1, B2, DTZ und DTB) | ✅ fertig |
+| M4 | Inhaltspaket 1 | Wörter 1.754 → 3.169 · Sätze 973 → 1.602 · Prüfung 130 → 240 | ✅ fertig |
+| M5 | Inhaltspaket 2: Beruf | Pflege, Lager, Büro, Handel, Gastro, Bau, Kita · Wörter → 3.524 · Sätze → 1.800 · Prüfung → 261 | ✅ fertig |
+| M6 | Inhaltspaket 3 | Alltag A2/B1 · DTZ-Briefe und Lesen | ⏳ als Nächstes |
+| M7 | Inhaltspaket 4 | B2-Wortschatz · Sprachbausteine | offen |
+| M8 | Inhaltspaket 5 | Gesundheit, Behörden · Hören | offen |
+| M9 | Inhaltspaket 6 | Gesellschaft, Medien, Umwelt · Vortrag und Diskussion | offen |
+| M10 | Inhaltspaket 7 | Wohnen, Familie, Freizeit · Lösung finden, Fragen, Forum | offen |
+| M11 | Inhaltspaket 8 | Grammatik-Drill zu allen 12 Themen · DTB-E-Mails und Telefonnotizen | offen |
+| M12 | Inhaltspaket 9 | Verben, Adjektive, Redemittel · gemischte Prüfungsaufgaben | offen |
+| M13 | Inhaltspaket 10 | Wortfamilien, Nomen-Verb-Verbindungen · Sprechen DTZ | offen |
+| M14 | Inhaltspaket 11 | Lücken füllen, bis alle Zielzahlen erreicht sind | offen |
+| M15 | Abschluss | Qualitätscheck (Dubletten, Fehler, Test im Browser), Zahlen prüfen | offen |
+
+**Stand:** 5 von 15 Meilensteinen fertig. Aktuell: 3.524 Wörter · 1.800 Sätze · 72 Schreibaufgaben · 261 Prüfungsaufgaben.
+
+---
+
 ## 3. Die Prüfungen
 
 ### 3.1 Deutsch-Test für den Beruf B2 (DTB) – Hauptziel

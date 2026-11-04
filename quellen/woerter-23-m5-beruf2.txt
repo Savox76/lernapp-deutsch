@@ -1,0 +1,73 @@
+# M5 Beruf 2: Gastronomie, Hotel, Reinigung, Bau, Kita, Kundenkontakt, Bewerbung
+Rezeptionistin|die|Rezeptionistinnen|N|администратор (на ресепшене)|Frau, die am Empfang eines Hotels arbeitet|Die Rezeptionistin gibt mir den Schlüssel.|B1|Gastro
+Hotelgast|der|Hotelgäste|N|гость отеля|Person, die im Hotel wohnt|Der Hotelgast möchte früher abreisen.|B1|Gastro
+Anreise|die|Anreisen|N|прибытие|Ankunft im Hotel|Die Anreise ist ab 15 Uhr möglich.|B1|Gastro
+Abreise|die|Abreisen|N|отъезд|wenn man das Hotel verlässt|Bei der Abreise bezahlen Sie an der Rezeption.|B1|Gastro
+Zimmerservice|der|-|N|обслуживание номеров|Essen oder Hilfe direkt ins Zimmer|Der Zimmerservice bringt das Frühstück.|B1|Gastro
+Frühstücksbuffet|das|-|N|шведский стол на завтрак|Essen zum Selbstnehmen am Morgen|Das Frühstücksbuffet ist von 6:30 bis 10 Uhr geöffnet.|B1|Gastro
+Bettwäsche|die|-|N|постельное бельё|Stoff für Kissen und Decke|Die Bettwäsche wird alle drei Tage gewechselt.|B1|Gastro
+Minibar|die|Minibars|N|мини-бар|kleiner Kühlschrank im Hotelzimmer|Die Getränke aus der Minibar kosten extra.|B1|Gastro
+Spülkraft|die|Spülkräfte|N|посудомойщик|Person, die Geschirr spült|Wir suchen eine Spülkraft für das Wochenende.|B2|Gastro
+Lebensmittelhygiene|die|-|N|гигиена продуктов питания|Sauberkeit beim Umgang mit Essen|In der Küche gelten strenge Regeln zur Lebensmittelhygiene.|B2|Gastro
+Gesundheitszeugnis|das|-|N|санитарная книжка|Bescheinigung, dass man mit Lebensmitteln arbeiten darf|Für die Arbeit in der Küche brauche ich ein Gesundheitszeugnis.|B2|Gastro
+Allergene|die|-|N|аллергены|Stoffe, die Allergien auslösen|Auf der Speisekarte stehen alle Allergene.|B2|Gastro
+Reservierung|die|Reservierungen|N|бронирование|vorher einen Tisch oder ein Zimmer bestellen|Haben Sie eine Reservierung?|B1|Gastro
+Stammgast|der|Stammgäste|N|постоянный клиент|Gast, der oft kommt|Herr Weber ist ein Stammgast.|B1|Gastro
+servieren|-|serviert, servierte, hat serviert|V|подавать (еду)|Essen an den Tisch bringen|Die Kellnerin serviert die Suppe.|B1|Gastro
+abräumen|-|räumt ab, räumte ab, hat abgeräumt|V|убирать со стола|leere Teller wegnehmen|Darf ich abräumen?|B1|Gastro
+decken|-|deckt, deckte, hat gedeckt|V|накрывать (на стол)|Teller und Besteck auf den Tisch stellen|Ich decke den Tisch für sechs Personen.|A2|Gastro
+Reinigungsfirma|die|Reinigungsfirmen|N|клининговая компания|Firma, die putzt|Die Reinigungsfirma kommt jeden Abend.|B1|Reinigung
+Unterhaltsreinigung|die|-|N|регулярная уборка|regelmäßige Reinigung|Wir machen die Unterhaltsreinigung in Büros.|B2|Reinigung
+Grundreinigung|die|-|N|генеральная уборка|sehr gründliche Reinigung|Einmal im Jahr machen wir eine Grundreinigung.|B2|Reinigung
+Fensterreinigung|die|-|N|мойка окон|Putzen der Fenster|Die Fensterreinigung ist im Preis nicht enthalten.|B2|Reinigung
+Objekt|das|Objekte|N|объект (уборки)|Gebäude, das gereinigt wird|Ich bin für drei Objekte zuständig.|B2|Reinigung
+Mikrofasertuch|das|-|N|салфетка из микрофибры|besonderes Putztuch|Mit dem Mikrofasertuch putze ich die Tische.|B2|Reinigung
+Wischmopp|der|Wischmopps|N|швабра|Gerät zum Bodenwischen|Der Wischmopp steht im Putzraum.|B1|Reinigung
+Staubsaugerbeutel|der|-|N|мешок для пылесоса|Beutel im Staubsauger|Der Staubsaugerbeutel ist voll.|B1|Reinigung
+Schutzhandschuhe|die|-|N|защитные перчатки|Handschuhe zum Schutz der Hände|Bei Reinigungsmitteln trage ich Schutzhandschuhe.|B1|Reinigung
+desinfizieren|-|desinfiziert, desinfizierte, hat desinfiziert|V|дезинфицировать|Bakterien entfernen|Die Türklinken werden täglich desinfiziert.|B2|Reinigung
+entsorgen|-|entsorgt, entsorgte, hat entsorgt|V|утилизировать|Müll richtig wegbringen|Altöl muss man richtig entsorgen.|B2|Reinigung
+Baustellenleiter|der|-|N|прораб|Person, die eine Baustelle leitet|Der Baustellenleiter erklärt den Plan.|B2|Bau
+Polier|der|Poliere|N|бригадир на стройке|Vorarbeiter auf dem Bau|Der Polier verteilt die Arbeit.|B2|Bau
+Vorarbeiter|der|Vorarbeiter|N|бригадир|Leiter einer Arbeitsgruppe|Frag den Vorarbeiter, was wir machen sollen.|B2|Bau
+Bauhelm|der|Bauhelme|N|строительная каска|Helm zum Schutz auf der Baustelle|Ohne Bauhelm darf niemand auf die Baustelle.|B1|Bau
+Beton|der|-|N|бетон|hartes Baumaterial|Der Beton muss drei Tage trocknen.|B2|Bau
+Ziegel|der|Ziegel|N|кирпич; черепица|Stein zum Bauen; Dachstein|Das Haus ist aus roten Ziegeln.|B2|Bau
+Fliese|die|Fliesen|N|плитка|Platte für Boden oder Wand|Im Bad sind neue Fliesen.|B1|Bau
+Tapete|die|Tapeten|N|обои|Papier an der Wand|Die Tapete ist alt.|B1|Bau
+Pinsel|der|Pinsel|N|кисть|Werkzeug zum Malen|Wasch bitte den Pinsel aus.|B1|Bau
+Kran|der|Kräne|N|кран (строительный)|Maschine zum Heben schwerer Lasten|Der Kran hebt die Platten.|B2|Bau
+Bagger|der|Bagger|N|экскаватор|Maschine zum Graben|Der Bagger gräbt ein großes Loch.|B1|Bau
+mauern|-|mauert, mauerte, hat gemauert|V|класть кирпич|eine Wand aus Steinen bauen|Er mauert eine Wand.|B2|Bau
+fliesen|-|fliest, fliste, hat gefliest|V|класть плитку|Fliesen anbringen|Das Bad wird nächste Woche gefliest.|B2|Bau
+montieren|-|montiert, montierte, hat montiert|V|монтировать|aufbauen, befestigen|Der Techniker montiert die Lampe.|B2|Bau
+Kita-Gruppe|die|-|N|группа в детском саду|Gruppe von Kindern in der Kita|In meiner Kita-Gruppe sind 15 Kinder.|B1|Kita
+Eingewöhnung|die|-|N|период адаптации|die ersten Wochen eines Kindes in der Kita|Die Eingewöhnung dauert etwa vier Wochen.|B2|Kita
+Elterngespräch|das|-|N|беседа с родителями|Gespräch zwischen Erzieherin und Eltern|Morgen habe ich ein Elterngespräch.|B1|Kita
+Mittagsschlaf|der|-|N|дневной сон|Schlaf nach dem Mittagessen|Die Kleinen machen nach dem Essen Mittagsschlaf.|A2|Kita
+Bastelarbeit|die|-|N|поделка|etwas, das Kinder basteln|Die Kinder haben Laternen gebastelt.|B1|Kita
+Abholzeit|die|-|N|время забирать ребёнка|wann Eltern die Kinder abholen|Die Abholzeit ist bis 16:30 Uhr.|B1|Kita
+Vorschulkind|das|Vorschulkinder|N|ребёнок подготовительной группы|Kind im letzten Kita-Jahr|Die Vorschulkinder besuchen die Grundschule.|B2|Kita
+Sprachförderung|die|-|N|развитие речи|Hilfe beim Lernen der Sprache|In der Kita gibt es Sprachförderung.|B2|Kita
+Kundengespräch|das|-|N|разговор с клиентом|Gespräch mit einem Kunden|Im Kundengespräch bleibe ich immer freundlich.|B1|Kunden
+Kundenzufriedenheit|die|-|N|удовлетворённость клиентов|wie zufrieden die Kunden sind|Die Kundenzufriedenheit ist gestiegen.|B2|Kunden
+Hotline|die|Hotlines|N|горячая линия|Telefonnummer für Kundenfragen|Rufen Sie unsere Hotline an.|B1|Kunden
+Warteschleife|die|-|N|режим ожидания (по телефону)|man wartet am Telefon|Ich war 20 Minuten in der Warteschleife.|B2|Kunden
+Rückrufbitte|die|-|N|просьба перезвонить|Bitte, jemanden zurückzurufen|Ich hinterlasse eine Rückrufbitte.|B2|Kunden
+Kundenbeschwerde|die|-|N|жалоба клиента|Beschwerde von einem Kunden|Jede Kundenbeschwerde wird dokumentiert.|B2|Kunden
+weiterverbinden|-|verbindet weiter, verband weiter, hat weiterverbunden|V|соединить (по телефону)|ein Telefonat an eine andere Person geben|Ich verbinde Sie weiter.|B1|Kunden
+Bewerbungsunterlagen|die|-|N|документы для заявления о работе|Anschreiben, Lebenslauf, Zeugnisse|Bitte senden Sie Ihre Bewerbungsunterlagen per E-Mail.|B1|Bewerbung
+Bewerbungsfoto|das|-|N|фото для резюме|Foto für den Lebenslauf|Ein Bewerbungsfoto ist in Deutschland noch üblich.|B1|Bewerbung
+Arbeitsprobe|die|Arbeitsproben|N|пробная работа|Beispiel der eigenen Arbeit|Bitte schicken Sie eine Arbeitsprobe.|B2|Bewerbung
+Probearbeit|die|-|N|пробный рабочий день|ein Tag Arbeit zum Testen|Morgen habe ich einen Tag Probearbeit.|B1|Bewerbung
+Absage|die|Absagen|N|отказ|negative Antwort|Ich habe leider eine Absage bekommen.|B1|Bewerbung
+Zusage|die|Zusagen|N|согласие, положительный ответ|positive Antwort|Ich habe die Zusage für die Stelle!|B1|Bewerbung
+Gehaltsvorstellung|die|-|N|желаемая зарплата|wie viel Geld man verdienen möchte|Bitte nennen Sie Ihre Gehaltsvorstellung.|B2|Bewerbung
+Eintrittstermin|der|-|N|дата начала работы|wann man die Stelle beginnt|Der frühestmögliche Eintrittstermin ist der 1. Mai.|B2|Bewerbung
+Referenz|die|Referenzen|N|рекомендация|Empfehlung von früheren Arbeitgebern|Können Sie Referenzen angeben?|B2|Bewerbung
+Schwäche|die|Schwächen|N|слабость, слабая сторона|was man nicht so gut kann|Was ist Ihre größte Schwäche?|B1|Bewerbung
+Belastbarkeit|die|-|N|стрессоустойчивость|man hält viel Stress aus|Belastbarkeit ist in der Pflege wichtig.|B2|Bewerbung
+Teamfähigkeit|die|-|N|умение работать в команде|gut mit anderen arbeiten|Wir legen Wert auf Teamfähigkeit.|B2|Bewerbung
+Flexibilität|die|-|N|гибкость|sich schnell anpassen können|Schichtarbeit verlangt Flexibilität.|B2|Bewerbung
+Berufsabschluss|der|-|N|профессиональное образование (диплом)|abgeschlossene Ausbildung|Haben Sie einen Berufsabschluss?|B2|Bewerbung
+Anerkennungsstelle|die|-|N|орган признания дипломов|Behörde für die Anerkennung ausländischer Abschlüsse|Die Anerkennungsstelle prüft mein Diplom.|B2|Bewerbung

@@ -1,0 +1,80 @@
+# M5 Beruf 4: Adjektive, Verben und Nomen für E-Mails, Telefon und Gespräche im Beruf
+Arbeitsbeginn|der|-|N|начало работы|wann die Arbeit anfängt|Arbeitsbeginn ist um 7 Uhr.|B1|Arbeit
+Arbeitsende|das|-|N|конец рабочего дня|wann die Arbeit endet|Nach Arbeitsende gehe ich einkaufen.|B1|Arbeit
+Wochenarbeitszeit|die|-|N|рабочее время в неделю|Stunden pro Woche|Meine Wochenarbeitszeit beträgt 30 Stunden.|B2|Arbeit
+Schichtwechsel|der|-|N|пересменка|wenn eine Schicht endet und die nächste beginnt|Beim Schichtwechsel gibt es eine kurze Übergabe.|B2|Arbeit
+Einsatzplan|der|Einsatzpläne|N|план работ|Plan, wer wo arbeitet|Laut Einsatzplan bin ich heute in Halle 2.|B2|Arbeit
+Aufgabenbereich|der|Aufgabenbereiche|N|круг задач|alle Aufgaben einer Person|Das gehört nicht zu meinem Aufgabenbereich.|B2|Arbeit
+Arbeitsschritt|der|Arbeitsschritte|N|рабочий шаг|ein Teil einer Arbeit|Der erste Arbeitsschritt ist die Kontrolle.|B2|Arbeit
+Anweisung|die|Anweisungen|N|указание|was man tun soll|Bitte folgen Sie den Anweisungen des Personals.|B1|Arbeit
+Arbeitsanweisung|die|-|N|рабочая инструкция|schriftliche Regel für eine Arbeit|Die Arbeitsanweisung hängt an der Maschine.|B2|Arbeit
+Unterweisung|die|Unterweisungen|N|инструктаж|Erklärung von Regeln, z. B. Sicherheit|Die Sicherheitsunterweisung ist einmal im Jahr.|B2|Arbeit
+Ersthelfer|der|Ersthelfer|N|ответственный за первую помощь|Person, die Erste Hilfe leisten kann|Frau Lange ist unsere Ersthelferin.|B2|Arbeit
+Notausgang|der|Notausgänge|N|запасной выход|Ausgang für Notfälle|Der Notausgang muss immer frei sein.|B1|Arbeit
+Feuerlöscher|der|Feuerlöscher|N|огнетушитель|Gerät gegen Feuer|Wo hängt der Feuerlöscher?|B1|Arbeit
+Brandschutz|der|-|N|пожарная безопасность|Schutz vor Feuer|Die Brandschutzübung findet im Mai statt.|B2|Arbeit
+Gefahrstoff|der|Gefahrstoffe|N|опасное вещество|gefährliches chemisches Mittel|Gefahrstoffe müssen gekennzeichnet sein.|B2|Arbeit
+Kennzeichnung|die|-|N|маркировка|Zeichen oder Schild mit Information|Achten Sie auf die Kennzeichnung der Kartons.|B2|Arbeit
+Arbeitsmaterial|das|-|N|рабочий материал|Dinge, die man für die Arbeit braucht|Das Arbeitsmaterial liegt im Schrank.|B1|Arbeit
+Verbrauchsmaterial|das|-|N|расходный материал|Material, das verbraucht wird|Handschuhe sind Verbrauchsmaterial.|B2|Arbeit
+Nachschub|der|-|N|пополнение запасов|neue Ware, die nachkommt|Wir brauchen Nachschub an Kartons.|B2|Arbeit
+Mitarbeiterin|die|Mitarbeiterinnen|N|сотрудница|Frau, die in einer Firma arbeitet|Sie ist eine neue Mitarbeiterin.|A2|Arbeit
+Ansprechpartnerin|die|Ansprechpartnerinnen|N|контактное лицо (женщина)|Person, die man fragen kann|Ihre Ansprechpartnerin ist Frau Koch.|B1|Arbeit
+Stellvertreterin|die|Stellvertreterinnen|N|заместитель (женщина)|Person, die jemanden vertritt|Sie ist die Stellvertreterin der Chefin.|B2|Arbeit
+Teamleiterin|die|Teamleiterinnen|N|руководитель группы (женщина)|Frau, die ein Team leitet|Die Teamleiterin macht den Plan.|B1|Arbeit
+Abteilungsleiter|der|Abteilungsleiter|N|начальник отдела|Leiter einer Abteilung|Der Abteilungsleiter möchte Sie sprechen.|B1|Arbeit
+Vorgesetzter|der|-|N|начальник|Person mit Weisungsrecht|Mein Vorgesetzter ist sehr fair.|B2|Arbeit
+Mitarbeitervertretung|die|-|N|представительство сотрудников|Gremium, das die Mitarbeiter vertritt|Die Mitarbeitervertretung trifft sich jeden Monat.|B2|Arbeit
+Personalgespräch|das|-|N|разговор с отделом кадров/начальником|offizielles Gespräch über die Arbeit|Ich habe morgen ein Personalgespräch.|B2|Arbeit
+Arbeitsvertragsverlängerung|die|-|N|продление трудового договора|wenn der Vertrag länger gilt|Ich warte auf die Arbeitsvertragsverlängerung.|B2|Arbeit
+Stundenkonto|das|-|N|счёт рабочих часов|Konto für Plus- und Minusstunden|Mein Stundenkonto hat 25 Plusstunden.|B2|Arbeit
+Plusstunde|die|Plusstunden|N|переработанный час|Stunde, die man mehr gearbeitet hat|Ich habe noch zehn Plusstunden.|B2|Arbeit
+Minusstunde|die|Minusstunden|N|недоработанный час|Stunde, die man weniger gearbeitet hat|Wegen des Arzttermins habe ich zwei Minusstunden.|B2|Arbeit
+Freizeitausgleich|der|-|N|отгул (компенсация временем)|Freizeit für Überstunden|Ich nehme Freizeitausgleich statt Geld.|B2|Arbeit
+Sonderurlaub|der|-|N|дополнительный отпуск (по особым причинам)|zusätzlicher Urlaub, z. B. für Hochzeit|Für meine Hochzeit bekomme ich einen Tag Sonderurlaub.|B2|Arbeit
+Arbeitsunfähigkeit|die|-|N|нетрудоспособность|man kann wegen Krankheit nicht arbeiten|Die Arbeitsunfähigkeit dauert bis Freitag.|B2|Arbeit
+Wiedereingliederung|die|-|N|постепенное возвращение к работе|langsamer Wiedereinstieg nach langer Krankheit|Nach der Operation mache ich eine Wiedereingliederung.|B2|Arbeit
+Wiedereinstieg|der|-|N|возвращение (на работу)|wieder anfangen zu arbeiten|Nach der Elternzeit plane ich den Wiedereinstieg.|B2|Arbeit
+Kollegenkreis|der|-|N|круг коллег|alle Kollegen|Im Kollegenkreis feiern wir Geburtstage.|B2|Arbeit
+Umgangston|der|-|N|тон общения|wie man miteinander spricht|Der Umgangston im Team ist freundlich.|B2|Arbeit
+Zusammenhalt|der|-|N|сплочённость|man hält zusammen|Der Zusammenhalt im Team ist stark.|B2|Arbeit
+Hilfsbereitschaft|die|-|N|готовность помочь|man hilft gern|Ich schätze die Hilfsbereitschaft meiner Kollegen.|B2|Arbeit
+Konfliktlösung|die|-|N|разрешение конфликтов|wie man einen Streit löst|Für die Konfliktlösung braucht man Geduld.|B2|Arbeit
+Kritikgespräch|das|-|N|разговор с критикой|Gespräch, in dem Kritik geäußert wird|Ein Kritikgespräch sollte unter vier Augen stattfinden.|B2|Arbeit
+unter vier Augen|-|-|R|с глазу на глаз|nur zu zweit, ohne andere|Können wir das unter vier Augen besprechen?|B2|Arbeit
+Arbeitgeberwechsel|der|-|N|смена работодателя|neue Firma|Der Arbeitgeberwechsel war die richtige Entscheidung.|B2|Arbeit
+gewissenhaft|-|gewissenhafter|A|добросовестный|sehr genau und zuverlässig|Sie arbeitet sehr gewissenhaft.|B2|Arbeit
+lernbereit|-|-|A|готовый учиться|möchte gern Neues lernen|Wir suchen lernbereite Mitarbeiter.|B2|Arbeit
+kontaktfreudig|-|kontaktfreudiger|A|общительный|spricht gern mit Menschen|Für den Verkauf muss man kontaktfreudig sein.|B2|Arbeit
+körperlich fit|-|-|R|физически выносливый|gesund und stark|Für die Stelle sollten Sie körperlich fit sein.|B1|Arbeit
+einsatzbereit|-|-|A|готовый к работе|bereit, sofort zu arbeiten|Der neue Stapler ist einsatzbereit.|B2|Arbeit
+berufserfahren|-|-|A|с опытом работы|hat Erfahrung im Beruf|Wir suchen eine berufserfahrene Kollegin.|B2|Arbeit
+ungelernt|-|-|A|без профессионального образования|ohne Ausbildung|Auch ungelernte Kräfte können sich bewerben.|B2|Arbeit
+angelernt|-|-|A|обученный на месте|kurz eingearbeitet, ohne Ausbildung|Sie arbeitet als angelernte Kraft im Lager.|B2|Arbeit
+überlastet|-|-|A|перегруженный|hat zu viel Arbeit|Das Team ist zurzeit völlig überlastet.|B2|Arbeit
+unterbesetzt|-|-|A|недоукомплектованный|es fehlen Mitarbeiter|Heute sind wir unterbesetzt.|B2|Arbeit
+gut besetzt|-|-|R|хорошо укомплектованный|genug Personal|Am Wochenende sind wir gut besetzt.|B2|Arbeit
+krankheitsbedingt|-|-|A|по болезни|wegen Krankheit|Der Termin fällt krankheitsbedingt aus.|B2|Arbeit
+wetterbedingt|-|-|A|из-за погоды|wegen des Wetters|Die Lieferung verzögert sich wetterbedingt.|B2|Arbeit
+voraussichtlich|-|-|Adv|предположительно|wahrscheinlich, nach Plan|Die Ware kommt voraussichtlich am Montag.|B2|Arbeit
+schnellstmöglich|-|-|Adv|как можно скорее|so schnell wie möglich|Wir melden uns schnellstmöglich.|B2|Briefe
+baldmöglichst|-|-|Adv|при первой возможности|so bald wie möglich|Bitte antworten Sie baldmöglichst.|B2|Briefe
+fristgerecht|-|-|A|в установленный срок|innerhalb der Frist|Die Kündigung ist fristgerecht eingegangen.|B2|Briefe
+ordnungsgemäß|-|-|A|надлежащим образом|richtig, wie es sein soll|Die Ware wurde ordnungsgemäß geliefert.|B2|Briefe
+versehentlich|-|-|Adv|по ошибке|aus Versehen|Die Rechnung wurde versehentlich doppelt verschickt.|B2|Briefe
+anbei|-|-|Adv|в приложении|im Anhang, mit diesem Brief|Anbei sende ich Ihnen meinen Lebenslauf.|B2|Briefe
+beiliegend|-|-|A|прилагаемый|im Anhang|Beiliegend finden Sie die Rechnung.|B2|Briefe
+oben genannt|-|-|A|вышеупомянутый|vorher erwähnt|Bezüglich des oben genannten Termins …|B2|Briefe
+nachfolgend|-|-|A|нижеследующий|danach kommend|Nachfolgend finden Sie alle Informationen.|B2|Briefe
+zusenden|-|sendet zu, sandte zu, hat zugesandt|V|высылать|schicken (formell)|Wir senden Ihnen die Unterlagen per Post zu.|B2|Briefe
+übermitteln|-|übermittelt, übermittelte, hat übermittelt|V|передавать (информацию)|Informationen weitergeben|Bitte übermitteln Sie uns die Daten bis Freitag.|B2|Briefe
+beifügen|-|fügt bei, fügte bei, hat beigefügt|V|прилагать|mitschicken|Ich habe die Rechnung beigefügt.|B2|Briefe
+nachreichen|-|reicht nach, reichte nach, hat nachgereicht|V|донести (документы)|später abgeben|Das Zeugnis reiche ich nächste Woche nach.|B2|Briefe
+zurückkommen auf|-|kommt zurück, kam zurück, ist zurückgekommen|V|вернуться к (теме)|ein Thema wieder ansprechen|Ich komme auf Ihr Angebot zurück.|B2|Briefe
+in Verbindung setzen|-|setzt sich in Verbindung|R|связаться|Kontakt aufnehmen|Bitte setzen Sie sich mit uns in Verbindung.|B2|Briefe
+Kontakt aufnehmen|-|nimmt Kontakt auf|R|выйти на связь|sich melden|Ich nehme Kontakt mit dem Lieferanten auf.|B2|Briefe
+eine Frist setzen|-|setzt eine Frist|R|установить срок|sagen, bis wann etwas passieren muss|Wir setzen Ihnen eine Frist bis zum 30. Juni.|B2|Briefe
+Bezug nehmend auf|-|-|R|ссылаясь на|mit Bezug auf|Bezug nehmend auf unser Telefonat sende ich Ihnen …|B2|Briefe
+mit Bedauern|-|-|R|с сожалением|leider (formell)|Mit Bedauern haben wir Ihre Beschwerde gelesen.|B2|Briefe
+mit freundlicher Unterstützung|-|-|R|при поддержке|mit Hilfe von|Mit freundlicher Unterstützung der Stadt …|B2|Briefe
+im Auftrag|-|-|R|по поручению (i. A.)|für eine andere Person unterschreiben|i. A. Olga Iwanowa|B2|Briefe
