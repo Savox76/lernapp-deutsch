@@ -1,0 +1,98 @@
+# Verkehr, Reisen, Bildung, Freizeit A2–B2
+Abfahrtszeit|die|Abfahrtszeiten|N|время отправления|wann ein Zug oder Bus fährt|Die Abfahrtszeit steht auf der Anzeigetafel.|B1|Verkehr
+Anschluss|der|Anschlüsse|N|пересадка, стыковка|nächster Zug zum Umsteigen|Ich habe meinen Anschluss verpasst.|B1|Verkehr
+Bahnsteig|der|Bahnsteige|N|перрон|Platz neben dem Gleis|Der Zug fährt vom Bahnsteig 3 ab.|B1|Verkehr
+Einzelfahrschein|der|Einzelfahrscheine|N|разовый билет|Ticket für eine Fahrt|Ein Einzelfahrschein kostet 3,20 Euro.|B1|Verkehr
+Tageskarte|die|Tageskarten|N|билет на день|Ticket für einen ganzen Tag|Mit der Tageskarte kann man den ganzen Tag fahren.|A2|Verkehr
+Deutschlandticket|das|-|N|Deutschlandticket (проездной по Германии)|Monatsticket für Nahverkehr in ganz Deutschland|Ich habe ein Deutschlandticket.|B1|Verkehr
+Kontrolleur|der|Kontrolleure|N|контролёр|Person, die Tickets kontrolliert|Der Kontrolleur will meine Fahrkarte sehen.|B1|Verkehr
+Schwarzfahren|das|-|N|безбилетный проезд|ohne Ticket fahren|Schwarzfahren kostet 60 Euro.|B1|Verkehr
+Fahrradweg|der|Fahrradwege|N|велодорожка|Weg für Fahrräder|Bitte fahren Sie auf dem Fahrradweg.|A2|Verkehr
+Zebrastreifen|der|Zebrastreifen|N|пешеходный переход («зебра»)|weiße Streifen auf der Straße für Fußgänger|Am Zebrastreifen müssen Autos halten.|B1|Verkehr
+Vorfahrt|die|-|N|право преимущественного проезда|Recht, zuerst zu fahren|Wer hat hier Vorfahrt?|B1|Verkehr
+Geschwindigkeit|die|Geschwindigkeiten|N|скорость|wie schnell man fährt|Die Geschwindigkeit ist hier auf 30 begrenzt.|B1|Verkehr
+Strafzettel|der|Strafzettel|N|штрафная квитанция|Zettel für Falschparken oder zu schnelles Fahren|Ich habe einen Strafzettel bekommen.|B1|Verkehr
+Parkhaus|das|Parkhäuser|N|многоэтажная парковка|Gebäude zum Parken|Wir parken im Parkhaus am Bahnhof.|A2|Verkehr
+Parkschein|der|Parkscheine|N|парковочный талон|Ticket zum Parken|Vergiss nicht, einen Parkschein zu ziehen.|B1|Verkehr
+Führerscheinprüfung|die|-|N|экзамен на права|Prüfung für den Führerschein|Ich habe die Führerscheinprüfung bestanden.|B1|Verkehr
+Reifen|der|Reifen|N|шина|Gummi am Rad|Im Winter braucht man Winterreifen.|B1|Verkehr
+Panne|die|Pannen|N|поломка (в пути)|das Auto bleibt unterwegs stehen|Wir hatten eine Panne auf der Autobahn.|B1|Verkehr
+Ausfahrt|die|Ausfahrten|N|выезд, съезд|Stelle, wo man die Autobahn verlässt|Nehmen Sie die nächste Ausfahrt.|B1|Verkehr
+Navi|das|Navis|N|навигатор|Gerät, das den Weg zeigt|Das Navi sagt, wir sollen links abbiegen.|A2|Verkehr
+Pendler|der|Pendler|N|человек, ездящий на работу из другого города|Person, die jeden Tag weit zur Arbeit fährt|Viele Pendler fahren mit dem Zug nach Dresden.|B2|Verkehr
+Fernbus|der|Fernbusse|N|междугородний автобус|Bus für lange Strecken|Mit dem Fernbus ist die Reise billiger.|B1|Reisen
+Rückfahrt|die|Rückfahrten|N|обратный путь|Fahrt zurück|Die Rückfahrt ist am Sonntag.|A2|Reisen
+Hinfahrt|die|Hinfahrten|N|поездка туда|Fahrt zum Ziel|Die Hinfahrt dauert vier Stunden.|A2|Reisen
+Sitzplatz|der|Sitzplätze|N|сидячее место|Platz zum Sitzen|Ich habe einen Sitzplatz reserviert.|A2|Reisen
+Handgepäck|das|-|N|ручная кладь|kleine Tasche im Flugzeug|Wie viel Handgepäck darf ich mitnehmen?|B1|Reisen
+Bordkarte|die|Bordkarten|N|посадочный талон|Karte zum Einsteigen ins Flugzeug|Bitte zeigen Sie Ihre Bordkarte.|B1|Reisen
+Zoll|der|-|N|таможня|Kontrolle von Waren an der Grenze|Am Zoll mussten wir den Koffer öffnen.|B1|Reisen
+Reiseführer|der|Reiseführer|N|путеводитель; гид|Buch oder Person, die über einen Ort informiert|Der Reiseführer erklärt die Geschichte der Stadt.|B1|Reisen
+Ferienwohnung|die|Ferienwohnungen|N|квартира для отдыха|Wohnung für den Urlaub|Wir mieten eine Ferienwohnung an der Ostsee.|B1|Reisen
+Campingplatz|der|Campingplätze|N|кемпинг|Platz für Zelte und Wohnwagen|Der Campingplatz liegt direkt am See.|B1|Reisen
+Zelt|das|Zelte|N|палатка|kleines Haus aus Stoff zum Schlafen draußen|Wir schlafen im Zelt.|B1|Reisen
+Ausflugsziel|das|Ausflugsziele|N|место для экскурсии|Ort für einen Ausflug|Die Sächsische Schweiz ist ein beliebtes Ausflugsziel.|B1|Reisen
+Altstadt|die|Altstädte|N|старый город|alter Teil einer Stadt|Die Altstadt ist sehr schön.|A2|Reisen
+Stadtführung|die|Stadtführungen|N|экскурсия по городу|Tour durch eine Stadt mit Erklärungen|Die Stadtführung beginnt um 11 Uhr.|B1|Reisen
+Andenken|das|Andenken|N|сувенир|kleines Geschenk als Erinnerung an eine Reise|Ich habe ein Andenken aus Prag mitgebracht.|B1|Reisen
+Schulpflicht|die|-|N|обязательное школьное обучение|Kinder müssen zur Schule gehen|In Deutschland gibt es eine Schulpflicht.|B1|Bildung
+Schuljahr|das|Schuljahre|N|учебный год|Zeit von den Sommerferien bis zu den nächsten|Das neue Schuljahr beginnt im August.|A2|Bildung
+Klassenarbeit|die|Klassenarbeiten|N|контрольная работа|Test in der Schule|Morgen schreiben wir eine Klassenarbeit in Mathe.|B1|Bildung
+Hausaufgabenbetreuung|die|-|N|продлёнка (помощь с домашним заданием)|Hilfe bei Hausaufgaben nach der Schule|Mein Sohn geht in die Hausaufgabenbetreuung.|B2|Bildung
+Hort|der|Horte|N|группа продлённого дня|Betreuung für Schulkinder am Nachmittag|Nach der Schule geht meine Tochter in den Hort.|B1|Bildung
+Elternsprechtag|der|Elternsprechtage|N|день встречи родителей с учителями|Tag für Gespräche zwischen Eltern und Lehrern|Am Elternsprechtag spreche ich mit der Lehrerin.|B1|Bildung
+Klassenfahrt|die|Klassenfahrten|N|поездка класса|Reise mit der Schulklasse|Die Klassenfahrt geht nach Berlin.|B1|Bildung
+Pausenhof|der|Pausenhöfe|N|школьный двор|Platz für die Pause in der Schule|Die Kinder spielen auf dem Pausenhof.|B1|Bildung
+Schulranzen|der|Schulranzen|N|школьный ранец|Rucksack für Schulkinder|Der Schulranzen ist sehr schwer.|A2|Bildung
+Federmäppchen|das|Federmäppchen|N|пенал|kleine Tasche für Stifte|Im Federmäppchen sind Stifte und ein Radiergummi.|B1|Bildung
+Heft|das|Hefte|N|тетрадь|dünnes Buch zum Schreiben|Schreib das bitte in dein Heft.|A2|Bildung
+Bleistift|der|Bleistifte|N|карандаш|Stift zum Schreiben, den man radieren kann|Ich schreibe mit Bleistift.|A2|Bildung
+Kugelschreiber|der|Kugelschreiber|N|ручка (шариковая)|Stift mit Tinte|Haben Sie einen Kugelschreiber für mich?|A2|Bildung
+Radiergummi|der|Radiergummis|N|ластик|damit macht man Bleistift weg|Kann ich deinen Radiergummi haben?|A2|Bildung
+Mathematik|die|-|N|математика|Fach mit Zahlen|Mathematik ist schwer für mich.|A2|Bildung
+Erdkunde|die|-|N|география|Schulfach über Länder und die Erde|In Erdkunde lernen wir über Europa.|B1|Bildung
+Biologie|die|-|N|биология|Fach über Pflanzen und Tiere|Meine Tochter mag Biologie.|B1|Bildung
+Einstufungstest|der|Einstufungstests|N|тест на определение уровня|Test, der zeigt, welches Niveau man hat|Vor dem Kurs macht man einen Einstufungstest.|B1|Bildung
+Lehrwerk|das|Lehrwerke|N|учебник (комплект)|Buch für den Unterricht|Wir arbeiten mit einem neuen Lehrwerk.|B2|Bildung
+Vokabel|die|Vokabeln|N|слово (для заучивания)|Wort, das man lernt|Ich lerne jeden Tag zehn Vokabeln.|A2|Bildung
+Lernerfolg|der|Lernerfolge|N|успех в учёбе|Ergebnis beim Lernen|Regelmäßiges Üben bringt Lernerfolg.|B2|Bildung
+Prüfungsangst|die|-|N|страх перед экзаменом|Angst vor Prüfungen|Gegen Prüfungsangst helfen Atemübungen.|B2|Bildung
+Stipendium|das|Stipendien|N|стипендия|Geld zur Unterstützung beim Studium|Sie hat ein Stipendium bekommen.|B2|Bildung
+Hochschulabschluss|der|-|N|высшее образование (диплом)|Abschluss an einer Universität|Mein Hochschulabschluss wurde anerkannt.|B2|Bildung
+Freizeitbeschäftigung|die|-|N|занятие в свободное время|was man in der Freizeit macht|Lesen ist meine liebste Freizeitbeschäftigung.|B2|Freizeit
+Fitnessstudio|das|Fitnessstudios|N|фитнес-клуб|Ort für Sport an Geräten|Ich gehe zweimal pro Woche ins Fitnessstudio.|A2|Freizeit
+Mannschaft|die|Mannschaften|N|команда|Gruppe im Sport|Unsere Mannschaft hat gewonnen.|B1|Freizeit
+Spiel|das|Spiele|N|игра|etwas, das man zum Spaß macht; Wettkampf|Das Spiel endet 2:1.|A2|Freizeit
+Tor|das|Tore|N|гол; ворота|Punkt im Fußball; großes Tor|Er hat ein Tor geschossen.|A2|Freizeit
+Konzert|das|Konzerte|N|концерт|Musik live|Wir gehen am Samstag ins Konzert.|A2|Freizeit
+Eintrittskarte|die|Eintrittskarten|N|входной билет|Ticket für Kino, Theater usw.|Die Eintrittskarten sind online billiger.|B1|Freizeit
+Sportverein|der|Sportvereine|N|спортивный клуб|Verein für Sport|Mein Sohn ist im Sportverein.|A2|Freizeit
+Kleingarten|der|Kleingärten|N|садовый участок|kleiner Garten außerhalb der Wohnung|Wir haben einen Kleingarten am Stadtrand.|B2|Freizeit
+Flohmarkt|der|Flohmärkte|N|блошиный рынок|Markt für alte, gebrauchte Sachen|Am Sonntag gehen wir auf den Flohmarkt.|B1|Freizeit
+Volksfest|das|Volksfeste|N|народное гулянье|großes Fest mit Karussells|Im Sommer gibt es ein Volksfest.|B1|Feste
+Karussell|das|Karussells|N|карусель|Fahrgeschäft, das sich dreht|Die Kinder fahren Karussell.|B1|Freizeit
+Brettspiel|das|Brettspiele|N|настольная игра|Spiel auf einem Brett|Am Abend spielen wir ein Brettspiel.|B1|Freizeit
+Rätsel|das|Rätsel|N|загадка, головоломка|Aufgabe zum Nachdenken|Opa löst gern Rätsel.|B1|Freizeit
+Roman|der|Romane|N|роман|langes Buch mit einer Geschichte|Ich lese gerade einen spannenden Roman.|B1|Freizeit
+Krimi|der|Krimis|N|детектив|Film oder Buch über ein Verbrechen|Am Sonntag sehen wir einen Krimi.|B1|Freizeit
+Serie|die|Serien|N|сериал|Film mit vielen Folgen|Ich schaue eine deutsche Serie.|A2|Freizeit
+Kochkurs|der|Kochkurse|N|кулинарные курсы|Kurs zum Kochenlernen|Ich mache einen italienischen Kochkurs.|A2|Freizeit
+Ausdauer|die|-|N|выносливость|Kraft für lange Zeit|Joggen trainiert die Ausdauer.|B2|Freizeit
+Wettbewerb|der|Wettbewerbe|N|конкурс, соревнование|Vergleich, wer der Beste ist|Meine Tochter hat beim Malwettbewerb gewonnen.|B1|Freizeit
+Pokal|der|Pokale|N|кубок|Preis für den Sieger|Die Mannschaft hat den Pokal gewonnen.|B1|Freizeit
+Gewinner|der|Gewinner|N|победитель|Person, die gewinnt|Der Gewinner bekommt 100 Euro.|B1|Freizeit
+Verlierer|der|Verlierer|N|проигравший|Person, die verliert|Auch der Verlierer bekommt ein Geschenk.|B1|Freizeit
+einparken|-|parkt ein, parkte ein, hat eingeparkt|V|парковаться|das Auto in eine Parklücke fahren|Ich kann nicht gut einparken.|B1|Verkehr
+ausparken|-|parkt aus, parkte aus, hat ausgeparkt|V|выезжать с парковки|aus der Parklücke fahren|Vorsicht beim Ausparken!|B1|Verkehr
+blitzen|-|blitzt, blitzte, hat geblitzt|V|фотографировать радаром|beim zu schnellen Fahren fotografiert werden|Ich wurde auf der Autobahn geblitzt.|B2|Verkehr
+verunglücken|-|verunglückt, verunglückte, ist verunglückt|V|попасть в аварию|einen Unfall haben|Auf der A4 ist ein Lkw verunglückt.|B2|Verkehr
+stornieren|-|storniert, stornierte, hat storniert|V|отменять (бронь)|eine Buchung rückgängig machen|Ich muss das Hotel stornieren.|B2|Reisen
+sich sonnen|-|sonnt sich, sonnte sich, hat sich gesonnt|V|загорать|in der Sonne liegen|Wir sonnen uns am Strand.|B1|Reisen
+einschulen|-|schult ein, schulte ein, hat eingeschult|V|отдавать в первый класс|ein Kind in die erste Klasse bringen|Unser Sohn wird im August eingeschult.|B2|Bildung
+sitzen bleiben|-|bleibt sitzen, blieb sitzen, ist sitzen geblieben|V|остаться на второй год|eine Klasse wiederholen müssen|Er ist in der 7. Klasse sitzen geblieben.|B1|Bildung
+schwänzen|-|schwänzt, schwänzte, hat geschwänzt|V|прогуливать (уроки)|nicht zur Schule gehen ohne Grund|Er hat die Schule geschwänzt.|B2|Bildung
+auswendig lernen|-|lernt auswendig, lernte auswendig, hat auswendig gelernt|V|учить наизусть|so lernen, dass man es ohne Text weiß|Ich lerne die Redemittel auswendig.|B1|Bildung
+nachfragen|-|fragt nach, fragte nach, hat nachgefragt|V|переспрашивать, уточнять|noch einmal fragen|Wenn du etwas nicht verstehst, frag nach!|B1|Bildung
+mitspielen|-|spielt mit, spielte mit, hat mitgespielt|V|играть вместе|bei einem Spiel mitmachen|Darf ich mitspielen?|A2|Freizeit
+spazieren|-|spaziert, spazierte, ist spaziert|V|гулять|langsam gehen|Wir spazieren am Fluss entlang.|A2|Freizeit
+faulenzen|-|faulenzt, faulenzte, hat gefaulenzt|V|бездельничать|nichts tun, sich ausruhen|Am Sonntag faulenze ich gern.|B1|Freizeit
