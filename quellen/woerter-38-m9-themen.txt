@@ -1,0 +1,161 @@
+# M9 Umwelt, Medien, Politik, Gesellschaft (geprüfte neue Wörter)
+Kreislaufwirtschaft|die|-|N|циркулярная экономика|Materialien werden immer wieder genutzt|Die EU will die Kreislaufwirtschaft stärken.|B2|Umwelt
+Altglascontainer|der|Altglascontainer|N|контейнер для стекла|Behälter für leere Gläser|Bitte werfen Sie nach 20 Uhr kein Glas mehr in den Altglascontainer.|B1|Umwelt
+Wertstoffhof|der|Wertstoffhöfe|N|пункт приёма вторсырья|Ort für Sperrmüll, Elektroschrott usw.|Den alten Kühlschrank bringen wir zum Wertstoffhof.|B2|Umwelt
+Sondermüll|der|-|N|опасные отходы|gefährlicher Abfall (Farben, Chemie)|Farbreste sind Sondermüll.|B2|Umwelt
+Komposthaufen|der|Komposthaufen|N|компостная куча|Haufen für Gartenabfälle|Im Garten haben wir einen Komposthaufen.|B2|Umwelt
+Regenwasser|das|-|N|дождевая вода|Wasser vom Regen|Mit Regenwasser gießen wir die Blumen.|B1|Umwelt
+Grundwasser|das|-|N|грунтовые воды|Wasser unter der Erde|Das Grundwasser sinkt wegen der Trockenheit.|B2|Umwelt
+Trinkwasser|das|-|N|питьевая вода|Wasser, das man trinken kann|In Deutschland kann man Leitungswasser als Trinkwasser nutzen.|B1|Umwelt
+Wasserverbrauch|der|-|N|расход воды|wie viel Wasser man braucht|Duschen statt Baden senkt den Wasserverbrauch.|B2|Umwelt
+Stromverbrauch|der|-|N|расход электроэнергии|wie viel Strom man braucht|Unser Stromverbrauch ist im Winter höher.|B1|Umwelt
+Heizkosten|die|(Pl.)|N|расходы на отопление|Geld für die Heizung|Die Heizkosten sind stark gestiegen.|B1|Wohnen
+Energieausweis|der|Energieausweise|N|энергетический паспорт|Dokument über den Energieverbrauch eines Hauses|Laut Energieausweis ist die Wohnung gut gedämmt.|B2|Wohnen
+Energiesparlampe|die|Energiesparlampen|N|энергосберегающая лампа|Lampe mit wenig Stromverbrauch|Wir haben alle Glühbirnen durch Energiesparlampen ersetzt.|B1|Umwelt
+Tempolimit|das|Tempolimits|N|ограничение скорости|höchste erlaubte Geschwindigkeit|Auf vielen Autobahnen gibt es kein Tempolimit.|B2|Verkehr
+Carsharing|das|-|N|каршеринг|Autos gemeinsam nutzen|Mit Carsharing brauchen wir kein eigenes Auto.|B1|Verkehr
+Fahrgemeinschaft|die|Fahrgemeinschaften|N|совместная поездка|mehrere fahren zusammen in einem Auto|Wir haben eine Fahrgemeinschaft zur Arbeit.|B2|Verkehr
+Lastenrad|das|Lastenräder|N|грузовой велосипед|Fahrrad mit großer Kiste|Mit dem Lastenrad bringt sie die Kinder zur Kita.|B2|Verkehr
+E-Auto|das|E-Autos|N|электромобиль|Auto mit Elektromotor|E-Autos werden immer günstiger.|B1|Verkehr
+Ladesäule|die|Ladesäulen|N|зарядная станция|Station zum Laden von E-Autos|Vor dem Supermarkt gibt es zwei Ladesäulen.|B2|Verkehr
+Verbrennungsmotor|der|Verbrennungsmotoren|N|двигатель внутреннего сгорания|Motor mit Benzin oder Diesel|Ab 2035 sollen keine neuen Autos mit Verbrennungsmotor verkauft werden.|B2|Verkehr
+Verkehrswende|die|-|N|транспортный переход|Wechsel zu umweltfreundlichem Verkehr|Für die Verkehrswende braucht man mehr Busse und Bahnen.|B2|Verkehr
+Lärmbelästigung|die|Lärmbelästigungen|N|шумовое беспокойство|störender Lärm|Die Anwohner beschweren sich über Lärmbelästigung.|B2|Wohnen
+Lichtverschmutzung|die|-|N|световое загрязнение|zu viel künstliches Licht in der Nacht|Wegen der Lichtverschmutzung sieht man kaum Sterne.|B2|Umwelt
+Insektensterben|das|-|N|вымирание насекомых|immer weniger Insekten|Pestizide sind eine Ursache für das Insektensterben.|B2|Umwelt
+Naturschutzgebiet|das|Naturschutzgebiete|N|заповедник|geschütztes Gebiet für Natur|Im Naturschutzgebiet müssen Hunde an die Leine.|B2|Umwelt
+Nationalpark|der|Nationalparks|N|национальный парк|großes Naturschutzgebiet|Der Nationalpark Sächsische Schweiz ist sehr schön.|B1|Umwelt
+Aufforstung|die|Aufforstungen|N|лесовосстановление|neue Bäume pflanzen|Nach dem Sturm begann die Aufforstung.|B2|Umwelt
+Abholzung|die|-|N|вырубка лесов|Bäume werden gefällt|Die Abholzung des Regenwaldes schadet dem Klima.|B2|Umwelt
+Regenwald|der|Regenwälder|N|тропический лес|Wald in warmen, feuchten Regionen|Im Regenwald leben viele Tierarten.|B1|Umwelt
+Gletscher|der|Gletscher|N|ледник|großes Eis in den Bergen|Die Gletscher in den Alpen schmelzen.|B2|Umwelt
+Meeresspiegel|der|-|N|уровень моря|Höhe des Meeres|Der Meeresspiegel steigt jedes Jahr.|B2|Umwelt
+Starkregen|der|-|N|ливень|sehr starker Regen|Nach dem Starkregen waren die Straßen überflutet.|B2|Umwelt
+Sturmflut|die|Sturmfluten|N|штормовой нагон|hohes Wasser an der Küste bei Sturm|Die Sturmflut erreichte Hamburg.|B2|Umwelt
+Klimaabkommen|das|Klimaabkommen|N|климатическое соглашение|Vertrag zwischen Ländern zum Klimaschutz|Das Pariser Klimaabkommen wurde 2015 beschlossen.|B2|Umwelt
+Emission|die|Emissionen|N|выброс|Abgabe von Gasen in die Luft|Die Emissionen sollen bis 2030 sinken.|B2|Umwelt
+Kohlekraftwerk|das|Kohlekraftwerke|N|угольная электростанция|Kraftwerk, das Kohle verbrennt|Das Kohlekraftwerk wird 2030 abgeschaltet.|B2|Umwelt
+Atomkraftwerk|das|Atomkraftwerke|N|атомная электростанция|Kraftwerk mit Kernenergie|Deutschland hat seine Atomkraftwerke abgeschaltet.|B2|Umwelt
+Atomausstieg|der|-|N|отказ от атомной энергии|Ende der Atomkraft|Der Atomausstieg war lange umstritten.|B2|Umwelt
+Fernwärme|die|-|N|центральное теплоснабжение|Heizwärme aus einem zentralen Werk|Unser Haus wird mit Fernwärme geheizt.|B2|Wohnen
+Unverpacktladen|der|Unverpacktläden|N|магазин без упаковки|Geschäft ohne Verpackungen|Im Unverpacktladen bringt man eigene Gläser mit.|B2|Einkaufen
+Secondhand|-|-|Adv|секонд-хенд, подержанный|gebraucht gekauft|Ich kaufe Kinderkleidung oft secondhand.|B1|Einkaufen
+Tauschbörse|die|Tauschbörsen|N|обменный пункт, биржа обмена|Ort, wo man Dinge tauscht|Bei der Tauschbörse habe ich Bücher getauscht.|B2|Freizeit
+Reparaturcafé|das|Reparaturcafés|N|ремонтное кафе|Treffen, wo man Dinge gemeinsam repariert|Im Reparaturcafé hat ein Rentner meinen Toaster repariert.|B2|Umwelt
+Fast Fashion|die|-|N|быстрая мода|billige Mode, die schnell weggeworfen wird|Fast Fashion verursacht viel Müll.|B2|Umwelt
+Konsumverzicht|der|-|N|отказ от потребления|bewusst weniger kaufen|Konsumverzicht schont die Umwelt und den Geldbeutel.|B2|Umwelt
+Massentierhaltung|die|-|N|промышленное животноводство|sehr viele Tiere auf wenig Platz|Viele Menschen kritisieren die Massentierhaltung.|B2|Umwelt
+Tierschutz|der|-|N|защита животных|Schutz von Tieren|Sie engagiert sich für den Tierschutz.|B2|Umwelt
+Vegetarier|der|Vegetarier|N|вегетарианец|isst kein Fleisch|Meine Tochter ist Vegetarierin geworden.|B1|Essen
+Veganer|der|Veganer|N|веган|isst keine tierischen Produkte|Für Veganer gibt es in der Kantine ein eigenes Gericht.|B1|Essen
+Fleischkonsum|der|-|N|потребление мяса|wie viel Fleisch man isst|Der Fleischkonsum in Deutschland sinkt.|B2|Essen
+Bioprodukt|das|Bioprodukte|N|экопродукт|Produkt aus ökologischer Landwirtschaft|Bioprodukte sind teurer, aber gesünder.|B1|Einkaufen
+Gütesiegel|das|Gütesiegel|N|знак качества|Zeichen für gute Qualität|Achten Sie beim Kauf auf das Gütesiegel.|B2|Einkaufen
+Fairtrade|der|-|N|справедливая торговля|fairer Handel mit Bauern|Fairtrade-Kaffee ist etwas teurer.|B2|Einkaufen
+Kinderarbeit|die|-|N|детский труд|Kinder müssen arbeiten|Viele Produkte entstehen durch Kinderarbeit.|B2|Gesellschaft
+Ausbeutung|die|-|N|эксплуатация|Menschen arbeiten unter schlechten Bedingungen für wenig Geld|Das Lieferkettengesetz soll Ausbeutung verhindern.|B2|Gesellschaft
+Globalisierung|die|-|N|глобализация|weltweite Verbindung der Wirtschaft|Die Globalisierung hat Vor- und Nachteile.|B2|Wirtschaft
+Wirtschaftswachstum|das|-|N|экономический рост|die Wirtschaft wird größer|Das Wirtschaftswachstum ist schwach.|B2|Wirtschaft
+Arbeitslosenquote|die|Arbeitslosenquoten|N|уровень безработицы|Anteil der Arbeitslosen|Die Arbeitslosenquote liegt bei sechs Prozent.|B2|Wirtschaft
+Rezession|die|Rezessionen|N|рецессия|die Wirtschaft schrumpft|Experten warnen vor einer Rezession.|B2|Wirtschaft
+Energiekrise|die|Energiekrisen|N|энергетический кризис|Energie wird knapp und teuer|Während der Energiekrise haben viele weniger geheizt.|B2|Wirtschaft
+Preissteigerung|die|Preissteigerungen|N|рост цен|Preise werden höher|Die Preissteigerungen treffen vor allem Familien.|B2|Wirtschaft
+Lohnerhöhung|die|Lohnerhöhungen|N|повышение зарплаты|mehr Lohn|Die Gewerkschaft fordert eine Lohnerhöhung von acht Prozent.|B1|Arbeit
+Sozialstaat|der|-|N|социальное государство|Staat, der Menschen in Not hilft|Der Sozialstaat schützt vor Armut.|B2|Gesellschaft
+Steuergelder|die|(Pl.)|N|налоговые деньги|Geld aus Steuern|Mit Steuergeldern werden Schulen gebaut.|B2|Gesellschaft
+Rundfunk|der|-|N|радиовещание|Radio und Fernsehen|Der öffentlich-rechtliche Rundfunk wird über Beiträge finanziert.|B2|Medien
+Tageszeitung|die|Tageszeitungen|N|ежедневная газета|Zeitung, die jeden Tag erscheint|Mein Nachbar liest jeden Morgen die Tageszeitung.|B1|Medien
+Lokalzeitung|die|Lokalzeitungen|N|местная газета|Zeitung für die Region|In der Lokalzeitung stand ein Artikel über unsere Schule.|B1|Medien
+Wochenzeitung|die|Wochenzeitungen|N|еженедельная газета|Zeitung, die einmal pro Woche erscheint|Die Wochenzeitung kommt immer donnerstags.|B2|Medien
+Leserbrief|der|Leserbriefe|N|письмо читателя|Brief eines Lesers an die Zeitung|Ich habe einen Leserbrief zum Thema Radwege geschrieben.|B2|Medien
+Leitartikel|der|Leitartikel|N|передовица|wichtigster Meinungsartikel|Im Leitartikel kritisiert der Chefredakteur die Regierung.|B2|Medien
+Reportage|die|Reportagen|N|репортаж|ausführlicher Bericht vom Ort|Die Reportage zeigt den Alltag in einem Pflegeheim.|B2|Medien
+Talkshow|die|Talkshows|N|ток-шоу|Sendung mit Gesprächen|In der Talkshow diskutieren Politiker über Rente.|B2|Medien
+Nachrichtensendung|die|Nachrichtensendungen|N|выпуск новостей|Sendung mit Nachrichten|Die Nachrichtensendung beginnt um 20 Uhr.|B1|Medien
+Moderator|der|Moderatoren|N|ведущий|führt durch eine Sendung|Der Moderator begrüßt die Gäste.|B1|Medien
+Journalistin|die|Journalistinnen|N|журналистка|schreibt für Zeitung oder Fernsehen|Die Journalistin hat lange recherchiert.|B1|Medien
+Redaktion|die|Redaktionen|N|редакция|Team, das Texte für die Zeitung macht|Schreiben Sie Ihre Meinung an die Redaktion.|B2|Medien
+Korrespondent|der|Korrespondenten|N|корреспондент|Journalist im Ausland|Unsere Korrespondentin berichtet aus Kiew.|B2|Medien
+Pressekonferenz|die|Pressekonferenzen|N|пресс-конференция|Treffen mit Journalisten|Auf der Pressekonferenz stellte die Ministerin das Gesetz vor.|B2|Medien
+Pressemitteilung|die|Pressemitteilungen|N|пресс-релиз|offizielle Information an die Medien|Laut Pressemitteilung schließt das Werk im Sommer.|B2|Medien
+Livestream|der|Livestreams|N|прямая трансляция|Übertragung live im Internet|Das Konzert gibt es auch als Livestream.|B1|Medien
+Hörbuch|das|Hörbücher|N|аудиокнига|gelesenes Buch zum Hören|Im Auto höre ich gern Hörbücher auf Deutsch.|B1|Medien
+E-Book|das|E-Books|N|электронная книга|Buch in digitaler Form|E-Books kann man in der Bibliothek ausleihen.|B1|Medien
+Videoplattform|die|Videoplattformen|N|видеоплатформа|Webseite für Videos|Auf der Videoplattform gibt es viele Deutschkurse.|B2|Medien
+Follower|der|Follower|N|подписчик|Person, die einem Profil folgt|Sie hat über 10.000 Follower.|B1|Medien
+Kommentarfunktion|die|Kommentarfunktionen|N|функция комментариев|Möglichkeit, Kommentare zu schreiben|Die Zeitung hat die Kommentarfunktion abgeschaltet.|B2|Medien
+Datenleck|das|Datenlecks|N|утечка данных|private Daten werden öffentlich|Nach dem Datenleck sollten alle ihr Passwort ändern.|B2|Medien
+Hackerangriff|der|Hackerangriffe|N|хакерская атака|Angriff auf Computer|Nach einem Hackerangriff war das Krankenhaus offline.|B2|Medien
+Virenschutz|der|-|N|антивирус|Programm gegen Computerviren|Halten Sie Ihren Virenschutz aktuell.|B2|Medien
+Zwei-Faktor-Authentifizierung|die|-|N|двухфакторная аутентификация|Anmeldung mit Passwort und Code|Aktivieren Sie die Zwei-Faktor-Authentifizierung.|B2|Medien
+Cloud|die|Clouds|N|облако (хранилище)|Speicher im Internet|Die Fotos speichere ich in der Cloud.|B1|Medien
+Speicherplatz|der|-|N|место для хранения|Platz für Daten|Mein Handy hat keinen Speicherplatz mehr.|B1|Medien
+Browser|der|Browser|N|браузер|Programm für das Internet|Öffnen Sie den Link in Ihrem Browser.|B1|Medien
+Suchmaschine|die|Suchmaschinen|N|поисковая система|Programm zum Suchen im Internet|Geben Sie das Wort in die Suchmaschine ein.|B1|Medien
+Suchergebnis|das|Suchergebnisse|N|результат поиска|was die Suchmaschine findet|Die ersten Suchergebnisse sind oft Werbung.|B2|Medien
+Chatbot|der|Chatbots|N|чат-бот|Programm, das automatisch antwortet|Der Chatbot der Bank konnte meine Frage nicht beantworten.|B2|Medien
+Sprachassistent|der|Sprachassistenten|N|голосовой помощник|Programm, das auf Sprache reagiert|Der Sprachassistent stellt mir den Wecker.|B2|Medien
+Smartwatch|die|Smartwatches|N|умные часы|Uhr mit Computerfunktionen|Meine Smartwatch zählt die Schritte.|B1|Medien
+Onlinebanking|das|-|N|онлайн-банкинг|Bankgeschäfte im Internet|Überweisungen mache ich per Onlinebanking.|B1|Geld
+Onlineshop|der|Onlineshops|N|интернет-магазин|Geschäft im Internet|Ich habe die Schuhe im Onlineshop bestellt.|A2|Einkaufen
+Paketbote|der|Paketboten|N|курьер|bringt Pakete|Der Paketbote hat das Paket beim Nachbarn abgegeben.|A2|Alltag
+Kundenrezension|die|Kundenrezensionen|N|отзыв покупателя|Bewertung von Kunden im Internet|Ich lese vor dem Kauf immer die Kundenrezensionen.|B2|Einkaufen
+Wahlkampf|der|Wahlkämpfe|N|предвыборная кампания|Zeit vor der Wahl mit Werbung der Parteien|Im Wahlkampf versprechen alle Parteien viel.|B2|Gesellschaft
+Wahlplakat|das|Wahlplakate|N|предвыборный плакат|Plakat einer Partei|Überall hängen Wahlplakate.|B2|Gesellschaft
+Stimmzettel|der|Stimmzettel|N|избирательный бюллетень|Zettel zum Wählen|Auf dem Stimmzettel machen Sie zwei Kreuze.|B2|Gesellschaft
+Wahllokal|das|Wahllokale|N|избирательный участок|Ort, wo man wählt|Das Wahllokal ist in der Grundschule.|B2|Gesellschaft
+Koalition|die|Koalitionen|N|коалиция|Zusammenarbeit von Parteien in der Regierung|Die Koalition hat sich auf einen Haushalt geeinigt.|B2|Gesellschaft
+Bundesrat|der|-|N|бундесрат|Vertretung der Bundesländer|Der Bundesrat muss dem Gesetz zustimmen.|B2|Gesellschaft
+Bürgermeisterin|die|Bürgermeisterinnen|N|мэр (женщина)|Chefin einer Stadt|Die Bürgermeisterin eröffnet das neue Schwimmbad.|B1|Gesellschaft
+Gemeinderat|der|Gemeinderäte|N|муниципальный совет|politisches Gremium einer Gemeinde|Der Gemeinderat entscheidet über den neuen Spielplatz.|B2|Gesellschaft
+Stadtrat|der|Stadträte|N|городской совет|politisches Gremium einer Stadt|Der Stadtrat hat das Parkhaus abgelehnt.|B2|Gesellschaft
+Volksentscheid|der|Volksentscheide|N|референдум|Bürger stimmen direkt über eine Frage ab|In Berlin gab es einen Volksentscheid über Mieten.|B2|Gesellschaft
+Petition|die|Petitionen|N|петиция|Bitte vieler Bürger an die Politik|Über 50.000 Menschen haben die Petition unterschrieben.|B2|Gesellschaft
+Gewaltenteilung|die|-|N|разделение властей|Trennung von Parlament, Regierung und Gerichten|Die Gewaltenteilung schützt vor Machtmissbrauch.|B2|Gesellschaft
+Verfassung|die|Verfassungen|N|конституция|wichtigstes Gesetz eines Staates|Die deutsche Verfassung heißt Grundgesetz.|B2|Gesellschaft
+Asyl|das|-|N|убежище|Schutz für Verfolgte|Die Familie hat in Deutschland Asyl beantragt.|B2|Gesellschaft
+Geflüchtete|die|(Pl.)|N|беженцы|Menschen, die fliehen mussten|Viele Geflüchtete aus der Ukraine arbeiten inzwischen.|B2|Gesellschaft
+Einwanderungsland|das|Einwanderungsländer|N|страна иммиграции|Land, in das viele einwandern|Deutschland ist ein Einwanderungsland.|B2|Gesellschaft
+Herkunftsland|das|Herkunftsländer|N|страна происхождения|Land, aus dem man kommt|In meinem Herkunftsland ist das anders.|B1|Gesellschaft
+Kulturschock|der|Kulturschocks|N|культурный шок|Schock durch eine fremde Kultur|Am Anfang hatte ich einen kleinen Kulturschock.|B2|Gesellschaft
+Willkommenskultur|die|-|N|культура гостеприимства|freundliche Aufnahme von Zuwanderern|Die Firma pflegt eine Willkommenskultur für neue Kollegen.|B2|Gesellschaft
+Mehrgenerationenhaus|das|Mehrgenerationenhäuser|N|дом поколений|Treffpunkt für Jung und Alt|Im Mehrgenerationenhaus gibt es einen Deutschkurs.|B2|Gesellschaft
+Seniorenheim|das|Seniorenheime|N|дом престарелых|Heim für alte Menschen|Ihre Oma lebt im Seniorenheim.|B1|Pflege
+Gleichstellung|die|-|N|равноправие (полов)|gleiche Behandlung von Frauen und Männern|Die Firma hat eine Beauftragte für Gleichstellung.|B2|Gesellschaft
+Frauenquote|die|Frauenquoten|N|квота для женщин|fester Anteil an Frauen|Für Vorstände gibt es eine Frauenquote.|B2|Gesellschaft
+Lohnlücke|die|-|N|разрыв в оплате|Frauen verdienen weniger als Männer|Die Lohnlücke zwischen Männern und Frauen beträgt 18 Prozent.|B2|Gesellschaft
+Alleinerziehende|die|(Pl.)|N|родители-одиночки|Eltern, die allein ein Kind großziehen|Alleinerziehende haben oft wenig Zeit und Geld.|B2|Familie
+Patchworkfamilie|die|Patchworkfamilien|N|смешанная семья|Familie mit Kindern aus früheren Beziehungen|Wir sind eine Patchworkfamilie mit vier Kindern.|B2|Familie
+Ganztagsschule|die|Ganztagsschulen|N|школа полного дня|Schule bis zum Nachmittag|In der Ganztagsschule essen die Kinder mittags zusammen.|B2|Bildung
+Schulabbrecher|der|Schulabbrecher|N|бросивший школу|verlässt die Schule ohne Abschluss|Für Schulabbrecher gibt es Förderprogramme.|B2|Bildung
+Studiengebühren|die|(Pl.)|N|плата за обучение|Geld für das Studium|In Deutschland gibt es kaum Studiengebühren.|B2|Bildung
+BAföG|das|-|N|студенческое пособие|staatliche Hilfe für Studenten|Sie bekommt BAföG für ihr Studium.|B2|Bildung
+Fachhochschule|die|Fachhochschulen|N|высшая профессиональная школа|praxisnahe Hochschule|Er studiert Pflegemanagement an der Fachhochschule.|B2|Bildung
+lebenslanges Lernen|das|-|N|обучение в течение всей жизни|man lernt im ganzen Leben weiter|Lebenslanges Lernen ist heute im Beruf wichtig.|B2|Bildung
+Analphabetismus|der|-|N|неграмотность|nicht lesen und schreiben können|Auch in Deutschland gibt es Analphabetismus.|B2|Bildung
+Leseförderung|die|-|N|поддержка чтения|Hilfe, damit Kinder gut lesen|Die Bibliothek macht Leseförderung für Grundschüler.|B2|Bildung
+Barrierefreiheit|die|-|N|безбарьерность|Zugang ohne Hindernisse für alle|Barrierefreiheit hilft Menschen im Rollstuhl und Eltern mit Kinderwagen.|B2|Gesellschaft
+Inklusion|die|-|N|инклюзия|alle Menschen gehören dazu|In der Schule wird Inklusion großgeschrieben.|B2|Gesellschaft
+Spendenaktion|die|Spendenaktionen|N|благотворительная акция|Aktion, um Geld zu sammeln|Die Schule organisiert eine Spendenaktion für das Tierheim.|B2|Gesellschaft
+Hilfsorganisation|die|Hilfsorganisationen|N|благотворительная организация|Organisation, die Menschen hilft|Das Rote Kreuz ist eine Hilfsorganisation.|B2|Gesellschaft
+Kriminalität|die|-|N|преступность|Straftaten in einer Gesellschaft|Die Kriminalität in der Stadt ist gesunken.|B2|Gesellschaft
+Gewalt|die|-|N|насилие|körperliche Angriffe|Gewalt ist keine Lösung.|B1|Gesellschaft
+Überwachungskamera|die|Überwachungskameras|N|камера видеонаблюдения|Kamera zur Kontrolle|Am Bahnhof hängen viele Überwachungskameras.|B2|Gesellschaft
+Videoüberwachung|die|-|N|видеонаблюдение|Kontrolle mit Kameras|Mehr Videoüberwachung soll für Sicherheit sorgen.|B2|Gesellschaft
+Privatsphäre|die|-|N|частная жизнь|persönlicher, privater Bereich|Jeder hat ein Recht auf Privatsphäre.|B2|Gesellschaft
+Stadtentwicklung|die|-|N|развитие города|Planung, wie die Stadt wächst|Bürger können bei der Stadtentwicklung mitreden.|B2|Gesellschaft
+Sozialwohnung|die|Sozialwohnungen|N|социальное жильё|günstige Wohnung für Menschen mit wenig Geld|Es gibt viel zu wenige Sozialwohnungen.|B2|Wohnen
+Mietpreisbremse|die|-|N|ограничение роста аренды|Regel gegen zu hohe Mieten|Die Mietpreisbremse gilt in vielen Großstädten.|B2|Wohnen
+Leerstand|der|-|N|пустующее жильё|Wohnungen ohne Mieter|Auf dem Land gibt es viel Leerstand.|B2|Wohnen
+Eigenheim|das|Eigenheime|N|собственный дом|eigenes Haus|Viele Familien träumen von einem Eigenheim.|B2|Wohnen
+Infrastruktur|die|-|N|инфраструктура|Straßen, Netze, Schulen usw.|Die Infrastruktur auf dem Land muss besser werden.|B2|Gesellschaft
+Dorfgemeinschaft|die|Dorfgemeinschaften|N|деревенская община|Menschen in einem Dorf|Die Dorfgemeinschaft feiert jedes Jahr ein Fest.|B2|Gesellschaft
+Vereinsleben|das|-|N|жизнь клубов и объединений|Aktivitäten in Vereinen|In Deutschland ist das Vereinsleben sehr wichtig.|B2|Freizeit
+Brauchtum|das|-|N|обычаи|alte Traditionen einer Region|Zum Brauchtum gehört hier der Maibaum.|B2|Gesellschaft
+Gleichgültigkeit|die|-|N|равнодушие|Desinteresse|Gleichgültigkeit gegenüber anderen macht mich traurig.|B2|Gesellschaft
+Zivilcourage|die|-|N|гражданское мужество|Mut, anderen in Gefahr zu helfen|Zivilcourage bedeutet, nicht wegzuschauen.|B2|Gesellschaft
+Solidarität|die|-|N|солидарность|Zusammenhalt und gegenseitige Hilfe|Wir zeigen Solidarität mit den Streikenden.|B2|Gesellschaft
+Nachwuchs|der|-|N|молодое поколение, смена|junge Leute für einen Beruf; Kinder|Das Handwerk sucht dringend Nachwuchs.|B2|Arbeit
+Überalterung|die|-|N|старение населения|zu viele alte, zu wenige junge Menschen|Die Überalterung ist im Osten besonders stark.|B2|Gesellschaft
+Geburtenrate|die|Geburtenraten|N|рождаемость|Zahl der Geburten|Die Geburtenrate in Deutschland ist niedrig.|B2|Gesellschaft
+Lebenserwartung|die|-|N|продолжительность жизни|wie alt Menschen im Durchschnitt werden|Die Lebenserwartung steigt.|B2|Gesellschaft

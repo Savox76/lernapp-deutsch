@@ -1,0 +1,25 @@
+# M9 Gesellschaft, Politik, Zusammenleben
+Gesetzentwurf|der|Gesetzentwürfe|N|законопроект|Vorschlag für ein Gesetz|Der Gesetzentwurf wird diskutiert.|B2|Gesellschaft
+Bürgerinitiative|die|Bürgerinitiativen|N|гражданская инициатива|Bürger kämpfen für ein Ziel|Eine Bürgerinitiative ist gegen die neue Straße.|B2|Gesellschaft
+Demonstration|die|Demonstrationen|N|демонстрация|viele Menschen protestieren auf der Straße|Am Samstag gibt es eine Demonstration für den Klimaschutz.|B1|Gesellschaft
+ehrenamtlich|-|-|A|на общественных началах|ohne Bezahlung|Er hilft ehrenamtlich im Sportverein.|B2|Gesellschaft
+Obdachlosigkeit|die|-|N|бездомность|keine Wohnung haben|Im Winter ist Obdachlosigkeit besonders gefährlich.|B2|Gesellschaft
+Einsamkeit|die|-|N|одиночество|sich allein fühlen|Einsamkeit betrifft viele ältere Menschen.|B2|Gesellschaft
+demografischer Wandel|der|-|N|демографические изменения|die Gesellschaft wird älter|Der demografische Wandel verändert den Arbeitsmarkt.|B2|Gesellschaft
+Migrationshintergrund|der|-|N|миграционное происхождение|Familie kommt aus einem anderen Land|Ein Viertel der Bevölkerung hat einen Migrationshintergrund.|B2|Gesellschaft
+Vielfalt|die|-|N|разнообразие|viele verschiedene Dinge oder Menschen|Kulturelle Vielfalt bereichert die Stadt.|B2|Gesellschaft
+Chancengleichheit|die|-|N|равенство возможностей|alle haben dieselben Chancen|Bildung ist der Schlüssel zur Chancengleichheit.|B2|Gesellschaft
+Gentrifizierung|die|-|N|джентрификация|Viertel wird teuer, Arme ziehen weg|Gentrifizierung verdrängt alte Mieter.|B2|Wohnen
+Landflucht|die|-|N|отток из деревень|Menschen ziehen vom Land in die Stadt|Wegen der Landflucht schließen Dorfläden.|B2|Gesellschaft
+Ballungsraum|der|Ballungsräume|N|агломерация|Gebiet mit vielen Städten und Menschen|Das Ruhrgebiet ist ein großer Ballungsraum.|B2|Gesellschaft
+Bürgerbeteiligung|die|-|N|участие граждан|Bürger reden bei Entscheidungen mit|Bei dem Projekt gibt es eine Bürgerbeteiligung.|B2|Gesellschaft
+Lösungsansatz|der|Lösungsansätze|N|подход к решению|Idee für eine Lösung|Es gibt verschiedene Lösungsansätze.|B2|Gesellschaft
+Befürworter|der|Befürworter|N|сторонник|ist für etwas|Die Befürworter nennen viele Vorteile.|B2|Meinung
+Gegner|der|Gegner|N|противник|ist gegen etwas|Gegner des Projekts sammeln Unterschriften.|B2|Meinung
+befürworten|-|befürwortet, befürwortete, hat befürwortet|V|поддерживать|für etwas sein|Ich befürworte ein Tempolimit.|B2|Meinung
+kritisieren|-|kritisiert, kritisierte, hat kritisiert|V|критиковать|Fehler nennen|Die Opposition kritisiert die Regierung.|B1|Meinung
+sich verdoppeln|-|verdoppelt sich, verdoppelte sich, hat sich verdoppelt|V|удваиваться|doppelt so viel werden|Die Mieten haben sich verdoppelt.|B2|Wirtschaft
+gesellschaftlich|-|-|A|общественный|die Gesellschaft betreffend|Das ist ein gesellschaftliches Problem.|B2|Gesellschaft
+benachteiligt|-|-|A|ущемлённый|hat schlechtere Chancen|Kinder aus armen Familien sind oft benachteiligt.|B2|Gesellschaft
+bedürftig|-|-|A|нуждающийся|braucht Hilfe, hat wenig Geld|Die Tafel hilft bedürftigen Menschen.|B2|Gesellschaft
+ungerecht|-|-|A|несправедливый|nicht fair|Ich finde diese Regel ungerecht.|B1|Gesellschaft

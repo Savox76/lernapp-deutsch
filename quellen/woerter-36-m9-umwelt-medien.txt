@@ -1,0 +1,42 @@
+# M9 Umwelt, Klima, Energie, Medien, Digitales
+Artenvielfalt|die|-|N|биоразнообразие|viele verschiedene Tiere und Pflanzen|Blühwiesen fördern die Artenvielfalt.|B2|Umwelt
+CO2-Ausstoß|der|-|N|выброс CO2|Menge an CO2, die entsteht|Der CO2-Ausstoß im Verkehr ist gestiegen.|B2|Umwelt
+Einwegflasche|die|Einwegflaschen|N|одноразовая бутылка|Flasche nur für einmal|Einwegflaschen sind schlecht für die Umwelt.|B1|Umwelt
+Mehrwegflasche|die|Mehrwegflaschen|N|многоразовая бутылка|Flasche, die wieder gefüllt wird|Ich kaufe Wasser nur in Mehrwegflaschen.|B1|Umwelt
+Energiewende|die|-|N|энергетический переход|Umstieg auf erneuerbare Energie|Die Energiewende kostet viel Geld.|B2|Umwelt
+Windkraftanlage|die|Windkraftanlagen|N|ветряная электростанция|Windrad zur Stromerzeugung|Neben dem Dorf stehen zehn Windkraftanlagen.|B2|Umwelt
+Balkonkraftwerk|das|Balkonkraftwerke|N|балконная солнечная станция|kleine Solaranlage am Balkon|Mit dem Balkonkraftwerk sparen wir Strom.|B2|Umwelt
+Wärmepumpe|die|Wärmepumpen|N|тепловой насос|Heizung, die Wärme aus Luft holt|Das neue Haus hat eine Wärmepumpe.|B2|Umwelt
+Kohleausstieg|der|-|N|отказ от угля|Ende der Stromproduktion aus Kohle|Der Kohleausstieg ist für 2038 geplant.|B2|Umwelt
+Erderwärmung|die|-|N|глобальное потепление|die Erde wird wärmer|Die Erderwärmung führt zu mehr Unwettern.|B2|Umwelt
+Hitzewelle|die|Hitzewellen|N|волна жары|viele sehr heiße Tage|Während der Hitzewelle sollte man viel trinken.|B1|Umwelt
+Hochwasser|das|Hochwasser|N|наводнение|der Fluss tritt über das Ufer|Das Hochwasser hat viele Keller überflutet.|B1|Umwelt
+Unwetter|das|Unwetter|N|непогода, буря|Sturm, Gewitter, Starkregen|Wegen des Unwetters fallen Züge aus.|B1|Umwelt
+Waldbrand|der|Waldbrände|N|лесной пожар|Feuer im Wald|Bei Trockenheit steigt die Gefahr von Waldbränden.|B1|Umwelt
+Feinstaub|der|-|N|мелкодисперсная пыль|sehr kleine Teilchen in der Luft|In Großstädten ist die Feinstaubbelastung hoch.|B2|Umwelt
+Verpackungsmüll|der|-|N|упаковочный мусор|Abfall von Verpackungen|Unverpackt-Läden vermeiden Verpackungsmüll.|B2|Umwelt
+Nachhaltigkeit|die|-|N|устойчивость, экологичность|gut für Umwelt und Zukunft|Viele Firmen werben mit Nachhaltigkeit.|B2|Umwelt
+Ökostrom|der|-|N|зелёная электроэнергия|Strom aus erneuerbaren Quellen|Wir haben zu Ökostrom gewechselt.|B2|Umwelt
+Umweltzone|die|Umweltzonen|N|экологическая зона|Bereich nur für saubere Autos|In die Umweltzone darf man nur mit Plakette.|B2|Verkehr
+Klimaanlage|die|Klimaanlagen|N|кондиционер|Gerät zum Kühlen|Im Büro gibt es keine Klimaanlage.|B1|Wohnen
+Wegwerfgesellschaft|die|-|N|общество потребления|Gesellschaft, die viel wegwirft|Wir leben in einer Wegwerfgesellschaft.|B2|Gesellschaft
+verschmutzen|-|verschmutzt, verschmutzte, hat verschmutzt|V|загрязнять|schmutzig machen|Fabriken verschmutzen den Fluss.|B1|Umwelt
+dämmen|-|dämmt, dämmte, hat gedämmt|V|утеплять|Haus gegen Kälte schützen|Das alte Haus wurde neu gedämmt.|B2|Wohnen
+biologisch abbaubar|-|-|A|биоразлагаемый|zerfällt in der Natur|Die Tüte ist biologisch abbaubar.|B2|Umwelt
+Medienkompetenz|die|-|N|медиаграмотность|richtig mit Medien umgehen können|Schulen sollen Medienkompetenz vermitteln.|B2|Medien
+Fake News|die|(Pl.)|N|фейковые новости|absichtlich falsche Nachrichten|Fake News erkennt man oft an der Quelle.|B2|Medien
+Berichterstattung|die|-|N|освещение (в СМИ)|wie Medien über etwas berichten|Die Berichterstattung war sehr einseitig.|B2|Medien
+Zensur|die|-|N|цензура|Kontrolle und Verbot von Informationen|In manchen Ländern gibt es Zensur.|B2|Medien
+Abonnement|das|Abonnements|N|подписка|regelmäßiger Bezug|Ich habe das Abonnement gekündigt.|B1|Medien
+Bezahlschranke|die|Bezahlschranken|N|платный доступ|man muss für den Artikel bezahlen|Der Artikel ist hinter einer Bezahlschranke.|B2|Medien
+Influencer|der|Influencer|N|инфлюенсер|Person mit vielen Followern|Viele Jugendliche folgen Influencern.|B1|Medien
+Algorithmus|der|Algorithmen|N|алгоритм|Regel, nach der ein Programm entscheidet|Der Algorithmus zeigt mir ähnliche Videos.|B2|Medien
+Cybermobbing|das|-|N|кибербуллинг|jemanden im Internet fertigmachen|Cybermobbing ist an Schulen ein großes Problem.|B2|Medien
+Hasskommentar|der|Hasskommentare|N|комментарий ненависти|böser Kommentar im Internet|Die Plattform löscht Hasskommentare.|B2|Medien
+Betrugsmasche|die|Betrugsmaschen|N|мошенническая схема|Trick von Betrügern|Mit dieser Betrugsmasche wollen sie an Ihr Geld.|B2|Medien
+Phishing|das|-|N|фишинг|falsche Mails, um Daten zu stehlen|Klicken Sie nicht auf Links in Phishing-Mails.|B2|Medien
+Glasfaser|die|-|N|оптоволокно|schnelles Internetkabel|Unser Dorf bekommt endlich Glasfaser.|B2|Medien
+sperren|-|sperrt, sperrte, hat gesperrt|V|блокировать|Zugang verhindern|Die Bank hat meine Karte gesperrt.|B1|Medien
+seriös|-|-|A|серьёзный, надёжный|vertrauenswürdig|Ist diese Webseite seriös?|B2|Medien
+einseitig|-|-|A|односторонний|nur eine Meinung zeigend|Der Bericht ist sehr einseitig.|B2|Medien
+öffentlich-rechtlich|-|-|A|общественно-правовой|vom Staat organisiert, nicht privat|ARD und ZDF sind öffentlich-rechtliche Sender.|B2|Medien
