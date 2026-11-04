@@ -30,7 +30,7 @@ let P = Object.assign({ w: {}, s: {}, newDay: 0, newCount: 0, fehler: {}, seenVe
 let ST = Object.assign({ days: {} }, LS.get("dl-stats", {}));
 let SET = Object.assign({ name: "", niveau: "alle", perDay: 30, goal: 60, leicht: false, rate: 0.9, onboarded: false, auto: true, tapSay: true }, LS.get("dl-set", {}));
 /* einmalig: neue Wörter pro Tag verdoppeln (Wunsch vom 04.11.2026) */
-if (!SET.mig2) { SET.perDay = Math.min(80, (+SET.perDay || 15) * 2); SET.mig2 = true; try { localStorage.setItem("dl-set", JSON.stringify(SET)); } catch (e) {} }
+if (!SET.mig2) { const old = LS.get("dl-set", {}); if (old.perDay) SET.perDay = Math.min(80, +old.perDay * 2); SET.mig2 = true; try { localStorage.setItem("dl-set", JSON.stringify(SET)); } catch (e) {} }
 function saveP() { LS.set("dl-prog", P); }
 function saveST() { LS.set("dl-stats", ST); }
 function saveSET() { LS.set("dl-set", SET); }
