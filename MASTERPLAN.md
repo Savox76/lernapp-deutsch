@@ -2,7 +2,7 @@
 
 Stand: 04.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
 
-**Zuletzt komplett geprüft:** 04.11.2026 nach M17 (Code, Inhalte und Veröffentlichung abgeglichen).
+**Zuletzt komplett geprüft:** 04.11.2026 nach M17 + Lernmodus (Code, Inhalte und Veröffentlichung abgeglichen).
 Zeichen: ✅ eingebaut/fertig · 🟡 teilweise · ⏳ in Arbeit · ⬜ offen · ❓ Entscheidung von Mario nötig
 Claude aktualisiert diesen Plan nach **jedem** Arbeitsschritt selbstständig.
 
@@ -45,7 +45,7 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 | Tagesmix | 20 Aufgaben, jede zweite Satzbau-Aufgabe aus den schwächsten Grammatik-Themen | ✅ |
 | Lernsteuerung | 30 neue Wörter pro Tag (einstellbar 20–80), Satz erst nach 40, Wort nach 20 anderen wieder | ✅ |
 | Statistik | pro Tag Aufgaben, richtig, falsch, Minuten; Serie; Pausentage; Fehleranalyse nach 12 Grammatik-Themen; „Auswertung teilen“ | ✅ |
-| Vorlesen | jedes Wort, jeder Satz, jede Aufgabe, jede Regel (`say()`); lange Texte mit Leiste ⏸ Pause / ▶ Weiter / ⏹ Stopp; automatisches Vorlesen bei neuer Aufgabe standardmäßig aus (in den Einstellungen einschaltbar) | ✅ |
+| Vorlesen | jedes Wort, jeder Satz, jede Aufgabe, jede Regel (`say()`); fester Player oben bei allen längeren Texten und in jeder Prüfungsaufgabe (▶/⏸, Schieberegler zum Springen, ⏮ ⏭ satzweise, Tempo 0,7/0,9/1,1); Lernmodus bei Prüfungsaufgaben (beliebig oft hören, Text zeigen, Satz antippen = ab hier hören, keine Bewertung) neben dem Prüfungsmodus (2× hören, Zeit, Bewertung); automatisches Vorlesen bei neuer Aufgabe standardmäßig aus (in den Einstellungen einschaltbar) | ✅ |
 | Technik | Web-App auf GitHub Pages (wird bei jedem Push automatisch veröffentlicht), Android-App (WebView, Vorlesen), Fortschritt lokal auf dem Handy | ✅ |
 
 ~~Noch offen (Mario): GitHub Pages einschalten~~ → ✅ erledigt, die Veröffentlichung läuft bei jedem Push erfolgreich.

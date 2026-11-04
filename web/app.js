@@ -76,11 +76,12 @@ const HAS_TTS = !!(BR && BR.speak) || ("speechSynthesis" in window && typeof Spe
 let deVoice = null;
 function pickVoice() { try { const v = speechSynthesis.getVoices(); deVoice = v.find(x => /^de(-|_)DE/i.test(x.lang)) || v.find(x => /^de/i.test(x.lang)) || null; } catch (e) { } }
 if (!BR && "speechSynthesis" in window) { pickVoice(); try { speechSynthesis.onvoiceschanged = pickVoice; } catch (e) { } }
-/* Vorlesen mit Pause: Text wird in Sätze geteilt. Bei langen Texten erscheint unten eine Leiste
-   (Pause / Weiter / Stopp). Die Android-App kennt nur speak(); Ende und Position werden dort
-   über die Sprechdauer geschätzt, Stopp = leeres speak() (QUEUE_FLUSH) – keine neue APK nötig. */
-const SAY_LONG = 110;
-let SP = null; // { parts, i, paused, timer, start }
+/* Vorlesen mit Player: Texte werden in Sätze geteilt. Texte mit mehreren Sätzen bekommen oben einen
+   festen Player (▶/⏸, Schieberegler zum Springen, ⏮ ⏭, Tempo). In Prüfungsaufgaben wird der Haupttext
+   schon beim Öffnen in den Player geladen. Die Android-App kennt nur speak(); Ende und Position werden
+   dort über die Sprechdauer geschätzt, Stopp = speak(" ") (QUEUE_FLUSH) – keine neue APK nötig. */
+let SP = null;   // Player: { parts, i, paused, timer, title, hide, ended }
+let SPshort = 0; // kurzer Text läuft gerade (Player wird dabei nur angehalten)
 function splitSay(t) { return (t.match(/[^.!?…:;]+[.!?…:;]*["“”»«)]*\s*/g) || [t]).map(x => x.trim()).filter(Boolean); }
 function brDur(s) { return (s.length / (14 * (SET.rate || 0.9))) * 1000 + 350; }
 function rawSpeak(text, onend) {
@@ -91,39 +92,73 @@ function rawSpeak(text, onend) {
   } catch (e) { }
 }
 function rawStop() { try { if (BR && BR.speak) BR.speak(" ", SET.rate); else speechSynthesis.cancel(); } catch (e) { } }
-function sayStop() { if (SP) { clearTimeout(SP.timer); SP = null; } rawStop(); sayBar(); }
+function spHalt() { if (SP) { clearTimeout(SP.timer); SP.paused = true; } }
 function sayRun() {
   if (!SP || SP.paused) return;
-  const my = SP;
+  const my = SP; my.ended = false; clearTimeout(my.timer);
+  const fin = () => { my.paused = true; my.ended = true; my.i = my.parts.length - 1; playerDraw(); };
   if (BR && BR.speak) {
-    // Android: Rest am Stück sprechen (klingt natürlich), Position über die Zeit mitzählen
-    const rest = my.parts.slice(my.i); rawSpeak(rest.join(" "));
-    const step = () => { if (SP !== my || my.paused) return; my.i++; if (my.i >= my.parts.length) { SP = null; sayBar(); return; } my.timer = setTimeout(step, brDur(my.parts[my.i])); };
+    rawSpeak(my.parts.slice(my.i).join(" "));
+    const step = () => { if (SP !== my || my.paused) return; if (my.i >= my.parts.length - 1) return fin(); my.i++; playerDraw(); my.timer = setTimeout(step, brDur(my.parts[my.i])); };
     my.timer = setTimeout(step, brDur(my.parts[my.i]));
   } else {
-    rawSpeak(my.parts[my.i], () => { if (SP !== my || my.paused) return; my.i++; if (my.i >= my.parts.length) { SP = null; sayBar(); } else sayRun(); });
+    rawSpeak(my.parts[my.i], () => { if (SP !== my || my.paused) return; if (my.i >= my.parts.length - 1) return fin(); my.i++; sayRun(); });
   }
-  sayBar();
+  playerDraw();
 }
-function sayPause() { if (!SP || SP.paused) return; SP.paused = true; clearTimeout(SP.timer); rawStop(); sayBar(); }
-function sayResume() { if (!SP || !SP.paused) return; SP.paused = false; sayRun(); }
-function sayBar() {
+function sayPause() { if (!SP || SP.paused) return; spHalt(); rawStop(); playerDraw(); }
+function sayResume() { if (!SP) return; if (SP.ended) { SP.i = 0; SP.ended = false; } SP.paused = false; sayRun(); }
+function saySeek(i) { if (!SP) return; const was = !SP.paused; clearTimeout(SP.timer); rawStop(); SP.i = Math.max(0, Math.min(SP.parts.length - 1, i)); SP.ended = false; if (was) { SP.paused = false; sayRun(); } else playerDraw(); }
+function sayStop() { if (SP) { clearTimeout(SP.timer); SP = null; } rawStop(); playerDraw(); }
+/* Text in den Player laden (ohne abzuspielen, außer play=true) */
+function playerLoad(text, opt) {
+  opt = opt || {}; text = String(text || "").replace(/\*/g, "").trim(); if (!text) return;
+  if (SP) clearTimeout(SP.timer); rawStop();
+  SP = { parts: splitSay(text), i: 0, paused: true, timer: 0, title: opt.title || "", hide: !!opt.hide, ended: false };
+  if (opt.play) { SP.paused = false; sayRun(); } else playerDraw();
+}
+const RATES = [0.7, 0.9, 1.1];
+function playerDraw() {
   let bar = document.getElementById("sayBar");
-  if (!SP || !SP.long) { if (bar) bar.remove(); return; }
-  if (!bar) { bar = document.createElement("div"); bar.id = "sayBar"; bar.className = "saybar card"; bar.setAttribute("data-nolookup", ""); document.body.appendChild(bar); }
-  bar.innerHTML = `<span class="sb-info">🔊 Satz ${Math.min(SP.i + 1, SP.parts.length)} von ${SP.parts.length}</span>
-    ${SP.paused ? `<button class="btn primary" data-sb="go">▶ Weiter</button>` : `<button class="btn" data-sb="pause">⏸ Pause</button>`}
-    <button class="btn" data-sb="stop">⏹ Stopp</button>`;
+  if (!SP) { if (bar) bar.remove(); document.body.classList.remove("has-player"); return; }
+  if (!bar) { bar = document.createElement("div"); bar.id = "sayBar"; bar.className = "player"; document.body.appendChild(bar); }
+  document.body.classList.add("has-player");
+  const n = SP.parts.length, i = Math.min(SP.i, n - 1), playing = !SP.paused;
+  const cur = SP.parts[i] || "";
+  bar.innerHTML = `<div class="pl-row">
+      <button class="pl-btn" data-sb="prev" aria-label="Satz zurück">⏮</button>
+      <button class="pl-btn main" data-sb="${playing ? "pause" : "go"}" aria-label="${playing ? "Pause" : "Abspielen"}">${playing ? "⏸" : "▶"}</button>
+      <button class="pl-btn" data-sb="next" aria-label="Satz vor">⏭</button>
+      <input type="range" class="pl-range" min="0" max="${Math.max(0, n - 1)}" step="1" value="${i}" aria-label="Position im Text" ${n < 2 ? "disabled" : ""}>
+      <span class="pl-pos">${i + 1}/${n}</span>
+      <button class="pl-btn small" data-sb="rate" aria-label="Tempo">${String(SET.rate).replace(".", ",")}×</button>
+      <button class="pl-btn small" data-sb="close" aria-label="Player schließen">✕</button>
+    </div>
+    ${SP.hide ? `<div class="pl-cur hint small">${SP.title ? esc(SP.title) + " · " : ""}Text erst nach dem Hören sichtbar</div>` : `<div class="pl-cur">${SP.title ? `<b>${esc(SP.title)}:</b> ` : ""}${esc(cur)}</div>`}`;
+  document.querySelectorAll("[data-seek]").forEach(x => x.classList.toggle("on", +x.dataset.seek === i && !SP.ended));
+  const r = bar.querySelector(".pl-range");
+  r.oninput = () => { bar.querySelector(".pl-pos").textContent = (+r.value + 1) + "/" + n; if (!SP.hide) bar.querySelector(".pl-cur").textContent = SP.parts[+r.value]; };
+  r.onchange = () => { const was = !SP.paused; saySeek(+r.value); if (!was) sayResume(); };
 }
 document.addEventListener("click", e => {
-  const b = e.target.closest("[data-sb]"); if (!b) return; e.stopPropagation();
-  const a = b.dataset.sb; if (a === "pause") sayPause(); else if (a === "go") sayResume(); else sayStop();
+  const b = e.target.closest("[data-sb]"); if (!b || !SP) return; e.stopPropagation();
+  const a = b.dataset.sb;
+  if (a === "pause") sayPause(); else if (a === "go") sayResume();
+  else if (a === "prev") { saySeek(SP.i - 1); if (SP.paused) sayResume(); }
+  else if (a === "next") { saySeek(SP.i + 1); if (SP.paused) sayResume(); }
+  else if (a === "rate") { const k = RATES.indexOf(SET.rate); SET.rate = RATES[(k + 1) % RATES.length]; saveSET(); if (!SP.paused) saySeek(SP.i); else playerDraw(); }
+  else if (a === "close") sayStop();
 }, true);
-function say(text) {
+document.addEventListener("click", e => { const sk = e.target.closest("[data-seek]"); if (sk && SP && !String(window.getSelection() || "")) { saySeek(+sk.dataset.seek); if (SP.paused) sayResume(); } });
+/* say(): ein Satz → kurz vorlesen (Player wird nur angehalten); mehrere Sätze → in den Player laden und abspielen.
+   opt.nobar: ohne Player (Prüfungsmodus Hören: nicht springen/wiederholen) */
+function say(text, opt) {
   if (!text) return; text = String(text).replace(/\*/g, "").trim(); if (!text) return;
-  if (SP) { clearTimeout(SP.timer); SP = null; }
-  SP = { parts: splitSay(text), i: 0, paused: false, timer: 0, long: text.length > SAY_LONG };
-  sayRun();
+  opt = opt || {};
+  if (opt.nobar) { if (SP) sayStop(); rawSpeak(text); return; }
+  if (splitSay(text).length < 2 || text.length < 60) { if (SP && !SP.paused) { spHalt(); playerDraw(); } rawSpeak(text); return; }
+  if (SP && SP.parts.join(" ") === splitSay(text).join(" ")) { SP.i = 0; SP.paused = false; sayRun(); return; }
+  playerLoad(text, { play: true, title: opt.title });
 }
 function sayBtn(text, label) { return HAS_TTS ? `<button class="say" data-say="${esc(text)}" aria-label="${esc(label || "Vorlesen")}">🔊</button>` : ""; }
 document.addEventListener("click", e => { const b = e.target.closest("[data-say]"); if (b) { e.stopPropagation(); say(b.dataset.say); } }, true);
@@ -747,7 +782,7 @@ const PLAN = {
 const app = $("#app");
 let view = "home", viewArg = null;
 const PARENT = { kurs: "home", pr: "pruefung", analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "schreiben", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr" };
-function go(v, arg) { if (SP) sayStop(); view = v; viewArg = arg; render(); window.scrollTo(0, 0); }
+function go(v, arg) { if (SP) sayStop(); stopTimer && stopTimer(); view = v; viewArg = arg; render(); window.scrollTo(0, 0); }
 window.appBack = function () { if (PARENT[view]) { go(PARENT[view]); return true; } if (view !== "home") { go("home"); return true; } return false; };
 document.querySelectorAll("#tabs button").forEach(b => b.onclick = () => go(b.dataset.go));
 function head(title, back) { return `<div class="top">${back ? `<button class="back" id="backBtn">${esc(back)}</button>` : ""}</div><h1>${title}</h1>`; }
@@ -1220,7 +1255,8 @@ VIEWS.pruefung = function () {
   app.querySelectorAll("[data-pt]").forEach(b => b.onclick = () => { const t = b.dataset.pt; const x = prNext(t); if (x) go("pr", { typ: t, id: x.id }); });
 };
 VIEWS.pr = function () {
-  stopTimer();
+  stopTimer(); const LERN = !!SET.lern;
+  const prMk = (...x) => { if (!LERN) prMark(...x); }; const plog = (...x) => { if (!LERN) plog(...x); };
   const a = viewArg || {}; const typ = a.typ; const item = prList(typ).find(x => x.id === a.id);
   if (!item) return go("pruefung");
   const T = Object.assign({}, PR_TYPES[typ], { l: prLabel(typ) });
@@ -1231,9 +1267,11 @@ VIEWS.pr = function () {
       <div id="rated" hidden class="panel">${nextBtnHtml}</div></div>`;
   const bindRate = (logType) => app.querySelectorAll("[data-r]").forEach(b => b.onclick = () => {
     if (!$("#rated").hidden) return; const r = +b.dataset.r; b.classList.add(r === 2 ? "right" : r === 0 ? "wrong" : "right");
-    prMark(typ, item.id, r === 2); log(logType, r === 2, null, { pr: typ, pid: item.id, sr: r }); $("#rated").hidden = false; bindNext();
+    prMk(typ, item.id, r === 2); plog(logType, r === 2, null, { pr: typ, pid: item.id, sr: r }); $("#rated").hidden = false; bindNext();
   });
-  const head2 = `${head(esc(item.t), "Prüfung")}<div class="row between"><span class="pill">${esc(T.l)}</span><span class="pill" id="tm">⏱ ${T.min}:00</span></div>`;
+  const head2 = `${head(esc(item.t), "Prüfung")}<div class="seg" id="modeSeg"><button data-mode="lern" aria-pressed="${LERN}">🎓 Lernmodus</button><button data-mode="pr" aria-pressed="${!LERN}">📝 Prüfungsmodus</button></div>
+    ${LERN ? `<p class="hint small">Lernmodus: so oft hören, wie du willst, mit dem Regler oben springen, Text anzeigen, Wörter markieren. Nichts wird bewertet. <span class="ru">Режим учёбы: слушай сколько хочешь, без оценки.</span></p>` : ""}
+    <div class="row between"><span class="pill">${esc(T.l)}</span><span class="pill" id="tm">⏱ ${T.min}:00</span></div>`;
   const timerBtn = `<button class="btn small" id="tStart">⏱ Prüfungszeit starten (${T.min} Min.)</button>`;
   const bindTimer = () => { const b = $("#tStart"); if (b) b.onclick = () => { startTimer($("#tm"), T.min, () => toast("Die Zeit ist um!")); b.hidden = true; }; };
   const rmHtml = rm => rm && rm.length ? `<div><p class="hint small" style="margin-bottom:6px">Hilfreiche Sätze (antippen = anhören):</p><div class="chips">${rm.map(x => `<span data-say="${esc(x)}" style="cursor:pointer">${esc(x)}</span>`).join("")}</div></div>` : "";
@@ -1245,7 +1283,7 @@ VIEWS.pr = function () {
     const n = ($("#tx").value.trim().match(/\S+/g) || []).length;
     if (n < Math.min(20, ziel || 20)) { toast("Schreib zuerst mindestens " + Math.min(20, ziel || 20) + " Wörter."); return false; }
     const cks = [...app.querySelectorAll(".ck")]; const all = cks.every(c => c.checked);
-    stopTimer(); prMark(typ, item.id, all && (!ziel || n >= ziel)); log(logType, all && (!ziel || n >= ziel), null, { pr: typ, pid: item.id, w: n, ck: cks.filter(c => c.checked).length + "/" + cks.length });
+    stopTimer(); prMk(typ, item.id, all && (!ziel || n >= ziel)); plog(logType, all && (!ziel || n >= ziel), null, { pr: typ, pid: item.id, w: n, ck: cks.filter(c => c.checked).length + "/" + cks.length });
     $("#mo").hidden = false; $("#mo").scrollIntoView({ behavior: "smooth", block: "start" }); return true;
   };
 
@@ -1274,8 +1312,8 @@ VIEWS.pr = function () {
       const ch = box.querySelector(".choices"); let done = false;
       f.o.forEach((o, oi) => { const b = document.createElement("button"); b.className = "choice"; b.textContent = o; b.onclick = () => {
         if (done) return; done = true; const ok = oi === f.r; n++; if (ok) r++; b.classList.add(ok ? "right" : "wrong"); if (!ok) ch.children[f.r].classList.add("right");
-        log("lesen_pr", ok, null, { pr: typ, pid: item.id });
-        if (n === item.fragen.length) { prMark(typ, item.id, r === n); $("#nx").hidden = false; bindNext(); toast(r + " von " + n + " richtig"); }
+        plog("lesen_pr", ok, null, { pr: typ, pid: item.id });
+        if (n === item.fragen.length) { prMk(typ, item.id, r === n); $("#nx").hidden = false; bindNext(); toast(r + " von " + n + " richtig"); }
       }; ch.appendChild(b); });
       lq.appendChild(box);
     });
@@ -1299,7 +1337,7 @@ VIEWS.pr = function () {
       const ch = box.querySelector(".choices"); let done = false;
       f.o.forEach((o, oi) => { const b = document.createElement("button"); b.className = "choice"; b.textContent = o; b.onclick = () => {
         if (done) return; done = true; const ok = oi === f.r; b.classList.add(ok ? "right" : "wrong"); if (!ok) ch.children[f.r].classList.add("right");
-        log("mailfragen", ok, null, { pr: typ, pid: item.id }); answered++; if (answered === item.fragen.length) { $("#wr").hidden = false; bindTimer(); }
+        plog("mailfragen", ok, null, { pr: typ, pid: item.id }); answered++; if (answered === item.fragen.length) { $("#wr").hidden = false; bindTimer(); }
       }; ch.appendChild(b); });
       qs.appendChild(box);
     });
@@ -1319,13 +1357,13 @@ VIEWS.pr = function () {
       <div id="mo" hidden class="card"><div class="row between"><h3>Der Anruf zum Nachlesen</h3>${sayBtn(item.audio)}</div><div class="model">${esc(item.audio)}</div>${item.m ? `<h3>Musternotiz</h3><div class="model">${esc(item.m)}</div>` : ""}</div>
       <div id="nx" hidden>${nextBtnHtml}</div>`;
     let plays = 2;
-    $("#play1").onclick = () => { if (plays <= 0) { toast("In der Prüfung hörst du den Anruf nur zweimal."); return; } plays--; say(item.audio); $("#plays").textContent = plays ? "noch 1× anhören" : "nicht mehr anhören"; if (!prTimer) { startTimer($("#tm"), T.min); const tb = $("#tStart"); if (tb) tb.hidden = true; } };
+    $("#play1").onclick = () => { if (LERN) { sayResume(); return; } if (plays <= 0) { toast("In der Prüfung hörst du den Anruf nur zweimal."); return; } plays--; say(item.audio, { nobar: true }); $("#plays").textContent = plays ? "noch 1× anhören" : "nicht mehr anhören"; if (!prTimer) { startTimer($("#tm"), T.min); const tb = $("#tStart"); if (tb) tb.hidden = true; } };
     bindTimer();
     const norm = s => s.toLowerCase().replace(/[.,:;!?\-\/()]/g, " ").replace(/\s+/g, " ").trim();
     $("#chkN").onclick = () => {
       stopTimer(); let r = 0;
       const out = item.felder.map((f, i) => { const v = norm(app.querySelector(`.nf[data-i="${i}"]`).value); const ok = f.a.some(a => v.includes(norm(a))); if (ok) r++; return `<div>${ok ? "✓" : "✗"} <b>${esc(f.l)}:</b> ${ok ? "richtig" : "richtig wäre: " + esc(f.a[0])}</div>`; });
-      const ok = r === item.felder.length; prMark(typ, item.id, ok); log("notiz", ok, null, { pr: typ, pid: item.id, sc: r + "/" + item.felder.length });
+      const ok = r === item.felder.length; prMk(typ, item.id, ok); plog("notiz", ok, null, { pr: typ, pid: item.id, sc: r + "/" + item.felder.length });
       $("#nres").hidden = false; $("#nres").innerHTML = `<div class="feedback ${ok ? "ok" : "bad"}" style="text-align:left">${r} von ${item.felder.length} Angaben richtig</div>${out.join("")}`;
       $("#mo").hidden = false; $("#nx").hidden = false; bindNext(); $("#chkN").disabled = true;
     };
@@ -1359,8 +1397,8 @@ VIEWS.pr = function () {
       g.o.forEach((o, oi) => { const b = document.createElement("button"); b.className = "choice"; b.style.fontSize = "16px"; b.textContent = o; b.onclick = () => {
         if (done) return; done = true; const ok = oi === g.r; n++; if (ok) r++; b.classList.add(ok ? "right" : "wrong"); if (!ok) ch.children[g.r].classList.add("right");
         const gap = $("#g" + (gi + 1)); gap.textContent = " " + g.o[g.r] + " "; gap.style.color = ok ? "var(--ok)" : "var(--bad)";
-        log("sb", ok, null, { pr: typ, pid: item.id, kat: g.k || "", a: o, c: g.o[g.r] });
-        if (n === item.gaps.length) { const all = r === n; prMark(typ, item.id, r >= n - 1); $("#sbr").hidden = false; $("#sbr").innerHTML = `<div class="feedback ${all ? "ok" : "bad"}">${r} von ${n} richtig</div>${item.gaps.filter(x => x.e).map((x, i) => `<div class="rule"><b>${esc(x.o[x.r])}</b>: ${esc(x.e)}</div>`).join("")}${sayBtn(item.text.replace(/\{\{(\d+)\}\}/g, (m, k) => item.gaps[k - 1].o[item.gaps[k - 1].r]), "Ganzen Text vorlesen")}`; $("#nx").hidden = false; bindNext(); }
+        plog("sb", ok, null, { pr: typ, pid: item.id, kat: g.k || "", a: o, c: g.o[g.r] });
+        if (n === item.gaps.length) { const all = r === n; prMk(typ, item.id, r >= n - 1); $("#sbr").hidden = false; $("#sbr").innerHTML = `<div class="feedback ${all ? "ok" : "bad"}">${r} von ${n} richtig</div>${item.gaps.filter(x => x.e).map((x, i) => `<div class="rule"><b>${esc(x.o[x.r])}</b>: ${esc(x.e)}</div>`).join("")}${sayBtn(item.text.replace(/\{\{(\d+)\}\}/g, (m, k) => item.gaps[k - 1].o[item.gaps[k - 1].r]), "Ganzen Text vorlesen")}`; $("#nx").hidden = false; bindNext(); }
       }; ch.appendChild(b); });
       box.appendChild(ch); sbq.appendChild(box);
     });
@@ -1404,7 +1442,7 @@ VIEWS.pr = function () {
       s.o.forEach((o, oi) => { const b = document.createElement("button"); b.className = "choice"; b.textContent = o; b.onclick = () => {
         if (done) return; done = true; const ok = oi === s.r; if (ok) right++; b.classList.add(ok ? "right" : "wrong"); if (!ok) ch.children[s.r].classList.add("right");
         say(s.o[s.r]); if (s.e) box.querySelector(".res").innerHTML = `<div class="rule">${esc(s.e)}</div>`;
-        log(typ === "loesung" ? "loesung_wahl" : "diskussion_wahl", ok, null, { pr: typ, pid: item.id });
+        plog(typ === "loesung" ? "loesung_wahl" : "diskussion_wahl", ok, null, { pr: typ, pid: item.id });
         i++; setTimeout(() => { if (i < steps.length) drawS(); else { $("#mo").hidden = false; $("#sr").hidden = false; bindRate("sprechen"); toast(right + " von " + steps.length + " Reaktionen passend"); } }, 900);
       }; ch.appendChild(b); });
     };
@@ -1416,7 +1454,7 @@ VIEWS.pr = function () {
         <p>${esc(item.situation || "")}</p><button class="btn big" id="play1">🔊 Anhören</button><p class="hint small" id="plays">noch 2× anhören</p></div>
       <div class="card" id="hq"></div>
       <div id="mo" hidden class="card"><div class="row between"><h3>Text zum Nachlesen</h3>${sayBtn(item.text)}</div><div class="model">${esc(item.text)}</div></div><div id="nx" hidden>${nextBtnHtml}</div>`;
-    let plays = 2; $("#play1").onclick = () => { if (plays <= 0) { toast("Nur zweimal anhören – wie in der Prüfung."); return; } plays--; say(item.text); $("#plays").textContent = plays ? "noch 1× anhören" : "nicht mehr anhören"; };
+    let plays = 2; $("#play1").onclick = () => { if (LERN) { sayResume(); return; } if (plays <= 0) { toast("Nur zweimal anhören – wie in der Prüfung."); return; } plays--; say(item.text, { nobar: true }); $("#plays").textContent = plays ? "noch 1× anhören" : "nicht mehr anhören"; };
     const hq = $("#hq"); let n = 0, r = 0;
     item.fragen.forEach((f, qi) => {
       const box = document.createElement("div"); box.className = "panel"; box.style.gap = "8px";
@@ -1425,12 +1463,37 @@ VIEWS.pr = function () {
       const ch = box.querySelector(".choices"); let done = false;
       opts.forEach((o, oi) => { const b = document.createElement("button"); b.className = "choice"; b.textContent = o; b.onclick = () => {
         if (done) return; done = true; const ok = oi === rr; n++; if (ok) r++; b.classList.add(ok ? "right" : "wrong"); if (!ok) ch.children[rr].classList.add("right");
-        log("hoeren_beruf", ok, null, { pr: typ, pid: item.id });
-        if (n === item.fragen.length) { prMark(typ, item.id, r === n); $("#mo").hidden = false; $("#nx").hidden = false; bindNext(); toast(r + " von " + n + " richtig"); }
+        plog("hoeren_beruf", ok, null, { pr: typ, pid: item.id });
+        if (n === item.fragen.length) { prMk(typ, item.id, r === n); $("#mo").hidden = false; $("#nx").hidden = false; bindNext(); toast(r + " von " + n + " richtig"); }
       }; ch.appendChild(b); });
       hq.appendChild(box);
     });
   }
+  app.querySelectorAll("#modeSeg button").forEach(b => b.onclick = () => { SET.lern = b.dataset.mode === "lern"; saveSET(); if (SP) sayStop(); render(); });
+  /* Haupttext oben in den Player laden */
+  const listen = typ === "hoeren" || typ === "notiz";
+  const main = typ === "brief" ? item.situation + " " + item.punkte.join(". ")
+    : typ === "lesen" ? item.texte.map(x => (x.k ? x.k + ": " : "") + x.text).join(" ")
+    : typ === "mail" ? "E-Mail von " + item.von + ". Betreff: " + item.betreff + ". " + item.text
+    : typ === "forum" ? item.frage + " " + item.beitraege.map(b => b.name + " schreibt: " + b.text).join(" ")
+    : typ === "sb" ? item.text.replace(/\{\{\d+\}\}/g, " … ")
+    : typ === "vortrag" ? (item.thema || item.t) + ". " + item.stichpunkte.join(". ")
+    : (typ === "diskussion" || typ === "loesung") ? item.situation
+    : typ === "hoeren" ? item.text : typ === "notiz" ? item.audio : "";
+  if (main && (!listen || LERN)) playerLoad(main, { title: listen ? "Hörtext" : "Aufgabe", hide: listen });
+  if (LERN && listen) {
+    const mo = $("#mo"); const src = typ === "hoeren" ? item.text : item.audio;
+    const pb = $("#plays"); if (pb) pb.innerHTML = `Beliebig oft – oben mit dem Regler springen. <button class="btn small" id="showTx">📄 Text zeigen</button>`;
+    const showTx = () => {
+      if (SP) { SP.hide = false; playerDraw(); }
+      mo.hidden = false; const box = mo.querySelector(".model");
+      box.innerHTML = splitSay(src).map((x, k) => `<span class="seek" data-seek="${k}">${esc(x)}</span>`).join(" ");
+      mo.querySelector("h3").textContent = "Text (Satz antippen = ab hier hören)";
+    };
+    const st = $("#showTx"); if (st) st.onclick = showTx;
+  }
+  if (LERN) { const tb = $("#tStart"); if (tb) tb.hidden = true; }
+
 };
 
 /* --- Mehr --- */
