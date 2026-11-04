@@ -1,0 +1,185 @@
+# Adjektive und Adverbien A2–B2
+breit|-|breiter, am breitesten|A|широкий|nicht schmal|Die Straße ist breit.|A2|Alltag
+schmal|-|schmaler, am schmalsten|A|узкий|nicht breit|Der Weg ist schmal.|B1|Alltag
+rund|-|runder, am rundesten|A|круглый|wie ein Kreis|Wir haben einen runden Tisch.|A2|Alltag
+eckig|-|-|A|угловатый, квадратный|mit Ecken|Das Fenster ist eckig.|B1|Alltag
+weiß|-|-|A|белый|Farbe wie Schnee|Die Wand ist weiß.|A2|Farben
+schwarz|-|-|A|чёрный|Farbe der Nacht|Ich trinke den Kaffee schwarz.|A2|Farben
+rot|-|-|A|красный|Farbe wie Blut|Die Ampel ist rot.|A2|Farben
+blau|-|-|A|синий, голубой|Farbe des Himmels|Sie hat blaue Augen.|A2|Farben
+grün|-|-|A|зелёный|Farbe von Gras|Die Ampel ist grün.|A2|Farben
+gelb|-|-|A|жёлтый|Farbe der Sonne|Die Zitrone ist gelb.|A2|Farben
+grau|-|-|A|серый|zwischen schwarz und weiß|Der Himmel ist grau.|A2|Farben
+braun|-|-|A|коричневый|Farbe von Schokolade|Er hat braune Haare.|A2|Farben
+rosa|-|-|A|розовый|helles Rot|Das Kleid ist rosa.|A2|Farben
+lila|-|-|A|фиолетовый|Mischung aus Rot und Blau|Sie mag lila Blumen.|A2|Farben
+bunt|-|bunter, am buntesten|A|разноцветный|mit vielen Farben|Die Kinder malen bunte Bilder.|A2|Farben
+dunkelblau|-|-|A|тёмно-синий|dunkles Blau|Er trägt einen dunkelblauen Anzug.|B1|Farben
+hellgrün|-|-|A|светло-зелёный|helles Grün|Die Wand ist hellgrün.|B1|Farben
+bitter|-|bitterer, am bittersten|A|горький|unangenehmer, starker Geschmack|Der Kaffee ist sehr bitter.|B1|Ernährung
+fett|-|fetter, am fettesten|A|жирный|mit viel Fett|Das Essen ist zu fett.|B1|Ernährung
+roh|-|-|A|сырой|nicht gekocht|Man soll kein rohes Fleisch essen.|B1|Ernährung
+reif|-|reifer, am reifsten|A|спелый|fertig zum Essen (Obst)|Die Bananen sind reif.|B1|Ernährung
+verdorben|-|-|A|испорченный|nicht mehr essbar|Die Milch ist verdorben.|B2|Ernährung
+haltbar|-|haltbarer|A|долго хранящийся|bleibt lange gut|Die Milch ist bis Mai haltbar.|B1|Ernährung
+windig|-|windiger|A|ветреный|mit viel Wind|Heute ist es sehr windig.|A2|Wetter
+regnerisch|-|regnerischer|A|дождливый|mit viel Regen|Der Herbst ist oft regnerisch.|B1|Wetter
+mild|-|milder|A|мягкий (о погоде)|nicht zu kalt, nicht zu warm|Der Winter war mild.|B1|Wetter
+schwül|-|schwüler|A|душный|heiß und feucht|Heute ist es schwül, es gibt bestimmt Gewitter.|B1|Wetter
+eisig|-|-|A|ледяной|sehr kalt|Draußen weht ein eisiger Wind.|B2|Wetter
+wach|-|wacher|A|бодрствующий|nicht schlafend|Bist du schon wach?|A2|Alltag
+verletzt|-|-|A|раненый, травмированный|mit einer Verletzung|Bei dem Unfall wurde niemand verletzt.|B1|Gesundheit
+schwindlig|-|-|A|с головокружением|wenn sich alles dreht|Mir ist schwindlig.|B1|Gesundheit
+übel|-|-|A|плохо (тошнит)|man möchte sich übergeben|Mir ist übel.|B1|Gesundheit
+erkältet|-|-|A|простуженный|mit Schnupfen und Husten|Ich bin erkältet.|A2|Gesundheit
+geschwollen|-|-|A|опухший|dicker als normal (nach Verletzung)|Mein Knöchel ist geschwollen.|B2|Gesundheit
+chronisch|-|-|A|хронический|lange oder immer wieder (Krankheit)|Er hat chronische Rückenschmerzen.|B2|Gesundheit
+blind|-|-|A|слепой|kann nicht sehen|Der Mann ist blind.|B1|Gesundheit
+taub|-|-|A|глухой|kann nicht hören|Mein Opa ist fast taub.|B1|Gesundheit
+blass|-|blasser|A|бледный|mit weißem Gesicht|Du bist so blass, geht es dir gut?|B1|Gesundheit
+aufgeregt|-|aufgeregter|A|взволнованный|nervös, weil etwas Wichtiges kommt|Vor der Prüfung bin ich sehr aufgeregt.|B1|Gefühle
+eifersüchtig|-|eifersüchtiger|A|ревнивый|hat Angst, jemanden zu verlieren|Er ist eifersüchtig auf ihren Kollegen.|B1|Gefühle
+dankbar|-|dankbarer|A|благодарный|möchte Danke sagen|Ich bin dir sehr dankbar.|B1|Gefühle
+unzufrieden|-|unzufriedener|A|недовольный|nicht zufrieden|Viele Kunden sind unzufrieden.|B1|Gefühle
+verzweifelt|-|verzweifelter|A|отчаявшийся|ohne Hoffnung|Sie war verzweifelt, weil sie keine Wohnung fand.|B2|Gefühle
+erleichtert|-|-|A|с облегчением|froh, dass etwas Schlimmes vorbei ist|Ich bin erleichtert, dass alles gut gegangen ist.|B2|Gefühle
+begeistert|-|begeisterter|A|восхищённый|sehr froh über etwas|Die Kinder sind von dem Zoo begeistert.|B1|Gefühle
+beleidigt|-|-|A|обиженный|fühlt sich schlecht behandelt|Warum bist du beleidigt?|B1|Gefühle
+gelangweilt|-|-|A|скучающий|hat Langeweile|Die Schüler sehen gelangweilt aus.|B1|Gefühle
+überfordert|-|-|A|перегруженный|hat zu viel Arbeit oder Stress|Mit drei Kindern und Job bin ich oft überfordert.|B2|Gefühle
+motiviert|-|motivierter|A|мотивированный|hat Lust, etwas zu tun|Die neuen Kollegen sind sehr motiviert.|B2|Arbeit
+erschöpft|-|-|A|измотанный|sehr müde, ohne Kraft|Nach der Nachtschicht bin ich erschöpft.|B2|Gesundheit
+großzügig|-|großzügiger|A|щедрый|gibt gern|Unser Chef ist großzügig.|B1|Charakter
+geizig|-|geiziger|A|жадный, скупой|gibt nicht gern Geld aus|Sei nicht so geizig!|B1|Charakter
+egoistisch|-|egoistischer|A|эгоистичный|denkt nur an sich|Das finde ich egoistisch.|B1|Charakter
+selbstbewusst|-|selbstbewusster|A|уверенный в себе|vertraut auf sich selbst|Sie tritt sehr selbstbewusst auf.|B2|Charakter
+zurückhaltend|-|zurückhaltender|A|сдержанный|spricht wenig, ist ruhig|Er ist eher zurückhaltend.|B2|Charakter
+humorvoll|-|humorvoller|A|с чувством юмора|hat Humor|Mein Lehrer ist sehr humorvoll.|B1|Charakter
+ungeduldig|-|ungeduldiger|A|нетерпеливый|kann nicht warten|Sei nicht so ungeduldig!|B1|Charakter
+kompetent|-|kompetenter|A|компетентный|kann seine Arbeit gut|Die Beraterin war sehr kompetent.|B2|Arbeit
+belastbar|-|belastbarer|A|стрессоустойчивый|kann viel Stress aushalten|Wir suchen belastbare Mitarbeiter.|B2|Arbeit
+teamfähig|-|teamfähiger|A|умеющий работать в команде|kann gut mit anderen arbeiten|Sie ist teamfähig und flexibel.|B2|Arbeit
+qualifiziert|-|qualifizierter|A|квалифицированный|hat die richtige Ausbildung|Es fehlen qualifizierte Fachkräfte.|B2|Arbeit
+unbefristet|-|-|A|бессрочный|ohne Ende|Ich habe einen unbefristeten Vertrag.|B2|Arbeit
+beschäftigt|-|-|A|занятый; трудоустроенный|hat viel zu tun; angestellt|Sie ist bei einer Bank beschäftigt.|B2|Arbeit
+körperlich|-|-|A|физический|den Körper betreffend|Die Arbeit ist körperlich schwer.|B2|Arbeit
+geistig|-|-|A|умственный|den Kopf, das Denken betreffend|Das ist geistig anstrengend.|B2|Arbeit
+beruflich|-|-|A|профессиональный, по работе|den Beruf betreffend|Ich bin beruflich oft unterwegs.|B1|Arbeit
+offiziell|-|-|A|официальный|von einer Behörde bestätigt|Ich brauche eine offizielle Bestätigung.|B1|Behörden
+ungültig|-|-|A|недействительный|nicht mehr gültig|Das Ticket ist ungültig.|B1|Behörden
+zulässig|-|-|A|допустимый|erlaubt|Das ist rechtlich nicht zulässig.|B2|Behörden
+verpflichtend|-|-|A|обязательный|man muss es machen|Der Kurs ist verpflichtend.|B2|Behörden
+anwesend|-|-|A|присутствующий|ist da|Alle Mitarbeiter waren anwesend.|B2|Arbeit
+abwesend|-|-|A|отсутствующий|ist nicht da|Frau Weber ist heute abwesend.|B2|Arbeit
+erreichbar|-|erreichbarer|A|доступный (на связи)|man kann ihn anrufen oder erreichen|Ich bin ab 14 Uhr erreichbar.|B1|Arbeit
+verfügbar|-|-|A|доступный, имеющийся в наличии|steht zur Verfügung|Das Produkt ist nicht mehr verfügbar.|B2|Arbeit
+vorhanden|-|-|A|имеющийся|ist da|Genug Parkplätze sind vorhanden.|B2|Alltag
+ausgebucht|-|-|A|полностью забронированный|alle Plätze sind weg|Der Kurs ist leider ausgebucht.|B1|Freizeit
+ausverkauft|-|-|A|распроданный|alles ist verkauft|Das Konzert ist ausverkauft.|B1|Freizeit
+überfüllt|-|-|A|переполненный|zu voll|Die Bahn war total überfüllt.|B1|Verkehr
+geräumig|-|geräumiger|A|просторный|mit viel Platz|Die Küche ist geräumig.|B2|Wohnen
+zentral|-|zentraler|A|центральный|in der Mitte, nah am Zentrum|Die Wohnung liegt sehr zentral.|B1|Wohnen
+feucht|-|feuchter|A|влажный|ein bisschen nass|Der Keller ist feucht.|B1|Wohnen
+altmodisch|-|altmodischer|A|старомодный|nicht modern|Die Möbel sind altmodisch.|B1|Wohnen
+nützlich|-|nützlicher|A|полезный|hilft|Das ist ein nützlicher Tipp.|B1|Alltag
+überflüssig|-|-|A|лишний|nicht nötig|Diese Regel ist überflüssig.|B2|Meinung
+unnötig|-|-|A|ненужный|nicht nötig|Das war unnötig.|B1|Meinung
+wesentlich|-|-|A|существенный|sehr wichtig|Das ist ein wesentlicher Unterschied.|B2|Meinung
+entscheidend|-|-|A|решающий|sehr wichtig für das Ergebnis|Die Erfahrung ist entscheidend.|B2|Meinung
+zahlreich|-|-|A|многочисленный|sehr viele|Zahlreiche Gäste kamen zur Feier.|B2|Meinung
+gering|-|geringer, am geringsten|A|незначительный, небольшой|wenig, klein|Das Risiko ist gering.|B2|Meinung
+enorm|-|-|A|огромный|sehr groß|Die Kosten sind enorm gestiegen.|B2|Meinung
+eindeutig|-|-|A|однозначный|ganz klar|Die Antwort ist eindeutig.|B2|Meinung
+fraglich|-|-|A|сомнительный|nicht sicher|Es ist fraglich, ob das klappt.|B2|Meinung
+umfangreich|-|umfangreicher|A|обширный|groß, mit viel Inhalt|Das ist eine umfangreiche Aufgabe.|B2|Arbeit
+aufwendig|-|aufwendiger|A|трудоёмкий|braucht viel Zeit und Arbeit|Die Renovierung ist sehr aufwendig.|B2|Arbeit
+effizient|-|effizienter|A|эффективный|bringt mit wenig Aufwand viel|Wir müssen effizienter arbeiten.|B2|Arbeit
+sorgfältig|-|sorgfältiger|A|тщательный|sehr genau und vorsichtig|Bitte lesen Sie den Vertrag sorgfältig.|B2|Arbeit
+gründlich|-|gründlicher|A|основательный, тщательный|sehr genau|Die Ärztin hat mich gründlich untersucht.|B2|Gesundheit
+fehlerhaft|-|-|A|ошибочный, с дефектом|mit Fehlern|Die Ware war fehlerhaft.|B2|Arbeit
+einwandfrei|-|-|A|безупречный|ohne Fehler|Das Gerät funktioniert einwandfrei.|B2|Arbeit
+angemessen|-|angemessener|A|соответствующий, уместный|passend|Das ist eine angemessene Lösung.|B2|Meinung
+kurzfristig|-|-|A|краткосрочный, в последний момент|sehr spät oder für kurze Zeit|Der Termin wurde kurzfristig abgesagt.|B2|Arbeit
+langfristig|-|-|A|долгосрочный|für lange Zeit|Langfristig spart man so Geld.|B2|Arbeit
+ständig|-|-|A|постоянный|immer, ohne Pause|Das Telefon klingelt ständig.|B1|Alltag
+gelegentlich|-|-|A|случайный, время от времени|manchmal|Ich trinke gelegentlich ein Glas Wein.|B2|Alltag
+bisherig|-|-|A|прежний|bis jetzt|Meine bisherige Arbeit war im Büro.|B2|Arbeit
+damalig|-|-|A|тогдашний|von früher|Mein damaliger Chef war sehr streng.|B2|Arbeit
+zukünftig|-|-|A|будущий|in der Zukunft|Mein zukünftiger Arbeitgeber sitzt in Dresden.|B2|Arbeit
+heutig|-|-|A|сегодняшний|von heute|In der heutigen Zeit ist das normal.|B1|Zeit
+gestrig|-|-|A|вчерашний|von gestern|In der gestrigen Besprechung …|B2|Zeit
+vorig|-|-|A|прошлый|letzte|Voriges Jahr war ich in Italien.|B1|Zeit
+gesamt|-|-|A|весь, общий|alles zusammen|Die gesamten Kosten betragen 500 Euro.|B2|Geld
+einzeln|-|-|A|отдельный|allein, nicht zusammen|Bitte kommen Sie einzeln herein.|B1|Alltag
+einheimisch|-|-|A|местный|von hier|Die einheimischen Firmen suchen Personal.|B2|Gesellschaft
+international|-|internationaler|A|международный|zwischen vielen Ländern|Wir arbeiten in einem internationalen Team.|B1|Gesellschaft
+staatlich|-|-|A|государственный|vom Staat|Das ist eine staatliche Schule.|B2|Gesellschaft
+politisch|-|-|A|политический|die Politik betreffend|Er ist politisch aktiv.|B2|Gesellschaft
+sozial|-|sozialer|A|социальный|die Gesellschaft betreffend; hilfsbereit|Sie arbeitet in einem sozialen Beruf.|B1|Gesellschaft
+kulturell|-|-|A|культурный|die Kultur betreffend|Es gibt kulturelle Unterschiede.|B2|Gesellschaft
+religiös|-|religiöser|A|религиозный|glaubt an Gott|Meine Großmutter ist sehr religiös.|B1|Gesellschaft
+wirtschaftlich|-|-|A|экономический|die Wirtschaft betreffend|Die wirtschaftliche Lage ist schwierig.|B2|Gesellschaft
+rechtlich|-|-|A|юридический|das Recht betreffend|Das ist rechtlich erlaubt.|B2|Behörden
+technisch|-|-|A|технический|die Technik betreffend|Es gibt ein technisches Problem.|B1|Technik
+digital|-|-|A|цифровой|mit Computer und Internet|Die Formulare gibt es auch digital.|B1|Technik
+elektrisch|-|-|A|электрический|mit Strom|Wir haben einen elektrischen Herd.|B1|Technik
+automatisch|-|-|A|автоматический|von selbst|Die Tür öffnet automatisch.|B1|Technik
+kabellos|-|-|A|беспроводной|ohne Kabel|Ich habe kabellose Kopfhörer.|B2|Technik
+gebraucht|-|-|A|подержанный|nicht neu, schon benutzt|Wir kaufen ein gebrauchtes Auto.|B1|Einkaufen
+reduziert|-|-|A|уценённый|billiger als normal|Die Jacke ist um 30 % reduziert.|B1|Einkaufen
+gratis|-|-|Adv|бесплатно|kostenlos|Der Eintritt ist gratis.|B1|Einkaufen
+inklusive|-|-|Adv|включительно|mit dabei|Der Preis ist inklusive Frühstück.|B1|Einkaufen
+total|-|-|Adv|совершенно|ganz, völlig|Ich bin total müde.|A2|Alltag
+völlig|-|-|Adv|полностью|ganz|Das ist völlig richtig.|B1|Alltag
+äußerst|-|-|Adv|крайне|sehr, sehr|Das ist äußerst wichtig.|B2|Alltag
+beinahe|-|-|Adv|почти|fast|Ich hätte beinahe den Bus verpasst.|B1|Alltag
+mindestens|-|-|Adv|по меньшей мере|nicht weniger als|Der Text muss mindestens 150 Wörter haben.|B1|Alltag
+höchstens|-|-|Adv|самое большее|nicht mehr als|Das dauert höchstens zehn Minuten.|B1|Alltag
+etwa|-|-|Adv|примерно|ungefähr|Das kostet etwa 50 Euro.|B1|Alltag
+genauso|-|-|Adv|точно так же|auf die gleiche Weise|Ich sehe das genauso.|B1|Meinung
+ebenfalls|-|-|Adv|также|auch|Ich wünsche Ihnen ebenfalls ein schönes Wochenende.|B1|Alltag
+jedenfalls|-|-|Adv|во всяком случае|auf jeden Fall|Ich komme jedenfalls später.|B2|Alltag
+ohnehin|-|-|Adv|и так, всё равно|sowieso|Ich muss ohnehin in die Stadt.|B2|Alltag
+bereits|-|-|Adv|уже|schon|Ich habe die Rechnung bereits bezahlt.|B1|Alltag
+zuletzt|-|-|Adv|в последний раз; в конце|am Ende; das letzte Mal|Wann waren Sie zuletzt beim Arzt?|B1|Zeit
+zuerst|-|-|Adv|сначала|am Anfang|Zuerst lese ich die Aufgabe.|A2|Zeit
+anfangs|-|-|Adv|вначале|am Anfang|Anfangs war alles schwer.|B2|Zeit
+neulich|-|-|Adv|недавно|vor kurzer Zeit|Neulich habe ich deine Schwester getroffen.|B1|Zeit
+demnächst|-|-|Adv|в ближайшее время|bald|Wir ziehen demnächst um.|B1|Zeit
+künftig|-|-|Adv|в будущем|in Zukunft|Künftig gilt eine neue Regel.|B2|Zeit
+vorhin|-|-|Adv|только что|vor kurzer Zeit (heute)|Vorhin hat jemand für dich angerufen.|B1|Zeit
+nachher|-|-|Adv|потом, позже|später|Wir sehen uns nachher.|A2|Zeit
+tagsüber|-|-|Adv|днём|am Tag|Tagsüber arbeite ich, abends lerne ich.|B1|Zeit
+nachts|-|-|Adv|ночью|in der Nacht|Nachts schlafe ich schlecht.|A2|Zeit
+werktags|-|-|Adv|по рабочим дням|von Montag bis Samstag|Die Praxis ist werktags geöffnet.|B1|Zeit
+wochenlang|-|-|Adv|неделями|mehrere Wochen|Wir haben wochenlang gewartet.|B2|Zeit
+irgendwann|-|-|Adv|когда-нибудь|zu einer unbekannten Zeit|Irgendwann möchte ich ein Haus kaufen.|B1|Zeit
+jederzeit|-|-|Adv|в любое время|immer, zu jeder Zeit|Sie können mich jederzeit anrufen.|B1|Zeit
+oben|-|-|Adv|наверху|an einer hohen Stelle|Das Bad ist oben.|A2|Orte
+unten|-|-|Adv|внизу|an einer tiefen Stelle|Der Keller ist unten.|A2|Orte
+vorne|-|-|Adv|впереди|an der Vorderseite|Bitte steigen Sie vorne ein.|A2|Orte
+hinten|-|-|Adv|сзади|an der Rückseite|Der Ausgang ist hinten.|A2|Orte
+drüben|-|-|Adv|на той стороне|auf der anderen Seite|Die Apotheke ist da drüben.|B1|Orte
+nebenan|-|-|Adv|по соседству|direkt daneben|Die Nachbarn nebenan sind nett.|B1|Orte
+woanders|-|-|Adv|в другом месте|an einem anderen Ort|Wir essen heute woanders.|B1|Orte
+nirgends|-|-|Adv|нигде|an keinem Ort|Ich finde meinen Schlüssel nirgends.|B1|Orte
+hinein|-|-|Adv|внутрь (туда)|von draußen nach drinnen|Gehen Sie bitte hinein.|B1|Orte
+heraus|-|-|Adv|наружу (сюда)|von drinnen nach draußen|Komm heraus!|B1|Orte
+rückwärts|-|-|Adv|назад|nach hinten|Er fährt rückwärts in die Garage.|B1|Verkehr
+vorwärts|-|-|Adv|вперёд|nach vorne|Gehen Sie ein Stück vorwärts.|B1|Verkehr
+glücklicherweise|-|-|Adv|к счастью|zum Glück|Glücklicherweise wurde niemand verletzt.|B2|Alltag
+unglücklicherweise|-|-|Adv|к несчастью|leider|Unglücklicherweise war der Laden geschlossen.|B2|Alltag
+möglicherweise|-|-|Adv|возможно|vielleicht|Möglicherweise verschiebt sich der Termin.|B2|Meinung
+sicherlich|-|-|Adv|наверняка|bestimmt|Sie haben sicherlich davon gehört.|B2|Meinung
+keinesfalls|-|-|Adv|ни в коем случае|auf keinen Fall|Das dürfen Sie keinesfalls vergessen.|B2|Meinung
+ausnahmsweise|-|-|Adv|в виде исключения|nur dieses eine Mal|Heute darfst du ausnahmsweise länger aufbleiben.|B2|Alltag
+teilweise|-|-|Adv|частично|zum Teil|Das stimmt nur teilweise.|B2|Meinung
+überwiegend|-|-|Adv|преимущественно|zum größten Teil|Die Kunden sind überwiegend zufrieden.|B2|Meinung
+hauptsächlich|-|-|Adv|главным образом|vor allem|Ich arbeite hauptsächlich am Computer.|B2|Arbeit
+insbesondere|-|-|Adv|в особенности|besonders|Insbesondere ältere Menschen brauchen Hilfe.|B2|Meinung
+ausschließlich|-|-|Adv|исключительно|nur|Der Parkplatz ist ausschließlich für Kunden.|B2|Alltag
+zusätzlich|-|-|Adv|дополнительно|außerdem, noch dazu|Zusätzlich bekommen Sie einen Gutschein.|B1|Alltag
+gegebenenfalls|-|-|Adv|при необходимости|wenn nötig (Abk. ggf.)|Gegebenenfalls rufen wir Sie zurück.|B2|Briefe
+diesbezüglich|-|-|Adv|в этой связи|zu diesem Thema|Haben Sie diesbezüglich noch Fragen?|B2|Briefe
+dementsprechend|-|-|Adv|соответственно|passend dazu|Die Qualität ist gut, der Preis dementsprechend hoch.|B2|Meinung
+immerhin|-|-|Adv|всё-таки, по крайней мере|wenigstens|Immerhin hat es nicht geregnet.|B2|Meinung

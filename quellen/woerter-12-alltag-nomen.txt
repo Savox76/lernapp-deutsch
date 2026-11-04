@@ -1,0 +1,202 @@
+# Alltag A2/B1: Essen, Haushalt, Körper, Kleidung, Stadt, Natur, Tiere
+Banane|die|Bananen|N|банан|eine lange gelbe Frucht|Mein Sohn isst jeden Tag eine Banane.|A2|Lebensmittel
+Birne|die|Birnen|N|груша|eine süße Frucht, oben schmal und unten breit|Die Birne ist reif.|A2|Lebensmittel
+Orange|die|Orangen|N|апельсин|eine runde orange Frucht|Ich presse Orangen für Saft.|A2|Lebensmittel
+Zitrone|die|Zitronen|N|лимон|eine saure gelbe Frucht|Tee mit Zitrone ist gut bei Erkältung.|A2|Lebensmittel
+Erdbeere|die|Erdbeeren|N|клубника|eine kleine rote Frucht|Im Juni gibt es frische Erdbeeren.|A2|Lebensmittel
+Traube|die|Trauben|N|виноград (гроздь)|kleine runde Früchte am Stiel|Die Trauben sind sehr süß.|A2|Lebensmittel
+Kirsche|die|Kirschen|N|вишня, черешня|eine kleine rote Frucht mit Kern|Wir pflücken Kirschen im Garten.|A2|Lebensmittel
+Pflaume|die|Pflaumen|N|слива|eine blaue oder lila Frucht mit Kern|Oma backt Kuchen mit Pflaumen.|B1|Lebensmittel
+Tomate|die|Tomaten|N|помидор|ein rotes Gemüse|Ich schneide Tomaten für den Salat.|A2|Lebensmittel
+Gurke|die|Gurken|N|огурец|ein langes grünes Gemüse|Im Salat sind Gurken und Tomaten.|A2|Lebensmittel
+Karotte|die|Karotten|N|морковь|ein langes oranges Gemüse|Kinder essen gern Karotten.|A2|Lebensmittel
+Paprika|die|Paprika|N|перец (овощ)|ein rotes, gelbes oder grünes Gemüse|Die Paprika ist scharf.|A2|Lebensmittel
+Kohl|der|-|N|капуста|ein großes rundes Gemüse aus Blättern|Aus Kohl mache ich Borschtsch.|B1|Lebensmittel
+Knoblauch|der|-|N|чеснок|eine Pflanze mit starkem Geruch zum Würzen|In die Soße kommt Knoblauch.|B1|Lebensmittel
+Pilz|der|Pilze|N|гриб|wächst im Wald, man kann manche essen|Im Herbst sammeln wir Pilze.|B1|Lebensmittel
+Salat|der|Salate|N|салат|kaltes Gericht aus Gemüse oder Blättern|Zum Mittag esse ich einen Salat.|A2|Lebensmittel
+Suppe|die|Suppen|N|суп|warmes, flüssiges Essen|Die Suppe ist sehr heiß.|A2|Lebensmittel
+Soße|die|Soßen|N|соус|flüssige Beilage zu Fleisch oder Nudeln|Die Soße ist zu salzig.|B1|Lebensmittel
+Pfeffer|der|-|N|перец (специя)|ein scharfes Gewürz|Bitte gib mir Salz und Pfeffer.|A2|Lebensmittel
+Gewürz|das|Gewürze|N|приправа|etwas, das dem Essen Geschmack gibt|Welche Gewürze brauchst du?|B1|Lebensmittel
+Honig|der|-|N|мёд|süße Masse von Bienen|Ich esse Brot mit Honig.|A2|Lebensmittel
+Marmelade|die|Marmeladen|N|варенье, джем|süßer Aufstrich aus Obst|Die Marmelade ist selbst gemacht.|A2|Lebensmittel
+Quark|der|-|N|творог|weiches weißes Milchprodukt|Aus Quark backe ich Käsekuchen.|B1|Lebensmittel
+Sahne|die|-|N|сливки|fetter Teil der Milch|Möchtest du Kaffee mit Sahne?|B1|Lebensmittel
+Schinken|der|Schinken|N|ветчина|Fleisch vom Schwein, in dünnen Scheiben|Ein Brötchen mit Schinken, bitte.|A2|Lebensmittel
+Rindfleisch|das|-|N|говядина|Fleisch von der Kuh|Rindfleisch ist teurer als Hähnchen.|B1|Lebensmittel
+Schweinefleisch|das|-|N|свинина|Fleisch vom Schwein|Ich esse kein Schweinefleisch.|B1|Lebensmittel
+Kuchenstück|das|Kuchenstücke|N|кусок торта|ein Teil von einem Kuchen|Noch ein Kuchenstück?|A2|Lebensmittel
+Schokolade|die|Schokoladen|N|шоколад|süßes braunes Lebensmittel|Kinder lieben Schokolade.|A2|Lebensmittel
+Keks|der|Kekse|N|печенье|kleines, trockenes Gebäck|Zum Tee gibt es Kekse.|A2|Lebensmittel
+Eis|das|-|N|мороженое; лёд|kaltes Dessert; gefrorenes Wasser|Im Sommer essen wir Eis.|A2|Lebensmittel
+Mineralwasser|das|-|N|минеральная вода|Wasser aus der Flasche, oft mit Kohlensäure|Ein Mineralwasser ohne Kohlensäure, bitte.|A2|Lebensmittel
+Bier|das|Biere|N|пиво|alkoholisches Getränk|Mein Mann trinkt am Wochenende ein Bier.|A2|Lebensmittel
+Wein|der|Weine|N|вино|alkoholisches Getränk aus Trauben|Zum Essen trinken wir Rotwein.|A2|Lebensmittel
+Kaffee|der|-|N|кофе|warmes braunes Getränk|Ich trinke morgens Kaffee.|A2|Lebensmittel
+Tee|der|Tees|N|чай|warmes Getränk aus Blättern|Möchtest du schwarzen oder grünen Tee?|A2|Lebensmittel
+Portion|die|Portionen|N|порция|eine Menge Essen für eine Person|Die Portion ist sehr groß.|B1|Lebensmittel
+Scheibe|die|Scheiben|N|ломтик|ein dünnes Stück|Zwei Scheiben Käse, bitte.|A2|Lebensmittel
+Stück|das|Stücke|N|кусок, штука|ein Teil von etwas|Ein Stück Kuchen kostet drei Euro.|A2|Lebensmittel
+Kilo|das|Kilos|N|килограмм|1000 Gramm|Ein Kilo Kartoffeln, bitte.|A2|Einkaufen
+Liter|der|Liter|N|литр|Maß für Flüssigkeiten|Ich kaufe zwei Liter Milch.|A2|Einkaufen
+Gramm|das|-|N|грамм|kleines Maß für das Gewicht|Ich brauche 200 Gramm Butter.|A2|Einkaufen
+Tüte|die|Tüten|N|пакет|Beutel aus Papier oder Plastik|Brauchen Sie eine Tüte?|A2|Einkaufen
+Einkaufswagen|der|Einkaufswagen|N|тележка для покупок|Wagen im Supermarkt|Für den Einkaufswagen braucht man eine Münze.|B1|Einkaufen
+Einkaufsliste|die|Einkaufslisten|N|список покупок|Zettel, auf dem steht, was man kaufen muss|Ich habe meine Einkaufsliste vergessen.|A2|Einkaufen
+Umkleidekabine|die|Umkleidekabinen|N|примерочная|kleiner Raum zum Anprobieren|Die Umkleidekabine ist dort hinten.|B1|Einkaufen
+Kleingeld|das|-|N|мелочь|Münzen|Hast du Kleingeld für den Parkautomaten?|B1|Geld
+Wechselgeld|das|-|N|сдача|Geld, das man zurückbekommt|Sie haben mir zu wenig Wechselgeld gegeben.|B1|Geld
+Kassiererin|die|Kassiererinnen|N|кассирша|Frau, die an der Kasse arbeitet|Die Kassiererin ist sehr freundlich.|B1|Einkaufen
+Bäcker|der|Bäcker|N|пекарь|Mann, der Brot backt|Ich hole Brötchen beim Bäcker.|A2|Einkaufen
+Drogerie|die|Drogerien|N|магазин бытовой химии и косметики|Geschäft für Seife, Shampoo, Kosmetik|Zahnpasta kaufe ich in der Drogerie.|B1|Einkaufen
+Seife|die|Seifen|N|мыло|damit wäscht man die Hände|Wasch dir die Hände mit Seife!|A2|Haushalt
+Shampoo|das|Shampoos|N|шампунь|Seife für die Haare|Das Shampoo ist alle.|A2|Haushalt
+Zahnbürste|die|Zahnbürsten|N|зубная щётка|damit putzt man die Zähne|Ich brauche eine neue Zahnbürste.|A2|Haushalt
+Zahnpasta|die|-|N|зубная паста|Creme zum Zähneputzen|Die Zahnpasta ist im Bad.|A2|Haushalt
+Handtuch|das|Handtücher|N|полотенце|Tuch zum Abtrocknen|Hier ist ein frisches Handtuch.|A2|Haushalt
+Toilettenpapier|das|-|N|туалетная бумага|Papier für die Toilette|Wir haben kein Toilettenpapier mehr.|A2|Haushalt
+Waschmittel|das|Waschmittel|N|стиральный порошок|Mittel zum Wäschewaschen|Das Waschmittel steht im Keller.|B1|Haushalt
+Spülmittel|das|Spülmittel|N|средство для мытья посуды|Mittel zum Abwaschen|Ein Tropfen Spülmittel reicht.|B1|Haushalt
+Besen|der|Besen|N|метла|damit fegt man den Boden|Der Besen steht in der Ecke.|B1|Haushalt
+Eimer|der|Eimer|N|ведро|Gefäß für Wasser|Füll den Eimer mit Wasser.|B1|Haushalt
+Lappen|der|Lappen|N|тряпка|Tuch zum Putzen|Mit dem Lappen wische ich den Tisch ab.|B1|Haushalt
+Bügeleisen|das|Bügeleisen|N|утюг|Gerät, um Kleidung glatt zu machen|Das Bügeleisen ist heiß!|B1|Haushalt
+Topf|der|Töpfe|N|кастрюля|Gefäß zum Kochen|Die Suppe kocht im Topf.|A2|Haushalt
+Pfanne|die|Pfannen|N|сковорода|flaches Gefäß zum Braten|Ich brate die Eier in der Pfanne.|A2|Haushalt
+Schüssel|die|Schüsseln|N|миска|tiefes Gefäß für Salat oder Suppe|Der Salat ist in der Schüssel.|B1|Haushalt
+Kanne|die|Kannen|N|кувшин, чайник (заварочный)|Gefäß für Tee oder Kaffee|Die Kanne Tee ist noch warm.|B1|Haushalt
+Wasserkocher|der|Wasserkocher|N|электрочайник|Gerät, um Wasser heiß zu machen|Der Wasserkocher ist kaputt.|B1|Haushalt
+Mikrowelle|die|Mikrowellen|N|микроволновка|Gerät, um Essen schnell warm zu machen|Ich mache das Essen in der Mikrowelle warm.|A2|Haushalt
+Gefrierschrank|der|Gefrierschränke|N|морозильник|sehr kalter Schrank für Lebensmittel|Das Fleisch liegt im Gefrierschrank.|B1|Haushalt
+Mülleimer|der|Mülleimer|N|мусорное ведро|Eimer für Abfall|Der Mülleimer ist voll.|A2|Haushalt
+Licht|das|Lichter|N|свет|macht den Raum hell|Mach bitte das Licht an.|A2|Wohnen
+Spiegel|der|Spiegel|N|зеркало|darin sieht man sich selbst|Im Bad hängt ein großer Spiegel.|A2|Wohnen
+Kissen|das|Kissen|N|подушка|weich, für den Kopf beim Schlafen|Ich brauche ein zweites Kissen.|A2|Wohnen
+Bettdecke|die|Bettdecken|N|одеяло|damit deckt man sich im Bett zu|Im Winter nehme ich eine dicke Bettdecke.|B1|Wohnen
+Sessel|der|Sessel|N|кресло|bequemer Stuhl mit Armlehnen|Opa sitzt im Sessel.|A2|Wohnen
+Kommode|die|Kommoden|N|комод|niedriger Schrank mit Schubladen|Die Socken sind in der Kommode.|B1|Wohnen
+Schublade|die|Schubladen|N|ящик (выдвижной)|Teil eines Schranks zum Herausziehen|Die Löffel sind in der oberen Schublade.|B1|Wohnen
+Regenschirm|der|Regenschirme|N|зонт|schützt vor Regen|Nimm einen Regenschirm mit!|A2|Wetter
+Heizkörper|der|Heizkörper|N|батарея (отопления)|Gerät an der Wand, das warm wird|Der Heizkörper wird nicht warm.|B1|Wohnen
+Fernseher|der|Fernseher|N|телевизор|Gerät für Filme und Nachrichten|Der Fernseher ist zu laut.|A2|Wohnen
+Klingel|die|Klingeln|N|звонок (дверной)|Knopf an der Tür|Die Klingel funktioniert nicht.|B1|Wohnen
+Briefträger|der|Briefträger|N|почтальон|Person, die Post bringt|Der Briefträger kommt um elf.|B1|Wohnen
+Stockwerk|das|Stockwerke|N|этаж|Etage in einem Haus|Wir wohnen im vierten Stockwerk.|B1|Wohnen
+Dachgeschoss|das|Dachgeschosse|N|мансардный этаж|oberste Etage unter dem Dach|Die Wohnung im Dachgeschoss ist warm.|B1|Wohnen
+Terrasse|die|Terrassen|N|терраса|Platz draußen am Haus|Im Sommer essen wir auf der Terrasse.|B1|Wohnen
+Hof|der|Höfe|N|двор|Platz hinter oder zwischen Häusern|Die Kinder spielen im Hof.|A2|Wohnen
+Garage|die|Garagen|N|гараж|Raum für das Auto|Das Auto steht in der Garage.|A2|Wohnen
+Nachbarin|die|Nachbarinnen|N|соседка|Frau, die neben einem wohnt|Meine Nachbarin gießt meine Blumen.|A2|Wohnen
+Körper|der|Körper|N|тело|alle Teile des Menschen|Sport ist gut für den Körper.|A2|Körper
+Gesicht|das|Gesichter|N|лицо|vorderer Teil des Kopfes|Sie hat ein freundliches Gesicht.|A2|Körper
+Mund|der|Münder|N|рот|damit isst und spricht man|Mach bitte den Mund auf.|A2|Körper
+Haar|das|Haare|N|волос, волосы|wächst auf dem Kopf|Sie hat lange schwarze Haare.|A2|Körper
+Zunge|die|Zungen|N|язык (орган)|im Mund, damit schmeckt man|Zeigen Sie mir bitte die Zunge.|B1|Körper
+Lippe|die|Lippen|N|губа|Rand des Mundes|Meine Lippen sind trocken.|B1|Körper
+Zeh|der|Zehen|N|палец ноги|Finger am Fuß|Ich habe mir den Zeh gestoßen.|B1|Körper
+Ellbogen|der|Ellbogen|N|локоть|Gelenk in der Mitte des Arms|Mein Ellbogen tut weh.|B1|Körper
+Magen|der|Mägen|N|желудок|Organ für das Essen im Bauch|Mir ist schlecht, mein Magen tut weh.|B1|Körper
+Lunge|die|Lungen|N|лёгкие|Organ zum Atmen|Rauchen schadet der Lunge.|B1|Körper
+Knochen|der|Knochen|N|кость|harter Teil im Körper|Er hat sich einen Knochen gebrochen.|B1|Körper
+Muskel|der|Muskeln|N|мышца|Teil des Körpers für Bewegung|Nach dem Sport tun meine Muskeln weh.|B1|Körper
+Gelenk|das|Gelenke|N|сустав|Verbindung zwischen Knochen|Bei Kälte schmerzen meine Gelenke.|B2|Körper
+Stirn|die|Stirnen|N|лоб|oberer Teil des Gesichts|Das Kind hat eine heiße Stirn.|B1|Körper
+T-Shirt|das|T-Shirts|N|футболка|Oberteil mit kurzen Ärmeln|Im Sommer trage ich ein T-Shirt.|A2|Kleidung
+Bluse|die|Blusen|N|блузка|Oberteil für Frauen mit Knöpfen|Die Bluse ist aus Seide.|A2|Kleidung
+Jeans|die|Jeans|N|джинсы|Hose aus blauem Stoff|Ich trage am liebsten Jeans.|A2|Kleidung
+Socke|die|Socken|N|носок|trägt man am Fuß im Schuh|Ich finde meine Socken nicht.|A2|Kleidung
+Strumpfhose|die|Strumpfhosen|N|колготки|dünne Hose für Beine und Füße|Unter dem Rock trägt sie eine Strumpfhose.|B1|Kleidung
+Anzug|der|Anzüge|N|костюм|Hose und Jacke aus gleichem Stoff|Zur Hochzeit trägt er einen Anzug.|B1|Kleidung
+Gürtel|der|Gürtel|N|ремень|Band um die Hose|Die Hose ist zu groß, ich brauche einen Gürtel.|B1|Kleidung
+Schlafanzug|der|Schlafanzüge|N|пижама|Kleidung zum Schlafen|Die Kinder ziehen den Schlafanzug an.|A2|Kleidung
+Sandale|die|Sandalen|N|сандалия|offener Schuh für den Sommer|Am Strand trage ich Sandalen.|B1|Kleidung
+Hausschuh|der|Hausschuhe|N|тапочка|Schuh für die Wohnung|In Deutschland trägt man oft Hausschuhe.|B1|Kleidung
+Kette|die|Ketten|N|цепочка|Schmuck um den Hals|Die Kette ist aus Gold.|B1|Kleidung
+Ring|der|Ringe|N|кольцо|Schmuck am Finger|Sie trägt einen Ring.|A2|Kleidung
+Stoff|der|Stoffe|N|ткань|Material für Kleidung|Der Stoff ist sehr weich.|B1|Kleidung
+Baumwolle|die|-|N|хлопок|natürlicher Stoff von einer Pflanze|Das Hemd ist aus Baumwolle.|B1|Kleidung
+Farbe|die|Farben|N|цвет; краска|rot, blau, grün usw.|Welche Farbe hat dein Auto?|A2|Alltag
+Kreis|der|Kreise|N|район (административный)|Verwaltungsgebiet mit mehreren Gemeinden|Ich wohne im Kreis Meißen.|B2|Orte
+Brücke|die|Brücken|N|мост|führt über einen Fluss oder eine Straße|Wir gehen über die Brücke.|A2|Orte
+Kreisverkehr|der|Kreisverkehre|N|круговое движение|runde Kreuzung|Im Kreisverkehr nehmen Sie die zweite Ausfahrt.|B1|Verkehr
+Fußgängerzone|die|Fußgängerzonen|N|пешеходная зона|Straße nur für Fußgänger|In der Fußgängerzone gibt es viele Geschäfte.|B1|Orte
+Einkaufszentrum|das|Einkaufszentren|N|торговый центр|großes Gebäude mit vielen Geschäften|Am Samstag ist das Einkaufszentrum voll.|B1|Orte
+Friedhof|der|Friedhöfe|N|кладбище|Ort, wo Tote begraben werden|Der Friedhof ist hinter der Kirche.|B1|Orte
+Turm|der|Türme|N|башня|hohes, schmales Gebäude|Vom Turm sieht man die ganze Stadt.|B1|Orte
+Schloss|das|Schlösser|N|замок; дворец|großes, altes Haus von Königen|Dresden hat viele Schlösser.|B1|Orte
+Zoo|der|Zoos|N|зоопарк|Park mit wilden Tieren|Am Sonntag gehen wir in den Zoo.|A2|Freizeit
+Spielzeug|das|Spielzeuge|N|игрушка|Dinge zum Spielen für Kinder|Räum dein Spielzeug auf!|A2|Familie
+Puppe|die|Puppen|N|кукла|Spielzeug in Menschenform|Meine Tochter spielt mit der Puppe.|A2|Familie
+Ball|der|Bälle|N|мяч|rundes Spielzeug|Die Jungen spielen mit dem Ball.|A2|Freizeit
+Schaukel|die|Schaukeln|N|качели|Spielgerät auf dem Spielplatz|Das Kind sitzt auf der Schaukel.|B1|Freizeit
+Pferd|das|Pferde|N|лошадь|großes Tier, auf dem man reiten kann|Sie reitet gern Pferde.|A2|Natur
+Kuh|die|Kühe|N|корова|Tier, das Milch gibt|Auf der Wiese stehen Kühe.|A2|Natur
+Schwein|das|Schweine|N|свинья|Tier auf dem Bauernhof|Der Bauer hat viele Schweine.|A2|Natur
+Huhn|das|Hühner|N|курица|Tier, das Eier legt|Die Hühner legen jeden Tag Eier.|A2|Natur
+Maus|die|Mäuse|N|мышь|kleines graues Tier; Teil vom Computer|Im Keller ist eine Maus.|A2|Natur
+Fliege|die|Fliegen|N|муха|kleines Insekt|Mach das Fenster zu, sonst kommen Fliegen rein.|B1|Natur
+Mücke|die|Mücken|N|комар|Insekt, das sticht|Am See gibt es viele Mücken.|B1|Natur
+Biene|die|Bienen|N|пчела|Insekt, das Honig macht|Die Bienen fliegen von Blume zu Blume.|B1|Natur
+Schmetterling|der|Schmetterlinge|N|бабочка|Insekt mit bunten Flügeln|Im Garten fliegt ein Schmetterling.|B1|Natur
+Wiese|die|Wiesen|N|луг|Fläche mit Gras|Die Kinder spielen auf der Wiese.|A2|Natur
+Feld|das|Felder|N|поле|Fläche für Getreide oder Gemüse|Auf dem Feld wächst Weizen.|A2|Natur
+Gras|das|Gräser|N|трава|grüne Pflanze auf der Wiese|Das Gras ist nass.|A2|Natur
+Blatt|das|Blätter|N|лист|Teil vom Baum; Papier|Im Herbst fallen die Blätter.|A2|Natur
+Stein|der|Steine|N|камень|hartes Stück aus der Erde|Das Kind wirft Steine ins Wasser.|A2|Natur
+Insel|die|Inseln|N|остров|Land mitten im Wasser|Wir machen Urlaub auf einer Insel.|A2|Natur
+Küste|die|Küsten|N|побережье|Land am Meer|An der Küste ist es windig.|B1|Natur
+Ufer|das|Ufer|N|берег|Rand von Fluss oder See|Wir sitzen am Ufer der Elbe.|B1|Natur
+Hügel|der|Hügel|N|холм|kleiner Berg|Hinter dem Dorf ist ein Hügel.|B1|Natur
+Tal|das|Täler|N|долина|Gebiet zwischen Bergen|Das Dorf liegt in einem Tal.|B1|Natur
+Mond|der|Monde|N|луна|leuchtet in der Nacht am Himmel|Heute ist Vollmond.|A2|Natur
+Stern|der|Sterne|N|звезда|leuchtet in der Nacht|Am Himmel sieht man viele Sterne.|A2|Natur
+Erde|die|-|N|земля|unser Planet; Boden|Die Erde ist rund.|A2|Natur
+Luft|die|-|N|воздух|das, was wir atmen|Auf dem Land ist die Luft frisch.|A2|Natur
+Hitze|die|-|N|жара|sehr hohe Temperatur|Bei dieser Hitze bleibe ich drinnen.|B1|Wetter
+Kälte|die|-|N|холод|niedrige Temperatur|Die Kälte tut mir an den Händen weh.|B1|Wetter
+Glatteis|das|-|N|гололёд|Eis auf der Straße|Vorsicht, Glatteis!|B1|Wetter
+Sturm|der|Stürme|N|буря, шторм|sehr starker Wind|Der Sturm hat Bäume umgeworfen.|B1|Wetter
+Nebel|der|-|N|туман|Wolken nah am Boden|Am Morgen gab es dichten Nebel.|B1|Wetter
+Hagel|der|-|N|град|Eiskugeln, die vom Himmel fallen|Der Hagel hat das Auto beschädigt.|B2|Wetter
+Regenbogen|der|Regenbögen|N|радуга|bunter Bogen am Himmel nach Regen|Schau mal, ein Regenbogen!|B1|Wetter
+Mitternacht|die|-|N|полночь|zwölf Uhr nachts|Wir feiern bis Mitternacht.|B1|Zeit
+Sekunde|die|Sekunden|N|секунда|sechzig Sekunden sind eine Minute|Warte eine Sekunde!|A2|Zeit
+Viertelstunde|die|Viertelstunden|N|четверть часа|15 Minuten|Der Bus kommt in einer Viertelstunde.|B1|Zeit
+Jahrhundert|das|Jahrhunderte|N|век|hundert Jahre|Die Kirche ist aus dem 18. Jahrhundert.|B1|Zeit
+Montag|der|Montage|N|понедельник|erster Tag der Woche|Am Montag beginnt der Kurs.|A2|Zeit
+Dienstag|der|Dienstage|N|вторник|zweiter Tag der Woche|Dienstags gehe ich schwimmen.|A2|Zeit
+Mittwoch|der|Mittwoche|N|среда|dritter Tag der Woche|Am Mittwoch habe ich frei.|A2|Zeit
+Donnerstag|der|Donnerstage|N|четверг|vierter Tag der Woche|Donnerstag passt mir gut.|A2|Zeit
+Freitag|der|Freitage|N|пятница|fünfter Tag der Woche|Freitags arbeite ich nur bis 14 Uhr.|A2|Zeit
+Samstag|der|Samstage|N|суббота|sechster Tag der Woche|Am Samstag kaufen wir ein.|A2|Zeit
+Sonntag|der|Sonntage|N|воскресенье|letzter Tag der Woche|Am Sonntag sind die Geschäfte geschlossen.|A2|Zeit
+Januar|der|-|N|январь|erster Monat des Jahres|Im Januar ist es kalt.|A2|Zeit
+Februar|der|-|N|февраль|zweiter Monat|Mein Geburtstag ist im Februar.|A2|Zeit
+März|der|-|N|март|dritter Monat|Im März beginnt der Frühling.|A2|Zeit
+April|der|-|N|апрель|vierter Monat|Im April regnet es oft.|A2|Zeit
+Mai|der|-|N|май|fünfter Monat|Im Mai blühen die Bäume.|A2|Zeit
+Juni|der|-|N|июнь|sechster Monat|Im Juni sind die Tage lang.|A2|Zeit
+Juli|der|-|N|июль|siebter Monat|Im Juli haben die Kinder Ferien.|A2|Zeit
+August|der|-|N|август|achter Monat|Im August fahren wir ans Meer.|A2|Zeit
+September|der|-|N|сентябрь|neunter Monat|Im September beginnt die Schule.|A2|Zeit
+Oktober|der|-|N|октябрь|zehnter Monat|Im Oktober werden die Blätter bunt.|A2|Zeit
+November|der|-|N|ноябрь|elfter Monat|Der November ist oft grau.|A2|Zeit
+Dezember|der|-|N|декабрь|zwölfter Monat|Im Dezember ist Weihnachten.|A2|Zeit
+Großmutter|die|Großmütter|N|бабушка|Mutter von Vater oder Mutter|Meine Großmutter ist 85 Jahre alt.|A2|Familie
+Großvater|der|Großväter|N|дедушка|Vater von Vater oder Mutter|Mein Großvater erzählt gern Geschichten.|A2|Familie
+Enkelin|die|Enkelinnen|N|внучка|Tochter von Sohn oder Tochter|Oma besucht ihre Enkelin.|B1|Familie
+Neffe|der|Neffen|N|племянник|Sohn von Bruder oder Schwester|Mein Neffe studiert in Berlin.|B1|Familie
+Nichte|die|Nichten|N|племянница|Tochter von Bruder oder Schwester|Meine Nichte ist drei Jahre alt.|B1|Familie
+Schwiegermutter|die|Schwiegermütter|N|свекровь, тёща|Mutter vom Ehepartner|Meine Schwiegermutter kocht sehr gut.|B1|Familie
+Schwiegervater|der|Schwiegerväter|N|свёкор, тесть|Vater vom Ehepartner|Mein Schwiegervater hilft beim Umzug.|B1|Familie
+Zwilling|der|Zwillinge|N|близнец|eines von zwei Kindern, die zusammen geboren sind|Meine Söhne sind Zwillinge.|B1|Familie
+Baby|das|Babys|N|младенец|sehr kleines Kind|Das Baby schläft endlich.|A2|Familie
+Kindergarten|der|Kindergärten|N|детский сад|Ort für Kinder vor der Schule|Mein Sohn geht in den Kindergarten.|A2|Familie
+Windel|die|Windeln|N|подгузник|für Babys|Ich muss noch Windeln kaufen.|B1|Familie
+Hochzeitstag|der|Hochzeitstage|N|годовщина свадьбы|Jahrestag der Hochzeit|Heute ist unser zehnter Hochzeitstag.|B1|Feste
+Geburtstagsfeier|die|Geburtstagsfeiern|N|день рождения (праздник)|Fest zum Geburtstag|Zur Geburtstagsfeier kommen zwölf Kinder.|A2|Feste
+Kerze|die|Kerzen|N|свеча|gibt Licht, wenn sie brennt|Auf dem Kuchen sind sieben Kerzen.|A2|Feste
+Luftballon|der|Luftballons|N|воздушный шарик|bunter Ball mit Luft|Wir hängen Luftballons auf.|A2|Feste
+Weihnachtsbaum|der|Weihnachtsbäume|N|ёлка|Baum, den man zu Weihnachten schmückt|Wir schmücken den Weihnachtsbaum.|A2|Feste
+Osterei|das|Ostereier|N|пасхальное яйцо|buntes Ei zu Ostern|Die Kinder suchen Ostereier.|A2|Feste
