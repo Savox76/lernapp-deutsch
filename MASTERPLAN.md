@@ -2,6 +2,10 @@
 
 Stand: 04.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
 
+**Zuletzt komplett geprüft:** 04.11.2026 nach M12 (Code, Inhalte und Veröffentlichung abgeglichen).
+Zeichen: ✅ eingebaut/fertig · 🟡 teilweise · ⏳ in Arbeit · ⬜ offen · ❓ Entscheidung von Mario nötig
+Claude aktualisiert diesen Plan nach **jedem** Arbeitsschritt selbstständig.
+
 ---
 
 ## 1. Ziel
@@ -24,21 +28,25 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ---
 
-## 2. Stand heute
+## 2. Stand heute (geprüft am 04.11.2026)
 
-| Bereich | Stand |
-|---|---|
-| Wortschatz | 1754 Wörter (A2-Grundwortschatz, B1, B2, Berufswortschatz) |
-| Satzbau | 973 Übungssätze (789 mit markiertem Verb) von A2 bis B2, davon ca. 70 Berufssätze mit B2-Strukturen |
-| **Grundkurs von vorn** | 13 Stufen von „Verb auf Platz 2“ bis „Passiv“ plus Abschluss; Freischaltung ab 80 % |
-| **Prüfung DTB** | 15 E-Mails mit Fragen und Antwortaufgabe, 12 Telefonnotizen, 8 Forumsbeiträge, 12 Sprachbaustein-Texte, 10 Vorträge, 4 Fragerunden, 8 Diskussionen, 6 Planungsaufgaben, 12 Hörtexte |
-| **Prüfung DTZ** | 10 Briefe, 8 Leseaufgaben (Wegweiser, Anzeigen, Aushänge), 6 Brief-Lückentexte, 5 Erzählthemen, 2 Fragerunden, 4 Planungsaufgaben, 8 Hörtexte |
-| Prüfungsrechner | Punkte eintragen → bestanden ja/nein nach DTB- bzw. neuer DTZ-Regel |
-| Übungen | Karteikarten, Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat, Hörtraining, Bedeutung, der/die/das, Lückentext, Wortart, Schreiben mit Checkliste und Timer |
-| Statistik | pro Tag Aufgaben, richtig, falsch, Minuten; Pausentage; Fehleranalyse nach 12 Grammatik-Themen; „Auswertung teilen“ |
-| Technik | Web-App auf GitHub Pages, Android-App (WebView, Vorlesen), Fortschritt lokal auf dem Handy |
+| Bereich | Stand | |
+|---|---|---|
+| Wortschatz | 5.457 Wörter (A2, B1, B2, Beruf, Alltag) | ✅ |
+| Satzbau | 3.285 Übungssätze (3.040 mit markiertem Verb), alle 12 Grammatik-Themen auf A2–B2 | ✅ |
+| Schreibaufgaben | 72 (A2, B1, B2, DTZ und DTB) | ✅ |
+| **Grundkurs von vorn** | 13 Stufen von „Verb auf Platz 2“ bis „Passiv“ plus Abschluss; Freischaltung ab 80 %; A2-Sätze zuerst | ✅ |
+| **Prüfung DTB** | 49 E-Mails · 38 Telefonnotizen · 30 Forumsbeiträge · 46 Sprachbausteine · 21 Vorträge · 10 Fragerunden · 22 Diskussionen · 15 Lösung finden · 49 Hörtexte | ✅ |
+| **Prüfung DTZ** | 34 Briefe · 30 Leseaufgaben · 31 Brief-Lückentexte · 18 Erzählthemen · 9 Fragerunden · 15 Gemeinsam planen · 50 Hörtexte | ✅ |
+| Prüfungsrechner | Punkte eintragen → bestanden ja/nein nach DTB-Regel und neuer DTZ-Regel (ab 1.11.2026) | ✅ |
+| Übungen | Karteikarten, Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat, Hörtraining, Bedeutung, der/die/das, Lückentext, Wortart, Schreiben mit Checkliste und Timer | ✅ |
+| Tagesmix | 20 Aufgaben, jede zweite Satzbau-Aufgabe aus den schwächsten Grammatik-Themen | ✅ |
+| Lernsteuerung | 30 neue Wörter pro Tag (einstellbar 20–80), Satz erst nach 40, Wort nach 20 anderen wieder | ✅ |
+| Statistik | pro Tag Aufgaben, richtig, falsch, Minuten; Serie; Pausentage; Fehleranalyse nach 12 Grammatik-Themen; „Auswertung teilen“ | ✅ |
+| Vorlesen | jedes Wort, jeder Satz, jede Aufgabe, jede Regel (`say()`) | ✅ |
+| Technik | Web-App auf GitHub Pages (wird bei jedem Push automatisch veröffentlicht), Android-App (WebView, Vorlesen), Fortschritt lokal auf dem Handy | ✅ |
 
-**Noch offen (Mario):** GitHub Pages einschalten (*Settings → Pages → Source: GitHub Actions*), danach den Workflow „Web-App veröffentlichen“ einmal starten.
+~~Noch offen (Mario): GitHub Pages einschalten~~ → ✅ erledigt, die Veröffentlichung läuft bei jedem Push erfolgreich.
 
 ---
 
@@ -63,10 +71,10 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 | M11 | Inhaltspaket 8 | Grammatik-Drill zu allen 12 Themen · DTB-E-Mails und Telefonnotizen | ✅ fertig (Wörter → 5.148, Sätze → 3.094, Prüfung → 437) |
 | M12 | Inhaltspaket 9 | Verben, Adjektive, Redemittel · gemischte Prüfungsaufgaben | ✅ fertig (Wörter → 5.457, Sätze → 3.285, Prüfung → 467) |
 | M13 | Inhaltspaket 10 | Wortfamilien, Nomen-Verb-Verbindungen · Sprechen DTZ | ⏳ als Nächstes |
-| M14 | Inhaltspaket 11 | Lücken füllen bei Sätzen und Prüfung, bis die Zielzahlen erreicht sind | offen |
-| M15 | Wörter-Paket A | +450 Wörter: Fachwortschatz (Pflege, Technik, Logistik, Verwaltung), Adjektive, Adverbien – Kandidaten vorab gegen Bestand prüfen | offen |
-| M16 | Wörter-Paket B | +450 Wörter: Restlücke bis ≈ 7.000, Schwerpunkt B1/B2 | offen |
-| M17 | Abschluss Phase 1 | Qualitätscheck (Dubletten, Verbmarkierung, Übersetzungen, Test im Browser), Zahlen prüfen | offen |
+| M14 | Inhaltspaket 11 | Lücken füllen bei Sätzen und Prüfung, bis die Zielzahlen erreicht sind | ⬜ offen |
+| M15 | Wörter-Paket A | +450 Wörter: Fachwortschatz (Pflege, Technik, Logistik, Verwaltung), Adjektive, Adverbien – Kandidaten vorab gegen Bestand prüfen | ⬜ offen |
+| M16 | Wörter-Paket B | +450 Wörter: Restlücke bis ≈ 7.000, Schwerpunkt B1/B2 | ⬜ offen |
+| M17 | Abschluss Phase 1 | Qualitätscheck (Dubletten, Verbmarkierung, Übersetzungen, Test im Browser), Zahlen prüfen | ⬜ offen |
 
 **Stand:** 12 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 5.457 Wörter · 3.285 Sätze · 72 Schreibaufgaben · 467 Prüfungsaufgaben.
 
@@ -79,26 +87,26 @@ Die App soll eine **reine Lernapp** werden: später auch C1/C2 und weitere Ausga
 
 **Phase 2 – Mehrere Ausgangssprachen (M18–M24+)**
 
-| # | Meilenstein | Inhalt |
-|---|---|---|
-| M18 | Datenstruktur mehrsprachig | Übersetzungen nicht mehr nur im Feld `ru`, sondern pro Sprache (z. B. `ru`, `uk`, `en`, `ar`, `tr`). Alte Felder bleiben lesbar, localStorage-Schlüssel bleiben gleich. Neue Einstellung „Meine Sprache“. Die rund 23 festen Stellen mit Russisch in `web/app.js` umbauen. |
-| M19 | Ukrainisch | Alle Wörter, Sätze, Aufgabenstellungen und Regeln ins Ukrainische (≈ 7.000 Wörter + 3.900 Sätze + Aufgaben → in Teilpaketen). |
-| M20 | Englisch | Brückensprache für viele Lernende |
-| M21 | Arabisch | deckt auch Syrien, Irak usw. ab; Schrift von rechts nach links → Layout anpassen |
-| M22 | Türkisch | |
-| M23 | Dari (Afghanistan) | Persisch, ebenfalls rechts nach links; Paschtu optional später |
-| M24+ | weitere Sprachen nach Bedarf | |
+| # | Meilenstein | Inhalt | Status |
+|---|---|---|---|
+| M18 | Datenstruktur mehrsprachig | Übersetzungen nicht mehr nur im Feld `ru`, sondern pro Sprache (z. B. `ru`, `uk`, `en`, `ar`, `tr`). Alte Felder bleiben lesbar, localStorage-Schlüssel bleiben gleich. Neue Einstellung „Meine Sprache“. Die rund 23 festen Stellen mit Russisch in `web/app.js` umbauen. | ⬜ |
+| M19 | Ukrainisch | Alle Wörter, Sätze, Aufgabenstellungen und Regeln ins Ukrainische (≈ 7.000 Wörter + 3.900 Sätze + Aufgaben → in Teilpaketen). | ⬜ |
+| M20 | Englisch | Brückensprache für viele Lernende | ⬜ |
+| M21 | Arabisch | deckt auch Syrien, Irak usw. ab; Schrift von rechts nach links → Layout anpassen | ⬜ |
+| M22 | Türkisch | | ⬜ |
+| M23 | Dari (Afghanistan) | Persisch, ebenfalls rechts nach links; Paschtu optional später | ⬜ |
+| M24+ | weitere Sprachen nach Bedarf | | ⬜ |
 
 Hinweis: Jede neue Sprache bedeutet Übersetzungen für den gesamten Inhalt. Das ist pro Sprache etwa so viel Arbeit wie 3–4 Inhalts-Meilensteine. Reihenfolge laut Mario (04.11.2026): Ukrainisch, Englisch, Arabisch, Türkisch, Dari, weitere. Ukrainisch lohnt sich, weil in Deutschland sehr viele Ukrainerinnen und Ukrainer Deutsch lernen und viele DTZ/DTB machen.
 
 **Phase 3 – C1 und C2 (später)**
 
-| # | Meilenstein | Inhalt |
-|---|---|---|
-| M25 | Recherche C1/C2 | Prüfungsformate klären (z. B. Goethe-Zertifikat C1/C2, telc C1, DTB C1) – vor dem Bau mit Mario festlegen, welche Prüfung |
-| M26–M29 | C1-Inhalte | Wortschatz (abstrakt, akademisch, Fachsprache), komplexe Grammatik (Nominalstil, Partizipialattribute, Konjunktiv I), Prüfungsaufgaben im neuen Format |
-| M30–M32 | C2-Inhalte | Stilistik, Redewendungen, Textproduktion auf hohem Niveau |
-| M33 | Niveauwahl | In den Einstellungen Niveau A2–C2 wählbar, Grundkurs und Prüfungsbereich passen sich an |
+| # | Meilenstein | Inhalt | Status |
+|---|---|---|---|
+| M25 | Recherche C1/C2 | Prüfungsformate klären (z. B. Goethe-Zertifikat C1/C2, telc C1, DTB C1) – vor dem Bau mit Mario festlegen, welche Prüfung | ⬜ |
+| M26–M29 | C1-Inhalte | Wortschatz (abstrakt, akademisch, Fachsprache), komplexe Grammatik (Nominalstil, Partizipialattribute, Konjunktiv I), Prüfungsaufgaben im neuen Format | ⬜ |
+| M30–M32 | C2-Inhalte | Stilistik, Redewendungen, Textproduktion auf hohem Niveau | ⬜ |
+| M33 | Niveauwahl | In den Einstellungen Niveau A2–C2 wählbar, Grundkurs und Prüfungsbereich passen sich an | ⬜ |
 
 ---
 
@@ -108,12 +116,12 @@ Hinweis: Jede neue Sprache bedeutet Übersetzungen für den gesamten Inhalt. Das
 
 | Teil | Inhalt | In der App |
 |---|---|---|
-| **Lesen** | 4 Teile: Texte aus dem Arbeitsalltag (Mitteilungen, Anweisungen, Berichte) | Lesen über E-Mail-Fragen und Sprachbausteine; eigene DTB-Leseteile folgen |
-| **Lesen + Schreiben** | E-Mail lesen, Fragen beantworten, dann eine Antwort schreiben (z. B. auf eine Beschwerde, mit Lösungsvorschlag) | **E-Mail beantworten** (Fragen → Antwort mit Timer, Leitpunkte, Redemittel, Musterlösung) |
-| **Hören** | 4 Teile: Telefonate, Besprechungen, Durchsagen, Gespräche | **Hören im Beruf** (max. 2× hören, a/b/c und richtig/falsch) |
-| **Hören + Schreiben** | Telefonat hören und eine **Telefonnotiz** schreiben | **Telefonnotiz** (Anruf 2×, Felder werden automatisch geprüft) |
-| **Sprachbausteine + Schreiben** | 2 Lückentexte mit je 6 Lücken, dazu ein **Forumsbeitrag** | **Sprachbausteine** mit Erklärung je Lücke, **Forumsbeitrag** (mind. 120 Wörter) |
-| **Sprechen** | 1A Vortrag · 1B Fragen der Prüfer · 2 Diskussion · 3 gemeinsam eine Lösung finden | **Vortrag** (3-Min.-Timer), **Prüferfragen**, **Diskussion** und **Lösung finden** (die App spielt den Partner) |
+| **Lesen** | 4 Teile: Texte aus dem Arbeitsalltag (Mitteilungen, Anweisungen, Berichte) | 🟡 Lesen über E-Mail-Fragen und Sprachbausteine; eigene DTB-Leseteile ⬜ (neuer Aufgabentyp, ❓ Mario) |
+| **Lesen + Schreiben** | E-Mail lesen, Fragen beantworten, dann eine Antwort schreiben (z. B. auf eine Beschwerde, mit Lösungsvorschlag) | ✅ **E-Mail beantworten** (Fragen → Antwort mit Timer, Leitpunkte, Redemittel, Musterlösung) |
+| **Hören** | 4 Teile: Telefonate, Besprechungen, Durchsagen, Gespräche | ✅ **Hören im Beruf** (max. 2× hören, a/b/c und richtig/falsch) |
+| **Hören + Schreiben** | Telefonat hören und eine **Telefonnotiz** schreiben | ✅ **Telefonnotiz** (Anruf 2×, Felder werden automatisch geprüft) |
+| **Sprachbausteine + Schreiben** | 2 Lückentexte mit je 6 Lücken, dazu ein **Forumsbeitrag** | ✅ **Sprachbausteine** mit Erklärung je Lücke, **Forumsbeitrag** (mind. 120 Wörter) |
+| **Sprechen** | 1A Vortrag · 1B Fragen der Prüfer · 2 Diskussion · 3 gemeinsam eine Lösung finden | ✅ **Vortrag** (3-Min.-Timer), **Prüferfragen**, **Diskussion** und **Lösung finden** (die App spielt den Partner) |
 
 **Bestehensregel:** Jeder Bereich (Lesen, Hören, Schreiben, Sprechen) bringt maximal **60 Punkte**, zusammen 240.
 B2 ist bestanden, wenn **mindestens 144 Punkte** erreicht sind, **mindestens drei Bereiche je 36 Punkte** haben und **kein Bereich unter 24 Punkten** liegt.
@@ -137,22 +145,24 @@ B2 ist bestanden, wenn **mindestens 144 Punkte** erreicht sind, **mindestens dre
 
 ---
 
-## 4. Was fehlt noch
+## 4. Was fehlt noch (geprüft am 04.11.2026)
 
-| Bereich | Fehlt | Priorität |
-|---|---|---|
-| Lesen DTB | eigene Leseteile (Überschriften zuordnen, Anweisungen, Berichte mit a/b/c) | 1 |
-| Hören | Dialoge mit zwei Stimmen (braucht kleine APK-Änderung), Meinungen zuordnen | 2 |
-| Simulation | komplette Prüfung mit Zeitlimit und Punkteschätzung | 1 |
-| Sprechen | sich selbst aufnehmen und anhören (braucht Mikrofon-Berechtigung, neue APK) | 3 |
-| Grammatik | Drill zu Kasus nach Präpositionen und Adjektivendungen | 2 |
-| Wortschatz | Fachwortschatz je Branche (Pflege, Lager, Büro, Handel), sobald der Beruf feststeht | 2 |
+| Bereich | Fehlt | Priorität | Status |
+|---|---|---|---|
+| Lesen DTB | eigene Leseteile (Überschriften zuordnen, Anweisungen, Berichte mit a/b/c) – neuer Aufgabentyp | 1 | ⬜ ❓ Rücksprache nötig |
+| Hören | Dialoge mit zwei Stimmen (braucht kleine APK-Änderung), Meinungen zuordnen | 2 | ⬜ |
+| Simulation | komplette Prüfung mit Zeitlimit und Punkteschätzung | 1 | ⬜ ❓ Rücksprache nötig |
+| Sprechen | sich selbst aufnehmen und anhören (braucht Mikrofon-Berechtigung, neue APK) | 3 | ⬜ |
+| Grammatik | Drill zu Kasus nach Präpositionen und Adjektivendungen | 2 | 🟡 viele Übungssätze dazu (M7, M11, M12), aber kein eigener Übungstyp |
+| Wortschatz | Fachwortschatz je Branche (Pflege, Lager, Büro, Handel, Gastro, Handwerk) | 2 | ✅ M5, M11 (weiterer Ausbau in M15) |
 
 Neue Aufgabentypen werden erst nach Rücksprache mit Mario gebaut (siehe `CLAUDE.md`).
 
 ---
 
 ## 5. Lernplan
+
+Alle Bausteine dieses Plans sind in der App vorhanden ✅. Ob er eingehalten wird, zeigt die Statistik (Serie und Pausentage).
 
 | Wann | Was | Dauer |
 |---|---|---|
@@ -169,6 +179,8 @@ Ziel: **an mindestens 6 von 7 Tagen lernen**, auch wenn es zäh ist. Pausentage 
 ---
 
 ## 6. Auswertung und Verbesserung (Kreislauf)
+
+Status: ✅ eingebaut (Protokoll `dl-log`, Fehleranalyse, „Auswertung teilen“). Noch ist keine Auswertung von Mario angekommen.
 
 1. Die Lernerin übt, die App protokolliert jede Antwort.
 2. *Statistik → Fehleranalyse → Auswertung teilen* → Text per WhatsApp an Mario.
@@ -203,7 +215,7 @@ Zuerst mit einer Lernerin testen, dann mit 3–5 weiteren Lernenden. Nötig wär
 ## 9. Monetarisierung (Plan vom 04.11.2026)
 
 **Idee:** Monatsabo für **4,99 €** für Zuwanderer, die sich auf DTZ oder DTB vorbereiten. Die erste Zielgruppe sind russischsprachige Lernende, weil die App dafür schon gebaut ist.
-**Grundsatz:** Die Inhalts-Meilensteine M7–M15 haben Vorrang. Verkauft wird erst, wenn die App bei mehreren fremden Lernenden funktioniert.
+**Grundsatz:** Die Inhalts-Meilensteine M7–M17 haben Vorrang. Verkauft wird erst, wenn die App bei mehreren fremden Lernenden funktioniert.
 
 ### 9.1 Was sich technisch ändern muss
 
@@ -212,7 +224,7 @@ Zuerst mit einer Lernerin testen, dann mit 3–5 weiteren Lernenden. Nötig wär
 | Inhalte liegen öffentlich (Repo und GitHub Pages) | Jeder kann alles kostenlos abrufen, ein Abo wäre wertlos | Bezahlinhalte in ein **privates Repo** und auf einen Server, der sie nur nach Anmeldung ausliefert |
 | Fortschritt nur im localStorage | Neues Handy oder Daten gelöscht heißt Fortschritt weg. Für zahlende Kunden ist das nicht akzeptabel | **Konto und Online-Speicher**, z. B. Supabase oder Firebase; localStorage bleibt als Offline-Zwischenspeicher |
 | Android-App ist nur eine WebView-Hülle | Google Play lehnt reine Website-Hüllen oft ab. Digitale Abos in der App müssen über **Google Play Billing** laufen | App bekommt eigene Funktionen (offline lernen, Vorlesen, Sprechen aufnehmen) und Play Billing |
-| Oberfläche auf Deutsch | Neue Nutzer verstehen die Bedienung nicht sofort | Menüs und Hilfe zusätzlich auf Russisch, später weitere Sprachen |
+| Oberfläche auf Deutsch | Neue Nutzer verstehen die Bedienung nicht sofort | Menüs und Hilfe zusätzlich auf Russisch, später weitere Sprachen (Phase 2, M18) |
 
 ### 9.2 Gratis und Premium
 
@@ -239,19 +251,19 @@ Zusätzlich **7 Tage Premium kostenlos** testen. Die bisherige Lernerin behält 
 
 | # | Phase | Inhalt | Ergebnis / Bedingung zum Weitergehen | Status |
 |---|---|---|---|---|
-| G1 | Inhalte fertig | M7–M15 abschließen | alle Zielzahlen erreicht, Qualitätscheck bestanden | ⏳ läuft |
-| G2 | Testgruppe | 10–20 fremde Lernende nutzen die Web-App **kostenlos** 4 Wochen lang. Kurzer Fragebogen: Was fehlt? Würdest du 4,99 € zahlen? | mind. die Hälfte lernt nach 4 Wochen noch ≥ 3 Tage pro Woche, mind. 5 würden zahlen | offen |
-| G3 | Rechtliches | Gewerbe anmelden, steuerliche Einordnung klären (Kleinunternehmer?), Impressum, Datenschutzerklärung (DSGVO), AGB mit Widerrufsbelehrung, Google-Play-Entwicklerkonto mit Zahlungsprofil, App-Name auf Markenrechte prüfen | alles erledigt, bevor der erste Euro fließt | offen |
-| G4 | Technik | Anmeldung und Online-Speicher, Bezahlinhalte privat, Gratis/Premium-Grenze, Play Billing, russische Oberfläche, Datenübernahme aus localStorage | geschlossener Test mit der Testgruppe im Play Store | offen |
-| G5 | Start | Play-Store-Eintrag auf Deutsch und Russisch, Werbung in Telegram- und Facebook-Gruppen für Zuwanderer, Lehrkräfte von Integrations- und Berufssprachkursen ansprechen | erste 50 zahlende Abos | offen |
-| G6 | Ausbau | weitere Hilfssprachen (zuerst Ukrainisch), Jahresabo, Sprechen mit Aufnahme | Wachstum je nach Zahlen aus G5 | offen |
+| G1 | Inhalte fertig | M7–M17 abschließen | alle Zielzahlen erreicht, Qualitätscheck bestanden | ⏳ läuft (12 von 17) |
+| G2 | Testgruppe | 10–20 fremde Lernende nutzen die Web-App **kostenlos** 4 Wochen lang. Kurzer Fragebogen: Was fehlt? Würdest du 4,99 € zahlen? | mind. die Hälfte lernt nach 4 Wochen noch ≥ 3 Tage pro Woche, mind. 5 würden zahlen | ⬜ offen |
+| G3 | Rechtliches | Gewerbe anmelden, steuerliche Einordnung klären (Kleinunternehmer?), Impressum, Datenschutzerklärung (DSGVO), AGB mit Widerrufsbelehrung, Google-Play-Entwicklerkonto mit Zahlungsprofil, App-Name auf Markenrechte prüfen | alles erledigt, bevor der erste Euro fließt | ⬜ offen |
+| G4 | Technik | Anmeldung und Online-Speicher, Bezahlinhalte privat, Gratis/Premium-Grenze, Play Billing, russische Oberfläche, Datenübernahme aus localStorage | geschlossener Test mit der Testgruppe im Play Store | ⬜ offen |
+| G5 | Start | Play-Store-Eintrag auf Deutsch und Russisch, Werbung in Telegram- und Facebook-Gruppen für Zuwanderer, Lehrkräfte von Integrations- und Berufssprachkursen ansprechen | erste 50 zahlende Abos | ⬜ offen |
+| G6 | Ausbau | weitere Hilfssprachen (siehe Phase 2, Abschnitt 2b), Jahresabo, Sprechen mit Aufnahme | Wachstum je nach Zahlen aus G5 | ⬜ offen |
 
 ### 9.5 Offene Entscheidungen (Mario)
 
-- Preis: nur Monatsabo 4,99 € oder zusätzlich ein günstigeres Jahresabo?
-- Name der App für den Play Store
-- Online-Speicher: Supabase oder Firebase (Claude macht vor G4 einen Vorschlag)
-- Wann startet G2? Vorschlag: sobald M10 fertig ist, damit die Testgruppe schon genug Inhalt hat
+- ❓ Preis: nur Monatsabo 4,99 € oder zusätzlich ein günstigeres Jahresabo?
+- ❓ Name der App für den Play Store
+- ❓ Online-Speicher: Supabase oder Firebase (Claude macht vor G4 einen Vorschlag)
+- ❓ Wann startet G2? Vorschlag war: sobald M10 fertig ist → **M10 ist fertig**, die Entscheidung liegt bei Mario
 
 Neue Aufgabentypen und Änderungen an `android/` werden auch hier erst nach Rücksprache gebaut.
 

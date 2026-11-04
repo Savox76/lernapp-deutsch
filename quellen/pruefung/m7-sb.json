@@ -1685,7 +1685,7 @@
   {
    "id": "r23",
    "ex": [
-    "DTB"
+    "DTZ"
    ],
    "t": "Aushang im Betrieb",
    "anweisung": "Lesen Sie die Aushänge. Welche Antwort ist richtig?",
@@ -1737,7 +1737,7 @@
   {
    "id": "r24",
    "ex": [
-    "DTB"
+    "DTZ"
    ],
    "t": "Stellenanzeigen",
    "anweisung": "Welche Anzeige passt zu der Person?",
