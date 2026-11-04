@@ -1,0 +1,63 @@
+# M6 Alltag A2: Einkaufen, Küche, Haushalt, Stadt
+Ich *kaufe* heute Brot, Milch und Eier.|Сегодня я покупаю хлеб, молоко и яйца.|A2|Subjekt – Verb – Rest.|Einkaufen
+Der Supermarkt *hat* bis 21 Uhr geöffnet.|Супермаркет открыт до 21 часа.|A2|Subjekt – Verb – Rest.|Einkaufen
+Die Äpfel *kosten* heute nur einen Euro.|Яблоки сегодня стоят всего один евро.|A2|Subjekt – Verb – Rest.|Einkaufen
+Ich *bringe* die leeren Flaschen zum Pfandautomaten.|Я несу пустые бутылки в автомат для тары.|A2|Subjekt – Verb – Rest.|Einkaufen
+Meine Tochter *möchte* ein Eis.|Моя дочь хочет мороженое.|A2|Subjekt – Verb – Rest.|Einkaufen
+Am Samstag *ist* der Markt sehr voll.|В субботу на рынке очень много людей.|A2|Zeit auf Position 1 → Verb → Subjekt.|Einkaufen
+Im Angebot *gibt* es heute Kaffee.|Сегодня по акции кофе.|A2|Angabe auf Position 1 → Verb → es.|Einkaufen
+An der Kasse *warten* viele Leute.|У кассы ждут много людей.|A2|Ort auf Position 1 → Verb → Subjekt.|Einkaufen
+Wo *finde* ich den Reis?|Где мне найти рис?|A2|W-Frage: Verb auf Position 2.|Einkaufen
+*Haben* Sie das auch in Größe 40?|У вас это есть и в 40-м размере?|A2|Ja/Nein-Frage: Verb auf Position 1.|Einkaufen
+*Kann* ich mit Karte bezahlen?|Можно заплатить картой?|A2|Ja/Nein-Frage: Modalverb auf Position 1.|Einkaufen
+Ich *brauche* eine Tüte, bitte.|Мне нужен пакет, пожалуйста.|A2|Subjekt – Verb – Rest.|Einkaufen
+Ich *habe* die Einkaufsliste zu Hause vergessen.|Я забыла список покупок дома.|A2|Perfekt: habe … vergessen.|Einkaufen
+Wir *sind* gestern ins Möbelhaus gefahren.|Вчера мы ездили в мебельный магазин.|A2|Perfekt mit sein.|Einkaufen
+Der Laden *macht* um neun Uhr auf.|Магазин открывается в девять часов.|A2|Trennbares Verb: macht … auf.|Einkaufen
+Ich *probiere* die Schuhe an.|Я примеряю туфли.|A2|Trennbares Verb: probiere … an.|Einkaufen
+Die Jacke ist zu teuer, deshalb *kaufe* ich sie nicht.|Куртка слишком дорогая, поэтому я её не покупаю.|A2|deshalb + Verb + Subjekt.|Einkaufen
+Ich gehe zum Markt, weil das Obst dort frisch *ist*.|Я иду на рынок, потому что там свежие фрукты.|A2|weil: Verb am Ende.|Einkaufen
+Ich koche heute Suppe, denn es *ist* kalt.|Сегодня я варю суп, потому что холодно.|A2|denn + Subjekt + Verb.|Lebensmittel
+Zuerst *schneide* ich die Zwiebeln.|Сначала я режу лук.|A2|zuerst auf Position 1 → Verb → Subjekt.|Lebensmittel
+Dann *brate* ich das Fleisch an.|Потом я обжариваю мясо.|A2|dann auf Position 1 → Verb → Subjekt; an am Ende.|Lebensmittel
+Das Wasser *kocht* schon.|Вода уже кипит.|A2|Subjekt – Verb – Rest.|Lebensmittel
+Die Nudeln *brauchen* zehn Minuten.|Макаронам нужно десять минут.|A2|Subjekt – Verb – Rest.|Lebensmittel
+Der Kuchen *ist* im Ofen.|Пирог в духовке.|A2|Subjekt – Verb – Rest.|Lebensmittel
+Mein Mann *deckt* den Tisch.|Мой муж накрывает на стол.|A2|Subjekt – Verb – Rest.|Lebensmittel
+Nach dem Essen *spülen* die Kinder ab.|После еды дети моют посуду.|A2|Zeit auf Position 1 → Verb → Subjekt; ab am Ende.|Haushalt
+*Gib* mir bitte das Salz!|Дай мне, пожалуйста, соль!|A2|Imperativ mit du.|Lebensmittel
+Was *gibt* es heute zum Abendessen?|Что сегодня на ужин?|A2|W-Frage: Verb auf Position 2.|Lebensmittel
+*Schmeckt* dir die Suppe?|Тебе нравится суп?|A2|Ja/Nein-Frage: Verb auf Position 1.|Lebensmittel
+Ich *esse* kein Schweinefleisch.|Я не ем свинину.|A2|Subjekt – Verb – Rest.|Lebensmittel
+Die Milch *muss* in den Kühlschrank.|Молоко нужно поставить в холодильник.|A2|Modalverb auf Platz 2.|Lebensmittel
+Ich *kann* leider nicht gut kochen.|Я, к сожалению, не очень хорошо готовлю.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Lebensmittel
+Am Sonntag *backe* ich einen Kuchen.|В воскресенье я пеку пирог.|A2|Zeit auf Position 1 → Verb → Subjekt.|Lebensmittel
+Ich *habe* zu viel Salz in die Suppe gegeben.|Я положила слишком много соли в суп.|A2|Perfekt: habe … gegeben.|Lebensmittel
+Wenn das Wasser kocht, *gib* die Nudeln hinein.|Когда вода закипит, положи макароны.|A2|wenn-Satz zuerst → dann sofort das Verb.|Lebensmittel
+Ich *putze* jeden Samstag das Bad.|Каждую субботу я убираю ванную.|A2|Subjekt – Verb – Rest.|Haushalt
+Mein Sohn *räumt* sein Zimmer nie auf.|Мой сын никогда не убирает свою комнату.|A2|Trennbares Verb: räumt … auf.|Haushalt
+Die Waschmaschine *ist* kaputt.|Стиральная машина сломалась.|A2|Subjekt – Verb – Rest.|Haushalt
+Heute *wasche* ich die Bettwäsche.|Сегодня я стираю постельное бельё.|A2|Zeit auf Position 1 → Verb → Subjekt.|Haushalt
+Wer *bringt* heute den Müll raus?|Кто сегодня выносит мусор?|A2|W-Frage: Verb auf Position 2.|Haushalt
+*Mach* bitte das Fenster auf!|Открой, пожалуйста, окно!|A2|Imperativ: mach … auf.|Haushalt
+Wir *müssen* die Wohnung noch putzen.|Нам ещё нужно убрать квартиру.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Haushalt
+Ich *habe* die Wäsche schon aufgehängt.|Я уже повесила бельё.|A2|Perfekt: habe … aufgehängt.|Haushalt
+Die Glühbirne ist kaputt, deshalb *ist* es dunkel.|Лампочка перегорела, поэтому темно.|A2|deshalb + Verb + Subjekt.|Haushalt
+Ich bügle die Hemden, wenn ich Zeit *habe*.|Я глажу рубашки, когда у меня есть время.|A2|wenn: Verb am Ende.|Haushalt
+Die Post *ist* gegenüber vom Rathaus.|Почта напротив ратуши.|A2|Subjekt – Verb – Rest.|Orte
+Gehen Sie hier geradeaus und dann links.|Идите здесь прямо, а потом налево.|A2|Imperativ mit Sie.|Orte
+Die Apotheke *ist* gleich um die Ecke.|Аптека прямо за углом.|A2|Subjekt – Verb – Rest.|Orte
+Wie *komme* ich zum Bahnhof?|Как мне пройти к вокзалу?|A2|W-Frage: Verb auf Position 2.|Orte
+In der Innenstadt *gibt* es viele Cafés.|В центре города много кафе.|A2|Ort auf Position 1 → Verb → es.|Orte
+Der Bus *hält* direkt vor der Schule.|Автобус останавливается прямо у школы.|A2|Subjekt – Verb – Rest.|Orte
+Ich *suche* die Buchhandlung.|Я ищу книжный магазин.|A2|Subjekt – Verb – Rest.|Orte
+Neben der Bank *ist* ein Blumenladen.|Рядом с банком цветочный магазин.|A2|Ort auf Position 1 → Verb → Subjekt.|Orte
+Im Fundbüro *frage* ich nach meiner Tasche.|В бюро находок я спрашиваю о своей сумке.|A2|Ort auf Position 1 → Verb → Subjekt.|Orte
+Ich *bringe* den Mantel in die Reinigung.|Я отношу пальто в химчистку.|A2|Subjekt – Verb – Rest.|Orte
+Wissen Sie, wo die Post *ist*?|Вы знаете, где почта?|A2|Indirekte Frage: Verb am Ende.|Orte
+Kannst du mir sagen, wann der Laden *schließt*?|Можешь сказать, когда закрывается магазин?|B1|Indirekte Frage: Verb am Ende.|Orte
+Ich *rufe* meine Mutter jeden Sonntag an.|Я звоню маме каждое воскресенье.|A2|Trennbares Verb: rufe … an.|Kommunikation
+*Schreib* mir eine Nachricht, wenn du da bist.|Напиши мне сообщение, когда приедешь.|A2|Imperativ + wenn: Verb am Ende.|Kommunikation
+Ich *habe* deine Sprachnachricht gehört.|Я прослушала твоё голосовое сообщение.|A2|Perfekt: habe … gehört.|Kommunikation
+Mein Handy *ist* leer, ich muss es aufladen.|Мой телефон разрядился, мне нужно его зарядить.|A2|Hauptsatz + Hauptsatz mit Modalverb.|Kommunikation
+Hier im Keller *habe* ich kein Netz.|Здесь в подвале у меня нет сети.|A2|Ort auf Position 1 → Verb → Subjekt.|Kommunikation

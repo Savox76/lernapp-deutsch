@@ -1,0 +1,107 @@
+# M6 Alltag 2: Stadt, Wohnen, Familie, Kleidung, Körper, Zeit
+Nachbarhaus|das|-|N|соседний дом|Haus nebenan|Im Nachbarhaus wohnt meine Freundin.|A2|Wohnen
+Hausnummer|die|Hausnummern|N|номер дома|Nummer eines Hauses an der Straße|Welche Hausnummer hast du?|A2|Wohnen
+Postleitzahl|die|Postleitzahlen|N|почтовый индекс|Zahl für den Ort in der Adresse|Die Postleitzahl von Dresden beginnt mit 01.|A2|Wohnen
+Klingelschild|das|-|N|табличка на звонке|Schild mit Namen an der Klingel|Mein Name steht auf dem Klingelschild.|B1|Wohnen
+Briefkastenschlüssel|der|-|N|ключ от почтового ящика|kleiner Schlüssel für den Briefkasten|Ich habe den Briefkastenschlüssel verloren.|B1|Wohnen
+Fahrradkeller|der|-|N|подвал для велосипедов|Raum für Fahrräder|Die Fahrräder stehen im Fahrradkeller.|B1|Wohnen
+Dachboden|der|-|N|чердак|Raum unter dem Dach|Die alten Sachen sind auf dem Dachboden.|B1|Wohnen
+Abstellraum|der|-|N|кладовка|kleiner Raum für Dinge|Der Staubsauger ist im Abstellraum.|B1|Wohnen
+Gästezimmer|das|-|N|гостевая комната|Zimmer für Besuch|Meine Mutter schläft im Gästezimmer.|A2|Wohnen
+Esszimmer|das|-|N|столовая (комната)|Zimmer zum Essen|Wir essen im Esszimmer.|A2|Wohnen
+Arbeitszimmer|das|-|N|кабинет|Zimmer zum Arbeiten|Im Arbeitszimmer steht mein Computer.|A2|Wohnen
+Badewanne|die|Badewannen|N|ванна|großes Becken zum Baden|Die Kinder baden in der Badewanne.|A2|Wohnen
+Waschbecken|das|Waschbecken|N|раковина|Becken zum Händewaschen|Das Waschbecken ist verstopft.|A2|Wohnen
+Wasserkasten|der|-|N|бачок унитаза|Behälter für das Wasser der Toilette|Der Wasserkasten tropft.|B2|Wohnen
+Steckerleiste|die|-|N|сетевой фильтр, тройник|Leiste mit mehreren Steckdosen|Hinter dem Fernseher ist eine Steckerleiste.|B1|Wohnen
+Lichtschalter|der|-|N|выключатель|Knopf für das Licht|Der Lichtschalter ist neben der Tür.|A2|Wohnen
+Rollladen|der|Rollläden|N|рольставни|Schutz vor dem Fenster|Am Abend mache ich die Rollläden runter.|B1|Wohnen
+Gardine|die|Gardinen|N|занавеска, тюль|dünner Stoff am Fenster|Die Gardinen müssen gewaschen werden.|B1|Wohnen
+Möbelstück|das|-|N|предмет мебели|ein Teil der Möbel|Das Sofa ist mein liebstes Möbelstück.|B1|Wohnen
+Bücherregal|das|-|N|книжная полка|Regal für Bücher|Das Bücherregal ist voll.|A2|Wohnen
+Kinderbett|das|-|N|детская кровать|Bett für ein Kind|Das Baby schläft im Kinderbett.|A2|Wohnen
+Hochbett|das|-|N|кровать-чердак|Bett hoch oben|Mein Sohn schläft im Hochbett.|B1|Wohnen
+Schreibtischlampe|die|-|N|настольная лампа|Lampe für den Schreibtisch|Die Schreibtischlampe ist zu dunkel.|A2|Wohnen
+Garderobe|die|Garderoben|N|вешалка, гардероб|Platz für Jacken an der Tür|Häng deine Jacke an die Garderobe.|B1|Wohnen
+Fußmatte|die|-|N|коврик у двери|kleine Matte vor der Tür|Der Schlüssel liegt unter der Fußmatte.|B1|Wohnen
+Blumentopf|der|-|N|цветочный горшок|Topf für Pflanzen|Auf dem Balkon stehen viele Blumentöpfe.|A2|Wohnen
+Zimmerpflanze|die|-|N|комнатное растение|Pflanze in der Wohnung|Zimmerpflanzen machen die Luft besser.|B1|Wohnen
+Umzugskarton|der|-|N|коробка для переезда|Karton für den Umzug|Wir brauchen noch 20 Umzugskartons.|B1|Wohnen
+Wohnungsübergabe|die|-|N|передача квартиры|Termin, an dem man die Wohnung übergibt|Bei der Wohnungsübergabe prüft der Vermieter alles.|B2|Wohnen
+Mieterin|die|Mieterinnen|N|квартиросъёмщица|Frau, die eine Wohnung mietet|Die neue Mieterin zieht morgen ein.|A2|Wohnen
+Hausgemeinschaft|die|-|N|жильцы дома|alle Bewohner eines Hauses|Die Hausgemeinschaft macht im Sommer ein Fest.|B2|Wohnen
+Fahrstuhl|der|Fahrstühle|N|лифт|Aufzug|Der Fahrstuhl ist wieder kaputt.|A2|Wohnen
+Familienfeier|die|-|N|семейный праздник|Fest mit der Familie|Am Sonntag haben wir eine Familienfeier.|A2|Familie
+Verwandtschaft|die|-|N|родня|alle Verwandten|Die ganze Verwandtschaft kommt zur Hochzeit.|B1|Familie
+Ehepaar|das|Ehepaare|N|супружеская пара|Mann und Frau, verheiratet|Das Ehepaar nebenan ist sehr nett.|B1|Familie
+Partnerin|die|Partnerinnen|N|партнёрша|Frau in einer Beziehung|Er wohnt mit seiner Partnerin zusammen.|B1|Familie
+Stiefvater|der|-|N|отчим|neuer Mann der Mutter|Mein Stiefvater ist sehr lieb.|B1|Familie
+Halbschwester|die|-|N|сводная сестра|Schwester mit nur einem gemeinsamen Elternteil|Ich habe eine Halbschwester.|B1|Familie
+Einzelkind|das|-|N|единственный ребёнок|Kind ohne Geschwister|Mein Sohn ist ein Einzelkind.|B1|Familie
+Kleinkind|das|-|N|малыш|Kind von 1 bis 3 Jahren|Mit einem Kleinkind ist Reisen schwierig.|B1|Familie
+Teenager|der|Teenager|N|подросток|Jugendlicher zwischen 13 und 19|Meine Tochter ist jetzt ein Teenager.|B1|Familie
+Pubertät|die|-|N|переходный возраст|Zeit, in der Kinder erwachsen werden|In der Pubertät gibt es oft Streit.|B2|Familie
+Erziehungsberechtigte|die|Erziehungsberechtigten|N|законный представитель (ребёнка)|Eltern oder Vormund|Die Erziehungsberechtigten müssen unterschreiben.|B2|Familie
+Babysitterin|die|-|N|няня|Frau, die auf Kinder aufpasst|Am Samstag kommt die Babysitterin.|A2|Familie
+Kinderwunsch|der|-|N|желание иметь детей|Wunsch, ein Kind zu bekommen|Viele Paare haben einen Kinderwunsch.|B2|Familie
+Geburtstagskind|das|-|N|именинник|Person, die Geburtstag hat|Das Geburtstagskind bläst die Kerzen aus.|A2|Familie
+Jubiläum|das|Jubiläen|N|юбилей|Feier eines wichtigen Jahrestags|Die Firma feiert ihr 50-jähriges Jubiläum.|B2|Feste
+Muttertag|der|-|N|День матери|Fest für Mütter im Mai|Zum Muttertag bekomme ich Blumen.|A2|Feste
+Nikolaustag|der|-|N|день святого Николая|6. Dezember, Kinder bekommen Süßigkeiten|Am Nikolaustag stellen die Kinder Stiefel vor die Tür.|B1|Feste
+Adventskalender|der|-|N|адвент-календарь|Kalender mit 24 Türen im Dezember|Jeden Morgen öffnet mein Sohn ein Türchen im Adventskalender.|B1|Feste
+Feuerwerk|das|-|N|фейерверк|bunte Raketen am Himmel|Zu Silvester gibt es ein Feuerwerk.|A2|Feste
+Strickjacke|die|-|N|вязаная кофта|warme Jacke aus Wolle|Zieh die Strickjacke an, es ist kalt.|B1|Kleidung
+Regenjacke|die|-|N|дождевик|Jacke gegen Regen|Nimm die Regenjacke mit.|A2|Kleidung
+Winterjacke|die|-|N|зимняя куртка|warme Jacke für den Winter|Meine Tochter braucht eine neue Winterjacke.|A2|Kleidung
+Turnschuh|der|Turnschuhe|N|кроссовка|Sportschuh|Für den Sportunterricht braucht er Turnschuhe.|A2|Kleidung
+Gummistiefel|der|-|N|резиновые сапоги|Stiefel gegen Wasser|Bei Regen trägt das Kind Gummistiefel.|A2|Kleidung
+Badeanzug|der|-|N|купальник|Kleidung zum Schwimmen für Frauen|Ich habe meinen Badeanzug vergessen.|A2|Kleidung
+Badehose|die|-|N|плавки|Kleidung zum Schwimmen für Männer|Pack die Badehose ein!|A2|Kleidung
+Halstuch|das|-|N|шейный платок|Tuch um den Hals|Sie trägt ein buntes Halstuch.|B1|Kleidung
+Ohrring|der|Ohrringe|N|серьга|Schmuck am Ohr|Die Ohrringe sind aus Silber.|A2|Kleidung
+Armband|das|Armbänder|N|браслет|Schmuck am Arm|Ich habe ein Armband geschenkt bekommen.|A2|Kleidung
+Sonnenbrille|die|-|N|солнцезащитные очки|Brille gegen die Sonne|Wo ist meine Sonnenbrille?|A2|Kleidung
+Reißverschluss|der|-|N|молния (застёжка)|Verschluss an Jacken|Der Reißverschluss ist kaputt.|B1|Kleidung
+Knopf|der|Knöpfe|N|пуговица; кнопка|kleines rundes Teil zum Schließen|An der Jacke fehlt ein Knopf.|A2|Kleidung
+Ärmel|der|-|N|рукав|Teil der Kleidung für den Arm|Die Ärmel sind zu lang.|B1|Kleidung
+Fleck|der|Flecken|N|пятно|schmutzige Stelle|Auf dem Hemd ist ein Fleck.|B1|Kleidung
+Waschanleitung|die|-|N|инструкция по стирке|Zeichen, wie man etwas wäscht|Lies die Waschanleitung!|B2|Kleidung
+sich anziehen|-|zieht sich an, zog sich an, hat sich angezogen|V|одеваться|Kleidung anlegen|Die Kinder ziehen sich an.|A2|Kleidung
+nähen|-|näht, nähte, hat genäht|V|шить|mit Nadel und Faden arbeiten|Ich nähe den Knopf an.|B1|Kleidung
+kürzen|-|kürzt, kürzte, hat gekürzt|V|укорачивать|kürzer machen|Die Hose muss gekürzt werden.|B1|Kleidung
+Kinn|das|Kinne|N|подбородок|unterer Teil des Gesichts|Er hat sich am Kinn verletzt.|B1|Körper
+Wange|die|Wangen|N|щека|Teil des Gesichts neben der Nase|Sie gibt ihm einen Kuss auf die Wange.|B1|Körper
+Augenbraue|die|Augenbrauen|N|бровь|Haare über dem Auge|Sie hat dunkle Augenbrauen.|B1|Körper
+Nacken|der|-|N|затылок, шея сзади|hinterer Teil des Halses|Mein Nacken ist verspannt.|B1|Körper
+Handgelenk|das|-|N|запястье|Gelenk zwischen Hand und Arm|Ich habe mir das Handgelenk verstaucht.|B1|Körper
+Daumen|der|-|N|большой палец|dicker Finger|Ich drücke dir die Daumen!|A2|Körper
+Fingernagel|der|-|N|ноготь|harter Teil am Fingerende|Der Fingernagel ist abgebrochen.|B1|Körper
+Hüfte|die|Hüften|N|бедро (тазобедренный сустав)|Teil des Körpers unter dem Bauch an der Seite|Oma hat eine neue Hüfte bekommen.|B1|Körper
+Oberschenkel|der|-|N|бедро|oberer Teil des Beins|Ich habe einen blauen Fleck am Oberschenkel.|B1|Körper
+Knöchel|der|-|N|лодыжка|Gelenk am Fuß|Mein Knöchel ist geschwollen.|B1|Körper
+Ferse|die|Fersen|N|пятка|hinterer Teil des Fußes|Die neuen Schuhe drücken an der Ferse.|B1|Körper
+Gehirn|das|-|N|мозг|Organ im Kopf zum Denken|Lernen trainiert das Gehirn.|B1|Körper
+Niere|die|Nieren|N|почка|Organ, das das Blut reinigt|Er hat Probleme mit den Nieren.|B2|Körper
+Leber|die|-|N|печень|Organ im Bauch|Alkohol schadet der Leber.|B2|Körper
+Stimme|die|Stimmen|N|голос|Ton beim Sprechen|Ich habe keine Stimme mehr.|A2|Körper
+Atem|der|-|N|дыхание|Luft beim Atmen|Ich bin außer Atem.|B1|Körper
+Körpergröße|die|-|N|рост|wie groß ein Mensch ist|Bitte geben Sie Ihre Körpergröße an.|B1|Körper
+Zeitpunkt|der|-|N|момент (времени)|bestimmter Moment|Zu diesem Zeitpunkt war ich nicht da.|B1|Zeit
+Wochentag|der|Wochentage|N|день недели|Montag bis Sonntag|An welchem Wochentag hast du frei?|A2|Zeit
+Werktag|der|Werktage|N|рабочий день|Montag bis Freitag (oder Samstag)|Die Lieferung dauert drei Werktage.|B1|Zeit
+Ferientag|der|-|N|день каникул|Tag in den Ferien|Am ersten Ferientag schlafen alle lange.|A2|Zeit
+Halbjahr|das|-|N|полугодие|sechs Monate|Im ersten Halbjahr war ich oft krank.|B1|Zeit
+Quartal|das|Quartale|N|квартал (три месяца)|drei Monate|Die Versichertenkarte brauche ich einmal pro Quartal.|B1|Zeit
+Jahreswechsel|der|-|N|смена года|Übergang zum neuen Jahr|Zum Jahreswechsel sind wir bei Freunden.|B1|Zeit
+Vorabend|der|-|N|канун|Abend vorher|Am Vorabend der Hochzeit feiern wir.|B2|Zeit
+Morgengrauen|das|-|N|рассвет|ganz früh am Morgen|Wir sind im Morgengrauen losgefahren.|B2|Zeit
+Dämmerung|die|-|N|сумерки|Zeit zwischen Tag und Nacht|In der Dämmerung sieht man schlecht.|B2|Zeit
+früher|-|-|Adv|раньше|in der Vergangenheit|Früher habe ich in Kiew gewohnt.|A2|Zeit
+heutzutage|-|-|Adv|в наши дни|in der heutigen Zeit|Heutzutage hat jeder ein Handy.|B1|Zeit
+seither|-|-|Adv|с тех пор|seit diesem Zeitpunkt|Seither wohne ich in Dresden.|B2|Zeit
+vorerst|-|-|Adv|пока что|zuerst einmal, für jetzt|Vorerst bleiben wir in der kleinen Wohnung.|B2|Zeit
+zwischendurch|-|-|Adv|в промежутках|ab und zu dazwischen|Zwischendurch trinke ich einen Tee.|B1|Zeit
+morgens|-|-|Adv|по утрам|jeden Morgen|Morgens trinke ich Kaffee.|A2|Zeit
+mittags|-|-|Adv|в полдень|jeden Mittag|Mittags esse ich in der Kantine.|A2|Zeit
+abends|-|-|Adv|по вечерам|jeden Abend|Abends lese ich.|A2|Zeit
+sonntags|-|-|Adv|по воскресеньям|jeden Sonntag|Sonntags sind die Geschäfte zu.|A2|Zeit

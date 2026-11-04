@@ -1,0 +1,109 @@
+# M6 Alltag A2/B1: Küche, Essen, Einkaufen, Haushalt
+Besteck|das|-|N|столовые приборы|Messer, Gabel und Löffel|Das Besteck liegt in der Schublade.|A2|Haushalt
+Becher|der|Becher|N|кружка, стаканчик|Gefäß zum Trinken ohne Henkel|Ich trinke Kaffee aus einem Becher.|A2|Haushalt
+Deckel|der|Deckel|N|крышка|oberer Teil, der etwas schließt|Mach den Deckel auf den Topf.|A2|Haushalt
+Schneidebrett|das|Schneidebretter|N|разделочная доска|Brett zum Schneiden|Ich schneide die Zwiebeln auf dem Schneidebrett.|B1|Haushalt
+Sieb|das|Siebe|N|сито, дуршлаг|Gerät zum Abgießen von Wasser|Gieß die Nudeln durch das Sieb.|B1|Haushalt
+Backblech|das|Backbleche|N|противень|flaches Blech für den Backofen|Leg die Kekse auf das Backblech.|B1|Haushalt
+Rührschüssel|die|Rührschüsseln|N|миска для смешивания|große Schüssel zum Mischen|Gib Mehl und Eier in die Rührschüssel.|B1|Haushalt
+Küchenrolle|die|Küchenrollen|N|бумажные полотенца|Papier für die Küche|Wisch das mit der Küchenrolle ab.|B1|Haushalt
+Alufolie|die|-|N|фольга|dünnes Metall zum Einpacken|Ich decke den Kuchen mit Alufolie ab.|B1|Haushalt
+Vorratsdose|die|Vorratsdosen|N|контейнер для хранения|Dose für Lebensmittel|Der Reis ist in der Vorratsdose.|B1|Haushalt
+Thermoskanne|die|Thermoskannen|N|термос|Kanne, die warm hält|Ich nehme Tee in der Thermoskanne mit.|B1|Haushalt
+Brotdose|die|Brotdosen|N|ланч-бокс|Dose für Pausenbrot|Die Brotdose für die Schule ist rot.|A2|Haushalt
+Spüle|die|Spülen|N|мойка (кухонная)|Becken zum Abwaschen|Das Geschirr steht in der Spüle.|B1|Haushalt
+Dunstabzugshaube|die|-|N|вытяжка|Gerät über dem Herd|Mach bitte die Dunstabzugshaube an.|B2|Haushalt
+Toaster|der|Toaster|N|тостер|Gerät für Toastbrot|Der Toaster ist kaputt.|A2|Haushalt
+Mixer|der|Mixer|N|блендер, миксер|Gerät zum Mischen|Mit dem Mixer mache ich einen Smoothie.|B1|Haushalt
+Wäscheständer|der|-|N|сушилка для белья|Gestell zum Trocknen der Wäsche|Der Wäscheständer steht auf dem Balkon.|B1|Haushalt
+Wäschekorb|der|Wäschekörbe|N|корзина для белья|Korb für schmutzige Wäsche|Leg die Socken in den Wäschekorb.|A2|Haushalt
+Trockner|der|Trockner|N|сушильная машина|Maschine, die Wäsche trocknet|Wir haben keinen Trockner.|B1|Haushalt
+Kleiderbügel|der|Kleiderbügel|N|вешалка|Bügel für Kleidung|Häng die Jacke auf einen Kleiderbügel.|B1|Haushalt
+Glühbirne|die|Glühbirnen|N|лампочка|Lampe in einer Leuchte|Die Glühbirne ist kaputt.|B1|Haushalt
+Batterie|die|Batterien|N|батарейка|kleiner Stromspeicher|Die Fernbedienung braucht neue Batterien.|A2|Haushalt
+Fernbedienung|die|Fernbedienungen|N|пульт|Gerät, um den Fernseher zu steuern|Wo ist die Fernbedienung?|A2|Haushalt
+Verlängerungskabel|das|-|N|удлинитель|langes Kabel für Strom|Wir brauchen ein Verlängerungskabel.|B1|Haushalt
+Werkzeugkasten|der|-|N|ящик с инструментами|Kiste mit Werkzeug|Der Werkzeugkasten ist im Keller.|B1|Haushalt
+Putzmittel|das|Putzmittel|N|чистящее средство|Mittel zum Putzen|Das Putzmittel steht unter der Spüle.|A2|Haushalt
+Schwamm|der|Schwämme|N|губка|weiches Ding zum Abwaschen|Nimm einen Schwamm.|A2|Haushalt
+Haushaltsplan|der|-|N|план домашних дел|Plan, wer was im Haushalt macht|Wir haben einen Haushaltsplan für die Kinder.|B1|Haushalt
+Hausarbeit|die|-|N|работа по дому|Putzen, Waschen, Kochen|Ich teile die Hausarbeit mit meinem Mann.|A2|Haushalt
+Haushaltsgerät|das|Haushaltsgeräte|N|бытовой прибор|Maschine für den Haushalt|Haushaltsgeräte sind teuer.|B1|Haushalt
+Frühstücksei|das|-|N|яйцо на завтрак|gekochtes Ei zum Frühstück|Am Sonntag gibt es ein Frühstücksei.|A2|Lebensmittel
+Rührei|das|-|N|яичница-болтунья|gebratene, gemischte Eier|Die Kinder essen gern Rührei.|A2|Lebensmittel
+Spiegelei|das|Spiegeleier|N|яичница-глазунья|gebratenes Ei mit ganzem Eigelb|Ich mache mir ein Spiegelei.|A2|Lebensmittel
+Müsli|das|-|N|мюсли|Frühstück aus Getreide|Zum Frühstück esse ich Müsli.|A2|Lebensmittel
+Haferflocken|die|-|N|овсяные хлопья|flache Körner aus Hafer|Aus Haferflocken koche ich Brei.|B1|Lebensmittel
+Brei|der|Breie|N|каша|weiches, dickes Essen|Das Baby isst Brei.|B1|Lebensmittel
+Hefe|die|-|N|дрожжи|Mittel, damit Teig wächst|Für das Brot brauche ich Hefe.|B1|Lebensmittel
+Teig|der|Teige|N|тесто|Masse aus Mehl, Wasser usw.|Der Teig muss eine Stunde ruhen.|B1|Lebensmittel
+Essig|der|-|N|уксус|saure Flüssigkeit|Für den Salat brauche ich Essig und Öl.|B1|Lebensmittel
+Senf|der|-|N|горчица|scharfe gelbe Soße|Würstchen mit Senf, bitte.|A2|Lebensmittel
+Ketchup|der|-|N|кетчуп|rote Tomatensoße|Die Kinder essen Pommes mit Ketchup.|A2|Lebensmittel
+Mayonnaise|die|-|N|майонез|weiße Soße aus Ei und Öl|Im Salat ist Mayonnaise.|A2|Lebensmittel
+Würstchen|das|Würstchen|N|сосиска|kleine Wurst|Zum Grillen kaufe ich Würstchen.|A2|Lebensmittel
+Hackfleisch|das|-|N|фарш|klein gemahlenes Fleisch|Für Pelmeni brauche ich Hackfleisch.|B1|Lebensmittel
+Lachs|der|-|N|лосось|roter Fisch|Lachs ist sehr gesund.|B1|Lebensmittel
+Thunfisch|der|-|N|тунец|großer Fisch, oft in der Dose|Pizza mit Thunfisch, bitte.|A2|Lebensmittel
+Erbse|die|Erbsen|N|горох, горошек|kleines grünes Gemüse|Ich koche Erbsensuppe.|A2|Lebensmittel
+Bohne|die|Bohnen|N|фасоль, бобы|Gemüse in einer langen Schale|Grüne Bohnen sind gesund.|A2|Lebensmittel
+Mais|der|-|N|кукуруза|gelbe Körner|Im Salat ist Mais.|A2|Lebensmittel
+Kürbis|der|Kürbisse|N|тыква|großes oranges Gemüse|Im Herbst kochen wir Kürbissuppe.|B1|Lebensmittel
+Zucchini|die|Zucchini|N|кабачок|langes grünes Gemüse|Ich brate die Zucchini in der Pfanne.|B1|Lebensmittel
+Aubergine|die|Auberginen|N|баклажан|violettes Gemüse|Auberginen esse ich gern gegrillt.|B1|Lebensmittel
+Spinat|der|-|N|шпинат|grünes Blattgemüse|Spinat mit Kartoffeln und Ei.|B1|Lebensmittel
+Rote Bete|die|-|N|свёкла|rotes Wurzelgemüse|Für Borschtsch braucht man Rote Bete.|B1|Lebensmittel
+Dill|der|-|N|укроп|grünes Kraut|Gurkensalat mit Dill schmeckt gut.|B1|Lebensmittel
+Petersilie|die|-|N|петрушка|grünes Küchenkraut|Streu etwas Petersilie darüber.|B1|Lebensmittel
+Walnuss|die|Walnüsse|N|грецкий орех|Nuss mit harter Schale|Im Kuchen sind Walnüsse.|B1|Lebensmittel
+Rosine|die|Rosinen|N|изюм|getrocknete Traube|Mein Sohn mag keine Rosinen.|B1|Lebensmittel
+Sahnetorte|die|-|N|торт со сливками|Torte mit Sahne|Zum Geburtstag gibt es eine Sahnetorte.|A2|Lebensmittel
+Gebäck|das|-|N|выпечка|Kekse, Kuchen usw.|Zum Kaffee gibt es Gebäck.|B1|Lebensmittel
+Süßigkeiten|die|-|N|сладости|Bonbons, Schokolade usw.|Zu viele Süßigkeiten sind ungesund.|A2|Lebensmittel
+Bonbon|das|Bonbons|N|конфета (леденец)|kleine Süßigkeit|Das Kind möchte ein Bonbon.|A2|Lebensmittel
+Kakao|der|-|N|какао|Getränk aus Schokolade und Milch|Am Abend trinken die Kinder Kakao.|A2|Lebensmittel
+Limonade|die|Limonaden|N|лимонад|süßes Getränk mit Kohlensäure|Möchtest du eine Limonade?|A2|Lebensmittel
+Leitungswasser|das|-|N|вода из-под крана|Wasser aus dem Wasserhahn|In Deutschland kann man Leitungswasser trinken.|B1|Lebensmittel
+Abendbrot|das|-|N|ужин (холодный)|kaltes Abendessen mit Brot|Um sechs gibt es Abendbrot.|A2|Lebensmittel
+Imbiss|der|Imbisse|N|закусочная; перекус|kleines schnelles Essen; kleines Lokal|Mittags gehe ich zum Imbiss.|B1|Lebensmittel
+Lieferdienst|der|Lieferdienste|N|служба доставки еды|Firma, die Essen nach Hause bringt|Heute bestellen wir beim Lieferdienst.|B1|Lebensmittel
+Zubereitung|die|-|N|приготовление|wie man ein Essen macht|Die Zubereitung dauert 30 Minuten.|B1|Lebensmittel
+Kalorie|die|Kalorien|N|калория|Energie im Essen|Dieser Kuchen hat viele Kalorien.|B1|Lebensmittel
+Vitamin|das|Vitamine|N|витамин|wichtiger Stoff im Essen|Obst hat viele Vitamine.|B1|Lebensmittel
+Verfallsdatum|das|-|N|срок годности|Datum, bis wann man etwas essen kann|Das Verfallsdatum ist abgelaufen.|B1|Lebensmittel
+Pfandflasche|die|Pfandflaschen|N|бутылка с залогом|Flasche, für die man Geld zurückbekommt|Ich bringe die Pfandflaschen zurück.|B1|Einkaufen
+Pfandautomat|der|-|N|автомат для приёма тары|Automat für leere Flaschen|Der Pfandautomat ist voll.|B1|Einkaufen
+Tiefkühlkost|die|-|N|замороженные продукты|gefrorenes Essen|Tiefkühlkost ist praktisch.|B1|Einkaufen
+Obstabteilung|die|-|N|отдел фруктов|Bereich im Supermarkt mit Obst|Die Bananen sind in der Obstabteilung.|A2|Einkaufen
+Fleischtheke|die|-|N|мясной прилавок|Theke für frisches Fleisch|An der Fleischtheke ist eine lange Schlange.|B1|Einkaufen
+Kühlregal|das|Kühlregale|N|холодильная витрина|kaltes Regal im Supermarkt|Die Milch steht im Kühlregal.|B1|Einkaufen
+Großpackung|die|-|N|большая упаковка|große Menge in einer Packung|Die Großpackung ist günstiger.|B1|Einkaufen
+Markenprodukt|das|-|N|брендовый товар|Ware von einer bekannten Firma|Markenprodukte sind teurer.|B2|Einkaufen
+Eigenmarke|die|-|N|собственная марка магазина|billigere Marke des Supermarkts|Die Eigenmarke ist genauso gut.|B2|Einkaufen
+Wochenmarkt|der|-|N|еженедельный рынок|Markt einmal oder zweimal pro Woche|Auf dem Wochenmarkt kaufe ich Gemüse.|A2|Einkaufen
+Bioladen|der|Bioläden|N|магазин органических продуктов|Geschäft für Bio-Produkte|Im Bioladen ist alles teurer.|B1|Einkaufen
+Schlussverkauf|der|-|N|сезонная распродажа|Verkauf am Ende einer Saison|Im Schlussverkauf ist alles reduziert.|B1|Einkaufen
+Schnäppchen|das|Schnäppchen|N|выгодная покупка|sehr billige Ware|Die Jacke war ein Schnäppchen!|B1|Einkaufen
+Ratenkauf|der|-|N|покупка в рассрочку|in Raten bezahlen|Der Fernseher war ein Ratenkauf.|B2|Einkaufen
+Lieferzeit|die|-|N|срок доставки|wie lange die Lieferung dauert|Die Lieferzeit beträgt drei Tage.|B1|Einkaufen
+Versandkosten|die|-|N|стоимость доставки|Geld für den Versand|Ab 50 Euro gibt es keine Versandkosten.|B1|Einkaufen
+Warenkorb|der|-|N|корзина (в интернет-магазине)|Liste der Waren beim Online-Kauf|Ich lege die Schuhe in den Warenkorb.|B1|Einkaufen
+Kundenbewertung|die|-|N|отзыв покупателя|Meinung eines Kunden im Internet|Die Kundenbewertungen sind gut.|B1|Einkaufen
+Rücksendung|die|-|N|возвратная отправка|Ware zurückschicken|Die Rücksendung ist kostenlos.|B1|Einkaufen
+anbraten|-|brät an, briet an, hat angebraten|V|обжаривать|kurz in der Pfanne braten|Zuerst brate ich die Zwiebeln an.|B1|Lebensmittel
+würzen|-|würzt, würzte, hat gewürzt|V|приправлять|Gewürze dazugeben|Würz die Suppe mit Salz und Pfeffer.|B1|Lebensmittel
+abschmecken|-|schmeckt ab, schmeckte ab, hat abgeschmeckt|V|пробовать и доводить вкус|probieren und würzen|Zum Schluss die Soße abschmecken.|B2|Lebensmittel
+aufwärmen|-|wärmt auf, wärmte auf, hat aufgewärmt|V|разогревать|wieder warm machen|Ich wärme die Suppe von gestern auf.|A2|Lebensmittel
+einfrieren|-|friert ein, fror ein, hat eingefroren|V|замораживать|ins Gefrierfach tun|Ich friere das Brot ein.|B1|Lebensmittel
+auftauen|-|taut auf, taute auf, hat aufgetaut|V|размораживать|wieder weich machen|Das Fleisch muss noch auftauen.|B1|Lebensmittel
+reiben|-|reibt, rieb, hat gerieben|V|тереть (на тёрке)|mit der Reibe klein machen|Ich reibe den Käse.|B1|Lebensmittel
+umrühren|-|rührt um, rührte um, hat umgerührt|V|помешивать|mit dem Löffel bewegen|Ab und zu umrühren!|B1|Lebensmittel
+naschen|-|nascht, naschte, hat genascht|V|лакомиться|Süßigkeiten essen|Die Kinder naschen gern.|B1|Lebensmittel
+zurückbringen|-|bringt zurück, brachte zurück, hat zurückgebracht|V|возвращать (приносить обратно)|wieder hinbringen|Ich bringe die Bücher zurück.|A2|Einkaufen
+saubermachen|-|macht sauber, machte sauber, hat saubergemacht|V|убирать, чистить|sauber machen|Am Samstag machen wir die Wohnung sauber.|A2|Haushalt
+knusprig|-|knuspriger|A|хрустящий|außen hart und frisch|Die Brötchen sind schön knusprig.|B1|Lebensmittel
+saftig|-|saftiger|A|сочный|mit viel Saft|Der Kuchen ist sehr saftig.|B1|Lebensmittel
+zäh|-|zäher|A|жёсткий (о мясе)|schwer zu kauen|Das Fleisch ist zäh.|B1|Lebensmittel
+vegan|-|-|A|веганский|ganz ohne tierische Produkte|Meine Kollegin isst vegan.|B1|Lebensmittel
+glutenfrei|-|-|A|безглютеновый|ohne Gluten|Haben Sie glutenfreies Brot?|B2|Lebensmittel
+laktosefrei|-|-|A|безлактозный|ohne Milchzucker|Ich trinke nur laktosefreie Milch.|B2|Lebensmittel

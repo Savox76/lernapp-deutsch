@@ -1,0 +1,49 @@
+# M6 Alltag gemischt A2/B1: Kleidung, Körper, Zeit, Feste, Kommunikation
+Die Hose *passt* mir nicht mehr.|Брюки мне больше не подходят.|A2|Subjekt – Verb – Rest.|Kleidung
+Die blaue Farbe *steht* dir sehr gut.|Синий цвет тебе очень идёт.|A2|Subjekt – Verb – Rest.|Kleidung
+Im Winter *trage* ich immer eine Mütze.|Зимой я всегда ношу шапку.|A2|Zeit auf Position 1 → Verb → Subjekt.|Kleidung
+An meiner Jacke *fehlt* ein Knopf.|На моей куртке не хватает пуговицы.|A2|Ort auf Position 1 → Verb → Subjekt.|Kleidung
+*Zieh* dich warm an, es ist kalt draußen!|Оденься потеплее, на улице холодно!|A2|Imperativ: zieh … an.|Kleidung
+Ich *ziehe* mich nach der Arbeit sofort um.|После работы я сразу переодеваюсь.|A2|Trennbares Verb: ziehe … um.|Kleidung
+Die Schuhe sind zu klein, deshalb *tausche* ich sie um.|Туфли малы, поэтому я их обменяю.|A2|deshalb + Verb + Subjekt.|Kleidung
+Ich *habe* einen Fleck auf meine neue Bluse gemacht.|Я посадила пятно на новую блузку.|A2|Perfekt: habe … gemacht.|Kleidung
+Kannst du mir zeigen, wie man diesen Knopf *annäht*?|Можешь показать, как пришить эту пуговицу?|B1|Indirekte Frage: trennbares Verb zusammen am Ende.|Kleidung
+Mir *tut* der Rücken weh.|У меня болит спина.|A2|Dativ auf Position 1 → Verb → Subjekt.|Körper
+Mein Sohn *hat* sich das Knie aufgeschlagen.|Мой сын разбил коленку.|A2|Perfekt: hat … aufgeschlagen.|Körper
+Ich *bin* ausgerutscht und habe mir den Knöchel verstaucht.|Я поскользнулась и подвернула лодыжку.|B1|Perfekt mit sein + und + Perfekt mit haben.|Körper
+Nach dem Sport *habe* ich Muskelkater.|После спорта у меня болят мышцы.|A2|Zeit auf Position 1 → Verb → Subjekt.|Körper
+Wenn ich lange am Computer sitze, *bekomme* ich Kopfschmerzen.|Когда я долго сижу за компьютером, у меня болит голова.|B1|wenn-Satz zuerst → dann sofort das Verb.|Körper
+Ich *drücke* dir für die Prüfung die Daumen!|Держу за тебя кулачки на экзамене!|A2|Feste Wendung: die Daumen drücken.|Körper
+Wie spät *ist* es eigentlich?|А который вообще час?|A2|W-Frage: Verb auf Position 2.|Zeit
+Es *ist* Viertel nach acht.|Сейчас четверть девятого.|A2|Subjekt – Verb – Rest.|Zeit
+Der Kurs *beginnt* um halb neun.|Курс начинается в половине девятого.|A2|Subjekt – Verb – Rest.|Zeit
+Von Montag bis Freitag *arbeite* ich im Lager.|С понедельника по пятницу я работаю на складе.|A2|Zeit auf Position 1 → Verb → Subjekt.|Zeit
+Seit drei Jahren *lebe* ich in Deutschland.|Я живу в Германии три года.|A2|Zeit auf Position 1 → Verb → Subjekt.|Zeit
+Vor zwei Wochen *bin* ich umgezogen.|Две недели назад я переехала.|A2|Zeit auf Position 1 → Verb → Subjekt; Partizip am Ende.|Zeit
+In einer Stunde *muss* ich los.|Через час мне нужно уходить.|A2|Zeit auf Position 1 → Modalverb → Subjekt.|Zeit
+Früher *habe* ich als Lehrerin gearbeitet.|Раньше я работала учительницей.|A2|früher auf Position 1 → Verb → Subjekt.|Zeit
+Heutzutage *bezahlen* viele Leute mit dem Handy.|В наши дни многие платят телефоном.|B1|heutzutage auf Position 1 → Verb → Subjekt.|Zeit
+Zwischendurch *trinke* ich immer ein Glas Wasser.|В перерывах я всегда выпиваю стакан воды.|B1|Adverb auf Position 1 → Verb → Subjekt.|Zeit
+Zu Weihnachten *besucht* uns meine Schwester.|На Рождество к нам приезжает сестра.|A2|Angabe auf Position 1 → Verb → Subjekt.|Feste
+An Silvester *gibt* es ein großes Feuerwerk.|В новогоднюю ночь бывает большой фейерверк.|A2|Angabe auf Position 1 → Verb → es.|Feste
+Zum Muttertag *haben* die Kinder mir ein Bild gemalt.|На День матери дети нарисовали мне картину.|A2|Angabe auf Position 1 → haben → Subjekt.|Feste
+Wir *feiern* den Geburtstag meines Mannes im Restaurant.|Мы празднуем день рождения мужа в ресторане.|A2|Subjekt – Verb – Rest.|Feste
+Ich *lade* alle Kollegen zu meiner Feier ein.|Я приглашаю всех коллег на свой праздник.|A2|Trennbares Verb: lade … ein.|Feste
+*Kommst* du zu meiner Geburtstagsfeier?|Ты придёшь на мой день рождения?|A2|Ja/Nein-Frage: Verb auf Position 1.|Feste
+Herzlichen Glückwunsch zum Geburtstag!|С днём рождения!|A2|Feste Formel.|Feste
+Ich *habe* mich sehr über dein Geschenk gefreut.|Я очень обрадовалась твоему подарку.|A2|Perfekt: habe … gefreut.|Feste
+Weil wir an Ostern Urlaub haben, *fahren* wir zu meiner Familie.|Так как на Пасху у нас отпуск, мы едем к моей семье.|B1|weil-Satz zuerst → dann sofort das Verb.|Feste
+Das Fest, auf das sich alle *freuen*, findet im Juni statt.|Праздник, которого все ждут, будет в июне.|B1|Relativsatz mit Präposition.|Feste
+Ich *schicke* dir die Fotos per WhatsApp.|Я пришлю тебе фото по WhatsApp.|A2|Subjekt – Verb – Rest.|Kommunikation
+Meine Schwester *hat* mir eine Sprachnachricht geschickt.|Сестра прислала мне голосовое сообщение.|A2|Perfekt: hat … geschickt.|Kommunikation
+Ruf mich an, sobald du zu Hause *bist*.|Позвони мне, как только будешь дома.|B1|sobald: Verb am Ende.|Kommunikation
+Im Tunnel *hatte* ich leider kein Netz.|В туннеле у меня, к сожалению, не было связи.|B1|Ort auf Position 1 → Verb → Subjekt.|Kommunikation
+Ich *habe* mich verwählt, entschuldigen Sie bitte.|Я ошиблась номером, извините.|B1|Perfekt: habe … verwählt.|Kommunikation
+Er hat einfach aufgelegt, ohne sich zu verabschieden.|Он просто положил трубку, не попрощавшись.|B1|ohne … zu: Infinitiv am Ende.|Kommunikation
+Kannst du mir sagen, wer gerade angerufen *hat*?|Можешь сказать, кто сейчас звонил?|B1|Indirekte Frage + Perfekt: hat ganz am Ende.|Kommunikation
+Ich *würde* dich gern öfter besuchen.|Я бы хотела чаще тебя навещать.|B1|Konjunktiv II: würde … besuchen.|Freizeit
+Es *wäre* schön, wenn wir uns bald wiedersehen.|Было бы хорошо, если бы мы скоро снова увиделись.|B1|Konjunktiv II + wenn.|Freizeit
+Die Einladungen *wurden* schon verschickt.|Приглашения уже разослали.|B1|Passiv Präteritum.|Feste
+Der Kuchen *muss* noch dekoriert werden.|Торт ещё нужно украсить.|B1|Passiv mit Modalverb.|Feste
+Meine Freundin *hat* mir geholfen, das Fest vorzubereiten.|Подруга помогла мне подготовить праздник.|B1|Perfekt + zu-Infinitiv: vorzubereiten.|Feste
+Ich *freue* mich darauf, meine Familie bald wiederzusehen.|Я радуюсь, что скоро снова увижу семью.|B1|zu bei trennbaren Verben in der Mitte: wiederzusehen.|Familie

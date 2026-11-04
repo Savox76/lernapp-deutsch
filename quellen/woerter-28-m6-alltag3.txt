@@ -1,0 +1,92 @@
+# M6 Alltag 3: Stadt, Dienstleistungen, Natur, Tiere, Freizeit, Kommunikation
+Innenstadt|die|Innenstädte|N|центр города|Zentrum der Stadt|In der Innenstadt gibt es viele Geschäfte.|A2|Orte
+Stadtrand|der|-|N|окраина города|Rand der Stadt|Wir wohnen am Stadtrand.|B1|Orte
+Vorort|der|Vororte|N|пригород|kleiner Ort neben einer Stadt|Sie wohnen in einem Vorort von Dresden.|B1|Orte
+Marktplatz|der|-|N|рыночная площадь|Platz in der Stadtmitte|Auf dem Marktplatz ist ein Weihnachtsmarkt.|A2|Orte
+Rathausplatz|der|-|N|площадь у ратуши|Platz vor dem Rathaus|Wir treffen uns am Rathausplatz.|A2|Orte
+Hauptstraße|die|-|N|главная улица|wichtigste Straße|Die Bäckerei ist in der Hauptstraße.|A2|Orte
+Seitenstraße|die|-|N|переулок|kleine Straße neben einer Hauptstraße|Parken Sie in der Seitenstraße.|B1|Orte
+Gehweg|der|Gehwege|N|тротуар|Weg für Fußgänger|Auf dem Gehweg darf man nicht parken.|B1|Orte
+Bushaltestelle|die|-|N|автобусная остановка|Haltestelle für den Bus|Die Bushaltestelle ist vor der Schule.|A2|Orte
+Straßenecke|die|-|N|угол улицы|Ecke, wo zwei Straßen sich treffen|An der Straßenecke ist ein Kiosk.|A2|Orte
+Kiosk|der|Kioske|N|киоск|kleines Geschäft für Zeitungen und Getränke|Ich kaufe am Kiosk eine Zeitung.|A2|Orte
+Reinigung|die|-|N|химчистка|Geschäft, das Kleidung reinigt|Ich bringe den Mantel in die Reinigung.|B1|Orte
+Schuster|der|-|N|сапожник|Person, die Schuhe repariert|Der Schuster repariert meine Stiefel.|B1|Orte
+Optiker|der|-|N|оптика (магазин), оптик|Geschäft für Brillen|Beim Optiker mache ich einen Sehtest.|B1|Orte
+Blumenladen|der|-|N|цветочный магазин|Geschäft für Blumen|Im Blumenladen kaufe ich Rosen.|A2|Orte
+Buchhandlung|die|-|N|книжный магазин|Geschäft für Bücher|Die Buchhandlung hat auch russische Bücher.|A2|Orte
+Schreibwarenladen|der|-|N|канцелярский магазин|Geschäft für Stifte, Hefte usw.|Im Schreibwarenladen kaufe ich Hefte.|B1|Orte
+Elektrogeschäft|das|-|N|магазин электроники|Geschäft für Elektrogeräte|Im Elektrogeschäft gibt es Waschmaschinen.|B1|Orte
+Baumarkt|der|-|N|строительный магазин|Geschäft für Werkzeug und Material|Im Baumarkt kaufen wir Farbe.|B1|Orte
+Möbelhaus|das|-|N|мебельный магазин|großes Geschäft für Möbel|Wir haben das Sofa im Möbelhaus gekauft.|A2|Orte
+Fundbüro|das|-|N|бюро находок|Ort für verlorene Sachen|Ich frage im Fundbüro nach meiner Tasche.|B1|Orte
+Polizeirevier|das|-|N|полицейский участок|Büro der Polizei|Ich muss zum Polizeirevier.|B1|Orte
+Feuerwache|die|-|N|пожарная часть|Gebäude der Feuerwehr|Die Feuerwache ist um die Ecke.|B1|Orte
+Jugendzentrum|das|-|N|молодёжный центр|Treffpunkt für Jugendliche|Mein Sohn geht gern ins Jugendzentrum.|B1|Orte
+Gemeindezentrum|das|-|N|общественный центр|Haus für Veranstaltungen im Stadtteil|Im Gemeindezentrum gibt es einen Deutschkurs.|B1|Orte
+Moschee|die|Moscheen|N|мечеть|Gebetshaus im Islam|Die Moschee ist in der Nähe des Bahnhofs.|B1|Orte
+Synagoge|die|Synagogen|N|синагога|Gebetshaus im Judentum|Die Synagoge in Dresden ist sehr modern.|B1|Orte
+Hallenbad|das|-|N|крытый бассейн|Schwimmbad in einem Gebäude|Im Winter gehen wir ins Hallenbad.|A2|Freizeit
+Freibad|das|-|N|открытый бассейн|Schwimmbad im Freien|Im Sommer ist das Freibad voll.|A2|Freizeit
+Sportplatz|der|-|N|спортивная площадка|Platz für Sport|Die Kinder spielen auf dem Sportplatz Fußball.|A2|Freizeit
+Turnhalle|die|-|N|спортзал|Halle für Sport|Der Sportunterricht ist in der Turnhalle.|A2|Freizeit
+Kletterhalle|die|-|N|скалодром|Halle zum Klettern|Am Wochenende gehen wir in die Kletterhalle.|B1|Freizeit
+Stadtpark|der|-|N|городской парк|Park in der Stadt|Im Stadtpark kann man grillen.|A2|Freizeit
+Picknick|das|Picknicks|N|пикник|Essen im Freien|Am Sonntag machen wir ein Picknick.|A2|Freizeit
+Ausflugslokal|das|-|N|загородное кафе|Restaurant für Ausflügler|Nach der Wanderung essen wir im Ausflugslokal.|B2|Freizeit
+Liegewiese|die|-|N|лужайка для отдыха|Wiese zum Liegen im Schwimmbad|Wir liegen auf der Liegewiese.|B1|Freizeit
+Fahrradtour|die|-|N|велопрогулка|Ausflug mit dem Fahrrad|Wir machen eine Fahrradtour an der Elbe.|A2|Freizeit
+Wanderweg|der|-|N|туристическая тропа|Weg zum Wandern|Der Wanderweg ist gut markiert.|B1|Freizeit
+Aussicht|die|-|N|вид (на что-то)|was man von oben sieht|Vom Turm hat man eine tolle Aussicht.|B1|Freizeit
+Hobbyraum|der|-|N|комната для хобби|Raum für Hobbys|Im Keller haben wir einen Hobbyraum.|B1|Freizeit
+Gesellschaftsspiel|das|-|N|настольная игра|Spiel für mehrere Personen|Am Abend spielen wir Gesellschaftsspiele.|B1|Freizeit
+Puzzle|das|Puzzles|N|пазл|Bild aus vielen Teilen|Das Puzzle hat 1000 Teile.|A2|Freizeit
+Fotoalbum|das|-|N|фотоальбом|Buch mit Fotos|Oma zeigt uns ihr Fotoalbum.|A2|Freizeit
+Gitarre|die|Gitarren|N|гитара|Musikinstrument mit Saiten|Er spielt Gitarre.|A2|Freizeit
+Klavier|das|Klaviere|N|пианино|großes Musikinstrument mit Tasten|Meine Tochter lernt Klavier.|A2|Freizeit
+Chor|der|Chöre|N|хор|Gruppe, die zusammen singt|Ich singe in einem Chor.|B1|Freizeit
+Kinoprogramm|das|-|N|программа кино|Liste der Filme im Kino|Was läuft heute im Kinoprogramm?|A2|Freizeit
+Untertitel|der|-|N|субтитры|Text unter dem Film|Ich sehe Filme mit deutschen Untertiteln.|B1|Freizeit
+Gebirge|das|-|N|горы (горная местность)|viele Berge zusammen|Im Erzgebirge gibt es viel Schnee.|B1|Natur
+Gipfel|der|-|N|вершина|höchster Punkt eines Berges|Wir sind bis zum Gipfel gewandert.|B1|Natur
+Höhle|die|Höhlen|N|пещера|Loch im Berg|Die Kinder besichtigen eine Höhle.|B1|Natur
+Bach|der|Bäche|N|ручей|kleiner Fluss|Im Wald fließt ein Bach.|B1|Natur
+Teich|der|Teiche|N|пруд|kleines stehendes Wasser|Im Teich schwimmen Enten.|B1|Natur
+Sand|der|-|N|песок|feine Körner am Strand|Die Kinder spielen im Sand.|A2|Natur
+Welle|die|Wellen|N|волна|Bewegung des Wassers|Die Wellen sind heute hoch.|B1|Natur
+Ast|der|Äste|N|ветка|Teil eines Baumes|Ein Ast ist auf das Auto gefallen.|B1|Natur
+Wurzel|die|Wurzeln|N|корень|Teil der Pflanze in der Erde|Der Baum hat tiefe Wurzeln.|B1|Natur
+Blüte|die|Blüten|N|цветок (цветение)|Teil der Pflanze, der blüht|Im April sind die Kirschbäume voller Blüten.|B1|Natur
+Rose|die|Rosen|N|роза|schöne Blume mit Dornen|Er schenkt ihr rote Rosen.|A2|Natur
+Tulpe|die|Tulpen|N|тюльпан|Frühlingsblume|Im Garten blühen Tulpen.|A2|Natur
+Sonnenblume|die|-|N|подсолнух|große gelbe Blume|Die Sonnenblume ist das Symbol der Ukraine.|A2|Natur
+Tierarzt|der|Tierärzte|N|ветеринар|Arzt für Tiere|Mit der Katze gehe ich zum Tierarzt.|A2|Natur
+Tierheim|das|-|N|приют для животных|Haus für Tiere ohne Besitzer|Wir haben den Hund aus dem Tierheim.|B1|Natur
+Hase|der|Hasen|N|заяц|Tier mit langen Ohren|Im Feld sitzt ein Hase.|A2|Natur
+Kaninchen|das|-|N|кролик|kleines Haustier mit langen Ohren|Die Kinder haben ein Kaninchen.|A2|Natur
+Meerschweinchen|das|-|N|морская свинка|kleines Haustier|Meine Tochter wünscht sich ein Meerschweinchen.|B1|Natur
+Ente|die|Enten|N|утка|Vogel auf dem Wasser|Die Kinder füttern die Enten.|A2|Natur
+Taube|die|Tauben|N|голубь|grauer Vogel in der Stadt|Auf dem Platz sind viele Tauben.|A2|Natur
+Eichhörnchen|das|-|N|белка|kleines Tier mit buschigem Schwanz|Im Park springt ein Eichhörnchen.|B1|Natur
+Igel|der|-|N|ёж|kleines Tier mit Stacheln|Im Garten wohnt ein Igel.|B1|Natur
+Spinne|die|Spinnen|N|паук|Tier mit acht Beinen|Ich habe Angst vor Spinnen.|A2|Natur
+Ameise|die|Ameisen|N|муравей|kleines Insekt|In der Küche sind Ameisen.|B1|Natur
+Zecke|die|Zecken|N|клещ|kleines Tier, das beißt|Nach dem Wald suchen wir Zecken.|B1|Natur
+Schnecke|die|Schnecken|N|улитка|langsames Tier mit Haus|Die Schnecken essen den Salat im Garten.|B1|Natur
+füttern|-|füttert, fütterte, hat gefüttert|V|кормить (животных)|einem Tier Essen geben|Ich füttere die Katze.|A2|Natur
+Gassi gehen|-|geht Gassi, ging Gassi, ist Gassi gegangen|V|выгуливать собаку|mit dem Hund spazieren gehen|Ich gehe morgens mit dem Hund Gassi.|B1|Natur
+pflücken|-|pflückt, pflückte, hat gepflückt|V|срывать (цветы, ягоды)|Blumen oder Obst abnehmen|Wir pflücken Erdbeeren.|B1|Natur
+Anruf|der|Anrufe|N|звонок|wenn jemand telefoniert|Danke für Ihren Anruf.|A2|Kommunikation
+Sprachnachricht|die|-|N|голосовое сообщение|gesprochene Nachricht im Handy|Ich schicke dir eine Sprachnachricht.|A2|Kommunikation
+Kurznachricht|die|-|N|короткое сообщение|SMS oder Chatnachricht|Schreib mir eine Kurznachricht.|A2|Kommunikation
+Gruppenchat|der|-|N|групповой чат|Chat mit mehreren Personen|Im Gruppenchat der Klasse gibt es viele Nachrichten.|B1|Kommunikation
+Videoanruf|der|-|N|видеозвонок|Telefonat mit Bild|Mit meiner Mutter mache ich jeden Sonntag einen Videoanruf.|B1|Kommunikation
+Handynummer|die|-|N|номер мобильного|Telefonnummer des Handys|Gib mir deine Handynummer.|A2|Kommunikation
+Festnetz|das|-|N|стационарный телефон|Telefon mit Kabel zu Hause|Rufen Sie mich auf dem Festnetz an.|B1|Kommunikation
+Anrufbeantworter|der|-|N|автоответчик|Gerät, das Nachrichten speichert|Bitte sprechen Sie auf den Anrufbeantworter.|B1|Kommunikation
+Funkloch|das|-|N|место без связи|Ort ohne Handyempfang|Im Tunnel ist ein Funkloch.|B2|Kommunikation
+zurückschreiben|-|schreibt zurück, schrieb zurück, hat zurückgeschrieben|V|ответить (письменно)|eine Antwort schreiben|Ich schreibe dir heute Abend zurück.|A2|Kommunikation
+auflegen|-|legt auf, legte auf, hat aufgelegt|V|положить трубку|ein Telefonat beenden|Er hat einfach aufgelegt.|B1|Kommunikation
+sich verwählen|-|verwählt sich, verwählte sich, hat sich verwählt|V|ошибиться номером|falsche Nummer wählen|Entschuldigung, ich habe mich verwählt.|B1|Kommunikation
+chatten|-|chattet, chattete, hat gechattet|V|переписываться в чате|im Internet schreiben|Abends chatte ich mit meiner Schwester.|A2|Kommunikation
+verschicken|-|verschickt, verschickte, hat verschickt|V|рассылать, отправлять|wegschicken|Ich verschicke die Einladungen per E-Mail.|B1|Kommunikation
