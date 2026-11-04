@@ -42,7 +42,7 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ---
 
-## 2a. Meilensteine Inhalts-Ausbau (Auftrag vom 04.11.2026: alles vervierfachen)
+## 2a. Phase 1 – Meilensteine Inhalts-Ausbau A2–B2 (Auftrag vom 04.11.2026: alles vervierfachen)
 
 Ziel: ≈ 7.000 Wörter · ≈ 3.900 Übungssätze · 72 Schreibaufgaben · ≈ 520 Prüfungsaufgaben (DTB + DTZ).
 Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 Prüfungsaufgaben** und wird nach Abschluss auf main gepusht.
@@ -63,10 +63,39 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 | M11 | Inhaltspaket 8 | Grammatik-Drill zu allen 12 Themen · DTB-E-Mails und Telefonnotizen | ✅ fertig (Wörter → 5.148, Sätze → 3.094, Prüfung → 437) |
 | M12 | Inhaltspaket 9 | Verben, Adjektive, Redemittel · gemischte Prüfungsaufgaben | ⏳ als Nächstes |
 | M13 | Inhaltspaket 10 | Wortfamilien, Nomen-Verb-Verbindungen · Sprechen DTZ | offen |
-| M14 | Inhaltspaket 11 | Lücken füllen, bis alle Zielzahlen erreicht sind | offen |
-| M15 | Abschluss | Qualitätscheck (Dubletten, Fehler, Test im Browser), Zahlen prüfen | offen |
+| M14 | Inhaltspaket 11 | Lücken füllen bei Sätzen und Prüfung, bis die Zielzahlen erreicht sind | offen |
+| M15 | Wörter-Paket A | +450 Wörter: Fachwortschatz (Pflege, Technik, Logistik, Verwaltung), Adjektive, Adverbien – Kandidaten vorab gegen Bestand prüfen | offen |
+| M16 | Wörter-Paket B | +450 Wörter: Restlücke bis ≈ 7.000, Schwerpunkt B1/B2 | offen |
+| M17 | Abschluss Phase 1 | Qualitätscheck (Dubletten, Verbmarkierung, Übersetzungen, Test im Browser), Zahlen prüfen | offen |
 
-**Stand:** 11 von 15 Meilensteinen fertig. Aktuell: 5.148 Wörter · 3.094 Sätze · 72 Schreibaufgaben · 437 Prüfungsaufgaben.
+**Stand:** 11 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 5.148 Wörter · 3.094 Sätze · 72 Schreibaufgaben · 437 Prüfungsaufgaben.
+
+
+**Warum 17 statt 15:** Gängige Wörter sind inzwischen fast alle vorhanden (oft 30–60 % Dubletten). M5–M11 haben je nur 170–340 statt 400 neue Wörter gebracht. Mario hat am 04.11.2026 zugestimmt, mehr Meilensteine einzuplanen.
+
+## 2b. Ausblick: Phase 2 und 3 (Wunsch von Mario, 04.11.2026)
+
+Die App soll eine **reine Lernapp** werden: später auch C1/C2 und weitere Ausgangssprachen. Reihenfolge: erst Phase 1 abschließen, dann Phase 2, dann Phase 3. Vor jedem Umbau Mario fragen.
+
+**Phase 2 – Mehrere Ausgangssprachen**
+
+| # | Meilenstein | Inhalt |
+|---|---|---|
+| M18 | Datenstruktur mehrsprachig | Übersetzungen nicht mehr nur im Feld `ru`, sondern pro Sprache (z. B. `ru`, `uk`, `en`, `ar`, `tr`). Alte Felder bleiben lesbar, localStorage-Schlüssel bleiben gleich. Neue Einstellung „Meine Sprache“. Die rund 23 festen Stellen mit Russisch in `web/app.js` umbauen. |
+| M19 | Ukrainisch | Alle Wörter, Sätze, Aufgabenstellungen und Regeln ins Ukrainische (≈ 7.000 Wörter + 3.900 Sätze + Aufgaben → in Teilpaketen). |
+| M20 | Weitere Sprache 1 | Vorschlag: Englisch (als Brückensprache für viele Lernende) |
+| M21 | Weitere Sprache 2 | Vorschlag: Arabisch (Achtung: Schrift von rechts nach links, Layout anpassen) oder Türkisch |
+
+Hinweis: Jede neue Sprache bedeutet Übersetzungen für den gesamten Inhalt. Das ist pro Sprache etwa so viel Arbeit wie 3–4 Inhalts-Meilensteine. Ukrainisch lohnt sich, weil in Deutschland sehr viele Ukrainerinnen und Ukrainer Deutsch lernen und viele DTZ/DTB machen.
+
+**Phase 3 – C1 und C2**
+
+| # | Meilenstein | Inhalt |
+|---|---|---|
+| M22 | Recherche C1/C2 | Prüfungsformate klären (z. B. Goethe-Zertifikat C1/C2, telc C1, DTB C1) – vor dem Bau mit Mario festlegen, welche Prüfung |
+| M23–M26 | C1-Inhalte | Wortschatz (abstrakt, akademisch, Fachsprache), komplexe Grammatik (Nominalstil, Partizipialattribute, Konjunktiv I), Prüfungsaufgaben im neuen Format |
+| M27–M29 | C2-Inhalte | Stilistik, Redewendungen, Textproduktion auf hohem Niveau |
+| M30 | Niveauwahl | In den Einstellungen Niveau A2–C2 wählbar, Grundkurs und Prüfungsbereich passen sich an |
 
 ---
 
