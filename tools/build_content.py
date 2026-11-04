@@ -95,6 +95,10 @@ for path in sorted(glob.glob(os.path.join(SRC, "pruefung", "*.json"))):
         for it in items:
             if "id" not in it:
                 print(f"{os.path.basename(path)}: Aufgabe ohne id"); sys.exit(1)
+        have = {x["id"] for x in pr.get(typ, [])}
+        for it in items:
+            if it["id"] in have: print(f"{os.path.basename(path)}: doppelte id {typ}/{it['id']}"); sys.exit(1)
+            have.add(it["id"])
         pr.setdefault(typ, []).extend(items)
 json.dump(pr, open(os.path.join(OUT, "pruefung.json"), "w", encoding="utf8"), ensure_ascii=False, separators=(",", ":"))
 marked = sum(1 for s in sents if "*" in s["de"])
