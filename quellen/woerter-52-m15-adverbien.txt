@@ -1,0 +1,62 @@
+# M15 Adverbien und Partikeln (geprüfte neue Wörter)
+andauernd|-|-|Adv|постоянно|immer wieder, ohne Pause|Das Telefon klingelt andauernd.|B2|Alltag
+beziehungsweise|-|-|K|или; соответственно (bzw.)|oder; genauer gesagt|Sie arbeitet in Dresden beziehungsweise in Radebeul.|B2|Briefe
+bislang|-|-|Adv|до сих пор|bis jetzt|Bislang gibt es keine Antwort.|B2|Alltag
+dagegen|-|-|Adv|против; напротив|im Gegensatz dazu; nicht dafür|Ich bin dagegen.|B1|Meinung
+danach|-|-|Adv|после этого|später, nachher|Danach gehen wir essen.|A2|Alltag
+deswegen|-|-|Adv|поэтому|deshalb|Ich war krank, deswegen bin ich nicht gekommen.|B1|Alltag
+diesmal|-|-|Adv|на этот раз|dieses Mal|Diesmal klappt es bestimmt.|B1|Alltag
+ebenso|-|-|Adv|так же|genauso|Ich wünsche Ihnen ebenso ein schönes Wochenende.|B2|Alltag
+einigermaßen|-|-|Adv|более-менее|ziemlich, nicht ganz|Mir geht es einigermaßen gut.|B2|Alltag
+einmal|-|-|Adv|однажды; один раз|ein Mal; irgendwann|Ich war einmal in Wien.|A2|Alltag
+erstens|-|-|Adv|во-первых|als Erstes (beim Aufzählen)|Erstens ist es zu teuer, zweitens zu weit.|B1|Meinung
+zweitens|-|-|Adv|во-вторых|als Zweites|Zweitens fehlt uns die Zeit.|B1|Meinung
+drittens|-|-|Adv|в-третьих|als Drittes|Drittens finde ich die Idee gut.|B1|Meinung
+eventuell|-|-|Adv|возможно|vielleicht|Eventuell komme ich später.|B1|Alltag
+gar|-|-|Adv|вовсе|verstärkt nicht/kein: überhaupt|Das ist gar nicht schlimm.|B1|Alltag
+gewiss|-|-|Adv|конечно, несомненно|sicher|Gewiss, das mache ich gern.|B2|Alltag
+größtenteils|-|-|Adv|большей частью|zum größten Teil|Die Arbeit ist größtenteils erledigt.|B2|Arbeit
+hierbei|-|-|Adv|при этом|bei dieser Sache|Hierbei handelt es sich um einen Fehler.|B2|Briefe
+irgendwie|-|-|Adv|как-нибудь|auf irgendeine Art|Wir schaffen das irgendwie.|B1|Alltag
+jedoch|-|-|Adv|однако|aber|Das Angebot ist gut, jedoch zu teuer.|B2|Meinung
+jeweils|-|-|Adv|каждый раз; соответственно|jedes Mal; für jeden|Der Kurs findet jeweils montags statt.|B2|Bildung
+längst|-|-|Adv|давно|schon lange|Das weiß ich längst.|B2|Alltag
+letztlich|-|-|Adv|в итоге|am Ende|Letztlich hat alles geklappt.|B2|Meinung
+lieber|-|-|Adv|охотнее, лучше|Komparativ von gern|Ich trinke lieber Tee als Kaffee.|A2|Essen
+mehrmals|-|-|Adv|несколько раз|mehrere Male|Ich habe mehrmals angerufen.|B1|Alltag
+meistens|-|-|Adv|чаще всего|fast immer|Meistens fahre ich mit dem Bus.|A2|Alltag
+nebenbei|-|-|Adv|попутно; между делом|zusätzlich, gleichzeitig|Nebenbei lerne ich Englisch.|B2|Alltag
+normalerweise|-|-|Adv|обычно|in der Regel|Normalerweise stehe ich um sechs auf.|A2|Alltag
+notfalls|-|-|Adv|в крайнем случае|wenn nötig|Notfalls nehmen wir ein Taxi.|B2|Alltag
+nun|-|-|Adv|теперь, итак|jetzt|Nun sind wir fertig.|B1|Alltag
+nur|-|-|Adv|только|nicht mehr als|Ich habe nur zehn Euro.|A2|Alltag
+offenbar|-|-|Adv|очевидно, по-видимому|anscheinend|Offenbar hat niemand Zeit.|B2|Meinung
+sogar|-|-|Adv|даже|mehr als erwartet|Er hat mir sogar Blumen gebracht.|B1|Alltag
+stets|-|-|Adv|всегда|immer|Wir sind stets für Sie da.|B2|Briefe
+überhaupt|-|-|Adv|вообще|ganz und gar|Das stimmt überhaupt nicht.|B1|Meinung
+vergeblich|-|-|Adv|напрасно|ohne Erfolg|Ich habe vergeblich gewartet.|B2|Alltag
+vielmehr|-|-|Adv|скорее, напротив|eher, besser gesagt|Das ist kein Problem, vielmehr eine Chance.|B2|Meinung
+wenigstens|-|-|Adv|по крайней мере|mindestens|Ruf wenigstens kurz an!|B1|Alltag
+wieder|-|-|Adv|снова|noch einmal|Morgen regnet es wieder.|A2|Alltag
+wiederum|-|-|Adv|в свою очередь|andererseits; noch einmal|Das wiederum gefällt mir nicht.|B2|Meinung
+womöglich|-|-|Adv|возможно|vielleicht (eher negativ)|Womöglich fällt der Zug aus.|B2|Alltag
+zugleich|-|-|Adv|одновременно|gleichzeitig|Sie ist Mutter und zugleich Chefin.|B2|Alltag
+zurzeit|-|-|Adv|в настоящее время|jetzt, im Moment|Zurzeit arbeite ich in Teilzeit.|B1|Arbeit
+zuvor|-|-|Adv|до этого|vorher|Am Tag zuvor war ich krank.|B2|Alltag
+zwar|-|-|Adv|правда, хотя (zwar … aber)|kündigt einen Gegensatz an|Zwar ist es teuer, aber gut.|B1|Meinung
+anscheinend|-|-|Adv|по-видимому|so scheint es|Anscheinend ist niemand zu Hause.|B2|Alltag
+augenblicklich|-|-|Adv|в данный момент; немедленно|im Moment; sofort|Augenblicklich ist der Chef nicht erreichbar.|B2|Arbeit
+bekanntlich|-|-|Adv|как известно|wie man weiß|Bekanntlich ist Rauchen ungesund.|B2|Meinung
+freilich|-|-|Adv|конечно, впрочем|natürlich, allerdings|Das ist freilich nicht einfach.|B2|Meinung
+gleichfalls|-|-|Adv|взаимно|ebenso|„Schönes Wochenende!“ – „Danke, gleichfalls!“|B1|Alltag
+insgesamt|-|-|Adv|в целом; всего|alles zusammen|Insgesamt kostet das 80 Euro.|B1|Geld
+lediglich|-|-|Adv|лишь|nur|Es fehlt lediglich eine Unterschrift.|B2|Behörden
+nämlich|-|-|Adv|а именно; ведь|denn (Erklärung)|Ich komme nicht, ich bin nämlich krank.|B1|Alltag
+nochmals|-|-|Adv|ещё раз|noch einmal|Vielen Dank nochmals!|B1|Briefe
+ohne Weiteres|-|-|Adv|без проблем, запросто|ganz einfach, ohne Problem|Das können Sie ohne Weiteres ändern.|B2|Alltag
+sozusagen|-|-|Adv|так сказать|so könnte man sagen|Sie ist sozusagen die Seele des Teams.|B2|Meinung
+unterdessen|-|-|Adv|тем временем|in der Zwischenzeit|Unterdessen hat es angefangen zu regnen.|B2|Alltag
+vorwiegend|-|-|Adv|преимущественно|vor allem|Wir arbeiten vorwiegend im Frühdienst.|B2|Arbeit
+weiterhin|-|-|Adv|и дальше|auch in Zukunft|Wir wünschen Ihnen weiterhin alles Gute.|B2|Briefe
+zumeist|-|-|Adv|большей частью|meistens|Die Patienten sind zumeist über 80.|B2|Pflege
+zweifellos|-|-|Adv|несомненно|ohne Zweifel|Das ist zweifellos die beste Lösung.|B2|Meinung

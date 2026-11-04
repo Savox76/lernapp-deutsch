@@ -1,0 +1,53 @@
+# M15 Alltag: Natur, Tiere, Körper, Verkehr (geprüfte neue Wörter)
+Fuchs|der|Füchse|N|лиса|rotes Wildtier mit buschigem Schwanz|Im Park haben wir einen Fuchs gesehen.|A2|Umwelt
+Reh|das|Rehe|N|косуля|scheues Tier im Wald|Am Waldrand stehen zwei Rehe.|A2|Umwelt
+Maulwurf|der|Maulwürfe|N|крот|Tier, das unter der Erde lebt|Im Garten gibt es viele Maulwurfshügel.|B1|Umwelt
+Amsel|die|Amseln|N|чёрный дрозд|schwarzer Vogel|Morgens singt die Amsel vor dem Fenster.|B1|Umwelt
+Spatz|der|Spatzen|N|воробей|kleiner brauner Vogel|Die Spatzen sitzen auf dem Dach.|A2|Umwelt
+Möwe|die|Möwen|N|чайка|Vogel am Meer|Die Möwen klauen am Strand Pommes.|A2|Reisen
+Schwan|der|Schwäne|N|лебедь|großer weißer Vogel|Auf dem See schwimmen Schwäne.|A2|Umwelt
+Frosch|der|Frösche|N|лягушка|grünes Tier am Teich|Im Teich quaken die Frösche.|A2|Umwelt
+Wespe|die|Wespen|N|оса|gelb-schwarzes Insekt|Vorsicht, eine Wespe ist im Glas!|A2|Umwelt
+Marienkäfer|der|Marienkäfer|N|божья коровка|kleiner roter Käfer mit Punkten|Ein Marienkäfer sitzt auf meiner Hand.|A2|Umwelt
+Löwenzahn|der|-|N|одуванчик|gelbe Blume auf der Wiese|Die Kinder pusten den Löwenzahn.|B1|Umwelt
+Gänseblümchen|das|Gänseblümchen|N|маргаритка|kleine weiße Blume|Die Wiese ist voller Gänseblümchen.|B1|Umwelt
+Brennnessel|die|Brennnesseln|N|крапива|Pflanze, die auf der Haut brennt|Pass auf, da sind Brennnesseln!|B1|Umwelt
+Efeu|der|-|N|плющ|Kletterpflanze|Das alte Haus ist mit Efeu bewachsen.|B2|Umwelt
+Tanne|die|Tannen|N|ель, пихта|Nadelbaum|Zu Weihnachten kaufen wir eine Tanne.|A2|Umwelt
+Eiche|die|Eichen|N|дуб|großer Laubbaum|Die Eiche ist über 200 Jahre alt.|B1|Umwelt
+Birke|die|Birken|N|берёза|Baum mit weißer Rinde|Vor dem Haus stehen Birken.|B1|Umwelt
+Kastanie|die|Kastanien|N|каштан|Baum; braune Frucht|Im Herbst sammeln die Kinder Kastanien.|A2|Umwelt
+Zweig|der|Zweige|N|ветка|kleiner Ast|Der Vogel sitzt auf einem Zweig.|B1|Umwelt
+Rinde|die|Rinden|N|кора|Haut eines Baumes|Die Rinde der Birke ist weiß.|B2|Umwelt
+Moos|das|Moose|N|мох|grüne, weiche Pflanze|Im Wald wächst viel Moos.|B2|Umwelt
+Acker|der|Äcker|N|пашня|Feld für Getreide|Der Bauer pflügt den Acker.|B2|Umwelt
+Wüste|die|Wüsten|N|пустыня|trockenes Land mit Sand|Die Sahara ist die größte Wüste.|A2|Umwelt
+Felsen|der|Felsen|N|скала|großer Stein|Wir klettern auf die Felsen.|B1|Umwelt
+Schauer|der|Schauer|N|ливень (кратковременный)|kurzer Regen|Am Nachmittag gibt es einzelne Schauer.|B1|Wetter
+Blitz|der|Blitze|N|молния|helles Licht bei Gewitter|Nach dem Blitz kam der Donner.|A2|Wetter
+Donner|der|-|N|гром|Lärm bei Gewitter|Das Kind hat Angst vor dem Donner.|A2|Wetter
+Frost|der|-|N|мороз|Temperatur unter null Grad|Heute Nacht gibt es Frost.|B1|Wetter
+Tauwetter|das|-|N|оттепель|Schnee und Eis schmelzen|Bei Tauwetter sind die Straßen nass.|B2|Wetter
+Luftfeuchtigkeit|die|-|N|влажность воздуха|Wasser in der Luft|Die Luftfeuchtigkeit im Bad ist zu hoch.|B2|Wetter
+Zehe|die|Zehen|N|палец ноги|Teil des Fußes|Ich habe mir die Zehe gestoßen.|A2|Gesundheit
+Wimper|die|Wimpern|N|ресница|Haar am Augenlid|Mir ist eine Wimper ins Auge gefallen.|B1|Gesundheit
+Kehle|die|Kehlen|N|горло|vorderer Teil des Halses|Ich habe eine trockene Kehle.|B2|Gesundheit
+Rippe|die|Rippen|N|ребро|Knochen im Brustkorb|Beim Sturz hat er sich eine Rippe gebrochen.|B1|Gesundheit
+Wade|die|Waden|N|икра (ноги)|hinterer Teil des Unterschenkels|Nach dem Laufen tun mir die Waden weh.|B1|Gesundheit
+Faust|die|Fäuste|N|кулак|geschlossene Hand|Machen Sie eine Faust.|B1|Gesundheit
+Blase|die|Blasen|N|мочевой пузырь; волдырь|Organ für Urin; Wasser unter der Haut|Von den neuen Schuhen habe ich Blasen.|B1|Gesundheit
+Darm|der|Därme|N|кишечник|Organ der Verdauung|Joghurt ist gut für den Darm.|B2|Gesundheit
+Bürgersteig|der|Bürgersteige|N|тротуар|Weg für Fußgänger|Fahrräder dürfen nicht auf dem Bürgersteig fahren.|A2|Verkehr
+Fahrbahn|die|Fahrbahnen|N|проезжая часть|Teil der Straße für Autos|Die Fahrbahn ist glatt.|B1|Verkehr
+Spur|die|Spuren|N|полоса движения; след|Fahrstreifen; Abdruck|Wechseln Sie auf die rechte Spur.|B1|Verkehr
+Parkuhr|die|Parkuhren|N|паркомат|Automat zum Bezahlen fürs Parken|Ich muss noch Geld in die Parkuhr werfen.|A2|Verkehr
+Waschanlage|die|Waschanlagen|N|автомойка|Anlage zum Autowaschen|Das Auto fahren wir durch die Waschanlage.|B1|Verkehr
+Autobahnauffahrt|die|Autobahnauffahrten|N|въезд на автобан|Straße auf die Autobahn|Die Autobahnauffahrt ist gesperrt.|B2|Verkehr
+Raststätte|die|Raststätten|N|придорожное кафе|Platz zum Essen an der Autobahn|An der nächsten Raststätte machen wir Pause.|B1|Verkehr
+Entwerter|der|Entwerter|N|компостер|Gerät zum Stempeln der Fahrkarte|Stempeln Sie die Fahrkarte im Entwerter.|B1|Verkehr
+Anschlusszug|der|Anschlusszüge|N|пересадочный поезд|nächster Zug beim Umsteigen|Wegen der Verspätung habe ich den Anschlusszug verpasst.|B1|Verkehr
+Zugbegleiter|der|Zugbegleiter|N|проводник|Mitarbeiter im Zug|Der Zugbegleiter kontrolliert die Fahrkarten.|B1|Verkehr
+Schaffner|der|Schaffner|N|кондуктор|alte Bezeichnung für Zugbegleiter|Der Schaffner hat mir den Anschluss gezeigt.|A2|Verkehr
+Sitzplatzreservierung|die|Sitzplatzreservierungen|N|бронирование места|reservierter Platz im Zug|Für die lange Fahrt nehme ich eine Sitzplatzreservierung.|B1|Verkehr
+Großraumwagen|der|Großraumwagen|N|вагон открытого типа|Zugwagen ohne Abteile|Mein Platz ist im Großraumwagen.|B2|Verkehr
+Speisewagen|der|Speisewagen|N|вагон-ресторан|Restaurant im Zug|Im Speisewagen gibt es warmes Essen.|B1|Verkehr

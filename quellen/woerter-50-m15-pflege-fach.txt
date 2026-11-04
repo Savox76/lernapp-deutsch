@@ -1,0 +1,76 @@
+# M15 Fachwortschatz Pflege (geprüfte neue Wörter)
+Anamnese|die|Anamnesen|N|анамнез|Fragen zur Krankengeschichte|Bei der Aufnahme machen wir eine Anamnese.|B2|Pflege
+Aufnahmegespräch|das|Aufnahmegespräche|N|беседа при поступлении|erstes Gespräch beim Einzug|Beim Aufnahmegespräch ist die Tochter dabei.|B2|Pflege
+Pflegevisite|die|Pflegevisiten|N|обход по уходу|Kontrolle der Pflege beim Bewohner|Die Pflegevisite findet einmal im Monat statt.|B2|Pflege
+Pflegeziel|das|Pflegeziele|N|цель ухода|was durch Pflege erreicht werden soll|Pflegeziel: Frau Klein geht wieder allein zur Toilette.|B2|Pflege
+Pflegemaßnahme|die|Pflegemaßnahmen|N|мера по уходу|konkrete Handlung in der Pflege|Alle Pflegemaßnahmen werden dokumentiert.|B2|Pflege
+Pflegeprozess|der|Pflegeprozesse|N|процесс ухода|Planen, Durchführen, Überprüfen der Pflege|Der Pflegeprozess hat sechs Schritte.|B2|Pflege
+Pflegestandard|der|Pflegestandards|N|стандарт ухода|feste Regel, wie gepflegt wird|Nach dem Pflegestandard wird alle zwei Stunden gelagert.|B2|Pflege
+Biografiearbeit|die|-|N|работа с биографией|Arbeit mit der Lebensgeschichte|Durch Biografiearbeit verstehen wir die Bewohner besser.|B2|Pflege
+Validation|die|-|N|валидация (метод общения)|wertschätzende Kommunikation bei Demenz|Bei Demenz hilft die Validation.|B2|Pflege
+Aktivierung|die|-|N|активизация|Anregung zu Bewegung und Beschäftigung|Zur Aktivierung singen wir gemeinsam.|B2|Pflege
+Beschäftigungsangebot|das|Beschäftigungsangebote|N|занятие, досуговое предложение|Programm gegen Langeweile|Heute gibt es als Beschäftigungsangebot Gedächtnistraining.|B2|Pflege
+Sturzprophylaxe|die|-|N|профилактика падений|Maßnahmen gegen Stürze|Zur Sturzprophylaxe gehören feste Schuhe und gutes Licht.|B2|Pflege
+Dekubitusprophylaxe|die|-|N|профилактика пролежней|Maßnahmen gegen Wundliegen|Regelmäßige Lagerung ist Dekubitusprophylaxe.|B2|Pflege
+Pneumonieprophylaxe|die|-|N|профилактика пневмонии|Maßnahmen gegen Lungenentzündung|Atemübungen sind Teil der Pneumonieprophylaxe.|B2|Pflege
+Kontrakturenprophylaxe|die|-|N|профилактика контрактур|Maßnahmen gegen steife Gelenke|Zur Kontrakturenprophylaxe bewegen wir die Gelenke.|B2|Pflege
+Thromboseprophylaxe|die|-|N|профилактика тромбоза|Maßnahmen gegen Blutgerinnsel|Nach der OP bekommt er Thromboseprophylaxe.|B2|Pflege
+Kompressionsstrümpfe|die|(Pl.)|N|компрессионные чулки|enge Strümpfe für die Beine|Morgens ziehen wir ihr die Kompressionsstrümpfe an.|B2|Pflege
+Transfer|der|Transfers|N|перемещение, пересадка|Wechsel vom Bett in den Rollstuhl|Beim Transfer hilft ein Gleitbrett.|B2|Pflege
+Lifter|der|Lifter|N|подъёмник для пациентов|Gerät zum Heben von Patienten|Herr Braun wird nur mit dem Lifter transferiert.|B2|Pflege
+Gleitbrett|das|Gleitbretter|N|доска для пересаживания|Brett zum Rutschen vom Bett in den Stuhl|Mit dem Gleitbrett geht der Transfer leichter.|B2|Pflege
+Haltegriff|der|Haltegriffe|N|поручень|Griff zum Festhalten|Im Bad gibt es Haltegriffe an der Wand.|B1|Pflege
+Bettgitter|das|Bettgitter|N|боковой поручень кровати|Gitter am Bett gegen Herausfallen|Das Bettgitter darf nur mit Genehmigung hochgestellt werden.|B2|Pflege
+Notrufklingel|die|Notrufklingeln|N|кнопка вызова|Klingel für Hilfe|Die Notrufklingel muss immer erreichbar sein.|B1|Pflege
+Inkontinenzmaterial|das|-|N|средства при недержании|Einlagen und Windeln für Erwachsene|Das Inkontinenzmaterial bestellen wir einmal im Monat.|B2|Pflege
+Einlage|die|Einlagen|N|прокладка; стелька|Polster in Unterwäsche oder Schuh|Bitte wechseln Sie die Einlage.|B1|Pflege
+Katheter|der|Katheter|N|катетер|Schlauch in die Blase oder Ader|Der Katheter wird alle vier Wochen gewechselt.|B2|Pflege
+Urinbeutel|der|Urinbeutel|N|мочеприёмник|Beutel für Urin am Katheter|Der Urinbeutel muss unter Blasenhöhe hängen.|B2|Pflege
+Stoma|das|Stomata|N|стома|künstlicher Darmausgang|Die Stomapflegerin kommt am Dienstag.|B2|Pflege
+Sonde|die|Sonden|N|зонд|dünner Schlauch für Nahrung|Er wird über eine Sonde ernährt.|B2|Pflege
+Magensonde|die|Magensonden|N|желудочный зонд|Sonde direkt in den Magen|Die Nahrung läuft über die Magensonde.|B2|Pflege
+Absaugung|die|-|N|отсасывание|Entfernen von Schleim aus den Atemwegen|Bei starkem Schleim ist eine Absaugung nötig.|B2|Pflege
+Sauerstoffgerät|das|Sauerstoffgeräte|N|кислородный аппарат|Gerät, das Sauerstoff gibt|Nachts braucht sie das Sauerstoffgerät.|B2|Pflege
+Blutzuckermessgerät|das|Blutzuckermessgeräte|N|глюкометр|Gerät zum Messen des Zuckers|Das Blutzuckermessgerät liegt im Dienstzimmer.|B2|Pflege
+Blutdruckmessgerät|das|Blutdruckmessgeräte|N|тонометр|Gerät zum Messen des Blutdrucks|Das Blutdruckmessgerät ist kaputt.|B1|Pflege
+Pulsoximeter|das|Pulsoximeter|N|пульсоксиметр|misst Sauerstoff im Blut am Finger|Das Pulsoximeter zeigt 95 Prozent.|B2|Pflege
+Waage|die|Waagen|N|весы|Gerät zum Wiegen|Die Bewohner werden einmal pro Woche auf die Waage gestellt.|A2|Pflege
+Medikamentenschrank|der|Medikamentenschränke|N|шкаф для лекарств|abgeschlossener Schrank für Medikamente|Der Medikamentenschrank muss immer abgeschlossen sein.|B2|Pflege
+Betäubungsmittel|das|Betäubungsmittel|N|наркотическое средство|starkes Medikament mit strengen Regeln|Betäubungsmittel werden doppelt kontrolliert.|B2|Pflege
+Tablettenteiler|der|Tablettenteiler|N|таблеткорезка|Gerät zum Teilen von Tabletten|Mit dem Tablettenteiler halbieren Sie die Tablette.|B2|Pflege
+Mörser|der|Mörser|N|ступка|Gefäß zum Zerkleinern|Manche Tabletten darf man nicht im Mörser zerkleinern.|B2|Pflege
+Wundauflage|die|Wundauflagen|N|раневая повязка|Material, das auf die Wunde kommt|Die Wundauflage wird alle drei Tage gewechselt.|B2|Pflege
+Kompresse|die|Kompressen|N|компресс, салфетка|steriles Tuch für Wunden|Legen Sie eine sterile Kompresse auf.|B2|Pflege
+Mullbinde|die|Mullbinden|N|марлевый бинт|Binde aus dünnem Stoff|Die Mullbinde hält die Kompresse fest.|B2|Pflege
+Pinzette|die|Pinzetten|N|пинцет|kleines Werkzeug zum Greifen|Mit der sterilen Pinzette nehmen Sie die Kompresse.|B1|Pflege
+Einmalhandschuhe|die|(Pl.)|N|одноразовые перчатки|Handschuhe für einmal|Tragen Sie bei der Körperpflege Einmalhandschuhe.|B1|Pflege
+Mundschutz|der|-|N|маска|Maske vor Mund und Nase|Bei Erkältung tragen wir Mundschutz.|B1|Pflege
+Schutzkittel|der|Schutzkittel|N|защитный халат|Kittel gegen Keime|Im Zimmer mit Infektion tragen Sie einen Schutzkittel.|B2|Pflege
+Flächendesinfektion|die|-|N|дезинфекция поверхностей|Reinigung von Tischen und Flächen mit Desinfektionsmittel|Nach dem Essen machen wir eine Flächendesinfektion.|B2|Pflege
+Händedesinfektion|die|-|N|дезинфекция рук|Hände mit Desinfektionsmittel einreiben|Händedesinfektion ist das Wichtigste gegen Infektionen.|B2|Pflege
+Hautpflege|die|-|N|уход за кожей|Eincremen und Schutz der Haut|Bei trockener Haut ist Hautpflege besonders wichtig.|B1|Pflege
+Mundpflege|die|-|N|уход за полостью рта|Zähne putzen, Mund reinigen|Die Mundpflege machen wir nach jeder Mahlzeit.|B2|Pflege
+Intimpflege|die|-|N|интимная гигиена|Waschen im Intimbereich|Bei der Intimpflege achten wir auf die Würde.|B2|Pflege
+Rasur|die|Rasuren|N|бритьё|das Rasieren|Herr Braun möchte jeden Morgen eine Rasur.|B1|Pflege
+Nagelpflege|die|-|N|уход за ногтями|Nägel schneiden und feilen|Die Nagelpflege macht die Fußpflegerin.|B1|Pflege
+Haarwäsche|die|-|N|мытьё головы|Haare waschen|Die Haarwäsche ist immer donnerstags.|B1|Pflege
+Ganzkörperwaschung|die|Ganzkörperwaschungen|N|полное мытьё тела|Waschen des ganzen Körpers|Die Ganzkörperwaschung erfolgt im Bett.|B2|Pflege
+Teilwaschung|die|Teilwaschungen|N|частичное мытьё|Waschen von Gesicht, Händen usw.|Morgens macht sie die Teilwaschung allein.|B2|Pflege
+Lagerungskissen|das|Lagerungskissen|N|подушка для укладки|Kissen für die richtige Lage im Bett|Legen Sie ein Lagerungskissen unter die Beine.|B2|Pflege
+Anziehhilfe|die|Anziehhilfen|N|приспособление для одевания|Hilfe beim Anziehen (z. B. für Strümpfe)|Mit der Anziehhilfe kommt sie allein in die Strümpfe.|B2|Pflege
+Schnabelbecher|der|Schnabelbecher|N|поильник|Becher mit Deckel und Mundstück|Frau Klein trinkt aus dem Schnabelbecher.|B2|Pflege
+Lätzchen|das|Lätzchen|N|нагрудник|Tuch gegen Flecken beim Essen|Bitte fragen Sie, ob er ein Lätzchen möchte.|B1|Pflege
+Pürierkost|die|-|N|протёртая пища|weiches, püriertes Essen|Wegen Schluckstörungen bekommt sie Pürierkost.|B2|Pflege
+Diabeteskost|die|-|N|диабетическое питание|Essen für Diabetiker|Herr Lorenz bekommt Diabeteskost.|B2|Pflege
+Trinkmenge|die|Trinkmengen|N|объём выпитого|wie viel jemand trinkt|Die Trinkmenge sollte mindestens 1,5 Liter sein.|B2|Pflege
+Flüssigkeitsbilanz|die|-|N|водный баланс|Vergleich von Trinken und Ausscheiden|Bei Herrn Braun führen wir eine Flüssigkeitsbilanz.|B2|Pflege
+Ausscheidung|die|Ausscheidungen|N|выделения|Urin und Stuhl|Auffällige Ausscheidungen werden dokumentiert.|B2|Pflege
+Erbrochenes|das|-|N|рвотные массы|was aus dem Magen kommt|Das Erbrochene war dunkel, bitte informieren Sie den Arzt.|B2|Pflege
+Unruhe|die|-|N|беспокойство|nervös, kann nicht ruhig bleiben|Nachts zeigt sie starke Unruhe.|B2|Pflege
+Verwirrtheit|die|-|N|спутанность сознания|weiß nicht, wo oder wer man ist|Plötzliche Verwirrtheit kann ein Zeichen für Flüssigkeitsmangel sein.|B2|Pflege
+Orientierung|die|-|N|ориентация|wissen, wo, wann, wer|Große Uhren helfen bei der Orientierung.|B2|Pflege
+Hinlauftendenz|die|-|N|склонность уходить|Bewohner möchte ständig weggehen|Herr Krause hat eine starke Hinlauftendenz.|B2|Pflege
+Angehörigengespräch|das|Angehörigengespräche|N|беседа с родственниками|Gespräch mit der Familie|Das Angehörigengespräch ist am Freitag.|B2|Pflege
+Palliativpflege|die|-|N|паллиативный уход|Pflege bei unheilbarer Krankheit|In der Palliativpflege steht die Lebensqualität im Mittelpunkt.|B2|Pflege
+Hospiz|das|Hospize|N|хоспис|Einrichtung für Sterbende|Ihre Mutter verbringt die letzten Wochen im Hospiz.|B2|Pflege
+Bestattungsinstitut|das|Bestattungsinstitute|N|похоронное бюро|Firma für Beerdigungen|Die Familie hat das Bestattungsinstitut informiert.|B2|Pflege

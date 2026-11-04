@@ -1,0 +1,73 @@
+# M15 Fachwortschatz Gastronomie, Hotel, Reinigung, Kita, Handel, Personal (geprüfte neue Wörter)
+Tischreservierung|die|Tischreservierungen|N|бронирование столика|einen Tisch vorbestellen|Ich nehme die Tischreservierung für 19 Uhr auf.|B1|Arbeit
+Nachspeise|die|Nachspeisen|N|десерт|süßes Essen nach dem Hauptgericht|Als Nachspeise gibt es Apfelstrudel.|A2|Essen
+Getränkekarte|die|Getränkekarten|N|меню напитков|Liste der Getränke|Darf ich Ihnen die Getränkekarte bringen?|A2|Essen
+Weinkarte|die|Weinkarten|N|винная карта|Liste der Weine|Auf der Weinkarte stehen Weine aus Sachsen.|B1|Essen
+Kinderteller|der|Kinderteller|N|детское блюдо|kleine Portion für Kinder|Für die Kleine nehmen wir einen Kinderteller.|A2|Essen
+Frühstücksraum|der|Frühstücksräume|N|зал для завтрака|Raum für das Frühstück im Hotel|Der Frühstücksraum ist im Erdgeschoss.|A2|Reisen
+Check-in|der|Check-ins|N|регистрация (в отеле)|Anmeldung im Hotel|Der Check-in ist ab 15 Uhr möglich.|A2|Reisen
+Check-out|der|Check-outs|N|выезд (из отеля)|Abreise aus dem Hotel|Der Check-out ist bis 11 Uhr.|A2|Reisen
+Handtuchwechsel|der|-|N|смена полотенец|neue Handtücher|Für einen Handtuchwechsel legen Sie die Handtücher auf den Boden.|B1|Reisen
+Reinigungswagen|der|Reinigungswagen|N|тележка для уборки|Wagen mit Putzmitteln|Der Reinigungswagen steht im Flur.|B1|Arbeit
+Staubtuch|das|Staubtücher|N|тряпка для пыли|Tuch zum Abstauben|Nehmen Sie für die Möbel das Staubtuch.|A2|Wohnen
+Scheuermilch|die|-|N|чистящее молочко|Putzmittel für Waschbecken|Mit Scheuermilch wird das Waschbecken sauber.|B1|Wohnen
+Entkalker|der|Entkalker|N|средство от накипи|Mittel gegen Kalk|Der Wasserkocher braucht Entkalker.|B1|Wohnen
+Wischwasser|das|-|N|вода для мытья полов|Wasser mit Putzmittel zum Wischen|Bitte wechseln Sie das Wischwasser nach jedem Zimmer.|B1|Arbeit
+Gebäudereiniger|der|Gebäudereiniger|N|уборщик зданий|Beruf: reinigt Gebäude|Er arbeitet als Gebäudereiniger in einer Klinik.|B2|Arbeit
+Fensterputzer|der|Fensterputzer|N|мойщик окон|putzt Fenster beruflich|Der Fensterputzer kommt einmal im Monat.|B1|Arbeit
+Gruppenraum|der|Gruppenräume|N|групповая комната|Raum einer Kita-Gruppe|Im Gruppenraum spielen die Kinder.|B1|Familie
+Bastelecke|die|Bastelecken|N|уголок для поделок|Platz zum Basteln|In der Bastelecke liegen Papier und Scheren.|B1|Familie
+Morgenkreis|der|Morgenkreise|N|утренний круг|Treffen der Kita-Gruppe am Morgen|Im Morgenkreis singen die Kinder ein Lied.|B2|Familie
+Mittagsruhe|die|-|N|тихий час|Ruhezeit nach dem Essen|Während der Mittagsruhe schlafen die Kleinen.|B1|Familie
+Wickeltisch|der|Wickeltische|N|пеленальный столик|Tisch zum Wickeln|Der Wickeltisch ist im Bad.|B1|Familie
+Matschhose|die|Matschhosen|N|непромокаемые штаны|wasserdichte Hose für Kinder|Bitte geben Sie eine Matschhose mit.|B1|Familie
+Elternbrief|der|Elternbriefe|N|письмо родителям|Brief der Kita oder Schule an die Eltern|Im Elternbrief stehen die Termine für den Monat.|B1|Familie
+Entwicklungsgespräch|das|Entwicklungsgespräche|N|беседа о развитии ребёнка|Gespräch über das Kind in der Kita|Einmal im Jahr gibt es ein Entwicklungsgespräch.|B2|Familie
+Portfolio|das|Portfolios|N|портфолио|Mappe mit Bildern und Arbeiten|Im Portfolio sammelt die Erzieherin Fotos und Bilder.|B2|Familie
+Eingewöhnungszeit|die|-|N|период адаптации|Zeit, in der sich das Kind an die Kita gewöhnt|Planen Sie für die Eingewöhnungszeit zwei Wochen ein.|B2|Familie
+Krippe|die|Krippen|N|ясли|Betreuung für Kinder unter drei|Mit einem Jahr kommt sie in die Krippe.|B1|Familie
+Kindergartenplatz|der|Kindergartenplätze|N|место в детском саду|Platz in einer Kita|Wir warten noch auf einen Kindergartenplatz.|B1|Familie
+Hortplatz|der|Hortplätze|N|место в группе продлённого дня|Platz im Hort|Für die erste Klasse brauchen wir einen Hortplatz.|B2|Familie
+Ferienbetreuung|die|-|N|присмотр на каникулах|Betreuung in den Schulferien|Die Ferienbetreuung kostet 50 Euro pro Woche.|B2|Familie
+Schließzeit|die|Schließzeiten|N|время закрытия (садика)|Zeit, in der die Kita zu ist|Die Schließzeit der Kita ist im August.|B2|Familie
+Verkaufsgespräch|das|Verkaufsgespräche|N|разговор с покупателем|Gespräch mit einem Kunden beim Verkauf|Im Verkaufsgespräch fragt man zuerst nach den Wünschen.|B2|Handel
+Kundenberatung|die|-|N|консультация клиентов|Beratung von Kunden|Gute Kundenberatung ist uns wichtig.|B2|Handel
+Kassensystem|das|Kassensysteme|N|кассовая система|Computer an der Kasse|Das Kassensystem ist abgestürzt.|B2|Handel
+Kassenabschluss|der|Kassenabschlüsse|N|закрытие кассы|Abrechnung der Kasse am Abend|Den Kassenabschluss macht die Filialleiterin.|B2|Handel
+Wechselgeldkasse|die|Wechselgeldkassen|N|касса для сдачи|Kasse mit Kleingeld|Am Morgen kommt die Wechselgeldkasse.|B2|Handel
+Preisauszeichnung|die|-|N|маркировка цен|Preise an Waren anbringen|Die Preisauszeichnung muss stimmen.|B2|Handel
+Warenannahme|die|-|N|приёмка товара|Stelle, an der Ware angenommen wird|Lieferungen bitte an der Warenannahme abgeben.|B2|Handel
+Tiefkühltruhe|die|Tiefkühltruhen|N|морозильный ларь|großer Gefrierschrank im Geschäft|Das Eis ist in der Tiefkühltruhe.|B1|Handel
+Frischetheke|die|Frischetheken|N|прилавок со свежими продуктами|Theke mit frischer Wurst und Käse|An der Frischetheke arbeiten zwei Verkäuferinnen.|B2|Handel
+Käsetheke|die|Käsetheken|N|сырный прилавок|Theke mit Käse|An der Käsetheke kann man probieren.|B1|Handel
+Backstation|die|Backstationen|N|пекарня в магазине|Platz mit frischen Backwaren|An der Backstation gibt es frische Brötchen.|B1|Handel
+Pfandrückgabe|die|-|N|возврат тары|Abgabe von Pfandflaschen|Die Pfandrückgabe ist neben dem Eingang.|B1|Handel
+Einkaufskorb|der|Einkaufskörbe|N|корзина для покупок|Korb für Waren im Geschäft|Nehmen Sie bitte einen Einkaufskorb.|A2|Handel
+Kundenstopper|der|Kundenstopper|N|штендер|Werbeschild vor dem Geschäft|Den Kundenstopper stellen wir morgens raus.|B2|Handel
+Aktionsware|die|-|N|акционный товар|Ware im Sonderangebot|Die Aktionsware ist schnell ausverkauft.|B2|Handel
+Saisonware|die|-|N|сезонный товар|Ware für eine Jahreszeit|Im Herbst kommt die Saisonware für Weihnachten.|B2|Handel
+Restposten|der|Restposten|N|остатки товара|letzte Stücke, billig|Die Restposten verkaufen wir mit 50 % Rabatt.|B2|Handel
+Lagerkosten|die|(Pl.)|N|складские расходы|Kosten für die Lagerung|Die Lagerkosten sind gestiegen.|B2|Wirtschaft
+Inventurdifferenz|die|Inventurdifferenzen|N|расхождение при инвентаризации|Unterschied zwischen Liste und Bestand|Bei der Inventur gab es eine große Inventurdifferenz.|B2|Handel
+Schwund|der|-|N|недостача, убыль|Ware, die verschwindet|Durch Diebstahl entsteht viel Schwund.|B2|Handel
+Ladendiebstahl|der|Ladendiebstähle|N|магазинная кража|Diebstahl im Geschäft|Jeder Ladendiebstahl wird angezeigt.|B2|Handel
+Hausverbot|das|Hausverbote|N|запрет на вход|Verbot, ein Geschäft zu betreten|Der Mann hat Hausverbot bekommen.|B2|Handel
+Sonntagsöffnung|die|Sonntagsöffnungen|N|работа в воскресенье|Geschäfte offen am Sonntag|Im Dezember gibt es zwei Sonntagsöffnungen.|B2|Handel
+Feiertagszuschlag|der|Feiertagszuschläge|N|надбавка за работу в праздник|extra Geld für Arbeit am Feiertag|Der Feiertagszuschlag beträgt 125 Prozent.|B2|Arbeit
+Sonntagszuschlag|der|Sonntagszuschläge|N|надбавка за воскресенье|extra Geld für Sonntagsarbeit|Für Sonntagsarbeit gibt es 50 % Sonntagszuschlag.|B2|Arbeit
+Schichtplan|der|Schichtpläne|N|график смен|Plan, wer wann arbeitet|Der Schichtplan hängt im Pausenraum.|B1|Arbeit
+Umkleideraum|der|Umkleideräume|N|раздевалка|Raum zum Umziehen|Im Umkleideraum hat jeder einen Spind.|B1|Arbeit
+Namensschild|das|Namensschilder|N|бейдж|Schild mit dem Namen|Bitte tragen Sie Ihr Namensschild.|A2|Arbeit
+Dienstausweis|der|Dienstausweise|N|служебное удостоверение|Ausweis der Firma|Ohne Dienstausweis kommen Sie nicht ins Gebäude.|B1|Arbeit
+Zugangskarte|die|Zugangskarten|N|пропуск (карта)|Karte zum Öffnen von Türen|Ich habe meine Zugangskarte verloren.|B1|Arbeit
+Stempelkarte|die|Stempelkarten|N|табельная карта|Karte für die Zeiterfassung|Vergessen Sie Ihre Stempelkarte nicht.|B2|Arbeit
+Einweisung|die|Einweisungen|N|инструктаж; направление (в больницу)|Erklärung am Anfang; Überweisung ins Krankenhaus|Am ersten Tag gibt es eine Einweisung in die Maschinen.|B2|Arbeit
+Probezeitgespräch|das|Probezeitgespräche|N|беседа по итогам испытательного срока|Gespräch am Ende der Probezeit|Das Probezeitgespräch ist nächste Woche.|B2|Arbeit
+Kündigungsschutzklage|die|Kündigungsschutzklagen|N|иск о защите от увольнения|Klage gegen eine Kündigung|Innerhalb von drei Wochen kann man Kündigungsschutzklage erheben.|B2|Arbeit
+Mutterschaftsgeld|das|-|N|пособие по беременности и родам|Geld im Mutterschutz|Das Mutterschaftsgeld zahlt die Krankenkasse.|B2|Arbeit
+Elternzeitantrag|der|Elternzeitanträge|N|заявление на отпуск по уходу за ребёнком|Antrag auf Elternzeit|Den Elternzeitantrag müssen Sie sieben Wochen vorher abgeben.|B2|Arbeit
+Teilzeitantrag|der|Teilzeitanträge|N|заявление о неполной занятости|Antrag auf weniger Stunden|Mein Teilzeitantrag wurde genehmigt.|B2|Arbeit
+Gesundheitsmanagement|das|-|N|управление здоровьем (на предприятии)|Programme für die Gesundheit der Mitarbeiter|Das betriebliche Gesundheitsmanagement bietet Rückenkurse an.|B2|Arbeit
+Stellenbeschreibung|die|Stellenbeschreibungen|N|должностная инструкция|Beschreibung der Aufgaben einer Stelle|In der Stellenbeschreibung stehen meine Aufgaben.|B2|Arbeit
+Weiterbildungsmaßnahme|die|Weiterbildungsmaßnahmen|N|мероприятие по повышению квалификации|Kurs zur Weiterbildung|Die Weiterbildungsmaßnahme wird vom Jobcenter bezahlt.|B2|Arbeit
+Zusatzqualifikation|die|Zusatzqualifikationen|N|дополнительная квалификация|extra Abschluss|Mit einer Zusatzqualifikation verdient man mehr.|B2|Arbeit

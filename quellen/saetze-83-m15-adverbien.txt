@@ -1,0 +1,45 @@
+# M15 Adverbien im Satz: Position und Bedeutung (A2–B2)
+Normalerweise *fahre* ich mit dem Fahrrad zur Arbeit.|Обычно я езжу на работу на велосипеде.|A2|Adverb auf Position 1 → Verb → Subjekt.|Verkehr
+Meistens *esse* ich mittags in der Kantine.|Чаще всего я обедаю в столовой.|A2|Adverb auf Position 1 → Verb.|Arbeit
+Ich *trinke* lieber Tee als Kaffee.|Я больше люблю чай, чем кофе.|A2|lieber … als.|Essen
+Danach *gehen* wir noch einkaufen.|После этого мы ещё пойдём за покупками.|A2|danach auf Position 1.|Einkaufen
+Ich *habe* nur zehn Minuten Pause.|У меня всего десять минут перерыва.|A2|nur vor dem Wort, das es betont.|Arbeit
+Morgen *regnet* es wieder.|Завтра снова будет дождь.|A2|morgen auf Position 1.|Wetter
+Ich war einmal in Berlin, aber das *ist* lange her.|Я однажды была в Берлине, но это было давно.|A2|zwei Hauptsätze.|Reisen
+Er *hat* mir sogar Blumen mitgebracht.|Он даже принёс мне цветы.|B1|sogar im Mittelfeld.|Gefühle
+Das *ist* gar nicht schlimm.|Это совсем не страшно.|B1|gar nicht = überhaupt nicht.|Alltag
+Ich *komme* heute nicht, ich bin nämlich krank.|Я сегодня не приду, я ведь болею.|B1|nämlich gibt den Grund an.|Gesundheit
+Zurzeit *arbeite* ich in Teilzeit.|В настоящее время я работаю неполный день.|B1|zurzeit auf Position 1.|Arbeit
+Ich *habe* mehrmals angerufen, aber niemand ist rangegangen.|Я несколько раз звонила, но никто не ответил.|B1|mehrmals im Mittelfeld.|Alltag
+*Ruf* wenigstens kurz an, wenn du später kommst.|Позвони хотя бы коротко, если опоздаешь.|B1|wenigstens = mindestens.|Familie
+Eventuell *komme* ich etwas später.|Возможно, я приду немного позже.|B1|eventuell auf Position 1.|Alltag
+Insgesamt *kostet* der Kurs 390 Euro.|Всего курс стоит 390 евро.|B1|insgesamt auf Position 1.|Bildung
+Diesmal *habe* ich die Prüfung bestanden!|На этот раз я сдала экзамен!|B1|diesmal auf Position 1.|Bildung
+Erstens ist die Wohnung zu teuer, zweitens *liegt* sie zu weit weg.|Во-первых, квартира слишком дорогая, во-вторых, она слишком далеко.|B1|erstens/zweitens auf Position 1.|Wohnen
+Das *stimmt* überhaupt nicht.|Это совсем не так.|B1|überhaupt nicht = gar nicht.|Meinung
+Wir *schaffen* das irgendwie.|Мы как-нибудь справимся.|B1|irgendwie im Mittelfeld.|Alltag
+Notfalls *nehmen* wir ein Taxi.|В крайнем случае возьмём такси.|B2|notfalls auf Position 1.|Verkehr
+Bislang *haben* wir keine Antwort bekommen.|До сих пор мы не получили ответа.|B2|bislang auf Position 1.|Briefe
+Das Angebot ist gut, jedoch *ist* es zu teuer.|Предложение хорошее, однако слишком дорогое.|B2|jedoch auf Position 1 → Verb.|Meinung
+Das Angebot *ist* gut, es ist jedoch zu teuer.|Предложение хорошее, однако оно слишком дорогое.|B2|jedoch im Mittelfeld.|Meinung
+Der Kurs *findet* jeweils montags und mittwochs statt.|Курс проходит каждый понедельник и среду.|B2|jeweils = jedes Mal.|Bildung
+Das *weiß* ich längst.|Это я давно знаю.|B2|längst = schon lange.|Alltag
+Letztlich *hat* alles gut geklappt.|В итоге всё получилось.|B2|letztlich auf Position 1.|Alltag
+Ich *habe* vergeblich auf den Techniker gewartet.|Я напрасно ждала техника.|B2|vergeblich im Mittelfeld.|Wohnen
+Das ist kein Problem, vielmehr *ist* es eine Chance.|Это не проблема, а скорее шанс.|B2|vielmehr = eher, besser gesagt.|Meinung
+Anscheinend *ist* niemand zu Hause.|По-видимому, никого нет дома.|B2|anscheinend auf Position 1.|Alltag
+Offenbar *hat* sich jemand geirrt.|Очевидно, кто-то ошибся.|B2|offenbar auf Position 1.|Meinung
+Es *fehlt* lediglich eine Unterschrift.|Не хватает лишь подписи.|B2|lediglich = nur.|Behörden
+Das *können* Sie ohne Weiteres online ändern.|Это вы без проблем можете изменить онлайн.|B2|ohne Weiteres = problemlos.|Behörden
+Sie *ist* Mutter von drei Kindern und zugleich Teamleiterin.|Она мать троих детей и одновременно руководитель команды.|B2|zugleich = gleichzeitig.|Arbeit
+Wir *arbeiten* vorwiegend im Frühdienst.|Мы работаем преимущественно в утреннюю смену.|B2|vorwiegend = vor allem.|Arbeit
+Das *ist* zweifellos die beste Lösung.|Это несомненно лучшее решение.|B2|zweifellos im Mittelfeld.|Meinung
+Wir *wünschen* Ihnen weiterhin alles Gute.|Желаем вам и дальше всего хорошего.|B2|weiterhin = auch in Zukunft.|Briefe
+Unterdessen *hat* es angefangen zu regnen.|Тем временем начался дождь.|B2|unterdessen auf Position 1.|Wetter
+Bekanntlich *ist* Rauchen ungesund.|Как известно, курение вредно.|B2|bekanntlich auf Position 1.|Gesundheit
+Mir *geht* es einigermaßen gut.|Я чувствую себя более-менее хорошо.|B2|einigermaßen = ziemlich.|Gesundheit
+Sie *ist* sozusagen die Seele des Teams.|Она, так сказать, душа команды.|B2|sozusagen im Mittelfeld.|Arbeit
+Am Tag zuvor *war* ich noch völlig gesund.|Накануне я была ещё совершенно здорова.|B2|zuvor = vorher.|Gesundheit
+Das wiederum *gefällt* mir nicht.|А это в свою очередь мне не нравится.|B2|wiederum nach dem Subjekt auf Position 1.|Meinung
+Womöglich *fällt* der Zug wegen des Sturms aus.|Возможно, поезд отменят из-за бури.|B2|womöglich auf Position 1.|Verkehr
+Nebenbei *lerne* ich noch Englisch.|Попутно я ещё учу английский.|B2|nebenbei auf Position 1.|Bildung

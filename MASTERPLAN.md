@@ -2,7 +2,7 @@
 
 Stand: 04.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
 
-**Zuletzt komplett geprüft:** 04.11.2026 nach M14 (Code, Inhalte und Veröffentlichung abgeglichen).
+**Zuletzt komplett geprüft:** 04.11.2026 nach M15 (Code, Inhalte und Veröffentlichung abgeglichen).
 Zeichen: ✅ eingebaut/fertig · 🟡 teilweise · ⏳ in Arbeit · ⬜ offen · ❓ Entscheidung von Mario nötig
 Claude aktualisiert diesen Plan nach **jedem** Arbeitsschritt selbstständig.
 
@@ -30,12 +30,12 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ---
 
-## 2. Stand heute (geprüft am 04.11.2026 nach M14)
+## 2. Stand heute (geprüft am 04.11.2026 nach M15)
 
 | Bereich | Stand | |
 |---|---|---|
-| Wortschatz | 5.710 Wörter (A2, B1, B2, Beruf, Alltag, Wortfamilien, Nomen-Verb-Verbindungen) | ✅ |
-| Satzbau | 3.658 Übungssätze (3.413 mit markiertem Verb), alle 12 Grammatik-Themen auf A2–B2 | ✅ |
+| Wortschatz | 6.050 Wörter (A2, B1, B2, Beruf, Alltag, Wortfamilien, Nomen-Verb-Verbindungen) | ✅ |
+| Satzbau | 3.750 Übungssätze (3.505 mit markiertem Verb), alle 12 Grammatik-Themen auf A2–B2 | ✅ |
 | Schreibaufgaben | 100 (A2, B1, B2, DTZ und DTB; laufend mehr) | ✅ |
 | **Grundkurs von vorn** | 13 Stufen von „Verb auf Platz 2“ bis „Passiv“ plus Abschluss; Freischaltung ab 80 %; A2-Sätze zuerst | ✅ |
 | **Prüfung DTB** | 55 E-Mails · 42 Telefonnotizen · 34 Forumsbeiträge · 52 Sprachbausteine · 21 Vorträge · 10 Fragerunden · 26 Diskussionen · 15 Lösung finden · 53 Hörtexte | ✅ |
@@ -74,11 +74,11 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 | M12 | Inhaltspaket 9 | Verben, Adjektive, Redemittel · gemischte Prüfungsaufgaben | ✅ fertig (Wörter → 5.457, Sätze → 3.285, Prüfung → 467) |
 | M13 | Inhaltspaket 10 | Wortfamilien, Nomen-Verb-Verbindungen · Sprechen DTZ · +14 Schreibaufgaben | ✅ fertig (Wörter → 5.710, Sätze → 3.430, Schreiben → 86, Prüfung → 497) |
 | M14 | Inhaltspaket 11 | Lücken füllen: A2-Sätze für den Grundkurs, Wortstellung, Beruf · +14 Schreibaufgaben (→ 100) · gemischte Prüfung | ✅ fertig (Sätze → 3.658, Schreiben → 100, Prüfung → 527 – Prüfungsziel erreicht) |
-| M15 | Wörter-Paket A | +450 Wörter: Fachwortschatz (Pflege, Technik, Logistik, Verwaltung), Adjektive, Adverbien – Kandidaten vorab gegen Bestand prüfen · dazu ≈120 Sätze mit den neuen Wörtern | ⏳ als Nächstes |
-| M16 | Wörter-Paket B | +450 Wörter: Restlücke bis ≈ 7.000, Schwerpunkt B1/B2 · dazu ≈120 Sätze (Rest bis ≈ 3.900) | ⬜ offen |
+| M15 | Wörter-Paket A | Fachwortschatz Pflege, Lager, Technik, Büro, Handel, Kita, Gastro · Adverbien · Natur/Körper/Verkehr · 92 Sätze dazu | ✅ fertig (Wörter → 6.050, Sätze → 3.750) |
+| M16 | Wörter-Paket B | Restlücke bis ≈ 7.000 (noch ≈ 950 → ggf. auf M16a/M16b aufteilen), Schwerpunkt B1/B2 · dazu ≈ 150 Sätze (Rest bis ≈ 3.900) | ⏳ als Nächstes |
 | M17 | Abschluss Phase 1 | Qualitätscheck (Dubletten, Verbmarkierung, Übersetzungen, Test im Browser), Zahlen prüfen | ⬜ offen |
 
-**Stand:** 14 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 5.710 Wörter · 3.658 Sätze · 100 Schreibaufgaben · 527 Prüfungsaufgaben.
+**Stand:** 15 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 6.050 Wörter · 3.750 Sätze · 100 Schreibaufgaben · 527 Prüfungsaufgaben.
 
 
 **Nach Phase 1:** Inhalte (vor allem Schreibaufgaben, Sätze, Prüfungsaufgaben) wachsen laufend weiter – die Zielzahlen sind Zwischenziele, keine Obergrenze.
@@ -158,10 +158,21 @@ B2 ist bestanden, wenn **mindestens 144 Punkte** erreicht sind, **mindestens dre
 | Hören | Dialoge mit zwei Stimmen (braucht kleine APK-Änderung), Meinungen zuordnen | 2 | ⬜ |
 | Simulation | komplette Prüfung mit Zeitlimit und Punkteschätzung | 1 | ⬜ ❓ Rücksprache nötig |
 | Sprechen | sich selbst aufnehmen und anhören (braucht Mikrofon-Berechtigung, neue APK) | 3 | ⬜ |
+| **Dialoge führen** | Gespräche üben, in denen die Lernerin selbst antwortet (Vorschlag in 3 Stufen, siehe Abschnitt 4a) | 1 | ⬜ ❓ Entscheidung Mario |
 | Grammatik | Drill zu Kasus nach Präpositionen und Adjektivendungen | 2 | 🟡 viele Übungssätze dazu (M7, M11, M12), aber kein eigener Übungstyp |
 | Wortschatz | Fachwortschatz je Branche (Pflege, Lager, Büro, Handel, Gastro, Handwerk) | 2 | ✅ M5, M11 (weiterer Ausbau in M15) |
 
 Neue Aufgabentypen werden erst nach Rücksprache mit Mario gebaut (siehe `CLAUDE.md`).
+
+### 4a. Vorschlag: Dialoge führen (04.11.2026, ❓ Entscheidung Mario)
+
+| Stufe | Was | Technik | Aufwand | Kosten |
+|---|---|---|---|---|
+| 1 | **Geführte Dialoge**: Szenen mit 6–10 Wechseln (Arzt, Amt, Vermieter, Kollegin). Der Partner spricht (Vorlesen mit 2 Stimmen), die Lernerin **tippt oder spricht** ihre Antwort frei, die App prüft Schlüsselwörter und Verbposition und zeigt eine Musterantwort. Varianten je nach Antwort (verzweigt). | nur Web-App, neue Inhaltsdateien `quellen/dialoge/*.json` | mittel | keine |
+| 2 | **Antwort sprechen statt tippen**: Spracherkennung (Mikrofon). Im Browser (Chrome) direkt möglich, in der Android-App nur mit kleinem App-Update (Mikrofon-Berechtigung + Android-Spracherkennung über die vorhandene Brücke). | Web-App + **APK-Update** | klein–mittel | keine |
+| 3 | **Freies Gespräch mit KI-Partner**: Die Lernerin unterhält sich frei, die KI bleibt in der Rolle (z. B. Vermieterin), korrigiert danach Fehler und bewertet wie in der Prüfung. | braucht einen kleinen **Server** (API-Schlüssel darf nicht in die öffentliche App), passt zu Phase G4 (Konto/Server) | groß | laufend pro Gespräch (wenige Cent) |
+
+Empfehlung: Stufe 1 zuerst (sofort für alle nutzbar, offline, kostenlos), dann Stufe 2, Stufe 3 zusammen mit dem Abo-Server.
 
 ---
 
@@ -256,7 +267,7 @@ Zusätzlich **7 Tage Premium kostenlos** testen. Die bisherige Lernerin behält 
 
 | # | Phase | Inhalt | Ergebnis / Bedingung zum Weitergehen | Status |
 |---|---|---|---|---|
-| G1 | Inhalte fertig | M7–M17 abschließen | alle Zielzahlen erreicht, Qualitätscheck bestanden | ⏳ läuft (14 von 17) |
+| G1 | Inhalte fertig | M7–M17 abschließen | alle Zielzahlen erreicht, Qualitätscheck bestanden | ⏳ läuft (15 von 17) |
 | G2 | Testgruppe | 10–20 fremde Lernende nutzen die Web-App **kostenlos** 4 Wochen lang. Kurzer Fragebogen: Was fehlt? Würdest du 4,99 € zahlen? | mind. die Hälfte lernt nach 4 Wochen noch ≥ 3 Tage pro Woche, mind. 5 würden zahlen | ⬜ offen |
 | G3 | Rechtliches | Gewerbe anmelden, steuerliche Einordnung klären (Kleinunternehmer?), Impressum, Datenschutzerklärung (DSGVO), AGB mit Widerrufsbelehrung, Google-Play-Entwicklerkonto mit Zahlungsprofil, App-Name auf Markenrechte prüfen | alles erledigt, bevor der erste Euro fließt | ⬜ offen |
 | G4 | Technik | Anmeldung und Online-Speicher, Bezahlinhalte privat, Gratis/Premium-Grenze, Play Billing, russische Oberfläche, Datenübernahme aus localStorage | geschlossener Test mit der Testgruppe im Play Store | ⬜ offen |

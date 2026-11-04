@@ -1,0 +1,49 @@
+# M15 Sätze mit dem neuen Fachwortschatz (Pflege, Lager, Büro, Handel, Kita)
+Bei der Aufnahme *machen* wir zuerst eine Anamnese.|При поступлении мы сначала собираем анамнез.|B2|Angabe auf Position 1 → Verb.|Pflege
+Die Pflegevisite *findet* einmal im Monat statt.|Обход по уходу проходит раз в месяц.|B2|stattfinden: trennbar.|Pflege
+Alle Pflegemaßnahmen *müssen* dokumentiert werden.|Все меры по уходу должны документироваться.|B2|Passiv mit Modalverb.|Pflege
+Zur Sturzprophylaxe *gehören* feste Schuhe und gutes Licht.|К профилактике падений относятся устойчивая обувь и хорошее освещение.|B2|zu + Dativ auf Position 1.|Pflege
+Herr Braun *wird* alle zwei Stunden gelagert.|Господина Брауна переворачивают каждые два часа.|B2|Passiv Präsens.|Pflege
+Für den Transfer vom Bett in den Rollstuhl *benutzen* wir den Lifter.|Для пересадки с кровати в коляску мы используем подъёмник.|B2|für + Akkusativ auf Position 1.|Pflege
+Die Notrufklingel *muss* immer in Reichweite liegen.|Кнопка вызова всегда должна быть в зоне досягаемости.|B2|Modalverb + Infinitiv.|Pflege
+Der Urinbeutel *muss* immer unter Blasenhöhe hängen.|Мочеприёмник всегда должен висеть ниже уровня мочевого пузыря.|B2|Modalverb + Infinitiv.|Pflege
+Frau Klein *trinkt* aus dem Schnabelbecher, weil sie sich leicht verschluckt.|Госпожа Кляйн пьёт из поильника, потому что легко поперхивается.|B2|weil: Verb am Ende.|Pflege
+Wegen ihrer Schluckstörung *bekommt* sie Pürierkost.|Из-за нарушения глотания она получает протёртую пищу.|B2|wegen + Genitiv auf Position 1.|Pflege
+Die Trinkmenge *sollte* bei mindestens 1,5 Litern liegen.|Объём выпитого должен быть не меньше 1,5 литра.|B2|liegen bei; Modalverb.|Pflege
+Plötzliche Verwirrtheit *kann* ein Zeichen für Flüssigkeitsmangel sein.|Внезапная спутанность может быть признаком нехватки жидкости.|B2|Modalverb + sein.|Pflege
+Vor jeder Wundversorgung *führen* wir eine Händedesinfektion durch.|Перед каждой обработкой раны мы дезинфицируем руки.|B2|durchführen: trennbar.|Pflege
+Die Wundauflage *wird* alle drei Tage gewechselt.|Повязку меняют каждые три дня.|B2|Passiv Präsens.|Pflege
+Betäubungsmittel *werden* im abgeschlossenen Schrank aufbewahrt.|Наркотические средства хранятся в запертом шкафу.|B2|Passiv; Partizip als Adjektiv.|Pflege
+Herr Krause *hat* eine starke Hinlauftendenz, deshalb ist die Tür gesichert.|У господина Краузе сильная склонность уходить, поэтому дверь защищена.|B2|deshalb: Verb auf Position 2.|Pflege
+Durch Biografiearbeit *verstehen* wir die Bewohner besser.|Благодаря работе с биографией мы лучше понимаем жителей.|B2|durch + Akkusativ auf Position 1.|Pflege
+In der Palliativpflege *steht* die Lebensqualität im Mittelpunkt.|В паллиативном уходе в центре внимания качество жизни.|B2|im Mittelpunkt stehen.|Pflege
+Beim Wareneingang *kontrollieren* wir die Menge und den Zustand der Ware.|При приёмке товара мы проверяем количество и состояние.|B2|Angabe auf Position 1 → Verb.|Arbeit
+Mengenabweichungen *werden* auf dem Lieferschein notiert.|Расхождения в количестве отмечаются в накладной.|B2|Passiv Präsens.|Arbeit
+Die Palette *wird* mit Stretchfolie gesichert.|Поддон закрепляют стрейч-плёнкой.|B2|Passiv; mit + Dativ.|Arbeit
+Den Transportschaden *melden* wir sofort der Spedition.|О повреждении при транспортировке мы сразу сообщаем экспедиции.|B2|Objekt auf Position 1 → Verb.|Arbeit
+Jede Buchung *erfolgt* im Lagerverwaltungssystem.|Каждая проводка выполняется в системе управления складом.|B2|erfolgen = gemacht werden.|Arbeit
+Die Schrauben *liegen* im Regalfach B12.|Шурупы лежат в ячейке B12.|B1|Hauptsatz: Verb auf Platz 2.|Arbeit
+Der Fahrer *ist* für die Ladungssicherung verantwortlich.|Водитель отвечает за крепление груза.|B2|verantwortlich für + Akkusativ.|Verkehr
+Mit der Sendungsverfolgung *sehen* Sie, wo Ihr Paket gerade ist.|С помощью отслеживания вы видите, где сейчас ваша посылка.|B2|indirekte Frage: Verb am Ende.|Handel
+Für den Lkw *brauchen* Sie die Führerscheinklasse C.|Для грузовика нужны права категории C.|B2|für + Akkusativ auf Position 1.|Verkehr
+Mit der Wasserwaage *prüfen* wir, ob das Regal gerade hängt.|Уровнем мы проверяем, ровно ли висит полка.|B2|ob: Verb am Ende.|Wohnen
+Erst *schleifen* wir die Wand mit Schleifpapier, dann streichen wir.|Сначала мы шлифуем стену наждачкой, потом красим.|B2|erst … dann.|Wohnen
+Durch einen Kurzschluss *ist* die Sicherung rausgeflogen.|Из-за короткого замыкания выбило предохранитель.|B2|Perfekt mit sein.|Wohnen
+Die Seriennummer *steht* auf dem Typenschild an der Rückseite.|Серийный номер указан на табличке сзади.|B2|Hauptsatz: Verb auf Platz 2.|Arbeit
+Der Stundensatz *beträgt* 65 Euro, dazu kommen die Anfahrtskosten.|Почасовая ставка — 65 евро, плюс расходы на выезд.|B2|betragen; dazukommen.|Arbeit
+Jeder Brief *bekommt* einen Posteingangsstempel.|Каждое письмо получает штамп входящей почты.|B2|Hauptsatz: Verb auf Platz 2.|Arbeit
+Die Formularvorlage *finden* Sie im Intranet.|Шаблон бланка вы найдёте в интранете.|B2|Objekt auf Position 1 → Verb.|Arbeit
+Alle drei Monate *ist* ein Passwortwechsel nötig.|Каждые три месяца нужно менять пароль.|B2|Zeit auf Position 1 → Verb.|Medien
+Nach dem Angebotsvergleich *haben* wir die günstigste Firma beauftragt.|После сравнения предложений мы поручили работу самой дешёвой фирме.|B2|Perfekt; nach + Dativ.|Arbeit
+Die Teilzeit *wird* in einer Zusatzvereinbarung geregelt.|Неполный рабочий день оформляется дополнительным соглашением.|B2|Passiv Präsens.|Arbeit
+Im Verkaufsgespräch *fragt* man zuerst nach den Wünschen des Kunden.|В разговоре с покупателем сначала спрашивают о его пожеланиях.|B2|fragen nach + Dativ.|Handel
+Den Kassenabschluss *macht* die Filialleiterin.|Закрытие кассы делает заведующая филиалом.|B2|Objekt auf Position 1 → Verb.|Handel
+Wegen des hohen Schwunds *wurde* ein Sicherheitsdienst eingestellt.|Из-за большой недостачи наняли охрану.|B2|wegen + Genitiv; Passiv Präteritum.|Handel
+Für Sonntagsarbeit *gibt* es einen Zuschlag von 50 Prozent.|За работу в воскресенье полагается надбавка 50 процентов.|B2|es gibt; für auf Position 1.|Arbeit
+Ohne Dienstausweis *kommt* man nicht ins Gebäude.|Без служебного удостоверения в здание не попасть.|B1|ohne auf Position 1 → Verb.|Arbeit
+Im Morgenkreis *singen* die Kinder ein Lied.|В утреннем кругу дети поют песню.|B1|Ort auf Position 1 → Verb.|Familie
+Während der Mittagsruhe *schlafen* die Kleinen.|Во время тихого часа малыши спят.|B1|während + Genitiv auf Position 1.|Familie
+*Planen* Sie für die Eingewöhnungszeit zwei Wochen ein.|Запланируйте на адаптацию две недели.|B2|Imperativ (Sie); einplanen.|Familie
+Die Kita *hat* im August drei Wochen Schließzeit.|В августе у детсада три недели закрытия.|B2|Hauptsatz: Verb auf Platz 2.|Familie
+Der Check-in *ist* ab 15 Uhr möglich, der Check-out bis 11 Uhr.|Заселение возможно с 15 часов, выезд — до 11.|A2|zwei Sätze ohne zweites Verb.|Reisen
+Bitte *wechseln* Sie das Wischwasser nach jedem Zimmer.|Пожалуйста, меняйте воду для мытья полов после каждого номера.|B1|Imperativ (Sie).|Arbeit

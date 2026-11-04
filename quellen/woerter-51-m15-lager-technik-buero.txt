@@ -1,0 +1,81 @@
+# M15 Fachwortschatz Lager, Logistik, Technik, Handwerk, Büro, Verwaltung (geprüfte neue Wörter)
+Kommissionierer|der|Kommissionierer|N|комплектовщик|stellt Bestellungen im Lager zusammen|Als Kommissionierer laufe ich viele Kilometer am Tag.|B2|Arbeit
+Etikettendrucker|der|Etikettendrucker|N|принтер этикеток|druckt Aufkleber|Der Etikettendrucker hat kein Papier mehr.|B2|Arbeit
+Packtisch|der|Packtische|N|упаковочный стол|Tisch zum Verpacken|Am Packtisch werden die Pakete fertig gemacht.|B2|Arbeit
+Stretchfolie|die|-|N|стрейч-плёнка|Folie um Paletten|Die Palette wird mit Stretchfolie gesichert.|B2|Arbeit
+Umreifungsband|das|Umreifungsbänder|N|упаковочная лента|Band um Kartons oder Paletten|Das Umreifungsband ist gerissen.|B2|Arbeit
+Rollcontainer|der|Rollcontainer|N|роллконтейнер|Gitterwagen mit Rädern|Die Ware kommt im Rollcontainer in die Filiale.|B2|Arbeit
+Gitterbox|die|Gitterboxen|N|сетчатый контейнер|Behälter aus Gitter|Die Gitterbox steht in Gang 3.|B2|Arbeit
+Europalette|die|Europaletten|N|европоддон|genormte Holzpalette|Eine Europalette ist 120 mal 80 Zentimeter groß.|B2|Arbeit
+Ladungssicherung|die|-|N|крепление груза|Ware im Lkw sichern|Der Fahrer ist für die Ladungssicherung verantwortlich.|B2|Verkehr
+Lieferavis|das|Lieferavise|N|уведомление о доставке|Ankündigung einer Lieferung|Laut Lieferavis kommen morgen zwölf Paletten.|B2|Arbeit
+Wareneingangskontrolle|die|-|N|контроль поступления товара|Prüfung der gelieferten Ware|Bei der Wareneingangskontrolle zählen wir alle Kartons.|B2|Arbeit
+Mengenabweichung|die|Mengenabweichungen|N|расхождение в количестве|falsche Anzahl|Mengenabweichungen müssen auf dem Lieferschein notiert werden.|B2|Arbeit
+Transportschaden|der|Transportschäden|N|повреждение при перевозке|Schaden beim Transport|Den Transportschaden melden wir der Spedition.|B2|Arbeit
+Retourenabwicklung|die|-|N|обработка возвратов|Bearbeitung von Rücksendungen|Sie arbeitet in der Retourenabwicklung.|B2|Arbeit
+Regalfach|das|Regalfächer|N|ячейка стеллажа|Platz im Regal|Die Schrauben liegen im Regalfach B12.|B1|Arbeit
+Lagerverwaltungssystem|das|Lagerverwaltungssysteme|N|система управления складом|Software für das Lager|Jede Buchung erfolgt im Lagerverwaltungssystem.|B2|Arbeit
+Auftragsabwicklung|die|-|N|обработка заказов|Bearbeitung von Aufträgen|Die Auftragsabwicklung dauert zwei Tage.|B2|Arbeit
+Tourenplanung|die|-|N|планирование маршрутов|Planung der Lieferfahrten|Die Tourenplanung macht der Disponent.|B2|Arbeit
+Disposition|die|-|N|диспетчерская, планирование|Abteilung für die Planung|Rufen Sie bitte in der Disposition an.|B2|Arbeit
+Zustellnachweis|der|Zustellnachweise|N|подтверждение доставки|Beweis der Lieferung|Der Kunde hat auf dem Zustellnachweis unterschrieben.|B2|Arbeit
+Sendungsverfolgung|die|-|N|отслеживание отправления|online sehen, wo das Paket ist|Mit der Sendungsverfolgung sehen Sie, wo Ihr Paket ist.|B2|Handel
+Zollpapiere|die|(Pl.)|N|таможенные документы|Dokumente für den Zoll|Für Pakete in die Schweiz brauchen Sie Zollpapiere.|B2|Arbeit
+Frachtführer|der|Frachtführer|N|перевозчик|Firma, die Waren transportiert|Der Frachtführer haftet für Transportschäden.|B2|Arbeit
+Lkw-Fahrer|der|Lkw-Fahrer|N|водитель грузовика|fährt einen Lastwagen|Lkw-Fahrer werden dringend gesucht.|B1|Arbeit
+Führerscheinklasse|die|Führerscheinklassen|N|категория водительских прав|Art des Führerscheins|Für den Lkw brauchen Sie die Führerscheinklasse C.|B2|Verkehr
+Ladekran|der|Ladekräne|N|погрузочный кран|Kran am Lkw|Der Ladekran hebt die Steine vom Lkw.|B2|Arbeit
+Schraubendreher|der|Schraubendreher|N|отвёртка|Werkzeug für Schrauben|Gib mir bitte den kleinen Schraubendreher.|B1|Arbeit
+Akkuschrauber|der|Akkuschrauber|N|шуруповёрт|elektrischer Schraubendreher|Mit dem Akkuschrauber geht es schneller.|B1|Arbeit
+Wasserwaage|die|Wasserwaagen|N|уровень (строительный)|Werkzeug für gerade Linien|Mit der Wasserwaage prüfen wir, ob das Regal gerade hängt.|B2|Arbeit
+Zollstock|der|Zollstöcke|N|складной метр|Messstab zum Aufklappen|Hast du einen Zollstock?|B1|Arbeit
+Maßband|das|Maßbänder|N|рулетка|Band zum Messen|Mit dem Maßband messen wir das Zimmer aus.|B1|Arbeit
+Schleifpapier|das|-|N|наждачная бумага|Papier zum Glattmachen|Erst mit Schleifpapier glätten, dann streichen.|B2|Arbeit
+Farbrolle|die|Farbrollen|N|малярный валик|Rolle zum Streichen|Mit der Farbrolle geht das Streichen schneller.|B1|Wohnen
+Abdeckplane|die|Abdeckplanen|N|защитная плёнка|Folie zum Schutz vor Farbe|Legen Sie eine Abdeckplane auf den Boden.|B2|Wohnen
+Spachtel|der|Spachtel|N|шпатель|Werkzeug für Gips und Farbe|Die Löcher in der Wand füllen wir mit dem Spachtel.|B2|Wohnen
+Silikon|das|-|N|силикон|weiche Masse zum Abdichten|Das Silikon in der Dusche ist schimmelig.|B2|Wohnen
+Sicherungskasten|der|Sicherungskästen|N|щиток с предохранителями|Kasten mit den Sicherungen|Der Sicherungskasten ist im Flur.|B1|Wohnen
+Mehrfachsteckdose|die|Mehrfachsteckdosen|N|удлинитель-тройник|Steckdose für mehrere Stecker|Benutzen Sie keine Mehrfachsteckdose für den Wasserkocher.|B1|Wohnen
+Kurzschluss|der|Kurzschlüsse|N|короткое замыкание|Fehler im Stromkreis|Durch einen Kurzschluss ist die Sicherung rausgeflogen.|B2|Wohnen
+Gebrauchsanweisung|die|Gebrauchsanweisungen|N|инструкция по применению|Anleitung, wie man etwas benutzt|Lesen Sie zuerst die Gebrauchsanweisung.|B1|Alltag
+Ersatzteillager|das|Ersatzteillager|N|склад запчастей|Lager für Ersatzteile|Das Teil ist nicht im Ersatzteillager.|B2|Arbeit
+Seriennummer|die|Seriennummern|N|серийный номер|Nummer eines Geräts|Die Seriennummer steht auf der Rückseite.|B1|Arbeit
+Typenschild|das|Typenschilder|N|заводская табличка|Schild mit Gerätedaten|Auf dem Typenschild finden Sie das Modell.|B2|Arbeit
+Garantieschein|der|Garantiescheine|N|гарантийный талон|Dokument für die Garantie|Bewahren Sie den Garantieschein gut auf.|B1|Einkaufen
+Reparaturauftrag|der|Reparaturaufträge|N|заказ на ремонт|Auftrag für eine Reparatur|Bitte unterschreiben Sie den Reparaturauftrag.|B2|Arbeit
+Stundensatz|der|Stundensätze|N|почасовая ставка|Preis pro Arbeitsstunde|Der Stundensatz beträgt 65 Euro.|B2|Arbeit
+Anfahrtskosten|die|(Pl.)|N|расходы на выезд|Kosten für die Fahrt zum Kunden|Die Anfahrtskosten betragen 30 Euro.|B2|Arbeit
+Materialkosten|die|(Pl.)|N|стоимость материалов|Kosten für Material|Die Materialkosten kommen extra dazu.|B2|Arbeit
+Hängeregister|das|Hängeregister|N|подвесная папка|Mappen zum Hängen im Schrank|Die Rechnungen sind im Hängeregister.|B2|Arbeit
+Locher|der|Locher|N|дырокол|Gerät für Löcher im Papier|Wo ist der Locher?|A2|Arbeit
+Hefter|der|Hefter|N|степлер|Gerät zum Zusammenheften|Der Hefter ist leer.|A2|Arbeit
+Büroklammer|die|Büroklammern|N|скрепка|kleine Klammer für Papier|Machen Sie bitte eine Büroklammer an die Blätter.|A2|Arbeit
+Textmarker|der|Textmarker|N|текстовыделитель|bunter Stift zum Markieren|Markieren Sie die wichtigen Wörter mit dem Textmarker.|A2|Bildung
+Notizblock|der|Notizblöcke|N|блокнот|Block für Notizen|Neben dem Telefon liegt ein Notizblock.|A2|Arbeit
+Frankiermaschine|die|Frankiermaschinen|N|франкировальная машина|Gerät für Briefporto|Die Briefe gehen durch die Frankiermaschine.|B2|Arbeit
+Postausgang|der|-|N|исходящая почта|Post, die verschickt wird|Der Postausgang ist um 15 Uhr.|B2|Arbeit
+Aktenschrank|der|Aktenschränke|N|шкаф для документов|Schrank für Akten|Die Personalakten sind im Aktenschrank eingeschlossen.|B2|Arbeit
+Schreibtischstuhl|der|Schreibtischstühle|N|офисное кресло|Stuhl am Schreibtisch|Der Schreibtischstuhl ist gut für den Rücken.|B1|Arbeit
+Beamer|der|Beamer|N|проектор|Gerät für Präsentationen|Der Beamer funktioniert nicht.|B1|Arbeit
+Headset|das|Headsets|N|гарнитура|Kopfhörer mit Mikrofon|Für Videokonferenzen brauche ich ein Headset.|B1|Arbeit
+Diensthandy|das|Diensthandys|N|служебный телефон|Handy der Firma|Im Bereitschaftsdienst haben Sie das Diensthandy.|B1|Arbeit
+Dateiname|der|Dateinamen|N|имя файла|Name einer Datei|Bitte speichern Sie mit Datum im Dateinamen.|B2|Medien
+Passwortwechsel|der|-|N|смена пароля|neues Passwort festlegen|Alle drei Monate ist ein Passwortwechsel nötig.|B2|Medien
+Formularvorlage|die|Formularvorlagen|N|шаблон бланка|leeres Muster eines Formulars|Die Formularvorlage finden Sie im Intranet.|B2|Arbeit
+Unterschriftenmappe|die|Unterschriftenmappen|N|папка на подпись|Mappe mit Briefen zum Unterschreiben|Die Unterschriftenmappe liegt auf dem Schreibtisch der Chefin.|B2|Arbeit
+Posteingangsstempel|der|Posteingangsstempel|N|штамп входящей почты|Stempel mit Eingangsdatum|Jeder Brief bekommt einen Posteingangsstempel.|B2|Arbeit
+Rechnungseingang|der|-|N|поступление счетов|Ankunft von Rechnungen|Der Rechnungseingang wird täglich geprüft.|B2|Arbeit
+Zahlungseingang|der|Zahlungseingänge|N|поступление платежа|Ankunft einer Zahlung|Nach Zahlungseingang versenden wir die Ware.|B2|Handel
+Kassenbuch|das|Kassenbücher|N|кассовая книга|Buch für Bargeld-Einnahmen und -Ausgaben|Jeden Abend wird das Kassenbuch geführt.|B2|Arbeit
+Spesenabrechnung|die|Spesenabrechnungen|N|отчёт о расходах|Abrechnung von Ausgaben auf Dienstreisen|Die Spesenabrechnung reichen Sie mit den Quittungen ein.|B2|Arbeit
+Angebotsvergleich|der|Angebotsvergleiche|N|сравнение предложений|Vergleich von mehreren Angeboten|Nach dem Angebotsvergleich nehmen wir die günstigste Firma.|B2|Arbeit
+Ausschreibung|die|Ausschreibungen|N|тендер; объявление о вакансии|offizielle Suche nach Firmen oder Bewerbern|Die Stadt hat eine Ausschreibung für die Reinigung veröffentlicht.|B2|Arbeit
+Vergabe|die|-|N|распределение, присуждение (заказа)|Entscheidung, wer den Auftrag bekommt|Die Vergabe erfolgt im Mai.|B2|Arbeit
+Auftragnehmer|der|Auftragnehmer|N|подрядчик|Firma, die den Auftrag ausführt|Der Auftragnehmer haftet für Mängel.|B2|Arbeit
+Vertragspartner|der|Vertragspartner|N|сторона договора|Partner in einem Vertrag|Beide Vertragspartner müssen unterschreiben.|B2|Arbeit
+Vertragsbeginn|der|-|N|начало договора|erster Tag des Vertrags|Der Vertragsbeginn ist der 1. Januar.|B2|Arbeit
+Vertragsende|das|-|N|окончание договора|letzter Tag des Vertrags|Zum Vertragsende geben Sie den Schlüssel ab.|B2|Arbeit
+Verlängerungsoption|die|Verlängerungsoptionen|N|возможность продления|Möglichkeit, den Vertrag zu verlängern|Der Vertrag hat eine Verlängerungsoption um ein Jahr.|B2|Arbeit
+Zusatzvereinbarung|die|Zusatzvereinbarungen|N|дополнительное соглашение|Ergänzung zum Vertrag|Die Teilzeit wird in einer Zusatzvereinbarung geregelt.|B2|Arbeit
+Nachtrag|der|Nachträge|N|дополнение|Ergänzung zu einem Dokument|Im Nachtrag zum Vertrag steht die neue Arbeitszeit.|B2|Arbeit
