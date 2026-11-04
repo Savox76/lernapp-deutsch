@@ -1,0 +1,95 @@
+# M10 Wohnen, Familie, Freizeit – Nomen (geprüfte neue Wörter)
+Souterrain|das|Souterrains|N|цокольный этаж|Wohnung halb unter der Erde|Die Souterrainwohnung ist günstig, aber dunkel.|B2|Wohnen
+Hinterhof|der|Hinterhöfe|N|задний двор|Hof hinter dem Haus|Die Fahrräder stehen im Hinterhof.|B1|Wohnen
+Gegensprechanlage|die|Gegensprechanlagen|N|домофон|Gerät an der Haustür zum Sprechen|Die Gegensprechanlage ist kaputt, bitte klopfen Sie.|B2|Wohnen
+Fußbodenheizung|die|Fußbodenheizungen|N|тёплый пол|Heizung im Boden|Im Bad gibt es eine Fußbodenheizung.|B2|Wohnen
+Laminat|das|-|N|ламинат|Bodenbelag, der wie Holz aussieht|Im Wohnzimmer liegt Laminat.|B2|Wohnen
+Parkett|das|-|N|паркет|Holzboden|Die Altbauwohnung hat schönes Parkett.|B1|Wohnen
+Kühl-Gefrier-Kombination|die|Kühl-Gefrier-Kombinationen|N|холодильник с морозилкой|Kühlschrank mit Gefrierfach unten|Die Küche hat eine Kühl-Gefrier-Kombination.|B2|Wohnen
+Abfluss|der|Abflüsse|N|слив|Öffnung, durch die Wasser abläuft|Der Abfluss in der Dusche ist verstopft.|B1|Wohnen
+Duschkopf|der|Duschköpfe|N|лейка душа|oberer Teil der Dusche|Der Duschkopf ist verkalkt.|B1|Wohnen
+Sicherung|die|Sicherungen|N|предохранитель|schützt den Stromkreis|Die Sicherung ist rausgesprungen.|B1|Wohnen
+Thermostat|das|Thermostate|N|термостат|Regler für die Temperatur|Stellen Sie das Thermostat auf Stufe 3.|B2|Wohnen
+Feuchtigkeit|die|-|N|влажность|Nässe in der Luft oder Wand|Die Feuchtigkeit im Bad führt zu Schimmel.|B2|Wohnen
+Stoßlüften|das|-|N|кратковременное проветривание|Fenster kurz ganz öffnen|Stoßlüften ist besser als ein gekipptes Fenster.|B2|Wohnen
+Kaltmiete|die|Kaltmieten|N|арендная плата без коммунальных|Miete ohne Nebenkosten|Die Kaltmiete beträgt 650 Euro.|B1|Wohnen
+Eigenbedarf|der|-|N|собственная потребность|Vermieter braucht die Wohnung selbst|Der Vermieter hat wegen Eigenbedarf gekündigt.|B2|Wohnen
+Selbstauskunft|die|Selbstauskünfte|N|анкета арендатора|Formular mit Angaben über sich|Füllen Sie bitte die Selbstauskunft aus.|B2|Wohnen
+Schufa-Auskunft|die|Schufa-Auskünfte|N|кредитная справка (Schufa)|Bescheinigung über Kreditwürdigkeit|Der Vermieter möchte eine Schufa-Auskunft sehen.|B2|Wohnen
+Mietschuldenfreiheitsbescheinigung|die|Mietschuldenfreiheitsbescheinigungen|N|справка об отсутствии долгов по аренде|Bestätigung, dass man keine Mietschulden hat|Die Mietschuldenfreiheitsbescheinigung bekommen Sie vom alten Vermieter.|B2|Wohnen
+Übergabeprotokoll|das|Übergabeprotokolle|N|акт приёма-передачи|Protokoll beim Ein- oder Auszug|Alle Schäden stehen im Übergabeprotokoll.|B2|Wohnen
+Schönheitsreparaturen|die|(Pl.)|N|косметический ремонт|Streichen, kleine Reparaturen|Laut Vertrag muss der Mieter die Schönheitsreparaturen machen.|B2|Wohnen
+Renovierung|die|Renovierungen|N|ремонт|Erneuerung einer Wohnung|Die Renovierung dauert drei Wochen.|B1|Wohnen
+Umzugsfirma|die|Umzugsfirmen|N|фирма по переездам|Firma, die beim Umzug hilft|Wir haben eine Umzugsfirma beauftragt.|B1|Wohnen
+Halteverbotszone|die|Halteverbotszonen|N|зона запрета остановки|Bereich, wo man nicht halten darf|Für den Umzug beantragen wir eine Halteverbotszone.|B2|Wohnen
+Treppenhausreinigung|die|-|N|уборка подъезда|Putzen des Treppenhauses|Diese Woche bin ich mit der Treppenhausreinigung dran.|B2|Wohnen
+Winterdienst|der|-|N|зимняя уборка снега|Schnee räumen und streuen|Der Hausmeister macht den Winterdienst.|B2|Wohnen
+Kehrwoche|die|Kehrwochen|N|неделя уборки (в доме)|Woche, in der man im Haus putzt|In Schwaben gibt es die Kehrwoche.|B2|Wohnen
+Einweihungsparty|die|Einweihungspartys|N|новоселье|Feier in der neuen Wohnung|Wir laden euch zur Einweihungsparty ein.|B1|Wohnen
+Maler|der|Maler|N|маляр|streicht Wände|Der Maler kommt am Montag.|B1|Wohnen
+Rohrbruch|der|Rohrbrüche|N|прорыв трубы|ein Wasserrohr ist kaputt|Wegen eines Rohrbruchs gibt es kein Wasser.|B2|Wohnen
+Stromausfall|der|Stromausfälle|N|отключение электричества|kein Strom|Gestern Abend gab es einen Stromausfall.|B1|Wohnen
+Dübel|der|Dübel|N|дюбель|Plastikteil für Schrauben in der Wand|Für das Regal brauchen wir Dübel.|B2|Wohnen
+Kleiderschrank|der|Kleiderschränke|N|платяной шкаф|Schrank für Kleidung|Der Kleiderschrank passt nicht ins Zimmer.|A2|Wohnen
+Etagenbett|das|Etagenbetten|N|двухъярусная кровать|zwei Betten übereinander|Die Kinder schlafen im Etagenbett.|B1|Wohnen
+Hochstuhl|der|Hochstühle|N|детский стульчик|hoher Stuhl für Babys|Haben Sie einen Hochstuhl für unser Baby?|B1|Familie
+Buggy|der|Buggys|N|прогулочная коляска|leichter Kinderwagen|Der Buggy passt in den Kofferraum.|B1|Familie
+Babyfon|das|Babyfone|N|радионяня|Gerät, um das Baby zu hören|Mit dem Babyfon hören wir, wenn sie aufwacht.|B1|Familie
+Schnuller|der|Schnuller|N|соска|Gummi zum Saugen für Babys|Ohne Schnuller schläft er nicht ein.|B1|Familie
+Fläschchen|das|Fläschchen|N|бутылочка|kleine Flasche für Babys|Ich mache dem Baby ein Fläschchen.|B1|Familie
+Krabbelgruppe|die|Krabbelgruppen|N|группа для малышей|Treffen für Eltern mit Babys|In der Krabbelgruppe habe ich andere Mütter kennengelernt.|B2|Familie
+Tagesmutter|die|Tagesmütter|N|няня (дневная)|betreut kleine Kinder bei sich zu Hause|Bis zur Kita geht unser Sohn zur Tagesmutter.|B1|Familie
+Elternbeirat|der|Elternbeiräte|N|родительский совет|Vertretung der Eltern in der Schule|Ich wurde in den Elternbeirat gewählt.|B2|Familie
+Schultüte|die|Schultüten|N|подарочный кулёк первоклассника|große Tüte mit Süßigkeiten zum ersten Schultag|Zur Einschulung bekommt jedes Kind eine Schultüte.|B1|Familie
+Einschulung|die|Einschulungen|N|поступление в школу|erster Schultag|Die Einschulung ist am Samstag.|B1|Familie
+Klassenlehrerin|die|Klassenlehrerinnen|N|классная руководительница|Lehrerin, die für die Klasse verantwortlich ist|Ich habe einen Termin bei der Klassenlehrerin.|A2|Familie
+Nachhilfe|die|-|N|репетиторство|zusätzlicher Unterricht|Meine Tochter bekommt Nachhilfe in Mathe.|B1|Familie
+Pausenbrot|das|Pausenbrote|N|бутерброд на перемену|Essen für die Schulpause|Ich mache morgens die Pausenbrote.|A2|Familie
+Taschengeld|das|-|N|карманные деньги|Geld für Kinder|Er bekommt zehn Euro Taschengeld pro Woche.|A2|Familie
+Erziehungsberatung|die|-|N|консультация по воспитанию|Hilfe für Eltern|Die Erziehungsberatung ist kostenlos.|B2|Familie
+Zwillinge|die|(Pl.)|N|близнецы|zwei Kinder einer Geburt|Unsere Nachbarin hat Zwillinge bekommen.|A2|Familie
+Enkelkind|das|Enkelkinder|N|внук, внучка|Kind des eigenen Kindes|Am Wochenende kommen die Enkelkinder.|A2|Familie
+Schwager|der|Schwager|N|шурин, деверь, зять|Bruder des Partners / Mann der Schwester|Mein Schwager hilft beim Umzug.|B1|Familie
+Schwägerin|die|Schwägerinnen|N|невестка, золовка|Schwester des Partners / Frau des Bruders|Meine Schwägerin wohnt in Köln.|B1|Familie
+Patenkind|das|Patenkinder|N|крестник|Kind, für das man Pate ist|Ich besuche mein Patenkind an seinem Geburtstag.|B1|Familie
+Pate|der|Paten|N|крёстный|begleitet ein Kind (Taufe)|Mein Bruder ist der Pate unserer Tochter.|B1|Familie
+Adoptivkind|das|Adoptivkinder|N|приёмный ребёнок|adoptiertes Kind|Sie haben ein Adoptivkind aus Kolumbien.|B2|Familie
+Pflegefamilie|die|Pflegefamilien|N|приёмная семья|Familie, die ein fremdes Kind betreut|Der Junge lebt in einer Pflegefamilie.|B2|Familie
+Verlobung|die|Verlobungen|N|помолвка|Versprechen, zu heiraten|Zur Verlobung gab es einen Ring.|B1|Familie
+Trauzeuge|der|Trauzeugen|N|свидетель на свадьбе|Zeuge bei der Hochzeit|Mein bester Freund ist mein Trauzeuge.|B2|Familie
+Flitterwochen|die|(Pl.)|N|медовый месяц|Reise nach der Hochzeit|Die Flitterwochen verbringen sie in Italien.|B1|Familie
+Silberhochzeit|die|Silberhochzeiten|N|серебряная свадьба|25 Jahre verheiratet|Meine Eltern feiern Silberhochzeit.|B2|Familie
+Konfirmation|die|Konfirmationen|N|конфирмация|evangelisches Fest für Jugendliche|Zur Konfirmation kommt die ganze Familie.|B2|Familie
+Jugendweihe|die|Jugendweihen|N|югендвайе (праздник совершеннолетия)|Fest für 14-Jährige, vor allem im Osten|In Sachsen feiern viele Jugendliche die Jugendweihe.|B2|Familie
+Trauerfeier|die|Trauerfeiern|N|траурная церемония|Feier nach einem Todesfall|Die Trauerfeier findet am Freitag statt.|B2|Familie
+Beileid|das|-|N|соболезнование|Mitgefühl beim Tod eines Menschen|Mein herzliches Beileid.|B1|Familie
+Grillabend|der|Grillabende|N|вечер с грилем|Abend, an dem man grillt|Am Samstag machen wir einen Grillabend.|A2|Freizeit
+Spieleabend|der|Spieleabende|N|вечер настольных игр|Abend mit Brettspielen|Jeden Freitag ist bei uns Spieleabend.|A2|Freizeit
+Tagesausflug|der|Tagesausflüge|N|однодневная поездка|Ausflug für einen Tag|Ein Tagesausflug nach Meißen lohnt sich.|B1|Freizeit
+Radtour|die|Radtouren|N|велопрогулка|Ausflug mit dem Fahrrad|Am Sonntag machen wir eine Radtour an der Elbe.|A2|Freizeit
+Zeltplatz|der|Zeltplätze|N|кемпинг для палаток|Platz zum Zelten|Der Zeltplatz liegt direkt am See.|B1|Freizeit
+Jugendherberge|die|Jugendherbergen|N|молодёжная турбаза|günstige Unterkunft für Gruppen|Die Klasse übernachtet in der Jugendherberge.|B1|Reisen
+Pauschalreise|die|Pauschalreisen|N|пакетный тур|Reise mit Flug und Hotel zusammen|Wir haben eine Pauschalreise in die Türkei gebucht.|B1|Reisen
+Reiseversicherung|die|Reiseversicherungen|N|туристическая страховка|Versicherung für die Reise|Haben Sie eine Reiseversicherung abgeschlossen?|B2|Reisen
+Strandkorb|der|Strandkörbe|N|пляжная корзина-кресло|Sitz am Strand mit Dach|An der Ostsee mieten wir einen Strandkorb.|B1|Reisen
+Sonnenbrand|der|Sonnenbrände|N|солнечный ожог|rote Haut von der Sonne|Ohne Sonnencreme bekommt man schnell einen Sonnenbrand.|A2|Gesundheit
+Freizeitpark|der|Freizeitparks|N|парк развлечений|Park mit Achterbahnen|Die Kinder wünschen sich einen Tag im Freizeitpark.|A2|Freizeit
+Tierpark|der|Tierparks|N|зоопарк|Zoo|Im Tierpark gibt es Bären und Wölfe.|A2|Freizeit
+Bowling|das|-|N|боулинг|Spiel mit Kugel und Kegeln|Wir gehen mit dem Team zum Bowling.|A2|Freizeit
+Minigolf|das|-|N|мини-гольф|kleines Golfspiel|Im Urlaub haben wir Minigolf gespielt.|A2|Freizeit
+Schwimmkurs|der|Schwimmkurse|N|курс плавания|Kurs, um schwimmen zu lernen|Für den Schwimmkurs gibt es eine Warteliste.|A2|Freizeit
+Seepferdchen|das|Seepferdchen|N|«морской конёк» (детский знак по плаванию)|erstes Schwimmabzeichen für Kinder|Meine Tochter hat das Seepferdchen geschafft.|B1|Freizeit
+Volkshochschulkurs|der|Volkshochschulkurse|N|курс народного университета|Kurs an der VHS|Ich mache einen Volkshochschulkurs in Nähen.|B1|Bildung
+Gärtnern|das|-|N|садоводство|Arbeit im Garten als Hobby|Gärtnern entspannt mich.|B1|Freizeit
+Theatergruppe|die|Theatergruppen|N|театральный кружок|Gruppe, die Theater spielt|Er spielt in einer Theatergruppe.|B1|Freizeit
+Kinoabend|der|Kinoabende|N|вечер в кино|Abend im Kino|Freitag ist bei uns Kinoabend.|A2|Freizeit
+Konzertkarte|die|Konzertkarten|N|билет на концерт|Eintrittskarte für ein Konzert|Ich habe zwei Konzertkarten gewonnen.|A2|Freizeit
+Familienkarte|die|Familienkarten|N|семейный билет|günstige Karte für die ganze Familie|Mit der Familienkarte zahlen wir weniger.|B1|Freizeit
+Jahreskarte|die|Jahreskarten|N|годовой абонемент|Karte für ein ganzes Jahr|Wir haben eine Jahreskarte für den Zoo.|B1|Freizeit
+Kartenspiel|das|Kartenspiele|N|карточная игра|Spiel mit Spielkarten|Abends spielen wir ein Kartenspiel.|A2|Freizeit
+Rutsche|die|Rutschen|N|горка|Spielgerät zum Rutschen|Die Kinder rutschen auf der Rutsche.|A2|Freizeit
+Sandkasten|der|Sandkästen|N|песочница|Kasten mit Sand zum Spielen|Der Kleine spielt im Sandkasten.|A2|Freizeit
+Hundesteuer|die|-|N|налог на собаку|Steuer für Hundebesitzer|Die Hundesteuer kostet hier 120 Euro im Jahr.|B2|Behörden
+Katzenklo|das|Katzenklos|N|кошачий туалет|Toilette für Katzen|Das Katzenklo steht im Bad.|B1|Freizeit
+Vogelfutter|das|-|N|корм для птиц|Futter für Vögel|Im Winter hängen wir Vogelfutter auf.|B1|Freizeit
+Aquarium|das|Aquarien|N|аквариум|Glasbecken mit Fischen|Im Kinderzimmer steht ein Aquarium.|A2|Freizeit

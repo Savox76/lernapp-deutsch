@@ -1,0 +1,93 @@
+# M10 Küche, Essen, Einkaufen, Kleidung (geprüfte neue Wörter)
+Nudelholz|das|Nudelhölzer|N|скалка|Holzrolle für Teig|Den Teig mit dem Nudelholz ausrollen.|B1|Essen
+Schneebesen|der|Schneebesen|N|венчик|Küchengerät zum Schlagen|Die Sahne mit dem Schneebesen schlagen.|B1|Essen
+Kochlöffel|der|Kochlöffel|N|поварёшка, деревянная ложка|Löffel zum Umrühren|Rühren Sie mit dem Kochlöffel um.|A2|Essen
+Pfannenwender|der|Pfannenwender|N|лопатка|Gerät zum Wenden in der Pfanne|Die Pfannkuchen mit dem Pfannenwender umdrehen.|B1|Essen
+Reibe|die|Reiben|N|тёрка|Gerät zum Reiben|Den Käse mit der Reibe reiben.|B1|Essen
+Dosenöffner|der|Dosenöffner|N|консервный нож|Gerät zum Öffnen von Dosen|Wo ist der Dosenöffner?|A2|Essen
+Korkenzieher|der|Korkenzieher|N|штопор|Gerät für Weinflaschen|Hast du einen Korkenzieher?|B1|Essen
+Flaschenöffner|der|Flaschenöffner|N|открывалка|Gerät für Flaschen|Der Flaschenöffner liegt in der Schublade.|A2|Essen
+Messbecher|der|Messbecher|N|мерный стакан|Becher zum Abmessen|Messen Sie 500 ml Milch im Messbecher ab.|B1|Essen
+Backpapier|das|-|N|пергамент для выпечки|Papier für das Backblech|Das Blech mit Backpapier auslegen.|B1|Essen
+Frischhaltefolie|die|-|N|пищевая плёнка|durchsichtige Folie für Lebensmittel|Den Teig in Frischhaltefolie wickeln.|B2|Essen
+Gefrierbeutel|der|Gefrierbeutel|N|пакет для заморозки|Beutel zum Einfrieren|Ich friere die Suppe im Gefrierbeutel ein.|B1|Essen
+Frischhaltedose|die|Frischhaltedosen|N|пищевой контейнер|Plastikbox für Essen|Das Mittagessen nehme ich in der Frischhaltedose mit.|B1|Essen
+Topflappen|der|Topflappen|N|прихватка|Stoff gegen heiße Töpfe|Nimm einen Topflappen, der Griff ist heiß!|A2|Essen
+Schürze|die|Schürzen|N|фартук|Kleidungsstück beim Kochen|Beim Kochen trage ich eine Schürze.|A2|Essen
+Herdplatte|die|Herdplatten|N|конфорка|Platte auf dem Herd|Die Herdplatte ist noch heiß.|B1|Essen
+Prise|die|Prisen|N|щепотка|ganz kleine Menge|Eine Prise Salz dazugeben.|B1|Essen
+Esslöffel|der|Esslöffel|N|столовая ложка|großer Löffel (Maß)|Zwei Esslöffel Öl in die Pfanne geben.|A2|Essen
+Teelöffel|der|Teelöffel|N|чайная ложка|kleiner Löffel (Maß)|Einen Teelöffel Zucker, bitte.|A2|Essen
+Messerspitze|die|Messerspitzen|N|на кончике ножа|sehr kleine Menge Gewürz|Eine Messerspitze Muskat dazugeben.|B2|Essen
+Backpulver|das|-|N|разрыхлитель|Pulver, damit der Kuchen hoch wird|Ein Päckchen Backpulver unter das Mehl mischen.|B1|Essen
+Puderzucker|der|-|N|сахарная пудра|sehr feiner Zucker|Den Kuchen mit Puderzucker bestreuen.|B1|Essen
+Vanillezucker|der|-|N|ванильный сахар|Zucker mit Vanillegeschmack|Ein Päckchen Vanillezucker dazugeben.|B1|Essen
+Zimt|der|-|N|корица|braunes, süßes Gewürz|Auf den Milchreis kommt Zimt und Zucker.|B1|Essen
+Muskat|der|-|N|мускатный орех|Gewürz|Ins Kartoffelpüree gehört etwas Muskat.|B2|Essen
+Paprikapulver|das|-|N|молотая паприка|rotes Gewürz|Das Gulasch mit Paprikapulver würzen.|B1|Essen
+Schnittlauch|der|-|N|шнитт-лук|grünes Kraut, wie dünne Zwiebel|Schnittlauch passt gut zu Quark.|B1|Essen
+Basilikum|das|-|N|базилик|grünes Kraut, italienisch|Auf die Pizza kommt frisches Basilikum.|B1|Essen
+Ingwer|der|-|N|имбирь|scharfe Wurzel|Ingwertee hilft bei Erkältung.|B1|Essen
+Lauch|der|-|N|лук-порей|langes, grünes Gemüse|Für die Suppe brauche ich eine Stange Lauch.|B1|Essen
+Sellerie|der|-|N|сельдерей|Gemüse mit starkem Geschmack|Sellerie gehört ins Suppengemüse.|B1|Essen
+Kohlrabi|der|Kohlrabi|N|кольраби|Gemüse, rund und grün-weiß|Kohlrabi kann man auch roh essen.|B1|Essen
+Rotkohl|der|-|N|краснокочанная капуста|rotes Kohlgemüse|Zur Gans gibt es Rotkohl und Klöße.|B1|Essen
+Sauerkraut|das|-|N|квашеная капуста|sauer eingelegter Weißkohl|Bratwurst mit Sauerkraut ist typisch deutsch.|A2|Essen
+Spargel|der|-|N|спаржа|Frühlingsgemüse, weiß oder grün|Im Mai essen die Deutschen viel Spargel.|B1|Essen
+Champignon|der|Champignons|N|шампиньон|weißer Pilz|Auf die Pizza kommen Champignons.|A2|Essen
+Linsen|die|(Pl.)|N|чечевица|kleine Hülsenfrüchte|Linsensuppe ist billig und gesund.|B1|Essen
+Kichererbsen|die|(Pl.)|N|нут|runde Hülsenfrüchte|Aus Kichererbsen macht man Hummus.|B1|Essen
+Bohnen|die|(Pl.)|N|фасоль|Hülsenfrüchte|Grüne Bohnen schmecken gut mit Speck.|A2|Essen
+Schmand|der|-|N|сметана (густая)|dicke saure Sahne|Für den Kuchen braucht man Schmand.|B1|Essen
+Frischkäse|der|-|N|сливочный сыр|weicher Käse zum Streichen|Zum Frühstück esse ich Brot mit Frischkäse.|A2|Essen
+Schnitzel|das|Schnitzel|N|шницель|paniertes Fleisch|Das Wiener Schnitzel ist aus Kalbfleisch.|A2|Essen
+Bratwurst|die|Bratwürste|N|жареная колбаска|Wurst zum Braten oder Grillen|Auf dem Weihnachtsmarkt esse ich eine Bratwurst.|A2|Essen
+Leberwurst|die|Leberwürste|N|ливерная колбаса|Wurst zum Streichen|Mein Mann mag Brot mit Leberwurst.|B1|Essen
+Aufschnitt|der|-|N|нарезка (колбаса, сыр)|geschnittene Wurst und Käse|Zum Abendbrot gibt es Brot und Aufschnitt.|B1|Essen
+Brezel|die|Brezeln|N|крендель|Gebäck in Knotenform|Zum Frühstück kaufe ich zwei Brezeln.|A2|Essen
+Knäckebrot|das|Knäckebrote|N|хрустящий хлебец|dünnes, hartes Brot|Knäckebrot ist lange haltbar.|B1|Essen
+Streuselkuchen|der|Streuselkuchen|N|пирог с крошкой|Blechkuchen mit Streuseln|Oma backt sonntags Streuselkuchen.|B1|Essen
+Käsekuchen|der|Käsekuchen|N|творожный пирог|Kuchen aus Quark|Der Käsekuchen ist mein Lieblingskuchen.|A2|Essen
+Stollen|der|Stollen|N|штоллен|Weihnachtsgebäck mit Rosinen|Der Dresdner Stollen ist weltberühmt.|B1|Essen
+Lebkuchen|der|Lebkuchen|N|пряник|würziges Weihnachtsgebäck|Lebkuchen gibt es schon im September.|B1|Essen
+Plätzchen|das|Plätzchen|N|печенье|kleine Kekse, oft zu Weihnachten|Im Advent backen wir Plätzchen.|A2|Essen
+Eintopf|der|Eintöpfe|N|айнтопф, густой суп|Gericht aus einem Topf|Im Winter koche ich gern Eintopf.|B1|Essen
+Auflauf|der|Aufläufe|N|запеканка|im Ofen überbackenes Gericht|Es gibt Nudelauflauf mit Käse.|B1|Essen
+Bratkartoffeln|die|(Pl.)|N|жареный картофель|in der Pfanne gebratene Kartoffeln|Zu Spiegeleiern gibt es Bratkartoffeln.|A2|Essen
+Kartoffelsalat|der|-|N|картофельный салат|Salat aus Kartoffeln|An Heiligabend gibt es Würstchen mit Kartoffelsalat.|A2|Essen
+Knödel|der|Knödel|N|кнедлик|runder Kloß aus Kartoffeln oder Brot|Zum Braten gibt es Knödel.|B1|Essen
+Spätzle|die|(Pl.)|N|шпецле (лапша)|schwäbische Nudeln|Käsespätzle sind sehr lecker.|B1|Essen
+Roulade|die|Rouladen|N|рулет из мяса|gerolltes Fleisch mit Füllung|Sonntags macht meine Schwiegermutter Rouladen.|B1|Essen
+Gulasch|das|-|N|гуляш|Fleischgericht mit Paprika|Das Gulasch muss lange kochen.|A2|Essen
+Borschtsch|der|-|N|борщ|Suppe aus Roter Bete|Meine Kollegen lieben meinen Borschtsch.|A2|Essen
+Pelmeni|die|(Pl.)|N|пельмени|gefüllte Teigtaschen|Am Wochenende machen wir zusammen Pelmeni.|A2|Essen
+Blini|die|(Pl.)|N|блины|dünne Pfannkuchen|Zu Blini gibt es saure Sahne.|A2|Essen
+Soljanka|die|-|N|солянка|saure Suppe mit Wurst und Gurken|In Ostdeutschland ist Soljanka sehr bekannt.|B1|Essen
+kneten|-|knetet, knetete, hat geknetet|V|месить|Teig mit den Händen bearbeiten|Den Teig zehn Minuten kneten.|B1|Essen
+dünsten|-|dünstet, dünstete, hat gedünstet|V|тушить|mit wenig Wasser garen|Das Gemüse kurz dünsten.|B2|Essen
+süß-sauer|-|-|A|кисло-сладкий|süß und sauer zugleich|Ich bestelle Hähnchen süß-sauer.|B1|Essen
+zart|-|-|A|нежный|weich (Fleisch)|Das Fleisch ist sehr zart.|B1|Essen
+verbrannt|-|-|A|сгоревший|zu lange im Ofen, schwarz|Die Pizza ist verbrannt.|B1|Essen
+angebrannt|-|-|A|подгоревший|unten im Topf schwarz geworden|Der Reis ist angebrannt.|B1|Essen
+Treuepunkte|die|(Pl.)|N|бонусные баллы|Punkte für Stammkunden|Mit den Treuepunkten bekomme ich einen Rabatt.|B1|Einkaufen
+Ausverkauf|der|-|N|распродажа|alles wird billig verkauft|Wegen Geschäftsaufgabe ist Ausverkauf.|B1|Einkaufen
+Reformhaus|das|Reformhäuser|N|магазин здорового питания|Geschäft für Naturprodukte|Glutenfreies Brot gibt es im Reformhaus.|B2|Einkaufen
+Discounter|der|Discounter|N|дискаунтер|billiger Supermarkt|Beim Discounter ist vieles günstiger.|B1|Einkaufen
+Selbstbedienung|die|-|N|самообслуживание|man nimmt sich die Waren selbst|In der Kantine ist Selbstbedienung.|B1|Einkaufen
+Pfandbon|der|Pfandbons|N|чек за возврат тары|Zettel vom Pfandautomaten|Den Pfandbon gebe ich an der Kasse ab.|B1|Einkaufen
+Kartenzahlung|die|-|N|оплата картой|Bezahlen mit Karte|Kartenzahlung erst ab zehn Euro.|A2|Einkaufen
+Konfektionsgröße|die|Konfektionsgrößen|N|размер одежды|Größe bei Kleidung|Welche Konfektionsgröße haben Sie?|B2|Einkaufen
+Schuhgröße|die|Schuhgrößen|N|размер обуви|Größe der Schuhe|Ich habe Schuhgröße 39.|A2|Einkaufen
+Kragen|der|Kragen|N|воротник|Teil am Hals eines Hemdes|Der Kragen ist zu eng.|B1|Einkaufen
+Saum|der|Säume|N|подол, подшивка|unterer Rand an Hose oder Rock|Der Saum der Hose muss gekürzt werden.|B2|Einkaufen
+Wollpullover|der|Wollpullover|N|шерстяной свитер|Pullover aus Wolle|Der Wollpullover kratzt etwas.|A2|Einkaufen
+Hausschuhe|die|(Pl.)|N|тапочки|Schuhe für zu Hause|In der Wohnung trage ich Hausschuhe.|A2|Wohnen
+Turnschuhe|die|(Pl.)|N|кроссовки|Sportschuhe|Für den Sportunterricht braucht er Turnschuhe.|A2|Einkaufen
+Handschuhe|die|(Pl.)|N|перчатки|Kleidung für die Hände|Im Winter trage ich Handschuhe.|A2|Einkaufen
+Krawatte|die|Krawatten|N|галстук|Band am Hemdkragen|Zum Vorstellungsgespräch trägt er eine Krawatte.|A2|Einkaufen
+Abendkleid|das|Abendkleider|N|вечернее платье|elegantes Kleid für den Abend|Für die Hochzeit kaufe ich ein Abendkleid.|B1|Einkaufen
+Weichspüler|der|-|N|ополаскиватель для белья|macht Wäsche weich|Ich benutze keinen Weichspüler.|B1|Wohnen
+Fleckentferner|der|Fleckentferner|N|пятновыводитель|Mittel gegen Flecken|Mit Fleckentferner geht der Rotwein raus.|B2|Wohnen
+Änderungsschneiderei|die|Änderungsschneidereien|N|ателье по подгонке одежды|Geschäft, das Kleidung ändert|Die Hose bringe ich in die Änderungsschneiderei.|B2|Einkaufen
+Friseurtermin|der|Friseurtermine|N|запись к парикмахеру|Termin beim Friseur|Ich habe morgen einen Friseurtermin.|A2|Alltag
+Haarschnitt|der|Haarschnitte|N|стрижка|Frisur nach dem Schneiden|Der neue Haarschnitt steht dir gut.|B1|Alltag

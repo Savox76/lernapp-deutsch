@@ -1,0 +1,73 @@
+# M10 Wohnen, Familie, Freizeit – Verben, Adjektive, Räume (geprüfte neue Wörter)
+umstellen|-|stellt um, stellte um, hat umgestellt|V|переставлять|an einen anderen Platz stellen|Wir haben die Möbel im Wohnzimmer umgestellt.|B1|Wohnen
+ausmisten|-|mistet aus, mistete aus, hat ausgemistet|V|разбирать хлам|alte Sachen wegwerfen|Vor dem Umzug haben wir den Keller ausgemistet.|B2|Wohnen
+entrümpeln|-|entrümpelt, entrümpelte, hat entrümpelt|V|расчищать от хлама|Gerümpel wegbringen|Wir müssen den Dachboden entrümpeln.|B2|Wohnen
+abdichten|-|dichtet ab, dichtete ab, hat abgedichtet|V|герметизировать|dicht machen|Das Fenster muss abgedichtet werden.|B2|Wohnen
+verstopfen|-|verstopft, verstopfte, ist verstopft|V|засоряться|zu sein (Rohr)|Das Waschbecken ist verstopft.|B1|Wohnen
+klemmen|-|klemmt, klemmte, hat geklemmt|V|заедать|geht schwer auf oder zu|Die Balkontür klemmt.|B1|Wohnen
+quietschen|-|quietscht, quietschte, hat gequietscht|V|скрипеть|hohes Geräusch machen|Die Tür quietscht laut.|B2|Wohnen
+flackern|-|flackert, flackerte, hat geflackert|V|мигать|Licht geht schnell an und aus|Die Lampe im Flur flackert.|B2|Wohnen
+babysitten|-|babysittet, babysittete, hat gebabysittet|V|присматривать за детьми|auf Kinder aufpassen|Meine Nichte babysittet am Samstag.|B1|Familie
+stillen|-|stillt, stillte, hat gestillt|V|кормить грудью|Baby mit Muttermilch füttern|Sie stillt ihr Baby noch.|B1|Familie
+wickeln|-|wickelt, wickelte, hat gewickelt|V|пеленать, менять подгузник|Windel wechseln|Im Restaurant gibt es einen Raum zum Wickeln.|B1|Familie
+verwöhnen|-|verwöhnt, verwöhnte, hat verwöhnt|V|баловать|jemandem alles geben|Oma verwöhnt die Enkel mit Süßigkeiten.|B1|Familie
+großziehen|-|zieht groß, zog groß, hat großgezogen|V|растить|ein Kind aufziehen|Sie hat drei Kinder allein großgezogen.|B2|Familie
+toben|-|tobt, tobte, hat getobt|V|резвиться, беситься|wild spielen|Die Kinder toben im Garten.|B1|Familie
+sich verloben|-|verlobt sich, verlobte sich, hat sich verlobt|V|обручиться|versprechen zu heiraten|Sie haben sich an Weihnachten verlobt.|B1|Familie
+adoptieren|-|adoptiert, adoptierte, hat adoptiert|V|усыновлять|ein Kind als eigenes annehmen|Das Paar hat ein Kind adoptiert.|B2|Familie
+taufen|-|tauft, taufte, hat getauft|V|крестить|in der Kirche aufnehmen|Das Baby wird im Mai getauft.|B2|Familie
+kondolieren|-|kondoliert, kondolierte, hat kondoliert|V|выражать соболезнование|Beileid aussprechen|Wir haben der Familie kondoliert.|B2|Familie
+ausgehen|-|geht aus, ging aus, ist ausgegangen|V|выходить (развлекаться)|abends weggehen|Am Samstag gehen wir mal wieder aus.|B1|Freizeit
+entspannen|-|entspannt, entspannte, hat entspannt|V|расслабляться|sich ausruhen|Am Wochenende will ich nur entspannen.|B1|Freizeit
+zelten|-|zeltet, zeltete, hat gezeltet|V|жить в палатке|im Zelt schlafen|Im Sommer zelten wir an der Ostsee.|B1|Freizeit
+picknicken|-|picknickt, picknickte, hat gepicknickt|V|устраивать пикник|im Freien essen|Wir picknicken im Park.|B1|Freizeit
+radeln|-|radelt, radelte, ist geradelt|V|кататься на велосипеде|Fahrrad fahren|Wir radeln am Fluss entlang.|B1|Freizeit
+paddeln|-|paddelt, paddelte, ist gepaddelt|V|грести (на каноэ)|mit dem Kanu fahren|Im Urlaub sind wir auf dem See gepaddelt.|B2|Freizeit
+segeln|-|segelt, segelte, ist gesegelt|V|ходить под парусом|mit dem Segelboot fahren|Mein Schwager segelt gern.|B1|Freizeit
+tauchen|-|taucht, tauchte, ist/hat getaucht|V|нырять|unter Wasser schwimmen|Im Roten Meer kann man gut tauchen.|B1|Freizeit
+rodeln|-|rodelt, rodelte, ist gerodelt|V|кататься на санках|mit dem Schlitten fahren|Bei Schnee gehen wir rodeln.|B1|Freizeit
+Schlitten fahren|-|fährt Schlitten, fuhr Schlitten, ist Schlitten gefahren|V|кататься на санках|auf dem Schlitten den Berg hinunter|Die Kinder fahren den ganzen Nachmittag Schlitten.|A2|Freizeit
+Ski fahren|-|fährt Ski, fuhr Ski, ist Ski gefahren|V|кататься на лыжах|mit Skiern fahren|Im Winter fahren wir in Österreich Ski.|A2|Freizeit
+Schlittschuh laufen|-|läuft Schlittschuh, lief Schlittschuh, ist Schlittschuh gelaufen|V|кататься на коньках|auf dem Eis laufen|Auf dem Weihnachtsmarkt kann man Schlittschuh laufen.|A2|Freizeit
+ruhig gelegen|-|-|A|в тихом месте|an einem ruhigen Ort|Die Wohnung ist ruhig gelegen.|B1|Wohnen
+renovierungsbedürftig|-|-|A|требующий ремонта|muss renoviert werden|Die Wohnung ist billig, aber renovierungsbedürftig.|B2|Wohnen
+teilmöbliert|-|-|A|частично меблированный|mit einigen Möbeln|Die Wohnung wird teilmöbliert vermietet.|B2|Wohnen
+barrierefrei|-|-|A|без барьеров|ohne Stufen, gut für Rollstühle|Wir suchen eine barrierefreie Wohnung.|B2|Wohnen
+kinderfreundlich|-|-|A|подходящий для детей|gut für Kinder|Das Hotel ist sehr kinderfreundlich.|B1|Familie
+haustierfreundlich|-|-|A|можно с животными|Haustiere sind erlaubt|Wir suchen eine haustierfreundliche Wohnung.|B2|Wohnen
+verkehrsgünstig|-|-|A|с удобным транспортом|gut erreichbar|Die Wohnung liegt verkehrsgünstig nahe dem Bahnhof.|B2|Wohnen
+zugig|-|-|A|продуваемый сквозняком|es zieht kalte Luft|Die alten Fenster sind zugig.|B2|Wohnen
+hellhörig|-|-|A|с плохой звукоизоляцией|man hört die Nachbarn|Das Haus ist sehr hellhörig.|B2|Wohnen
+bezugsfertig|-|-|A|готовый к заселению|man kann sofort einziehen|Die Wohnung ist ab Juli bezugsfertig.|B2|Wohnen
+kinderlos|-|-|A|бездетный|ohne Kinder|Das Paar ist kinderlos.|B1|Familie
+alleinstehend|-|-|A|одинокий|ohne Partner|Viele alleinstehende Senioren fühlen sich einsam.|B2|Familie
+verlobt|-|-|A|помолвленный|hat sich verlobt|Seit Mai sind sie verlobt.|B1|Familie
+trotzig|-|-|A|упрямый|will seinen Willen haben|Mit drei Jahren sind viele Kinder trotzig.|B2|Familie
+lebhaft|-|-|A|живой, подвижный|voller Energie|Unser Sohn ist sehr lebhaft.|B1|Familie
+verwöhnt|-|-|A|избалованный|bekommt zu viel|Das Kind ist ziemlich verwöhnt.|B1|Familie
+brav|-|-|A|послушный|macht, was man sagt|Die Kinder waren heute sehr brav.|A2|Familie
+frech|-|-|A|дерзкий|unhöflich, respektlos|Sei nicht so frech zu deiner Oma!|A2|Familie
+anhänglich|-|-|A|привязчивый|will immer in der Nähe sein|Der Hund ist sehr anhänglich.|B2|Familie
+musikalisch|-|-|A|музыкальный|kann gut Musik machen|Sie ist sehr musikalisch und spielt Klavier.|B1|Freizeit
+gesellig|-|-|A|общительный|ist gern mit anderen zusammen|Mein Mann ist ein geselliger Mensch.|B1|Freizeit
+häuslich|-|-|A|домашний (о человеке)|ist gern zu Hause|Ich bin eher häuslich und bleibe gern daheim.|B2|Freizeit
+abenteuerlustig|-|-|A|любящий приключения|mag Abenteuer|Meine Tochter ist sehr abenteuerlustig.|B2|Freizeit
+Mitbewohner|der|Mitbewohner|N|сосед по квартире|wohnt in derselben Wohnung|Mein Mitbewohner kocht sehr gut.|B1|Wohnen
+Hauptmieter|der|Hauptmieter|N|основной арендатор|Person, die den Mietvertrag hat|Der Hauptmieter muss die Untervermietung erlauben lassen.|B2|Wohnen
+Quadratmeter|der|Quadratmeter|N|квадратный метр|Maß für Fläche (m²)|Die Wohnung hat 75 Quadratmeter.|A2|Wohnen
+Speisekammer|die|Speisekammern|N|кладовая для продуктов|kleiner Raum für Lebensmittel|Die Kartoffeln liegen in der Speisekammer.|B2|Wohnen
+Wintergarten|der|Wintergärten|N|зимний сад|Glasanbau am Haus|Im Wintergarten frühstücken wir.|B2|Wohnen
+Carport|der|Carports|N|навес для машины|Dach für das Auto|Das Auto steht unter dem Carport.|B2|Wohnen
+Tiefgarage|die|Tiefgaragen|N|подземный гараж|Garage unter dem Haus|Ein Stellplatz in der Tiefgarage kostet 80 Euro.|B1|Wohnen
+Waschküche|die|Waschküchen|N|прачечная (в доме)|Raum mit Waschmaschinen im Keller|Die Waschküche ist im Keller.|B1|Wohnen
+Gartenhaus|das|Gartenhäuser|N|садовый домик|kleines Haus im Garten|Im Gartenhaus stehen die Fahrräder.|B1|Wohnen
+Gartenzaun|der|Gartenzäune|N|садовый забор|Zaun um den Garten|Der Nachbar hat einen neuen Gartenzaun gebaut.|B1|Wohnen
+Hecke|die|Hecken|N|живая изгородь|Reihe aus Büschen|Die Hecke muss geschnitten werden.|B1|Wohnen
+Rasenmäher|der|Rasenmäher|N|газонокосилка|Gerät zum Rasenmähen|Am Sonntag darf man den Rasenmäher nicht benutzen.|B1|Wohnen
+Blumenbeet|das|Blumenbeete|N|клумба|Stück Erde mit Blumen|Vor dem Haus ist ein Blumenbeet.|B1|Wohnen
+Gemüsebeet|das|Gemüsebeete|N|грядка|Stück Erde mit Gemüse|Im Gemüsebeet wachsen Tomaten.|B1|Wohnen
+Gießkanne|die|Gießkannen|N|лейка|Gefäß zum Blumengießen|Die Gießkanne steht auf dem Balkon.|A2|Wohnen
+Hängematte|die|Hängematten|N|гамак|Netz zum Liegen zwischen zwei Bäumen|Im Garten hängt eine Hängematte.|B1|Freizeit
+Liegestuhl|der|Liegestühle|N|шезлонг|Stuhl zum Liegen|Er liegt im Liegestuhl und liest.|B1|Freizeit
+Planschbecken|das|Planschbecken|N|детский бассейн|kleines Becken für Kinder|Im Sommer stellen wir ein Planschbecken auf.|B1|Freizeit
+Trampolin|das|Trampoline|N|батут|Sprunggerät|Die Kinder springen auf dem Trampolin.|A2|Freizeit
