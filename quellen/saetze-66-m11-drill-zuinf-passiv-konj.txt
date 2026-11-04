@@ -1,0 +1,53 @@
+# M11 Drill: zu-Infinitiv, Passiv, Konjunktiv II (A2–B2)
+Ich *habe* keine Lust, heute zu kochen.|У меня нет желания сегодня готовить.|A2|Lust haben + zu-Infinitiv am Ende.|Essen
+Es *ist* schön, dich zu sehen.|Приятно тебя видеть.|A2|Es ist + Adjektiv + zu-Infinitiv.|Freizeit
+Ich *habe* vergessen, Brot zu kaufen.|Я забыла купить хлеб.|A2|vergessen + zu-Infinitiv.|Einkaufen
+Wir *haben* keine Zeit, ins Kino zu gehen.|У нас нет времени пойти в кино.|A2|Zeit haben + zu-Infinitiv.|Freizeit
+Es *ist* wichtig, viel Wasser zu trinken.|Важно пить много воды.|A2|Es ist wichtig + zu-Infinitiv.|Gesundheit
+*Vergiss* nicht, die Tür abzuschließen!|Не забудь запереть дверь!|A2|zu bei trennbaren Verben in der Mitte: abzuschließen.|Wohnen
+Ich *versuche*, jeden Tag Deutsch zu sprechen.|Я стараюсь каждый день говорить по-немецки.|A2|versuchen + zu-Infinitiv.|Bildung
+Es *macht* Spaß, mit den Kindern zu spielen.|Играть с детьми весело.|A2|Es macht Spaß + zu-Infinitiv.|Familie
+Ich *fange* morgen an, Sport zu machen.|Завтра я начну заниматься спортом.|A2|anfangen + zu-Infinitiv.|Freizeit
+Es *ist* nicht erlaubt, hier zu rauchen.|Здесь курить не разрешается.|A2|Es ist erlaubt + zu-Infinitiv.|Alltag
+*Hast* du Zeit, mir kurz zu helfen?|У тебя есть время мне быстро помочь?|A2|Zeit haben + zu-Infinitiv in der Frage.|Alltag
+Ich *hoffe*, bald eine Stelle zu finden.|Я надеюсь скоро найти работу.|B1|hoffen + zu-Infinitiv.|Arbeit
+Die Chefin *hat* mir angeboten, Teilzeit zu arbeiten.|Начальница предложила мне работать неполный день.|B1|anbieten + zu-Infinitiv.|Arbeit
+Ich *bitte* Sie, mir die Unterlagen bis Freitag zu schicken.|Прошу вас прислать мне документы до пятницы.|B1|bitten + zu-Infinitiv.|Briefe
+Wir *planen*, im Sommer nach Polen zu fahren.|Мы планируем летом поехать в Польшу.|B1|planen + zu-Infinitiv.|Reisen
+Er *hat* aufgehört, Fleisch zu essen.|Он перестал есть мясо.|B1|aufhören + zu-Infinitiv.|Essen
+Es *fällt* mir schwer, früh aufzustehen.|Мне трудно рано вставать.|B1|schwerfallen + zu-Infinitiv: aufzustehen.|Alltag
+Ich *empfehle* Ihnen, den Termin rechtzeitig abzusagen.|Рекомендую вам вовремя отменить запись.|B1|empfehlen + zu-Infinitiv.|Gesundheit
+Es *besteht* die Möglichkeit, den Kurs online zu besuchen.|Есть возможность посещать курс онлайн.|B2|Möglichkeit + zu-Infinitiv.|Bildung
+Ich *bin* bereit, Verantwortung zu übernehmen.|Я готова взять на себя ответственность.|B2|bereit sein + zu-Infinitiv.|Arbeit
+Statt mich zu beschweren, *suche* ich lieber eine Lösung.|Вместо того чтобы жаловаться, я лучше поищу решение.|B2|statt … zu zuerst → dann sofort das Verb.|Meinung
+Ohne vorher anzurufen, *kam* er einfach vorbei.|Не позвонив заранее, он просто зашёл.|B2|ohne … zu: anzurufen.|Alltag
+Er *behauptet*, den Brief nie bekommen zu haben.|Он утверждает, что так и не получил письмо.|B2|zu-Infinitiv Perfekt: bekommen zu haben.|Briefe
+Die Medikamente *sind* kühl zu lagern.|Лекарства нужно хранить в прохладном месте.|B2|sein + zu-Infinitiv = müssen + Passiv.|Pflege
+Das Fenster *wird* geöffnet.|Окно открывают.|B1|Passiv Präsens: wird + Partizip II.|Wohnen
+Die Pakete *werden* morgen geliefert.|Посылки доставят завтра.|B1|Passiv Präsens Plural: werden + Partizip II.|Handel
+Das Essen *wird* um 12 Uhr serviert.|Еду подают в 12 часов.|B1|Passiv Präsens.|Pflege
+Die Straße *wurde* letztes Jahr repariert.|Улицу отремонтировали в прошлом году.|B1|Passiv Präteritum: wurde + Partizip II.|Verkehr
+Der Brief *wurde* gestern abgeschickt.|Письмо отправили вчера.|B1|Passiv Präteritum.|Briefe
+Hier *wird* Deutsch gesprochen.|Здесь говорят по-немецки.|B1|unpersönliches Passiv.|Bildung
+In Deutschland *wird* viel Brot gegessen.|В Германии едят много хлеба.|B1|Passiv Präsens.|Essen
+Der Patient *ist* gestern operiert worden.|Пациента вчера прооперировали.|B1|Passiv Perfekt: ist … worden.|Pflege
+Die Rechnung *muss* bis Freitag bezahlt werden.|Счёт нужно оплатить до пятницы.|B1|Passiv mit Modalverb: muss … werden.|Geld
+Die Formulare *können* online heruntergeladen werden.|Бланки можно скачать онлайн.|B1|Passiv mit Modalverb: können … werden.|Behörden
+Der Müll *wird* jeden Dienstag abgeholt.|Мусор вывозят каждый вторник.|B1|Passiv Präsens; abholen trennbar.|Wohnen
+Die Bewerbung *wird* von der Personalabteilung geprüft.|Заявление проверяет отдел кадров.|B1|Passiv mit von + Dativ.|Arbeit
+Das Haus *ist* frisch gestrichen.|Дом свежепокрашен.|B1|Zustandspassiv: ist + Partizip II.|Wohnen
+Die Ware *war* schon verpackt, als der Kunde anrief.|Товар был уже упакован, когда позвонил клиент.|B2|Zustandspassiv Präteritum.|Handel
+Wenn ich reich wäre, *würde* ich ein Haus kaufen.|Если бы я была богатой, я бы купила дом.|B1|Konjunktiv II: wäre … würde.|Wohnen
+Ich *hätte* gern einen Kaffee.|Я бы хотела кофе.|B1|Konjunktiv II: höflicher Wunsch.|Essen
+Wenn ich du wäre, *würde* ich zum Arzt gehen.|На твоём месте я бы пошла к врачу.|B1|Konjunktiv II: Ratschlag.|Gesundheit
+*Könnten* Sie bitte langsamer sprechen?|Не могли бы вы говорить медленнее?|B1|Konjunktiv II: höfliche Bitte.|Bildung
+*Würden* Sie mir bitte helfen?|Не помогли бы вы мне?|B1|Konjunktiv II: höfliche Bitte mit würde.|Alltag
+Es *wäre* toll, wenn du mitkommst.|Было бы здорово, если бы ты пошёл с нами.|B1|Konjunktiv II: wäre.|Freizeit
+An deiner Stelle *würde* ich das Angebot annehmen.|На твоём месте я бы приняла предложение.|B1|Konjunktiv II: Rat.|Arbeit
+Wenn ich mehr Zeit hätte, *würde* ich mehr lesen.|Если бы у меня было больше времени, я бы больше читала.|B1|Konjunktiv II: hätte … würde.|Freizeit
+Ich *wünschte*, ich könnte besser Deutsch sprechen.|Жаль, что я не могу лучше говорить по-немецки.|B1|Konjunktiv II: Wunsch.|Bildung
+Du *solltest* mehr schlafen.|Тебе следует больше спать.|B1|Konjunktiv II von sollen: Rat.|Gesundheit
+Wenn der Bus pünktlich gewesen wäre, *hätte* ich den Zug bekommen.|Если бы автобус пришёл вовремя, я бы успела на поезд.|B2|Konjunktiv II Vergangenheit.|Verkehr
+Ich *hätte* lieber in der Frühschicht gearbeitet.|Я бы лучше поработала в утреннюю смену.|B2|Konjunktiv II Vergangenheit: Wunsch.|Arbeit
+Sie *tut* so, als hätte sie nichts gehört.|Она делает вид, будто ничего не слышала.|B2|als + Konjunktiv II Vergangenheit.|Alltag
+Wäre ich nicht krank geworden, *hätte* ich die Prüfung schon gemacht.|Если бы я не заболела, уже сдала бы экзамен.|B2|Konjunktiv II ohne wenn.|Bildung

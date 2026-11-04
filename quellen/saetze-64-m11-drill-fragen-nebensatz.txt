@@ -1,0 +1,52 @@
+# M11 Drill: indirekte Fragen und Nebensatz am Anfang (A2–B2)
+Ich *weiß* nicht, wo der Bahnhof ist.|Я не знаю, где вокзал.|A2|indirekte Frage mit wo: Verb am Ende.|Alltag
+*Kannst* du mir sagen, wann der Kurs beginnt?|Можешь сказать, когда начинается курс?|A2|indirekte Frage mit wann: Verb am Ende.|Bildung
+Ich *frage* die Lehrerin, wie man das Wort schreibt.|Я спрашиваю учительницу, как пишется это слово.|A2|indirekte Frage mit wie: Verb am Ende.|Bildung
+*Weißt* du, wer heute Geburtstag hat?|Ты знаешь, у кого сегодня день рождения?|A2|indirekte Frage mit wer: Verb am Ende.|Freizeit
+Ich *weiß* nicht, ob ich morgen Zeit habe.|Я не знаю, будет ли у меня завтра время.|A2|indirekte Frage mit ob: Verb am Ende.|Alltag
+*Sag* mir bitte, was du zum Geburtstag möchtest.|Скажи мне, пожалуйста, что ты хочешь на день рождения.|A2|indirekte Frage mit was: Verb am Ende.|Familie
+Ich *verstehe* nicht, warum der Bus nicht kommt.|Я не понимаю, почему не приходит автобус.|A2|indirekte Frage mit warum: Verb am Ende.|Verkehr
+*Wissen* Sie, wie spät es ist?|Вы знаете, который час?|A2|indirekte Frage mit wie: Verb am Ende.|Alltag
+Ich *muss* noch fragen, wie viel die Wohnung kostet.|Мне ещё нужно спросить, сколько стоит квартира.|A2|indirekte Frage mit wie viel: Verb am Ende.|Wohnen
+Die Kinder *fragen*, wann wir endlich ankommen.|Дети спрашивают, когда мы наконец приедем.|A2|indirekte Frage mit wann: Verb am Ende.|Reisen
+*Können* Sie mir sagen, wo ich das Formular bekomme?|Можете сказать, где мне получить бланк?|A2|indirekte Frage mit wo: Verb am Ende.|Behörden
+Ich *habe* vergessen, wie die neue Kollegin heißt.|Я забыла, как зовут новую коллегу.|A2|indirekte Frage nach Perfekt: Verb am Ende.|Arbeit
+Ich *möchte* wissen, ob die Apotheke heute geöffnet ist.|Хочу узнать, открыта ли сегодня аптека.|B1|indirekte Frage mit ob: Verb am Ende.|Gesundheit
+*Könnten* Sie mir bitte mitteilen, bis wann ich die Unterlagen schicken muss?|Не могли бы вы сообщить, до какого числа мне нужно отправить документы?|B1|indirekte Frage mit bis wann: Modalverb am Ende.|Behörden
+Der Kunde *möchte* wissen, warum die Lieferung nicht angekommen ist.|Клиент хочет знать, почему не пришла доставка.|B1|indirekte Frage im Perfekt: Hilfsverb am Ende.|Handel
+Ich *bin* mir nicht sicher, ob ich alles richtig verstanden habe.|Я не уверена, правильно ли я всё поняла.|B1|indirekte Frage mit ob: Hilfsverb am Ende.|Arbeit
+Die Chefin *hat* gefragt, wer am Samstag arbeiten kann.|Начальница спросила, кто может работать в субботу.|B1|indirekte Frage mit wer: Modalverb am Ende.|Arbeit
+Wir *müssen* klären, welche Aufgaben die Praktikantin übernimmt.|Нам нужно выяснить, какие задачи возьмёт практикантка.|B1|indirekte Frage mit welche: Verb am Ende.|Arbeit
+Es *hängt* vom Wetter ab, ob das Fest draußen stattfindet.|От погоды зависит, пройдёт ли праздник на улице.|B2|indirekte Frage mit ob: trennbares Verb zusammen am Ende.|Freizeit
+Niemand *konnte* mir erklären, weshalb der Antrag abgelehnt wurde.|Никто не смог мне объяснить, почему заявление отклонили.|B2|indirekte Frage mit weshalb + Passiv.|Behörden
+Entscheidend *ist*, wie schnell wir auf die Beschwerde reagieren.|Решающее значение имеет, как быстро мы отреагируем на жалобу.|B2|indirekte Frage als Subjekt: Verb am Ende.|Arbeit
+Ich *frage* mich, inwiefern die neue Regel den Patienten hilft.|Я задаюсь вопросом, в какой мере новое правило помогает пациентам.|B2|indirekte Frage mit inwiefern: Verb am Ende.|Pflege
+Die Studie *untersucht*, wodurch Stress am Arbeitsplatz entsteht.|Исследование изучает, из-за чего возникает стресс на работе.|B2|indirekte Frage mit wodurch: Verb am Ende.|Arbeit
+Unklar *bleibt*, wer die zusätzlichen Kosten übernehmen soll.|Неясно, кто должен покрыть дополнительные расходы.|B2|indirekte Frage: Modalverb ganz am Ende.|Geld
+Wir *haben* noch nicht entschieden, ob wir das Angebot annehmen werden.|Мы ещё не решили, примем ли мы предложение.|B2|indirekte Frage mit Futur: werden am Ende.|Arbeit
+Bitte *prüfen* Sie, ob alle Felder vollständig ausgefüllt worden sind.|Пожалуйста, проверьте, все ли поля заполнены полностью.|B2|indirekte Frage + Passiv Perfekt: sind am Ende.|Behörden
+Es *ist* fraglich, inwieweit sich die Situation verbessern lässt.|Сомнительно, насколько ситуацию можно улучшить.|B2|indirekte Frage mit inwieweit; sich lassen am Ende.|Gesellschaft
+Mich *würde* interessieren, wie Sie zu diesem Ergebnis gekommen sind.|Мне было бы интересно, как вы пришли к этому результату.|B2|indirekte Frage nach Konjunktiv II.|Meinung
+Wenn ich Zeit habe, *koche* ich gern.|Когда у меня есть время, я люблю готовить.|A2|wenn-Satz zuerst → dann sofort das Verb.|Freizeit
+Weil es regnet, *bleiben* wir zu Hause.|Так как идёт дождь, мы остаёмся дома.|A2|weil-Satz zuerst → dann sofort das Verb.|Wetter
+Wenn du müde bist, *geh* früh ins Bett.|Если ты устал, ложись рано спать.|A2|wenn-Satz zuerst → dann Imperativ.|Alltag
+Als ich klein war, *wohnte* ich bei meiner Oma.|Когда я была маленькой, я жила у бабушки.|A2|als-Satz zuerst → dann sofort das Verb.|Familie
+Bevor ich zur Arbeit gehe, *trinke* ich einen Kaffee.|Перед работой я пью кофе.|A2|bevor-Satz zuerst → dann sofort das Verb.|Alltag
+Nachdem wir gegessen haben, *gehen* wir spazieren.|После того как мы поели, мы идём гулять.|A2|nachdem-Satz zuerst → dann sofort das Verb.|Freizeit
+Obwohl ich krank bin, *gehe* ich zum Kurs.|Хотя я больна, я иду на курс.|A2|obwohl-Satz zuerst → dann sofort das Verb.|Bildung
+Wenn das Baby schläft, *ist* es ganz ruhig.|Когда малыш спит, совсем тихо.|A2|wenn-Satz zuerst → dann sofort das Verb.|Familie
+Weil der Aufzug kaputt ist, *nehmen* wir die Treppe.|Так как лифт сломан, мы идём по лестнице.|A2|weil-Satz zuerst → dann sofort das Verb.|Wohnen
+Wenn es schneit, *fahren* die Kinder Schlitten.|Когда идёт снег, дети катаются на санках.|A2|wenn-Satz zuerst → dann sofort das Verb.|Freizeit
+Als wir in Deutschland ankamen, *war* es sehr kalt.|Когда мы приехали в Германию, было очень холодно.|A2|als-Satz zuerst → dann sofort das Verb.|Person
+Dass du mir hilfst, *finde* ich sehr nett.|То, что ты мне помогаешь, очень мило.|B1|dass-Satz zuerst → dann sofort das Verb.|Gefühle
+Sobald der Arzt kommt, *rufe* ich Sie auf.|Как только придёт врач, я вас вызову.|B1|sobald-Satz zuerst → dann sofort das Verb.|Gesundheit
+Damit die Kunden zufrieden sind, *antworten* wir innerhalb von 24 Stunden.|Чтобы клиенты были довольны, мы отвечаем в течение 24 часов.|B1|damit-Satz zuerst → dann sofort das Verb.|Arbeit
+Falls Sie Fragen haben, *melden* Sie sich bitte bei mir.|Если у вас есть вопросы, обращайтесь ко мне.|B1|falls-Satz zuerst → dann Imperativ.|Briefe
+Während ich telefoniere, *schreibt* meine Kollegin das Protokoll.|Пока я разговариваю по телефону, коллега пишет протокол.|B1|während-Satz zuerst → dann sofort das Verb.|Arbeit
+Seit ich den Staplerschein habe, *verdiene* ich mehr.|С тех пор как у меня есть права на погрузчик, я зарабатываю больше.|B1|seit-Satz zuerst → dann sofort das Verb.|Arbeit
+Bis die Ware kommt, *dauert* es noch drei Tage.|Пока товар придёт, пройдёт ещё три дня.|B1|bis-Satz zuerst → dann sofort das Verb.|Handel
+Ob der Termin stattfindet, *weiß* ich noch nicht.|Состоится ли встреча, я ещё не знаю.|B1|ob-Satz zuerst → dann sofort das Verb.|Arbeit
+Indem wir die Pausen besser planen, *verkürzen* wir die Wartezeit.|Лучше планируя перерывы, мы сокращаем время ожидания.|B2|indem-Satz zuerst → dann sofort das Verb.|Arbeit
+Solange die Ursache nicht geklärt ist, *bleibt* die Maschine ausgeschaltet.|Пока причина не выяснена, машина остаётся выключенной.|B2|solange-Satz zuerst → dann sofort das Verb.|Arbeit
+Nachdem der Patient entlassen worden war, *rief* die Tochter an.|После того как пациента выписали, позвонила дочь.|B2|nachdem + Passiv Plusquamperfekt; danach sofort das Verb.|Pflege
+Obwohl die Kosten gestiegen sind, *hält* die Firma die Preise stabil.|Хотя расходы выросли, фирма сохраняет цены стабильными.|B2|obwohl-Satz zuerst → dann sofort das Verb.|Wirtschaft

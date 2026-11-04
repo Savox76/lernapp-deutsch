@@ -1,0 +1,175 @@
+# M11 Beruf: Büro, Kommunikation, Lager, Handel, Pflege-Organisation (geprüfte neue Wörter)
+Verteiler|der|Verteiler|N|список рассылки|Liste der Empfänger einer Mail|Bitte nehmen Sie mich in den Verteiler auf.|B2|Arbeit
+Betreffzeile|die|Betreffzeilen|N|строка темы|Zeile mit dem Thema der E-Mail|Schreiben Sie die Bestellnummer in die Betreffzeile.|B2|Briefe
+Weiterleitung|die|Weiterleitungen|N|пересылка|Senden an eine andere Person|Danke für die Weiterleitung der Mail.|B2|Arbeit
+Telefonzentrale|die|Telefonzentralen|N|коммутатор|zentrale Stelle für Anrufe|Die Telefonzentrale verbindet Sie weiter.|B2|Arbeit
+Gesprächsnotiz|die|Gesprächsnotizen|N|запись разговора|kurze Notiz zu einem Telefonat|Ich habe eine Gesprächsnotiz für Sie geschrieben.|B2|Arbeit
+Aktennotiz|die|Aktennotizen|N|служебная записка|Notiz für die Akte|Bitte machen Sie eine Aktennotiz zu dem Gespräch.|B2|Arbeit
+Besprechungsraum|der|Besprechungsräume|N|переговорная|Raum für Meetings|Die Sitzung ist im Besprechungsraum 2.|B1|Arbeit
+Teamsitzung|die|Teamsitzungen|N|совещание команды|Treffen des Teams|Die Teamsitzung ist jeden Montag um 9 Uhr.|B1|Arbeit
+Feedbackgespräch|das|Feedbackgespräche|N|разговор с обратной связью|Gespräch über die Leistung|Nach der Probezeit gibt es ein Feedbackgespräch.|B2|Arbeit
+Einarbeitungsplan|der|Einarbeitungspläne|N|план адаптации|Plan für die ersten Wochen im Job|Im Einarbeitungsplan steht, wer Sie betreut.|B2|Arbeit
+Ansprechpartner|der|Ansprechpartner|N|контактное лицо|Person, an die man sich wendet|Ihr Ansprechpartner ist Herr Lenz.|B1|Arbeit
+Urlaubsantrag|der|Urlaubsanträge|N|заявление на отпуск|Formular für Urlaub|Den Urlaubsantrag müssen Sie bis März abgeben.|B1|Arbeit
+Überstundenausgleich|der|-|N|компенсация сверхурочных|freie Zeit für Überstunden|Am Freitag nehme ich Überstundenausgleich.|B2|Arbeit
+Arbeitszeitkonto|das|Arbeitszeitkonten|N|счёт рабочего времени|Konto für Plus- und Minusstunden|Auf meinem Arbeitszeitkonto sind 20 Plusstunden.|B2|Arbeit
+Stempeluhr|die|Stempeluhren|N|табельные часы|Gerät zur Zeiterfassung|Vergessen Sie nicht, an der Stempeluhr zu stempeln.|B2|Arbeit
+Reisekostenabrechnung|die|Reisekostenabrechnungen|N|авансовый отчёт по командировке|Abrechnung der Kosten einer Dienstreise|Die Reisekostenabrechnung reichen Sie mit den Belegen ein.|B2|Arbeit
+Kostenstelle|die|Kostenstellen|N|место возникновения затрат|Nummer für die Abrechnung im Betrieb|Auf welche Kostenstelle soll ich das buchen?|B2|Arbeit
+Bestellnummer|die|Bestellnummern|N|номер заказа|Nummer einer Bestellung|Bitte nennen Sie mir Ihre Bestellnummer.|B1|Handel
+Auftragsnummer|die|Auftragsnummern|N|номер заказа (поручения)|Nummer eines Auftrags|Die Auftragsnummer steht oben rechts.|B1|Handel
+Packliste|die|Packlisten|N|упаковочный лист|Liste, was im Paket ist|Die Packliste liegt im Karton.|B2|Handel
+Lagerbestand|der|Lagerbestände|N|запас на складе|Menge der Waren im Lager|Der Lagerbestand ist zu niedrig.|B2|Arbeit
+Mindestbestand|der|Mindestbestände|N|минимальный запас|kleinste Menge, die da sein muss|Wenn der Mindestbestand erreicht ist, bestellen wir nach.|B2|Arbeit
+Nachbestellung|die|Nachbestellungen|N|дозаказ|zusätzliche Bestellung|Die Nachbestellung kommt am Mittwoch.|B2|Handel
+Lieferengpass|der|Lieferengpässe|N|перебои с поставками|Ware ist knapp|Wegen eines Lieferengpasses fehlen Handschuhe.|B2|Handel
+Laderampe|die|Laderampen|N|погрузочная рампа|Platz zum Be- und Entladen|Der Lkw steht an Laderampe 4.|B2|Arbeit
+Preisnachlass|der|Preisnachlässe|N|скидка|niedrigerer Preis|Wegen des Schadens bekommen Sie einen Preisnachlass.|B2|Handel
+Skonto|das|Skonti|N|скидка за быструю оплату|Rabatt bei schneller Zahlung|Bei Zahlung innerhalb von 10 Tagen gibt es 2 % Skonto.|B2|Handel
+Zahlungsziel|das|Zahlungsziele|N|срок оплаты|Frist zum Bezahlen|Das Zahlungsziel beträgt 30 Tage.|B2|Handel
+Zahlungserinnerung|die|Zahlungserinnerungen|N|напоминание об оплате|freundliche Mahnung|Wir haben Ihnen eine Zahlungserinnerung geschickt.|B2|Geld
+Mahngebühr|die|Mahngebühren|N|пеня за напоминание|Gebühr bei Mahnung|Für die zweite Mahnung kommt eine Mahngebühr dazu.|B2|Geld
+Rahmenvertrag|der|Rahmenverträge|N|рамочный договор|Vertrag für längere Zusammenarbeit|Mit dem Lieferanten haben wir einen Rahmenvertrag.|B2|Handel
+Beschwerdemanagement|das|-|N|работа с жалобами|Bearbeitung von Beschwerden|Das Beschwerdemanagement antwortet innerhalb von drei Tagen.|B2|Handel
+Stammkunde|der|Stammkunden|N|постоянный клиент|Kunde, der immer wiederkommt|Für Stammkunden gibt es Rabatt.|B1|Handel
+Neukunde|der|Neukunden|N|новый клиент|Kunde zum ersten Mal|Neukunden erhalten 10 % auf die erste Bestellung.|B1|Handel
+Geschäftspartner|der|Geschäftspartner|N|деловой партнёр|Partner im Geschäft|Wir laden unsere Geschäftspartner zum Jubiläum ein.|B2|Arbeit
+Dienstleister|der|Dienstleister|N|поставщик услуг|Firma, die Dienste anbietet|Die Reinigung macht ein externer Dienstleister.|B2|Arbeit
+Hersteller|der|Hersteller|N|производитель|Firma, die etwas produziert|Der Hersteller gibt zwei Jahre Garantie.|B1|Handel
+Großhändler|der|Großhändler|N|оптовик|verkauft große Mengen an Firmen|Wir kaufen das Obst beim Großhändler.|B2|Handel
+Zentrale|die|Zentralen|N|головной офис|Hauptsitz einer Firma|Die Zentrale ist in Hamburg.|B1|Arbeit
+Abteilungsleiterin|die|Abteilungsleiterinnen|N|начальница отдела|Chefin einer Abteilung|Die Abteilungsleiterin hat den Urlaub genehmigt.|B1|Arbeit
+Schichtleiter|der|Schichtleiter|N|начальник смены|leitet eine Schicht|Melden Sie Unfälle sofort dem Schichtleiter.|B1|Arbeit
+Teamleitung|die|Teamleitungen|N|руководство команды|Leitung eines Teams|Sie hat die Teamleitung übernommen.|B2|Arbeit
+Geschäftsführung|die|-|N|руководство фирмы|Leitung der Firma|Die Geschäftsführung informiert über die Zahlen.|B2|Arbeit
+Betriebsversammlung|die|Betriebsversammlungen|N|собрание коллектива|Versammlung aller Mitarbeiter|Die Betriebsversammlung findet in der Kantine statt.|B2|Arbeit
+Sicherheitsunterweisung|die|Sicherheitsunterweisungen|N|инструктаж по технике безопасности|Schulung zur Arbeitssicherheit|Die Sicherheitsunterweisung ist jedes Jahr Pflicht.|B2|Arbeit
+Unfallmeldung|die|Unfallmeldungen|N|сообщение о несчастном случае|Formular über einen Arbeitsunfall|Füllen Sie bitte die Unfallmeldung aus.|B2|Arbeit
+Fluchtweg|der|Fluchtwege|N|путь эвакуации|Weg nach draußen bei Gefahr|Fluchtwege müssen immer frei sein.|B1|Arbeit
+Brandschutzübung|die|Brandschutzübungen|N|учения по пожарной безопасности|Übung für den Brandfall|Morgen ist eine Brandschutzübung.|B2|Arbeit
+Desinfektionsplan|der|Desinfektionspläne|N|план дезинфекции|Plan, wann was desinfiziert wird|Der Desinfektionsplan hängt im Bad.|B2|Pflege
+Pflegebericht|der|Pflegeberichte|N|отчёт по уходу|Bericht über die Pflege|Tragen Sie Auffälligkeiten in den Pflegebericht ein.|B2|Pflege
+Übergabebuch|das|Übergabebücher|N|журнал передачи смены|Buch für Infos an die nächste Schicht|Das steht im Übergabebuch.|B2|Pflege
+Bewohnerakte|die|Bewohnerakten|N|карта жителя|Akte eines Heimbewohners|Die Bewohnerakte ist im Computer.|B2|Pflege
+Pflegehelferin|die|Pflegehelferinnen|N|помощница по уходу|Helferin in der Pflege|Sie arbeitet als Pflegehelferin im Altenheim.|B1|Pflege
+Pflegeassistenz|die|-|N|ассистент по уходу|Ausbildung/Tätigkeit unter der Fachkraft|Die Pflegeassistenz dauert ein Jahr.|B2|Pflege
+Praxisanleiterin|die|Praxisanleiterinnen|N|наставница на практике|betreut Auszubildende in der Praxis|Meine Praxisanleiterin erklärt sehr gut.|B2|Pflege
+Spätdienst|der|Spätdienste|N|вечерняя смена|Schicht am Nachmittag und Abend|Diese Woche habe ich Spätdienst.|B1|Arbeit
+Frühdienst|der|Frühdienste|N|утренняя смена|Schicht am Morgen|Der Frühdienst beginnt um 6 Uhr.|B1|Arbeit
+Rufbereitschaft|die|-|N|дежурство на связи|man muss bei Anruf kommen|Am Wochenende habe ich Rufbereitschaft.|B2|Arbeit
+Krankheitsvertretung|die|Krankheitsvertretungen|N|замена на время болезни|Vertretung bei Krankheit|Wir suchen eine Krankheitsvertretung.|B2|Arbeit
+Pausenregelung|die|Pausenregelungen|N|правила перерывов|Regeln für Pausen|Die Pausenregelung steht im Aushang.|B2|Arbeit
+Ruhepause|die|Ruhepausen|N|перерыв на отдых|gesetzliche Pause|Nach sechs Stunden steht Ihnen eine Ruhepause zu.|B2|Arbeit
+Arbeitsschutzgesetz|das|-|N|закон об охране труда|Gesetz für Sicherheit bei der Arbeit|Das Arbeitsschutzgesetz gilt für alle Betriebe.|B2|Arbeit
+Tarifgehalt|das|Tarifgehälter|N|тарифный оклад|Gehalt nach Tarifvertrag|Wir zahlen Tarifgehalt.|B2|Arbeit
+Lohnabrechnung|die|Lohnabrechnungen|N|расчётный лист|Übersicht über den Lohn|Die Lohnabrechnung kommt per E-Mail.|B1|Arbeit
+Nachtzuschlag|der|Nachtzuschläge|N|надбавка за ночную работу|extra Geld für Nachtarbeit|Für Nachtdienste gibt es 25 % Nachtzuschlag.|B2|Arbeit
+Betriebsrente|die|Betriebsrenten|N|корпоративная пенсия|Rente vom Arbeitgeber|Die Firma zahlt in eine Betriebsrente ein.|B2|Arbeit
+vermögenswirksame Leistungen|die|(Pl.)|N|взносы на накопления от работодателя|Sparzuschuss vom Arbeitgeber|Der Arbeitgeber zahlt 40 Euro vermögenswirksame Leistungen.|B2|Arbeit
+Jobrad|das|Jobräder|N|служебный велосипед|Fahrrad über den Arbeitgeber|Ich fahre mit dem Jobrad zur Arbeit.|B2|Arbeit
+Dienstwagen|der|Dienstwagen|N|служебный автомобиль|Auto der Firma|Der Außendienst bekommt einen Dienstwagen.|B2|Arbeit
+Essenszuschuss|der|Essenszuschüsse|N|доплата на питание|Geld für das Mittagessen|Der Arbeitgeber zahlt einen Essenszuschuss.|B2|Arbeit
+Weiterbildungskosten|die|(Pl.)|N|расходы на повышение квалификации|Kosten für Fortbildung|Die Weiterbildungskosten übernimmt die Firma.|B2|Arbeit
+Kündigungsschreiben|das|Kündigungsschreiben|N|заявление об увольнении|Brief, mit dem man kündigt|Das Kündigungsschreiben muss unterschrieben sein.|B2|Arbeit
+Abfindung|die|Abfindungen|N|выходное пособие|Geld beim Ende des Arbeitsvertrags|Er hat eine Abfindung bekommen.|B2|Arbeit
+Nebentätigkeit|die|Nebentätigkeiten|N|подработка|zweiter Job|Eine Nebentätigkeit müssen Sie dem Arbeitgeber melden.|B2|Arbeit
+Verschwiegenheitspflicht|die|-|N|обязанность хранить тайну|man darf nichts weitererzählen|In der Pflege gilt die Verschwiegenheitspflicht.|B2|Pflege
+Datenschutzschulung|die|Datenschutzschulungen|N|обучение по защите данных|Kurs zum Datenschutz|Alle Mitarbeiter machen eine Datenschutzschulung.|B2|Arbeit
+absprechen|-|spricht ab, sprach ab, hat abgesprochen|V|согласовывать|etwas gemeinsam vereinbaren|Das muss ich mit meiner Chefin absprechen.|B2|Arbeit
+abzeichnen|-|zeichnet ab, zeichnete ab, hat abgezeichnet|V|визировать|mit Kürzel bestätigen|Bitte zeichnen Sie den Lieferschein ab.|B2|Arbeit
+anmahnen|-|mahnt an, mahnte an, hat angemahnt|V|напоминать (о долге)|an Zahlung oder Lieferung erinnern|Wir haben die Lieferung schon zweimal angemahnt.|B2|Handel
+ausliefern|-|liefert aus, lieferte aus, hat ausgeliefert|V|доставлять|Ware zum Kunden bringen|Die Möbel werden morgen ausgeliefert.|B1|Handel
+ausstehen|-|steht aus, stand aus, hat ausgestanden|V|ещё не поступило|noch nicht da/bezahlt sein|Die Zahlung steht noch aus.|B2|Geld
+beauftragen|-|beauftragt, beauftragte, hat beauftragt|V|поручать|jemandem einen Auftrag geben|Wir haben eine Firma mit der Reparatur beauftragt.|B2|Arbeit
+berechnen|-|berechnet, berechnete, hat berechnet|V|рассчитывать; выставлять счёт|ausrechnen; in Rechnung stellen|Die Anfahrt wird extra berechnet.|B1|Handel
+bereitstellen|-|stellt bereit, stellte bereit, hat bereitgestellt|V|предоставлять|zur Verfügung stellen|Die Firma stellt die Schutzkleidung bereit.|B2|Arbeit
+beschaffen|-|beschafft, beschaffte, hat beschafft|V|доставать, закупать|besorgen|Können Sie bis Montag neue Ordner beschaffen?|B2|Arbeit
+disponieren|-|disponiert, disponierte, hat disponiert|V|планировать (рейсы, заказы)|Touren und Aufträge planen|Sie disponiert die Fahrzeuge.|B2|Arbeit
+eintragen|-|trägt ein, trug ein, hat eingetragen|V|вносить (в список)|in eine Liste schreiben|Tragen Sie sich bitte in die Liste ein.|B1|Arbeit
+einweisen|-|weist ein, wies ein, hat eingewiesen|V|инструктировать|neue Mitarbeiter anleiten|Der Kollege weist Sie in die Maschine ein.|B2|Arbeit
+gutschreiben|-|schreibt gut, schrieb gut, hat gutgeschrieben|V|зачислять (на счёт)|Geld auf einem Konto buchen|Der Betrag wird Ihrem Konto gutgeschrieben.|B2|Geld
+hinterlegen|-|hinterlegt, hinterlegte, hat hinterlegt|V|оставлять (на хранение)|an einem Ort lassen|Der Schlüssel ist am Empfang hinterlegt.|B2|Arbeit
+nachliefern|-|liefert nach, lieferte nach, hat nachgeliefert|V|допоставлять|später liefern|Die fehlenden Teile werden nachgeliefert.|B2|Handel
+terminieren|-|terminiert, terminierte, hat terminiert|V|назначать срок|einen Termin festlegen|Das Gespräch ist auf Montag terminiert.|B2|Arbeit
+umbuchen|-|bucht um, buchte um, hat umgebucht|V|перебронировать|Buchung ändern|Ich muss den Flug umbuchen.|B2|Reisen
+verbuchen|-|verbucht, verbuchte, hat verbucht|V|проводить (по бухгалтерии)|in der Buchhaltung eintragen|Die Zahlung wurde verbucht.|B2|Geld
+versenden|-|versendet, versandte, hat versandt|V|отправлять|verschicken|Die Ware wird heute versandt.|B2|Handel
+verwalten|-|verwaltet, verwaltete, hat verwaltet|V|управлять, вести|organisieren und kontrollieren|Sie verwaltet die Akten der Bewohner.|B2|Arbeit
+zusagen|-|sagt zu, sagte zu, hat zugesagt|V|соглашаться, обещать|ja sagen, versprechen|Die Firma hat mir die Stelle zugesagt.|B2|Arbeit
+einspringen|-|springt ein, sprang ein, ist eingesprungen|V|подменять|kurzfristig für jemanden arbeiten|Kannst du am Samstag für mich einspringen?|B2|Arbeit
+übergeben|-|übergibt, übergab, hat übergeben|V|передавать|weitergeben|Ich übergebe die Station an den Nachtdienst.|B1|Arbeit
+aushelfen|-|hilft aus, half aus, hat ausgeholfen|V|выручать|kurz helfen|Im Dezember helfe ich im Verkauf aus.|B1|Arbeit
+unverbindlich|-|-|A|ни к чему не обязывающий|ohne Verpflichtung|Wir machen Ihnen gern ein unverbindliches Angebot.|B2|Handel
+kundenorientiert|-|-|A|клиентоориентированный|denkt an den Kunden|Wir suchen kundenorientierte Mitarbeiter.|B2|Arbeit
+lösungsorientiert|-|-|A|ориентированный на решение|sucht Lösungen statt Probleme|Sie arbeitet sehr lösungsorientiert.|B2|Arbeit
+übertariflich|-|-|A|выше тарифа|mehr als der Tarif|Wir zahlen übertariflich.|B2|Arbeit
+zeitnah|-|-|A|в ближайшее время|bald, schnell|Wir melden uns zeitnah bei Ihnen.|B2|Briefe
+vorab|-|-|Adv|заранее|schon vorher|Vorab schon einmal vielen Dank.|B2|Briefe
+nachträglich|-|-|A|задним числом, позже|später|Herzlichen Glückwunsch nachträglich!|B2|Alltag
+irrtümlich|-|-|A|ошибочный|aus Versehen|Die Mail wurde irrtümlich an Sie geschickt.|B2|Briefe
+zwecks|-|-|P|с целью|zum Zweck von (+ Genitiv)|Zwecks Terminabsprache rufe ich Sie an.|B2|Briefe
+zuzüglich|-|-|P|плюс, с добавлением|plus (+ Genitiv)|Der Preis beträgt 200 Euro zuzüglich Mehrwertsteuer.|B2|Handel
+abzüglich|-|-|P|за вычетом|minus (+ Genitiv)|Abzüglich der Kosten bleiben 500 Euro.|B2|Geld
+exklusive|-|-|P|без учёта|ohne (+ Genitiv)|Der Preis gilt exklusive Versand.|B2|Handel
+Allergenkennzeichnung|die|Allergenkennzeichnungen|N|маркировка аллергенов|Hinweis auf Allergene im Essen|Die Allergenkennzeichnung steht auf der Speisekarte.|B2|Essen
+Reservierungsbuch|das|Reservierungsbücher|N|книга бронирования|Buch für Tischreservierungen|Tragen Sie die Gäste ins Reservierungsbuch ein.|B2|Arbeit
+Bedienung|die|Bedienungen|N|обслуживание; официант(ка)|Service im Restaurant|Die Bedienung war sehr freundlich.|B1|Arbeit
+Tresen|der|Tresen|N|стойка|Theke in Bar oder Café|Die Getränke holen Sie am Tresen.|B1|Arbeit
+Hotellerie|die|-|N|гостиничный бизнес|Bereich Hotels|In der Hotellerie fehlen viele Fachkräfte.|B2|Arbeit
+Housekeeping|das|-|N|служба уборки номеров|Zimmerreinigung im Hotel|Sie arbeitet im Housekeeping eines Hotels.|B2|Arbeit
+Gästebewertung|die|Gästebewertungen|N|отзыв гостя|Bewertung von Gästen|Die Gästebewertungen sind sehr gut.|B2|Arbeit
+Bodenwischer|der|Bodenwischer|N|швабра|Gerät zum Bodenwischen|Der Bodenwischer steht im Putzraum.|B1|Arbeit
+Glasreiniger|der|Glasreiniger|N|средство для стёкол|Mittel für Fenster|Für die Fenster nehmen Sie den Glasreiniger.|B1|Arbeit
+Desinfektionstuch|das|Desinfektionstücher|N|дезинфицирующая салфетка|Tuch mit Desinfektionsmittel|Wischen Sie den Tisch mit einem Desinfektionstuch ab.|B2|Pflege
+Meisterbrief|der|Meisterbriefe|N|диплом мастера|Urkunde für den Meistertitel|Mit dem Meisterbrief darf er ausbilden.|B2|Arbeit
+Bauleiter|der|Bauleiter|N|прораб|leitet die Baustelle|Der Bauleiter kontrolliert jeden Morgen.|B2|Arbeit
+Bohrhammer|der|Bohrhämmer|N|перфоратор|starke Bohrmaschine|Mit dem Bohrhammer ist es sehr laut.|B2|Arbeit
+Schutzhelm|der|Schutzhelme|N|защитная каска|Helm zum Schutz des Kopfes|Auf der Baustelle ist ein Schutzhelm Pflicht.|B1|Arbeit
+Sicherheitsschuhe|die|(Pl.)|N|защитная обувь|Schuhe mit Stahlkappe|Im Lager tragen alle Sicherheitsschuhe.|B1|Arbeit
+Gehörschutz|der|-|N|защита слуха|schützt die Ohren vor Lärm|An der Maschine müssen Sie Gehörschutz tragen.|B2|Arbeit
+Ersatzteil|das|Ersatzteile|N|запчасть|neues Teil für ein kaputtes|Das Ersatzteil muss bestellt werden.|B1|Arbeit
+Kundendienst|der|-|N|сервисная служба|Service nach dem Kauf|Rufen Sie den Kundendienst an.|B1|Handel
+Monteur|der|Monteure|N|монтажник|baut Geräte ein|Der Monteur kommt am Vormittag.|B1|Arbeit
+Elektroinstallation|die|Elektroinstallationen|N|электропроводка|elektrische Leitungen im Haus|Die Elektroinstallation ist veraltet.|B2|Wohnen
+Heizungsbauer|der|Heizungsbauer|N|монтажник отопления|Handwerker für Heizungen|Der Heizungsbauer wartet die Heizung.|B2|Arbeit
+Sanitärinstallateur|der|Sanitärinstallateure|N|сантехник|Handwerker für Bad und Wasser|Wir brauchen dringend einen Sanitärinstallateur.|B2|Arbeit
+Fliesenleger|der|Fliesenleger|N|плиточник|legt Fliesen|Der Fliesenleger macht das Bad neu.|B2|Arbeit
+Hebebühne|die|Hebebühnen|N|подъёмник|Gerät zum Hochheben von Autos|Das Auto steht auf der Hebebühne.|B2|Arbeit
+Reifenwechsel|der|Reifenwechsel|N|смена шин|Wechsel der Autoreifen|Im Oktober ist Zeit für den Reifenwechsel.|B1|Verkehr
+Inspektion|die|Inspektionen|N|техосмотр (сервисный)|regelmäßige Kontrolle eines Autos|Das Auto muss zur Inspektion.|B1|Verkehr
+Hauptuntersuchung|die|Hauptuntersuchungen|N|обязательный техосмотр (TÜV)|Pflichtprüfung für Autos|Die Hauptuntersuchung ist alle zwei Jahre fällig.|B2|Verkehr
+Kassenschicht|die|Kassenschichten|N|смена на кассе|Arbeitszeit an der Kasse|Meine Kassenschicht endet um 20 Uhr.|B2|Arbeit
+Warenpräsentation|die|-|N|выкладка товара|wie Waren gezeigt werden|Die Warenpräsentation muss ordentlich sein.|B2|Arbeit
+Regalpflege|die|-|N|уход за полками (выкладка)|Regale auffüllen und ordnen|Morgens mache ich Regalpflege.|B2|Arbeit
+Verkaufsfläche|die|Verkaufsflächen|N|торговая площадь|Fläche im Geschäft für Waren|Die Verkaufsfläche ist 800 Quadratmeter groß.|B2|Arbeit
+Fachlagerist|der|Fachlageristen|N|складской специалист|Ausbildungsberuf im Lager|Er macht eine Ausbildung zum Fachlageristen.|B2|Arbeit
+Berufskraftfahrer|der|Berufskraftfahrer|N|профессиональный водитель|fährt beruflich Lkw oder Bus|Berufskraftfahrer werden dringend gesucht.|B2|Arbeit
+Fahrtenschreiber|der|Fahrtenschreiber|N|тахограф|Gerät, das Fahrzeiten aufzeichnet|Der Fahrtenschreiber zeigt die Pausen.|B2|Arbeit
+Tourenplan|der|Tourenpläne|N|план маршрутов|Plan für Lieferfahrten|Der Tourenplan für morgen ist fertig.|B2|Arbeit
+Zustellbezirk|der|Zustellbezirke|N|участок доставки|Gebiet eines Zustellers|Mein Zustellbezirk ist die Neustadt.|B2|Arbeit
+Paketzentrum|das|Paketzentren|N|сортировочный центр|großes Zentrum für Pakete|Im Paketzentrum wird nachts sortiert.|B2|Arbeit
+Sortieranlage|die|Sortieranlagen|N|сортировочная установка|Maschine zum Sortieren|Die Sortieranlage ist ausgefallen.|B2|Arbeit
+Heilerziehungspfleger|der|Heilerziehungspfleger|N|специалист по уходу за людьми с инвалидностью|betreut Menschen mit Behinderung|Er arbeitet als Heilerziehungspfleger in einer Wohngruppe.|B2|Arbeit
+Kinderpflegerin|die|Kinderpflegerinnen|N|помощница воспитателя|betreut Kinder in der Kita|Sie arbeitet als Kinderpflegerin.|B2|Arbeit
+Sozialassistentin|die|Sozialassistentinnen|N|социальный ассистент|Ausbildungsberuf im Sozialbereich|Nach der Ausbildung zur Sozialassistentin möchte sie Erzieherin werden.|B2|Arbeit
+Alltagsbegleiterin|die|Alltagsbegleiterinnen|N|помощница в быту|begleitet Senioren im Alltag|Die Alltagsbegleiterin geht mit Frau Klein spazieren.|B2|Pflege
+Hauswirtschafterin|die|Hauswirtschafterinnen|N|специалист по домашнему хозяйству|kümmert sich um Küche und Wäsche|Die Hauswirtschafterin plant den Speiseplan.|B2|Arbeit
+Medizinische Fachangestellte|die|Medizinische Fachangestellten|N|медицинский ассистент|arbeitet in einer Arztpraxis|Die Medizinische Fachangestellte nimmt Blut ab.|B2|Gesundheit
+Zahnmedizinische Fachangestellte|die|Zahnmedizinische Fachangestellten|N|ассистент стоматолога|arbeitet in einer Zahnarztpraxis|Die Zahnmedizinische Fachangestellte vereinbart die Termine.|B2|Gesundheit
+Rettungssanitäter|der|Rettungssanitäter|N|фельдшер скорой помощи|hilft im Rettungsdienst|Er ist ehrenamtlich Rettungssanitäter.|B2|Gesundheit
+Industriekauffrau|die|Industriekauffrauen|N|специалист по промышленной торговле|kaufmännischer Beruf in der Industrie|Sie ist Industriekauffrau in einem Autowerk.|B2|Arbeit
+Einzelhandelskauffrau|die|Einzelhandelskauffrauen|N|специалист по розничной торговле|kaufmännischer Beruf im Geschäft|Meine Tochter macht eine Ausbildung zur Einzelhandelskauffrau.|B2|Arbeit
+Lagerlogistik|die|-|N|складская логистика|Organisation im Lager|Er arbeitet in der Lagerlogistik.|B2|Arbeit
+Pflegeschule|die|Pflegeschulen|N|школа медсестёр|Schule für Pflegeberufe|Die Pflegeschule beginnt im Oktober.|B2|Bildung
+Berufsfachschule|die|Berufsfachschulen|N|профессиональное училище|Schule mit Berufsausbildung|Sie besucht eine Berufsfachschule für Sozialwesen.|B2|Bildung
+Ausbildungsvergütung|die|Ausbildungsvergütungen|N|оплата ученичества|Lohn während der Ausbildung|Die Ausbildungsvergütung steigt jedes Jahr.|B2|Arbeit
+Quereinstieg|der|Quereinstiege|N|смена профессии без профильного образования|Einstieg in einen neuen Beruf ohne Ausbildung|Der Quereinstieg in die Pflege ist möglich.|B2|Arbeit
+Anerkennungsverfahren|das|Anerkennungsverfahren|N|процедура признания|Prüfung eines ausländischen Abschlusses|Das Anerkennungsverfahren dauert bis zu vier Monate.|B2|Behörden
+Berufssprachkurs|der|Berufssprachkurse|N|профессиональный языковой курс|Deutschkurs für den Beruf|Der Berufssprachkurs endet mit dem DTB.|B2|Bildung
+Jobbörse|die|Jobbörsen|N|биржа вакансий|Portal für Stellenangebote|In der Jobbörse der Agentur gibt es viele Angebote.|B1|Arbeit
+Stellenportal|das|Stellenportale|N|сайт вакансий|Webseite mit Stellen|Ich habe die Stelle über ein Stellenportal gefunden.|B1|Arbeit
+Initiativbewerbung|die|Initiativbewerbungen|N|инициативное резюме|Bewerbung ohne Stellenanzeige|Ich habe eine Initiativbewerbung geschickt.|B2|Arbeit
+Probearbeiten|das|-|N|пробный рабочий день|ein Tag zum Testen im Betrieb|Am Montag habe ich Probearbeiten.|B1|Arbeit
+Hospitation|die|Hospitationen|N|стажировка-наблюдение|Besuch zum Zuschauen und Lernen|Vor der Ausbildung mache ich eine Hospitation.|B2|Arbeit
+Bewerbungsmappe|die|Bewerbungsmappen|N|папка с документами для заявки|Anschreiben, Lebenslauf, Zeugnisse|Die Bewerbungsmappe schicke ich per E-Mail.|B1|Arbeit
+Eintrittsdatum|das|Eintrittsdaten|N|дата начала работы|erster Arbeitstag|Ihr Eintrittsdatum ist der 1. April.|B2|Arbeit

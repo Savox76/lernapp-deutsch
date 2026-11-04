@@ -60,13 +60,13 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 | M8 | Inhaltspaket 5 | Gesundheit, Behörden · Hören | ✅ fertig (Wörter → 4.378, Sätze → 2.446, Prüfung → 347) |
 | M9 | Inhaltspaket 6 | Gesellschaft, Medien, Umwelt · Vortrag und Diskussion | ✅ fertig (Wörter → 4.716, Sätze → 2.671, Prüfung → 377) |
 | M10 | Inhaltspaket 7 | Wohnen, Familie, Freizeit · Lösung finden, Fragen, Forum | ✅ fertig (Wörter → 4.974, Sätze → 2.880, Prüfung → 407) |
-| M11 | Inhaltspaket 8 | Grammatik-Drill zu allen 12 Themen · DTB-E-Mails und Telefonnotizen | ⏳ als Nächstes |
-| M12 | Inhaltspaket 9 | Verben, Adjektive, Redemittel · gemischte Prüfungsaufgaben | offen |
+| M11 | Inhaltspaket 8 | Grammatik-Drill zu allen 12 Themen · DTB-E-Mails und Telefonnotizen | ✅ fertig (Wörter → 5.148, Sätze → 3.094, Prüfung → 437) |
+| M12 | Inhaltspaket 9 | Verben, Adjektive, Redemittel · gemischte Prüfungsaufgaben | ⏳ als Nächstes |
 | M13 | Inhaltspaket 10 | Wortfamilien, Nomen-Verb-Verbindungen · Sprechen DTZ | offen |
 | M14 | Inhaltspaket 11 | Lücken füllen, bis alle Zielzahlen erreicht sind | offen |
 | M15 | Abschluss | Qualitätscheck (Dubletten, Fehler, Test im Browser), Zahlen prüfen | offen |
 
-**Stand:** 10 von 15 Meilensteinen fertig. Aktuell: 4.974 Wörter · 2.880 Sätze · 72 Schreibaufgaben · 407 Prüfungsaufgaben.
+**Stand:** 11 von 15 Meilensteinen fertig. Aktuell: 5.148 Wörter · 3.094 Sätze · 72 Schreibaufgaben · 437 Prüfungsaufgaben.
 
 ---
 

@@ -1,0 +1,1341 @@
+{
+ "mail": [
+  {
+   "id": "m32",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kollegin bittet um Schichttausch",
+   "von": "Sabine Roth, Station 2",
+   "betreff": "Tausch am 14.?",
+   "text": "Hallo Olga,\n\nich habe eine große Bitte: Am Samstag, den 14., hat meine Tochter Konfirmation und ich bin leider für den Frühdienst eingeteilt. Könntest du mit mir tauschen? Ich würde dafür deinen Spätdienst am Mittwoch, den 18., übernehmen. Die Stationsleitung ist einverstanden, wenn wir es selbst klären. Bitte sag mir bis Donnerstag Bescheid, dann trage ich es in den Plan ein.\n\nLiebe Grüße\nSabine",
+   "fragen": [
+    {
+     "q": "Warum möchte Sabine tauschen?",
+     "o": [
+      "Ihre Tochter hat Konfirmation.",
+      "Sie ist krank.",
+      "Sie hat Urlaub."
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was bietet Sabine an?",
+     "o": [
+      "den Spätdienst am 18. zu übernehmen",
+      "Geld",
+      "einen freien Tag"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Antworten Sie Sabine.",
+   "punkte": [
+    "Reaktion auf die Bitte",
+    "Zusage oder Absage mit Begründung",
+    "Vorschlag",
+    "Wer trägt es in den Plan ein?"
+   ],
+   "ru": "Ответьте Сабине: реакция, согласие или отказ с причиной, предложение, кто внесёт изменения в график.",
+   "rm": [
+    "Danke für deine Nachricht.",
+    "Das mache ich gern, weil …",
+    "Leider kann ich nicht, denn …",
+    "Könntest du stattdessen …?"
+   ],
+   "m": "Hallo Sabine,\n\ndanke für deine Nachricht. Herzlichen Glückwunsch zur Konfirmation deiner Tochter!\n\nIch tausche gern mit dir. Den Frühdienst am 14. übernehme ich. Am 18. kann ich deinen Spätdienst allerdings nicht brauchen, weil meine Kinder an diesem Nachmittag Elternabend haben. Könntest du stattdessen meinen Spätdienst am Freitag, den 20., übernehmen?\n\nWenn das für dich passt, trag es bitte in den Plan ein und sag der Stationsleitung kurz Bescheid.\n\nLiebe Grüße\nOlga"
+  },
+  {
+   "id": "m33",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Einladung zur Schulung",
+   "von": "Personalabteilung",
+   "betreff": "Pflichtschulung Datenschutz",
+   "text": "Liebe Mitarbeiterinnen und Mitarbeiter,\n\nalle Beschäftigten müssen einmal im Jahr an einer Datenschutzschulung teilnehmen. Die Schulung dauert zwei Stunden und gilt als Arbeitszeit. Termine: Dienstag, 8. Oktober, 9–11 Uhr oder Donnerstag, 10. Oktober, 14–16 Uhr, jeweils im Raum 104. Wer an beiden Terminen nicht kann, kann die Schulung online bis Ende Oktober machen. Bitte melden Sie sich bis 1. Oktober per Mail an.\n\nIhre Personalabteilung",
+   "fragen": [
+    {
+     "q": "Wie lange dauert die Schulung?",
+     "o": [
+      "zwei Stunden",
+      "einen Tag",
+      "eine Stunde"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was kann man machen, wenn man an beiden Terminen nicht kann?",
+     "o": [
+      "die Schulung online machen",
+      "nicht teilnehmen",
+      "im nächsten Jahr kommen"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Melden Sie sich an.",
+   "punkte": [
+    "Anmeldung zu einem Termin",
+    "Frage zum Online-Kurs",
+    "Frage nach Unterlagen",
+    "Gruß"
+   ],
+   "ru": "Зарегистрируйтесь: выберите дату, задайте вопрос об онлайн-курсе и о материалах.",
+   "rm": [
+    "Hiermit melde ich mich für … an.",
+    "Ich hätte noch eine Frage: …",
+    "Muss ich etwas mitbringen?"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nhiermit melde ich mich für die Datenschutzschulung am Donnerstag, den 10. Oktober, von 14 bis 16 Uhr an.\n\nIch hätte noch eine Frage: Falls ich an diesem Tag kurzfristig einspringen muss, kann ich die Schulung dann noch online machen? Wie bekomme ich in diesem Fall den Zugang?\n\nAußerdem möchte ich wissen, ob ich etwas mitbringen muss, zum Beispiel meinen Dienstausweis.\n\nVielen Dank und freundliche Grüße\nOlga Iwanowa"
+  },
+  {
+   "id": "m34",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kundin beschwert sich über Rechnung",
+   "von": "Frau Helga Brandt",
+   "betreff": "Rechnung Nr. 4471 – falscher Betrag",
+   "text": "Sehr geehrte Damen und Herren,\n\nletzte Woche hat Ihr Pflegedienst meine Mutter fünfmal besucht. Auf der Rechnung stehen aber sieben Besuche. Außerdem wurden die Fahrtkosten doppelt berechnet. Ich bitte Sie, die Rechnung zu prüfen und mir eine korrigierte Rechnung zu schicken. Bis dahin werde ich nicht bezahlen.\n\nMit freundlichen Grüßen\nHelga Brandt",
+   "fragen": [
+    {
+     "q": "Wie viele Besuche gab es wirklich?",
+     "o": [
+      "zwei",
+      "sieben",
+      "fünf"
+     ],
+     "r": 2
+    },
+    {
+     "q": "Was möchte Frau Brandt?",
+     "o": [
+      "eine korrigierte Rechnung",
+      "ihr Geld zurück",
+      "einen anderen Pflegedienst"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Sie arbeiten in der Verwaltung des Pflegedienstes. Antworten Sie Frau Brandt.",
+   "punkte": [
+    "Entschuldigung",
+    "Ergebnis der Prüfung",
+    "Was passiert jetzt?",
+    "Zahlungsfrist"
+   ],
+   "ru": "Вы работаете в администрации службы ухода. Ответьте: извинение, результат проверки, что дальше, срок оплаты.",
+   "rm": [
+    "Vielen Dank für Ihren Hinweis.",
+    "Wir haben die Rechnung geprüft und …",
+    "Selbstverständlich erhalten Sie …",
+    "Bitte entschuldigen Sie …"
+   ],
+   "m": "Sehr geehrte Frau Brandt,\n\nvielen Dank für Ihren Hinweis, und bitte entschuldigen Sie den Fehler.\n\nWir haben die Rechnung geprüft. Sie haben recht: Es waren nur fünf Besuche, und die Fahrtkosten wurden versehentlich doppelt berechnet.\n\nSelbstverständlich erhalten Sie in den nächsten Tagen eine korrigierte Rechnung per Post. Die alte Rechnung ist damit ungültig. Für die neue Rechnung haben Sie 14 Tage Zeit.\n\nMit freundlichen Grüßen\nOlga Iwanowa\nVerwaltung, Pflegedienst Sonnenschein"
+  },
+  {
+   "id": "m35",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Lieferant meldet Verspätung",
+   "von": "Herr Novak, Büro Novak GmbH",
+   "betreff": "Ihre Bestellung 2291",
+   "text": "Sehr geehrte Frau Iwanowa,\n\nleider können wir die bestellten Druckerpatronen nicht wie vereinbart am Montag liefern, da unser Hersteller Lieferschwierigkeiten hat. Voraussichtlich können wir am Donnerstag liefern. Alternativ könnten wir Ihnen Patronen eines anderen Herstellers sofort schicken; diese sind 5 % günstiger. Bitte teilen Sie uns mit, was Sie bevorzugen.\n\nMit freundlichen Grüßen\nPetr Novak",
+   "fragen": [
+    {
+     "q": "Wann kommen die Patronen voraussichtlich?",
+     "o": [
+      "am Donnerstag",
+      "am Montag",
+      "nächste Woche"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was ist die Alternative?",
+     "o": [
+      "Patronen eines anderen Herstellers",
+      "eine Gutschrift",
+      "Abholung im Laden"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Antworten Sie Herrn Novak.",
+   "punkte": [
+    "Reaktion",
+    "Entscheidung mit Begründung",
+    "Frage zur Qualität",
+    "Liefertermin bestätigen"
+   ],
+   "ru": "Ответьте г-ну Новаку: реакция, решение с причиной, вопрос о качестве, подтверждение срока.",
+   "rm": [
+    "Danke für die Information.",
+    "Wir entscheiden uns für …, weil …",
+    "Könnten Sie uns bestätigen, dass …?"
+   ],
+   "m": "Sehr geehrter Herr Novak,\n\nvielen Dank für die Information. Wir bedauern die Verzögerung, verstehen aber, dass Sie dafür nichts können.\n\nDa unser Drucker im Moment fast leer ist, entscheiden wir uns für die Patronen des anderen Herstellers. Könnten Sie uns bitte bestätigen, dass sie mit unserem Drucker (Modell XP 400) funktionieren und dass wir sie zurückgeben können, falls es Probleme gibt?\n\nBitte liefern Sie die Patronen möglichst morgen bis 12 Uhr.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "m36",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Chefin fragt nach Weihnachtsdienst",
+   "von": "Frau Keller, Wohnbereichsleitung",
+   "betreff": "Dienstwünsche Weihnachten/Silvester",
+   "text": "Liebes Team,\n\nich plane gerade die Dienste für Weihnachten und Silvester. Bitte schreibt mir bis zum 15. November, an welchen Tagen ihr auf keinen Fall arbeiten könnt und welche Tage für euch in Ordnung sind. Wer letztes Jahr an Heiligabend gearbeitet hat, bekommt dieses Jahr frei, wenn möglich. Wichtig: Jeder muss mindestens einen Feiertag übernehmen.\n\nViele Grüße\nMonika Keller",
+   "fragen": [
+    {
+     "q": "Bis wann sollen die Mitarbeiter antworten?",
+     "o": [
+      "bis zum 15. November",
+      "bis Weihnachten",
+      "bis Silvester"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wer bekommt dieses Jahr an Heiligabend frei?",
+     "o": [
+      "wer letztes Jahr gearbeitet hat",
+      "alle Eltern",
+      "niemand"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Antworten Sie Frau Keller.",
+   "punkte": [
+    "Wann können Sie nicht?",
+    "Wann können Sie arbeiten?",
+    "Begründung",
+    "Angebot"
+   ],
+   "ru": "Ответьте г-же Келлер: когда не можете, когда можете, причина, предложение.",
+   "rm": [
+    "Vielen Dank für die frühe Planung.",
+    "Am … kann ich leider nicht, weil …",
+    "Gern übernehme ich …",
+    "Falls nötig, könnte ich auch …"
+   ],
+   "m": "Liebe Frau Keller,\n\nvielen Dank für die frühe Planung.\n\nLetztes Jahr habe ich an Heiligabend gearbeitet. Deshalb würde ich mich freuen, wenn ich dieses Jahr am 24. Dezember frei bekommen könnte. Meine Eltern kommen zu Besuch.\n\nGern übernehme ich dafür den Frühdienst am 25. Dezember und den Spätdienst an Silvester. Falls nötig, könnte ich auch am 2. Januar einspringen.\n\nViele Grüße\nOlga Iwanowa"
+  },
+  {
+   "id": "m37",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Bewerbungsantwort: Einladung",
+   "von": "Klinikum Nord, Personalabteilung",
+   "betreff": "Ihre Bewerbung als Pflegefachkraft",
+   "text": "Sehr geehrte Frau Iwanowa,\n\nvielen Dank für Ihre Bewerbung. Wir möchten Sie gern kennenlernen und laden Sie zu einem Vorstellungsgespräch am Dienstag, 12. März, um 10:00 Uhr ein. Das Gespräch dauert etwa eine Stunde; danach können Sie eine Stunde auf der Station hospitieren. Bitte bringen Sie Ihre Anerkennungsurkunde im Original mit. Bitte bestätigen Sie den Termin bis Freitag.\n\nMit freundlichen Grüßen\nAndrea Wolf",
+   "fragen": [
+    {
+     "q": "Was passiert nach dem Gespräch?",
+     "o": [
+      "eine Hospitation auf der Station",
+      "ein Test am Computer",
+      "eine Führung durch die Stadt"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was soll Frau Iwanowa mitbringen?",
+     "o": [
+      "die Anerkennungsurkunde im Original",
+      "ein Foto",
+      "ihren Reisepass"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Antworten Sie Frau Wolf.",
+   "punkte": [
+    "Dank",
+    "Bestätigung oder Terminwunsch",
+    "Frage zur Hospitation (Kleidung?)",
+    "Gruß"
+   ],
+   "ru": "Ответьте г-же Вольф: благодарность, подтверждение или другой срок, вопрос о стажировке (одежда?).",
+   "rm": [
+    "Vielen Dank für die Einladung.",
+    "Gern bestätige ich …",
+    "Ich hätte noch eine Frage zu …"
+   ],
+   "m": "Sehr geehrte Frau Wolf,\n\nvielen Dank für die Einladung zum Vorstellungsgespräch. Ich freue mich sehr.\n\nGern bestätige ich den Termin am Dienstag, 12. März, um 10:00 Uhr. Die Anerkennungsurkunde bringe ich im Original mit.\n\nIch hätte noch eine Frage zur Hospitation: Soll ich eigene Arbeitskleidung mitbringen, oder bekomme ich Dienstkleidung von Ihnen?\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "m38",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kunde will Termin verschieben",
+   "von": "Herr Wagner, Firma Wagner Bau",
+   "betreff": "Lieferung Baustelle Kirchstraße",
+   "text": "Guten Tag,\n\nwir hatten die Lieferung der Fliesen für Mittwoch, 7 Uhr, vereinbart. Leider verzögern sich die Arbeiten auf der Baustelle, deshalb brauchen wir die Fliesen erst am Freitag. Ist das möglich? Bitte rufen Sie vorher unseren Bauleiter Herrn Ott an, damit jemand vor Ort ist. Entstehen dadurch Mehrkosten?\n\nGruß\nJürgen Wagner",
+   "fragen": [
+    {
+     "q": "Wann soll jetzt geliefert werden?",
+     "o": [
+      "am Freitag",
+      "am Mittwoch",
+      "nächste Woche"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wen soll man vorher anrufen?",
+     "o": [
+      "den Bauleiter Herrn Ott",
+      "Herrn Wagner",
+      "die Spedition"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Sie arbeiten in der Disposition. Antworten Sie Herrn Wagner.",
+   "punkte": [
+    "Bestätigung oder Alternative",
+    "Uhrzeit",
+    "Kosten",
+    "Anruf beim Bauleiter"
+   ],
+   "ru": "Вы работаете в диспетчерской. Ответьте: подтверждение или альтернатива, время, стоимость, звонок прорабу.",
+   "rm": [
+    "Gern verschieben wir …",
+    "Am Freitag ist eine Lieferung zwischen … möglich.",
+    "Es entstehen keine/folgende Kosten: …",
+    "Wir rufen … an."
+   ],
+   "m": "Sehr geehrter Herr Wagner,\n\nvielen Dank für Ihre Nachricht. Gern verschieben wir die Lieferung auf Freitag.\n\nAm Freitag ist eine Lieferung zwischen 8 und 10 Uhr möglich, früher leider nicht, weil der Lkw schon andere Touren hat.\n\nDa Sie uns rechtzeitig informiert haben, entstehen keine Mehrkosten. Unser Fahrer ruft Herrn Ott etwa 30 Minuten vor der Ankunft an.\n\nMit freundlichen Grüßen\nOlga Iwanowa\nDisposition"
+  },
+  {
+   "id": "m39",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Betriebsrat informiert über Umfrage",
+   "von": "Betriebsrat",
+   "betreff": "Umfrage: Arbeitszeiten",
+   "text": "Liebe Kolleginnen und Kollegen,\n\nder Betriebsrat möchte mit der Geschäftsführung über neue Arbeitszeitmodelle sprechen, zum Beispiel über eine Vier-Tage-Woche oder flexible Schichtbeginne. Dazu brauchen wir eure Meinung. Bitte schreibt uns bis Ende des Monats, was euch wichtig ist und welche Probleme es bei den jetzigen Arbeitszeiten gibt. Alle Antworten werden vertraulich behandelt.\n\nEuer Betriebsrat",
+   "fragen": [
+    {
+     "q": "Worüber möchte der Betriebsrat sprechen?",
+     "o": [
+      "über neue Arbeitszeitmodelle",
+      "über Gehälter",
+      "über den Urlaub"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wie werden die Antworten behandelt?",
+     "o": [
+      "vertraulich",
+      "öffentlich",
+      "gar nicht"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Schreiben Sie dem Betriebsrat Ihre Meinung.",
+   "punkte": [
+    "Ihre Meinung zur Vier-Tage-Woche",
+    "Probleme mit den jetzigen Zeiten",
+    "Ihr Vorschlag",
+    "Dank"
+   ],
+   "ru": "Напишите производственному совету: ваше мнение о 4-дневке, проблемы с текущим графиком, предложение, благодарность.",
+   "rm": [
+    "Ich finde es gut, dass …",
+    "Ein Problem ist, dass …",
+    "Ich würde vorschlagen, …"
+   ],
+   "m": "Liebe Kolleginnen und Kollegen vom Betriebsrat,\n\nich finde es gut, dass ihr euch um das Thema kümmert.\n\nEine Vier-Tage-Woche mit längeren Schichten wäre für mich schwierig, weil ich meine Kinder um 16 Uhr aus der Kita abholen muss.\n\nEin Problem ist, dass der Frühdienst um 6 Uhr beginnt und die Kita erst um 6:30 Uhr öffnet. Ich würde deshalb vorschlagen, dass Eltern auch um 7 Uhr anfangen können.\n\nVielen Dank für eure Arbeit!\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "m40",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Neue Kollegin stellt sich vor",
+   "von": "Fatima Yilmaz",
+   "betreff": "Hallo aus dem Lager!",
+   "text": "Hallo zusammen,\n\nich bin Fatima und seit Montag neu im Wareneingang. Vorher habe ich drei Jahre in einem Getränkelager gearbeitet. Ich kenne mich mit dem Scanner gut aus, aber euer Lagerprogramm ist neu für mich. Wer kann mir in den nächsten Tagen ein bisschen helfen? Und wo kann man hier eigentlich mittags gut essen?\n\nBis bald\nFatima",
+   "fragen": [
+    {
+     "q": "Wo hat Fatima vorher gearbeitet?",
+     "o": [
+      "in einem Getränkelager",
+      "in einem Krankenhaus",
+      "in einem Büro"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was ist neu für Fatima?",
+     "o": [
+      "das Lagerprogramm",
+      "der Scanner",
+      "der Gabelstapler"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Antworten Sie Fatima.",
+   "punkte": [
+    "Begrüßung",
+    "Hilfe anbieten",
+    "Tipp zum Mittagessen",
+    "Einladung"
+   ],
+   "ru": "Ответьте Фатиме: приветствие, предложите помощь, совет насчёт обеда, приглашение.",
+   "rm": [
+    "Herzlich willkommen!",
+    "Ich kann dir gern … zeigen.",
+    "Mittags gehen wir oft …",
+    "Hast du Lust, …?"
+   ],
+   "m": "Hallo Fatima,\n\nherzlich willkommen in unserem Team!\n\nIch kann dir gern das Lagerprogramm zeigen. Am besten morgen nach der Pause, da ist es meistens ruhiger. Am Anfang hatte ich auch Probleme mit den Buchungen, aber man lernt es schnell.\n\nMittags gehen wir oft in die Kantine im Hauptgebäude. Das Essen ist günstig und es gibt jeden Tag etwas Vegetarisches.\n\nHast du Lust, morgen mit uns zu essen?\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "m41",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Angehöriger fragt nach Besuchsregeln",
+   "von": "Herr Markus Lehmann",
+   "betreff": "Besuch bei meinem Vater",
+   "text": "Sehr geehrte Damen und Herren,\n\nmein Vater, Herr Werner Lehmann, wohnt seit letzter Woche in Ihrem Haus im Wohnbereich 2. Ich wohne 300 Kilometer entfernt und kann nur am Wochenende kommen. Gibt es am Wochenende feste Besuchszeiten? Darf ich mit meinem Vater auch einen Ausflug machen? Und gibt es die Möglichkeit, bei Ihnen zu übernachten?\n\nMit freundlichen Grüßen\nMarkus Lehmann",
+   "fragen": [
+    {
+     "q": "Wann kann Herr Lehmann kommen?",
+     "o": [
+      "nur am Wochenende",
+      "jeden Tag",
+      "nur abends"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was fragt Herr Lehmann NICHT?",
+     "o": [
+      "nach den Kosten des Heims",
+      "nach Besuchszeiten",
+      "nach einer Übernachtung"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Sie arbeiten im Pflegeheim. Beantworten Sie die Fragen.",
+   "punkte": [
+    "Besuchszeiten",
+    "Ausflug",
+    "Übernachtung",
+    "Hinweis zum Befinden des Vaters"
+   ],
+   "ru": "Вы работаете в доме престарелых. Ответьте на вопросы: часы посещения, прогулка, ночёвка, как себя чувствует отец.",
+   "rm": [
+    "Vielen Dank für Ihre Anfrage.",
+    "Besuche sind … möglich.",
+    "Gern können Sie …",
+    "Ihr Vater hat sich schon gut …"
+   ],
+   "m": "Sehr geehrter Herr Lehmann,\n\nvielen Dank für Ihre Anfrage.\n\nBesuche sind bei uns auch am Wochenende jederzeit zwischen 9 und 20 Uhr möglich. Gern können Sie mit Ihrem Vater einen Ausflug machen. Bitte melden Sie sich vorher im Wohnbereich ab, damit wir Ihnen die Medikamente mitgeben können.\n\nEin Gästezimmer haben wir leider nicht, aber in der Nähe gibt es eine Pension, deren Adresse ich Ihnen gern schicke.\n\nIhr Vater hat sich schon gut eingelebt und erzählt oft von Ihnen.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "m42",
+   "ex": [
+    "DTB"
+   ],
+   "t": "IT-Umstellung",
+   "von": "IT-Abteilung",
+   "betreff": "Neues Dokumentationsprogramm ab 1. Juni",
+   "text": "Liebe Kolleginnen und Kollegen,\n\nab dem 1. Juni wird die Pflegedokumentation nur noch digital mit dem Programm „CareNote“ gemacht. Für alle Mitarbeiter gibt es eine Schulung von 90 Minuten. Die Termine finden Sie im Intranet. Bitte melden Sie sich bis zum 20. Mai an. Wer Probleme mit dem Tablet hat, kann sich an die Key-User auf jeder Station wenden.\n\nIhre IT-Abteilung",
+   "fragen": [
+    {
+     "q": "Was ändert sich ab dem 1. Juni?",
+     "o": [
+      "Die Dokumentation ist nur noch digital.",
+      "Es gibt neue Dienstzeiten.",
+      "Die Tablets werden abgeschafft."
+     ],
+     "r": 0
+    },
+    {
+     "q": "An wen wendet man sich bei Problemen?",
+     "o": [
+      "an die Key-User auf der Station",
+      "an die Geschäftsführung",
+      "an den Betriebsrat"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Schreiben Sie der IT-Abteilung.",
+   "punkte": [
+    "Anmeldung zur Schulung",
+    "Ihre Erfahrungen mit Computern",
+    "Wunsch nach Unterstützung",
+    "Frage zu den Tablets"
+   ],
+   "ru": "Напишите IT-отделу: регистрация на обучение, ваш опыт с компьютерами, просьба о помощи, вопрос о планшетах.",
+   "rm": [
+    "Ich möchte mich für die Schulung am … anmelden.",
+    "Mit Computern habe ich …",
+    "Es wäre schön, wenn …",
+    "Ich hätte noch eine Frage: …"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nich möchte mich für die Schulung am 15. Mai um 13 Uhr anmelden.\n\nMit Computern habe ich nur wenig Erfahrung, und da Deutsch nicht meine Muttersprache ist, sind manche Fachbegriffe für mich schwierig. Es wäre deshalb schön, wenn ich nach der Schulung eine Kurzanleitung auf Papier bekommen könnte.\n\nIch hätte noch eine Frage: Bekommt jede Pflegekraft ein eigenes Tablet, oder teilen wir uns die Geräte?\n\nMit freundlichen Grüßen\nOlga Iwanowa, Station 3"
+  },
+  {
+   "id": "m43",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Reklamation beim Hersteller",
+   "von": "Herr Schmitt, Kundenservice MedTec",
+   "betreff": "Ihre Reklamation Pflegebett",
+   "text": "Sehr geehrte Frau Iwanowa,\n\nvielen Dank für Ihre Reklamation. Um das Problem mit der Höhenverstellung des Pflegebetts zu prüfen, benötigen wir die Seriennummer, das Kaufdatum und eine kurze Beschreibung des Fehlers. Ein Techniker kann frühestens nächsten Dienstag kommen. Wenn das Bett nicht benutzt werden kann, stellen wir Ihnen ein Ersatzbett zur Verfügung.\n\nMit freundlichen Grüßen\nTim Schmitt",
+   "fragen": [
+    {
+     "q": "Was braucht der Kundenservice?",
+     "o": [
+      "Seriennummer, Kaufdatum und Fehlerbeschreibung",
+      "nur ein Foto",
+      "die Rechnung im Original"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wann kann der Techniker frühestens kommen?",
+     "o": [
+      "nächsten Dienstag",
+      "morgen",
+      "in zwei Wochen"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Antworten Sie Herrn Schmitt.",
+   "punkte": [
+    "Angaben zum Bett",
+    "Beschreibung des Fehlers",
+    "Ersatzbett ja/nein",
+    "Terminvorschlag"
+   ],
+   "ru": "Ответьте г-ну Шмитту: данные кровати, описание неисправности, нужна ли замена, предложение по времени.",
+   "rm": [
+    "Gern sende ich Ihnen die gewünschten Angaben: …",
+    "Der Fehler tritt auf, wenn …",
+    "Wir benötigen …, weil …"
+   ],
+   "m": "Sehr geehrter Herr Schmitt,\n\nvielen Dank für Ihre schnelle Antwort. Gern sende ich Ihnen die gewünschten Angaben: Seriennummer PB-30587, gekauft am 4. Februar.\n\nDer Fehler tritt auf, wenn man das Bett mit der Fernbedienung nach oben fährt: Es bleibt nach wenigen Zentimetern stehen. Nach unten funktioniert es normal.\n\nWir benötigen dringend ein Ersatzbett, weil die Bewohnerin nur mit einem höhenverstellbaren Bett gepflegt werden kann. Der Techniker kann am Dienstag zwischen 9 und 12 Uhr kommen.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "m44",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fortbildungsangebot",
+   "von": "Bildungszentrum Pflege",
+   "betreff": "Fortbildung Wundmanagement",
+   "text": "Sehr geehrte Damen und Herren,\n\nunser nächster Kurs „Wundmanagement in der Altenpflege“ findet an drei Samstagen im April statt. Der Kurs kostet 390 Euro, viele Arbeitgeber übernehmen die Kosten. Voraussetzung ist eine abgeschlossene Pflegeausbildung. Am Ende gibt es eine Prüfung und ein Zertifikat. Es sind noch fünf Plätze frei.\n\nMit freundlichen Grüßen\nIhr Bildungszentrum",
+   "fragen": [
+    {
+     "q": "Wann findet der Kurs statt?",
+     "o": [
+      "an drei Samstagen im April",
+      "jeden Abend im April",
+      "eine Woche im Mai"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was ist die Voraussetzung?",
+     "o": [
+      "eine abgeschlossene Pflegeausbildung",
+      "ein Studium",
+      "Erfahrung in der Küche"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Schreiben Sie Ihrer Chefin, Frau Keller, und bitten Sie um die Teilnahme.",
+   "punkte": [
+    "Information über den Kurs",
+    "Warum ist er für Sie wichtig?",
+    "Kosten",
+    "Dienstplan an den Samstagen"
+   ],
+   "ru": "Напишите начальнице: информация о курсе, почему он важен, расходы, график по субботам.",
+   "rm": [
+    "Ich habe ein interessantes Angebot gefunden: …",
+    "Für meine Arbeit wäre das wichtig, weil …",
+    "Wäre es möglich, dass …?"
+   ],
+   "m": "Liebe Frau Keller,\n\nich habe ein interessantes Angebot gefunden: Das Bildungszentrum Pflege bietet im April an drei Samstagen einen Kurs zum Wundmanagement an.\n\nFür meine Arbeit wäre das sehr wichtig, weil wir auf unserem Wohnbereich viele Bewohner mit chronischen Wunden haben. Mit dem Zertifikat könnte ich die Kolleginnen unterstützen.\n\nDer Kurs kostet 390 Euro. Wäre es möglich, dass die Einrichtung die Kosten übernimmt? An den drei Samstagen müsste ich frei bekommen, dafür arbeite ich gern an anderen Wochenenden.\n\nViele Grüße\nOlga Iwanowa"
+  },
+  {
+   "id": "m45",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kollege fragt nach Übergabe",
+   "von": "Martin Böhm",
+   "betreff": "Frage zu Frau Schulz",
+   "text": "Hi Olga,\n\nich hatte heute frei und habe in der Dokumentation gelesen, dass Frau Schulz aus Zimmer 8 gestern gestürzt ist. Weißt du, was genau passiert ist? Ist der Arzt informiert? Muss ich morgen im Frühdienst etwas Besonderes beachten?\n\nDanke dir!\nMartin",
+   "fragen": [
+    {
+     "q": "Was ist mit Frau Schulz passiert?",
+     "o": [
+      "Sie ist gestürzt.",
+      "Sie ist umgezogen.",
+      "Sie hat Geburtstag."
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wann arbeitet Martin wieder?",
+     "o": [
+      "morgen im Frühdienst",
+      "heute",
+      "nächste Woche"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Antworten Sie Martin.",
+   "punkte": [
+    "Was ist passiert?",
+    "Was wurde gemacht?",
+    "Arzt und Angehörige",
+    "Was soll Martin beachten?"
+   ],
+   "ru": "Ответьте Мартину: что случилось, что сделали, врач и родственники, на что обратить внимание.",
+   "rm": [
+    "Frau Schulz ist gestern … gestürzt.",
+    "Wir haben sofort …",
+    "Der Arzt war …",
+    "Bitte achte morgen darauf, dass …"
+   ],
+   "m": "Hallo Martin,\n\nFrau Schulz ist gestern gegen 15 Uhr auf dem Weg zur Toilette gestürzt. Sie hatte keine Hausschuhe an.\n\nWir haben sofort Puls und Blutdruck gemessen. Sie hatte Schmerzen an der linken Hüfte. Der Hausarzt war um 17 Uhr da und meint, dass nichts gebrochen ist. Die Tochter ist informiert.\n\nBitte achte morgen darauf, dass sie nur mit Rollator und festen Schuhen läuft, und frag sie nach den Schmerzen. Das Sturzprotokoll ist ausgefüllt.\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "m46",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kunde fragt nach Angebot",
+   "von": "Frau Peters, Kita Regenbogen",
+   "betreff": "Anfrage Reinigung",
+   "text": "Sehr geehrte Damen und Herren,\n\nunsere Kita sucht ab Januar eine neue Reinigungsfirma. Wir haben 400 Quadratmeter, darunter vier Gruppenräume, eine Küche und sechs Kindertoiletten. Die Reinigung muss nach 17 Uhr stattfinden. Bitte schicken Sie uns ein Angebot und teilen Sie uns mit, ob Sie Erfahrung mit Kitas haben und welche Reinigungsmittel Sie verwenden.\n\nMit freundlichen Grüßen\nUte Peters",
+   "fragen": [
+    {
+     "q": "Wann muss gereinigt werden?",
+     "o": [
+      "nach 17 Uhr",
+      "morgens vor 7 Uhr",
+      "am Wochenende"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was möchte Frau Peters NICHT wissen?",
+     "o": [
+      "wie viele Mitarbeiter die Firma hat",
+      "Erfahrung mit Kitas",
+      "welche Reinigungsmittel"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Sie arbeiten bei einer Reinigungsfirma. Antworten Sie Frau Peters.",
+   "punkte": [
+    "Dank für die Anfrage",
+    "Erfahrung",
+    "Reinigungsmittel",
+    "Besichtigungstermin"
+   ],
+   "ru": "Вы работаете в клининговой фирме. Ответьте: благодарность, опыт, средства, осмотр помещений.",
+   "rm": [
+    "Vielen Dank für Ihre Anfrage.",
+    "Wir reinigen bereits …",
+    "Wir verwenden …",
+    "Für ein genaues Angebot würden wir gern …"
+   ],
+   "m": "Sehr geehrte Frau Peters,\n\nvielen Dank für Ihre Anfrage.\n\nWir reinigen bereits drei Kitas und eine Grundschule in Dresden und kennen die besonderen Hygienevorschriften. Wir verwenden umweltfreundliche Reinigungsmittel, die für Kinder unbedenklich sind. Für Toiletten und Küche benutzen wir zusätzlich ein Desinfektionsmittel nach Hygieneplan.\n\nFür ein genaues Angebot würden wir uns die Räume gern ansehen. Passt Ihnen Montag oder Dienstag um 17:30 Uhr?\n\nMit freundlichen Grüßen\nOlga Iwanowa\nGlanz & Co. Gebäudereinigung"
+  },
+  {
+   "id": "m47",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Verspätung zur Arbeit",
+   "von": "Herr Krause, Schichtleiter",
+   "betreff": "Heute Morgen",
+   "text": "Hallo Frau Iwanowa,\n\nSie waren heute 40 Minuten zu spät und haben nicht angerufen. Wir mussten die Lkw-Beladung ohne Sie anfangen, das hat zu Verzögerungen geführt. Bitte erklären Sie mir kurz, was passiert ist. Außerdem möchte ich Sie daran erinnern, dass man sich bei Verspätungen immer telefonisch beim Schichtleiter melden muss.\n\nGruß\nKrause",
+   "fragen": [
+    {
+     "q": "Wie spät war Frau Iwanowa?",
+     "o": [
+      "40 Minuten",
+      "10 Minuten",
+      "zwei Stunden"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was hätte sie tun müssen?",
+     "o": [
+      "den Schichtleiter anrufen",
+      "eine E-Mail schreiben",
+      "nichts"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Antworten Sie Herrn Krause.",
+   "punkte": [
+    "Entschuldigung",
+    "Erklärung",
+    "Warum haben Sie nicht angerufen?",
+    "Was tun Sie in Zukunft?"
+   ],
+   "ru": "Ответьте г-ну Краузе: извинение, объяснение, почему не позвонили, что будете делать в будущем.",
+   "rm": [
+    "Es tut mir sehr leid, dass …",
+    "Der Grund war …",
+    "Ich konnte nicht anrufen, weil …",
+    "In Zukunft werde ich …"
+   ],
+   "m": "Sehr geehrter Herr Krause,\n\nes tut mir sehr leid, dass ich heute zu spät gekommen bin und Sie nicht informiert habe.\n\nDer Grund war ein Unfall auf der Straßenbahnlinie, deshalb stand die Bahn fast 30 Minuten. Ich konnte nicht anrufen, weil mein Handyakku leer war.\n\nIn Zukunft werde ich mein Handy immer aufladen und mir Ihre Nummer zusätzlich aufschreiben. Die verlorene Zeit arbeite ich gern morgen nach.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "m48",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teamausflug-Abfrage",
+   "von": "Jana aus dem Team",
+   "betreff": "Sommerausflug – Abstimmung",
+   "text": "Hallo ihr Lieben,\n\nfür unseren Teamausflug im Juli stehen drei Ideen zur Wahl: 1) Kanutour auf der Elbe, 2) Kochkurs mit gemeinsamem Essen, 3) Escape-Room und danach Biergarten. Die Firma zahlt 40 Euro pro Person. Bitte schreibt mir bis Freitag, was ihr am liebsten macht und welche Termine im Juli bei euch gar nicht gehen.\n\nLG Jana",
+   "fragen": [
+    {
+     "q": "Wie viel zahlt die Firma pro Person?",
+     "o": [
+      "40 Euro",
+      "alles",
+      "nichts"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Bis wann soll man antworten?",
+     "o": [
+      "bis Freitag",
+      "bis Juli",
+      "bis morgen"
+     ],
+     "r": 0
+    }
+   ],
+   "aufgabe": "Antworten Sie Jana.",
+   "punkte": [
+    "Ihre Wahl mit Begründung",
+    "Termine, die nicht gehen",
+    "Idee oder Wunsch",
+    "Dank"
+   ],
+   "ru": "Ответьте Яне: ваш выбор с причиной, неподходящие даты, идея или пожелание, благодарность.",
+   "rm": [
+    "Danke für die Organisation!",
+    "Am liebsten würde ich …, weil …",
+    "Im Juli kann ich nicht am …",
+    "Vielleicht könnten wir …"
+   ],
+   "m": "Hallo Jana,\n\ndanke für die Organisation!\n\nAm liebsten würde ich den Kochkurs machen, weil da wirklich alle mitmachen können, auch Kollegen, die nicht gut schwimmen. Außerdem haben wir dann Zeit zum Reden.\n\nIm Juli kann ich nicht vom 14. bis 25., da bin ich im Urlaub.\n\nVielleicht könnten wir im Kochkurs Gerichte aus verschiedenen Ländern kochen? Wir haben ja Kollegen aus fünf Nationen.\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "m49",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Arbeitszeugnis anfordern",
+   "von": "Frau Hartmann, Personal",
+   "betreff": "Ihr Ausscheiden zum 31.03.",
+   "text": "Sehr geehrte Frau Iwanowa,\n\nwir bestätigen den Eingang Ihrer Kündigung zum 31. März. Bitte geben Sie bis zu Ihrem letzten Arbeitstag Ihren Schlüssel, Ihren Dienstausweis und Ihre Dienstkleidung ab. Ihren restlichen Urlaub von 6 Tagen können Sie noch im März nehmen. Wenn Sie ein qualifiziertes Arbeitszeugnis wünschen, teilen Sie uns das bitte mit.\n\nMit freundlichen Grüßen\nKarin Hartmann",
+   "fragen": [
+    {
+     "q": "Was muss Frau Iwanowa abgeben?",
+     "o": [
+      "Schlüssel, Dienstausweis und Dienstkleidung",
+      "nur den Schlüssel",
+      "ihren Laptop"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wie viele Urlaubstage hat sie noch?",
+     "o": [
+      "zehn",
+      "sechs",
+      "zwei"
+     ],
+     "r": 1
+    }
+   ],
+   "aufgabe": "Antworten Sie Frau Hartmann.",
+   "punkte": [
+    "Dank",
+    "Wunsch nach Arbeitszeugnis",
+    "Urlaubsplanung",
+    "Abgabe der Sachen"
+   ],
+   "ru": "Ответьте г-же Хартманн: благодарность, просьба о характеристике, планирование отпуска, сдача вещей.",
+   "rm": [
+    "Vielen Dank für die Bestätigung.",
+    "Ich bitte um ein qualifiziertes Arbeitszeugnis.",
+    "Meinen Resturlaub möchte ich …",
+    "Die Sachen gebe ich am … ab."
+   ],
+   "m": "Sehr geehrte Frau Hartmann,\n\nvielen Dank für die Bestätigung.\n\nIch bitte um ein qualifiziertes Arbeitszeugnis. Es wäre schön, wenn ich es bis zu meinem letzten Arbeitstag bekommen könnte, da ich es für meine neue Stelle brauche.\n\nMeinen Resturlaub möchte ich vom 24. bis 31. März nehmen. Schlüssel, Dienstausweis und Dienstkleidung gebe ich am 21. März bei Ihnen ab.\n\nVielen Dank für die gute Zusammenarbeit.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  }
+ ],
+ "notiz": [
+  {
+   "id": "n27",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Lieferant ändert Liefertermin",
+   "situation": "Sie arbeiten im Wareneingang. Ein Lieferant ruft an. Notieren Sie das Wichtigste für Ihren Chef.",
+   "audio": "Guten Morgen, hier spricht Behrens von der Spedition Nordfracht. Die Lieferung mit den 12 Paletten Getränken für heute kann leider erst morgen kommen, unser Lkw hat eine Panne. Wir kommen morgen um 7 Uhr 30 an Rampe 2. Der Fahrer heißt Herr Ozturk. Wenn das nicht passt, rufen Sie mich bitte bis 14 Uhr zurück unter 0 3 5 1, 2 2 4 5 6 7.",
+   "felder": [
+    {
+     "l": "Firma",
+     "a": [
+      "nordfracht"
+     ]
+    },
+    {
+     "l": "Was",
+     "a": [
+      "12 paletten",
+      "getränke"
+     ]
+    },
+    {
+     "l": "Neuer Termin",
+     "a": [
+      "morgen",
+      "7:30",
+      "7 30"
+     ]
+    },
+    {
+     "l": "Rampe",
+     "a": [
+      "2"
+     ]
+    },
+    {
+     "l": "Rückruf",
+     "a": [
+      "224567"
+     ]
+    }
+   ],
+   "m": "Für Herrn Krause\nAnruf Spedition Nordfracht (Hr. Behrens): 12 Paletten Getränke kommen nicht heute (Lkw-Panne)\nNeu: morgen 7:30 Uhr, Rampe 2, Fahrer Hr. Ozturk\nFalls nicht passend: Rückruf bis 14 Uhr, 0351 224567"
+  },
+  {
+   "id": "n28",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Arztpraxis ruft im Pflegeheim an",
+   "situation": "Sie arbeiten im Pflegeheim. Die Hausarztpraxis ruft an. Notieren Sie die Informationen für die Pflegefachkraft.",
+   "audio": "Hallo, Praxis Dr. Kühn, hier ist Frau Weiß. Es geht um Herrn Lorenz aus Zimmer 17. Die Blutwerte sind da: Der Zuckerwert ist zu hoch. Dr. Kühn erhöht deshalb das Insulin abends von 8 auf 10 Einheiten, ab heute. Das neue Rezept können Sie morgen ab 10 Uhr abholen. Bitte messen Sie die nächsten drei Tage morgens und abends den Blutzucker und faxen Sie uns die Werte am Freitag.",
+   "felder": [
+    {
+     "l": "Bewohner",
+     "a": [
+      "lorenz"
+     ]
+    },
+    {
+     "l": "Zimmer",
+     "a": [
+      "17"
+     ]
+    },
+    {
+     "l": "Änderung",
+     "a": [
+      "10 einheiten",
+      "10"
+     ]
+    },
+    {
+     "l": "Rezept",
+     "a": [
+      "morgen"
+     ]
+    },
+    {
+     "l": "Auftrag",
+     "a": [
+      "blutzucker",
+      "messen"
+     ]
+    }
+   ],
+   "m": "Für die Pflegefachkraft\nPraxis Dr. Kühn (Fr. Weiß): Hr. Lorenz, Zi. 17 – Zucker zu hoch\nAb heute Insulin abends 10 statt 8 Einheiten\nRezept morgen ab 10 Uhr abholen\n3 Tage BZ morgens + abends messen, Werte Freitag faxen"
+  },
+  {
+   "id": "n29",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kunde ändert Bestellung",
+   "situation": "Sie arbeiten in einer Bäckerei im Bestellservice. Ein Kunde ruft an. Notieren Sie die Änderungen.",
+   "audio": "Ja, guten Tag, Firma Elbtec, mein Name ist Sandra Klee. Wir haben für Freitag das Frühstück für 30 Personen bestellt. Es kommen jetzt aber 35 Leute, und fünf davon essen vegan. Können Sie bitte fünf vegane Brötchen extra machen? Und bitte liefern Sie nicht um 8 Uhr, sondern schon um halb acht. Die Adresse bleibt gleich, Industriestraße 4, aber bitte am Hintereingang klingeln.",
+   "felder": [
+    {
+     "l": "Kunde",
+     "a": [
+      "elbtec",
+      "klee"
+     ]
+    },
+    {
+     "l": "Personen",
+     "a": [
+      "35"
+     ]
+    },
+    {
+     "l": "Extra",
+     "a": [
+      "vegan"
+     ]
+    },
+    {
+     "l": "Lieferzeit",
+     "a": [
+      "7:30",
+      "halb acht",
+      "7 30"
+     ]
+    },
+    {
+     "l": "Hinweis",
+     "a": [
+      "hintereingang"
+     ]
+    }
+   ],
+   "m": "Bestellung Firma Elbtec (Fr. Klee) – Freitag\nJetzt 35 statt 30 Personen, davon 5 vegan (5 vegane Brötchen extra)\nLieferung schon 7:30 Uhr (statt 8 Uhr)\nIndustriestraße 4 – am Hintereingang klingeln"
+  },
+  {
+   "id": "n30",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kollegin meldet sich krank",
+   "situation": "Sie sind im Büro der Station. Eine Kollegin ruft an. Notieren Sie das Wichtigste für die Stationsleitung.",
+   "audio": "Hallo, hier ist Jana Wolf. Ich bin heute Nacht krank geworden, Fieber und Halsschmerzen. Ich kann leider weder heute noch morgen kommen. Ich gehe um zehn zum Arzt und schicke die Krankmeldung dann per App. Ich hätte heute Spätdienst und morgen Frühdienst gehabt. Ach ja, Frau Berger aus Zimmer 3 bekommt heute um 16 Uhr Besuch vom Physiotherapeuten, das wollte ich noch sagen.",
+   "felder": [
+    {
+     "l": "Wer",
+     "a": [
+      "jana",
+      "wolf"
+     ]
+    },
+    {
+     "l": "Fehlt",
+     "a": [
+      "heute",
+      "morgen"
+     ]
+    },
+    {
+     "l": "Dienste",
+     "a": [
+      "spätdienst"
+     ]
+    },
+    {
+     "l": "Krankmeldung",
+     "a": [
+      "app"
+     ]
+    },
+    {
+     "l": "Info",
+     "a": [
+      "berger",
+      "physio",
+      "16"
+     ]
+    }
+   ],
+   "m": "Für die Stationsleitung\nJana Wolf krank (Fieber, Halsschmerzen) – fehlt heute (Spätdienst) und morgen (Frühdienst)\nArzt um 10 Uhr, Krankmeldung kommt per App\nInfo: Fr. Berger, Zi. 3 – heute 16 Uhr Physiotherapie"
+  },
+  {
+   "id": "n31",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Handwerker kündigt Besuch an",
+   "situation": "Sie arbeiten am Empfang einer Firma. Ein Handwerker ruft an. Notieren Sie das Wichtigste für den Hausmeister.",
+   "audio": "Guten Tag, hier ist Firma Kältetechnik Schulze. Wir kommen am Donnerstag, den 9., wegen der Klimaanlage im Serverraum. Unser Monteur, Herr Dietrich, ist gegen 13 Uhr da und braucht etwa zwei Stunden. In dieser Zeit muss die Anlage ausgeschaltet sein. Bitte sorgen Sie dafür, dass jemand mit dem Schlüssel für den Serverraum da ist. Bei Fragen: 0 1 7 6, 3 3 9 1 8 2 0.",
+   "felder": [
+    {
+     "l": "Firma",
+     "a": [
+      "schulze",
+      "kältetechnik"
+     ]
+    },
+    {
+     "l": "Termin",
+     "a": [
+      "donnerstag",
+      "9."
+     ]
+    },
+    {
+     "l": "Uhrzeit",
+     "a": [
+      "13"
+     ]
+    },
+    {
+     "l": "Was",
+     "a": [
+      "klimaanlage"
+     ]
+    },
+    {
+     "l": "Wichtig",
+     "a": [
+      "schlüssel"
+     ]
+    }
+   ],
+   "m": "Für den Hausmeister\nFa. Kältetechnik Schulze: Do, 9., ca. 13 Uhr, Monteur Hr. Dietrich\nKlimaanlage Serverraum – Dauer ca. 2 Std., Anlage muss aus sein\nJemand mit Schlüssel Serverraum muss da sein\nRückfragen: 0176 3391820"
+  },
+  {
+   "id": "n32",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Angehörige fragt nach Wäsche",
+   "situation": "Sie arbeiten im Pflegeheim. Eine Angehörige ruft an. Notieren Sie die Informationen für die Kollegin aus der Wäscherei.",
+   "audio": "Guten Tag, hier ist Irina Petrenko, die Tochter von Frau Petrenko aus Zimmer 22. Meiner Mutter fehlen seit zwei Wochen zwei Nachthemden, ein blaues und ein rosa, beide mit Namensschild. Und ihre Lieblingsstrickjacke, grau, ist beim Waschen eingelaufen. Könnten Sie bitte in der Wäscherei nachsehen? Ich komme am Sonntag und bringe neue Sachen mit. Sie erreichen mich unter 0 1 5 2, 7 7 8 9 0 1 2.",
+   "felder": [
+    {
+     "l": "Bewohnerin",
+     "a": [
+      "petrenko"
+     ]
+    },
+    {
+     "l": "Zimmer",
+     "a": [
+      "22"
+     ]
+    },
+    {
+     "l": "Fehlt",
+     "a": [
+      "nachthemd"
+     ]
+    },
+    {
+     "l": "Problem",
+     "a": [
+      "strickjacke",
+      "eingelaufen"
+     ]
+    },
+    {
+     "l": "Rückruf",
+     "a": [
+      "7789012"
+     ]
+    }
+   ],
+   "m": "Für die Wäscherei\nFr. Petrenko, Zi. 22 (Tochter Irina hat angerufen)\nFehlen seit 2 Wochen: 2 Nachthemden (blau + rosa, mit Namensschild)\nGraue Strickjacke beim Waschen eingelaufen\nBitte nachsehen, Rückruf an Tochter: 0152 7789012 (kommt Sonntag)"
+  },
+  {
+   "id": "n33",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kunde reklamiert Ware",
+   "situation": "Sie arbeiten im Kundenservice eines Möbelhauses. Ein Kunde ruft an. Notieren Sie das Wichtigste.",
+   "audio": "Ja, hallo, Engel hier, Kundennummer 5 5 0 3 8. Wir haben am Montag einen Kleiderschrank geliefert bekommen. Beim Aufbauen haben wir gesehen, dass eine Tür einen langen Kratzer hat. Wir möchten keinen neuen Schrank, nur eine neue Tür. Fotos habe ich gemacht, wohin soll ich die schicken? Am besten erreichen Sie mich abends ab 18 Uhr.",
+   "felder": [
+    {
+     "l": "Kunde",
+     "a": [
+      "engel"
+     ]
+    },
+    {
+     "l": "Kundennummer",
+     "a": [
+      "55038"
+     ]
+    },
+    {
+     "l": "Problem",
+     "a": [
+      "kratzer",
+      "tür"
+     ]
+    },
+    {
+     "l": "Wunsch",
+     "a": [
+      "neue tür"
+     ]
+    },
+    {
+     "l": "Erreichbar",
+     "a": [
+      "18"
+     ]
+    }
+   ],
+   "m": "Reklamation Hr. Engel, Kd.-Nr. 55038\nKleiderschrank (geliefert Montag): eine Tür mit langem Kratzer\nWunsch: nur neue Tür, kein neuer Schrank\nHat Fotos – braucht Mailadresse\nErreichbar abends ab 18 Uhr"
+  },
+  {
+   "id": "n34",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Schule ruft bei der Arbeit an",
+   "situation": "Ihre Kollegin ist in einer Besprechung. Die Schule ihres Sohnes ruft an. Notieren Sie die Nachricht.",
+   "audio": "Guten Tag, hier ist das Sekretariat der Grundschule am Park. Ich möchte Frau Neumann sprechen. Ihr Sohn Paul hat sich im Sportunterricht am Fuß verletzt. Es ist nichts Schlimmes, aber er kann nicht laufen. Er sitzt bei uns im Sekretariat. Frau Neumann oder jemand anderes sollte ihn bitte bis 12 Uhr abholen. Unsere Nummer ist 0 3 5 1, 8 1 2 3 4 5.",
+   "felder": [
+    {
+     "l": "Anrufer",
+     "a": [
+      "schule",
+      "grundschule",
+      "sekretariat"
+     ]
+    },
+    {
+     "l": "Kind",
+     "a": [
+      "paul"
+     ]
+    },
+    {
+     "l": "Was ist passiert",
+     "a": [
+      "fuß",
+      "sport"
+     ]
+    },
+    {
+     "l": "Bis wann abholen",
+     "a": [
+      "12"
+     ]
+    },
+    {
+     "l": "Telefon",
+     "a": [
+      "812345"
+     ]
+    }
+   ],
+   "m": "Für Frau Neumann – dringend!\nSekretariat Grundschule am Park hat angerufen\nPaul hat sich im Sport am Fuß verletzt (nicht schlimm, kann aber nicht laufen)\nBitte bis 12 Uhr abholen – er wartet im Sekretariat\nTel. 0351 812345"
+  },
+  {
+   "id": "n35",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Bewerberin sagt ab",
+   "situation": "Sie arbeiten in der Personalabteilung. Eine Bewerberin ruft an. Notieren Sie die Informationen für Ihre Chefin.",
+   "audio": "Guten Tag, mein Name ist Anna Kowalczyk. Ich hätte morgen um 14 Uhr ein Vorstellungsgespräch für die Stelle als Pflegehelferin. Leider ist mein Kind krank und ich habe keine Betreuung. Ich bin aber weiterhin sehr interessiert. Wäre ein Termin nächste Woche möglich, am besten Dienstag oder Mittwoch vormittags? Meine Nummer ist 0 1 7 5, 4 4 1 0 9 8 7.",
+   "felder": [
+    {
+     "l": "Name",
+     "a": [
+      "kowalczyk"
+     ]
+    },
+    {
+     "l": "Stelle",
+     "a": [
+      "pflegehelfer"
+     ]
+    },
+    {
+     "l": "Grund",
+     "a": [
+      "kind",
+      "krank"
+     ]
+    },
+    {
+     "l": "Neuer Wunsch",
+     "a": [
+      "dienstag",
+      "mittwoch"
+     ]
+    },
+    {
+     "l": "Telefon",
+     "a": [
+      "4410987"
+     ]
+    }
+   ],
+   "m": "Für Frau Hartmann\nBewerberin Anna Kowalczyk (Pflegehelferin) sagt Gespräch morgen 14 Uhr ab – Kind krank\nWeiter interessiert! Wunsch: nächste Woche Di oder Mi vormittags\nRückruf: 0175 4410987"
+  },
+  {
+   "id": "n36",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Spediteur meldet Schaden",
+   "situation": "Sie arbeiten im Versand. Ein Spediteur ruft an. Notieren Sie das Wichtigste für Ihre Teamleiterin.",
+   "audio": "Hallo, hier ist Kaminski von der Spedition Ost. Wir hatten heute Ihre Sendung nach Leipzig, Auftrag 7 0 1 5. Beim Entladen ist ein Karton heruntergefallen. Drei Gläser sind kaputt. Der Kunde hat die Lieferung trotzdem angenommen und den Schaden auf dem Lieferschein notiert. Ich schicke Ihnen heute noch das Schadensprotokoll per Mail. Unsere Versicherung übernimmt das.",
+   "felder": [
+    {
+     "l": "Spedition",
+     "a": [
+      "ost",
+      "kaminski"
+     ]
+    },
+    {
+     "l": "Auftrag",
+     "a": [
+      "7015"
+     ]
+    },
+    {
+     "l": "Schaden",
+     "a": [
+      "gläser",
+      "karton"
+     ]
+    },
+    {
+     "l": "Kunde",
+     "a": [
+      "angenommen",
+      "leipzig"
+     ]
+    },
+    {
+     "l": "Was kommt",
+     "a": [
+      "protokoll"
+     ]
+    }
+   ],
+   "m": "Für die Teamleiterin\nSpedition Ost (Hr. Kaminski), Auftrag 7015 nach Leipzig\nKarton beim Entladen gefallen – 3 Gläser kaputt\nKunde hat angenommen, Schaden auf Lieferschein notiert\nSchadensprotokoll kommt heute per Mail, Versicherung der Spedition zahlt"
+  },
+  {
+   "id": "n37",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Hotelgast hat etwas vergessen",
+   "situation": "Sie arbeiten an der Rezeption eines Hotels. Ein ehemaliger Gast ruft an. Notieren Sie das Wichtigste für das Housekeeping.",
+   "audio": "Guten Abend, hier ist Michael Brandt. Ich habe bis heute Morgen in Zimmer 312 gewohnt. Ich glaube, ich habe mein Handyladekabel und eine schwarze Lesebrille im Nachttisch vergessen. Wenn Sie die Sachen finden, schicken Sie sie mir bitte per Post. Die Kosten übernehme ich natürlich. Meine Adresse ist Rosenweg 5, 01067 Dresden.",
+   "felder": [
+    {
+     "l": "Gast",
+     "a": [
+      "brandt"
+     ]
+    },
+    {
+     "l": "Zimmer",
+     "a": [
+      "312"
+     ]
+    },
+    {
+     "l": "Vergessen",
+     "a": [
+      "kabel",
+      "brille"
+     ]
+    },
+    {
+     "l": "Wo",
+     "a": [
+      "nachttisch"
+     ]
+    },
+    {
+     "l": "Adresse",
+     "a": [
+      "rosenweg"
+     ]
+    }
+   ],
+   "m": "Für das Housekeeping\nGast Michael Brandt, Zi. 312 (abgereist heute)\nVergessen: Handyladekabel + schwarze Lesebrille, wahrscheinlich im Nachttisch\nFalls gefunden: per Post schicken, Gast zahlt\nAdresse: Rosenweg 5, 01067 Dresden"
+  },
+  {
+   "id": "n38",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Interne Info: IT-Störung",
+   "situation": "Die IT-Abteilung ruft auf Ihrer Station an. Notieren Sie die Informationen für alle Kollegen.",
+   "audio": "Hallo, hier ist Robert aus der IT. Wir müssen heute Nacht von 22 Uhr bis 2 Uhr ein Update machen. In dieser Zeit funktioniert das Dokumentationsprogramm nicht. Bitte dokumentieren Sie in der Nacht auf Papier, die Formulare liegen im Dienstzimmer im grünen Ordner. Morgen früh müssen die Notizen dann ins Programm übertragen werden. Bei Notfällen erreichen Sie den IT-Bereitschaftsdienst unter der Durchwahl 4 4 4.",
+   "felder": [
+    {
+     "l": "Was",
+     "a": [
+      "update"
+     ]
+    },
+    {
+     "l": "Wann",
+     "a": [
+      "22",
+      "2 uhr"
+     ]
+    },
+    {
+     "l": "Was tun",
+     "a": [
+      "papier"
+     ]
+    },
+    {
+     "l": "Formulare",
+     "a": [
+      "grün",
+      "ordner"
+     ]
+    },
+    {
+     "l": "Notfall",
+     "a": [
+      "444"
+     ]
+    }
+   ],
+   "m": "Info für alle – IT-Update heute Nacht\n22–2 Uhr: Dokumentationsprogramm funktioniert nicht\nIn der Zeit auf Papier dokumentieren (Formulare: grüner Ordner im Dienstzimmer)\nMorgen früh ins Programm übertragen\nNotfall: IT-Bereitschaft, Durchwahl 444"
+  }
+ ]
+}

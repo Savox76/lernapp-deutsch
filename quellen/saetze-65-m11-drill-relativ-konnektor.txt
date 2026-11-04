@@ -1,0 +1,49 @@
+# M11 Drill: Relativsätze und Konnektoren (B1–B2)
+Das *ist* die Kollegin, die mir am ersten Tag geholfen hat.|Это коллега, которая помогла мне в первый день.|B1|Relativsatz Nominativ feminin: die.|Arbeit
+Der Kunde, den ich gestern angerufen habe, *hat* zurückgeschrieben.|Клиент, которому я вчера звонила, ответил.|B1|Relativsatz Akkusativ maskulin: den.|Arbeit
+Die Patientin, der ich das Essen bringe, *heißt* Frau Weber.|Пациентку, которой я приношу еду, зовут госпожа Вебер.|B1|Relativsatz Dativ feminin: der.|Pflege
+Das Paket, das gestern gekommen ist, *gehört* dem Nachbarn.|Посылка, которая пришла вчера, принадлежит соседу.|B1|Relativsatz Nominativ neutral: das.|Wohnen
+Die Kinder, denen wir bei den Hausaufgaben helfen, *kommen* aus Syrien.|Дети, которым мы помогаем с домашними заданиями, из Сирии.|B1|Relativsatz Dativ Plural: denen.|Bildung
+Ich *suche* einen Job, der zu meiner Familie passt.|Я ищу работу, которая подходит моей семье.|B1|Relativsatz Nominativ maskulin: der.|Arbeit
+Das *ist* der Arzt, zu dem ich immer gehe.|Это врач, к которому я всегда хожу.|B1|Relativsatz mit Präposition: zu dem.|Gesundheit
+Die Firma, bei der ich arbeite, *hat* 200 Mitarbeiter.|В фирме, где я работаю, 200 сотрудников.|B1|Relativsatz mit Präposition: bei der.|Arbeit
+Der Kurs, für den ich mich angemeldet habe, *beginnt* im März.|Курс, на который я записалась, начинается в марте.|B1|Relativsatz mit Präposition: für den.|Bildung
+Die Wohnung, in der wir wohnen, *ist* zu klein.|Квартира, в которой мы живём, слишком маленькая.|B1|Relativsatz mit Präposition: in der.|Wohnen
+Das Problem, über das wir gesprochen haben, *ist* gelöst.|Проблема, о которой мы говорили, решена.|B1|Relativsatz mit Präposition: über das.|Arbeit
+Die Stadt, aus der ich komme, *liegt* am Schwarzen Meer.|Город, из которого я родом, находится на Чёрном море.|B1|Relativsatz mit Präposition: aus der.|Person
+Wir *brauchen* jemanden, der Russisch spricht.|Нам нужен кто-то, кто говорит по-русски.|B1|Relativsatz nach jemand: der.|Arbeit
+Alles, was ich brauche, *steht* auf der Liste.|Всё, что мне нужно, есть в списке.|B1|Relativsatz mit was nach alles.|Einkaufen
+Die Kollegin, deren Sohn mit meinem in die Klasse geht, *wohnt* nebenan.|Коллега, сын которой учится в одном классе с моим, живёт по соседству.|B2|Relativsatz Genitiv: deren.|Familie
+Der Bewohner, dessen Angehörige nicht erreichbar sind, *braucht* einen Betreuer.|Жителю, родственники которого недоступны, нужен опекун.|B2|Relativsatz Genitiv: dessen.|Pflege
+Die Gründe, aus denen die Lieferung verspätet ist, *kennen* wir noch nicht.|Причины задержки доставки нам пока неизвестны.|B2|Relativsatz mit Präposition + denen.|Handel
+Das Einzige, worüber ich mich ärgere, *ist* der lange Arbeitsweg.|Единственное, что меня раздражает, — долгая дорога на работу.|B2|Relativsatz mit wo(r) + Präposition nach das Einzige.|Arbeit
+Er *hat* die Prüfung bestanden, was uns alle sehr freut.|Он сдал экзамен, что нас всех очень радует.|B2|Relativsatz mit was bezieht sich auf den ganzen Satz.|Bildung
+Das Formular, das ausgefüllt werden muss, *liegt* am Empfang.|Бланк, который нужно заполнить, лежит на ресепшене.|B2|Relativsatz mit Passiv und Modalverb.|Behörden
+Ein Kollege, auf den man sich verlassen kann, *ist* Gold wert.|Коллега, на которого можно положиться, — на вес золота.|B2|Relativsatz mit Präposition: auf den.|Arbeit
+Die Maßnahmen, mit denen Energie gespart werden soll, *treten* im Januar in Kraft.|Меры по экономии энергии вступают в силу в январе.|B2|Relativsatz mit denen + Passiv.|Umwelt
+Wer zu spät kommt, dem *wird* der Termin nicht garantiert.|Тому, кто опаздывает, запись не гарантируется.|B2|Relativsatz mit wer … dem; Passiv.|Gesundheit
+Es *gibt* vieles, worauf man bei einer Bewerbung achten muss.|Есть многое, на что нужно обращать внимание при подаче заявления.|B2|Relativsatz mit worauf.|Arbeit
+Die Zeit, in der ich in Kiew gearbeitet habe, *war* sehr lehrreich.|Время, когда я работала в Киеве, было очень поучительным.|B2|Relativsatz mit in der (Zeit).|Person
+Ich *bin* müde, deshalb gehe ich früh schlafen.|Я устала, поэтому рано ложусь спать.|A2|deshalb: danach Verb auf Position 2.|Alltag
+Es *regnet*, trotzdem gehen wir spazieren.|Идёт дождь, но мы всё равно идём гулять.|A2|trotzdem: danach Verb auf Position 2.|Freizeit
+Ich *komme* heute nicht, denn ich habe Fieber.|Я сегодня не приду, потому что у меня температура.|A2|denn: normale Wortstellung danach.|Gesundheit
+Wir *nehmen* nicht den Bus, sondern das Fahrrad.|Мы едем не на автобусе, а на велосипеде.|A2|nicht …, sondern …|Verkehr
+Beeil dich, sonst *verpassen* wir den Zug.|Поторопись, иначе мы опоздаем на поезд.|B1|sonst: danach Verb auf Position 2.|Verkehr
+Der Laptop ist alt, außerdem *funktioniert* die Tastatur nicht richtig.|Ноутбук старый, кроме того, клавиатура плохо работает.|B1|außerdem: danach Verb auf Position 2.|Arbeit
+Die Stelle ist interessant, allerdings *ist* der Weg sehr weit.|Должность интересная, однако дорога очень далёкая.|B1|allerdings: danach Verb auf Position 2.|Arbeit
+Der Kunde hat nicht bezahlt, deswegen *schicken* wir eine Mahnung.|Клиент не заплатил, поэтому мы отправляем напоминание.|B1|deswegen: danach Verb auf Position 2.|Geld
+Ich habe zwei Stunden gelernt, trotzdem *verstehe* ich die Regel nicht.|Я учила два часа, но всё равно не понимаю правило.|B1|trotzdem: danach Verb auf Position 2.|Bildung
+Entweder *arbeite* ich am Samstag oder am Sonntag.|Я работаю либо в субботу, либо в воскресенье.|B1|entweder … oder.|Arbeit
+Sowohl die Patienten als auch die Angehörigen *sind* zufrieden.|И пациенты, и родственники довольны.|B1|sowohl … als auch.|Pflege
+Weder der Chef noch seine Stellvertreterin *war* erreichbar.|Ни начальник, ни его заместительница не были доступны.|B1|weder … noch.|Arbeit
+Zwar *verdiene* ich hier mehr, aber die Arbeit ist anstrengender.|Здесь я, правда, зарабатываю больше, но работа тяжелее.|B1|zwar … aber.|Arbeit
+Einerseits *möchte* ich Karriere machen, andererseits brauche ich Zeit für die Kinder.|С одной стороны, я хочу сделать карьеру, с другой — мне нужно время для детей.|B1|einerseits … andererseits.|Familie
+Je öfter ich telefoniere, desto sicherer *werde* ich.|Чем чаще я говорю по телефону, тем увереннее становлюсь.|B1|je … desto.|Bildung
+Die Lieferung kam zu spät, außerdem *fehlten* zwei Kartons.|Доставка пришла поздно, кроме того, не хватало двух коробок.|B1|außerdem: Verb auf Position 2.|Handel
+Ich habe den Termin vergessen, deshalb *rufe* ich jetzt an.|Я забыла про встречу, поэтому сейчас звоню.|B1|deshalb: Verb auf Position 2.|Gesundheit
+Die Software ist neu, folglich *brauchen* alle eine Schulung.|Программа новая, следовательно, всем нужно обучение.|B2|folglich: Verb auf Position 2.|Arbeit
+Die Nachfrage steigt, dementsprechend *erhöhen* wir die Produktion.|Спрос растёт, соответственно мы увеличиваем производство.|B2|dementsprechend: Verb auf Position 2.|Wirtschaft
+Die Bewerberin hat wenig Erfahrung, dafür *spricht* sie drei Sprachen.|У соискательницы мало опыта, зато она говорит на трёх языках.|B2|dafür = als Ausgleich; Verb auf Position 2.|Arbeit
+Die Lage ist schwierig, nichtsdestotrotz *bleiben* wir optimistisch.|Ситуация сложная, тем не менее мы остаёмся оптимистами.|B2|nichtsdestotrotz: Verb auf Position 2.|Wirtschaft
+In der Stadt ist es laut, auf dem Land hingegen *ist* es ruhig.|В городе шумно, в деревне же спокойно.|B2|hingegen im Mittelfeld oder auf Position 1.|Wohnen
+Die Kosten sind hoch, demgegenüber *steht* ein großer Nutzen.|Расходы высоки, но им противостоит большая польза.|B2|demgegenüber: Verb auf Position 2.|Meinung
