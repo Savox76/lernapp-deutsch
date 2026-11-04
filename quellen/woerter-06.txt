@@ -99,7 +99,7 @@ ankreuzen|-|kreuzt an – kreuzte an – hat angekreuzt|V|отмечать кр�
 ergänzen|-|ergänzt – ergänzte – hat ergänzt|V|дополнять|fehlende Teile hinzufügen|Ergänzen Sie die Sätze.|B1|Prüfung
 zuordnen|-|ordnet zu – ordnete zu – hat zugeordnet|V|соотносить|zusammenpassende Dinge verbinden|Ordnen Sie die Texte den Überschriften zu.|B1|Prüfung
 markieren|-|markiert – markierte – hat markiert|V|отмечать|kennzeichnen|Markieren Sie die richtige Lösung.|B1|Prüfung
-Lösung (Aufgabe)|die|Lösungen|R|ответ, решение (задания)|richtige Antwort|Vergleichen Sie Ihre Lösung.|B1|Prüfung
+Lösung (Aufgabe)|die|Lösungen|N|ответ, решение (задания)|richtige Antwort|Vergleichen Sie Ihre Lösung.|B1|Prüfung
 Überschrift|die|Überschriften|N|заголовок|Titel eines Textes|Lesen Sie zuerst die Überschrift.|B1|Prüfung
 Anzeige|die|Anzeigen|N|объявление|kurzer Text in der Zeitung oder im Internet|Ich habe eine Anzeige gelesen.|B1|Prüfung
 Aussage|die|Aussagen|N|высказывание, утверждение|was jemand sagt|Welche Aussage ist richtig?|B1|Prüfung

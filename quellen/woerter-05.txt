@@ -56,7 +56,7 @@ Anleitung|die|Anleitungen|N|инструкция|Text, der erklärt, wie etwas f
 Internetanschluss|der|Internetanschlüsse|N|подключение к интернету|Verbindung zum Internet in der Wohnung|Der Internetanschluss funktioniert seit gestern nicht.|B1|Technik
 WLAN|das|(kein Plural)|N|Wi-Fi|Internet ohne Kabel|Wie ist das WLAN-Passwort?|B1|Technik
 App|die|Apps|N|приложение|Programm auf dem Handy|Ich lerne mit einer App Deutsch.|B1|Technik
-Nachricht (Handy)|die|Nachrichten|R|сообщение (в телефоне)|Text auf dem Handy|Schreib mir eine Nachricht!|B1|Technik
+Nachricht (Handy)|die|Nachrichten|N|сообщение (в телефоне)|Text auf dem Handy|Schreib mir eine Nachricht!|B1|Technik
 aufladen|-|lädt auf – lud auf – hat aufgeladen|V|заряжать|Strom in den Akku bringen|Ich muss mein Handy aufladen.|B1|Technik
 einschalten|-|schaltet ein – schaltete ein – hat eingeschaltet|V|включать|anmachen|Schalten Sie bitte den Computer ein.|B1|Technik
 ausschalten|-|schaltet aus – schaltete aus – hat ausgeschaltet|V|выключать|ausmachen|Bitte schalten Sie die Handys aus.|B1|Technik

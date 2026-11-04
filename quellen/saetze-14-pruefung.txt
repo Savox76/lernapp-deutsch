@@ -27,7 +27,7 @@ Ich *möchte* über das Thema „Gesund leben“ sprechen.|Я хочу расс�
 Zuerst *erzähle* ich von meinen eigenen Erfahrungen.|Сначала я расскажу о своём опыте.|B1|zuerst → Verb sofort danach.|Prüfung
 Danach *spreche* ich über die Situation in meinem Heimatland.|Потом я расскажу о ситуации в моей стране.|B1|danach → Verb sofort danach.|Prüfung
 Vielen Dank für Ihre Aufmerksamkeit.|Спасибо за внимание.|B1|Feste Wendung am Ende einer Präsentation.|Prüfung
-Können Sie die Frage bitte wiederholen?|Не могли бы вы повторить вопрос?|B1|Höfliche Bitte: Modalverb vorn, Infinitiv am Ende.|Prüfung
+*Können* Sie die Frage bitte wiederholen?|Не могли бы вы повторить вопрос?|B1|Höfliche Bitte: Modalverb vorn, Infinitiv am Ende.|Prüfung
 Entschuldigung, das *habe* ich nicht verstanden.|Извините, я этого не поняла.|B1|das = Objekt auf Position 1 → Verb.|Prüfung
 Ich *schreibe* Ihnen, weil ich eine Frage zu meiner Rechnung *habe*.|Я пишу вам, потому что у меня вопрос по счёту.|B1|Brief-Einstieg mit weil.|Prüfung
 Ich *beziehe* mich auf Ihre Anzeige in der Zeitung.|Я пишу по поводу вашего объявления в газете.|B2|sich beziehen auf + Akkusativ.|Prüfung
@@ -47,5 +47,5 @@ Ich *habe* mich für diese Lösung entschieden, weil sie am günstigsten *ist*.|
 Darüber *haben* wir im Kurs schon oft gesprochen.|Об этом мы уже часто говорили на курсе.|B1|darüber auf Position 1 → Verb.|Prüfung
 Ich *stimme* Ihnen zu, dass Bildung sehr wichtig *ist*.|Я согласна с вами, что образование очень важно.|B1|zustimmen: stimme … zu.|Prüfung
 Das *ist* eine gute Idee, aber vielleicht *ist* es zu teuer.|Это хорошая идея, но, может быть, это слишком дорого.|B1|aber; vielleicht auf Position 1 → Verb.|Prüfung
-Lass uns doch am Sonntag in den Zoo gehen!|Давай в воскресенье пойдём в зоопарк!|B1|Vorschlag mit lass uns + Infinitiv am Ende.|Prüfung
+*Lass* uns doch am Sonntag in den Zoo gehen!|Давай в воскресенье пойдём в зоопарк!|B1|Vorschlag mit lass uns + Infinitiv am Ende.|Prüfung
 Ich *bin* gespannt, ob ich die Prüfung diesmal *schaffe*.|Мне интересно, сдам ли я экзамен на этот раз.|B1|ob → Verb am Ende.|Prüfung

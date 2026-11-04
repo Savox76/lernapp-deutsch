@@ -28,7 +28,9 @@ let W = [], S = [], T = [], MAN = {};
 let WBYID = {}, SBYID = {};
 let P = Object.assign({ w: {}, s: {}, newDay: 0, newCount: 0, fehler: {}, seenVersion: 0, drafts: {}, schreibenDone: {} }, LS.get("dl-prog", {}));
 let ST = Object.assign({ days: {} }, LS.get("dl-stats", {}));
-let SET = Object.assign({ name: "", niveau: "alle", perDay: 30, goal: 60, leicht: false, rate: 0.9, onboarded: false, auto: true, tapSay: true }, LS.get("dl-set", {}));
+let SET = Object.assign({ name: "", niveau: "alle", perDay: 30, goal: 60, leicht: false, rate: 0.9, onboarded: false, auto: false, tapSay: true }, LS.get("dl-set", {}));
+/* einmalig: automatisches Vorlesen ausschalten – man tippt selbst auf 🔊 (Wunsch vom 04.11.2026) */
+if (!SET.mig3) { SET.auto = false; SET.mig3 = true; try { localStorage.setItem("dl-set", JSON.stringify(SET)); } catch (e) {} }
 /* einmalig: neue Wörter pro Tag verdoppeln (Wunsch vom 04.11.2026) */
 if (!SET.mig2) { const old = LS.get("dl-set", {}); if (old.perDay) SET.perDay = Math.min(80, +old.perDay * 2); SET.mig2 = true; try { localStorage.setItem("dl-set", JSON.stringify(SET)); } catch (e) {} }
 function saveP() { LS.set("dl-prog", P); }
@@ -74,12 +76,54 @@ const HAS_TTS = !!(BR && BR.speak) || ("speechSynthesis" in window && typeof Spe
 let deVoice = null;
 function pickVoice() { try { const v = speechSynthesis.getVoices(); deVoice = v.find(x => /^de(-|_)DE/i.test(x.lang)) || v.find(x => /^de/i.test(x.lang)) || null; } catch (e) { } }
 if (!BR && "speechSynthesis" in window) { pickVoice(); try { speechSynthesis.onvoiceschanged = pickVoice; } catch (e) { } }
-function say(text) {
-  if (!text) return; text = text.replace(/\*/g, "");
+/* Vorlesen mit Pause: Text wird in Sätze geteilt. Bei langen Texten erscheint unten eine Leiste
+   (Pause / Weiter / Stopp). Die Android-App kennt nur speak(); Ende und Position werden dort
+   über die Sprechdauer geschätzt, Stopp = leeres speak() (QUEUE_FLUSH) – keine neue APK nötig. */
+const SAY_LONG = 110;
+let SP = null; // { parts, i, paused, timer, start }
+function splitSay(t) { return (t.match(/[^.!?…:;]+[.!?…:;]*["“”»«)]*\s*/g) || [t]).map(x => x.trim()).filter(Boolean); }
+function brDur(s) { return (s.length / (14 * (SET.rate || 0.9))) * 1000 + 350; }
+function rawSpeak(text, onend) {
   try {
     if (BR && BR.speak) { BR.speak(text, SET.rate); return; }
-    speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(text); u.lang = "de-DE"; if (deVoice) u.voice = deVoice; u.rate = SET.rate; speechSynthesis.speak(u);
+    speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(text); u.lang = "de-DE"; if (deVoice) u.voice = deVoice; u.rate = SET.rate;
+    if (onend) u.onend = onend; speechSynthesis.speak(u);
   } catch (e) { }
+}
+function rawStop() { try { if (BR && BR.speak) BR.speak(" ", SET.rate); else speechSynthesis.cancel(); } catch (e) { } }
+function sayStop() { if (SP) { clearTimeout(SP.timer); SP = null; } rawStop(); sayBar(); }
+function sayRun() {
+  if (!SP || SP.paused) return;
+  const my = SP;
+  if (BR && BR.speak) {
+    // Android: Rest am Stück sprechen (klingt natürlich), Position über die Zeit mitzählen
+    const rest = my.parts.slice(my.i); rawSpeak(rest.join(" "));
+    const step = () => { if (SP !== my || my.paused) return; my.i++; if (my.i >= my.parts.length) { SP = null; sayBar(); return; } my.timer = setTimeout(step, brDur(my.parts[my.i])); };
+    my.timer = setTimeout(step, brDur(my.parts[my.i]));
+  } else {
+    rawSpeak(my.parts[my.i], () => { if (SP !== my || my.paused) return; my.i++; if (my.i >= my.parts.length) { SP = null; sayBar(); } else sayRun(); });
+  }
+  sayBar();
+}
+function sayPause() { if (!SP || SP.paused) return; SP.paused = true; clearTimeout(SP.timer); rawStop(); sayBar(); }
+function sayResume() { if (!SP || !SP.paused) return; SP.paused = false; sayRun(); }
+function sayBar() {
+  let bar = document.getElementById("sayBar");
+  if (!SP || !SP.long) { if (bar) bar.remove(); return; }
+  if (!bar) { bar = document.createElement("div"); bar.id = "sayBar"; bar.className = "saybar card"; bar.setAttribute("data-nolookup", ""); document.body.appendChild(bar); }
+  bar.innerHTML = `<span class="sb-info">🔊 Satz ${Math.min(SP.i + 1, SP.parts.length)} von ${SP.parts.length}</span>
+    ${SP.paused ? `<button class="btn primary" data-sb="go">▶ Weiter</button>` : `<button class="btn" data-sb="pause">⏸ Pause</button>`}
+    <button class="btn" data-sb="stop">⏹ Stopp</button>`;
+}
+document.addEventListener("click", e => {
+  const b = e.target.closest("[data-sb]"); if (!b) return; e.stopPropagation();
+  const a = b.dataset.sb; if (a === "pause") sayPause(); else if (a === "go") sayResume(); else sayStop();
+}, true);
+function say(text) {
+  if (!text) return; text = String(text).replace(/\*/g, "").trim(); if (!text) return;
+  if (SP) { clearTimeout(SP.timer); SP = null; }
+  SP = { parts: splitSay(text), i: 0, paused: false, timer: 0, long: text.length > SAY_LONG };
+  sayRun();
 }
 function sayBtn(text, label) { return HAS_TTS ? `<button class="say" data-say="${esc(text)}" aria-label="${esc(label || "Vorlesen")}">🔊</button>` : ""; }
 document.addEventListener("click", e => { const b = e.target.closest("[data-say]"); if (b) { e.stopPropagation(); say(b.dataset.say); } }, true);
@@ -703,7 +747,7 @@ const PLAN = {
 const app = $("#app");
 let view = "home", viewArg = null;
 const PARENT = { kurs: "home", pr: "pruefung", analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "schreiben", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr" };
-function go(v, arg) { view = v; viewArg = arg; render(); window.scrollTo(0, 0); }
+function go(v, arg) { if (SP) sayStop(); view = v; viewArg = arg; render(); window.scrollTo(0, 0); }
 window.appBack = function () { if (PARENT[view]) { go(PARENT[view]); return true; } if (view !== "home") { go("home"); return true; } return false; };
 document.querySelectorAll("#tabs button").forEach(b => b.onclick = () => go(b.dataset.go));
 function head(title, back) { return `<div class="top">${back ? `<button class="back" id="backBtn">${esc(back)}</button>` : ""}</div><h1>${title}</h1>`; }
@@ -1470,7 +1514,7 @@ VIEWS.einstellungen = function () {
       <label>Tagesziel (Aufgaben) <select id="sGoal"><option>40</option><option>60</option><option>80</option><option>100</option><option>150</option></select></label>
       <label>Vorlese-Tempo <select id="sRate"><option value="0.7">langsam</option><option value="0.9">normal</option><option value="1">schnell</option></select></label>
       <label class="check"><input type="checkbox" id="sLeicht"> Satzbau leichter: erstes Wort ist schon gesetzt</label>
-      <label class="check"><input type="checkbox" id="sAuto"> Wörter und Sätze automatisch vorlesen</label>
+      <label class="check"><input type="checkbox" id="sAuto"> Bei neuer Aufgabe automatisch vorlesen <small class="hint">(aus: nur wenn man auf 🔊 tippt)</small></label>
       <label class="check"><input type="checkbox" id="sTap"> Wörter beim Antippen vorlesen</label>
       <button class="btn primary" id="sSave">Speichern</button>
       ${HAS_TTS ? `<button class="btn small" id="sTest">🔊 Vorlesen testen</button>` : `<p class="hint small">Vorlesen ist auf diesem Gerät nicht verfügbar.</p>`}

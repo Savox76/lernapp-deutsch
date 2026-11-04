@@ -11,7 +11,7 @@ Ich *habe* mich bei drei Firmen beworben.|Я подала заявления в 
 Leider *habe* ich bisher nur Absagen bekommen.|К сожалению, пока я получала только отказы.|B1|leider → Verb.|Arbeit
 Morgen *habe* ich ein Vorstellungsgespräch bei einer Spedition.|Завтра у меня собеседование в транспортной компании.|B1|Zeit → Verb → Subjekt.|Arbeit
 Ich *bin* sehr nervös, weil das Gespräch so wichtig *ist*.|Я очень нервничаю, потому что разговор так важен.|B1|weil → Verb am Ende.|Arbeit
-Erzählen Sie bitte etwas über sich.|Расскажите, пожалуйста, немного о себе.|B1|Imperativ mit Sie.|Arbeit
+*Erzählen* Sie bitte etwas über sich.|Расскажите, пожалуйста, немного о себе.|B1|Imperativ mit Sie.|Arbeit
 Warum *möchten* Sie bei uns arbeiten?|Почему вы хотите работать у нас?|B1|W-Frage mit Modalverb.|Arbeit
 Ich *möchte* bei Ihnen arbeiten, weil mir der Kontakt mit Menschen gefällt.|Я хочу работать у вас, потому что мне нравится общение с людьми.|B1|weil → gefällt am Ende.|Arbeit
 In meiner alten Firma *war* ich für die Bestellungen verantwortlich.|В старой фирме я отвечала за заказы.|B1|verantwortlich für + Akkusativ.|Arbeit
@@ -31,7 +31,7 @@ In der Pause *trinke* ich mit meinen Kollegen Kaffee.|В перерыв я пь�
 Die Besprechung *ist* auf Donnerstag verschoben worden.|Совещание перенесли на четверг.|B2|Passiv Perfekt: ist … verschoben worden.|Arbeit
 Könnten Sie mir zeigen, wie die Kasse *funktioniert*?|Не могли бы вы показать мне, как работает касса?|B1|wie → Verb am Ende.|Arbeit
 Ich *habe* nicht verstanden, was ich machen *soll*.|Я не поняла, что мне нужно делать.|B1|was + soll am Ende.|Arbeit
-Darf ich morgen eine Stunde früher gehen?|Можно мне завтра уйти на час раньше?|B1|Ja/Nein-Frage mit Modalverb.|Arbeit
+*Darf* ich morgen eine Stunde früher gehen?|Можно мне завтра уйти на час раньше?|B1|Ja/Nein-Frage mit Modalverb.|Arbeit
 Ich *muss* meinen Sohn vom Arzt abholen.|Мне нужно забрать сына от врача.|B1|abholen am Ende.|Arbeit
 Mein Kollege *vertritt* mich, wenn ich im Urlaub *bin*.|Коллега заменяет меня, когда я в отпуске.|B1|wenn → Verb am Ende.|Arbeit
 Ich *möchte* mich beruflich weiterbilden.|Я хочу повысить свою квалификацию.|B2|sich weiterbilden am Ende.|Arbeit
@@ -54,6 +54,6 @@ Die Kündigungsfrist *beträgt* vier Wochen.|Срок предупреждени
 Bei der Arbeitsagentur *habe* ich mich arbeitslos gemeldet.|Я встала на учёт как безработная в агентстве по трудоустройству.|B2|sich arbeitslos melden.|Arbeit
 Mein Berater *hat* mir einige Stellen vorgeschlagen.|Мой консультант предложил мне несколько вакансий.|B1|vorschlagen: vorgeschlagen.|Arbeit
 Ich *arbeite* lieber im Team als allein.|Я предпочитаю работать в команде, а не одна.|B1|lieber … als.|Arbeit
-Kannst du am Samstag meine Schicht übernehmen?|Можешь взять мою смену в субботу?|B1|Modalverb-Frage, übernehmen am Ende.|Arbeit
+*Kannst* du am Samstag meine Schicht übernehmen?|Можешь взять мою смену в субботу?|B1|Modalverb-Frage, übernehmen am Ende.|Arbeit
 Ich *muss* noch zwei E-Mails beantworten, bevor ich nach Hause *gehe*.|Мне нужно ответить ещё на два письма, прежде чем пойти домой.|B1|bevor → Verb am Ende.|Arbeit
 Der Computer *ist* abgestürzt, deshalb *konnte* ich nicht weiterarbeiten.|Компьютер завис, поэтому я не могла продолжить работу.|B1|deshalb → Modalverb sofort danach.|Arbeit

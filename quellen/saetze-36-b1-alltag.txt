@@ -6,18 +6,18 @@ Ich rufe den Hausmeister an, weil die Heizung schon wieder kalt *ist*.|Я зво
 Wenn die Waschmaschine fertig ist, *hänge* ich die Wäsche auf.|Когда стирка закончится, я повешу бельё.|B1|wenn-Satz zuerst → dann sofort das Verb.|Haushalt
 Könnten Sie mir sagen, wo ich mich ummelden *kann*?|Не могли бы вы сказать, где я могу перерегистрироваться?|B1|Indirekte Frage: Modalverb ganz am Ende.|Behörden
 Wir suchen eine Wohnung, die nicht mehr als 700 Euro warm *kostet*.|Мы ищем квартиру не дороже 700 евро с коммунальными.|B1|Relativsatz: Verb am Ende.|Wohnen
-Ich habe vergessen, den Müll rauszubringen.|Я забыла вынести мусор.|B1|zu-Infinitiv: trennbares Verb rauszubringen.|Haushalt
+Ich *habe* vergessen, den Müll rauszubringen.|Я забыла вынести мусор.|B1|zu-Infinitiv: trennbares Verb rauszubringen.|Haushalt
 Seit wir in Dresden wohnen, *fahren* wir viel Fahrrad.|С тех пор как мы живём в Дрездене, мы много ездим на велосипеде.|B1|Nebensatz zuerst → dann sofort das Verb.|Verkehr
-Der Vermieter hat versprochen, das Fenster nächste Woche zu reparieren.|Арендодатель обещал отремонтировать окно на следующей неделе.|B1|zu-Infinitiv am Ende.|Wohnen
+Der Vermieter *hat* versprochen, das Fenster nächste Woche zu reparieren.|Арендодатель обещал отремонтировать окно на следующей неделе.|B1|zu-Infinitiv am Ende.|Wohnen
 Im Supermarkt *gibt* es diese Woche Kaffee im Angebot.|В супермаркете на этой неделе кофе по акции.|B1|Ort auf Position 1 → Verb → es.|Einkaufen
 Ich *würde* gern die Jacke in einer anderen Farbe anprobieren.|Я бы хотела примерить куртку другого цвета.|B1|Konjunktiv II: würde … anprobieren.|Einkaufen
-Haben Sie die Hose auch eine Nummer größer?|У вас есть эти брюки на размер больше?|B1|Ja/Nein-Frage: Verb auf Position 1.|Einkaufen
+*Haben* Sie die Hose auch eine Nummer größer?|У вас есть эти брюки на размер больше?|B1|Ja/Nein-Frage: Verb auf Position 1.|Einkaufen
 Wenn die Ware defekt ist, *bekommen* Sie Ihr Geld zurück.|Если товар неисправен, вы получите деньги обратно.|B1|wenn-Satz zuerst → dann sofort das Verb.|Einkaufen
 Den Kassenbon *sollten* Sie unbedingt aufheben.|Чек вам обязательно стоит сохранить.|B1|Objekt auf Position 1 → Verb → Subjekt.|Einkaufen
 Ich kaufe lieber auf dem Markt ein, weil das Gemüse dort frischer *ist*.|Я лучше покупаю на рынке, потому что овощи там свежее.|B1|weil: Verb am Ende.|Einkaufen
-Der Arzt hat mir geraten, weniger Salz zu essen.|Врач посоветовал мне есть меньше соли.|B1|zu-Infinitiv am Ende.|Gesundheit
+Der Arzt *hat* mir geraten, weniger Salz zu essen.|Врач посоветовал мне есть меньше соли.|B1|zu-Infinitiv am Ende.|Gesundheit
 Seit ich regelmäßig schwimme, *habe* ich keine Rückenschmerzen mehr.|С тех пор как я регулярно плаваю, у меня больше не болит спина.|B1|Nebensatz zuerst → dann sofort das Verb.|Gesundheit
-Bitte nehmen Sie die Tabletten nach dem Essen ein.|Пожалуйста, принимайте таблетки после еды.|B1|Imperativ: einnehmen → nehmen … ein.|Gesundheit
+Bitte *nehmen* Sie die Tabletten nach dem Essen ein.|Пожалуйста, принимайте таблетки после еды.|B1|Imperativ: einnehmen → nehmen … ein.|Gesundheit
 Ich *bin* seit Montag krankgeschrieben.|Я на больничном с понедельника.|B1|Hauptsatz: Verb auf Platz 2.|Gesundheit
 Ohne Überweisung *kann* ich nicht zum Facharzt gehen.|Без направления я не могу пойти к специалисту.|B1|Angabe auf Position 1 → Verb → Subjekt.|Gesundheit
 Die Ärztin hat gefragt, ob ich Allergien *habe*.|Врач спросила, есть ли у меня аллергия.|B1|ob: Verb am Ende.|Gesundheit
@@ -29,13 +29,13 @@ Am Wochenende *besuchen* uns meine Schwiegereltern.|На выходных к н�
 Die Kinder dürfen erst fernsehen, wenn sie die Hausaufgaben gemacht *haben*.|Дети могут смотреть телевизор только после того, как сделают уроки.|B1|wenn + Perfekt: haben am Ende.|Familie
 Ich bringe meinen Sohn zur Kita, bevor ich zur Arbeit *fahre*.|Я отвожу сына в садик, прежде чем ехать на работу.|B1|bevor: Verb am Ende.|Familie
 Mein Mann kümmert sich um die Kinder, während ich *arbeite*.|Мой муж занимается детьми, пока я работаю.|B1|während: Verb am Ende.|Familie
-Es ist schwierig, Familie und Beruf zu verbinden.|Трудно совмещать семью и работу.|B1|zu-Infinitiv am Ende.|Familie
+Es *ist* schwierig, Familie und Beruf zu verbinden.|Трудно совмещать семью и работу.|B1|zu-Infinitiv am Ende.|Familie
 Meine Eltern, die in Kiew *wohnen*, besuchen uns im Sommer.|Мои родители, которые живут в Киеве, навестят нас летом.|B1|Relativsatz in der Mitte.|Familie
 Wenn meine Mutter hier wäre, *könnte* sie auf die Kinder aufpassen.|Если бы мама была здесь, она могла бы присматривать за детьми.|B1|Konjunktiv II: könnte.|Familie
 Zum Geburtstag *haben* wir unserer Tochter ein Fahrrad geschenkt.|На день рождения мы подарили дочери велосипед.|B1|Angabe auf Position 1 → haben → Subjekt, Partizip am Ende.|Familie
 Der Antrag *muss* bis Ende des Monats eingereicht werden.|Заявление нужно подать до конца месяца.|B1|Passiv mit Modalverb.|Behörden
 Ich verstehe nicht, warum mein Antrag abgelehnt *wurde*.|Я не понимаю, почему моё заявление отклонили.|B1|Indirekte Frage + Passiv: wurde ganz am Ende.|Behörden
-Bitte bringen Sie alle Unterlagen im Original mit.|Пожалуйста, принесите все документы в оригинале.|B1|Imperativ mit Sie: mitbringen → bringen … mit.|Behörden
+Bitte *bringen* Sie alle Unterlagen im Original mit.|Пожалуйста, принесите все документы в оригинале.|B1|Imperativ mit Sie: mitbringen → bringen … mit.|Behörden
 Für das Kindergeld *braucht* man die Steuer-ID des Kindes.|Для пособия на ребёнка нужен налоговый номер ребёнка.|B1|Angabe auf Position 1 → Verb → Subjekt.|Behörden
 Nachdem ich den Brief gelesen hatte, *rief* ich sofort beim Amt an.|Прочитав письмо, я сразу позвонила в ведомство.|B1|nachdem + Plusquamperfekt → dann sofort das Verb.|Behörden
 Ich *möchte* mich für den Integrationskurs anmelden.|Я хочу записаться на интеграционный курс.|B1|Modalverb auf Platz 2, Infinitiv am Ende.|Bildung
@@ -50,13 +50,13 @@ Obwohl es geregnet hat, *sind* wir mit dem Fahrrad gefahren.|Хотя шёл д�
 Statt mit dem Auto zu fahren, *nehme* ich lieber die Bahn.|Вместо того чтобы ехать на машине, я лучше сяду на поезд.|B1|statt … zu zuerst → dann sofort das Verb.|Verkehr
 Am Samstag *treffe* ich mich mit Freundinnen zum Frühstück.|В субботу я встречаюсь с подругами за завтраком.|B1|Zeit auf Position 1 → Verb → Subjekt.|Freizeit
 Ich interessiere mich für Geschichte, deshalb *gehe* ich gern ins Museum.|Я интересуюсь историей, поэтому люблю ходить в музей.|B1|deshalb + Verb + Subjekt.|Freizeit
-Hast du Lust, am Sonntag mit uns wandern zu gehen?|Хочешь в воскресенье пойти с нами в поход?|B1|zu-Infinitiv am Ende.|Freizeit
+*Hast* du Lust, am Sonntag mit uns wandern zu gehen?|Хочешь в воскресенье пойти с нами в поход?|B1|zu-Infinitiv am Ende.|Freizeit
 Der Film, den wir gestern gesehen *haben*, war sehr spannend.|Фильм, который мы вчера смотрели, был очень захватывающим.|B1|Relativsatz Akkusativ: den.|Freizeit
 Wenn ich mehr Zeit hätte, *würde* ich Klavier lernen.|Если бы у меня было больше времени, я бы научилась играть на пианино.|B1|Konjunktiv II: würde.|Freizeit
 Im Urlaub *haben* wir eine Woche am Meer verbracht.|В отпуске мы провели неделю на море.|B1|Angabe auf Position 1 → haben → Subjekt, Partizip am Ende.|Reisen
 Bevor wir in den Urlaub fahren, *bringen* wir den Hund zu meiner Schwester.|Перед отпуском мы отвозим собаку к сестре.|B1|bevor-Satz zuerst → dann sofort das Verb.|Reisen
 Das Hotel, in dem wir *wohnten*, lag direkt am Strand.|Отель, в котором мы жили, был прямо у пляжа.|B1|Relativsatz mit Präposition: in dem.|Reisen
-Wir haben uns entschieden, dieses Jahr zu Hause zu bleiben.|Мы решили в этом году остаться дома.|B1|zu-Infinitiv am Ende.|Reisen
+Wir *haben* uns entschieden, dieses Jahr zu Hause zu bleiben.|Мы решили в этом году остаться дома.|B1|zu-Infinitiv am Ende.|Reisen
 Je früher man bucht, desto günstiger *ist* der Flug.|Чем раньше бронируешь, тем дешевле перелёт.|B1|je … desto: nach desto sofort das Verb.|Reisen
 Ich lerne Deutsch, damit ich mich mit meinen Nachbarn unterhalten *kann*.|Я учу немецкий, чтобы разговаривать с соседями.|B1|damit: Modalverb ganz am Ende.|Bildung
 Es *fällt* mir schwer, schnelle Durchsagen zu verstehen.|Мне трудно понимать быстрые объявления.|B1|Hauptsatz + zu-Infinitiv.|Bildung

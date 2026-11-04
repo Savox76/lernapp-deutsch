@@ -13,7 +13,7 @@ Ich *stelle* die Waschmaschine in den Keller.|Я ставлю стиральну
 Das Bild *hängt* über dem Sofa.|Картина висит над диваном.|B1|hängen + über + Dativ (wo?).|Wohnen
 Wir *hängen* die Lampe über den Tisch.|Мы вешаем лампу над столом.|B1|hängen + über + Akkusativ (wohin?).|Wohnen
 Der Schlüssel *liegt* auf dem Tisch im Flur.|Ключ лежит на столе в прихожей.|B1|liegen + auf + Dativ.|Wohnen
-Leg den Schlüssel bitte in die Schublade.|Положи, пожалуйста, ключ в ящик.|B1|legen + in + Akkusativ (wohin?).|Wohnen
+*Leg* den Schlüssel bitte in die Schublade.|Положи, пожалуйста, ключ в ящик.|B1|legen + in + Akkusativ (wohin?).|Wohnen
 Nach dem Einzug *müssen* Sie sich beim Bürgeramt anmelden.|После въезда вам нужно зарегистрироваться в бюро обслуживания граждан.|B1|nach + Dativ auf Position 1.|Behörden
 Ich *habe* den Mietvertrag gestern unterschrieben.|Я вчера подписала договор аренды.|B1|Perfekt: habe … unterschrieben.|Wohnen
 Wir *haben* die Kaution noch nicht zurückbekommen.|Нам ещё не вернули залог.|B1|nicht vor dem Partizip.|Wohnen
@@ -31,9 +31,9 @@ Ich *kaufe* ein Regal für das Wohnzimmer.|Я покупаю полку для �
 Morgen *bekommen* wir einen neuen Kühlschrank.|Завтра нам привезут новый холодильник.|B1|Zeit → Verb → Subjekt.|Wohnen
 Die Möbel *werden* am Donnerstag geliefert.|Мебель доставят в четверг.|B2|Passiv: werden … geliefert.|Wohnen
 Wie viele Zimmer *hat* die Wohnung?|Сколько комнат в квартире?|B1|W-Frage: Verb auf Position 2.|Wohnen
-Ist die Wohnung noch frei?|Квартира ещё свободна?|B1|Ja/Nein-Frage: Verb vorn.|Wohnen
+*Ist* die Wohnung noch frei?|Квартира ещё свободна?|B1|Ja/Nein-Frage: Verb vorn.|Wohnen
 Ab wann *kann* man einziehen?|С какого времени можно въехать?|B1|W-Frage mit Modalverb.|Wohnen
-Gibt es in der Nähe einen Supermarkt?|Есть ли поблизости супермаркет?|B1|es gibt in der Frage: gibt es.|Wohnen
+*Gibt* es in der Nähe einen Supermarkt?|Есть ли поблизости супермаркет?|B1|es gibt in der Frage: gibt es.|Wohnen
 Ich *wache* jeden Morgen um halb sechs auf.|Я каждое утро просыпаюсь в половине шестого.|B1|aufwachen: wache … auf.|Alltag
 Danach *frühstücke* ich mit meiner Familie.|Потом я завтракаю с семьёй.|B1|danach → Verb sofort.|Alltag
 Um sieben Uhr *bringe* ich die Kinder zur Schule.|В семь часов я отвожу детей в школу.|B1|Uhrzeit auf Position 1.|Alltag
@@ -43,7 +43,7 @@ Am Wochenende *schlafe* ich gern lange.|В выходные я люблю дол
 Ich *gehe* meistens um elf Uhr ins Bett.|Я обычно ложусь спать в одиннадцать.|B1|Zeit vor Ort.|Alltag
 Heute *habe* ich viel zu tun.|Сегодня у меня много дел.|B1|heute auf Position 1.|Alltag
 Ich *muss* noch Brot und Milch kaufen.|Мне ещё нужно купить хлеб и молоко.|B1|Modalverb + Infinitiv am Ende.|Alltag
-Hast du heute schon die Nachrichten gehört?|Ты сегодня уже слышал новости?|B1|Perfekt-Frage: hast vorn, gehört am Ende.|Alltag
+*Hast* du heute schon die Nachrichten gehört?|Ты сегодня уже слышал новости?|B1|Perfekt-Frage: hast vorn, gehört am Ende.|Alltag
 Mein Handy *ist* leer, ich *muss* es aufladen.|У меня сел телефон, мне нужно его зарядить.|B1|Pronomen es direkt nach dem Subjekt.|Alltag
 Ich *habe* meinen Geldbeutel im Bus verloren.|Я потеряла кошелёк в автобусе.|B1|Perfekt: habe … verloren.|Alltag
 Zum Glück *hat* jemand meine Tasche gefunden.|К счастью, кто-то нашёл мою сумку.|B1|zum Glück auf Position 1.|Alltag
@@ -56,7 +56,7 @@ Ich *habe* keine Ahnung, wo sie *ist*.|Понятия не имею, где он
 Es *ist* schon spät, wir sollten nach Hause gehen.|Уже поздно, нам пора домой.|B1|zwei Hauptsätze: Verb jeweils auf Position 2.|Alltag
 Wie spät *ist* es?|Который час?|B1|W-Frage.|Alltag
 Ich *komme* in fünf Minuten.|Я приду через пять минут.|B1|in + Dativ = Zeit in der Zukunft.|Alltag
-Warte bitte auf mich!|Подожди меня, пожалуйста!|B1|warten auf + Akkusativ.|Alltag
+*Warte* bitte auf mich!|Подожди меня, пожалуйста!|B1|warten auf + Akkusativ.|Alltag
 Ich *habe* zwanzig Minuten auf dich gewartet.|Я ждала тебя двадцать минут.|B1|Perfekt: habe … gewartet.|Alltag
 Entschuldige, ich *habe* den Bus verpasst.|Извини, я опоздала на автобус.|B1|Perfekt: habe … verpasst.|Alltag
 Es *ist* nicht so schlimm.|Ничего страшного.|B1|feste Wendung.|Alltag

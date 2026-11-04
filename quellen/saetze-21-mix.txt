@@ -24,7 +24,7 @@ Obwohl ich viel *lerne*, *vergesse* ich die Artikel immer wieder.|Хотя я м
 Wenn ich ein Wort nicht *kenne*, *schaue* ich im Wörterbuch nach.|Если я не знаю слова, я смотрю в словаре.|B1|nachschauen: schaue … nach.|Bildung
 Die Prüfung *besteht* aus vier Teilen: Hören, Lesen, Schreiben und Sprechen.|Экзамен состоит из четырёх частей: аудирование, чтение, письмо и говорение.|B1|bestehen aus + Dativ.|Prüfung
 Für den Teil Schreiben *haben* Sie dreißig Minuten Zeit.|На письменную часть у вас тридцать минут.|B1|für + Akkusativ auf Position 1.|Prüfung
-Lesen Sie zuerst die Aufgabe genau durch.|Сначала внимательно прочитайте задание.|B1|durchlesen: lesen … durch.|Prüfung
+*Lesen* Sie zuerst die Aufgabe genau durch.|Сначала внимательно прочитайте задание.|B1|durchlesen: lesen … durch.|Prüfung
 Am Ende *kontrolliere* ich, ob ich alle Punkte beantwortet *habe*.|В конце я проверяю, ответила ли я на все пункты.|B1|ob + habe am Ende.|Prüfung
 In der mündlichen Prüfung *muss* man ein Bild beschreiben.|На устном экзамене нужно описать картинку.|B1|Modalverb + beschreiben am Ende.|Prüfung
 Danach *plant* man zusammen mit dem Partner eine Aktivität.|Потом вместе с партнёром планируют какое-то дело.|B1|danach → Verb.|Prüfung
@@ -49,7 +49,7 @@ Ich *interessiere* mich für Kochen und Fotografie.|Я интересуюсь к
 Er *ärgert* sich über die hohen Strompreise.|Он злится из-за высоких цен на электричество.|B1|sich ärgern über + Akkusativ.|Geld
 Ich *kümmere* mich um die Getränke für die Party.|Я позабочусь о напитках для вечеринки.|B1|sich kümmern um + Akkusativ.|Feste
 Wir *warten* seit einer Stunde auf den Techniker.|Мы уже час ждём техника.|B1|warten auf + Akkusativ.|Wohnen
-Denk bitte an den Termin beim Zahnarzt!|Не забудь, пожалуйста, о приёме у стоматолога!|B1|denken an + Akkusativ.|Gesundheit
+*Denk* bitte an den Termin beim Zahnarzt!|Не забудь, пожалуйста, о приёме у стоматолога!|B1|denken an + Akkusativ.|Gesundheit
 Sie *hat* sich bei ihrer Kollegin für die Hilfe bedankt.|Она поблагодарила коллегу за помощь.|B1|sich bedanken bei + Dativ / für + Akkusativ.|Arbeit
 Ich *habe* mich an das frühe Aufstehen gewöhnt.|Я привыкла рано вставать.|B1|sich gewöhnen an + Akkusativ.|Alltag
 Er *nimmt* an einem Kurs für Bewerbungstraining teil.|Он участвует в курсе по подготовке к собеседованиям.|B1|teilnehmen an + Dativ.|Arbeit
@@ -57,5 +57,5 @@ Die Kosten *hängen* von der Größe der Wohnung ab.|Расходы завися
 Viele Menschen *leiden* unter dem Lärm in der Stadt.|Многие люди страдают от шума в городе.|B2|leiden unter + Dativ.|Gesellschaft
 Ich *habe* lange über deinen Vorschlag nachgedacht.|Я долго думала над твоим предложением.|B1|nachdenken über + Akkusativ.|Meinung
 Wir *müssen* uns noch für ein Hotel entscheiden.|Нам ещё нужно выбрать отель.|B1|sich entscheiden für + Akkusativ.|Reisen
-Kannst du mir bei den Hausaufgaben helfen?|Можешь помочь мне с домашним заданием?|B1|helfen bei + Dativ.|Bildung
+*Kannst* du mir bei den Hausaufgaben helfen?|Можешь помочь мне с домашним заданием?|B1|helfen bei + Dativ.|Bildung
 Ich *bitte* Sie um einen Rückruf.|Прошу вас перезвонить мне.|B1|bitten um + Akkusativ.|Briefe

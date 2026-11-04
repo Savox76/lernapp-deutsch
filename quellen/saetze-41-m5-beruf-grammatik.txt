@@ -12,10 +12,10 @@ Weißt du, wo die neuen Arbeitsschuhe *liegen*?|Ты знаешь, где леж
 Der Kollege hat mir erklärt, wie die Kasse *funktioniert*.|Коллега объяснил мне, как работает касса.|B1|Indirekte Frage: Verb am Ende.|Handel
 Niemand weiß, warum der Server ausgefallen *ist*.|Никто не знает, почему сервер вышел из строя.|B1|Indirekte Frage + Perfekt: ist ganz am Ende.|Technik
 Können Sie mir sagen, wie lange die Reparatur dauern *wird*?|Можете сказать, сколько продлится ремонт?|B2|Indirekte Frage + Futur: wird ganz am Ende.|Handwerk
-Es ist verboten, im Lager zu rauchen.|На складе курить запрещено.|B1|zu-Infinitiv am Ende.|Logistik
-Vergessen Sie nicht, die Tür beim Gehen abzuschließen.|Не забудьте запереть дверь при уходе.|B1|zu bei trennbaren Verben in der Mitte.|Arbeit
-Ich habe keine Lust, schon wieder Überstunden zu machen.|У меня нет желания снова работать сверхурочно.|B1|zu-Infinitiv am Ende.|Arbeit
-Die Chefin hat mich gebeten, die neue Kollegin einzuarbeiten.|Начальница попросила меня ввести новую коллегу в курс дела.|B2|einarbeiten → einzuarbeiten.|Arbeit
+Es *ist* verboten, im Lager zu rauchen.|На складе курить запрещено.|B1|zu-Infinitiv am Ende.|Logistik
+*Vergessen* Sie nicht, die Tür beim Gehen abzuschließen.|Не забудьте запереть дверь при уходе.|B1|zu bei trennbaren Verben in der Mitte.|Arbeit
+Ich *habe* keine Lust, schon wieder Überstunden zu machen.|У меня нет желания снова работать сверхурочно.|B1|zu-Infinitiv am Ende.|Arbeit
+Die Chefin *hat* mich gebeten, die neue Kollegin einzuarbeiten.|Начальница попросила меня ввести новую коллегу в курс дела.|B2|einarbeiten → einzuarbeiten.|Arbeit
 Um Zeit zu sparen, *bestellen* wir das Material online.|Чтобы сэкономить время, мы заказываем материал онлайн.|B1|um … zu zuerst → dann sofort das Verb.|Arbeit
 Ohne zu fragen, *hat* er meinen Kugelschreiber genommen.|Не спросив, он взял мою ручку.|B2|ohne … zu zuerst → dann sofort das Verb.|Büro
 Statt die Kunden warten zu lassen, *öffnen* wir eine zweite Kasse.|Вместо того чтобы заставлять клиентов ждать, мы открываем вторую кассу.|B2|statt … zu zuerst → dann sofort das Verb.|Handel

@@ -39,7 +39,7 @@ Meine Schwester *hat* mir eine Sprachnachricht geschickt.|Сестра прис�
 Ruf mich an, sobald du zu Hause *bist*.|Позвони мне, как только будешь дома.|B1|sobald: Verb am Ende.|Kommunikation
 Im Tunnel *hatte* ich leider kein Netz.|В туннеле у меня, к сожалению, не было связи.|B1|Ort auf Position 1 → Verb → Subjekt.|Kommunikation
 Ich *habe* mich verwählt, entschuldigen Sie bitte.|Я ошиблась номером, извините.|B1|Perfekt: habe … verwählt.|Kommunikation
-Er hat einfach aufgelegt, ohne sich zu verabschieden.|Он просто положил трубку, не попрощавшись.|B1|ohne … zu: Infinitiv am Ende.|Kommunikation
+Er *hat* einfach aufgelegt, ohne sich zu verabschieden.|Он просто положил трубку, не попрощавшись.|B1|ohne … zu: Infinitiv am Ende.|Kommunikation
 Kannst du mir sagen, wer gerade angerufen *hat*?|Можешь сказать, кто сейчас звонил?|B1|Indirekte Frage + Perfekt: hat ganz am Ende.|Kommunikation
 Ich *würde* dich gern öfter besuchen.|Я бы хотела чаще тебя навещать.|B1|Konjunktiv II: würde … besuchen.|Freizeit
 Es *wäre* schön, wenn wir uns bald wiedersehen.|Было бы хорошо, если бы мы скоро снова увиделись.|B1|Konjunktiv II + wenn.|Freizeit

@@ -45,7 +45,7 @@ Ich *habe* die Wäsche schon aufgehängt.|Я уже повесила бельё.
 Die Glühbirne ist kaputt, deshalb *ist* es dunkel.|Лампочка перегорела, поэтому темно.|A2|deshalb + Verb + Subjekt.|Haushalt
 Ich bügle die Hemden, wenn ich Zeit *habe*.|Я глажу рубашки, когда у меня есть время.|A2|wenn: Verb am Ende.|Haushalt
 Die Post *ist* gegenüber vom Rathaus.|Почта напротив ратуши.|A2|Subjekt – Verb – Rest.|Orte
-Gehen Sie hier geradeaus und dann links.|Идите здесь прямо, а потом налево.|A2|Imperativ mit Sie.|Orte
+*Gehen* Sie hier geradeaus und dann links.|Идите здесь прямо, а потом налево.|A2|Imperativ mit Sie.|Orte
 Die Apotheke *ist* gleich um die Ecke.|Аптека прямо за углом.|A2|Subjekt – Verb – Rest.|Orte
 Wie *komme* ich zum Bahnhof?|Как мне пройти к вокзалу?|A2|W-Frage: Verb auf Position 2.|Orte
 In der Innenstadt *gibt* es viele Cafés.|В центре города много кафе.|A2|Ort auf Position 1 → Verb → es.|Orte

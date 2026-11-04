@@ -1,6 +1,6 @@
 # Satzklammer: Modalverb / Perfekt / trennbare Verben / Futur
 Ich *muss* heute noch zur Post gehen.|Мне сегодня ещё нужно сходить на почту.|B1|Modalverb auf Position 2, Infinitiv am Ende.|Alltag
-Kannst du mir bitte das Salz geben?|Можешь передать мне соль?|B1|Frage mit Modalverb: Infinitiv am Ende.|Ernährung
+*Kannst* du mir bitte das Salz geben?|Можешь передать мне соль?|B1|Frage mit Modalverb: Infinitiv am Ende.|Ernährung
 Wir *wollen* im Sommer nach Italien fahren.|Летом мы хотим поехать в Италию.|B1|wollen auf Position 2, fahren am Ende.|Reisen
 Hier *darf* man nicht parken.|Здесь нельзя парковаться.|B1|Ort zuerst → Modalverb, Subjekt, Infinitiv am Ende.|Verkehr
 Sie *sollen* die Tabletten nach dem Essen nehmen.|Вам нужно принимать таблетки после еды.|B1|sollen auf Position 2, nehmen am Ende.|Gesundheit
@@ -10,7 +10,7 @@ Mein Sohn *will* später Polizist werden.|Мой сын хочет потом с
 Im Krankenhaus *muss* man leise sein.|В больнице нужно соблюдать тишину.|B1|Ort zuerst; sein am Ende.|Gesundheit
 Ich *habe* gestern zwei Stunden für die Prüfung gelernt.|Вчера я два часа готовилась к экзамену.|B1|Perfekt: habe auf Position 2, gelernt am Ende.|Bildung
 Wir *sind* letztes Jahr nach Deutschland gekommen.|Мы приехали в Германию в прошлом году.|B1|Perfekt mit sein bei Bewegung: sind … gekommen.|Alltag
-Hast du schon die Miete bezahlt?|Ты уже заплатил за квартиру?|B1|Perfekt-Frage: hast auf Position 1, bezahlt am Ende.|Wohnen
+*Hast* du schon die Miete bezahlt?|Ты уже заплатил за квартиру?|B1|Perfekt-Frage: hast auf Position 1, bezahlt am Ende.|Wohnen
 Am Wochenende *haben* wir einen Ausflug an den See gemacht.|В выходные мы съездили на озеро.|B1|Zeit zuerst → haben → Subjekt → … → Partizip.|Freizeit
 Der Techniker *hat* die Waschmaschine schon repariert.|Техник уже починил стиральную машину.|B1|Perfekt: hat … repariert.|Wohnen
 Ich *bin* heute Morgen um sechs Uhr aufgestanden.|Сегодня утром я встала в шесть часов.|B1|aufstehen im Perfekt: bin … aufgestanden.|Alltag
@@ -31,11 +31,11 @@ Er *nimmt* seit einem Jahr an einem Deutschkurs teil.|Он уже год ход�
 Ich *werde* nächstes Jahr eine Ausbildung machen.|В следующем году я пойду на профобучение.|B1|Futur: werde auf Position 2, Infinitiv am Ende.|Bildung
 Wir *werden* die Rechnung bis Freitag bezahlen.|Мы оплатим счёт до пятницы.|B1|Futur: werden … bezahlen.|Geld
 Ich *muss* den Termin leider absagen.|Мне, к сожалению, придётся отменить встречу.|B1|Modalverb + trennbares Verb: absagen bleibt am Ende zusammen.|Alltag
-Kannst du mich morgen vom Bahnhof abholen?|Ты можешь забрать меня завтра с вокзала?|B1|Modalverb + trennbares Verb: abholen am Ende.|Verkehr
+*Kannst* du mich morgen vom Bahnhof abholen?|Ты можешь забрать меня завтра с вокзала?|B1|Modalverb + trennbares Verb: abholen am Ende.|Verkehr
 Ich *habe* den Fernseher letzte Woche zurückgeschickt.|Я отправила телевизор обратно на прошлой неделе.|B1|Perfekt von zurückschicken: zurückgeschickt.|Einkaufen
 Sie *hat* das Formular noch nicht ausgefüllt.|Она ещё не заполнила бланк.|B1|nicht steht vor dem Partizip am Ende.|Behörden
 Ich *habe* heute keine Lust, einkaufen zu gehen.|Сегодня у меня нет желания идти за покупками.|B1|Lust haben + zu + Infinitiv am Ende.|Einkaufen
-Vergiss nicht, die Tür abzuschließen!|Не забудь закрыть дверь на ключ!|B1|Trennbares Verb mit zu: abzuschließen.|Wohnen
+*Vergiss* nicht, die Tür abzuschließen!|Не забудь закрыть дверь на ключ!|B1|Trennbares Verb mit zu: abzuschließen.|Wohnen
 Es *ist* schwer, in der Stadt eine günstige Wohnung zu finden.|В городе трудно найти недорогую квартиру.|B1|Es ist schwer, … zu + Infinitiv am Ende.|Wohnen
 Ich *versuche*, jeden Tag zwanzig neue Wörter zu lernen.|Я стараюсь учить каждый день двадцать новых слов.|B1|versuchen + zu + Infinitiv.|Bildung
 Wir *haben* vor, im Herbst zu heiraten.|Мы планируем пожениться осенью.|B1|vorhaben: haben … vor + zu + Infinitiv.|Familie
@@ -45,7 +45,7 @@ Sie *spart* jeden Monat Geld, um ein Auto zu kaufen.|Она каждый мес�
 Ich *habe* nicht genug Zeit gehabt, die Aufgabe zu machen.|У меня не было достаточно времени, чтобы сделать задание.|B1|Perfekt + zu-Infinitiv.|Bildung
 Du *brauchst* morgen nicht so früh zu kommen.|Тебе не нужно приходить завтра так рано.|B2|nicht brauchen + zu = nicht müssen.|Arbeit
 Ich *würde* gern mehr Zeit mit meiner Familie verbringen.|Я бы хотела проводить больше времени с семьёй.|B1|würde auf Position 2, verbringen am Ende.|Familie
-Könnten Sie bitte etwas lauter sprechen?|Не могли бы вы говорить немного громче?|B1|Höfliche Bitte: Könnten … sprechen.|Alltag
+*Könnten* Sie bitte etwas lauter sprechen?|Не могли бы вы говорить немного громче?|B1|Höfliche Bitte: Könnten … sprechen.|Alltag
 An deiner Stelle *würde* ich den Vertrag nicht unterschreiben.|На твоём месте я бы не подписывала договор.|B2|Ratschlag: würde … unterschreiben.|Arbeit
 Du *solltest* mehr Wasser trinken.|Тебе следует пить больше воды.|B1|Rat mit sollte: Infinitiv am Ende.|Gesundheit
 Ich *hätte* gern einen Kaffee mit Milch.|Мне, пожалуйста, кофе с молоком.|B1|Höflich bestellen: hätte gern.|Ernährung

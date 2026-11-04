@@ -15,7 +15,7 @@ Ich *wäre* Ihnen sehr dankbar, wenn Sie mir bald antworten könnten.|Я был�
 Es *wäre* schön, wenn wir den Termin verschieben könnten.|Было бы хорошо, если бы мы могли перенести встречу.|B2|Konjunktiv II: wäre … könnten.|Arbeit
 Ich *würde* gern an der Fortbildung im Oktober teilnehmen.|Я бы хотела участвовать в обучении в октябре.|B2|Konjunktiv II: würde auf Position 2, Infinitiv am Ende.|Arbeit
 An Ihrer Stelle *würde* ich sofort mit dem Chef sprechen.|На вашем месте я бы сразу поговорила с начальником.|B2|Konjunktiv II: Ratschlag mit würde.|Arbeit
-Hätten Sie am Donnerstag um 10 Uhr Zeit?|У вас было бы время в четверг в 10 часов?|B2|Konjunktiv II als höfliche Frage: Hätten auf Position 1.|Arbeit
+*Hätten* Sie am Donnerstag um 10 Uhr Zeit?|У вас было бы время в четверг в 10 часов?|B2|Konjunktiv II als höfliche Frage: Hätten auf Position 1.|Arbeit
 Aufgrund des Streiks *konnte* der Lieferant nicht pünktlich liefern.|Из-за забастовки поставщик не смог доставить вовремя.|B2|aufgrund + Genitiv auf Position 1 → Verb → Subjekt.|Arbeit
 Bezüglich Ihrer Anfrage *teile* ich Ihnen Folgendes mit.|Относительно вашего запроса сообщаю вам следующее.|B2|bezüglich + Genitiv auf Position 1 → Verb → Subjekt. mit ans Ende.|Arbeit
 Trotz der vielen Arbeit *bleibt* die Stimmung im Team gut.|Несмотря на большое количество работы, настроение в команде хорошее.|B2|trotz + Genitiv auf Position 1 → Verb → Subjekt.|Arbeit
@@ -26,7 +26,7 @@ Ich *leite* Ihre E-Mail an die zuständige Kollegin weiter.|Я перешлю в
 Frau Berger *ruft* Sie heute Nachmittag zurück.|Госпожа Бергер перезвонит вам сегодня после обеда.|B1|Trennbares Verb: ruft … zurück.|Arbeit
 Ich *habe* den Auftrag schon an das Lager weitergeleitet.|Я уже переслала заказ на склад.|B1|Perfekt: habe … weitergeleitet.|Arbeit
 Wir *haben* einen neuen Liefertermin vereinbart.|Мы договорились о новом сроке поставки.|B1|Perfekt: haben … vereinbart.|Arbeit
-Können Sie mir sagen, wann die Ware ankommt?|Можете сказать, когда прибудет товар?|B1|Indirekte Frage nach wann: Verb am Ende.|Arbeit
+*Können* Sie mir sagen, wann die Ware ankommt?|Можете сказать, когда прибудет товар?|B1|Indirekte Frage nach wann: Verb am Ende.|Arbeit
 Ich möchte wissen, ob ich meinen Urlaub ins nächste Jahr übertragen *kann*.|Я хотела бы знать, могу ли я перенести отпуск на следующий год.|B2|ob: Modalverb ganz am Ende, nach dem Infinitiv.|Arbeit
 Bitte teilen Sie mir mit, bis wann ich die Unterlagen schicken *soll*.|Пожалуйста, сообщите мне, до какого срока мне прислать документы.|B2|Indirekte Frage: Modalverb ganz am Ende.|Arbeit
 Ich weiß nicht, wer für die Bestellungen zuständig *ist*.|Я не знаю, кто отвечает за заказы.|B1|Indirekte Frage mit wer: Verb am Ende.|Arbeit
@@ -45,9 +45,9 @@ Obwohl ich krank war, *bin* ich zur Arbeit gegangen.|Хотя я была бол
 Ich bleibe heute länger, damit wir den Auftrag rechtzeitig fertig *bekommen*.|Я сегодня останусь дольше, чтобы мы вовремя закончили заказ.|B2|damit: Verb am Ende.|Arbeit
 Wir müssen sparen, sodass einige Projekte verschoben werden *müssen*.|Нам нужно экономить, так что некоторые проекты придётся перенести.|B2|sodass + Passiv mit Modalverb: müssen ganz am Ende.|Arbeit
 Man lernt eine Sprache am besten, indem man jeden Tag *spricht*.|Язык лучше всего учить, говоря каждый день.|B2|indem: Verb am Ende.|Bildung
-Ich habe vergessen, Ihnen die Rechnung zu schicken.|Я забыла отправить вам счёт.|B1|zu-Infinitiv am Ende.|Arbeit
-Es ist wichtig, die Frist einzuhalten.|Важно соблюдать срок.|B2|zu-Infinitiv bei trennbarem Verb: einzuhalten.|Arbeit
-Ich habe vor, nächstes Jahr eine Weiterbildung zu machen.|Я планирую в следующем году пройти обучение.|B1|vorhaben + zu-Infinitiv am Ende.|Bildung
+Ich *habe* vergessen, Ihnen die Rechnung zu schicken.|Я забыла отправить вам счёт.|B1|zu-Infinitiv am Ende.|Arbeit
+Es *ist* wichtig, die Frist einzuhalten.|Важно соблюдать срок.|B2|zu-Infinitiv bei trennbarem Verb: einzuhalten.|Arbeit
+Ich *habe* vor, nächstes Jahr eine Weiterbildung zu machen.|Я планирую в следующем году пройти обучение.|B1|vorhaben + zu-Infinitiv am Ende.|Bildung
 Um die Prüfung zu bestehen, *lerne* ich jeden Tag.|Чтобы сдать экзамен, я учусь каждый день.|B2|um … zu zuerst → danach sofort das Verb.|Bildung
 Statt anzurufen, *schreibe* ich lieber eine E-Mail.|Вместо того чтобы звонить, я лучше напишу письмо.|B2|statt … zu zuerst → danach sofort das Verb.|Arbeit
 Einerseits *spart* man Zeit, andererseits fehlt der Kontakt zu den Kollegen.|С одной стороны, экономишь время, с другой — не хватает контакта с коллегами.|B2|einerseits/andererseits: danach sofort das Verb.|Meinung
@@ -57,7 +57,7 @@ Je mehr ich übe, desto sicherer *werde* ich.|Чем больше я трени�
 Meiner Meinung nach *sollte* jeder Mitarbeiter Weiterbildungen machen dürfen.|По-моему, каждый сотрудник должен иметь возможность учиться.|B2|Meiner Meinung nach auf Position 1 → Verb → Subjekt.|Meinung
 Ich bin der Ansicht, dass Homeoffice die Produktivität *erhöht*.|Я считаю, что удалённая работа повышает производительность.|B2|dass: Verb am Ende.|Meinung
 Ein großer Vorteil *ist*, dass man flexibel arbeiten kann.|Большое преимущество в том, что можно работать гибко.|B2|Hauptsatz: ist auf Position 2.|Meinung
-Da muss ich Ihnen widersprechen.|Тут я вынуждена вам возразить.|B2|da auf Position 1 → muss → Subjekt, Infinitiv am Ende.|Meinung
+Da *muss* ich Ihnen widersprechen.|Тут я вынуждена вам возразить.|B2|da auf Position 1 → muss → Subjekt, Infinitiv am Ende.|Meinung
 Das *sehe* ich anders, weil die Kosten zu hoch sind.|Я вижу это иначе, потому что затраты слишком высоки.|B2|Objekt auf Position 1 → Verb → Subjekt.|Meinung
 Wie *wäre* es, wenn wir die Feier im Pausenraum machen?|Как насчёт того, чтобы провести праздник в комнате отдыха?|B2|Vorschlag mit Konjunktiv II: Wie wäre es, wenn …?|Arbeit
 Was *halten* Sie davon, wenn wir die Aufgaben neu verteilen?|Что вы думаете о том, чтобы распределить задачи заново?|B2|W-Frage: Verb auf Position 2.|Arbeit

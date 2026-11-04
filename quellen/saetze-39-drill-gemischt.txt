@@ -39,7 +39,7 @@ Ich gehe zum Arzt, weil ich krank *bin*.|Я иду к врачу, потому �
 Mein Mann *arbeitet* und ich kümmere mich um die Kinder.|Мой муж работает, а я занимаюсь детьми.|A2|und verbindet zwei Hauptsätze: Verb jeweils auf Platz 2.|Familie
 Ich *möchte* nächstes Jahr eine Ausbildung machen.|Я хочу в следующем году пройти обучение.|A2|Modalverb auf Platz 2, Infinitiv ganz am Ende.|Bildung
 Nächstes Jahr *möchte* ich eine Ausbildung machen.|В следующем году я хочу пройти обучение.|A2|Zeit vorne → Modalverb → Subjekt → … Infinitiv am Ende.|Bildung
-Ich habe keine Zeit, das Formular auszufüllen.|У меня нет времени заполнить бланк.|B1|zu bei trennbaren Verben in der Mitte: auszufüllen.|Behörden
+Ich *habe* keine Zeit, das Formular auszufüllen.|У меня нет времени заполнить бланк.|B1|zu bei trennbaren Verben in der Mitte: auszufüllen.|Behörden
 Bitte *füllen* Sie das Formular aus.|Пожалуйста, заполните бланк.|A2|Imperativ: füllen auf Position 1, aus am Ende.|Behörden
 Das Formular *muss* ausgefüllt werden.|Бланк нужно заполнить.|B1|Passiv mit Modalverb: muss … ausgefüllt werden.|Behörden
 Das Formular *wurde* gestern ausgefüllt.|Бланк заполнили вчера.|B1|Passiv Präteritum: wurde … ausgefüllt.|Behörden

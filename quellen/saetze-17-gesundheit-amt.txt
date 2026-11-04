@@ -1,6 +1,6 @@
 # Gesundheit, Arzt, Behörden, Bank
 Ich *möchte* einen Termin beim Hausarzt machen.|Я хотела бы записаться к семейному врачу.|B1|Modalverb + machen am Ende.|Gesundheit
-Haben Sie diese Woche noch einen Termin frei?|У вас есть ещё свободное время на этой неделе?|B1|Ja/Nein-Frage.|Gesundheit
+*Haben* Sie diese Woche noch einen Termin frei?|У вас есть ещё свободное время на этой неделе?|B1|Ja/Nein-Frage.|Gesundheit
 Was *fehlt* Ihnen?|На что жалуетесь?|B1|fehlen + Dativ.|Gesundheit
 Ich *habe* seit drei Tagen Halsschmerzen und Fieber.|У меня три дня болит горло и температура.|B1|seit + Dativ.|Gesundheit
 Mir *ist* schlecht und ich *habe* Bauchschmerzen.|Меня тошнит, и у меня болит живот.|B1|Mir ist schlecht = Dativ.|Gesundheit
@@ -8,7 +8,7 @@ Mein Kind *hustet* die ganze Nacht.|Мой ребёнок кашляет всю 
 Der Arzt *hat* mich gründlich untersucht.|Врач тщательно меня осмотрел.|B1|Perfekt: hat … untersucht.|Gesundheit
 Sie *müssen* sich ein paar Tage ausruhen.|Вам нужно несколько дней отдохнуть.|B1|Modalverb + reflexives Verb am Ende.|Gesundheit
 Ich *schreibe* Sie bis Freitag krank.|Я выпишу вам больничный до пятницы.|B1|krankschreiben: schreibe … krank.|Gesundheit
-Nehmen Sie dreimal täglich eine Tablette.|Принимайте по таблетке три раза в день.|B1|Imperativ mit Sie.|Gesundheit
+*Nehmen* Sie dreimal täglich eine Tablette.|Принимайте по таблетке три раза в день.|B1|Imperativ mit Sie.|Gesundheit
 Das Medikament *bekommen* Sie nur mit Rezept.|Это лекарство можно получить только по рецепту.|B1|Objekt auf Position 1.|Gesundheit
 Gegen Kopfschmerzen *hilft* mir ein Spaziergang an der frischen Luft.|От головной боли мне помогает прогулка на свежем воздухе.|B1|gegen + Akkusativ auf Position 1.|Gesundheit
 Der Hausarzt *hat* mich zum Orthopäden überwiesen.|Семейный врач направил меня к ортопеду.|B1|überweisen = zu einem anderen Arzt schicken.|Gesundheit
@@ -18,7 +18,7 @@ Ich *habe* mir beim Joggen den Fuß verletzt.|Я повредила ногу в�
 Das Bein *muss* geröntgt werden.|Ногу нужно сделать рентген.|B2|Passiv mit Modalverb.|Gesundheit
 Ich *bin* allergisch gegen Penicillin.|У меня аллергия на пенициллин.|B1|allergisch gegen + Akkusativ.|Gesundheit
 Die Krankenkasse *übernimmt* die Kosten für die Behandlung.|Больничная касса покрывает расходы на лечение.|B2|übernehmen = bezahlen.|Gesundheit
-Vergessen Sie nicht, Ihre Versichertenkarte mitzubringen.|Не забудьте взять с собой страховую карточку.|B1|mitbringen mit zu: mitzubringen.|Gesundheit
+*Vergessen* Sie nicht, Ihre Versichertenkarte mitzubringen.|Не забудьте взять с собой страховую карточку.|B1|mitbringen mit zu: mitzubringen.|Gesundheit
 Meine Mutter *muss* nächste Woche operiert werden.|Мою маму на следующей неделе должны прооперировать.|B2|Passiv mit Modalverb.|Gesundheit
 Ich *besuche* sie jeden Tag im Krankenhaus.|Я каждый день навещаю её в больнице.|B1|Verb auf Position 2.|Gesundheit
 Gute Besserung!|Выздоравливай!|B1|feste Wendung für kranke Personen.|Gesundheit
@@ -28,7 +28,7 @@ Ich *gehe* einmal im Jahr zur Vorsorgeuntersuchung.|Раз в год я прох
 Beim Bürgeramt *muss* man vorher online einen Termin buchen.|В бюро обслуживания граждан нужно заранее записаться онлайн.|B1|vorher → online → Termin.|Behörden
 Ich *möchte* meinen Wohnsitz ummelden.|Я хочу перерегистрировать место жительства.|B1|ummelden am Ende.|Behörden
 Welche Unterlagen *muss* ich mitbringen?|Какие документы мне нужно взять с собой?|B1|welche + Nomen = Position 1.|Behörden
-Bringen Sie bitte Ihren Pass und die Wohnungsgeberbestätigung mit.|Принесите, пожалуйста, паспорт и подтверждение от арендодателя.|B1|mitbringen: bringen … mit.|Behörden
+*Bringen* Sie bitte Ihren Pass und die Wohnungsgeberbestätigung mit.|Принесите, пожалуйста, паспорт и подтверждение от арендодателя.|B1|mitbringen: bringen … mit.|Behörden
 Das Formular *können* Sie auch im Internet herunterladen.|Бланк также можно скачать в интернете.|B1|Objekt auf Position 1 → Modalverb.|Behörden
 Ich *habe* das Formular ausgefüllt, aber ich *verstehe* einen Punkt nicht.|Я заполнила бланк, но один пункт не понимаю.|B1|aber → normale Wortstellung.|Behörden
 Könnten Sie mir bitte erklären, was hier gemeint *ist*?|Не могли бы вы объяснить, что здесь имеется в виду?|B1|was → ist am Ende.|Behörden
@@ -42,13 +42,13 @@ Ich *muss* rechtzeitig einen Termin bei der Ausländerbehörde machen.|Мне н
 Für die Einbürgerung *braucht* man ein B1-Zertifikat.|Для получения гражданства нужен сертификат B1.|B2|für + Akkusativ auf Position 1.|Behörden
 Wir *haben* Kindergeld für unsere Tochter beantragt.|Мы подали заявление на детское пособие для дочери.|B1|Perfekt: haben … beantragt.|Behörden
 Ich *würde* gern ein Girokonto eröffnen.|Я хотела бы открыть текущий счёт.|B1|würde gern + Infinitiv.|Geld
-Brauchen Sie dafür meinen Ausweis?|Вам для этого нужен мой паспорт?|B1|Ja/Nein-Frage.|Geld
+*Brauchen* Sie dafür meinen Ausweis?|Вам для этого нужен мой паспорт?|B1|Ja/Nein-Frage.|Geld
 Ich *möchte* 200 Euro auf dieses Konto überweisen.|Я хочу перевести 200 евро на этот счёт.|B1|Modalverb + überweisen am Ende.|Geld
 Meine Bankkarte *ist* gesperrt worden.|Мою банковскую карту заблокировали.|B2|Passiv Perfekt.|Geld
 Wenn Sie Ihre Karte *verlieren*, *müssen* Sie sie sofort sperren lassen.|Если вы потеряете карту, её нужно сразу заблокировать.|B2|wenn-Satz zuerst; lassen am Ende.|Geld
 Die Miete *wird* jeden Monat automatisch abgebucht.|Аренда автоматически списывается каждый месяц.|B2|Passiv; abbuchen.|Geld
 Ich *habe* eine Mahnung bekommen, obwohl ich die Rechnung bezahlt *habe*.|Мне пришло напоминание о неоплате, хотя я оплатила счёт.|B1|obwohl → habe am Ende.|Geld
-Können Sie die Rechnung bitte noch einmal prüfen?|Не могли бы вы ещё раз проверить счёт?|B1|Höfliche Bitte.|Geld
+*Können* Sie die Rechnung bitte noch einmal prüfen?|Не могли бы вы ещё раз проверить счёт?|B1|Höfliche Bitte.|Geld
 Ich *möchte* meinen Handyvertrag kündigen.|Я хочу расторгнуть договор на мобильную связь.|B1|kündigen am Ende.|Geld
 Der Vertrag *verlängert* sich automatisch um ein Jahr.|Договор автоматически продлевается на год.|B2|sich verlängern um + Akkusativ.|Geld
 Ich *muss* die Kündigung schriftlich schicken.|Мне нужно отправить расторжение в письменном виде.|B1|schriftlich = als Brief.|Geld

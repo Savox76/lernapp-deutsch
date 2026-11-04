@@ -7,7 +7,7 @@ Wo ist der Schlüssel, den ich gestern gekauft *habe*?|Где ключ, кото
 Das ist der Kollege, mit dem ich jeden Tag *arbeite*.|Это коллега, с которым я работаю каждый день.|B1|Relativsatz mit Präposition: mit dem.|Arbeit
 Die Stadt, in der ich *wohne*, ist sehr schön.|Город, в котором я живу, очень красивый.|B1|Relativsatz mit Präposition: in der.|Wohnen
 Ich danke der Nachbarin, die mir geholfen *hat*.|Я благодарю соседку, которая мне помогла.|B1|Relativsatz: die, Verb am Ende.|Wohnen
-Kennst du den Arzt, dem ich vertraue?|Ты знаешь врача, которому я доверяю?|B1|Relativsatz Dativ maskulin: dem.|Gesundheit
+*Kennst* du den Arzt, dem ich vertraue?|Ты знаешь врача, которому я доверяю?|B1|Relativsatz Dativ maskulin: dem.|Gesundheit
 Die Kinder, deren Eltern arbeiten, *bleiben* länger in der Kita.|Дети, чьи родители работают, остаются в садике дольше.|B1|Relativsatz mit deren, danach Hauptsatz-Verb.|Familie
 Das Restaurant, das wir *mögen*, hat heute zu.|Ресторан, который мы любим, сегодня закрыт.|B1|Relativsatz: Verb am Ende.|Freizeit
 Hier ist das Formular, das Sie ausfüllen *müssen*.|Вот бланк, который вам нужно заполнить.|B1|Relativsatz: Modalverb ganz am Ende.|Behörden

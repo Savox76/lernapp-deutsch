@@ -90,7 +90,7 @@ Nachtisch|der|Nachtische|N|десерт|süßes Essen nach dem Hauptgericht|Was 
 Frühstück|das|Frühstücke|N|завтрак|das erste Essen am Morgen|Das Frühstück ist um acht Uhr.|B1|Lebensmittel
 Mittagessen|das|Mittagessen|N|обед|Essen am Mittag|Was gibt es heute zum Mittagessen?|B1|Lebensmittel
 Abendessen|das|Abendessen|N|ужин|Essen am Abend|Zum Abendessen gibt es Suppe.|B1|Lebensmittel
-Rezept (Kochen)|das|Rezepte|R|рецепт (кулинарный)|Anleitung zum Kochen|Kannst du mir das Rezept geben?|B1|Lebensmittel
+Rezept (Kochen)|das|Rezepte|N|рецепт (кулинарный)|Anleitung zum Kochen|Kannst du mir das Rezept geben?|B1|Lebensmittel
 Packung|die|Packungen|N|упаковка, пачка|eine Verpackung mit Inhalt|Eine Packung Milch, bitte.|B1|Lebensmittel
 Flasche|die|Flaschen|N|бутылка|Gefäß für Getränke|Kaufst du bitte zwei Flaschen Wasser?|B1|Lebensmittel
 Dose|die|Dosen|N|банка (консервная)|Behälter aus Metall|Eine Dose Tomaten reicht.|B1|Lebensmittel

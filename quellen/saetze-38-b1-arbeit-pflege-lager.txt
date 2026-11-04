@@ -11,7 +11,7 @@ Ich habe der Tochter gesagt, dass die Ärztin erst um 16 Uhr *kommt*.|Я ска�
 Die Medikamente *werden* morgens von der Fachkraft gerichtet.|Лекарства утром раскладывает медсестра.|B2|Passiv mit von.|Pflege
 Bei der Übergabe *besprechen* wir alle Besonderheiten.|При передаче смены мы обсуждаем все особенности.|B1|Angabe auf Position 1 → Verb → Subjekt.|Pflege
 Ohne Handschuhe *darf* man keine Wunde versorgen.|Без перчаток нельзя обрабатывать рану.|B1|Angabe auf Position 1 → Modalverb → Subjekt.|Pflege
-Herr Meier hat sich geweigert, seine Tabletten zu nehmen.|Господин Майер отказался принимать таблетки.|B2|zu-Infinitiv am Ende.|Pflege
+Herr Meier *hat* sich geweigert, seine Tabletten zu nehmen.|Господин Майер отказался принимать таблетки.|B2|zu-Infinitiv am Ende.|Pflege
 Obwohl die Arbeit anstrengend ist, *gefällt* mir mein Beruf.|Хотя работа тяжёлая, мне нравится моя профессия.|B1|obwohl-Satz zuerst → dann sofort das Verb.|Pflege
 Die Bewohnerin, die im Zimmer 8 *wohnt*, hat heute Geburtstag.|У жительницы, которая живёт в комнате 8, сегодня день рождения.|B1|Relativsatz in der Mitte.|Pflege
 Im Lager *kontrolliere* ich jeden Morgen den Wareneingang.|На складе я каждое утро проверяю приёмку товара.|B1|Ort auf Position 1 → Verb → Subjekt.|Logistik
@@ -22,7 +22,7 @@ Ich weiß nicht, in welchem Regal die Kartons *stehen*.|Я не знаю, на �
 Bevor man den Gabelstapler fährt, *muss* man ihn kontrollieren.|Прежде чем ехать на погрузчике, его нужно проверить.|B1|bevor-Satz zuerst → dann sofort das Modalverb.|Logistik
 Die Ware, die gestern geliefert *wurde*, war beschädigt.|Товар, который доставили вчера, был повреждён.|B2|Relativsatz + Passiv.|Logistik
 Wegen der vielen Bestellungen *arbeiten* wir diese Woche länger.|Из-за большого количества заказов мы на этой неделе работаем дольше.|B1|wegen auf Position 1 → Verb → Subjekt.|Logistik
-Ich habe vergessen, den Lieferschein zu unterschreiben.|Я забыла подписать накладную.|B1|zu-Infinitiv am Ende.|Logistik
+Ich *habe* vergessen, den Lieferschein zu unterschreiben.|Я забыла подписать накладную.|B1|zu-Infinitiv am Ende.|Logistik
 Wenn der Scanner nicht funktioniert, *schreiben* wir die Nummern per Hand auf.|Если сканер не работает, мы записываем номера вручную.|B1|wenn-Satz zuerst → dann sofort das Verb.|Logistik
 Um Unfälle zu vermeiden, *tragen* alle Sicherheitsschuhe.|Чтобы избежать несчастных случаев, все носят защитную обувь.|B1|um … zu zuerst → dann sofort das Verb.|Logistik
 Der Fahrer *hat* sich verfahren und kommt eine Stunde später.|Водитель заблудился и приедет на час позже.|B1|Perfekt + und + Hauptsatz.|Logistik
@@ -34,7 +34,7 @@ Die Rechnung *wurde* versehentlich zweimal verschickt.|Счёт по ошибк�
 Bitte *legen* Sie die Unterlagen in den blauen Ordner.|Пожалуйста, положите документы в синюю папку.|B1|Imperativ mit Sie.|Büro
 Ich schicke Ihnen die Datei, sobald sie fertig *ist*.|Я пришлю вам файл, как только он будет готов.|B1|sobald: Verb am Ende.|Büro
 Die Kundin fragt, ob ihre Bestellung schon verschickt worden *ist*.|Клиентка спрашивает, отправлен ли уже её заказ.|B2|ob + Passiv Perfekt: ist ganz am Ende.|Büro
-Könnten Sie mich bitte mit der Buchhaltung verbinden?|Не могли бы вы соединить меня с бухгалтерией?|B1|Konjunktiv II: höfliche Bitte.|Büro
+*Könnten* Sie mich bitte mit der Buchhaltung verbinden?|Не могли бы вы соединить меня с бухгалтерией?|B1|Konjunktiv II: höfliche Bitte.|Büro
 Herr Lang *ist* gerade in einer Besprechung, kann ich etwas ausrichten?|Господин Ланг сейчас на совещании, что-нибудь передать?|B1|Hauptsatz: Verb auf Platz 2.|Büro
 Ich *leite* Ihre Anfrage an den zuständigen Kollegen weiter.|Я перенаправлю ваш запрос ответственному коллеге.|B1|Trennbares Verb: leite … weiter.|Büro
 Damit nichts vergessen wird, *schreibe* ich ein Protokoll.|Чтобы ничего не забыть, я пишу протокол.|B2|damit-Satz zuerst → dann sofort das Verb.|Büro
@@ -58,7 +58,7 @@ Nach der Probezeit *bekomme* ich einen unbefristeten Vertrag.|После исп�
 Meine Überstunden *werden* im nächsten Monat ausgezahlt.|Мои сверхурочные выплатят в следующем месяце.|B2|Passiv Präsens mit Zukunftsbedeutung.|Arbeit
 Ich *habe* meinen Chef um ein Gespräch gebeten.|Я попросила начальника о разговоре.|B1|Perfekt: habe … gebeten.|Arbeit
 Hätte ich früher gefragt, *hätte* ich die Schulung machen können.|Если бы я спросила раньше, я могла бы пройти обучение.|B2|Konjunktiv II Vergangenheit mit Modalverb.|Arbeit
-Es ist nicht erlaubt, während der Arbeit privat zu telefonieren.|Во время работы не разрешается звонить по личным делам.|B1|zu-Infinitiv am Ende.|Arbeit
+Es *ist* nicht erlaubt, während der Arbeit privat zu telefonieren.|Во время работы не разрешается звонить по личным делам.|B1|zu-Infinitiv am Ende.|Arbeit
 Die neue Kollegin *wird* von mir eingearbeitet.|Новую коллегу ввожу в курс дела я.|B2|Passiv mit von.|Arbeit
 Ich bin mir nicht sicher, ob ich die Aufgabe richtig verstanden *habe*.|Я не уверена, правильно ли я поняла задание.|B1|ob + Perfekt: habe am Ende.|Arbeit
 Wenn Sie Fragen haben, *melden* Sie sich einfach bei mir.|Если у вас есть вопросы, просто обращайтесь ко мне.|B1|wenn-Satz zuerst → dann sofort das Verb.|Arbeit

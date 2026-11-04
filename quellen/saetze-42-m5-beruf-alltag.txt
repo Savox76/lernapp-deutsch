@@ -42,9 +42,9 @@ Sag mir bitte, wenn der Lkw *kommt*.|Скажи мне, пожалуйста, к
 Die Chefin sagt, dass wir morgen früher anfangen *sollen*.|Начальница говорит, что завтра мы должны начать раньше.|B1|dass: Modalverb ganz am Ende.|Arbeit
 Ich weiß nicht, ob die Ware heute noch *kommt*.|Я не знаю, придёт ли товар сегодня.|B1|ob: Verb am Ende.|Logistik
 Bitte frag Herrn Weber, wann er Zeit *hat*.|Пожалуйста, спроси господина Вебера, когда у него есть время.|B1|Indirekte Frage: Verb am Ende.|Arbeit
-Ich habe vergessen, die Kasse zu zählen.|Я забыла пересчитать кассу.|B1|zu-Infinitiv am Ende.|Handel
-Es ist wichtig, die Hände oft zu waschen.|Важно часто мыть руки.|B1|zu-Infinitiv am Ende.|Pflege
-Das ist der Kollege, der mich einarbeitet.|Это коллега, который меня обучает.|B1|Relativsatz: Verb am Ende.|Arbeit
+Ich *habe* vergessen, die Kasse zu zählen.|Я забыла пересчитать кассу.|B1|zu-Infinitiv am Ende.|Handel
+Es *ist* wichtig, die Hände oft zu waschen.|Важно часто мыть руки.|B1|zu-Infinitiv am Ende.|Pflege
+Das *ist* der Kollege, der mich einarbeitet.|Это коллега, который меня обучает.|B1|Relativsatz: Verb am Ende.|Arbeit
 Die Kartons, die dort *stehen*, kommen nach Leipzig.|Коробки, которые там стоят, едут в Лейпциг.|B1|Relativsatz in der Mitte.|Logistik
 Ich *würde* gern mehr Stunden arbeiten.|Я бы хотела работать больше часов.|B1|Konjunktiv II: würde.|Arbeit
 *Könnten* Sie mir bitte den Schlüssel geben?|Не могли бы вы дать мне ключ?|B1|Konjunktiv II: höfliche Bitte.|Arbeit
