@@ -11,7 +11,7 @@ Sätze   (quellen/saetze-*.txt), eine Zeile pro Satz:
   Das konjugierte Verb mit Sternchen markieren: Ich *gehe* heute, weil ich krank *bin*.
   Markierte Verben nutzt die App für die Übungen "Wo steht das Verb?" und "Richtig oder falsch?".
 
-Schreibaufgaben: quellen/schreiben.json (wird direkt übernommen).
+Schreibaufgaben: quellen/schreiben*.json (Listen, werden zusammengeführt).
 
 Aufruf:  python3 tools/build_content.py
 """
@@ -78,8 +78,11 @@ if errors:
 os.makedirs(OUT, exist_ok=True)
 json.dump(words, open(os.path.join(OUT, "woerter.json"), "w", encoding="utf8"), ensure_ascii=False, separators=(",", ":"))
 json.dump(sents, open(os.path.join(OUT, "saetze.json"), "w", encoding="utf8"), ensure_ascii=False, separators=(",", ":"))
-sch = os.path.join(SRC, "schreiben.json")
-tasks = json.load(open(sch, encoding="utf8")) if os.path.exists(sch) else []
+tasks, seen_ids = [], set()
+for sch in sorted(glob.glob(os.path.join(SRC, "schreiben*.json"))):
+    for t in json.load(open(sch, encoding="utf8")):
+        if t["id"] in seen_ids: errors.append(f"{os.path.basename(sch)}: doppelte id {t['id']}"); continue
+        seen_ids.add(t["id"]); tasks.append(t)
 json.dump(tasks, open(os.path.join(OUT, "schreiben.json"), "w", encoding="utf8"), ensure_ascii=False, separators=(",", ":"))
 # Prüfungsaufgaben: quellen/pruefung/*.json, jede Datei {"typ": [Aufgaben …]}
 pr = {}
