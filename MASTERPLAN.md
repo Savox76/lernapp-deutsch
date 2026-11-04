@@ -1,6 +1,6 @@
 # Masterplan – Deutsch lernen A2 · B1 · B2 (DTB und DTZ)
 
-Stand: 03.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
+Stand: 04.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
 
 ---
 
@@ -155,6 +155,7 @@ Ziel: **an mindestens 6 von 7 Tagen lernen**, auch wenn es zäh ist. Pausentage 
 ## 7. Mehrere Benutzer (Option für später)
 
 Zuerst mit einer Lernerin testen, dann mit 3–5 weiteren Lernenden. Nötig wären dann eine Betreuer-Ansicht, ein Online-Speicher und eine Anmeldung.
+→ Seit 04.11.2026 Teil des Monetarisierungsplans, siehe **Abschnitt 9**.
 
 ---
 
@@ -164,6 +165,63 @@ Zuerst mit einer Lernerin testen, dann mit 3–5 weiteren Lernenden. Nötig wär
 - Offizielle kostenlose Modelltests dürfen verlinkt und zusätzlich auf Papier geübt werden.
 - Prüfungsnamen nur zur Beschreibung, nicht als Marke.
 - Das Repo ist öffentlich → **keine echten Namen, keine Ergebnisse, keine persönlichen Daten** in Inhalten. Beispielname: Olga Iwanowa.
+
+---
+
+## 9. Monetarisierung (Plan vom 04.11.2026)
+
+**Idee:** Monatsabo für **4,99 €** für Zuwanderer, die sich auf DTZ oder DTB vorbereiten. Die erste Zielgruppe sind russischsprachige Lernende, weil die App dafür schon gebaut ist.
+**Grundsatz:** Die Inhalts-Meilensteine M7–M15 haben Vorrang. Verkauft wird erst, wenn die App bei mehreren fremden Lernenden funktioniert.
+
+### 9.1 Was sich technisch ändern muss
+
+| Heute | Problem für ein Abo | Lösung |
+|---|---|---|
+| Inhalte liegen öffentlich (Repo und GitHub Pages) | Jeder kann alles kostenlos abrufen, ein Abo wäre wertlos | Bezahlinhalte in ein **privates Repo** und auf einen Server, der sie nur nach Anmeldung ausliefert |
+| Fortschritt nur im localStorage | Neues Handy oder Daten gelöscht heißt Fortschritt weg. Für zahlende Kunden ist das nicht akzeptabel | **Konto und Online-Speicher**, z. B. Supabase oder Firebase; localStorage bleibt als Offline-Zwischenspeicher |
+| Android-App ist nur eine WebView-Hülle | Google Play lehnt reine Website-Hüllen oft ab. Digitale Abos in der App müssen über **Google Play Billing** laufen | App bekommt eigene Funktionen (offline lernen, Vorlesen, Sprechen aufnehmen) und Play Billing |
+| Oberfläche auf Deutsch | Neue Nutzer verstehen die Bedienung nicht sofort | Menüs und Hilfe zusätzlich auf Russisch, später weitere Sprachen |
+
+### 9.2 Gratis und Premium
+
+| Gratis (zum Ausprobieren) | Premium (4,99 €/Monat) |
+|---|---|
+| Grundkurs Stufe 1–3 | alle 13 Grundkurs-Stufen |
+| Tagesmix, begrenzt pro Tag | Tagesmix ohne Grenze |
+| Karteikarten A2 | gesamter Wortschatz A2–B2 und Beruf |
+| je 1 Beispielaufgabe DTZ und DTB | alle Prüfungsaufgaben, Prüfungssimulation, Statistik und Fehleranalyse |
+
+Zusätzlich **7 Tage Premium kostenlos** testen. Die bisherige Lernerin behält dauerhaft vollen Zugang.
+
+### 9.3 Rechnung
+
+4,99 € brutto − 19 % USt. = 4,19 € − 15 % Google-Anteil = **ca. 3,56 € pro Abo und Monat**.
+
+| Zahlende Abos | Netto pro Monat (vor Server-Kosten und Steuer) |
+|---|---|
+| 100 | ≈ 356 € |
+| 280 | ≈ 1.000 € |
+| 1.400 | ≈ 5.000 € |
+
+### 9.4 Fahrplan
+
+| # | Phase | Inhalt | Ergebnis / Bedingung zum Weitergehen | Status |
+|---|---|---|---|---|
+| G1 | Inhalte fertig | M7–M15 abschließen | alle Zielzahlen erreicht, Qualitätscheck bestanden | ⏳ läuft |
+| G2 | Testgruppe | 10–20 fremde Lernende nutzen die Web-App **kostenlos** 4 Wochen lang. Kurzer Fragebogen: Was fehlt? Würdest du 4,99 € zahlen? | mind. die Hälfte lernt nach 4 Wochen noch ≥ 3 Tage pro Woche, mind. 5 würden zahlen | offen |
+| G3 | Rechtliches | Gewerbe anmelden, steuerliche Einordnung klären (Kleinunternehmer?), Impressum, Datenschutzerklärung (DSGVO), AGB mit Widerrufsbelehrung, Google-Play-Entwicklerkonto mit Zahlungsprofil, App-Name auf Markenrechte prüfen | alles erledigt, bevor der erste Euro fließt | offen |
+| G4 | Technik | Anmeldung und Online-Speicher, Bezahlinhalte privat, Gratis/Premium-Grenze, Play Billing, russische Oberfläche, Datenübernahme aus localStorage | geschlossener Test mit der Testgruppe im Play Store | offen |
+| G5 | Start | Play-Store-Eintrag auf Deutsch und Russisch, Werbung in Telegram- und Facebook-Gruppen für Zuwanderer, Lehrkräfte von Integrations- und Berufssprachkursen ansprechen | erste 50 zahlende Abos | offen |
+| G6 | Ausbau | weitere Hilfssprachen (zuerst Ukrainisch), Jahresabo, Sprechen mit Aufnahme | Wachstum je nach Zahlen aus G5 | offen |
+
+### 9.5 Offene Entscheidungen (Mario)
+
+- Preis: nur Monatsabo 4,99 € oder zusätzlich ein günstigeres Jahresabo?
+- Name der App für den Play Store
+- Online-Speicher: Supabase oder Firebase (Claude macht vor G4 einen Vorschlag)
+- Wann startet G2? Vorschlag: sobald M10 fertig ist, damit die Testgruppe schon genug Inhalt hat
+
+Neue Aufgabentypen und Änderungen an `android/` werden auch hier erst nach Rücksprache gebaut.
 
 ---
 
