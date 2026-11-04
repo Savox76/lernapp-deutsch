@@ -1,0 +1,62 @@
+# B1 Indirekte Fragen (Grundkurs Stufe 8)
+Können Sie mir sagen, wo der Bahnhof *ist*?|Можете сказать, где вокзал?|B1|Indirekte Frage: Fragewort, Verb am Ende.|Orte
+Ich weiß nicht, wann der Kurs *beginnt*.|Я не знаю, когда начинается курс.|B1|Indirekte Frage: Verb am Ende.|Bildung
+Weißt du, wie viel das Ticket *kostet*?|Ты знаешь, сколько стоит билет?|B1|Indirekte Frage: Verb am Ende.|Verkehr
+Ich frage mich, warum er nicht *anruft*.|Мне интересно, почему он не звонит.|B1|Indirekte Frage: trennbares Verb zusammen am Ende.|Alltag
+Sag mir bitte, wann du nach Hause *kommst*.|Скажи мне, пожалуйста, когда ты придёшь домой.|B1|Indirekte Frage: Verb am Ende.|Familie
+Ich möchte wissen, ob ich hier parken *darf*.|Я хотела бы знать, можно ли здесь парковаться.|B1|Indirekte Ja/Nein-Frage mit ob: Modalverb ganz am Ende.|Verkehr
+Können Sie mir erklären, wie das Formular *funktioniert*?|Можете объяснить, как работает этот бланк?|B1|Indirekte Frage: Verb am Ende.|Behörden
+Ich verstehe nicht, was die Lehrerin *meint*.|Я не понимаю, что имеет в виду учительница.|B1|Indirekte Frage: Verb am Ende.|Bildung
+Weißt du, ob der Supermarkt sonntags geöffnet *hat*?|Ты знаешь, открыт ли супермаркет по воскресеньям?|B1|ob: Verb am Ende.|Einkaufen
+Ich habe vergessen, wo ich meinen Schlüssel hingelegt *habe*.|Я забыла, куда положила ключ.|B1|Indirekte Frage + Perfekt: habe ganz am Ende.|Wohnen
+Der Arzt fragt, seit wann ich Schmerzen *habe*.|Врач спрашивает, с каких пор у меня боли.|B1|Indirekte Frage: Verb am Ende.|Gesundheit
+Können Sie mir sagen, welcher Bus zum Krankenhaus *fährt*?|Можете сказать, какой автобус идёт до больницы?|B1|Indirekte Frage mit welcher: Verb am Ende.|Verkehr
+Ich weiß noch nicht, wohin wir im Sommer *fahren*.|Я ещё не знаю, куда мы поедем летом.|B1|Indirekte Frage: Verb am Ende.|Reisen
+Die Kundin möchte wissen, wann die Ware *kommt*.|Клиентка хочет знать, когда придёт товар.|B1|Indirekte Frage: Verb am Ende.|Arbeit
+Hast du eine Idee, wer das Fenster kaputt gemacht *hat*?|У тебя есть идея, кто разбил окно?|B1|Indirekte Frage + Perfekt: hat am Ende.|Wohnen
+Ich frage den Vermieter, ob die Heizung bald repariert *wird*.|Я спрашиваю арендодателя, скоро ли починят отопление.|B1|ob + Passiv: wird ganz am Ende.|Wohnen
+Wissen Sie, wie lange die Baustelle noch *dauert*?|Вы знаете, сколько ещё продлится стройка?|B1|Indirekte Frage: Verb am Ende.|Verkehr
+Mein Chef fragt, ob ich am Samstag arbeiten *kann*.|Мой начальник спрашивает, могу ли я работать в субботу.|B1|ob: Modalverb ganz am Ende.|Arbeit
+Ich bin nicht sicher, ob ich alles richtig gemacht *habe*.|Я не уверена, всё ли сделала правильно.|B1|ob + Perfekt: habe am Ende.|Bildung
+Erklären Sie mir bitte, warum die Rechnung so hoch *ist*.|Объясните мне, пожалуйста, почему счёт такой большой.|B1|Indirekte Frage: Verb am Ende.|Geld
+Ich überlege, was ich zum Geburtstag *schenke*.|Я думаю, что подарить на день рождения.|B1|Indirekte Frage: Verb am Ende.|Feste
+Weißt du, wessen Jacke das *ist*?|Ты знаешь, чья это куртка?|B1|Indirekte Frage mit wessen: Verb am Ende.|Kleidung
+Die Lehrerin fragt, wer die Hausaufgaben vergessen *hat*.|Учительница спрашивает, кто забыл домашнее задание.|B1|Indirekte Frage: Verb am Ende.|Bildung
+Ich kann mir nicht vorstellen, wie schwer das für dich *ist*.|Я не могу представить, как это тебе тяжело.|B1|Indirekte Frage: Verb am Ende.|Alltag
+Teilen Sie uns bitte mit, ob Sie an dem Termin teilnehmen *können*.|Пожалуйста, сообщите нам, сможете ли вы прийти на встречу.|B1|ob: Modalverb ganz am Ende.|Arbeit
+Ich habe keine Ahnung, wo das Rathaus *liegt*.|Я понятия не имею, где находится ратуша.|B1|Indirekte Frage: Verb am Ende.|Orte
+Er hat mich gefragt, woher ich *komme*.|Он спросил меня, откуда я.|B1|Indirekte Frage: Verb am Ende.|Person
+Wir müssen klären, wer die Kosten *übernimmt*.|Нам нужно выяснить, кто возьмёт на себя расходы.|B1|Indirekte Frage: Verb am Ende.|Arbeit
+Ich weiß nicht genau, wie man dieses Wort *ausspricht*.|Я не знаю точно, как произносится это слово.|B1|Indirekte Frage: trennbares Verb am Ende zusammen.|Bildung
+Können Sie nachsehen, ob noch ein Termin frei *ist*?|Можете посмотреть, есть ли ещё свободная запись?|B1|ob: Verb am Ende.|Gesundheit
+# B1 zu + Infinitiv, um … zu (Grundkurs Stufe 9)
+Ich habe keine Lust, heute zu kochen.|Мне сегодня не хочется готовить.|B1|zu-Infinitiv steht am Ende.|Ernährung
+Es ist schwer, eine günstige Wohnung zu finden.|Трудно найти недорогую квартиру.|B1|zu-Infinitiv am Ende.|Wohnen
+Ich versuche, jeden Tag zehn Wörter zu lernen.|Я стараюсь учить десять слов каждый день.|B1|zu-Infinitiv am Ende.|Bildung
+Vergiss nicht, die Tür abzuschließen.|Не забудь закрыть дверь на ключ.|B1|Trennbares Verb: zu steht in der Mitte (abzuschließen).|Wohnen
+Wir haben beschlossen, nach Leipzig umzuziehen.|Мы решили переехать в Лейпциг.|B1|Trennbares Verb: umzuziehen.|Wohnen
+Es macht mir Spaß, mit Kindern zu arbeiten.|Мне нравится работать с детьми.|B1|zu-Infinitiv am Ende.|Arbeit
+Ich hoffe, dich bald wiederzusehen.|Надеюсь скоро снова тебя увидеть.|B1|Trennbares Verb: wiederzusehen.|Alltag
+Sie hat angefangen, Gitarre zu spielen.|Она начала играть на гитаре.|B1|zu-Infinitiv am Ende.|Freizeit
+Es ist verboten, hier zu rauchen.|Здесь курить запрещено.|B1|zu-Infinitiv am Ende.|Alltag
+Ich habe vor, einen Computerkurs zu machen.|Я планирую пройти компьютерный курс.|B1|zu-Infinitiv am Ende.|Bildung
+Hast du Zeit, mir kurz zu helfen?|У тебя есть время мне быстро помочь?|B1|zu-Infinitiv am Ende.|Alltag
+Es ist wichtig, pünktlich zu sein.|Важно быть пунктуальным.|B1|zu-Infinitiv am Ende.|Arbeit
+Ich bitte Sie, mich zurückzurufen.|Прошу вас мне перезвонить.|B1|Trennbares Verb: zurückzurufen.|Arbeit
+Er hat vergessen, die Rechnung zu bezahlen.|Он забыл оплатить счёт.|B1|zu-Infinitiv am Ende.|Geld
+Ich lerne Deutsch, um in Deutschland zu arbeiten.|Я учу немецкий, чтобы работать в Германии.|B1|um … zu: Ziel, Infinitiv am Ende.|Arbeit
+Sie spart Geld, um ein Auto zu kaufen.|Она копит деньги, чтобы купить машину.|B1|um … zu: Ziel.|Geld
+Wir stehen früh auf, um den Zug zu erreichen.|Мы рано встаём, чтобы успеть на поезд.|B1|um … zu: Ziel.|Verkehr
+Ich gehe zum Amt, um meinen Pass abzuholen.|Я иду в ведомство, чтобы забрать паспорт.|B1|um … zu mit trennbarem Verb: abzuholen.|Behörden
+Um gesund zu bleiben, *mache* ich jeden Tag Sport.|Чтобы оставаться здоровой, я каждый день занимаюсь спортом.|B1|um … zu zuerst → danach sofort das Verb.|Gesundheit
+Um die Prüfung zu schaffen, *übe* ich jeden Abend.|Чтобы сдать экзамен, я занимаюсь каждый вечер.|B1|um … zu zuerst → danach sofort das Verb.|Bildung
+Er ging, ohne sich zu verabschieden.|Он ушёл, не попрощавшись.|B1|ohne … zu: Infinitiv am Ende.|Alltag
+Statt zu lernen, sieht er fern.|Вместо того чтобы учиться, он смотрит телевизор.|B1|statt … zu.|Bildung
+Ich freue mich darauf, euch zu besuchen.|Я радуюсь тому, что навещу вас.|B1|darauf + zu-Infinitiv.|Familie
+Es ist nicht leicht, eine neue Sprache zu lernen.|Нелегко выучить новый язык.|B1|zu-Infinitiv am Ende.|Bildung
+Hast du daran gedacht, Brot zu kaufen?|Ты не забыла купить хлеб?|B1|daran + zu-Infinitiv.|Einkaufen
+Ich habe heute keine Zeit, einkaufen zu gehen.|У меня сегодня нет времени сходить за покупками.|B1|zu-Infinitiv am Ende.|Einkaufen
+Die Ärztin hat mir empfohlen, mehr zu schlafen.|Врач посоветовала мне больше спать.|B1|zu-Infinitiv am Ende.|Gesundheit
+Es ist möglich, den Termin zu verschieben.|Можно перенести встречу.|B1|zu-Infinitiv am Ende.|Arbeit
+Wir haben versprochen, pünktlich anzukommen.|Мы обещали приехать вовремя.|B1|Trennbares Verb: anzukommen.|Verkehr
+Ich habe aufgehört zu rauchen.|Я бросила курить.|B1|aufhören + zu-Infinitiv.|Gesundheit

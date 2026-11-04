@@ -1,0 +1,71 @@
+# A2 Hauptsatz: Subjekt – Verb – Rest (Grundkurs Stufe 1)
+Ich *bin* Verkäuferin.|Я продавщица.|A2|Subjekt – Verb – Rest.|Arbeit
+Mein Name *ist* Olga Iwanowa.|Меня зовут Ольга Иванова.|A2|Subjekt – Verb – Rest.|Person
+Ich *spreche* Russisch und Ukrainisch.|Я говорю по-русски и по-украински.|A2|Subjekt – Verb – Rest.|Person
+Meine Familie *wohnt* in Dresden.|Моя семья живёт в Дрездене.|A2|Subjekt – Verb – Rest.|Familie
+Mein Sohn *ist* acht Jahre alt.|Моему сыну восемь лет.|A2|Subjekt – Verb – Rest.|Familie
+Die Schule *beginnt* um acht Uhr.|Школа начинается в восемь часов.|A2|Subjekt – Verb – Rest.|Bildung
+Der Kaffee *ist* zu heiß.|Кофе слишком горячий.|A2|Subjekt – Verb – Rest.|Ernährung
+Wir *wohnen* im dritten Stock.|Мы живём на четвёртом этаже.|A2|Subjekt – Verb – Rest.|Wohnen
+Meine Mutter *kocht* sehr gut.|Моя мама очень хорошо готовит.|A2|Subjekt – Verb – Rest.|Familie
+Ich *fahre* jeden Tag mit dem Bus.|Я каждый день езжу на автобусе.|A2|Subjekt – Verb – Rest.|Verkehr
+Der Arzt *hat* heute keine Zeit.|У врача сегодня нет времени.|A2|Subjekt – Verb – Rest.|Gesundheit
+Das Brot *kostet* zwei Euro.|Хлеб стоит два евро.|A2|Subjekt – Verb – Rest.|Einkaufen
+Meine Kinder *gehen* gern in den Park.|Мои дети любят ходить в парк.|A2|Subjekt – Verb – Rest.|Freizeit
+Ich *habe* eine Frage.|У меня есть вопрос.|A2|Subjekt – Verb – Rest.|Alltag
+Die Apotheke *ist* neben der Bank.|Аптека рядом с банком.|A2|Subjekt – Verb – Rest.|Orte
+Mein Mann *trinkt* morgens Kaffee.|Мой муж пьёт кофе по утрам.|A2|Subjekt – Verb – Rest.|Ernährung
+Der Kurs *dauert* drei Monate.|Курс длится три месяца.|A2|Subjekt – Verb – Rest.|Bildung
+Ich *suche* eine neue Wohnung.|Я ищу новую квартиру.|A2|Subjekt – Verb – Rest.|Wohnen
+Das Kind *schläft* noch.|Ребёнок ещё спит.|A2|Subjekt – Verb – Rest.|Familie
+Wir *brauchen* noch Milch und Eier.|Нам ещё нужны молоко и яйца.|A2|Subjekt – Verb – Rest.|Einkaufen
+Meine Freundin *arbeitet* im Krankenhaus.|Моя подруга работает в больнице.|A2|Subjekt – Verb – Rest.|Arbeit
+Der Zug *ist* pünktlich.|Поезд вовремя.|A2|Subjekt – Verb – Rest.|Verkehr
+Ich *verstehe* das Wort nicht.|Я не понимаю это слово.|A2|Subjekt – Verb – Rest. nicht steht hinten.|Bildung
+Meine Tochter *liest* gern Bücher.|Моя дочь любит читать книги.|A2|Subjekt – Verb – Rest.|Freizeit
+Die Wohnung *ist* hell und ruhig.|Квартира светлая и тихая.|A2|Subjekt – Verb – Rest.|Wohnen
+Ich *esse* kein Fleisch.|Я не ем мясо.|A2|Subjekt – Verb – Rest.|Ernährung
+Mein Bruder *wohnt* in Polen.|Мой брат живёт в Польше.|A2|Subjekt – Verb – Rest.|Familie
+Die Lehrerin *erklärt* die Grammatik.|Учительница объясняет грамматику.|A2|Subjekt – Verb – Rest.|Bildung
+Wir *haben* einen Hund.|У нас есть собака.|A2|Subjekt – Verb – Rest.|Familie
+Das Fenster *ist* offen.|Окно открыто.|A2|Subjekt – Verb – Rest.|Wohnen
+Ich *bezahle* mit Karte.|Я плачу картой.|A2|Subjekt – Verb – Rest.|Einkaufen
+Der Supermarkt *schließt* um acht.|Супермаркет закрывается в восемь.|A2|Subjekt – Verb – Rest.|Einkaufen
+Meine Nachbarn *sind* sehr freundlich.|Мои соседи очень дружелюбные.|A2|Subjekt – Verb – Rest.|Wohnen
+Ich *kaufe* Obst auf dem Markt.|Я покупаю фрукты на рынке.|A2|Subjekt – Verb – Rest.|Einkaufen
+Das Baby *weint* in der Nacht.|Ребёнок плачет ночью.|A2|Subjekt – Verb – Rest.|Familie
+Mein Chef *heißt* Herr Becker.|Моего начальника зовут господин Беккер.|A2|Subjekt – Verb – Rest.|Arbeit
+Die Kinder *spielen* draußen.|Дети играют на улице.|A2|Subjekt – Verb – Rest.|Freizeit
+Ich *lerne* neue Wörter.|Я учу новые слова.|A2|Subjekt – Verb – Rest.|Bildung
+Der Tee *schmeckt* gut.|Чай вкусный.|A2|Subjekt – Verb – Rest.|Ernährung
+Meine Schwester *besucht* uns oft.|Моя сестра часто к нам приходит.|A2|Subjekt – Verb – Rest.|Familie
+Wir *gehen* zu Fuß nach Hause.|Мы идём домой пешком.|A2|Subjekt – Verb – Rest.|Verkehr
+Ich *schreibe* eine E-Mail.|Я пишу электронное письмо.|A2|Subjekt – Verb – Rest.|Alltag
+Die Bank *öffnet* um neun Uhr.|Банк открывается в девять часов.|A2|Subjekt – Verb – Rest.|Orte
+Mein Kopf *tut* weh.|У меня болит голова.|A2|Subjekt – Verb – Rest.|Gesundheit
+Die Straßenbahn *fährt* zum Hauptbahnhof.|Трамвай едет к главному вокзалу.|A2|Subjekt – Verb – Rest.|Verkehr
+Ich *mag* den Sommer.|Я люблю лето.|A2|Subjekt – Verb – Rest.|Wetter
+Unser Kühlschrank *ist* leer.|Наш холодильник пуст.|A2|Subjekt – Verb – Rest.|Wohnen
+Der Bäcker *verkauft* frische Brötchen.|Пекарь продаёт свежие булочки.|A2|Subjekt – Verb – Rest.|Einkaufen
+Meine Eltern *leben* in der Ukraine.|Мои родители живут в Украине.|A2|Subjekt – Verb – Rest.|Familie
+Ich *warte* auf meine Freundin.|Я жду свою подругу.|A2|Subjekt – Verb – Rest.|Alltag
+Das Geschäft *hat* heute geschlossen.|Магазин сегодня закрыт.|A2|Subjekt – Verb – Rest.|Einkaufen
+Mein Sohn *spielt* Gitarre.|Мой сын играет на гитаре.|A2|Subjekt – Verb – Rest.|Freizeit
+Die Suppe *ist* noch warm.|Суп ещё тёплый.|A2|Subjekt – Verb – Rest.|Ernährung
+Ich *trage* eine warme Jacke.|Я ношу тёплую куртку.|A2|Subjekt – Verb – Rest.|Kleidung
+Der Hund *bellt* laut.|Собака громко лает.|A2|Subjekt – Verb – Rest.|Alltag
+Wir *machen* eine Pause.|Мы делаем перерыв.|A2|Subjekt – Verb – Rest.|Arbeit
+Meine Kollegin *kommt* aus Syrien.|Моя коллега из Сирии.|A2|Subjekt – Verb – Rest.|Arbeit
+Ich *putze* die Küche.|Я убираю кухню.|A2|Subjekt – Verb – Rest.|Wohnen
+Das Auto *steht* vor dem Haus.|Машина стоит перед домом.|A2|Subjekt – Verb – Rest.|Verkehr
+Die Ärztin *schreibt* ein Rezept.|Врач выписывает рецепт.|A2|Subjekt – Verb – Rest.|Gesundheit
+Ich *kenne* die Frau nicht.|Я не знаю эту женщину.|A2|Subjekt – Verb – Rest.|Alltag
+Unsere Wohnung *liegt* im Zentrum.|Наша квартира находится в центре.|A2|Subjekt – Verb – Rest.|Wohnen
+Mein Mann *repariert* das Fahrrad.|Мой муж чинит велосипед.|A2|Subjekt – Verb – Rest.|Alltag
+Ich *höre* gern Musik.|Я люблю слушать музыку.|A2|Subjekt – Verb – Rest.|Freizeit
+Die Post *ist* gegenüber vom Bahnhof.|Почта напротив вокзала.|A2|Subjekt – Verb – Rest.|Orte
+Das Wasser *ist* kalt.|Вода холодная.|A2|Subjekt – Verb – Rest.|Alltag
+Meine Tochter *malt* ein Bild.|Моя дочь рисует картину.|A2|Subjekt – Verb – Rest.|Familie
+Ich *nehme* den Bus um sieben.|Я сажусь на автобус в семь.|A2|Subjekt – Verb – Rest.|Verkehr
+Der Lehrer *spricht* langsam und deutlich.|Учитель говорит медленно и чётко.|A2|Subjekt – Verb – Rest.|Bildung
+Wir *feiern* den Geburtstag zu Hause.|Мы празднуем день рождения дома.|A2|Subjekt – Verb – Rest.|Feste

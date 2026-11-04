@@ -1,0 +1,69 @@
+# A2 Satzklammer (Grundkurs Stufe 4)
+Ich *kann* leider nicht kommen.|К сожалению, я не могу прийти.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Alltag
+Du *musst* den Termin absagen.|Тебе нужно отменить встречу.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Alltag
+Wir *möchten* ein Zimmer reservieren.|Мы хотели бы забронировать номер.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Reisen
+Mein Sohn *will* Fußball spielen.|Мой сын хочет играть в футбол.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Freizeit
+Man *darf* hier nicht parken.|Здесь нельзя парковаться.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Verkehr
+Ich *soll* viel Wasser trinken.|Мне нужно пить много воды.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Gesundheit
+Sie *kann* sehr gut tanzen.|Она очень хорошо танцует.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Freizeit
+Wir *müssen* heute noch einkaufen.|Нам сегодня ещё нужно сходить за покупками.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Einkaufen
+Ich *möchte* Deutsch besser sprechen.|Я хочу лучше говорить по-немецки.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Bildung
+Die Kinder *dürfen* heute länger aufbleiben.|Детям сегодня можно лечь позже.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Familie
+Ich *stehe* jeden Tag um sechs auf.|Я встаю каждый день в шесть.|A2|Trennbares Verb: stehe auf Platz 2, auf am Ende.|Alltag
+Der Film *fängt* um acht Uhr an.|Фильм начинается в восемь часов.|A2|Trennbares Verb: fängt … an.|Freizeit
+Wir *laden* unsere Nachbarn ein.|Мы приглашаем наших соседей.|A2|Trennbares Verb: laden … ein.|Feste
+Ich *mache* das Fenster zu.|Я закрываю окно.|A2|Trennbares Verb: mache … zu.|Wohnen
+Mein Mann *holt* die Kinder ab.|Мой муж забирает детей.|A2|Trennbares Verb: holt … ab.|Familie
+Der Bus *kommt* um zehn Uhr an.|Автобус прибывает в десять часов.|A2|Trennbares Verb: kommt … an.|Verkehr
+Ich *ziehe* nächsten Monat um.|В следующем месяце я переезжаю.|A2|Trennbares Verb: ziehe … um.|Wohnen
+Sie *sieht* jeden Abend fern.|Она каждый вечер смотрит телевизор.|A2|Trennbares Verb: sieht … fern.|Freizeit
+Wir *räumen* zusammen auf.|Мы вместе убираемся.|A2|Trennbares Verb: räumen … auf.|Wohnen
+Ich *probiere* die Hose an.|Я примеряю брюки.|A2|Trennbares Verb: probiere … an.|Kleidung
+Ich *habe* gestern Pizza gegessen.|Вчера я ела пиццу.|A2|Perfekt: haben auf Platz 2, Partizip am Ende.|Ernährung
+Wir *haben* am Wochenende Fußball gespielt.|На выходных мы играли в футбол.|A2|Perfekt: haben auf Platz 2, Partizip am Ende.|Freizeit
+Sie *ist* nach Hause gegangen.|Она пошла домой.|A2|Perfekt: sein auf Platz 2, Partizip am Ende.|Alltag
+Ich *bin* mit dem Zug gefahren.|Я ехала на поезде.|A2|Perfekt: sein auf Platz 2, Partizip am Ende.|Verkehr
+Mein Sohn *hat* ein Bild gemalt.|Мой сын нарисовал картину.|A2|Perfekt: haben auf Platz 2, Partizip am Ende.|Familie
+Wir *haben* eine neue Wohnung gefunden.|Мы нашли новую квартиру.|A2|Perfekt: haben auf Platz 2, Partizip am Ende.|Wohnen
+Ich *habe* meine Schwester angerufen.|Я позвонила сестре.|A2|Perfekt: haben auf Platz 2, Partizip am Ende.|Familie
+Der Zug *ist* pünktlich angekommen.|Поезд прибыл вовремя.|A2|Perfekt: sein auf Platz 2, Partizip am Ende.|Verkehr
+Ich *habe* das Formular ausgefüllt.|Я заполнила бланк.|A2|Perfekt: haben auf Platz 2, Partizip am Ende.|Behörden
+Wir *sind* um sieben Uhr aufgestanden.|Мы встали в семь часов.|A2|Perfekt: sein auf Platz 2, Partizip am Ende.|Alltag
+Sie *hat* zwei Kilo Äpfel gekauft.|Она купила два килограмма яблок.|A2|Perfekt: haben auf Platz 2, Partizip am Ende.|Einkaufen
+Ich *habe* das leider nicht verstanden.|К сожалению, я этого не поняла.|A2|Perfekt: haben auf Platz 2, Partizip am Ende.|Bildung
+Gestern *haben* wir lange gearbeitet.|Вчера мы долго работали.|A2|Perfekt: Zeit vorne, haben auf Platz 2, Partizip am Ende.|Arbeit
+Am Samstag *sind* wir ins Kino gegangen.|В субботу мы ходили в кино.|A2|Perfekt: Zeit vorne, sind auf Platz 2, Partizip am Ende.|Freizeit
+Heute *will* ich früh schlafen gehen.|Сегодня я хочу рано лечь спать.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Alltag
+Morgen *muss* ich zum Zahnarzt gehen.|Завтра мне нужно к стоматологу.|A2|Modalverb auf Platz 2, Infinitiv am Ende.|Gesundheit
+Ich *werde* im Sommer meine Eltern besuchen.|Летом я навещу своих родителей.|A2|Futur: werden auf Platz 2, Infinitiv am Ende.|Familie
+Wir *werden* bald eine Lösung finden.|Мы скоро найдём решение.|A2|Futur: werden auf Platz 2, Infinitiv am Ende.|Alltag
+# A2 Konnektoren mit Hauptsatz (Grundkurs Stufe 5)
+Ich bleibe zu Hause, denn ich *bin* erkältet.|Я остаюсь дома, потому что простужена.|A2|denn + Subjekt + Verb.|Gesundheit
+Ich lerne viel, denn ich *will* die Prüfung bestehen.|Я много учусь, потому что хочу сдать экзамен.|A2|denn + Subjekt + Verb.|Bildung
+Wir nehmen ein Taxi, denn es *ist* schon spät.|Мы берём такси, потому что уже поздно.|A2|denn + Subjekt + Verb.|Verkehr
+Sie kauft Blumen, denn ihre Mutter *hat* Geburtstag.|Она покупает цветы, потому что у её мамы день рождения.|A2|denn + Subjekt + Verb.|Feste
+Ich trinke Tee, denn Kaffee *schmeckt* mir nicht.|Я пью чай, потому что кофе мне не нравится.|A2|denn + Subjekt + Verb.|Ernährung
+Der Bus kommt nicht, deshalb *gehe* ich zu Fuß.|Автобус не приходит, поэтому я иду пешком.|A2|deshalb + Verb + Subjekt.|Verkehr
+Ich bin krank, deshalb *bleibe* ich im Bett.|Я больна, поэтому остаюсь в постели.|A2|deshalb + Verb + Subjekt.|Gesundheit
+Die Wohnung ist zu teuer, deshalb *suchen* wir eine andere.|Квартира слишком дорогая, поэтому мы ищем другую.|A2|deshalb + Verb + Subjekt.|Wohnen
+Es ist kalt, deshalb *trage* ich eine Mütze.|Холодно, поэтому я ношу шапку.|A2|deshalb + Verb + Subjekt.|Kleidung
+Ich habe Geburtstag, deshalb *backe* ich einen Kuchen.|У меня день рождения, поэтому я пеку торт.|A2|deshalb + Verb + Subjekt.|Feste
+Mein Auto ist kaputt, deshalb *fahre* ich mit dem Bus.|Моя машина сломалась, поэтому я езжу на автобусе.|A2|deshalb + Verb + Subjekt.|Verkehr
+Ich verstehe das nicht, deshalb *frage* ich die Lehrerin.|Я этого не понимаю, поэтому спрашиваю учительницу.|A2|deshalb + Verb + Subjekt.|Bildung
+Ich bin müde, trotzdem *gehe* ich zur Arbeit.|Я устала, но всё равно иду на работу.|A2|trotzdem + Verb + Subjekt.|Arbeit
+Es regnet, trotzdem *spielen* die Kinder draußen.|Идёт дождь, но дети всё равно играют на улице.|A2|trotzdem + Verb + Subjekt.|Freizeit
+Die Jacke ist teuer, trotzdem *kaufe* ich sie.|Куртка дорогая, но я всё равно её покупаю.|A2|trotzdem + Verb + Subjekt.|Kleidung
+Er hat wenig Zeit, trotzdem *hilft* er mir.|У него мало времени, но он всё равно мне помогает.|A2|trotzdem + Verb + Subjekt.|Alltag
+Deutsch ist schwer, trotzdem *macht* es mir Spaß.|Немецкий трудный, но мне всё равно нравится.|A2|trotzdem + Verb + Subjekt.|Bildung
+Ich wohne nicht in Berlin, sondern ich *wohne* in Dresden.|Я живу не в Берлине, а в Дрездене.|A2|sondern + Subjekt + Verb.|Wohnen
+Wir fahren nicht mit dem Auto, sondern wir *nehmen* den Zug.|Мы едем не на машине, а на поезде.|A2|sondern + Subjekt + Verb.|Verkehr
+Ich arbeite viel, außerdem *lerne* ich am Abend Deutsch.|Я много работаю, кроме того, вечером учу немецкий.|A2|außerdem + Verb + Subjekt.|Bildung
+Die Wohnung ist hell, außerdem *hat* sie einen Balkon.|Квартира светлая, кроме того, в ней есть балкон.|A2|außerdem + Verb + Subjekt.|Wohnen
+Beeil dich, sonst *verpassen* wir den Bus.|Поторопись, иначе мы опоздаем на автобус.|A2|sonst + Verb + Subjekt.|Verkehr
+Zieh eine Jacke an, sonst *wirst* du krank.|Надень куртку, иначе заболеешь.|A2|sonst + Verb + Subjekt.|Gesundheit
+Ich habe Hunger, deswegen *esse* ich jetzt.|Я голодна, поэтому сейчас ем.|A2|deswegen + Verb + Subjekt.|Ernährung
+Der Laden ist geschlossen, deswegen *kaufen* wir morgen ein.|Магазин закрыт, поэтому мы купим завтра.|A2|deswegen + Verb + Subjekt.|Einkaufen
+Meine Tochter ist krank, deshalb *kann* ich heute nicht arbeiten.|Моя дочь больна, поэтому я не могу сегодня работать.|A2|deshalb + Verb + Subjekt, Infinitiv am Ende.|Arbeit
+Ich spare Geld, denn ich *möchte* ein Auto kaufen.|Я коплю деньги, потому что хочу купить машину.|A2|denn + Subjekt + Verb.|Geld
+Das Wetter ist schön, deshalb *machen* wir ein Picknick.|Погода хорошая, поэтому мы устраиваем пикник.|A2|deshalb + Verb + Subjekt.|Freizeit
+Ich habe den Bus verpasst, trotzdem *komme* ich pünktlich.|Я опоздала на автобус, но всё равно приду вовремя.|A2|trotzdem + Verb + Subjekt.|Verkehr

@@ -1,0 +1,78 @@
+# A2 Inversion: Zeit/Ort/Angabe auf Position 1 (Grundkurs Stufe 2)
+Heute *koche* ich Suppe.|Сегодня я варю суп.|A2|Zeit auf Position 1 → Verb → Subjekt.|Ernährung
+Morgen *fahren* wir nach Leipzig.|Завтра мы едем в Лейпциг.|A2|Zeit auf Position 1 → Verb → Subjekt.|Reisen
+Gestern *war* ich beim Arzt.|Вчера я была у врача.|A2|Zeit auf Position 1 → Verb → Subjekt.|Gesundheit
+Am Abend *lese* ich ein Buch.|Вечером я читаю книгу.|A2|Zeit auf Position 1 → Verb → Subjekt.|Freizeit
+Im Winter *ist* es hier sehr kalt.|Зимой здесь очень холодно.|A2|Zeit auf Position 1 → Verb → Subjekt (es).|Wetter
+Um acht Uhr *beginnt* meine Arbeit.|В восемь часов начинается моя работа.|A2|Zeit auf Position 1 → Verb → Subjekt.|Arbeit
+Jeden Samstag *kaufe* ich auf dem Markt ein.|Каждую субботу я делаю покупки на рынке.|A2|Zeit auf Position 1 → Verb → Subjekt, ein am Ende.|Einkaufen
+Am Wochenende *schlafe* ich lange.|На выходных я долго сплю.|A2|Zeit auf Position 1 → Verb → Subjekt.|Freizeit
+Nach dem Kurs *trinken* wir einen Kaffee.|После курса мы пьём кофе.|A2|Zeit auf Position 1 → Verb → Subjekt.|Bildung
+Seit Montag *habe* ich eine neue Arbeit.|С понедельника у меня новая работа.|A2|Zeit auf Position 1 → Verb → Subjekt.|Arbeit
+Im Supermarkt *gibt* es heute Angebote.|В супермаркете сегодня акции.|A2|Ort auf Position 1 → Verb → es.|Einkaufen
+In der Küche *steht* ein großer Tisch.|На кухне стоит большой стол.|A2|Ort auf Position 1 → Verb → Subjekt.|Wohnen
+Leider *habe* ich keine Zeit.|К сожалению, у меня нет времени.|A2|leider auf Position 1 → Verb → Subjekt.|Alltag
+Vielleicht *komme* ich später.|Может быть, я приду позже.|A2|vielleicht auf Position 1 → Verb → Subjekt.|Alltag
+Zum Frühstück *esse* ich ein Brötchen.|На завтрак я ем булочку.|A2|Angabe auf Position 1 → Verb → Subjekt.|Ernährung
+Mit dem Fahrrad *fahre* ich zur Schule.|На велосипеде я еду в школу.|A2|Angabe auf Position 1 → Verb → Subjekt.|Verkehr
+Am Dienstag *habe* ich einen Termin.|Во вторник у меня встреча.|A2|Zeit auf Position 1 → Verb → Subjekt.|Alltag
+Dann *gehe* ich nach Hause.|Потом я иду домой.|A2|dann auf Position 1 → Verb → Subjekt.|Alltag
+Danach *mache* ich die Hausaufgaben.|После этого я делаю домашнее задание.|A2|danach auf Position 1 → Verb → Subjekt.|Bildung
+Im Sommer *gehen* wir oft schwimmen.|Летом мы часто ходим плавать.|A2|Zeit auf Position 1 → Verb → Subjekt.|Freizeit
+Morgens *trinke* ich nur Tee.|По утрам я пью только чай.|A2|Zeit auf Position 1 → Verb → Subjekt.|Ernährung
+Natürlich *kannst* du mitkommen.|Конечно, ты можешь пойти с нами.|A2|natürlich auf Position 1 → Verb → Subjekt.|Freizeit
+Im Park *spielen* viele Kinder.|В парке играют много детей.|A2|Ort auf Position 1 → Verb → Subjekt.|Freizeit
+Nächste Woche *beginnt* mein Urlaub.|На следующей неделе начинается мой отпуск.|A2|Zeit auf Position 1 → Verb → Subjekt.|Reisen
+Letzte Woche *war* ich krank.|На прошлой неделе я болела.|A2|Zeit auf Position 1 → Verb → Subjekt.|Gesundheit
+Hier *wohnt* meine Freundin.|Здесь живёт моя подруга.|A2|Ort auf Position 1 → Verb → Subjekt.|Wohnen
+Dort *ist* der Eingang.|Там вход.|A2|Ort auf Position 1 → Verb → Subjekt.|Orte
+Abends *sind* die Kinder müde.|Вечером дети устают.|A2|Zeit auf Position 1 → Verb → Subjekt.|Familie
+Am Nachmittag *hole* ich meinen Sohn ab.|Днём я забираю сына.|A2|Zeit auf Position 1 → Verb → Subjekt, ab am Ende.|Familie
+Im Bus *lese* ich meine Nachrichten.|В автобусе я читаю сообщения.|A2|Ort auf Position 1 → Verb → Subjekt.|Verkehr
+Bei Regen *nehme* ich einen Schirm mit.|В дождь я беру с собой зонт.|A2|Angabe auf Position 1 → Verb → Subjekt.|Wetter
+Zuerst *wasche* ich das Gemüse.|Сначала я мою овощи.|A2|zuerst auf Position 1 → Verb → Subjekt.|Ernährung
+Um zwölf Uhr *essen* wir zu Mittag.|В двенадцать часов мы обедаем.|A2|Zeit auf Position 1 → Verb → Subjekt.|Ernährung
+Diesen Monat *bekomme* ich mehr Geld.|В этом месяце я получаю больше денег.|A2|Zeit auf Position 1 → Verb → Subjekt.|Geld
+Jetzt *verstehe* ich die Regel.|Теперь я понимаю правило.|A2|Zeit auf Position 1 → Verb → Subjekt.|Bildung
+Manchmal *ruft* meine Mutter an.|Иногда звонит моя мама.|A2|Angabe auf Position 1 → Verb → Subjekt, an am Ende.|Familie
+Am Bahnhof *warte* ich auf dich.|На вокзале я жду тебя.|A2|Ort auf Position 1 → Verb → Subjekt.|Verkehr
+Im Kurs *sprechen* wir nur Deutsch.|На курсе мы говорим только по-немецки.|A2|Ort auf Position 1 → Verb → Subjekt.|Bildung
+Heute Abend *sehen* wir einen Film.|Сегодня вечером мы смотрим фильм.|A2|Zeit auf Position 1 → Verb → Subjekt.|Freizeit
+Zum Geburtstag *bekommt* sie Blumen.|На день рождения она получает цветы.|A2|Angabe auf Position 1 → Verb → Subjekt.|Feste
+# A2 Fragen und Bitten (Grundkurs Stufe 3)
+Was *machst* du am Wochenende?|Что ты делаешь на выходных?|A2|W-Frage: Fragewort – Verb – Subjekt.|Freizeit
+Wo *ist* die Toilette?|Где туалет?|A2|W-Frage: Fragewort – Verb – Subjekt.|Orte
+Wie *geht* es Ihnen?|Как у вас дела?|A2|W-Frage: Fragewort – Verb – Subjekt.|Alltag
+Wann *kommt* der nächste Bus?|Когда придёт следующий автобус?|A2|W-Frage: Fragewort – Verb – Subjekt.|Verkehr
+Wie viel *kostet* die Jacke?|Сколько стоит куртка?|A2|W-Frage: Fragewort – Verb – Subjekt.|Einkaufen
+Wer *ist* die Frau dort?|Кто та женщина?|A2|W-Frage: Fragewort – Verb – Subjekt.|Alltag
+Wohin *fährst* du im Urlaub?|Куда ты едешь в отпуск?|A2|W-Frage: Fragewort – Verb – Subjekt.|Reisen
+Welche Farbe *magst* du?|Какой цвет тебе нравится?|A2|W-Frage: Fragewort – Verb – Subjekt.|Alltag
+Wie alt *sind* deine Kinder?|Сколько лет твоим детям?|A2|W-Frage: Fragewort – Verb – Subjekt.|Familie
+Was *möchten* Sie trinken?|Что вы хотите выпить?|A2|W-Frage: Fragewort – Verb – Subjekt.|Ernährung
+Warum *bist* du so müde?|Почему ты такая уставшая?|A2|W-Frage: Fragewort – Verb – Subjekt.|Alltag
+Um wie viel Uhr *beginnt* der Film?|Во сколько начинается фильм?|A2|W-Frage: Fragewort – Verb – Subjekt.|Freizeit
+*Wohnen* Sie hier?|Вы здесь живёте?|A2|Ja/Nein-Frage: Verb auf Position 1.|Wohnen
+*Hast* du Kinder?|У тебя есть дети?|A2|Ja/Nein-Frage: Verb auf Position 1.|Familie
+*Ist* das Ihr Auto?|Это ваша машина?|A2|Ja/Nein-Frage: Verb auf Position 1.|Verkehr
+*Arbeitest* du heute?|Ты сегодня работаешь?|A2|Ja/Nein-Frage: Verb auf Position 1.|Arbeit
+*Brauchen* Sie Hilfe?|Вам нужна помощь?|A2|Ja/Nein-Frage: Verb auf Position 1.|Alltag
+*Gibt* es hier eine Apotheke?|Здесь есть аптека?|A2|Ja/Nein-Frage: Verb auf Position 1.|Orte
+*Fährt* dieser Bus zum Bahnhof?|Этот автобус идёт к вокзалу?|A2|Ja/Nein-Frage: Verb auf Position 1.|Verkehr
+*Kennst* du meine Schwester?|Ты знаешь мою сестру?|A2|Ja/Nein-Frage: Verb auf Position 1.|Familie
+*Darf* ich das Fenster öffnen?|Можно открыть окно?|A2|Ja/Nein-Frage mit Modalverb: Infinitiv am Ende.|Alltag
+*Kannst* du mir helfen?|Ты можешь мне помочь?|A2|Ja/Nein-Frage mit Modalverb: Infinitiv am Ende.|Alltag
+*Möchten* Sie einen Termin?|Вы хотите записаться?|A2|Ja/Nein-Frage: Verb auf Position 1.|Gesundheit
+*Nehmen* Sie bitte Platz.|Садитесь, пожалуйста.|A2|Imperativ mit Sie: Verb auf Position 1.|Alltag
+*Warten* Sie bitte einen Moment.|Подождите, пожалуйста, минутку.|A2|Imperativ mit Sie: Verb auf Position 1.|Alltag
+*Mach* bitte das Licht aus!|Выключи, пожалуйста, свет!|A2|Imperativ mit du: Verb auf Position 1, aus am Ende.|Wohnen
+*Ruf* mich bitte morgen an!|Позвони мне, пожалуйста, завтра!|A2|Imperativ mit du: Verb auf Position 1, an am Ende.|Alltag
+*Bringen* Sie bitte Ihren Ausweis mit.|Принесите, пожалуйста, ваш паспорт.|A2|Imperativ mit Sie: Verb auf Position 1, mit am Ende.|Behörden
+*Füllen* Sie bitte das Formular aus.|Заполните, пожалуйста, бланк.|A2|Imperativ mit Sie: Verb auf Position 1, aus am Ende.|Behörden
+*Sei* bitte leise, das Baby schläft.|Тише, пожалуйста, ребёнок спит.|A2|Imperativ von sein: Sei auf Position 1.|Familie
+*Iss* noch etwas Obst!|Съешь ещё фруктов!|A2|Imperativ mit du: Verb auf Position 1.|Ernährung
+*Lasst* uns zusammen kochen!|Давайте готовить вместе!|A2|Imperativ mit ihr/uns: Verb auf Position 1.|Ernährung
+Wie *schreibt* man Ihren Namen?|Как пишется ваше имя?|A2|W-Frage: Fragewort – Verb – Subjekt.|Behörden
+Woher *kennst* du ihn?|Откуда ты его знаешь?|A2|W-Frage: Fragewort – Verb – Subjekt.|Alltag
+Was *ist* dein Lieblingsessen?|Какое твоё любимое блюдо?|A2|W-Frage: Fragewort – Verb – Subjekt.|Ernährung
+Wo *arbeitet* dein Mann?|Где работает твой муж?|A2|W-Frage: Fragewort – Verb – Subjekt.|Arbeit

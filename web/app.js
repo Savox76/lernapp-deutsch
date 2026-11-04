@@ -28,7 +28,9 @@ let W = [], S = [], T = [], MAN = {};
 let WBYID = {}, SBYID = {};
 let P = Object.assign({ w: {}, s: {}, newDay: 0, newCount: 0, fehler: {}, seenVersion: 0, drafts: {}, schreibenDone: {} }, LS.get("dl-prog", {}));
 let ST = Object.assign({ days: {} }, LS.get("dl-stats", {}));
-let SET = Object.assign({ name: "", niveau: "alle", perDay: 15, goal: 60, leicht: false, rate: 0.9, onboarded: false, auto: true, tapSay: true }, LS.get("dl-set", {}));
+let SET = Object.assign({ name: "", niveau: "alle", perDay: 30, goal: 60, leicht: false, rate: 0.9, onboarded: false, auto: true, tapSay: true }, LS.get("dl-set", {}));
+/* einmalig: neue Wörter pro Tag verdoppeln (Wunsch vom 04.11.2026) */
+if (!SET.mig2) { SET.perDay = Math.min(80, (+SET.perDay || 15) * 2); SET.mig2 = true; try { localStorage.setItem("dl-set", JSON.stringify(SET)); } catch (e) {} }
 function saveP() { LS.set("dl-prog", P); }
 function saveST() { LS.set("dl-stats", ST); }
 function saveSET() { LS.set("dl-set", SET); }
@@ -162,7 +164,7 @@ function sentPool(needVerb, cats) {
 }
 /* Auswahl: zuerst fällige Wiederholungen, dann neue echte Sätze, dann Beispielsätze, dann zufällig */
 let recentS = [];
-function pickSentence(needVerb, cats) { if (!Array.isArray(cats)) cats = null; let s = cats ? pickSentence0(needVerb, cats) : null; if (!s) s = pickSentence0(needVerb); if (s) { recentS.push(s.id); if (recentS.length > 8) recentS.shift(); } return s; }
+function pickSentence(needVerb, cats) { if (!Array.isArray(cats)) cats = null; let s = cats ? pickSentence0(needVerb, cats) : null; if (!s) s = pickSentence0(needVerb); if (s) { recentS.push(s.id); if (recentS.length > 40) recentS.shift(); } return s; }
 function pickSentence0(needVerb, cats) {
   let pool = sentPool(needVerb, cats); const p2 = pool.filter(x => !recentS.includes(x.id)); if (p2.length) pool = p2;
   if (!pool.length) return null;
@@ -184,7 +186,7 @@ function wordPool() { return kursOn() ? W.slice() : W.filter(lvOk); }
 function seenWords(list) { return list.filter(w => P.w[w.id]); }
 function prefSeen(list, min = 8) { const s = seenWords(list); return s.length >= min ? s : list; }
 let recentW = [];
-function pickCard(exclude) { const w = pickCard0(); if (w) { recentW.push(w.id); if (recentW.length > 5) recentW.shift(); } return w; }
+function pickCard(exclude) { const w = pickCard0(); if (w) { recentW.push(w.id); if (recentW.length > 20) recentW.shift(); } return w; }
 function pickCard0() {
   let p = wordPool(); const p2 = p.filter(w => !recentW.includes(w.id)); if (p2.length > 3) p = p2; const now = dayNum();
   const due = p.filter(w => P.w[w.id] && P.w[w.id].d <= now);
@@ -1407,7 +1409,7 @@ VIEWS.einstellungen = function () {
       <label>Name <input id="sName" value="${esc(SET.name)}" autocomplete="given-name"></label>
       <label>Prüfung <select id="sEx"><option value="DTB">DTB B2 – Deutsch-Test für den Beruf</option><option value="DTZ">DTZ – Deutsch-Test für Zuwanderer</option></select></label>
       <label>Niveau <select id="sLv"><option value="B1">nur B1</option><option value="alle">B1 und B2</option><option value="B2">nur B2</option></select></label>
-      <label>Neue Wörter pro Tag <select id="sPer"><option>10</option><option>15</option><option>20</option><option>30</option><option>40</option></select></label>
+      <label>Neue Wörter pro Tag <select id="sPer"><option>20</option><option>30</option><option>40</option><option>60</option><option>80</option></select></label>
       <label>Tagesziel (Aufgaben) <select id="sGoal"><option>40</option><option>60</option><option>80</option><option>100</option><option>150</option></select></label>
       <label>Vorlese-Tempo <select id="sRate"><option value="0.7">langsam</option><option value="0.9">normal</option><option value="1">schnell</option></select></label>
       <label class="check"><input type="checkbox" id="sLeicht"> Satzbau leichter: erstes Wort ist schon gesetzt</label>
