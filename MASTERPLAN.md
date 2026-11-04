@@ -2,7 +2,7 @@
 
 Stand: 04.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
 
-**Zuletzt komplett geprüft:** 04.11.2026 nach M12 (Code, Inhalte und Veröffentlichung abgeglichen).
+**Zuletzt komplett geprüft:** 04.11.2026 nach M13 (Code, Inhalte und Veröffentlichung abgeglichen).
 Zeichen: ✅ eingebaut/fertig · 🟡 teilweise · ⏳ in Arbeit · ⬜ offen · ❓ Entscheidung von Mario nötig
 Claude aktualisiert diesen Plan nach **jedem** Arbeitsschritt selbstständig.
 
@@ -28,16 +28,16 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ---
 
-## 2. Stand heute (geprüft am 04.11.2026)
+## 2. Stand heute (geprüft am 04.11.2026 nach M13)
 
 | Bereich | Stand | |
 |---|---|---|
-| Wortschatz | 5.457 Wörter (A2, B1, B2, Beruf, Alltag) | ✅ |
-| Satzbau | 3.285 Übungssätze (3.040 mit markiertem Verb), alle 12 Grammatik-Themen auf A2–B2 | ✅ |
-| Schreibaufgaben | 72 (A2, B1, B2, DTZ und DTB) | ✅ |
+| Wortschatz | 5.710 Wörter (A2, B1, B2, Beruf, Alltag, Wortfamilien, Nomen-Verb-Verbindungen) | ✅ |
+| Satzbau | 3.430 Übungssätze (3.185 mit markiertem Verb), alle 12 Grammatik-Themen auf A2–B2 | ✅ |
+| Schreibaufgaben | 86 (A2, B1, B2, DTZ und DTB; Ziel 100) | ✅ |
 | **Grundkurs von vorn** | 13 Stufen von „Verb auf Platz 2“ bis „Passiv“ plus Abschluss; Freischaltung ab 80 %; A2-Sätze zuerst | ✅ |
-| **Prüfung DTB** | 49 E-Mails · 38 Telefonnotizen · 30 Forumsbeiträge · 46 Sprachbausteine · 21 Vorträge · 10 Fragerunden · 22 Diskussionen · 15 Lösung finden · 49 Hörtexte | ✅ |
-| **Prüfung DTZ** | 34 Briefe · 30 Leseaufgaben · 31 Brief-Lückentexte · 18 Erzählthemen · 9 Fragerunden · 15 Gemeinsam planen · 50 Hörtexte | ✅ |
+| **Prüfung DTB** | 49 E-Mails · 38 Telefonnotizen · 30 Forumsbeiträge · 48 Sprachbausteine · 21 Vorträge · 10 Fragerunden · 22 Diskussionen · 15 Lösung finden · 49 Hörtexte | ✅ |
+| **Prüfung DTZ** | 34 Briefe · 30 Leseaufgaben · 33 Brief-Lückentexte · 26 Erzählthemen · 15 Fragerunden · 23 Gemeinsam planen · 54 Hörtexte | ✅ |
 | Prüfungsrechner | Punkte eintragen → bestanden ja/nein nach DTB-Regel und neuer DTZ-Regel (ab 1.11.2026) | ✅ |
 | Übungen | Karteikarten, Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat, Hörtraining, Bedeutung, der/die/das, Lückentext, Wortart, Schreiben mit Checkliste und Timer | ✅ |
 | Tagesmix | 20 Aufgaben, jede zweite Satzbau-Aufgabe aus den schwächsten Grammatik-Themen | ✅ |
@@ -52,7 +52,7 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ## 2a. Phase 1 – Meilensteine Inhalts-Ausbau A2–B2 (Auftrag vom 04.11.2026: alles vervierfachen)
 
-Ziel: ≈ 7.000 Wörter · ≈ 3.900 Übungssätze · 72 Schreibaufgaben · ≈ 520 Prüfungsaufgaben (DTB + DTZ).
+Ziel: ≈ 7.000 Wörter · ≈ 3.900 Übungssätze · **100 Schreibaufgaben** (am 04.11.2026 von 72 erhöht, weil der Wortschatz wächst) · ≈ 520 Prüfungsaufgaben (DTB + DTZ).
 Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 Prüfungsaufgaben** und wird nach Abschluss auf main gepusht.
 (Plan am 04.11. nach M5 angepasst: Die Pakete sind kleiner als zuerst gedacht, dafür sind es mehr.)
 
@@ -60,7 +60,7 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 |---|---|---|---|
 | M1 | Lernsteuerung | 30 neue Wörter/Tag, weniger Wiederholungen (Satz erst nach 40, Wort nach 20 anderen) | ✅ fertig |
 | M2 | Grundkurs-Sätze | 40–90 Sätze pro Stufe, A2 zuerst | ✅ fertig |
-| M3 | Schreibaufgaben | 18 → 72 (A2, B1, B2, DTZ und DTB) | ✅ fertig |
+| M3 | Schreibaufgaben | 18 → 72 (A2, B1, B2, DTZ und DTB); seit 04.11. Ziel 100, Rest in M13/M14 | ✅ fertig |
 | M4 | Inhaltspaket 1 | Wörter 1.754 → 3.169 · Sätze 973 → 1.602 · Prüfung 130 → 240 | ✅ fertig |
 | M5 | Inhaltspaket 2: Beruf | Pflege, Lager, Büro, Handel, Gastro, Bau, Kita · Wörter → 3.524 · Sätze → 1.800 · Prüfung → 261 | ✅ fertig |
 | M6 | Inhaltspaket 3: Alltag | Küche, Einkaufen, Haushalt, Stadt, Familie, Kleidung, Natur · DTZ-Briefe, Lesen, Hören · Wörter → 3.829 · Sätze → 1.957 · Prüfung → 289 | ✅ fertig |
@@ -70,13 +70,13 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 | M10 | Inhaltspaket 7 | Wohnen, Familie, Freizeit · Lösung finden, Fragen, Forum | ✅ fertig (Wörter → 4.974, Sätze → 2.880, Prüfung → 407) |
 | M11 | Inhaltspaket 8 | Grammatik-Drill zu allen 12 Themen · DTB-E-Mails und Telefonnotizen | ✅ fertig (Wörter → 5.148, Sätze → 3.094, Prüfung → 437) |
 | M12 | Inhaltspaket 9 | Verben, Adjektive, Redemittel · gemischte Prüfungsaufgaben | ✅ fertig (Wörter → 5.457, Sätze → 3.285, Prüfung → 467) |
-| M13 | Inhaltspaket 10 | Wortfamilien, Nomen-Verb-Verbindungen · Sprechen DTZ | ⏳ als Nächstes |
-| M14 | Inhaltspaket 11 | Lücken füllen bei Sätzen und Prüfung, bis die Zielzahlen erreicht sind | ⬜ offen |
+| M13 | Inhaltspaket 10 | Wortfamilien, Nomen-Verb-Verbindungen · Sprechen DTZ · +14 Schreibaufgaben | ✅ fertig (Wörter → 5.710, Sätze → 3.430, Schreiben → 86, Prüfung → 497) |
+| M14 | Inhaltspaket 11 | Lücken füllen bei Sätzen und Prüfung, bis die Zielzahlen erreicht sind · +14 Schreibaufgaben (→ 100) | ⏳ als Nächstes |
 | M15 | Wörter-Paket A | +450 Wörter: Fachwortschatz (Pflege, Technik, Logistik, Verwaltung), Adjektive, Adverbien – Kandidaten vorab gegen Bestand prüfen | ⬜ offen |
 | M16 | Wörter-Paket B | +450 Wörter: Restlücke bis ≈ 7.000, Schwerpunkt B1/B2 | ⬜ offen |
 | M17 | Abschluss Phase 1 | Qualitätscheck (Dubletten, Verbmarkierung, Übersetzungen, Test im Browser), Zahlen prüfen | ⬜ offen |
 
-**Stand:** 12 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 5.457 Wörter · 3.285 Sätze · 72 Schreibaufgaben · 467 Prüfungsaufgaben.
+**Stand:** 13 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 5.710 Wörter · 3.430 Sätze · 86 Schreibaufgaben · 497 Prüfungsaufgaben.
 
 
 **Warum 17 statt 15:** Gängige Wörter sind inzwischen fast alle vorhanden (oft 30–60 % Dubletten). M5–M11 haben je nur 170–340 statt 400 neue Wörter gebracht. Mario hat am 04.11.2026 zugestimmt, mehr Meilensteine einzuplanen.
@@ -251,7 +251,7 @@ Zusätzlich **7 Tage Premium kostenlos** testen. Die bisherige Lernerin behält 
 
 | # | Phase | Inhalt | Ergebnis / Bedingung zum Weitergehen | Status |
 |---|---|---|---|---|
-| G1 | Inhalte fertig | M7–M17 abschließen | alle Zielzahlen erreicht, Qualitätscheck bestanden | ⏳ läuft (12 von 17) |
+| G1 | Inhalte fertig | M7–M17 abschließen | alle Zielzahlen erreicht, Qualitätscheck bestanden | ⏳ läuft (13 von 17) |
 | G2 | Testgruppe | 10–20 fremde Lernende nutzen die Web-App **kostenlos** 4 Wochen lang. Kurzer Fragebogen: Was fehlt? Würdest du 4,99 € zahlen? | mind. die Hälfte lernt nach 4 Wochen noch ≥ 3 Tage pro Woche, mind. 5 würden zahlen | ⬜ offen |
 | G3 | Rechtliches | Gewerbe anmelden, steuerliche Einordnung klären (Kleinunternehmer?), Impressum, Datenschutzerklärung (DSGVO), AGB mit Widerrufsbelehrung, Google-Play-Entwicklerkonto mit Zahlungsprofil, App-Name auf Markenrechte prüfen | alles erledigt, bevor der erste Euro fließt | ⬜ offen |
 | G4 | Technik | Anmeldung und Online-Speicher, Bezahlinhalte privat, Gratis/Premium-Grenze, Play Billing, russische Oberfläche, Datenübernahme aus localStorage | geschlossener Test mit der Testgruppe im Play Store | ⬜ offen |

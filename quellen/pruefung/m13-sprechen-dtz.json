@@ -1,0 +1,1124 @@
+{
+ "fragen": [
+  {
+   "id": "q20",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zur Person",
+   "fragen": [
+    {
+     "q": "Wie heißen Sie?",
+     "m": "Ich heiße Olga Iwanowa.",
+     "ru": "Как вас зовут?"
+    },
+    {
+     "q": "Woher kommen Sie?",
+     "m": "Ich komme aus der Ukraine, aus Charkiw.",
+     "ru": "Откуда вы?"
+    },
+    {
+     "q": "Seit wann leben Sie in Deutschland?",
+     "m": "Ich lebe seit drei Jahren in Deutschland.",
+     "ru": "С какого времени вы живёте в Германии?"
+    },
+    {
+     "q": "Was haben Sie in Ihrer Heimat gemacht?",
+     "m": "Ich habe als Krankenschwester in einem Krankenhaus gearbeitet.",
+     "ru": "Чем вы занимались на родине?"
+    },
+    {
+     "q": "Was machen Sie jetzt beruflich?",
+     "m": "Jetzt arbeite ich als Pflegehelferin in einem Altenheim.",
+     "ru": "Чем вы сейчас занимаетесь?"
+    }
+   ]
+  },
+  {
+   "id": "q21",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum Deutschlernen",
+   "fragen": [
+    {
+     "q": "Wie lange lernen Sie schon Deutsch?",
+     "m": "Ich lerne seit zwei Jahren Deutsch.",
+     "ru": "Как долго вы уже учите немецкий?"
+    },
+    {
+     "q": "Was ist für Sie schwer?",
+     "m": "Für mich ist die Wortstellung schwer, besonders im Nebensatz.",
+     "ru": "Что для вас трудно?"
+    },
+    {
+     "q": "Wie lernen Sie zu Hause?",
+     "m": "Ich lerne jeden Tag mit einer App und höre Podcasts.",
+     "ru": "Как вы учите дома?"
+    },
+    {
+     "q": "Wo sprechen Sie Deutsch?",
+     "m": "Ich spreche Deutsch bei der Arbeit, beim Einkaufen und mit den Nachbarn.",
+     "ru": "Где вы говорите по-немецки?"
+    },
+    {
+     "q": "Warum lernen Sie Deutsch?",
+     "m": "Ich brauche Deutsch für meine Arbeit und für die Anerkennung meines Diploms.",
+     "ru": "Зачем вы учите немецкий?"
+    }
+   ]
+  },
+  {
+   "id": "q22",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum Alltag",
+   "fragen": [
+    {
+     "q": "Wie sieht ein normaler Tag bei Ihnen aus?",
+     "m": "Ich stehe um sechs Uhr auf, bringe die Kinder zur Schule und fahre dann zur Arbeit.",
+     "ru": "Как выглядит ваш обычный день?"
+    },
+    {
+     "q": "Wie kommen Sie zur Arbeit?",
+     "m": "Ich fahre mit der Straßenbahn, das dauert etwa 20 Minuten.",
+     "ru": "Как вы добираетесь до работы?"
+    },
+    {
+     "q": "Wer macht bei Ihnen den Haushalt?",
+     "m": "Mein Mann und ich teilen uns den Haushalt. Er kocht, ich wasche.",
+     "ru": "Кто у вас занимается хозяйством?"
+    },
+    {
+     "q": "Was machen Sie am Abend?",
+     "m": "Am Abend helfe ich den Kindern bei den Hausaufgaben und lerne Deutsch.",
+     "ru": "Что вы делаете вечером?"
+    },
+    {
+     "q": "Was machen Sie am Wochenende?",
+     "m": "Am Wochenende gehen wir oft in den Park oder besuchen Freunde.",
+     "ru": "Что вы делаете на выходных?"
+    }
+   ]
+  },
+  {
+   "id": "q23",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zur Stadt",
+   "fragen": [
+    {
+     "q": "Wo wohnen Sie?",
+     "m": "Ich wohne in Dresden, im Stadtteil Neustadt.",
+     "ru": "Где вы живёте?"
+    },
+    {
+     "q": "Was gefällt Ihnen an Ihrer Stadt?",
+     "m": "Mir gefallen die vielen Parks und die Elbe.",
+     "ru": "Что вам нравится в вашем городе?"
+    },
+    {
+     "q": "Was gefällt Ihnen nicht?",
+     "m": "Die Mieten sind sehr hoch und es gibt wenig Parkplätze.",
+     "ru": "Что вам не нравится?"
+    },
+    {
+     "q": "Was kann man in Ihrer Stadt machen?",
+     "m": "Man kann in Museen gehen, Rad fahren und im Sommer an der Elbe grillen.",
+     "ru": "Что можно делать в вашем городе?"
+    },
+    {
+     "q": "Möchten Sie in Ihrer Stadt bleiben?",
+     "m": "Ja, ich möchte bleiben, weil meine Kinder hier ihre Freunde haben.",
+     "ru": "Хотите ли вы остаться в своём городе?"
+    }
+   ]
+  },
+  {
+   "id": "q24",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Gesundheit und Sport",
+   "fragen": [
+    {
+     "q": "Was tun Sie für Ihre Gesundheit?",
+     "m": "Ich gehe viel zu Fuß und esse viel Obst und Gemüse.",
+     "ru": "Что вы делаете для здоровья?"
+    },
+    {
+     "q": "Machen Sie Sport?",
+     "m": "Ja, ich gehe zweimal pro Woche schwimmen.",
+     "ru": "Вы занимаетесь спортом?"
+    },
+    {
+     "q": "Wann waren Sie zuletzt beim Arzt?",
+     "m": "Ich war letzten Monat beim Zahnarzt, zur Kontrolle.",
+     "ru": "Когда вы последний раз были у врача?"
+    },
+    {
+     "q": "Was machen Sie, wenn Sie krank sind?",
+     "m": "Ich rufe beim Hausarzt an und melde mich bei der Arbeit krank.",
+     "ru": "Что вы делаете, когда болеете?"
+    },
+    {
+     "q": "Ist das Gesundheitssystem anders als in Ihrer Heimat?",
+     "m": "Ja, hier geht man zuerst zum Hausarzt. Das kannte ich so nicht.",
+     "ru": "Отличается ли система здравоохранения от вашей родины?"
+    }
+   ]
+  },
+  {
+   "id": "q25",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Plänen und Zukunft",
+   "fragen": [
+    {
+     "q": "Was möchten Sie in fünf Jahren machen?",
+     "m": "In fünf Jahren möchte ich als Pflegefachkraft arbeiten.",
+     "ru": "Что вы хотите делать через пять лет?"
+    },
+    {
+     "q": "Möchten Sie noch eine Ausbildung machen?",
+     "m": "Ja, ich möchte die Ausbildung zur Pflegefachkraft machen.",
+     "ru": "Хотите ли вы получить ещё одну профессию?"
+    },
+    {
+     "q": "Was ist Ihr größter Wunsch?",
+     "m": "Mein größter Wunsch ist, dass meine Familie gesund bleibt.",
+     "ru": "Каково ваше самое большое желание?"
+    },
+    {
+     "q": "Was brauchen Sie dafür?",
+     "m": "Dafür brauche ich das B2-Zertifikat und etwas Glück.",
+     "ru": "Что вам для этого нужно?"
+    },
+    {
+     "q": "Wollen Sie in Deutschland bleiben?",
+     "m": "Ja, ich möchte in Deutschland bleiben, weil wir uns hier ein neues Leben aufgebaut haben.",
+     "ru": "Хотите ли вы остаться в Германии?"
+    }
+   ]
+  }
+ ],
+ "vortrag": [
+  {
+   "id": "v40",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Einkaufen früher und heute",
+   "thema": "Erzählen Sie: Wie kaufen Sie ein?",
+   "stichpunkte": [
+    "Wo kaufen Sie ein?",
+    "Kaufen Sie auch online?",
+    "Wie war das in Ihrer Heimat?",
+    "Was ist Ihnen wichtig?"
+   ],
+   "ru": "Расскажите, как вы делаете покупки: где, онлайн ли, как на родине, что важно.",
+   "rm": [
+    "Meistens kaufe ich …",
+    "Online bestelle ich …",
+    "In meiner Heimat …",
+    "Wichtig ist mir, dass …"
+   ],
+   "m": "Meistens kaufe ich im Supermarkt in der Nähe ein. Obst und Gemüse kaufe ich samstags auf dem Wochenmarkt.\n\nKleidung und Schuhe bestelle ich manchmal online, weil das bequem ist. Lebensmittel bestelle ich nie im Internet.\n\nIn meiner Heimat haben wir viel auf dem Markt gekauft, und die Geschäfte waren auch am Sonntag offen.\n\nWichtig ist mir, dass die Produkte frisch und nicht zu teuer sind. Ich achte auch auf Angebote."
+  },
+  {
+   "id": "v41",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wohnen in Deutschland",
+   "thema": "Erzählen Sie: Wie wohnen Sie?",
+   "stichpunkte": [
+    "Wie ist Ihre Wohnung?",
+    "Wie haben Sie sie gefunden?",
+    "Was ist anders als in Ihrer Heimat?",
+    "Was wünschen Sie sich?"
+   ],
+   "ru": "Расскажите, как вы живёте: квартира, как нашли, отличия от родины, ваши пожелания.",
+   "rm": [
+    "Wir wohnen in …",
+    "Die Wohnung haben wir … gefunden.",
+    "Anders ist, dass …",
+    "Ich wünsche mir …"
+   ],
+   "m": "Wir wohnen in einer Dreizimmerwohnung im dritten Stock. Wir haben einen kleinen Balkon.\n\nDie Wohnung haben wir über eine Anzeige im Internet gefunden. Wir haben fast ein Jahr gesucht und viele Besichtigungen gemacht.\n\nAnders als in meiner Heimat ist, dass man hier den Müll genau trennen muss und dass es eine Hausordnung mit Ruhezeiten gibt.\n\nIch wünsche mir eine größere Wohnung mit Garten für die Kinder."
+  },
+  {
+   "id": "v42",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kinder und Erziehung",
+   "thema": "Erzählen Sie: Wie ist es, in Deutschland Kinder großzuziehen?",
+   "stichpunkte": [
+    "Kita und Schule",
+    "Freizeit der Kinder",
+    "Was ist anders als in Ihrer Heimat?",
+    "Was ist Ihnen in der Erziehung wichtig?"
+   ],
+   "ru": "Расскажите, каково растить детей в Германии: детсад и школа, досуг, отличия от родины, что важно в воспитании.",
+   "rm": [
+    "Meine Kinder gehen …",
+    "In der Freizeit …",
+    "Anders ist, dass …",
+    "Mir ist wichtig, dass …"
+   ],
+   "m": "Meine Tochter geht in die Kita und mein Sohn in die Grundschule. Die Lehrer sind sehr nett.\n\nIn der Freizeit spielt mein Sohn Fußball im Verein, und meine Tochter geht zum Schwimmkurs.\n\nAnders als in meiner Heimat ist, dass die Kinder hier viel draußen spielen und weniger Hausaufgaben haben.\n\nMir ist wichtig, dass meine Kinder höflich sind und beide Sprachen sprechen, Deutsch und Russisch."
+  },
+  {
+   "id": "v43",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ein Fest in Deutschland",
+   "thema": "Erzählen Sie von einem deutschen Fest, das Sie erlebt haben.",
+   "stichpunkte": [
+    "Welches Fest?",
+    "Was haben Sie gemacht?",
+    "Wie hat es Ihnen gefallen?",
+    "Gibt es so ein Fest auch in Ihrer Heimat?"
+   ],
+   "ru": "Расскажите о немецком празднике, который вы пережили: какой праздник, что делали, понравилось ли, есть ли такой на родине.",
+   "rm": [
+    "Letztes Jahr habe ich … gefeiert.",
+    "Wir haben …",
+    "Besonders gut gefallen hat mir …",
+    "Bei uns gibt es …"
+   ],
+   "m": "Letztes Jahr habe ich zum ersten Mal Ostern in Deutschland gefeiert.\n\nWir waren bei unseren deutschen Nachbarn eingeladen. Die Kinder haben im Garten bunte Eier gesucht, und danach haben wir zusammen gefrühstückt.\n\nBesonders gut gefallen hat mir, wie viel Spaß die Kinder hatten.\n\nIn meiner Heimat feiern wir Ostern auch, aber ein bisschen später und mit Osterkuchen. Die Eier färben wir auch."
+  },
+  {
+   "id": "v44",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Hilfe im Alltag",
+   "thema": "Erzählen Sie: Wer hat Ihnen in Deutschland geholfen?",
+   "stichpunkte": [
+    "Wer hat geholfen?",
+    "Wobei?",
+    "Wie haben Sie sich gefühlt?",
+    "Helfen Sie heute anderen?"
+   ],
+   "ru": "Расскажите, кто помог вам в Германии: кто, в чём, что вы чувствовали, помогаете ли вы теперь другим.",
+   "rm": [
+    "Am Anfang hat mir … geholfen.",
+    "Sie hat mir bei … geholfen.",
+    "Ich war sehr dankbar, weil …",
+    "Heute helfe ich …"
+   ],
+   "m": "Am Anfang hat mir meine Nachbarin, Frau Berger, sehr geholfen.\n\nSie hat mir die Briefe von den Ämtern erklärt und ist mit mir zum Bürgeramt gegangen. Sie hat mir auch gezeigt, wie man den Müll trennt.\n\nIch war sehr dankbar, weil ich am Anfang fast nichts verstanden habe und mich hilflos gefühlt habe.\n\nHeute helfe ich selbst neuen Familien aus der Ukraine, zum Beispiel beim Ausfüllen von Formularen."
+  },
+  {
+   "id": "v45",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Mein Lieblingsort",
+   "thema": "Erzählen Sie: Wo sind Sie am liebsten?",
+   "stichpunkte": [
+    "Welcher Ort?",
+    "Was machen Sie dort?",
+    "Mit wem gehen Sie dorthin?",
+    "Warum gefällt er Ihnen?"
+   ],
+   "ru": "Расскажите о своём любимом месте: какое, что там делаете, с кем ходите, почему нравится.",
+   "rm": [
+    "Mein Lieblingsort ist …",
+    "Dort …",
+    "Meistens gehe ich mit …",
+    "Er gefällt mir, weil …"
+   ],
+   "m": "Mein Lieblingsort ist das Elbufer in Dresden.\n\nDort gehe ich spazieren, und im Sommer machen wir mit den Kindern Picknick auf der Wiese.\n\nMeistens gehe ich mit meiner Familie dorthin, manchmal auch allein nach der Arbeit.\n\nEr gefällt mir, weil man dort die Altstadt sieht und weil es ruhig ist. Dort kann ich nach einem stressigen Tag gut entspannen."
+  },
+  {
+   "id": "v46",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ein Missverständnis",
+   "thema": "Erzählen Sie von einem Missverständnis wegen der Sprache.",
+   "stichpunkte": [
+    "Was ist passiert?",
+    "Wie haben die anderen reagiert?",
+    "Wie wurde das Problem gelöst?",
+    "Was haben Sie daraus gelernt?"
+   ],
+   "ru": "Расскажите о недоразумении из-за языка: что случилось, как отреагировали другие, как решили проблему, чему научились.",
+   "rm": [
+    "Einmal wollte ich …",
+    "Ich habe aber … gesagt.",
+    "Alle haben gelacht, und …",
+    "Seitdem …"
+   ],
+   "m": "Einmal wollte ich beim Bäcker zehn Brötchen bestellen. Ich habe aber „zehn Brote“ gesagt.\n\nDie Verkäuferin hat sehr überrascht geschaut und gefragt, ob wir eine große Party haben.\n\nDann haben wir beide gelacht, und sie hat mir den Unterschied zwischen Brot und Brötchen erklärt.\n\nSeitdem habe ich keine Angst mehr, Fehler zu machen. Ich frage einfach nach, wenn ich etwas nicht verstehe."
+  },
+  {
+   "id": "v47",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Arbeit und Familie",
+   "thema": "Erzählen Sie: Wie verbinden Sie Arbeit und Familie?",
+   "stichpunkte": [
+    "Wie organisieren Sie den Tag?",
+    "Wer hilft Ihnen?",
+    "Was ist schwierig?",
+    "Was wünschen Sie sich vom Arbeitgeber?"
+   ],
+   "ru": "Расскажите, как вы совмещаете работу и семью: организация дня, кто помогает, что трудно, чего хотите от работодателя.",
+   "rm": [
+    "Morgens …",
+    "Mein Mann …",
+    "Schwierig ist, wenn …",
+    "Ich wünsche mir …"
+   ],
+   "m": "Morgens bringe ich die Kinder zur Kita und zur Schule, danach fahre ich zur Arbeit.\n\nMein Mann holt die Kinder ab, wenn ich Spätdienst habe. Manchmal hilft auch eine Nachbarin.\n\nSchwierig ist, wenn ein Kind krank wird und wir beide arbeiten müssen.\n\nIch wünsche mir vom Arbeitgeber, dass Eltern feste Dienste bekommen und nicht so oft am Wochenende arbeiten müssen."
+  }
+ ],
+ "loesung": [
+  {
+   "id": "l31",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Deutschlernen am Wochenende",
+   "thema": "Eine Lerngruppe gründen",
+   "situation": "Sie möchten mit einer Kursteilnehmerin eine Lerngruppe für das Wochenende gründen. Planen Sie: Wann? Wo? Was üben Sie?",
+   "rm": [
+    "Wie wäre es mit …?",
+    "Was meinst du?",
+    "Gute Idee!",
+    "Ich kümmere mich um …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Wann sollen wir uns treffen?",
+     "o": [
+      "Wie wäre es mit Samstagvormittag um zehn? Dann haben wir den Nachmittag für die Familie.",
+      "Nachts.",
+      "Ist mir egal."
+     ],
+     "r": 0,
+     "e": "Konkreter Vorschlag mit Begründung."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Und wo? Bei mir zu Hause ist es zu laut.",
+     "o": [
+      "Wir könnten in die Stadtbibliothek gehen, dort gibt es Gruppenräume. Ich frage, ob wir einen Raum reservieren können. Kannst du die anderen fragen, wer mitmachen möchte?",
+      "Im Café ist es auch laut.",
+      "Dann eben nicht."
+     ],
+     "r": 0,
+     "e": "Alternative + Aufgaben verteilen."
+    }
+   ],
+   "m": "Samstags 10 Uhr in der Stadtbibliothek; ich reserviere den Raum, die Kursteilnehmerin fragt die anderen."
+  },
+  {
+   "id": "l32",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fahrrad-Tour mit Kindern",
+   "thema": "Ausflug mit dem Fahrrad",
+   "situation": "Sie planen mit einem Freund eine Fahrradtour mit den Kindern. Planen Sie: Wohin? Wie lange? Was nehmen Sie mit?",
+   "rm": [
+    "Wie wäre es mit …?",
+    "Was meinst du?",
+    "Gute Idee!",
+    "Ich kümmere mich um …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Wohin sollen wir fahren?",
+     "o": [
+      "Wie wäre es mit dem Radweg an der Elbe bis Pillnitz? Der ist flach und sicher für die Kinder.",
+      "In die Berge.",
+      "Auf der Autobahn."
+     ],
+     "r": 0,
+     "e": "Kindgerechtes Ziel mit Begründung."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Wie lange fahren die Kinder durch?",
+     "o": [
+      "Nicht länger als eine Stunde, dann machen wir Pause auf einem Spielplatz. Ich nehme Brote und Wasser mit. Kannst du Flickzeug und eine Luftpumpe einpacken?",
+      "Drei Stunden ohne Pause.",
+      "Die Kinder bleiben zu Hause."
+     ],
+     "r": 0,
+     "e": "Realistische Planung + Aufgaben."
+    }
+   ],
+   "m": "Radweg an der Elbe bis Pillnitz, max. eine Stunde fahren, Pause am Spielplatz. Ich: Essen und Wasser; Freund: Flickzeug und Luftpumpe."
+  },
+  {
+   "id": "l33",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Hilfe für eine kranke Nachbarin",
+   "thema": "Nachbarschaftshilfe organisieren",
+   "situation": "Ihre ältere Nachbarin hatte eine Operation und kann zwei Wochen nicht einkaufen. Planen Sie mit einem anderen Nachbarn, wie Sie helfen.",
+   "rm": [
+    "Wie wäre es mit …?",
+    "Was meinst du?",
+    "Gute Idee!",
+    "Ich kümmere mich um …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Wie können wir ihr helfen?",
+     "o": [
+      "Wir könnten abwechselnd für sie einkaufen. Ich gehe montags und donnerstags, du dienstags und freitags?",
+      "Sie soll online bestellen.",
+      "Das ist nicht unser Problem."
+     ],
+     "r": 0,
+     "e": "Hilfe konkret aufteilen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Und was ist mit dem Müll und der Apotheke?",
+     "o": [
+      "Den Müll kann ich mitnehmen, wenn ich einkaufe. Die Medikamente holst du, die Apotheke ist ja neben deiner Arbeit. Wir sollten ihr auch unsere Telefonnummern geben.",
+      "Das macht der Hausmeister.",
+      "Keine Zeit."
+     ],
+     "r": 0,
+     "e": "Weitere Aufgaben verteilen + Kontakt sichern."
+    }
+   ],
+   "m": "Abwechselnd einkaufen (ich Mo/Do, Nachbar Di/Fr), ich nehme den Müll mit, der Nachbar holt die Medikamente; Telefonnummern an die Nachbarin geben."
+  },
+  {
+   "id": "l34",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Sommerfest der Kita",
+   "thema": "Einen Stand beim Kita-Fest planen",
+   "situation": "Sie und eine andere Mutter sollen beim Sommerfest der Kita einen Stand machen. Planen Sie: Was bieten Sie an? Was brauchen Sie? Wer macht was?",
+   "rm": [
+    "Wie wäre es mit …?",
+    "Was meinst du?",
+    "Gute Idee!",
+    "Ich kümmere mich um …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Was für einen Stand machen wir?",
+     "o": [
+      "Wie wäre es mit einem Kuchenstand? Das Geld kann für neue Spielsachen sein.",
+      "Einen Bierstand.",
+      "Gar keinen."
+     ],
+     "r": 0,
+     "e": "Passende Idee mit Ziel."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Gut. Aber wer backt die Kuchen?",
+     "o": [
+      "Wir fragen alle Eltern, ob jede Familie einen Kuchen mitbringt. Ich schreibe die Liste für die Gruppe, und du besorgst Teller und Servietten?",
+      "Ich backe zehn Kuchen allein.",
+      "Wir kaufen alles im Supermarkt."
+     ],
+     "r": 0,
+     "e": "Aufgaben fair verteilen."
+    }
+   ],
+   "m": "Kuchenstand, Erlös für Spielsachen; Eltern bringen Kuchen mit (ich mache die Liste), die andere Mutter besorgt Teller und Servietten."
+  },
+  {
+   "id": "l35",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ein Geschenk für den Lehrer",
+   "thema": "Abschiedsgeschenk für den Deutschlehrer",
+   "situation": "Ihr Deutschkurs ist zu Ende. Planen Sie mit einer Kursteilnehmerin ein Geschenk für den Lehrer.",
+   "rm": [
+    "Wie wäre es mit …?",
+    "Was meinst du?",
+    "Gute Idee!",
+    "Ich kümmere mich um …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Was könnten wir ihm schenken?",
+     "o": [
+      "Er liest gern. Wie wäre es mit einem Buch und einer Karte, auf der jeder etwas in seiner Muttersprache schreibt?",
+      "Geld.",
+      "Nichts, er bekommt ja Lohn."
+     ],
+     "r": 0,
+     "e": "Persönliche Idee mit Begründung."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Wie viel Geld sammeln wir?",
+     "o": [
+      "Drei Euro pro Person reichen, nicht alle haben viel Geld. Ich sammle das Geld, und du kaufst das Buch?",
+      "Fünfzig Euro pro Person.",
+      "Jeder bezahlt, was er will."
+     ],
+     "r": 0,
+     "e": "Fairer Betrag + Aufgaben."
+    }
+   ],
+   "m": "Buch und Karte mit Grüßen in allen Muttersprachen; drei Euro pro Person; ich sammle, die Kursteilnehmerin kauft das Buch."
+  },
+  {
+   "id": "l36",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Spieleabend im Haus",
+   "thema": "Einen Spieleabend für die Nachbarn planen",
+   "situation": "Sie möchten mit einer Nachbarin einen Spieleabend für alle Familien im Haus organisieren. Planen Sie: Wann? Wo? Was gibt es?",
+   "rm": [
+    "Wie wäre es mit …?",
+    "Was meinst du?",
+    "Gute Idee!",
+    "Ich kümmere mich um …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Wann machen wir den Spieleabend?",
+     "o": [
+      "Wie wäre es mit Freitagabend um 18 Uhr? Am nächsten Tag ist keine Schule.",
+      "Montag um 22 Uhr.",
+      "Am Sonntagmorgen."
+     ],
+     "r": 0,
+     "e": "Gute Zeit für Familien."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Wo sollen wir spielen? Unsere Wohnungen sind klein.",
+     "o": [
+      "Wir könnten den Gemeinschaftsraum im Keller nutzen. Ich frage die Hausverwaltung. Jede Familie bringt ein Spiel und etwas zu essen mit.",
+      "Draußen im Regen.",
+      "Bei mir in der Küche."
+     ],
+     "r": 0,
+     "e": "Ort + Organisation."
+    }
+   ],
+   "m": "Freitag 18 Uhr im Gemeinschaftsraum; ich frage die Hausverwaltung; jede Familie bringt ein Spiel und etwas zu essen mit."
+  },
+  {
+   "id": "l37",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Besuch aus der Heimat",
+   "thema": "Programm für Besuch planen",
+   "situation": "Ihre Eltern kommen eine Woche zu Besuch. Planen Sie mit Ihrem Partner das Programm.",
+   "rm": [
+    "Wie wäre es mit …?",
+    "Was meinst du?",
+    "Gute Idee!",
+    "Ich kümmere mich um …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Was wollen wir mit deinen Eltern machen?",
+     "o": [
+      "Am Wochenende könnten wir einen Ausflug in die Sächsische Schweiz machen. Unter der Woche zeigen wir ihnen die Altstadt.",
+      "Sie sollen fernsehen.",
+      "Ich weiß nicht."
+     ],
+     "r": 0,
+     "e": "Programm vorschlagen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Aber wir müssen ja beide arbeiten.",
+     "o": [
+      "Ich nehme mir zwei Tage Urlaub. An den anderen Tagen können sie mit der Straßenbahn allein in die Stadt fahren, ich kaufe ihnen ein Wochenticket.",
+      "Dann bleiben sie allein zu Hause.",
+      "Sie sollen nicht kommen."
+     ],
+     "r": 0,
+     "e": "Lösung für die Arbeitszeit."
+    }
+   ],
+   "m": "Wochenende Ausflug Sächsische Schweiz; ich nehme zwei Tage Urlaub; sonst fahren die Eltern mit Wochenticket allein in die Stadt."
+  },
+  {
+   "id": "l38",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Putzplan in der WG",
+   "thema": "Einen Putzplan machen",
+   "situation": "Sie wohnen in einer Wohngemeinschaft. Die Küche ist immer schmutzig. Planen Sie mit Ihrem Mitbewohner einen Putzplan.",
+   "rm": [
+    "Wie wäre es mit …?",
+    "Was meinst du?",
+    "Gute Idee!",
+    "Ich kümmere mich um …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Die Küche ist ständig dreckig. Was machen wir?",
+     "o": [
+      "Wir sollten einen Putzplan machen. Jede Woche ist eine andere Person für die Küche verantwortlich.",
+      "Wir essen nur noch draußen.",
+      "Das ist deine Aufgabe."
+     ],
+     "r": 0,
+     "e": "Lösung vorschlagen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Und wenn jemand seine Woche vergisst?",
+     "o": [
+      "Dann muss er die nächste Woche auch putzen. Ich schreibe den Plan und hänge ihn an den Kühlschrank. Kannst du die anderen informieren?",
+      "Dann gibt es Streit.",
+      "Egal."
+     ],
+     "r": 0,
+     "e": "Regel + Aufgaben verteilen."
+    }
+   ],
+   "m": "Wöchentlicher Putzplan am Kühlschrank; wer vergisst, putzt die nächste Woche auch; ich schreibe den Plan, der Mitbewohner informiert die anderen."
+  }
+ ],
+ "hoeren": [
+  {
+   "id": "h100",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ansage am Bahnhof",
+   "situation": "Sie hören eine Durchsage am Bahnhof.",
+   "text": "Achtung an Gleis 3: Der Regionalexpress nach Leipzig, planmäßige Abfahrt 14 Uhr 12, fällt heute wegen einer Signalstörung aus. Fahrgäste nach Leipzig nehmen bitte den Ersatzbus vor dem Haupteingang. Der Bus fährt um 14 Uhr 30. Ihre Fahrkarte gilt auch im Bus. Wir bitten um Entschuldigung.",
+   "fragen": [
+    {
+     "q": "Warum fällt der Zug aus?",
+     "o": [
+      "wegen einer Signalstörung",
+      "wegen des Wetters",
+      "wegen eines Streiks"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wann fährt der Ersatzbus?",
+     "o": [
+      "um 14:12 Uhr",
+      "um 14:30 Uhr",
+      "um 15 Uhr"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Man braucht für den Bus eine neue Fahrkarte."
+    }
+   ]
+  },
+  {
+   "id": "h101",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch beim Kinderarzt: Anmeldung",
+   "situation": "Eine Mutter ruft beim Kinderarzt an.",
+   "text": "– Praxis Dr. Sommer, guten Tag. – Guten Tag, Iwanowa. Meine Tochter braucht die U8-Untersuchung, sie wird bald vier. – Gern. Wir haben am 14. Mai um 9 Uhr einen Termin frei. – Das ist leider schlecht, da arbeite ich. Haben Sie auch nachmittags etwas? – Am 16. Mai um 15:30 Uhr. – Das passt. – Bitte bringen Sie das gelbe Heft und die Versichertenkarte mit. Und Ihre Tochter sollte vorher nicht zu viel trinken, wir machen auch einen Urintest.",
+   "fragen": [
+    {
+     "q": "Wann ist der Termin?",
+     "o": [
+      "am 14. Mai um 9 Uhr",
+      "am 16. Mai um 15:30 Uhr",
+      "am 16. Mai um 9 Uhr"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was soll die Mutter mitbringen?",
+     "o": [
+      "den Impfpass",
+      "das gelbe Heft und die Versichertenkarte",
+      "ein Foto"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Die Tochter soll vorher viel trinken."
+    }
+   ]
+  },
+  {
+   "id": "h102",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Radio: Veranstaltungstipp",
+   "situation": "Sie hören einen Tipp im Radio.",
+   "text": "Und hier noch ein Tipp fürs Wochenende: Am Samstag ist in der Neustadt wieder Flohmarkt. Von 8 bis 16 Uhr kann man auf dem Alaunplatz alte Möbel, Kleidung und Spielzeug kaufen. Wer selbst verkaufen möchte, muss sich bis Donnerstag online anmelden, ein Stand kostet 10 Euro. Für Kinder gibt es kostenlos Kinderschminken. Bei Regen fällt der Flohmarkt aus.",
+   "fragen": [
+    {
+     "q": "Wann ist der Flohmarkt?",
+     "o": [
+      "am Sonntag",
+      "am Donnerstag",
+      "am Samstag von 8 bis 16 Uhr"
+     ],
+     "r": 2
+    },
+    {
+     "q": "Was kostet ein Stand?",
+     "o": [
+      "nichts",
+      "16 Euro",
+      "10 Euro"
+     ],
+     "r": 2
+    },
+    {
+     "rf": false,
+     "q": "Bei Regen findet der Flohmarkt in einer Halle statt."
+    }
+   ]
+  },
+  {
+   "id": "h103",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch im Deutschkurs",
+   "situation": "Zwei Kursteilnehmerinnen sprechen in der Pause.",
+   "text": "– Hast du schon gehört? Nächste Woche fällt der Kurs am Mittwoch aus, die Lehrerin hat eine Fortbildung. – Echt? Und wann holen wir die Stunden nach? – Am Samstag von 9 bis 12. – Oh, samstags arbeite ich. – Dann frag doch, ob du die Aufgaben per E-Mail bekommst. – Gute Idee. Und wann ist eigentlich die Prüfung? – Am 20. Juni. Die Anmeldung muss bis Ende Mai im Büro sein.",
+   "fragen": [
+    {
+     "q": "Warum fällt der Kurs aus?",
+     "o": [
+      "Die Lehrerin ist krank.",
+      "Die Lehrerin hat eine Fortbildung.",
+      "Es ist ein Feiertag."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wann werden die Stunden nachgeholt?",
+     "o": [
+      "am Samstag von 9 bis 12",
+      "am Mittwochabend",
+      "gar nicht"
+     ],
+     "r": 0
+    },
+    {
+     "rf": true,
+     "q": "Die Anmeldung zur Prüfung muss bis Ende Mai im Büro sein."
+    }
+   ]
+  }
+ ],
+ "sb": [
+  {
+   "id": "s78",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Information zur Dienstplanänderung",
+   "text": "Liebes Team,\n\nab dem 1. Juli kommt auf unserer Station ein neues Dienstplanprogramm zum {{1}}. Damit möchten wir die Planung vereinfachen und mehr Rücksicht {{2}} eure Wünsche nehmen. Bitte tragt eure Wünsche bis zum 15. eines Monats ein. Wer Fragen hat, kann sich jederzeit mit mir in {{3}} setzen. Die Einführung hat zur {{4}}, dass die alten Wunschbücher abgeschafft werden. Ich bin sicher, dass wir die Umstellung gemeinsam gut zum {{5}} bringen. Vielen Dank für eure {{6}}!\n\nViele Grüße\nMonika Keller",
+   "gaps": [
+    {
+     "o": [
+      "Gebrauch",
+      "Einsetzen",
+      "Einsatz"
+     ],
+     "r": 2,
+     "k": "Nomen-Verb-Verbindung",
+     "e": "zum Einsatz kommen = benutzt werden."
+    },
+    {
+     "o": [
+      "an",
+      "für",
+      "auf"
+     ],
+     "r": 2,
+     "k": "Nomen-Verb-Verbindung",
+     "e": "Rücksicht nehmen auf."
+    },
+    {
+     "o": [
+      "Beziehung",
+      "Verbindung",
+      "Kontakt"
+     ],
+     "r": 1,
+     "k": "Nomen-Verb-Verbindung",
+     "e": "sich in Verbindung setzen mit."
+    },
+    {
+     "o": [
+      "Wirkung",
+      "Ergebnis",
+      "Folge"
+     ],
+     "r": 2,
+     "k": "Nomen-Verb-Verbindung",
+     "e": "zur Folge haben."
+    },
+    {
+     "o": [
+      "Abschluss",
+      "Schluss",
+      "Ende"
+     ],
+     "r": 0,
+     "k": "Nomen-Verb-Verbindung",
+     "e": "zum Abschluss bringen."
+    },
+    {
+     "o": [
+      "unterstützt",
+      "Unterstützen",
+      "Unterstützung"
+     ],
+     "r": 2,
+     "k": "Wortfamilie",
+     "e": "Nomen nach eure: die Unterstützung."
+    }
+   ]
+  },
+  {
+   "id": "s79",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Antwort an einen Kunden",
+   "text": "Sehr geehrter Herr Weber,\n\nich nehme {{1}} auf Ihre E-Mail vom 3. Juni. Zunächst möchte ich mich für die {{2}} der Lieferung entschuldigen. Der Grund war ein Fehler bei der {{3}} Ihrer Bestellung. Selbstverständlich stellen wir Ihnen die Versandkosten nicht in {{4}}. Als kleine Entschädigung erhalten Sie bei Ihrer nächsten Bestellung 10 % {{5}}. Für Rückfragen stehe ich Ihnen gern zur {{6}}.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "Beziehung",
+      "Bezug",
+      "Bescheid"
+     ],
+     "r": 1,
+     "k": "Nomen-Verb-Verbindung",
+     "e": "Bezug nehmen auf."
+    },
+    {
+     "o": [
+      "Verzögerung",
+      "verzögert",
+      "Verzögern"
+     ],
+     "r": 0,
+     "k": "Wortfamilie",
+     "e": "Nomen nach die: die Verzögerung."
+    },
+    {
+     "o": [
+      "Bearbeitung",
+      "Bearbeiten",
+      "bearbeitet"
+     ],
+     "r": 0,
+     "k": "Wortfamilie",
+     "e": "Nomen nach der: der Bearbeitung."
+    },
+    {
+     "o": [
+      "Rechnung",
+      "Kosten",
+      "Kasse"
+     ],
+     "r": 0,
+     "k": "Nomen-Verb-Verbindung",
+     "e": "in Rechnung stellen."
+    },
+    {
+     "o": [
+      "Rabatte",
+      "Rabatt",
+      "Rabatten"
+     ],
+     "r": 1,
+     "k": "Wortschatz",
+     "e": "10 % Rabatt."
+    },
+    {
+     "o": [
+      "Verfügung",
+      "Antwort",
+      "Hilfe"
+     ],
+     "r": 0,
+     "k": "Redemittel",
+     "e": "zur Verfügung stehen."
+    }
+   ]
+  },
+  {
+   "id": "s80",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief an die Schule",
+   "text": "Sehr geehrte Frau Krüger,\n\nmein Sohn Maxim hat mir erzählt, dass er in der Pause oft {{1}} wird. Ich mache mir große {{2}} um ihn, weil er nicht mehr gern in die Schule geht. Könnten wir uns bitte {{3}} einen Termin vereinbaren? Ich möchte gern mit Ihnen darüber sprechen, wie wir ihm helfen können. Mir ist es sehr {{4}}, dass Maxim sich in der Klasse wohlfühlt. Ich habe jeden Tag {{5}} 15 Uhr Zeit. Vielen Dank für Ihr {{6}}.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "ausgelacht",
+      "auslachen",
+      "lacht aus"
+     ],
+     "r": 0,
+     "k": "Passiv",
+     "e": "wird … ausgelacht (Partizip II)."
+    },
+    {
+     "o": [
+      "Sorge",
+      "Sorgen",
+      "Sorgt"
+     ],
+     "r": 1,
+     "k": "Nomen-Verb-Verbindung",
+     "e": "sich Sorgen machen um."
+    },
+    {
+     "o": [
+      "bald",
+      "schon",
+      "früh"
+     ],
+     "r": 0,
+     "k": "Wortschatz",
+     "e": "bald = in kurzer Zeit."
+    },
+    {
+     "o": [
+      "wichtige",
+      "wichtig",
+      "wichtiger"
+     ],
+     "r": 1,
+     "k": "Adjektiv",
+     "e": "nach sein ohne Endung."
+    },
+    {
+     "o": [
+      "bis",
+      "ab",
+      "seit"
+     ],
+     "r": 1,
+     "k": "Zeit",
+     "e": "ab 15 Uhr."
+    },
+    {
+     "o": [
+      "verständlich",
+      "Verstehen",
+      "Verständnis"
+     ],
+     "r": 2,
+     "k": "Wortfamilie",
+     "e": "Nomen nach Ihr: das Verständnis."
+    }
+   ]
+  },
+  {
+   "id": "s81",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "E-Mail an den Sportverein",
+   "text": "Hallo Herr Schulz,\n\nmeine Tochter möchte gern im Verein Volleyball spielen. Sie hat schon in der Schule Erfahrungen {{1}} und ist sehr sportlich. Leider ist sie manchmal noch {{2}} und spricht nicht viel. Ist es möglich, dass sie zuerst ein {{3}} mitmacht? Dann kann sie sehen, ob es ihr gefällt. Wie viel kostet die {{4}} im Verein pro Monat? Wir haben nicht viel Geld, deshalb {{5}} ich gern wissen, ob es eine Ermäßigung gibt. Ich freue mich auf {{6}} Antwort.\n\nViele Grüße\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "gesammelt",
+      "sammeln",
+      "gesammelte"
+     ],
+     "r": 0,
+     "k": "Nomen-Verb-Verbindung",
+     "e": "Erfahrungen sammeln → Perfekt: hat … gesammelt."
+    },
+    {
+     "o": [
+      "schüchtern",
+      "schüchternen",
+      "schüchterne"
+     ],
+     "r": 0,
+     "k": "Adjektiv",
+     "e": "nach sein ohne Endung."
+    },
+    {
+     "o": [
+      "Probetraining",
+      "Probe",
+      "Proben"
+     ],
+     "r": 0,
+     "k": "Wortschatz",
+     "e": "ein Probetraining machen."
+    },
+    {
+     "o": [
+      "Mitglieder",
+      "Mitgliedschaft",
+      "Mitglied"
+     ],
+     "r": 1,
+     "k": "Wortfamilie",
+     "e": "die Mitgliedschaft kostet …"
+    },
+    {
+     "o": [
+      "möchte",
+      "möchten",
+      "mochte"
+     ],
+     "r": 0,
+     "k": "Modalverb",
+     "e": "ich möchte."
+    },
+    {
+     "o": [
+      "Ihren",
+      "Ihre",
+      "Ihrer"
+     ],
+     "r": 1,
+     "k": "Possessivartikel Akk.",
+     "e": "sich freuen auf Ihre Antwort."
+    }
+   ]
+  }
+ ]
+}

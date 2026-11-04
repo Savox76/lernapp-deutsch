@@ -1,0 +1,99 @@
+# M13 Wortfamilien: Adjektive mit -bar, -los, -voll, -lich, -ig, -pflichtig (geprüfte neue Wörter)
+bezahlbar|-|-|A|доступный по цене|kann man bezahlen (von: bezahlen)|Wir suchen eine bezahlbare Wohnung.|B1|Wohnen
+machbar|-|-|A|выполнимый|kann man machen|Das ist bis Freitag machbar.|B2|Arbeit
+lesbar|-|-|A|разборчивый|kann man lesen|Ihre Unterschrift ist kaum lesbar.|B2|Briefe
+essbar|-|-|A|съедобный|kann man essen|Ist dieser Pilz essbar?|B1|Essen
+trinkbar|-|-|A|питьевой|kann man trinken|Das Leitungswasser ist trinkbar.|B1|Alltag
+waschbar|-|-|A|можно стирать|kann man waschen|Die Jacke ist bei 30 Grad waschbar.|B1|Einkaufen
+erkennbar|-|-|A|распознаваемый|kann man erkennen|Der Fehler war nicht erkennbar.|B2|Arbeit
+unvermeidbar|-|-|A|неизбежный|kann man nicht vermeiden|Kleine Fehler sind am Anfang unvermeidbar.|B2|Meinung
+unbezahlbar|-|-|A|недоступный по цене; бесценный|zu teuer; sehr wertvoll|Mieten in München sind fast unbezahlbar.|B2|Wohnen
+unerreichbar|-|-|A|недостижимый; недоступный|kann man nicht erreichen|Der Chef war den ganzen Tag unerreichbar.|B2|Arbeit
+unvorstellbar|-|-|A|невообразимый|kann man sich nicht vorstellen|Früher war das unvorstellbar.|B2|Meinung
+unverzichtbar|-|-|A|незаменимый|man kann nicht darauf verzichten|Gute Deutschkenntnisse sind unverzichtbar.|B2|Arbeit
+unbrauchbar|-|-|A|непригодный|kann man nicht benutzen|Das alte Gerät ist unbrauchbar.|B2|Alltag
+zahlbar|-|-|A|подлежащий оплате|muss bezahlt werden|Der Betrag ist zahlbar innerhalb von 14 Tagen.|B2|Geld
+sichtbar|-|-|A|видимый|kann man sehen|Der Fleck ist kaum sichtbar.|B1|Alltag
+unsichtbar|-|-|A|невидимый|kann man nicht sehen|Viele Pflegearbeiten sind unsichtbar.|B2|Pflege
+hörbar|-|-|A|слышимый|kann man hören|Die Durchsage war kaum hörbar.|B2|Alltag
+spürbar|-|-|A|ощутимый|kann man spüren|Die Preiserhöhung ist deutlich spürbar.|B2|Wirtschaft
+denkbar|-|-|A|мыслимый, возможный|möglich|Eine Vier-Tage-Woche wäre denkbar.|B2|Meinung
+fruchtbar|-|-|A|плодородный; плодотворный|gut für Pflanzen; erfolgreich|Das war ein fruchtbares Gespräch.|B2|Meinung
+erfolglos|-|-|A|безуспешный|ohne Erfolg|Die Suche war leider erfolglos.|B2|Alltag
+hilflos|-|-|A|беспомощный|ohne Hilfe, kann nichts tun|Ich fühlte mich hilflos.|B2|Gefühle
+sprachlos|-|-|A|потерявший дар речи|kann vor Überraschung nichts sagen|Ich war sprachlos vor Freude.|B2|Gefühle
+schlaflos|-|-|A|бессонный|ohne Schlaf|Ich hatte eine schlaflose Nacht.|B2|Gesundheit
+fehlerlos|-|-|A|безошибочный|ohne Fehler|Ihr Text ist fast fehlerlos.|B2|Bildung
+problemlos|-|-|A|беспроблемный|ohne Probleme|Die Anmeldung hat problemlos geklappt.|B1|Alltag
+rücksichtslos|-|-|A|бесцеремонный|denkt nicht an andere|Er fährt rücksichtslos.|B2|Verkehr
+ahnungslos|-|-|A|ничего не подозревающий|weiß nichts|Ich war völlig ahnungslos.|B2|Gefühle
+bargeldlos|-|-|A|безналичный|ohne Bargeld|Hier können Sie bargeldlos bezahlen.|B2|Geld
+drahtlos|-|-|A|беспроводной|ohne Kabel|Der Drucker funktioniert drahtlos.|B2|Medien
+obdachlos|-|-|A|бездомный|ohne Wohnung|Im Winter brauchen obdachlose Menschen Hilfe.|B2|Gesellschaft
+ratlos|-|-|A|растерянный|weiß nicht, was tun|Die Eltern waren ratlos.|B2|Gefühle
+grenzenlos|-|-|A|безграничный|ohne Grenzen|Ihre Geduld ist grenzenlos.|B2|Gefühle
+zwecklos|-|-|A|бесполезный|bringt nichts|Es ist zwecklos, mit ihm zu streiten.|B2|Meinung
+taktlos|-|-|A|бестактный|unhöflich, ohne Gefühl|Das war eine taktlose Frage.|B2|Gefühle
+sinnlos|-|-|A|бессмысленный|ohne Sinn|Diese Regel finde ich sinnlos.|B1|Meinung
+wertlos|-|-|A|ничего не стоящий|ohne Wert|Ohne Stempel ist das Dokument wertlos.|B2|Behörden
+kraftlos|-|-|A|обессиленный|ohne Kraft|Nach der Grippe war ich ganz kraftlos.|B2|Gesundheit
+lustlos|-|-|A|без желания|ohne Lust|Er macht seine Hausaufgaben lustlos.|B2|Familie
+gedankenlos|-|-|A|бездумный|ohne nachzudenken|Sie hat den Müll gedankenlos weggeworfen.|B2|Umwelt
+mühelos|-|-|A|без усилий|ohne Mühe|Sie spricht mühelos drei Sprachen.|B2|Bildung
+hoffnungsvoll|-|-|A|полный надежды|mit viel Hoffnung|Wir blicken hoffnungsvoll in die Zukunft.|B2|Gefühle
+vertrauensvoll|-|-|A|доверительный|mit Vertrauen|Wir arbeiten vertrauensvoll zusammen.|B2|Arbeit
+eindrucksvoll|-|-|A|впечатляющий|macht großen Eindruck|Der Vortrag war sehr eindrucksvoll.|B2|Meinung
+geschmackvoll|-|-|A|со вкусом|schön eingerichtet, elegant|Die Wohnung ist geschmackvoll eingerichtet.|B2|Wohnen
+respektvoll|-|-|A|уважительный|mit Respekt|Wir gehen respektvoll miteinander um.|B2|Arbeit
+taktvoll|-|-|A|тактичный|höflich und rücksichtsvoll|Sie hat das Problem taktvoll angesprochen.|B2|Gefühle
+gefühlvoll|-|-|A|чувственный, проникновенный|mit viel Gefühl|Sie singt sehr gefühlvoll.|B2|Freizeit
+kraftvoll|-|-|A|мощный|mit viel Kraft|Die Rede war kraftvoll.|B2|Meinung
+stündlich|-|-|A|ежечасный|jede Stunde|Der Bus fährt stündlich.|B1|Verkehr
+nächtlich|-|-|A|ночной|in der Nacht|Nächtlicher Lärm ist verboten.|B2|Wohnen
+sprachlich|-|-|A|языковой|die Sprache betreffend|Sprachlich ist der Text sehr gut.|B2|Bildung
+seelisch|-|-|A|душевный, психический|die Seele betreffend|Pflege ist körperlich und seelisch anstrengend.|B2|Gesundheit
+gesundheitlich|-|-|A|по состоянию здоровья|die Gesundheit betreffend|Aus gesundheitlichen Gründen kann er nicht arbeiten.|B2|Gesundheit
+zeitlich|-|-|A|по времени|die Zeit betreffend|Zeitlich passt mir das nicht.|B2|Alltag
+räumlich|-|-|A|пространственный|den Raum betreffend|Räumlich ist das Büro zu klein.|B2|Arbeit
+vertraglich|-|-|A|договорный|im Vertrag|Das ist vertraglich geregelt.|B2|Arbeit
+betrieblich|-|-|A|производственный|den Betrieb betreffend|Es gibt eine betriebliche Altersvorsorge.|B2|Arbeit
+fachlich|-|-|A|профессиональный|das Fach betreffend|Fachlich ist sie sehr gut.|B2|Arbeit
+menschlich|-|-|A|человеческий|den Menschen betreffend; nett|Fehler zu machen ist menschlich.|B1|Gefühle
+wissenschaftlich|-|-|A|научный|die Wissenschaft betreffend|Das ist wissenschaftlich bewiesen.|B2|Bildung
+familiär|-|-|A|семейный; непринуждённый|die Familie betreffend; vertraut|Aus familiären Gründen ziehen wir um.|B2|Familie
+ärztlich|-|-|A|врачебный|vom Arzt|Sie brauchen eine ärztliche Bescheinigung.|B2|Gesundheit
+pflegerisch|-|-|A|сестринский, по уходу|die Pflege betreffend|Sie hat viel pflegerische Erfahrung.|B2|Pflege
+handwerklich|-|-|A|ремесленный|das Handwerk betreffend|Er ist handwerklich sehr begabt.|B2|Arbeit
+kaufmännisch|-|-|A|коммерческий|den Handel betreffend|Sie hat eine kaufmännische Ausbildung.|B2|Arbeit
+telefonisch|-|-|A|по телефону|per Telefon|Ich bin telefonisch erreichbar.|B1|Arbeit
+elektronisch|-|-|A|электронный|digital, per Computer|Die Krankmeldung wird elektronisch übermittelt.|B2|Medien
+dreijährig|-|-|A|трёхлетний|drei Jahre dauernd/alt|Die Ausbildung ist dreijährig.|B2|Bildung
+mehrjährig|-|-|A|многолетний|mehrere Jahre|Wir suchen jemanden mit mehrjähriger Erfahrung.|B2|Arbeit
+einjährig|-|-|A|годичный|ein Jahr dauernd|Die Pflegehelfer-Ausbildung ist einjährig.|B2|Bildung
+ganztägig|-|-|A|целодневный|den ganzen Tag|Die Kita bietet eine ganztägige Betreuung.|B2|Familie
+halbtägig|-|-|A|на полдня|einen halben Tag|Sie arbeitet halbtägig.|B2|Arbeit
+langjährig|-|-|A|многолетний|seit vielen Jahren|Er ist ein langjähriger Mitarbeiter.|B2|Arbeit
+vierwöchig|-|-|A|четырёхнедельный|vier Wochen dauernd|Nach einem vierwöchigen Kurs gibt es eine Prüfung.|B2|Bildung
+zweisprachig|-|-|A|двуязычный|mit zwei Sprachen|Unsere Kinder wachsen zweisprachig auf.|B2|Familie
+mehrsprachig|-|-|A|многоязычный|mit mehreren Sprachen|Die Broschüre ist mehrsprachig.|B2|Bildung
+fremdsprachig|-|-|A|иноязычный|in einer fremden Sprache|Für fremdsprachige Eltern gibt es Dolmetscher.|B2|Bildung
+deutschsprachig|-|-|A|немецкоязычный|in deutscher Sprache|Er sucht deutschsprachige Bücher für Kinder.|B2|Bildung
+russischsprachig|-|-|A|русскоязычный|in russischer Sprache|In Dresden gibt es eine russischsprachige Bibliothek.|B2|Bildung
+gleichaltrig|-|-|A|ровесник, одного возраста|gleich alt|Die Kinder spielen gern mit Gleichaltrigen.|B2|Familie
+volljährig|-|-|A|совершеннолетний|18 Jahre oder älter|Mit 18 ist man volljährig.|B1|Behörden
+minderjährig|-|-|A|несовершеннолетний|unter 18 Jahren|Minderjährige brauchen die Unterschrift der Eltern.|B2|Behörden
+hauptberuflich|-|-|A|основной (о работе)|als Hauptjob|Hauptberuflich ist er Busfahrer.|B2|Arbeit
+nebenberuflich|-|-|A|по совместительству|neben dem Hauptjob|Nebenberuflich gibt sie Nachhilfe.|B2|Arbeit
+teilzeitbeschäftigt|-|-|A|занятый неполный день|arbeitet in Teilzeit|Viele Mütter sind teilzeitbeschäftigt.|B2|Arbeit
+angestellt|-|-|A|работающий по найму|hat einen Arbeitsvertrag|Ich bin bei einer Pflegefirma angestellt.|B1|Arbeit
+verbeamtet|-|-|A|являющийся госслужащим|ist Beamter|Lehrer sind oft verbeamtet.|B2|Arbeit
+erwerbstätig|-|-|A|работающий|hat eine bezahlte Arbeit|Beide Eltern sind erwerbstätig.|B2|Arbeit
+hilfsbedürftig|-|-|A|нуждающийся в помощи|braucht Hilfe|Hilfsbedürftige Menschen bekommen Unterstützung.|B2|Pflege
+erholungsbedürftig|-|-|A|нуждающийся в отдыхе|braucht Erholung|Nach dem Winter bin ich erholungsbedürftig.|B2|Gesundheit
+reparaturbedürftig|-|-|A|требующий ремонта|muss repariert werden|Das Dach ist reparaturbedürftig.|B2|Wohnen
+genehmigungspflichtig|-|-|A|требующий разрешения|braucht eine Erlaubnis|Ein Umbau ist genehmigungspflichtig.|B2|Behörden
+meldepflichtig|-|-|A|подлежащий регистрации|muss gemeldet werden|Masern sind meldepflichtig.|B2|Gesundheit
+versicherungspflichtig|-|-|A|подлежащий страхованию|muss versichert sein|Ein Minijob ist nicht immer versicherungspflichtig.|B2|Arbeit
+steuerpflichtig|-|-|A|облагаемый налогом|man muss Steuern zahlen|Dieses Einkommen ist steuerpflichtig.|B2|Geld
+schulpflichtig|-|-|A|подлежащий обязательному обучению|muss zur Schule gehen|Mit sechs Jahren ist ein Kind schulpflichtig.|B2|Bildung
+anmeldepflichtig|-|-|A|требующий регистрации|muss angemeldet werden|Ein Gewerbe ist anmeldepflichtig.|B2|Behörden
