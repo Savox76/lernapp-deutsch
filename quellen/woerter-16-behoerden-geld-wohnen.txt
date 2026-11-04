@@ -1,0 +1,113 @@
+# Behörden, Recht, Geld, Versicherung, Wohnen B1/B2
+Meldebescheinigung|die|Meldebescheinigungen|N|справка о регистрации|Dokument, das den Wohnsitz bestätigt|Für die Bank brauche ich eine Meldebescheinigung.|B1|Behörden
+Wohnsitz|der|Wohnsitze|N|место жительства|Ort, wo man offiziell wohnt|Mein Wohnsitz ist in Dresden.|B1|Behörden
+Anschrift|die|Anschriften|N|адрес|Adresse (formell)|Bitte geben Sie Ihre Anschrift an.|B1|Behörden
+Vorname|der|Vornamen|N|имя|erster Name|Wie ist Ihr Vorname?|A2|Behörden
+Nachname|der|Nachnamen|N|фамилия|Familienname|Bitte buchstabieren Sie Ihren Nachnamen.|A2|Behörden
+Geburtsort|der|Geburtsorte|N|место рождения|Ort, wo man geboren ist|Geburtsort: Kiew|A2|Behörden
+Antragsteller|der|Antragsteller|N|заявитель|Person, die einen Antrag stellt|Der Antragsteller muss persönlich erscheinen.|B2|Behörden
+Widerspruch einlegen|-|legt Widerspruch ein|R|подать возражение|offiziell gegen eine Entscheidung protestieren|Gegen den Bescheid können Sie Widerspruch einlegen.|B2|Behörden
+Sachbearbeiterin|die|-|N|сотрудница ведомства|Frau, die im Amt den Fall bearbeitet|Die Sachbearbeiterin war sehr freundlich.|B2|Behörden
+Wartemarke|die|Wartemarken|N|талон очереди|Zettel mit Nummer zum Warten|Ziehen Sie bitte eine Wartemarke.|B1|Behörden
+Öffnungszeit|die|-|N|часы приёма|-|Das Amt hat heute bis 18 Uhr Öffnungszeit.|A2|Behörden
+Terminvergabe|die|-|N|выдача записи|wie man einen Termin bekommt|Die Terminvergabe erfolgt online.|B2|Behörden
+Aufenthaltserlaubnis|die|Aufenthaltserlaubnisse|N|вид на жительство|Erlaubnis, in Deutschland zu leben|Meine Aufenthaltserlaubnis gilt bis 2028.|B2|Behörden
+Niederlassungserlaubnis|die|-|N|бессрочный вид на жительство|unbefristete Aufenthaltserlaubnis|Für die Niederlassungserlaubnis brauche ich B1.|B2|Behörden
+Arbeitserlaubnis|die|Arbeitserlaubnisse|N|разрешение на работу|Erlaubnis zu arbeiten|Ich habe eine Arbeitserlaubnis.|B1|Behörden
+Passfoto|das|Passfotos|N|фото на паспорт|kleines Foto für Dokumente|Für den Antrag brauche ich zwei Passfotos.|B1|Behörden
+Original|das|Originale|N|оригинал|das echte Dokument, keine Kopie|Bitte bringen Sie das Original mit.|B1|Behörden
+Nachweis|der|Nachweise|N|подтверждение, справка|Dokument als Beweis|Ich brauche einen Nachweis über mein Einkommen.|B2|Behörden
+Einkommensnachweis|der|Einkommensnachweise|N|справка о доходах|Dokument, das das Einkommen zeigt|Legen Sie bitte einen Einkommensnachweis vor.|B2|Behörden
+Kindergeldantrag|der|-|N|заявление на детское пособие|Antrag auf Kindergeld|Den Kindergeldantrag stellen Sie bei der Familienkasse.|B2|Behörden
+Familienkasse|die|-|N|касса по выплате пособий на детей|Amt für Kindergeld|Die Familienkasse hat das Kindergeld überwiesen.|B2|Behörden
+Bürgergeld|das|-|N|гражданское пособие (Bürgergeld)|staatliche Grundsicherung|Er bekommt zurzeit Bürgergeld.|B2|Behörden
+Anspruch|der|Ansprüche|N|право (на что-то)|Recht, etwas zu bekommen|Haben Sie Anspruch auf Wohngeld?|B2|Behörden
+Berechtigung|die|Berechtigungen|N|право, разрешение|Erlaubnis, Recht|Für den Kurs brauchen Sie eine Berechtigung.|B2|Behörden
+Teilnahmebescheinigung|die|-|N|справка об участии|Papier, dass man teilgenommen hat|Nach dem Kurs bekommen Sie eine Teilnahmebescheinigung.|B2|Bildung
+Urteil|das|Urteile|N|приговор, решение суда|Entscheidung des Gerichts|Das Urteil ist noch nicht rechtskräftig.|B2|Recht
+Klage|die|Klagen|N|иск|Antrag beim Gericht|Er hat eine Klage gegen den Vermieter eingereicht.|B2|Recht
+Zeuge|der|Zeugen|N|свидетель|Person, die etwas gesehen hat|Gab es Zeugen für den Unfall?|B1|Recht
+Anzeige erstatten|-|erstattet Anzeige|R|подать заявление в полицию|der Polizei eine Straftat melden|Ich habe Anzeige gegen Unbekannt erstattet.|B2|Recht
+Diebstahl|der|Diebstähle|N|кража|wenn jemand etwas stiehlt|Ich möchte einen Diebstahl melden.|B1|Recht
+Bußgeld|das|Bußgelder|N|штраф|Geldstrafe (z. B. im Verkehr)|Für das Falschparken muss ich ein Bußgeld zahlen.|B2|Recht
+Datenschutzerklärung|die|-|N|заявление о защите данных|Text, wie Daten benutzt werden|Bitte lesen Sie die Datenschutzerklärung.|B2|Recht
+Einwilligung|die|Einwilligungen|N|согласие|offizielle Zustimmung|Dafür brauchen wir Ihre schriftliche Einwilligung.|B2|Recht
+Vollmacht|die|Vollmachten|N|доверенность|Erlaubnis, für jemanden zu handeln|Mit einer Vollmacht kann mein Mann den Brief abholen.|B2|Recht
+Vorschrift|die|Vorschriften|N|предписание, правило|offizielle Regel|Das ist gegen die Vorschriften.|B2|Recht
+Verstoß|der|Verstöße|N|нарушение|wenn man gegen eine Regel handelt|Ein Verstoß kostet 50 Euro.|B2|Recht
+Girokonto|das|Girokonten|N|текущий счёт|normales Bankkonto|Ich möchte ein Girokonto eröffnen.|B1|Geld
+Kontoauszug|der|Kontoauszüge|N|выписка со счёта|Liste aller Zahlungen auf dem Konto|Auf dem Kontoauszug sehe ich die Miete.|B1|Geld
+IBAN|die|IBANs|N|IBAN (номер счёта)|internationale Kontonummer|Bitte geben Sie Ihre IBAN an.|B1|Geld
+Dauerauftrag|der|Daueraufträge|N|постоянное поручение|regelmäßige automatische Überweisung|Die Miete zahle ich per Dauerauftrag.|B2|Geld
+Lastschrift|die|Lastschriften|N|прямое дебетование|Abbuchung vom Konto durch den Empfänger|Der Strom wird per Lastschrift bezahlt.|B2|Geld
+Kreditkarte|die|Kreditkarten|N|кредитная карта|Karte zum Bezahlen auf Kredit|Kann ich mit Kreditkarte zahlen?|A2|Geld
+Geheimzahl|die|Geheimzahlen|N|ПИН-код|PIN für die Bankkarte|Geben Sie bitte Ihre Geheimzahl ein.|B1|Geld
+Online-Banking|das|-|N|онлайн-банкинг|Bankgeschäfte im Internet|Ich mache alles per Online-Banking.|B1|Geld
+Darlehen|das|Darlehen|N|ссуда, заём|Geld, das man leiht|Für das Auto haben wir ein Darlehen aufgenommen.|B2|Geld
+Ratenzahlung|die|Ratenzahlungen|N|оплата в рассрочку|in mehreren Teilen bezahlen|Ist Ratenzahlung möglich?|B2|Geld
+Haushaltsbuch|das|Haushaltsbücher|N|книга учёта домашних расходов|Heft, in dem man Ausgaben notiert|Ich führe ein Haushaltsbuch.|B2|Geld
+Budget|das|Budgets|N|бюджет|geplantes Geld|Unser Budget für den Urlaub ist 1.000 Euro.|B1|Geld
+Lebenshaltungskosten|die|-|N|стоимость жизни|Kosten für Wohnen, Essen usw.|Die Lebenshaltungskosten sind gestiegen.|B2|Geld
+Inflation|die|-|N|инфляция|wenn Preise allgemein steigen|Wegen der Inflation ist alles teurer.|B2|Geld
+Ersparnisse|die|-|N|сбережения|gespartes Geld|Wir haben unsere Ersparnisse für das Auto benutzt.|B2|Geld
+Vermögen|das|-|N|состояние, имущество|aller Besitz und Geld|Er hat ein großes Vermögen.|B2|Geld
+Rechnungsbetrag|der|-|N|сумма счёта|Summe auf der Rechnung|Bitte überweisen Sie den Rechnungsbetrag.|B2|Geld
+Gutschrift|die|Gutschriften|N|зачисление (на счёт)|Geld, das man zurückbekommt|Sie erhalten eine Gutschrift über 20 Euro.|B2|Geld
+Rückerstattung|die|Rückerstattungen|N|возврат денег|Geld zurückbekommen|Die Rückerstattung dauert zwei Wochen.|B2|Geld
+Krankenversicherung|die|-|N|медицинская страховка|Versicherung für Arztkosten|In Deutschland ist die Krankenversicherung Pflicht.|B1|Versicherung
+Pflegeversicherung|die|-|N|страхование по уходу|Versicherung für Pflege im Alter|Die Pflegeversicherung zahlt einen Teil.|B2|Versicherung
+Arbeitslosenversicherung|die|-|N|страхование по безработице|Versicherung, wenn man keine Arbeit hat|Ein Teil vom Lohn geht an die Arbeitslosenversicherung.|B2|Versicherung
+Hausratversicherung|die|-|N|страхование домашнего имущества|Versicherung für Dinge in der Wohnung|Die Hausratversicherung bezahlt den Wasserschaden.|B2|Versicherung
+Kfz-Versicherung|die|-|N|автостраховка|Versicherung für das Auto|Die Kfz-Versicherung ist Pflicht.|B2|Versicherung
+Versicherungsnummer|die|-|N|номер страховки|Nummer bei der Versicherung|Ihre Versicherungsnummer steht auf der Karte.|B1|Versicherung
+Beitrag|der|Beiträge|N|взнос|Geld, das man regelmäßig zahlt|Der Beitrag wird monatlich abgebucht.|B1|Versicherung
+Schadensmeldung|die|-|N|заявление об ущербе|Meldung eines Schadens an die Versicherung|Bitte füllen Sie die Schadensmeldung aus.|B2|Versicherung
+Selbstbeteiligung|die|-|N|франшиза|Teil, den man selbst bezahlt|Die Selbstbeteiligung beträgt 150 Euro.|B2|Versicherung
+Mietwohnung|die|Mietwohnungen|N|съёмная квартира|Wohnung, für die man Miete zahlt|Wir wohnen in einer Mietwohnung.|B1|Wohnen
+Eigentumswohnung|die|Eigentumswohnungen|N|квартира в собственности|Wohnung, die einem gehört|Sie haben eine Eigentumswohnung gekauft.|B2|Wohnen
+Wohnungsbesichtigung|die|-|N|осмотр квартиры|Termin, um eine Wohnung anzusehen|Zur Wohnungsbesichtigung kamen 30 Leute.|B1|Wohnen
+Wohnfläche|die|-|N|жилая площадь|Größe der Wohnung in m²|Die Wohnfläche beträgt 65 m².|B1|Wohnen
+Grundriss|der|Grundrisse|N|планировка|Plan der Wohnung|Der Grundriss gefällt mir.|B2|Wohnen
+Altbau|der|Altbauten|N|старый дом (довоенной постройки)|altes Haus|Wir wohnen in einem Altbau mit hohen Decken.|B2|Wohnen
+Neubau|der|Neubauten|N|новостройка|neues Haus|Die Wohnung ist im Neubau.|B2|Wohnen
+Einbauküche|die|Einbauküchen|N|встроенная кухня|Küche mit festen Möbeln und Geräten|Die Wohnung hat eine Einbauküche.|B1|Wohnen
+Zentralheizung|die|-|N|центральное отопление|Heizung für das ganze Haus|Das Haus hat Zentralheizung.|B2|Wohnen
+Stellplatz|der|Stellplätze|N|парковочное место|Platz für ein Auto|Ein Stellplatz kostet 40 Euro extra.|B2|Wohnen
+Makler|der|Makler|N|риелтор|Person, die Wohnungen vermittelt|Der Makler zeigt uns die Wohnung.|B1|Wohnen
+Provision|die|Provisionen|N|комиссионные|Geld für den Makler|Die Provision zahlt der Vermieter.|B2|Wohnen
+Mieterhöhung|die|Mieterhöhungen|N|повышение арендной платы|wenn die Miete teurer wird|Wir haben eine Mieterhöhung bekommen.|B2|Wohnen
+Nebenkostenabrechnung|die|-|N|расчёт коммунальных платежей|jährliche Rechnung für Wasser, Heizung usw.|Laut Nebenkostenabrechnung müssen wir 200 Euro nachzahlen.|B2|Wohnen
+Nachzahlung|die|Nachzahlungen|N|доплата|Geld, das man noch zahlen muss|Die Nachzahlung ist bis Monatsende fällig.|B2|Wohnen
+Mangel|der|Mängel|N|недостаток, дефект|Fehler, Schaden|Bitte melden Sie Mängel sofort dem Vermieter.|B2|Wohnen
+Schimmel|der|-|N|плесень|grüne oder schwarze Flecken an der Wand|Im Bad ist Schimmel.|B2|Wohnen
+Wasserschaden|der|Wasserschäden|N|ущерб от воды|Schaden durch Wasser|Nach dem Wasserschaden mussten wir renovieren.|B2|Wohnen
+Mieterverein|der|-|N|союз квартиросъёмщиков|Organisation, die Mietern hilft|Der Mieterverein berät bei Problemen.|B2|Wohnen
+Untermieter|der|Untermieter|N|субарендатор|Person, die bei einem Mieter wohnt|Darf ich einen Untermieter haben?|B2|Wohnen
+Wohnungsschlüssel|der|-|N|ключ от квартиры|Schlüssel für die Wohnung|Ich habe meinen Wohnungsschlüssel verloren.|A2|Wohnen
+Schlüsseldienst|der|Schlüsseldienste|N|служба вскрытия замков|Firma, die Türen öffnet|Wir mussten den Schlüsseldienst rufen.|B2|Wohnen
+Ruhezeit|die|Ruhezeiten|N|время тишины|Zeit, in der man leise sein muss|Die Ruhezeit beginnt um 22 Uhr.|B1|Wohnen
+Mülltrennung|die|-|N|сортировка мусора|Müll nach Sorten sortieren|In Deutschland ist Mülltrennung wichtig.|B1|Wohnen
+Biotonne|die|Biotonnen|N|контейнер для биоотходов|Tonne für Essensreste|Kartoffelschalen kommen in die Biotonne.|B1|Wohnen
+Gelber Sack|der|Gelbe Säcke|N|жёлтый мешок (для упаковки)|Sack für Verpackungen|Joghurtbecher kommen in den Gelben Sack.|B1|Wohnen
+Sperrmüll|der|-|N|крупногабаритный мусор|alte Möbel, die abgeholt werden|Den alten Schrank stellen wir zum Sperrmüll.|B2|Wohnen
+Altglas|das|-|N|стеклотара|leere Flaschen und Gläser|Altglas bringe ich zum Container.|B1|Wohnen
+Rauchmelder|der|Rauchmelder|N|датчик дыма|Gerät, das bei Rauch piept|Der Rauchmelder piept, die Batterie ist leer.|B2|Wohnen
+Stromzähler|der|Stromzähler|N|электросчётчик|Gerät, das den Stromverbrauch misst|Bitte lesen Sie den Stromzähler ab.|B2|Wohnen
+Zählerstand|der|Zählerstände|N|показания счётчика|Zahl auf dem Zähler|Bitte teilen Sie uns den Zählerstand mit.|B2|Wohnen
+Stromanbieter|der|Stromanbieter|N|поставщик электроэнергии|Firma, die Strom verkauft|Wir haben den Stromanbieter gewechselt.|B2|Wohnen
+Rundfunkbeitrag|der|-|N|взнос за радио и ТВ|Gebühr für Radio und Fernsehen|Jede Wohnung muss den Rundfunkbeitrag zahlen.|B2|Wohnen
+Vertragsbedingungen|die|-|N|условия договора|Regeln in einem Vertrag|Bitte lesen Sie die Vertragsbedingungen.|B2|Recht
+Laufzeit|die|Laufzeiten|N|срок действия|wie lange ein Vertrag gilt|Der Handyvertrag hat eine Laufzeit von 24 Monaten.|B2|Recht
+kündbar|-|-|A|расторжимый|man kann kündigen|Der Vertrag ist monatlich kündbar.|B2|Recht
+fällig|-|-|A|подлежащий оплате|muss jetzt bezahlt werden|Die Miete ist am Ersten fällig.|B2|Geld
+überfällig|-|-|A|просроченный|hätte schon bezahlt werden müssen|Die Rechnung ist überfällig.|B2|Geld
+steuerfrei|-|-|A|не облагаемый налогом|ohne Steuern|Das Geld ist steuerfrei.|B2|Geld
+berechtigt|-|-|A|имеющий право|hat das Recht|Sie sind berechtigt, Wohngeld zu beantragen.|B2|Behörden
+erscheinen|-|erscheint, erschien, ist erschienen|V|являться; выходить (о книге)|kommen (formell); veröffentlicht werden|Bitte erscheinen Sie pünktlich zum Termin.|B2|Behörden
+bewilligen|-|bewilligt, bewilligte, hat bewilligt|V|одобрять (заявление)|offiziell erlauben, genehmigen|Mein Antrag wurde bewilligt.|B2|Behörden
+zurückzahlen|-|zahlt zurück, zahlte zurück, hat zurückgezahlt|V|возвращать (деньги)|geliehenes Geld zurückgeben|Ich zahle dir das Geld nächste Woche zurück.|B1|Geld
+nachzahlen|-|zahlt nach, zahlte nach, hat nachgezahlt|V|доплачивать|später noch Geld zahlen|Wir müssen 120 Euro nachzahlen.|B2|Geld
+sich verschulden|-|verschuldet sich, verschuldete sich, hat sich verschuldet|V|влезть в долги|Schulden machen|Viele junge Leute verschulden sich mit Handyverträgen.|B2|Geld
+ausleihen|-|leiht aus, lieh aus, hat ausgeliehen|V|брать/давать на время|leihen|Ich leihe mir ein Buch aus der Bibliothek aus.|B1|Alltag
+untervermieten|-|vermietet unter, vermietete unter, hat untervermietet|V|сдавать в субаренду|einen Teil der Mietwohnung vermieten|Ich darf das Zimmer nicht untervermieten.|B2|Wohnen
+ablesen|-|liest ab, las ab, hat abgelesen|V|снимать показания|eine Zahl von einem Gerät lesen|Der Hausmeister liest die Zähler ab.|B2|Wohnen

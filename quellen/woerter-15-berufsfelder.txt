@@ -1,0 +1,196 @@
+# Berufsfelder: Pflege, Lager/Logistik, Büro, Handel, Gastronomie, Handwerk, Reinigung
+Pflegeheim|das|Pflegeheime|N|дом престарелых (с уходом)|Heim für Menschen, die Pflege brauchen|Sie arbeitet in einem Pflegeheim.|B1|Pflege
+Bewohner|der|Bewohner|N|житель, постоялец|Person, die in einem Heim oder Haus lebt|Die Bewohner essen um zwölf Uhr.|B1|Pflege
+Pflegebedürftige|die|Pflegebedürftigen|N|нуждающийся в уходе|Person, die Pflege braucht|Die Zahl der Pflegebedürftigen steigt.|B2|Pflege
+Angehörige|die|Angehörigen|N|родственники|Familienmitglieder|Die Angehörigen kommen am Sonntag zu Besuch.|B2|Pflege
+Pflegedienst|der|Pflegedienste|N|служба ухода на дому|Firma, die Menschen zu Hause pflegt|Der Pflegedienst kommt zweimal am Tag.|B2|Pflege
+Pflegehilfskraft|die|Pflegehilfskräfte|N|помощник по уходу|Person, die bei der Pflege hilft|Ich arbeite als Pflegehilfskraft.|B2|Pflege
+Pflegefachkraft|die|Pflegefachkräfte|N|специалист по уходу|ausgebildete Pflegeperson|Wir suchen eine Pflegefachkraft.|B2|Pflege
+Station|die|Stationen|N|отделение (в больнице)|Abteilung im Krankenhaus|Sie arbeitet auf der Station 3.|B1|Pflege
+Stationsleitung|die|Stationsleitungen|N|заведующий отделением|Person, die eine Station leitet|Bitte sagen Sie es der Stationsleitung.|B2|Pflege
+Übergabe|die|Übergaben|N|передача смены|Information beim Schichtwechsel|Bei der Übergabe besprechen wir alle Patienten.|B2|Pflege
+Pflegedokumentation|die|-|N|документация по уходу|schriftliche Notizen über die Pflege|Die Pflegedokumentation muss vollständig sein.|B2|Pflege
+Blutdruck|der|-|N|давление (крови)|Druck des Blutes in den Adern|Ich messe Ihren Blutdruck.|B1|Pflege
+Puls|der|-|N|пульс|wie schnell das Herz schlägt|Der Puls ist normal.|B1|Pflege
+Rollstuhl|der|Rollstühle|N|инвалидная коляска|Stuhl mit Rädern für Menschen, die nicht laufen können|Sie sitzt im Rollstuhl.|B1|Pflege
+Rollator|der|Rollatoren|N|ходунки на колёсах|Gehhilfe mit Rädern|Herr Meier geht mit dem Rollator.|B2|Pflege
+Gehstock|der|Gehstöcke|N|трость|Stock zum Gehen|Mein Opa braucht einen Gehstock.|B1|Pflege
+Verband|der|Verbände|N|повязка, бинт|Stoff um eine Wunde|Der Verband muss täglich gewechselt werden.|B1|Pflege
+Desinfektionsmittel|das|Desinfektionsmittel|N|дезинфицирующее средство|Mittel gegen Bakterien|Bitte die Hände mit Desinfektionsmittel reinigen.|B2|Pflege
+Hygiene|die|-|N|гигиена|Sauberkeit zum Schutz der Gesundheit|Hygiene ist in der Pflege sehr wichtig.|B1|Pflege
+Körperpflege|die|-|N|личная гигиена|Waschen, Duschen, Zähne putzen|Ich helfe den Bewohnern bei der Körperpflege.|B2|Pflege
+Lagerung|die|Lagerungen|N|укладка, положение (пациента); хранение|wie ein Patient liegt; wie Waren aufbewahrt werden|Die Lagerung muss alle zwei Stunden geändert werden.|B2|Pflege
+Sturz|der|Stürze|N|падение|wenn man hinfällt|Nach dem Sturz musste sie ins Krankenhaus.|B2|Pflege
+Demenz|die|-|N|деменция|Krankheit, bei der man vergisst|Viele Bewohner haben Demenz.|B2|Pflege
+Schlaganfall|der|Schlaganfälle|N|инсульт|plötzliche Störung im Gehirn|Nach dem Schlaganfall kann er nicht mehr sprechen.|B2|Pflege
+Diabetes|der|-|N|диабет|Krankheit mit zu viel Zucker im Blut|Sie hat Diabetes und muss Insulin spritzen.|B2|Gesundheit
+Insulin|das|-|N|инсулин|Medikament bei Diabetes|Das Insulin liegt im Kühlschrank.|B2|Gesundheit
+Medikamentenplan|der|Medikamentenpläne|N|план приёма лекарств|Liste, wann man welche Medikamente nimmt|Bitte halten Sie sich an den Medikamentenplan.|B2|Pflege
+Notruf|der|Notrufe|N|экстренный вызов|Telefonnummer für Notfälle (112)|Im Notfall wählen Sie den Notruf 112.|B1|Gesundheit
+Erste Hilfe|die|-|N|первая помощь|erste Hilfe bei einem Unfall|Ich habe einen Kurs in Erster Hilfe gemacht.|B1|Gesundheit
+Lagerist|der|Lageristen|N|кладовщик|Person, die im Lager arbeitet|Er arbeitet als Lagerist.|B1|Logistik
+Fachkraft für Lagerlogistik|die|Fachkräfte|N|специалист по складской логистике|Ausbildungsberuf im Lager|Ich mache eine Ausbildung zur Fachkraft für Lagerlogistik.|B2|Logistik
+Gabelstapler|der|Gabelstapler|N|вилочный погрузчик|Fahrzeug, das Paletten hebt|Für den Gabelstapler braucht man einen Führerschein.|B1|Logistik
+Staplerschein|der|Staplerscheine|N|права на погрузчик|Erlaubnis, einen Gabelstapler zu fahren|Hast du einen Staplerschein?|B2|Logistik
+Palette|die|Paletten|N|паллета, поддон|Holzplatte für Waren|Bitte stellen Sie die Paletten hier ab.|B1|Logistik
+Hubwagen|der|Hubwagen|N|ручная тележка (рохля)|kleines Gerät, um Paletten zu bewegen|Ich ziehe die Palette mit dem Hubwagen.|B2|Logistik
+Karton|der|Kartons|N|картонная коробка|Kiste aus Pappe|Die Kartons stehen im Regal.|A2|Logistik
+Lieferschein|der|Lieferscheine|N|накладная|Papier, das bei einer Lieferung dabei ist|Bitte unterschreiben Sie den Lieferschein.|B2|Logistik
+Wareneingang|der|-|N|приём товара|Bereich, wo neue Waren ankommen|Die Lieferung ist im Wareneingang.|B2|Logistik
+Warenausgang|der|-|N|отгрузка товара|Bereich, wo Waren das Lager verlassen|Die Pakete gehen heute in den Warenausgang.|B2|Logistik
+Kommissionierung|die|-|N|комплектация заказов|Zusammenstellen von Waren für eine Bestellung|Ich arbeite in der Kommissionierung.|B2|Logistik
+kommissionieren|-|kommissioniert, kommissionierte, hat kommissioniert|V|комплектовать (заказы)|Waren für eine Bestellung zusammenstellen|Heute kommissionieren wir 300 Aufträge.|B2|Logistik
+Scanner|der|Scanner|N|сканер|Gerät, das Barcodes liest|Scannen Sie jedes Paket mit dem Scanner.|B1|Logistik
+scannen|-|scannt, scannte, hat gescannt|V|сканировать|mit dem Scanner lesen|Bitte scannen Sie den Barcode.|B1|Logistik
+Barcode|der|Barcodes|N|штрихкод|Code aus Strichen|Der Barcode ist beschädigt.|B1|Logistik
+Bestand|der|Bestände|N|запас, наличие|Menge an Waren im Lager|Der Bestand an Druckerpapier ist niedrig.|B2|Logistik
+Spedition|die|Speditionen|N|транспортно-экспедиционная фирма|Firma für Transporte|Die Spedition holt die Ware morgen ab.|B2|Logistik
+Lkw|der|Lkws|N|грузовик|großes Auto für Waren (Lastkraftwagen)|Der Lkw steht an Rampe 2.|B1|Logistik
+Rampe|die|Rampen|N|рампа (погрузочная)|Stelle, an der Lkws be- und entladen werden|Der Lkw fährt an die Rampe.|B2|Logistik
+beladen|-|belädt, belud, hat beladen|V|загружать|Waren in ein Fahrzeug laden|Wir beladen den Lkw.|B2|Logistik
+entladen|-|entlädt, entlud, hat entladen|V|разгружать|Waren aus einem Fahrzeug nehmen|Der Lkw wird gerade entladen.|B2|Logistik
+stapeln|-|stapelt, stapelte, hat gestapelt|V|складывать стопкой|übereinanderlegen|Die Kartons nicht zu hoch stapeln!|B1|Logistik
+Sicherheitsschuh|der|Sicherheitsschuhe|N|защитная обувь|Schuh mit Stahlkappe|Im Lager sind Sicherheitsschuhe Pflicht.|B2|Logistik
+Warnweste|die|Warnwesten|N|сигнальный жилет|gelbe oder orange Weste|Bitte tragen Sie eine Warnweste.|B1|Logistik
+Schutzkleidung|die|-|N|защитная одежда|Kleidung zum Schutz bei der Arbeit|Schutzkleidung bekommen Sie vom Betrieb.|B2|Arbeit
+Tour|die|Touren|N|маршрут, рейс|geplante Fahrt mit mehreren Stopps|Heute ist meine Tour sehr lang.|B1|Logistik
+Depot|das|Depots|N|депо, склад|Ort, wo Fahrzeuge und Waren starten|Die Fahrer treffen sich um sechs im Depot.|B2|Logistik
+Zustellung|die|Zustellungen|N|доставка|das Bringen von Post oder Waren|Die Zustellung erfolgt morgen.|B2|Logistik
+Empfänger|der|Empfänger|N|получатель|Person, die etwas bekommt|Der Empfänger war nicht zu Hause.|B1|Logistik
+Absender|der|Absender|N|отправитель|Person, die etwas schickt|Auf dem Paket steht kein Absender.|B1|Logistik
+Sendungsnummer|die|Sendungsnummern|N|номер отправления|Nummer, mit der man ein Paket verfolgt|Mit der Sendungsnummer können Sie das Paket verfolgen.|B1|Logistik
+Bürokauffrau|die|Bürokauffrauen|N|офисный служащий (женщина)|Frau mit Ausbildung für Büroarbeit|Ich bin gelernte Bürokauffrau.|B2|Büro
+Sachbearbeiter|der|Sachbearbeiter|N|специалист (по обработке дел)|Person, die Vorgänge im Büro bearbeitet|Ihr Sachbearbeiter ist Herr Lang.|B2|Büro
+Sekretariat|das|Sekretariate|N|секретариат|Büro, in dem Termine und Post organisiert werden|Bitte melden Sie sich im Sekretariat.|B1|Büro
+Empfang|der|-|N|ресепшен, приём|Ort am Eingang, wo man Besucher begrüßt|Bitte warten Sie am Empfang.|B1|Büro
+Ablage|die|Ablagen|N|архив, папки с документами|Ort, wo Dokumente gesammelt werden|Bitte legen Sie die Rechnung in die Ablage.|B2|Büro
+Ordner|der|Ordner|N|папка (с кольцами)|Mappe für Papiere|Der Vertrag ist im blauen Ordner.|A2|Büro
+Akte|die|Akten|N|дело (документы)|Sammlung von Dokumenten zu einem Fall|Ich brauche die Akte von Frau Klein.|B2|Büro
+Kopierer|der|Kopierer|N|копир|Gerät zum Kopieren|Der Kopierer hat einen Papierstau.|B1|Büro
+Papierstau|der|Papierstaus|N|застревание бумаги|Papier steckt im Drucker fest|Schon wieder ein Papierstau!|B2|Büro
+Tabelle|die|Tabellen|N|таблица|Daten in Zeilen und Spalten|Ich trage die Zahlen in die Tabelle ein.|B1|Büro
+Datei|die|Dateien|N|файл|Dokument im Computer|Ich schicke Ihnen die Datei per E-Mail.|B1|Büro
+Ordnerstruktur|die|-|N|структура папок|wie Dateien im Computer geordnet sind|Bitte halten Sie sich an die Ordnerstruktur.|B2|Büro
+Posteingang|der|-|N|входящие (почта)|Ort, wo neue E-Mails ankommen|In meinem Posteingang sind 50 E-Mails.|B1|Büro
+Betreff|der|Betreffe|N|тема (письма)|Thema einer E-Mail oder eines Briefes|Bitte schreiben Sie die Rechnungsnummer in den Betreff.|B1|Büro
+Stempel|der|Stempel|N|печать, штамп|Werkzeug, das Text auf Papier druckt|Ohne Stempel ist das Formular ungültig.|B1|Büro
+Briefumschlag|der|Briefumschläge|N|конверт|Hülle für einen Brief|Der Briefumschlag ist zu klein.|A2|Büro
+Briefmarke|die|Briefmarken|N|почтовая марка|kleiner Aufkleber zum Bezahlen der Post|Ich brauche eine Briefmarke.|A2|Büro
+Telefonkonferenz|die|Telefonkonferenzen|N|телефонная конференция|Besprechung am Telefon mit mehreren Personen|Um 15 Uhr haben wir eine Telefonkonferenz.|B2|Büro
+Videokonferenz|die|Videokonferenzen|N|видеоконференция|Besprechung per Video|Die Videokonferenz beginnt gleich.|B2|Büro
+Kalendereintrag|der|Kalendereinträge|N|запись в календаре|Termin im Kalender|Ich schicke dir einen Kalendereintrag.|B2|Büro
+Buchhaltung|die|-|N|бухгалтерия|Abteilung für Rechnungen und Zahlen|Die Rechnung geht an die Buchhaltung.|B1|Büro
+Personalabteilung|die|Personalabteilungen|N|отдел кадров|Abteilung für Mitarbeiterfragen|Fragen Sie in der Personalabteilung nach.|B1|Büro
+Geschäftsführer|der|Geschäftsführer|N|генеральный директор|Leiter einer Firma|Der Geschäftsführer hält eine Rede.|B2|Büro
+Kundennummer|die|Kundennummern|N|номер клиента|Nummer eines Kunden|Bitte nennen Sie Ihre Kundennummer.|B1|Büro
+Rechnungsnummer|die|Rechnungsnummern|N|номер счёта|Nummer einer Rechnung|Geben Sie bei der Überweisung die Rechnungsnummer an.|B1|Büro
+Mehrwertsteuer|die|-|N|НДС|Steuer auf Waren (MwSt.)|Der Preis ist inklusive Mehrwertsteuer.|B2|Büro
+Zahlungsfrist|die|Zahlungsfristen|N|срок оплаты|bis wann man bezahlen muss|Die Zahlungsfrist beträgt 14 Tage.|B2|Büro
+Verkaufsraum|der|Verkaufsräume|N|торговый зал|Raum, in dem Waren verkauft werden|Im Verkaufsraum ist es sehr warm.|B2|Handel
+Filiale|die|Filialen|N|филиал|Geschäft einer Firma an einem anderen Ort|Die Filiale in der Altstadt schließt.|B1|Handel
+Filialleiter|der|Filialleiter|N|заведующий филиалом|Person, die eine Filiale leitet|Der Filialleiter macht den Dienstplan.|B2|Handel
+Sortiment|das|Sortimente|N|ассортимент|alle Waren, die ein Geschäft hat|Wir haben unser Sortiment erweitert.|B2|Handel
+Regal einräumen|-|-|R|выкладывать товар на полки|Waren ins Regal stellen|Am Morgen räume ich die Regale ein.|B1|Handel
+Preisschild|das|Preisschilder|N|ценник|Zettel mit dem Preis|Auf dem Preisschild steht 9,99 €.|B1|Handel
+Kassenbeleg|der|Kassenbelege|N|кассовый чек|Papier über den Einkauf|Ohne Kassenbeleg kein Umtausch.|B2|Handel
+Umtausch|der|-|N|обмен (товара)|eine Ware gegen eine andere tauschen|Ein Umtausch ist innerhalb von 14 Tagen möglich.|B1|Handel
+Rückgabe|die|Rückgaben|N|возврат|eine Ware zurückgeben|Die Rückgabe ist kostenlos.|B1|Handel
+Ladendieb|der|Ladendiebe|N|магазинный вор|Person, die im Geschäft stiehlt|Der Ladendieb wurde erwischt.|B2|Handel
+Ware auszeichnen|-|-|R|маркировать товар ценами|Preise an Waren machen|Bitte zeichnen Sie die neue Ware aus.|B2|Handel
+Kundschaft|die|-|N|клиентура|alle Kunden|Unsere Kundschaft ist sehr treu.|B2|Handel
+Beratung|die|Beratungen|N|консультация|Gespräch, in dem man Tipps bekommt|Die Beratung ist kostenlos.|B1|Handel
+Gastronomie|die|-|N|общепит|Restaurants, Cafés, Kneipen|Ich habe zehn Jahre in der Gastronomie gearbeitet.|B2|Gastro
+Servicekraft|die|Servicekräfte|N|официант(ка)|Person, die im Restaurant bedient|Wir suchen Servicekräfte für den Sommer.|B2|Gastro
+Küchenhilfe|die|Küchenhilfen|N|помощник на кухне|Person, die in der Küche hilft|Sie arbeitet als Küchenhilfe.|B1|Gastro
+Bestellung aufnehmen|-|-|R|принимать заказ|aufschreiben, was der Gast möchte|Darf ich Ihre Bestellung aufnehmen?|B1|Gastro
+Tagesgericht|das|Tagesgerichte|N|блюдо дня|Essen, das es nur heute gibt|Das Tagesgericht kostet 8,50 €.|B1|Gastro
+Vorspeise|die|Vorspeisen|N|закуска|kleines Essen vor dem Hauptgericht|Als Vorspeise nehme ich eine Suppe.|A2|Gastro
+Hauptgericht|das|Hauptgerichte|N|основное блюдо|wichtigstes Essen eines Menüs|Was möchten Sie als Hauptgericht?|A2|Gastro
+Beilage|die|Beilagen|N|гарнир|Kartoffeln, Reis usw. zum Fleisch|Als Beilage gibt es Reis.|B1|Gastro
+Tablett|das|Tabletts|N|поднос|flache Platte zum Tragen von Tellern|Sie trägt das Tablett zum Tisch.|B1|Gastro
+Spülküche|die|Spülküchen|N|посудомоечная|Raum, wo das Geschirr gespült wird|Ich arbeite heute in der Spülküche.|B2|Gastro
+Zimmermädchen|das|Zimmermädchen|N|горничная|Frau, die Hotelzimmer reinigt|Das Zimmermädchen macht die Betten.|B1|Gastro
+Gebäudereinigung|die|-|N|клининг зданий|Reinigung von Büros und Häusern|Er arbeitet bei einer Gebäudereinigung.|B2|Reinigung
+Reinigungsmittel|das|Reinigungsmittel|N|чистящее средство|Mittel zum Putzen|Bitte die Reinigungsmittel nicht mischen.|B1|Reinigung
+Putzwagen|der|Putzwagen|N|уборочная тележка|Wagen mit Putzzeug|Der Putzwagen steht im Flur.|B2|Reinigung
+Reinigungsplan|der|Reinigungspläne|N|график уборки|Plan, wann was geputzt wird|Laut Reinigungsplan sind heute die Fenster dran.|B2|Reinigung
+Handwerksbetrieb|der|Handwerksbetriebe|N|ремесленное предприятие|kleine Firma von Handwerkern|Mein Mann arbeitet in einem Handwerksbetrieb.|B2|Handwerk
+Meister|der|Meister|N|мастер|Handwerker mit höchster Prüfung|Der Meister erklärt die Aufgabe.|B1|Handwerk
+Geselle|der|Gesellen|N|подмастерье (после обучения)|Handwerker nach der Ausbildung|Nach der Ausbildung ist man Geselle.|B2|Handwerk
+Auszubildende|die|Auszubildenden|N|ученик (на производстве)|Person in der Ausbildung (Azubi)|Wir haben zwei neue Auszubildende.|B1|Handwerk
+Werkzeug|das|Werkzeuge|N|инструмент|Hammer, Zange usw.|Bring bitte das Werkzeug mit.|A2|Handwerk
+Hammer|der|Hämmer|N|молоток|Werkzeug zum Schlagen|Gib mir mal den Hammer.|A2|Handwerk
+Schraube|die|Schrauben|N|винт, шуруп|kleines Metallteil zum Befestigen|Die Schraube ist locker.|B1|Handwerk
+Schraubenzieher|der|Schraubenzieher|N|отвёртка|Werkzeug für Schrauben|Ich brauche einen kleinen Schraubenzieher.|B1|Handwerk
+Zange|die|Zangen|N|плоскогубцы|Werkzeug zum Festhalten|Mit der Zange geht es besser.|B1|Handwerk
+Säge|die|Sägen|N|пила|Werkzeug zum Schneiden von Holz|Die Säge ist stumpf.|B1|Handwerk
+Bohrmaschine|die|Bohrmaschinen|N|дрель|Gerät zum Bohren|Leihst du mir deine Bohrmaschine?|B1|Handwerk
+Leiter|die|Leitern|N|лестница (стремянка)|Gerät zum Hochsteigen|Die Leiter steht im Keller.|B1|Handwerk
+Material|das|Materialien|N|материал|Stoff, aus dem man etwas macht|Das Material kommt morgen.|B1|Handwerk
+Holz|das|Hölzer|N|дерево (материал)|Material von Bäumen|Der Tisch ist aus Holz.|A2|Handwerk
+Metall|das|Metalle|N|металл|Eisen, Stahl, Kupfer usw.|Das Regal ist aus Metall.|B1|Handwerk
+Kabel|das|Kabel|N|кабель, провод|Draht für Strom|Das Kabel ist zu kurz.|B1|Technik
+Leitung|die|Leitungen|N|трубопровод, провод; руководство|Rohr oder Kabel; die Chefs|Die Wasserleitung ist kaputt.|B2|Handwerk
+Rohr|das|Rohre|N|труба|lange Röhre für Wasser|Das Rohr ist undicht.|B2|Handwerk
+undicht|-|-|A|негерметичный, протекающий|lässt Wasser durch|Das Dach ist undicht.|B2|Handwerk
+Malerin|die|Malerinnen|N|маляр (женщина)|Person, die Wände streicht|Die Malerin kommt am Montag.|B1|Handwerk
+Tischler|der|Tischler|N|столяр|Handwerker für Holzmöbel|Der Tischler baut einen Schrank.|B1|Handwerk
+Klempner|der|Klempner|N|сантехник|Handwerker für Wasser und Heizung|Wir müssen den Klempner rufen.|B1|Handwerk
+Bauarbeiter|der|Bauarbeiter|N|строитель|Person, die auf dem Bau arbeitet|Die Bauarbeiter fangen um sieben an.|B1|Handwerk
+Gerüst|das|Gerüste|N|строительные леса|Konstruktion außen am Haus zum Arbeiten|Am Haus steht ein Gerüst.|B2|Handwerk
+Auftraggeber|der|Auftraggeber|N|заказчик|Person, die einen Auftrag gibt|Der Auftraggeber ist zufrieden.|B2|Handwerk
+Arbeitsauftrag|der|Arbeitsaufträge|N|рабочее задание|Aufgabe, die man erledigen soll|Hier ist Ihr Arbeitsauftrag für heute.|B2|Arbeit
+Stundenzettel|der|Stundenzettel|N|табель (часов)|Zettel, auf dem die Arbeitszeit steht|Bitte geben Sie den Stundenzettel am Freitag ab.|B2|Arbeit
+Kfz-Mechatroniker|der|Kfz-Mechatroniker|N|автомеханик|Handwerker für Autos|Mein Sohn will Kfz-Mechatroniker werden.|B2|Handwerk
+Erzieher|der|Erzieher|N|воспитатель|Person, die in der Kita arbeitet|Der Erzieher spielt mit den Kindern.|B1|Berufe
+Busfahrer|der|Busfahrer|N|водитель автобуса|Person, die einen Bus fährt|Der Busfahrer ist sehr freundlich.|A2|Berufe
+Friseurin|die|Friseurinnen|N|парикмахер (женщина)|Frau, die Haare schneidet|Die Friseurin hat heute keinen Termin frei.|A2|Berufe
+Apothekerin|die|Apothekerinnen|N|фармацевт (женщина)|Frau, die in der Apotheke arbeitet|Die Apothekerin erklärt das Medikament.|B1|Berufe
+Anwalt|der|Anwälte|N|адвокат|Person, die bei Rechtsfragen hilft|Ich brauche einen Anwalt.|B1|Berufe
+Richter|der|Richter|N|судья|Person, die im Gericht entscheidet|Der Richter hat das Urteil gesprochen.|B2|Berufe
+Journalist|der|Journalisten|N|журналист|Person, die für Zeitungen schreibt|Die Journalistin hat einen Artikel geschrieben.|B1|Berufe
+Steuerberater|der|Steuerberater|N|налоговый консультант|Person, die bei Steuern hilft|Der Steuerberater macht meine Steuererklärung.|B2|Berufe
+Dolmetscher|der|Dolmetscher|N|устный переводчик|Person, die mündlich übersetzt|Beim Amt hatte ich einen Dolmetscher.|B1|Berufe
+Übersetzerin|die|Übersetzerinnen|N|переводчица (письменная)|Frau, die Texte übersetzt|Sie arbeitet als Übersetzerin.|B1|Berufe
+Landwirt|der|Landwirte|N|фермер|Bauer|Der Landwirt arbeitet auf dem Feld.|B2|Berufe
+Gärtner|der|Gärtner|N|садовник|Person, die Pflanzen pflegt|Der Gärtner schneidet die Hecke.|B1|Berufe
+Sozialarbeiterin|die|Sozialarbeiterinnen|N|социальный работник (женщина)|Frau, die Menschen mit Problemen hilft|Die Sozialarbeiterin hilft bei Anträgen.|B2|Berufe
+Hausmeisterin|die|Hausmeisterinnen|N|завхоз, управдом (женщина)|Frau, die sich um ein Haus kümmert|Die Hausmeisterin wechselt die Glühbirne.|B1|Berufe
+Sicherheitsdienst|der|Sicherheitsdienste|N|служба охраны|Firma oder Person für Sicherheit|Der Sicherheitsdienst kontrolliert den Eingang.|B2|Berufe
+Callcenter|das|Callcenter|N|колл-центр|Büro, in dem man Kundenanrufe annimmt|Sie arbeitet im Callcenter.|B1|Berufe
+Zeitarbeit|die|-|N|временная работа (через агентство)|Arbeit über eine Leiharbeitsfirma|Ich habe über die Zeitarbeit angefangen.|B2|Arbeit
+Leiharbeiter|der|Leiharbeiter|N|работник по найму через агентство|Person, die von einer Zeitarbeitsfirma kommt|Die Firma beschäftigt viele Leiharbeiter.|B2|Arbeit
+Quereinsteiger|der|Quereinsteiger|N|человек, пришедший из другой профессии|Person, die ohne passende Ausbildung in einen Beruf wechselt|Auch Quereinsteiger sind willkommen.|B2|Arbeit
+Umschulung|die|Umschulungen|N|переобучение|neue Ausbildung für einen anderen Beruf|Das Jobcenter bezahlt die Umschulung.|B2|Arbeit
+Praktikant|der|Praktikanten|N|практикант|Person, die ein Praktikum macht|Der Praktikant hilft im Büro.|B1|Arbeit
+Ausbilder|der|Ausbilder|N|наставник (на производстве)|Person, die Azubis anleitet|Mein Ausbilder ist sehr geduldig.|B2|Arbeit
+Berufsschule|die|Berufsschulen|N|профессиональное училище|Schule während der Ausbildung|Zweimal pro Woche gehe ich in die Berufsschule.|B1|Bildung
+Abschlussprüfung|die|Abschlussprüfungen|N|выпускной экзамен|Prüfung am Ende der Ausbildung|Die Abschlussprüfung ist im Juni.|B2|Bildung
+Arbeitsplatzbeschreibung|die|-|N|описание рабочего места|Text, der die Aufgaben einer Stelle beschreibt|In der Arbeitsplatzbeschreibung steht, was ich tun muss.|B2|Arbeit
+Mitarbeitergespräch|das|Mitarbeitergespräche|N|беседа с сотрудником|jährliches Gespräch mit dem Chef|Morgen habe ich mein Mitarbeitergespräch.|B2|Arbeit
+Zielvereinbarung|die|Zielvereinbarungen|N|соглашение о целях|Vereinbarung über Ziele bei der Arbeit|In der Zielvereinbarung stehen drei Ziele.|B2|Arbeit
+Beförderung|die|Beförderungen|N|повышение (по службе)|bessere Stelle in derselben Firma|Sie hat eine Beförderung bekommen.|B2|Arbeit
+Kündigungsschutz|der|-|N|защита от увольнения|Gesetz, das vor Kündigung schützt|In der Elternzeit gilt Kündigungsschutz.|B2|Arbeit
+Abmahnung|die|Abmahnungen|N|выговор (письменный)|schriftliche Warnung vom Arbeitgeber|Er hat eine Abmahnung bekommen.|B2|Arbeit
+Arbeitsrecht|das|-|N|трудовое право|Gesetze für Arbeitnehmer und Arbeitgeber|Im Arbeitsrecht ist das klar geregelt.|B2|Arbeit
+Tarifvertrag|der|Tarifverträge|N|тарифное соглашение|Vertrag über Löhne für eine Branche|Wir werden nach Tarifvertrag bezahlt.|B2|Arbeit
+Zuschlag|der|Zuschläge|N|надбавка|zusätzliches Geld (z. B. für Nachtarbeit)|Für Sonntagsarbeit gibt es einen Zuschlag.|B2|Arbeit
+Urlaubsanspruch|der|-|N|право на отпуск|wie viele Tage Urlaub man hat|Mein Urlaubsanspruch beträgt 28 Tage.|B2|Arbeit
+Resturlaub|der|-|N|оставшийся отпуск|Urlaub, der noch übrig ist|Ich habe noch fünf Tage Resturlaub.|B2|Arbeit
+Bildungsurlaub|der|-|N|учебный отпуск|bezahlter Urlaub für Weiterbildung|Ich beantrage Bildungsurlaub für den Kurs.|B2|Arbeit
+Betriebsarzt|der|Betriebsärzte|N|врач предприятия|Arzt der Firma|Der Betriebsarzt macht eine Untersuchung.|B2|Arbeit
+Pausenraum|der|Pausenräume|N|комната отдыха|Raum für die Pause|Wir essen im Pausenraum.|B1|Arbeit
+Spind|der|Spinde|N|шкафчик (для одежды)|kleiner Schrank für Mitarbeiter|Meine Sachen sind im Spind.|B2|Arbeit
+Stechuhr|die|Stechuhren|N|табельные часы|Gerät, das die Arbeitszeit erfasst|Vergiss nicht, an der Stechuhr zu stempeln.|B2|Arbeit
+stempeln|-|stempelt, stempelte, hat gestempelt|V|отмечаться (на работе); ставить печать|die Arbeitszeit registrieren; einen Stempel machen|Ich habe vergessen zu stempeln.|B2|Arbeit
+Frühschicht|die|Frühschichten|N|утренняя смена|Schicht am Morgen|Diese Woche habe ich Frühschicht.|B1|Arbeit
+Spätschicht|die|Spätschichten|N|вечерняя смена|Schicht am Nachmittag und Abend|Die Spätschicht endet um 22 Uhr.|B1|Arbeit
+Wochenenddienst|der|Wochenenddienste|N|дежурство в выходные|Arbeit am Samstag und Sonntag|Jeder macht einmal im Monat Wochenenddienst.|B2|Arbeit
+Bereitschaft|die|-|N|дежурство (на вызове); готовность|man muss erreichbar sein, falls man gebraucht wird|Heute Nacht habe ich Bereitschaft.|B2|Arbeit
+Krankenstand|der|-|N|число больных (на работе)|Anzahl der kranken Mitarbeiter|Der Krankenstand ist im Winter hoch.|B2|Arbeit
+Lohnfortzahlung|die|-|N|сохранение зарплаты (при болезни)|Lohn, den man bei Krankheit weiter bekommt|Sechs Wochen gibt es Lohnfortzahlung.|B2|Arbeit
+Nettolohn|der|Nettolöhne|N|зарплата нетто|Lohn nach Steuern und Abgaben|Mein Nettolohn ist 1.800 Euro.|B2|Geld
+Bruttolohn|der|Bruttolöhne|N|зарплата брутто|Lohn vor Steuern|Der Bruttolohn steht im Vertrag.|B2|Geld
+Sozialversicherung|die|-|N|социальное страхование|Kranken-, Renten-, Arbeitslosen- und Pflegeversicherung|Die Sozialversicherung wird direkt vom Lohn abgezogen.|B2|Geld
+Steuer-ID|die|-|N|налоговый идентификационный номер|persönliche Steuernummer|Für die Lohnabrechnung brauchen wir Ihre Steuer-ID.|B2|Behörden
+Sozialversicherungsausweis|der|-|N|удостоверение социального страхования|Ausweis mit der Rentenversicherungsnummer|Bringen Sie bitte Ihren Sozialversicherungsausweis mit.|B2|Behörden
