@@ -11,3 +11,5 @@
 - Didaktik: Russisch nur als Verständnishilfe (Aufgabenstellung, Übersetzung nach der Antwort). Antworten immer auf Deutsch. Alles (Wörter, Sätze, Aufgaben, Regeln) muss vorlesbar sein (`say()`, `sayBtn()`, Einstellung `SET.auto`).
 - Prüfungsaufgaben liegen in `quellen/pruefung/*.json` (Format siehe README), jede Aufgabe mit `id` und `ex` (DTB/DTZ). Eigene Aufgaben schreiben, nie aus offiziellen Modelltests kopieren. Keine echten Prüfungsergebnisse ins Repo.
 - Grundkurs (`KURS` in `web/app.js`): 13 Stufen nach Grammatik-Kategorien, nutzt A2-Sätze zuerst. Für jede Stufe sollten mindestens 15 Sätze mit Niveau A2/B1 existieren. Fortschritt in `P.kurs` (Teil von `dl-prog`).
+- Neue Wortdateien nach dem Schreiben mit `python3 tools/dedupe_new.py quellen/woerter-XX.txt` bereinigen (entfernt Wörter, die es schon gibt). Schreibaufgaben dürfen auf mehrere Dateien `quellen/schreiben*.json` verteilt sein.
+- Ziel laut Mario (04.11.2026): Inhalte vervierfachen (≈7.000 Wörter, ≈3.900 Sätze, 72 Schreibaufgaben, ≈520 Prüfungsaufgaben). Neue Wörter pro Tag: 30.
