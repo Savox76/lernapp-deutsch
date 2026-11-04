@@ -1,0 +1,67 @@
+# B1/B2 Arbeitsalltag: Pflege, Lager, Büro, Handel
+Ich *beginne* meine Frühschicht um sechs Uhr.|Я начинаю утреннюю смену в шесть часов.|B1|Hauptsatz: Verb auf Platz 2.|Arbeit
+Zuerst *lese* ich die Übergabe vom Nachtdienst.|Сначала я читаю передачу от ночной смены.|B1|zuerst auf Position 1 → Verb → Subjekt.|Pflege
+Nach dem Frühstück *helfe* ich den Bewohnern bei der Körperpflege.|После завтрака я помогаю жильцам с гигиеной.|B1|Zeit auf Position 1 → Verb → Subjekt.|Pflege
+Herr Klein *muss* alle zwei Stunden umgelagert werden.|Господина Кляйна нужно перекладывать каждые два часа.|B2|Passiv mit Modalverb.|Pflege
+Bitte *trag* den Blutdruck in die Dokumentation ein.|Пожалуйста, внеси давление в документацию.|B1|Imperativ mit du: eintragen → trag … ein.|Pflege
+Wenn ein Bewohner stürzt, *muss* man sofort die Pflegefachkraft rufen.|Если жилец падает, нужно сразу позвать медсестру.|B1|wenn-Satz zuerst → dann sofort das Modalverb.|Pflege
+Frau Hahn *trinkt* zu wenig, deshalb führen wir ein Trinkprotokoll.|Госпожа Хан пьёт слишком мало, поэтому мы ведём протокол питья.|B1|Hauptsatz + deshalb + Verb.|Pflege
+Die Angehörigen möchten wissen, wie es ihrer Mutter *geht*.|Родственники хотят знать, как себя чувствует их мама.|B1|Indirekte Frage: Verb am Ende.|Pflege
+Ich habe der Tochter gesagt, dass die Ärztin erst um 16 Uhr *kommt*.|Я сказала дочери, что врач придёт только в 16 часов.|B1|dass: Verb am Ende.|Pflege
+Die Medikamente *werden* morgens von der Fachkraft gerichtet.|Лекарства утром раскладывает медсестра.|B2|Passiv mit von.|Pflege
+Bei der Übergabe *besprechen* wir alle Besonderheiten.|При передаче смены мы обсуждаем все особенности.|B1|Angabe auf Position 1 → Verb → Subjekt.|Pflege
+Ohne Handschuhe *darf* man keine Wunde versorgen.|Без перчаток нельзя обрабатывать рану.|B1|Angabe auf Position 1 → Modalverb → Subjekt.|Pflege
+Herr Meier hat sich geweigert, seine Tabletten zu nehmen.|Господин Майер отказался принимать таблетки.|B2|zu-Infinitiv am Ende.|Pflege
+Obwohl die Arbeit anstrengend ist, *gefällt* mir mein Beruf.|Хотя работа тяжёлая, мне нравится моя профессия.|B1|obwohl-Satz zuerst → dann sofort das Verb.|Pflege
+Die Bewohnerin, die im Zimmer 8 *wohnt*, hat heute Geburtstag.|У жительницы, которая живёт в комнате 8, сегодня день рождения.|B1|Relativsatz in der Mitte.|Pflege
+Im Lager *kontrolliere* ich jeden Morgen den Wareneingang.|На складе я каждое утро проверяю приёмку товара.|B1|Ort auf Position 1 → Verb → Subjekt.|Logistik
+Die Paletten *müssen* bis 14 Uhr an Rampe 3 stehen.|Паллеты должны стоять у рампы 3 до 14 часов.|B1|Modalverb auf Platz 2, Infinitiv am Ende.|Logistik
+Jedes Paket *wird* beim Eingang gescannt.|Каждую посылку сканируют при приёмке.|B1|Passiv Präsens.|Logistik
+Der Lkw *wurde* heute Morgen um sieben entladen.|Грузовик разгрузили сегодня утром в семь.|B1|Passiv Präteritum.|Logistik
+Ich weiß nicht, in welchem Regal die Kartons *stehen*.|Я не знаю, на какой полке стоят коробки.|B1|Indirekte Frage: Verb am Ende.|Logistik
+Bevor man den Gabelstapler fährt, *muss* man ihn kontrollieren.|Прежде чем ехать на погрузчике, его нужно проверить.|B1|bevor-Satz zuerst → dann sofort das Modalverb.|Logistik
+Die Ware, die gestern geliefert *wurde*, war beschädigt.|Товар, который доставили вчера, был повреждён.|B2|Relativsatz + Passiv.|Logistik
+Wegen der vielen Bestellungen *arbeiten* wir diese Woche länger.|Из-за большого количества заказов мы на этой неделе работаем дольше.|B1|wegen auf Position 1 → Verb → Subjekt.|Logistik
+Ich habe vergessen, den Lieferschein zu unterschreiben.|Я забыла подписать накладную.|B1|zu-Infinitiv am Ende.|Logistik
+Wenn der Scanner nicht funktioniert, *schreiben* wir die Nummern per Hand auf.|Если сканер не работает, мы записываем номера вручную.|B1|wenn-Satz zuerst → dann sofort das Verb.|Logistik
+Um Unfälle zu vermeiden, *tragen* alle Sicherheitsschuhe.|Чтобы избежать несчастных случаев, все носят защитную обувь.|B1|um … zu zuerst → dann sofort das Verb.|Logistik
+Der Fahrer *hat* sich verfahren und kommt eine Stunde später.|Водитель заблудился и приедет на час позже.|B1|Perfekt + und + Hauptsatz.|Logistik
+Die Kollegin *bittet* mich, ihre Schicht zu übernehmen.|Коллега просит меня взять её смену.|B1|Hauptsatz + zu-Infinitiv.|Arbeit
+Ich *würde* gern am Samstag frei haben.|Я бы хотела в субботу выходной.|B1|Konjunktiv II: würde … haben.|Arbeit
+Kannst du mir sagen, wer heute die Schichtleitung *hat*?|Можешь сказать, кто сегодня руководит сменой?|B1|Indirekte Frage: Verb am Ende.|Arbeit
+Im Büro *beantworte* ich vor allem E-Mails und Anrufe.|В офисе я в основном отвечаю на письма и звонки.|B1|Ort auf Position 1 → Verb → Subjekt.|Büro
+Die Rechnung *wurde* versehentlich zweimal verschickt.|Счёт по ошибке отправили дважды.|B2|Passiv Präteritum.|Büro
+Bitte *legen* Sie die Unterlagen in den blauen Ordner.|Пожалуйста, положите документы в синюю папку.|B1|Imperativ mit Sie.|Büro
+Ich schicke Ihnen die Datei, sobald sie fertig *ist*.|Я пришлю вам файл, как только он будет готов.|B1|sobald: Verb am Ende.|Büro
+Die Kundin fragt, ob ihre Bestellung schon verschickt worden *ist*.|Клиентка спрашивает, отправлен ли уже её заказ.|B2|ob + Passiv Perfekt: ist ganz am Ende.|Büro
+Könnten Sie mich bitte mit der Buchhaltung verbinden?|Не могли бы вы соединить меня с бухгалтерией?|B1|Konjunktiv II: höfliche Bitte.|Büro
+Herr Lang *ist* gerade in einer Besprechung, kann ich etwas ausrichten?|Господин Ланг сейчас на совещании, что-нибудь передать?|B1|Hauptsatz: Verb auf Platz 2.|Büro
+Ich *leite* Ihre Anfrage an den zuständigen Kollegen weiter.|Я перенаправлю ваш запрос ответственному коллеге.|B1|Trennbares Verb: leite … weiter.|Büro
+Damit nichts vergessen wird, *schreibe* ich ein Protokoll.|Чтобы ничего не забыть, я пишу протокол.|B2|damit-Satz zuerst → dann sofort das Verb.|Büro
+An der Kasse *bezahlen* die meisten Kunden mit Karte.|На кассе большинство клиентов платит картой.|B1|Ort auf Position 1 → Verb → Subjekt.|Handel
+Der Kunde möchte die Jacke umtauschen, weil sie zu klein *ist*.|Клиент хочет обменять куртку, потому что она мала.|B1|weil: Verb am Ende.|Handel
+Ohne Kassenbon *können* wir die Ware leider nicht zurücknehmen.|Без чека мы, к сожалению, не можем принять товар обратно.|B1|Angabe auf Position 1 → Modalverb → Subjekt.|Handel
+Morgens *räume* ich die Regale ein, bevor der Laden öffnet.|По утрам я раскладываю товар на полки до открытия магазина.|B1|Zeit auf Position 1 → Verb → Subjekt; bevor: Verb am Ende.|Handel
+Die Ware, die im Angebot *ist*, steht vorne am Eingang.|Товар, который по акции, стоит впереди у входа.|B1|Relativsatz in der Mitte.|Handel
+Kann ich Ihnen helfen oder *schauen* Sie sich nur um?|Вам помочь или вы просто смотрите?|B1|oder + Verb + Subjekt (Frage).|Handel
+Die Preise *müssen* bis Montag neu ausgezeichnet werden.|Цены нужно переоформить до понедельника.|B2|Passiv mit Modalverb.|Handel
+Ich *habe* den Kunden gebeten, kurz zu warten.|Я попросила клиента немного подождать.|B1|Perfekt + zu-Infinitiv.|Handel
+In der Küche *wird* um elf Uhr mit dem Mittagessen begonnen.|На кухне в одиннадцать начинают готовить обед.|B2|Passiv ohne Subjekt.|Gastro
+Der Gast *hätte* gern noch ein Glas Wasser.|Гость хотел бы ещё стакан воды.|B1|Konjunktiv II: hätte gern.|Gastro
+Bevor die Gäste kommen, *decken* wir die Tische.|До прихода гостей мы накрываем столы.|B1|bevor-Satz zuerst → dann sofort das Verb.|Gastro
+Der Handwerker *kommt* erst, nachdem der Vermieter zugestimmt hat.|Мастер придёт только после того, как арендодатель согласится.|B2|nachdem: Hilfsverb am Ende.|Handwerk
+Das Material *ist* noch nicht geliefert worden.|Материал ещё не доставлен.|B2|Passiv Perfekt.|Handwerk
+Der Meister erklärt dem Azubi, wie man die Maschine richtig *bedient*.|Мастер объясняет ученику, как правильно управлять машиной.|B1|Indirekte Frage: Verb am Ende.|Handwerk
+Wer die Prüfung besteht, *bekommt* einen Gesellenbrief.|Кто сдаст экзамен, получит свидетельство подмастерья.|B2|wer-Satz zuerst → dann sofort das Verb.|Handwerk
+Ich *bin* seit sechs Monaten in der Probezeit.|Я на испытательном сроке шесть месяцев.|B1|Hauptsatz: Verb auf Platz 2.|Arbeit
+Nach der Probezeit *bekomme* ich einen unbefristeten Vertrag.|После испытательного срока я получу бессрочный договор.|B1|Zeit auf Position 1 → Verb → Subjekt.|Arbeit
+Meine Überstunden *werden* im nächsten Monat ausgezahlt.|Мои сверхурочные выплатят в следующем месяце.|B2|Passiv Präsens mit Zukunftsbedeutung.|Arbeit
+Ich *habe* meinen Chef um ein Gespräch gebeten.|Я попросила начальника о разговоре.|B1|Perfekt: habe … gebeten.|Arbeit
+Hätte ich früher gefragt, *hätte* ich die Schulung machen können.|Если бы я спросила раньше, я могла бы пройти обучение.|B2|Konjunktiv II Vergangenheit mit Modalverb.|Arbeit
+Es ist nicht erlaubt, während der Arbeit privat zu telefonieren.|Во время работы не разрешается звонить по личным делам.|B1|zu-Infinitiv am Ende.|Arbeit
+Die neue Kollegin *wird* von mir eingearbeitet.|Новую коллегу ввожу в курс дела я.|B2|Passiv mit von.|Arbeit
+Ich bin mir nicht sicher, ob ich die Aufgabe richtig verstanden *habe*.|Я не уверена, правильно ли я поняла задание.|B1|ob + Perfekt: habe am Ende.|Arbeit
+Wenn Sie Fragen haben, *melden* Sie sich einfach bei mir.|Если у вас есть вопросы, просто обращайтесь ко мне.|B1|wenn-Satz zuerst → dann sofort das Verb.|Arbeit
+Das ist die Kollegin, mit der ich die Schicht getauscht *habe*.|Это коллега, с которой я поменялась сменой.|B1|Relativsatz mit Präposition.|Arbeit
+Da der Kollege krank ist, *übernehme* ich heute seine Tour.|Так как коллега болен, я сегодня беру его маршрут.|B1|da-Satz zuerst → dann sofort das Verb.|Logistik
+Ich *werde* morgen pünktlich um sieben am Depot sein.|Завтра я буду в депо ровно в семь.|B1|Futur: werde … sein.|Logistik

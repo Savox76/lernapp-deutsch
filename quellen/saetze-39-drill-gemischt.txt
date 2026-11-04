@@ -1,0 +1,49 @@
+# Drill gemischt A2/B1: typische Fehler bei der Wortstellung
+Heute *gehe* ich nicht zur Arbeit.|Сегодня я не иду на работу.|A2|Zeit auf Position 1 → Verb → Subjekt. Nicht: Heute ich gehe.|Alltag
+Morgen *kommt* meine Mutter zu Besuch.|Завтра ко мне приезжает мама.|A2|Zeit auf Position 1 → Verb → Subjekt.|Familie
+Jetzt *muss* ich los.|Мне пора идти.|A2|jetzt auf Position 1 → Modalverb → Subjekt.|Alltag
+Am Abend *bin* ich immer sehr müde.|Вечером я всегда очень устаю.|A2|Zeit auf Position 1 → Verb → Subjekt.|Alltag
+In Dresden *gibt* es viele schöne Parks.|В Дрездене много красивых парков.|A2|Ort auf Position 1 → Verb → es.|Orte
+Dann *trinken* wir zusammen Tee.|Потом мы вместе пьём чай.|A2|dann auf Position 1 → Verb → Subjekt.|Alltag
+Leider *spreche* ich noch nicht so gut Deutsch.|К сожалению, я ещё не так хорошо говорю по-немецки.|A2|leider auf Position 1 → Verb → Subjekt.|Bildung
+Meinem Sohn *gefällt* die neue Schule.|Моему сыну нравится новая школа.|A2|Dativ auf Position 1 → Verb → Subjekt.|Familie
+Das Buch *habe* ich schon gelesen.|Эту книгу я уже прочитала.|A2|Objekt auf Position 1 → Verb → Subjekt, Partizip am Ende.|Freizeit
+Den Film *kenne* ich nicht.|Этот фильм я не знаю.|A2|Objekt auf Position 1 → Verb → Subjekt.|Freizeit
+Ich glaube, dass es morgen *regnet*.|Я думаю, что завтра будет дождь.|A2|dass: Verb am Ende. Nicht: dass es regnet morgen.|Wetter
+Ich weiß, dass du recht *hast*.|Я знаю, что ты права.|A2|dass: Verb am Ende.|Alltag
+Er sagt, dass er heute nicht kommen *kann*.|Он говорит, что сегодня не может прийти.|B1|dass: Modalverb ganz am Ende, Infinitiv davor.|Alltag
+Sie fragt, ob wir morgen Zeit *haben*.|Она спрашивает, есть ли у нас завтра время.|B1|ob: Verb am Ende.|Alltag
+Ich komme nicht, weil ich arbeiten *muss*.|Я не приду, потому что мне нужно работать.|A2|weil: Modalverb ganz am Ende.|Arbeit
+Weil ich arbeiten muss, *komme* ich nicht.|Так как мне нужно работать, я не приду.|A2|weil-Satz zuerst → dann sofort das Verb.|Arbeit
+Wenn du Zeit hast, *ruf* mich an!|Если у тебя будет время, позвони мне!|A2|wenn-Satz zuerst → dann sofort das Verb (Imperativ).|Alltag
+Ich *habe* gestern meine Freundin getroffen.|Вчера я встретила подругу.|A2|Perfekt: habe auf Platz 2, Partizip ganz am Ende.|Freizeit
+Gestern *habe* ich meine Freundin getroffen.|Вчера я встретила подругу.|A2|Zeit vorne → habe → ich → … Partizip am Ende.|Freizeit
+Wir *sind* am Sonntag nach Leipzig gefahren.|В воскресенье мы ездили в Лейпциг.|A2|Perfekt mit sein: Partizip am Ende.|Reisen
+Am Sonntag *sind* wir nach Leipzig gefahren.|В воскресенье мы ездили в Лейпциг.|A2|Zeit vorne → sind → wir → … Partizip am Ende.|Reisen
+Ich *kann* heute leider nicht mitkommen.|Сегодня я, к сожалению, не могу пойти с вами.|A2|Modalverb auf Platz 2, trennbares Verb (mitkommen) am Ende.|Freizeit
+Heute *kann* ich leider nicht mitkommen.|Сегодня я, к сожалению, не могу пойти с вами.|A2|Zeit vorne → kann → ich → … Infinitiv am Ende.|Freizeit
+Ich *rufe* morgen beim Arzt an.|Завтра я позвоню врачу.|A2|Trennbares Verb: rufe … an.|Gesundheit
+Morgen *rufe* ich beim Arzt an.|Завтра я позвоню врачу.|A2|Zeit vorne → rufe → ich → … an.|Gesundheit
+Ich weiß nicht, wann der Arzt *anruft*.|Я не знаю, когда позвонит врач.|B1|Im Nebensatz steht das trennbare Verb zusammen am Ende.|Gesundheit
+Ich hoffe, dass du bald *zurückkommst*.|Надеюсь, что ты скоро вернёшься.|B1|Nebensatz: trennbares Verb zusammen am Ende.|Alltag
+Wann *fängt* der Kurs an?|Когда начинается курс?|A2|W-Frage: fängt auf Position 2, an am Ende.|Bildung
+Weißt du, wann der Kurs *anfängt*?|Ты знаешь, когда начинается курс?|B1|Indirekte Frage: trennbares Verb zusammen am Ende.|Bildung
+*Kommst* du heute Abend mit ins Kino?|Ты пойдёшь сегодня вечером с нами в кино?|A2|Ja/Nein-Frage: Verb auf Position 1.|Freizeit
+Ich frage dich, ob du heute Abend mit ins Kino *kommst*.|Я спрашиваю, пойдёшь ли ты сегодня вечером в кино.|B1|ob: Verb am Ende.|Freizeit
+Es regnet, aber wir *gehen* trotzdem spazieren.|Идёт дождь, но мы всё равно идём гулять.|A2|aber + Subjekt + Verb; trotzdem in der Mitte.|Freizeit
+Es regnet, trotzdem *gehen* wir spazieren.|Идёт дождь, но мы всё равно идём гулять.|A2|trotzdem auf Position 1 → Verb → Subjekt.|Freizeit
+Ich bin krank, deshalb *gehe* ich zum Arzt.|Я больна, поэтому иду к врачу.|A2|deshalb → Verb → Subjekt.|Gesundheit
+Ich bin krank und *gehe* deshalb zum Arzt.|Я больна и поэтому иду к врачу.|A2|und + Verb (Subjekt gleich); deshalb in der Mitte.|Gesundheit
+Ich gehe zum Arzt, denn ich *bin* krank.|Я иду к врачу, потому что болею.|A2|denn → Subjekt → Verb (wie Hauptsatz).|Gesundheit
+Ich gehe zum Arzt, weil ich krank *bin*.|Я иду к врачу, потому что болею.|A2|weil → Verb am Ende.|Gesundheit
+Mein Mann *arbeitet* und ich kümmere mich um die Kinder.|Мой муж работает, а я занимаюсь детьми.|A2|und verbindet zwei Hauptsätze: Verb jeweils auf Platz 2.|Familie
+Ich *möchte* nächstes Jahr eine Ausbildung machen.|Я хочу в следующем году пройти обучение.|A2|Modalverb auf Platz 2, Infinitiv ganz am Ende.|Bildung
+Nächstes Jahr *möchte* ich eine Ausbildung machen.|В следующем году я хочу пройти обучение.|A2|Zeit vorne → Modalverb → Subjekt → … Infinitiv am Ende.|Bildung
+Ich habe keine Zeit, das Formular auszufüllen.|У меня нет времени заполнить бланк.|B1|zu bei trennbaren Verben in der Mitte: auszufüllen.|Behörden
+Bitte *füllen* Sie das Formular aus.|Пожалуйста, заполните бланк.|A2|Imperativ: füllen auf Position 1, aus am Ende.|Behörden
+Das Formular *muss* ausgefüllt werden.|Бланк нужно заполнить.|B1|Passiv mit Modalverb: muss … ausgefüllt werden.|Behörden
+Das Formular *wurde* gestern ausgefüllt.|Бланк заполнили вчера.|B1|Passiv Präteritum: wurde … ausgefüllt.|Behörden
+Ich *würde* das Formular gern online ausfüllen.|Я бы хотела заполнить бланк онлайн.|B1|Konjunktiv II: würde … ausfüllen.|Behörden
+Das ist das Formular, das ich ausfüllen *muss*.|Это бланк, который мне нужно заполнить.|B1|Relativsatz: Modalverb ganz am Ende.|Behörden
+Kannst du mir zeigen, wie man das Formular *ausfüllt*?|Можешь показать, как заполнять бланк?|B1|Indirekte Frage: trennbares Verb zusammen am Ende.|Behörden
+Nachdem ich das Formular ausgefüllt hatte, *gab* ich es ab.|После того как я заполнила бланк, я его сдала.|B2|nachdem → Plusquamperfekt; danach sofort das Verb.|Behörden

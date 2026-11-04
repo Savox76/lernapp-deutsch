@@ -1,0 +1,99 @@
+# A2/B1 Basiswortschatz: häufige Nomen, Verben, Adjektive (Ergänzung)
+Ding|das|Dinge|N|вещь|ein Gegenstand|Ich muss noch ein paar Dinge erledigen.|A2|Alltag
+Sache|die|Sachen|N|вещь, дело|Gegenstand; Angelegenheit|Pack deine Sachen ein!|A2|Alltag
+Mensch|der|Menschen|N|человек|eine Person|Hier wohnen viele Menschen.|A2|Alltag
+Person|die|Personen|N|персона, человек|ein einzelner Mensch|Der Tisch ist für vier Personen.|A2|Alltag
+Welt|die|-|N|мир|die Erde und alle Menschen|Sie möchte die Welt sehen.|A2|Alltag
+Geschichte|die|Geschichten|N|история|Erzählung; Vergangenheit|Opa erzählt eine Geschichte.|A2|Alltag
+Frage|die|Fragen|N|вопрос|was man wissen möchte|Darf ich eine Frage stellen?|A2|Alltag
+Idee|die|Ideen|N|идея|ein Gedanke, ein Plan|Das ist eine gute Idee!|A2|Alltag
+Plan|der|Pläne|N|план|was man machen möchte|Hast du schon Pläne für das Wochenende?|A2|Alltag
+Hälfte|die|Hälften|N|половина|einer von zwei gleichen Teilen|Die Hälfte der Klasse ist krank.|A2|Alltag
+Paar|das|Paare|N|пара|zwei Personen oder Dinge zusammen|Ein Paar Socken, bitte.|A2|Alltag
+Zahl|die|Zahlen|N|число|1, 2, 3 …|Die Zahl ist zu klein.|A2|Alltag
+Nummer|die|Nummern|N|номер|Zahl zum Erkennen|Wie ist Ihre Telefonnummer?|A2|Alltag
+Liste|die|Listen|N|список|mehrere Dinge untereinander geschrieben|Ich schreibe eine Liste.|A2|Alltag
+Zettel|der|Zettel|N|записка, листок|kleines Stück Papier|Ich lege dir einen Zettel auf den Tisch.|A2|Alltag
+Papier|das|-|N|бумага|Material zum Schreiben|Hast du ein Blatt Papier?|A2|Alltag
+Paket|das|Pakete|N|посылка|verpackte Ware, die man schickt|Ein Paket ist für dich gekommen.|A2|Alltag
+Päckchen|das|Päckchen|N|бандероль|kleines Paket|Ich schicke meiner Mutter ein Päckchen.|B1|Alltag
+Bild|das|Bilder|N|картина, изображение|Foto oder Gemälde|An der Wand hängt ein Bild.|A2|Alltag
+Foto|das|Fotos|N|фотография|Bild von der Kamera|Zeig mir die Fotos vom Urlaub!|A2|Alltag
+Geräusch|das|Geräusche|N|звук, шум|etwas, das man hört|Das Auto macht ein komisches Geräusch.|B1|Alltag
+Ruhe|die|-|N|тишина, покой|ohne Lärm; Erholung|Ich brauche jetzt etwas Ruhe.|A2|Alltag
+Ordnung|die|-|N|порядок|alles ist am richtigen Platz|In meiner Küche herrscht Ordnung.|B1|Alltag
+Unordnung|die|-|N|беспорядок|nichts ist am richtigen Platz|Im Kinderzimmer ist große Unordnung.|B1|Alltag
+Weg|der|Wege|N|дорога, путь|Strecke von A nach B|Kennen Sie den Weg zum Bahnhof?|A2|Verkehr
+Rest|der|Reste|N|остаток|was übrig bleibt|Den Rest essen wir morgen.|A2|Alltag
+Menge|die|Mengen|N|количество; множество|wie viel; sehr viel|Wir haben eine Menge Arbeit.|B1|Alltag
+Inhalt|der|Inhalte|N|содержимое; содержание|was in etwas ist|Was ist der Inhalt des Pakets?|B1|Alltag
+Form|die|Formen|N|форма|wie etwas aussieht|Der Tisch hat eine runde Form.|B1|Alltag
+Art|die|Arten|N|вид, способ|Sorte; Weise|Welche Art von Musik magst du?|B1|Alltag
+Weise|die|-|N|способ|Art und Weise|Auf diese Weise geht es schneller.|B1|Alltag
+Mal|das|Male|N|раз|einmal, zweimal|Das ist das erste Mal.|A2|Alltag
+Augenblick|der|Augenblicke|N|мгновение|ganz kurze Zeit|Einen Augenblick, bitte!|B1|Alltag
+Lieblingsessen|das|-|N|любимое блюдо|das Essen, das man am liebsten mag|Mein Lieblingsessen ist Pelmeni.|A2|Alltag
+Geschmack|der|Geschmäcker|N|вкус|wie etwas schmeckt; was man schön findet|Das ist nicht mein Geschmack.|B1|Alltag
+Geruch|der|Gerüche|N|запах|was man mit der Nase merkt|Was ist das für ein Geruch?|B1|Alltag
+Hunger|der|-|N|голод|man möchte essen|Ich habe großen Hunger.|A2|Alltag
+Durst|der|-|N|жажда|man möchte trinken|Hast du Durst?|A2|Alltag
+Schlaf|der|-|N|сон|das Schlafen|Ich brauche acht Stunden Schlaf.|B1|Alltag
+Traum|der|Träume|N|сон, мечта|Bilder beim Schlafen; großer Wunsch|Mein Traum ist ein eigenes Haus.|B1|Alltag
+Lust|die|-|N|желание|man möchte etwas gern tun|Ich habe keine Lust zu kochen.|A2|Alltag
+Laune|die|Launen|N|настроение|wie man sich gerade fühlt|Heute habe ich gute Laune.|B1|Gefühle
+Wut|die|-|N|ярость, злость|starker Ärger|Er hat vor Wut geschrien.|B1|Gefühle
+Mut|der|-|N|мужество, смелость|man hat keine Angst|Es braucht Mut, in ein neues Land zu gehen.|B1|Gefühle
+Hoffnung|die|Hoffnungen|N|надежда|man glaubt, dass etwas Gutes passiert|Ich habe die Hoffnung nicht aufgegeben.|B1|Gefühle
+Heimweh|das|-|N|тоска по родине|man vermisst die Heimat|Manchmal habe ich Heimweh.|B1|Gefühle
+Langeweile|die|-|N|скука|man hat nichts zu tun|Die Kinder haben Langeweile.|B1|Gefühle
+Überraschung|die|Überraschungen|N|сюрприз|etwas Unerwartetes|Das ist aber eine Überraschung!|B1|Gefühle
+Witz|der|Witze|N|шутка, анекдот|lustige kurze Geschichte|Er erzählt gern Witze.|B1|Alltag
+Freundschaft|die|Freundschaften|N|дружба|Beziehung zwischen Freunden|Unsere Freundschaft ist mir wichtig.|B1|Alltag
+Besuch|der|Besuche|N|визит; гости|wenn man jemanden besucht|Am Sonntag bekommen wir Besuch.|A2|Alltag
+Gastgeber|der|Gastgeber|N|хозяин (принимающий гостей)|Person, die Gäste einlädt|Der Gastgeber begrüßt die Gäste.|B1|Feste
+Beerdigung|die|Beerdigungen|N|похороны|Feier, wenn ein Toter begraben wird|Die Beerdigung ist am Freitag.|B1|Feste
+Taufe|die|Taufen|N|крещение|Feier in der Kirche für ein Baby|Zur Taufe kommt die ganze Familie.|B1|Feste
+Ramadan|der|-|N|Рамадан|Fastenmonat im Islam|Mein Kollege fastet im Ramadan.|B1|Feste
+Fasching|der|-|N|карнавал (масленица)|Karneval, Fest mit Kostümen|Zu Fasching verkleiden sich die Kinder.|B1|Feste
+Kostüm|das|Kostüme|N|костюм (карнавальный)|besondere Kleidung zum Verkleiden|Mein Sohn hat ein Piratenkostüm.|B1|Feste
+sagen|-|sagt, sagte, hat gesagt|V|сказать|Worte sprechen|Was hast du gesagt?|A2|Alltag
+setzen|-|setzt, setzte, hat gesetzt|V|сажать, ставить|an einen Platz bringen (sitzend)|Ich setze das Kind auf den Stuhl.|B1|Alltag
+enden|-|endet, endete, hat geendet|V|заканчиваться|zu Ende gehen|Der Film endet um 22 Uhr.|A2|Alltag
+weitermachen|-|macht weiter, machte weiter, hat weitergemacht|V|продолжать|nicht aufhören|Mach weiter, du schaffst das!|A2|Alltag
+ausprobieren|-|probiert aus, probierte aus, hat ausprobiert|V|опробовать|etwas Neues testen|Ich probiere das neue Rezept aus.|B1|Alltag
+benötigen|-|benötigt, benötigte, hat benötigt|V|нуждаться (формально)|brauchen|Wir benötigen weitere Unterlagen.|B1|Briefe
+hassen|-|hasst, hasste, hat gehasst|V|ненавидеть|gar nicht mögen|Ich hasse es, früh aufzustehen.|B1|Gefühle
+erschrecken|-|erschrickt, erschrak, ist erschrocken|V|пугаться|plötzlich Angst bekommen|Ich bin furchtbar erschrocken.|B1|Gefühle
+beneiden|-|beneidet, beneidete, hat beneidet|V|завидовать|haben wollen, was ein anderer hat|Ich beneide dich um deinen Garten.|B2|Gefühle
+sich sehnen nach|-|sehnt sich, sehnte sich, hat sich gesehnt|V|тосковать по|stark vermissen|Ich sehne mich nach meiner Familie.|B2|Gefühle
+mitkommen|-|kommt mit, kam mit, ist mitgekommen|V|пойти вместе|zusammen mit jemandem gehen|Kommst du mit ins Kino?|A2|Freizeit
+zurückgeben|-|gibt zurück, gab zurück, hat zurückgegeben|V|возвращать|wieder geben|Ich gebe dir das Buch morgen zurück.|A2|Alltag
+wegräumen|-|räumt weg, räumte weg, hat weggeräumt|V|убирать (на место)|an seinen Platz bringen|Räum bitte deine Schuhe weg!|A2|Haushalt
+hochheben|-|hebt hoch, hob hoch, hat hochgehoben|V|поднимать|nach oben heben|Kannst du die Kiste hochheben?|B1|Alltag
+herunterfallen|-|fällt herunter, fiel herunter, ist heruntergefallen|V|падать вниз|nach unten fallen|Das Glas ist heruntergefallen.|B1|Alltag
+kaputtgehen|-|geht kaputt, ging kaputt, ist kaputtgegangen|V|ломаться|nicht mehr funktionieren|Die Waschmaschine ist kaputtgegangen.|A2|Haushalt
+verschwinden|-|verschwindet, verschwand, ist verschwunden|V|исчезать|weg sein, nicht mehr zu sehen|Meine Brille ist verschwunden.|B1|Alltag
+übrig|-|-|A|оставшийся|noch da, nicht verbraucht|Ist noch Kuchen übrig?|B1|Alltag
+unmöglich|-|-|A|невозможный|nicht möglich|Das ist unmöglich!|B1|Alltag
+egal|-|-|A|всё равно|nicht wichtig|Das ist mir egal.|A2|Alltag
+klar|-|klarer|A|ясный, понятно|deutlich; verstanden|Alles klar, ich komme.|A2|Alltag
+unsicher|-|unsicherer|A|неуверенный; небезопасный|nicht sicher|Beim Telefonieren bin ich noch unsicher.|B1|Alltag
+unbekannt|-|-|A|неизвестный|nicht bekannt|Die Nummer ist mir unbekannt.|B1|Alltag
+peinlich|-|peinlicher|A|неловкий, стыдный|unangenehm vor anderen|Das war mir sehr peinlich.|B1|Gefühle
+komisch|-|komischer|A|странный; смешной|seltsam; lustig|Das schmeckt komisch.|A2|Alltag
+seltsam|-|seltsamer|A|странный|nicht normal|Das ist ein seltsames Geräusch.|B1|Alltag
+furchtbar|-|-|A|ужасный|sehr schlimm|Das Wetter ist furchtbar.|A2|Alltag
+schrecklich|-|-|A|ужасный|sehr schlimm|Was für ein schrecklicher Unfall!|A2|Alltag
+herrlich|-|-|A|чудесный|wunderbar|Heute ist herrliches Wetter.|B1|Alltag
+prima|-|-|A|отлично|sehr gut|Das ist eine prima Idee!|A2|Alltag
+super|-|-|A|супер|sehr gut|Super, das machen wir!|A2|Alltag
+schade|-|-|A|жаль|bedauerlich|Schade, dass du nicht kommst.|A2|Alltag
+kostbar|-|-|A|ценный, драгоценный|sehr wertvoll|Zeit ist kostbar.|B2|Alltag
+wertvoll|-|wertvoller|A|ценный|hat einen hohen Wert|Das ist ein wertvoller Tipp.|B1|Alltag
+lauwarm|-|-|A|тёплый (чуть тёплый)|nur ein bisschen warm|Das Wasser ist nur lauwarm.|B1|Alltag
+spitz|-|spitzer|A|острый (конец)|mit einer scharfen Spitze|Vorsicht, das Messer ist spitz!|B1|Alltag
+stumpf|-|stumpfer|A|тупой (нож)|nicht scharf|Das Messer ist stumpf.|B1|Alltag
+locker|-|lockerer|A|свободный, расслабленный; шатающийся|nicht fest; entspannt|Die Schraube ist locker.|B1|Alltag
+dicht|-|dichter|A|плотный; герметичный|eng zusammen; lässt nichts durch|Das Fenster ist nicht dicht.|B1|Wohnen
+flach|-|flacher|A|плоский, мелкий|ohne Berge; nicht tief|Das Wasser ist hier ganz flach.|B1|Natur
+steil|-|steiler|A|крутой|sehr schräg nach oben|Der Weg ist sehr steil.|B1|Natur
