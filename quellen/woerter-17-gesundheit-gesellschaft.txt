@@ -1,0 +1,139 @@
+# Gesundheit/Medizin, Gesellschaft/Politik, Medien/Technik, Umwelt
+Allgemeinmedizin|die|-|N|общая медицина|Fachgebiet des Hausarztes|Sie ist Ärztin für Allgemeinmedizin.|B2|Gesundheit
+Orthopäde|der|Orthopäden|N|ортопед|Arzt für Knochen und Gelenke|Mit Rückenschmerzen gehe ich zum Orthopäden.|B2|Gesundheit
+Augenarzt|der|Augenärzte|N|окулист|Arzt für die Augen|Ich habe einen Termin beim Augenarzt.|B1|Gesundheit
+Hautarzt|der|Hautärzte|N|дерматолог|Arzt für die Haut|Der Hautarzt hat mir eine Salbe verschrieben.|B1|Gesundheit
+HNO-Arzt|der|HNO-Ärzte|N|ЛОР|Arzt für Hals, Nase, Ohren|Wegen der Ohrenschmerzen gehe ich zum HNO-Arzt.|B2|Gesundheit
+Psychotherapeut|der|Psychotherapeuten|N|психотерапевт|Therapeut für die Seele|Sie sucht einen Psychotherapeuten.|B2|Gesundheit
+Krankengymnastik|die|-|N|лечебная физкультура|Übungen bei Schmerzen nach Verletzung|Der Arzt hat mir Krankengymnastik verschrieben.|B2|Gesundheit
+Physiotherapie|die|-|N|физиотерапия|Behandlung mit Bewegung|Nach der Operation brauche ich Physiotherapie.|B2|Gesundheit
+Vorsorgeuntersuchung|die|-|N|профилактический осмотр|Untersuchung, bevor man krank wird|Einmal im Jahr mache ich eine Vorsorgeuntersuchung.|B2|Gesundheit
+Blutabnahme|die|-|N|забор крови|Blut für eine Untersuchung nehmen|Zur Blutabnahme müssen Sie nüchtern kommen.|B2|Gesundheit
+nüchtern|-|-|A|натощак; трезвый|ohne gegessen zu haben; ohne Alkohol|Bitte kommen Sie nüchtern.|B2|Gesundheit
+Ultraschall|der|-|N|УЗИ|Untersuchung mit Schallwellen|Die Ärztin macht einen Ultraschall.|B2|Gesundheit
+Röntgenbild|das|Röntgenbilder|N|рентгеновский снимок|Foto von den Knochen|Auf dem Röntgenbild sieht man den Bruch.|B2|Gesundheit
+Diagnose|die|Diagnosen|N|диагноз|was der Arzt feststellt|Die Diagnose ist noch nicht sicher.|B2|Gesundheit
+Symptom|das|Symptome|N|симптом|Zeichen einer Krankheit|Welche Symptome haben Sie?|B1|Gesundheit
+Entzündung|die|Entzündungen|N|воспаление|Körperstelle ist rot, warm und tut weh|Sie haben eine Entzündung im Hals.|B2|Gesundheit
+Infektion|die|Infektionen|N|инфекция|Krankheit durch Bakterien oder Viren|Das ist eine Infektion, Sie brauchen Antibiotika.|B2|Gesundheit
+Antibiotikum|das|Antibiotika|N|антибиотик|Medikament gegen Bakterien|Nehmen Sie das Antibiotikum zehn Tage lang.|B2|Gesundheit
+Schmerzmittel|das|Schmerzmittel|N|обезболивающее|Medikament gegen Schmerzen|Ich habe ein Schmerzmittel genommen.|B1|Gesundheit
+Beipackzettel|der|Beipackzettel|N|листок-вкладыш (к лекарству)|Papier mit Informationen zum Medikament|Lesen Sie den Beipackzettel.|B2|Gesundheit
+Dosis|die|Dosen|N|доза|Menge eines Medikaments|Nehmen Sie nicht mehr als die angegebene Dosis.|B2|Gesundheit
+rezeptpflichtig|-|-|A|отпускаемый по рецепту|nur mit Rezept zu bekommen|Das Medikament ist rezeptpflichtig.|B2|Gesundheit
+Zuzahlung|die|Zuzahlungen|N|доплата (за лекарство)|Teil, den man in der Apotheke selbst zahlt|Die Zuzahlung beträgt fünf Euro.|B2|Gesundheit
+Krankenschein|der|-|N|больничный лист|Krankmeldung (umgangssprachlich)|Der Arzt hat mir einen Krankenschein gegeben.|B1|Gesundheit
+Notdienst|der|Notdienste|N|дежурная служба|Arzt oder Apotheke für Notfälle in der Nacht|Am Wochenende hat nur die Apotheke Notdienst.|B2|Gesundheit
+Bereitschaftsdienst|der|-|N|дежурный врач (116117)|Arzt außerhalb der Sprechzeiten|Rufen Sie nachts den ärztlichen Bereitschaftsdienst an.|B2|Gesundheit
+Rettungsdienst|der|-|N|скорая помощь (служба)|Notarzt und Krankenwagen|Der Rettungsdienst war schnell da.|B2|Gesundheit
+Blutgruppe|die|Blutgruppen|N|группа крови|Art des Blutes (A, B, AB, 0)|Welche Blutgruppe haben Sie?|B1|Gesundheit
+Schwangerschaft|die|Schwangerschaften|N|беременность|Zeit, in der eine Frau ein Kind erwartet|Während der Schwangerschaft darf sie nicht rauchen.|B1|Gesundheit
+Hebamme|die|Hebammen|N|акушерка|Frau, die bei der Geburt hilft|Die Hebamme kommt nach der Geburt nach Hause.|B2|Gesundheit
+Mutterschutz|der|-|N|декретный отпуск (охрана материнства)|Schutzzeit vor und nach der Geburt|Im Mutterschutz darf sie nicht arbeiten.|B2|Gesundheit
+Kinderkrankentag|der|Kinderkrankentage|N|день по уходу за больным ребёнком|freier Tag, wenn das Kind krank ist|Ich nehme einen Kinderkrankentag.|B2|Gesundheit
+Übergewicht|das|-|N|избыточный вес|zu hohes Körpergewicht|Übergewicht kann krank machen.|B2|Gesundheit
+Bewegungsmangel|der|-|N|недостаток движения|zu wenig Sport und Bewegung|Bewegungsmangel ist ein großes Problem.|B2|Gesundheit
+Stressabbau|der|-|N|снятие стресса|Stress weniger machen|Yoga hilft beim Stressabbau.|B2|Gesundheit
+Burn-out|das|-|N|выгорание|totale Erschöpfung durch Stress|Sie war wegen Burn-out lange krank.|B2|Gesundheit
+Sucht|die|Süchte|N|зависимость|man kann ohne etwas nicht mehr leben|Rauchen kann zur Sucht werden.|B2|Gesundheit
+Lebensweise|die|-|N|образ жизни|wie man lebt|Eine gesunde Lebensweise ist wichtig.|B2|Gesundheit
+Wohlbefinden|das|-|N|хорошее самочувствие|sich gut fühlen|Sport steigert das Wohlbefinden.|B2|Gesundheit
+Bundestag|der|-|N|бундестаг|deutsches Parlament|Der Bundestag hat das Gesetz beschlossen.|B2|Gesellschaft
+Bundesregierung|die|-|N|федеральное правительство|Regierung von Deutschland|Die Bundesregierung plant neue Regeln.|B2|Gesellschaft
+Bundeskanzler|der|-|N|федеральный канцлер|Chef der Regierung|Der Bundeskanzler hält eine Rede.|B2|Gesellschaft
+Bürgermeister|der|Bürgermeister|N|мэр|Chef einer Stadt|Der Bürgermeister eröffnet das Stadtfest.|B1|Gesellschaft
+Landtag|der|Landtage|N|ландтаг (парламент земли)|Parlament eines Bundeslandes|Im Herbst wird der Landtag gewählt.|B2|Gesellschaft
+Wahlrecht|das|-|N|избирательное право|Recht zu wählen|Ab 18 hat man das Wahlrecht.|B2|Gesellschaft
+Wähler|der|Wähler|N|избиратель|Person, die wählt|Viele Wähler sind unzufrieden.|B2|Gesellschaft
+Abgeordnete|die|Abgeordneten|N|депутат|Mitglied im Parlament|Die Abgeordneten diskutieren das Gesetz.|B2|Gesellschaft
+Opposition|die|-|N|оппозиция|Parteien, die nicht regieren|Die Opposition kritisiert den Plan.|B2|Gesellschaft
+Rechtsstaat|der|-|N|правовое государство|Staat, in dem Gesetze für alle gelten|Deutschland ist ein Rechtsstaat.|B2|Gesellschaft
+Meinungsfreiheit|die|-|N|свобода слова|Recht, seine Meinung zu sagen|Die Meinungsfreiheit steht im Grundgesetz.|B2|Gesellschaft
+Pressefreiheit|die|-|N|свобода прессы|Freiheit der Zeitungen und Medien|Pressefreiheit ist ein Grundrecht.|B2|Gesellschaft
+Grundrecht|das|Grundrechte|N|основное право|wichtigstes Recht im Grundgesetz|Jeder Mensch hat Grundrechte.|B2|Gesellschaft
+Menschenrechte|die|-|N|права человека|Rechte, die alle Menschen haben|Menschenrechte gelten überall.|B2|Gesellschaft
+Gleichheit|die|-|N|равенство|alle sind gleich|Gleichheit vor dem Gesetz ist wichtig.|B2|Gesellschaft
+Diskriminierung|die|-|N|дискриминация|ungerechte Behandlung wegen Herkunft, Geschlecht usw.|Diskriminierung am Arbeitsplatz ist verboten.|B2|Gesellschaft
+Rassismus|der|-|N|расизм|Hass auf Menschen anderer Herkunft|Wir sind gegen Rassismus.|B2|Gesellschaft
+Toleranz|die|-|N|терпимость|andere Meinungen akzeptieren|Toleranz ist wichtig für das Zusammenleben.|B2|Gesellschaft
+Zusammenleben|das|-|N|совместная жизнь|gemeinsam leben|Das Zusammenleben im Haus funktioniert gut.|B2|Gesellschaft
+Einwanderung|die|-|N|иммиграция|Menschen kommen in ein Land, um dort zu leben|Deutschland braucht Einwanderung.|B2|Gesellschaft
+Zuwanderer|der|Zuwanderer|N|иммигрант|Person, die in ein Land kommt|Viele Zuwanderer arbeiten in der Pflege.|B2|Gesellschaft
+Fachkräftemangel|der|-|N|нехватка специалистов|es gibt zu wenige ausgebildete Arbeitskräfte|Der Fachkräftemangel ist ein großes Problem.|B2|Gesellschaft
+Arbeitsmarkt|der|-|N|рынок труда|alle Stellen und Arbeitsuchenden|Auf dem Arbeitsmarkt werden Pflegekräfte gesucht.|B2|Gesellschaft
+Wirtschaft|die|-|N|экономика|alles, was mit Produktion und Handel zu tun hat|Die Wirtschaft wächst langsam.|B2|Gesellschaft
+Wohlstand|der|-|N|благосостояние|wenn es Menschen finanziell gut geht|Deutschland hat einen hohen Wohlstand.|B2|Gesellschaft
+Rentenalter|das|-|N|пенсионный возраст|Alter, in dem man in Rente geht|Das Rentenalter liegt bei 67.|B2|Gesellschaft
+Altersarmut|die|-|N|бедность в старости|arm sein im Alter|Viele Frauen sind von Altersarmut bedroht.|B2|Gesellschaft
+Ehrenamtliche|die|Ehrenamtlichen|N|волонтёр|Person, die ohne Bezahlung hilft|Ehrenamtliche helfen bei der Tafel.|B2|Gesellschaft
+Tafel|die|Tafeln|N|продуктовый банк; доска|Ort, wo Bedürftige Lebensmittel bekommen; Schultafel|Bei der Tafel gibt es kostenlose Lebensmittel.|B2|Gesellschaft
+Spende|die|Spenden|N|пожертвование|Geld oder Dinge, die man schenkt, um zu helfen|Wir sammeln Spenden für die Schule.|B1|Gesellschaft
+Mitgliedsbeitrag|der|-|N|членский взнос|Geld, das Mitglieder zahlen|Der Mitgliedsbeitrag im Sportverein ist 10 Euro.|B2|Gesellschaft
+Geschlecht|das|Geschlechter|N|пол|männlich, weiblich, divers|Bitte geben Sie Ihr Geschlecht an.|B1|Gesellschaft
+Generationenvertrag|der|-|N|договор поколений|die Jungen zahlen die Rente der Alten|Der Generationenvertrag funktioniert immer schlechter.|B2|Gesellschaft
+Schlagzeile|die|Schlagzeilen|N|заголовок (газеты)|große Überschrift in der Zeitung|Die Schlagzeile heute ist sehr dramatisch.|B2|Medien
+Bericht|der|Berichte|N|отчёт, репортаж|Text über ein Ereignis|Im Fernsehen kam ein Bericht über die Flut.|B1|Medien
+Interview|das|Interviews|N|интервью|Gespräch mit Fragen und Antworten|Das Interview mit der Ministerin war interessant.|B1|Medien
+Sender|der|Sender|N|канал, телеканал|Fernseh- oder Radiostation|Auf welchem Sender läuft der Film?|B1|Medien
+Podcast|der|Podcasts|N|подкаст|Audio-Sendung im Internet|Ich höre gern einen Podcast auf Deutsch.|B1|Medien
+Mediathek|die|Mediatheken|N|медиатека|Online-Archiv von Fernsehsendungen|Die Sendung kann man in der Mediathek sehen.|B2|Medien
+Streamingdienst|der|-|N|стриминговый сервис|Dienst für Filme im Internet|Wir haben zwei Streamingdienste.|B2|Medien
+Werbespot|der|Werbespots|N|рекламный ролик|kurzer Werbefilm|Der Werbespot läuft vor dem Film.|B2|Medien
+Falschmeldung|die|Falschmeldungen|N|ложное сообщение, фейк|Nachricht, die nicht stimmt|Im Internet gibt es viele Falschmeldungen.|B2|Medien
+Quelle|die|Quellen|N|источник|wo eine Information herkommt|Prüfen Sie immer die Quelle.|B2|Medien
+Leser|der|Leser|N|читатель|Person, die liest|Die Zeitung hat viele Leser.|B1|Medien
+Zuschauer|der|Zuschauer|N|зритель|Person, die zusieht|Die Zuschauer waren begeistert.|B1|Medien
+Smartphone|das|Smartphones|N|смартфон|modernes Handy|Ohne Smartphone geht heute kaum noch etwas.|A2|Technik
+Tablet|das|Tablets|N|планшет|flacher Computer mit Touchscreen|Die Kinder lernen mit dem Tablet.|A2|Technik
+Bildschirmzeit|die|-|N|экранное время|Zeit vor Handy oder Computer|Die Bildschirmzeit der Kinder ist zu hoch.|B2|Technik
+Ladegerät|das|Ladegeräte|N|зарядное устройство|Gerät zum Aufladen|Hast du ein Ladegerät für mich?|A2|Technik
+Kopfhörer|der|Kopfhörer|N|наушники|hört man Musik damit|Ich höre Musik mit Kopfhörern.|A2|Technik
+Tastatur|die|Tastaturen|N|клавиатура|Teil des Computers zum Schreiben|Die Tastatur ist auf Deutsch.|B1|Technik
+Software|die|-|N|программное обеспечение|Programme auf dem Computer|Wir haben neue Software bekommen.|B1|Technik
+Update|das|Updates|N|обновление|neue Version eines Programms|Das Handy braucht ein Update.|B1|Technik
+Einstellung|die|Einstellungen|N|настройка|wie ein Gerät eingestellt ist|Ändern Sie die Einstellungen.|B1|Technik
+Benutzerkonto|das|Benutzerkonten|N|учётная запись|Konto für eine Webseite oder App|Erstellen Sie ein Benutzerkonto.|B2|Technik
+Anmeldedaten|die|-|N|данные для входа|Name und Passwort|Ich habe meine Anmeldedaten vergessen.|B2|Technik
+Sicherheitslücke|die|-|N|уязвимость|Fehler, durch den Hacker eindringen können|Das Update schließt eine Sicherheitslücke.|B2|Technik
+Virus|der|Viren|N|вирус|schädliches Programm|Mein Computer hat einen Virus.|B1|Technik
+Datenvolumen|das|-|N|объём данных (интернет)|wie viel Internet man im Monat hat|Mein Datenvolumen ist schon verbraucht.|B2|Technik
+Netz|das|-|N|сеть (связь)|Handyempfang|Hier im Keller habe ich kein Netz.|B1|Technik
+Künstliche Intelligenz|die|-|N|искусственный интеллект|Computer, die selbst lernen (KI)|Künstliche Intelligenz verändert viele Berufe.|B2|Technik
+Roboter|der|Roboter|N|робот|Maschine, die Arbeit selbst macht|In der Fabrik arbeiten Roboter.|B1|Technik
+Digitalisierung|die|-|N|цифровизация|Umstellung auf Computer und Internet|Die Digitalisierung verändert die Arbeit.|B2|Technik
+Klimaschutz|der|-|N|защита климата|Maßnahmen gegen den Klimawandel|Klimaschutz geht alle an.|B2|Umwelt
+Treibhausgas|das|Treibhausgase|N|парниковый газ|Gas, das die Erde wärmer macht|Autos stoßen Treibhausgase aus.|B2|Umwelt
+Abgase|die|-|N|выхлопные газы|Gase aus dem Auto|Die Abgase sind schlecht für die Luft.|B2|Umwelt
+Solaranlage|die|Solaranlagen|N|солнечная установка|Anlage, die aus Sonne Strom macht|Auf dem Dach ist eine Solaranlage.|B2|Umwelt
+Windkraft|die|-|N|ветровая энергия|Strom aus Wind|Windkraft ist eine saubere Energie.|B2|Umwelt
+Ressource|die|Ressourcen|N|ресурс|Rohstoff, z. B. Wasser, Öl|Wir müssen Ressourcen sparen.|B2|Umwelt
+Rohstoff|der|Rohstoffe|N|сырьё|Material aus der Natur|Öl ist ein wichtiger Rohstoff.|B2|Umwelt
+Überschwemmung|die|Überschwemmungen|N|наводнение|zu viel Wasser überall|Nach dem Regen gab es Überschwemmungen.|B2|Umwelt
+Dürre|die|Dürren|N|засуха|lange Zeit ohne Regen|Wegen der Dürre gibt es wenig Getreide.|B2|Umwelt
+Artensterben|das|-|N|вымирание видов|viele Tier- und Pflanzenarten verschwinden|Das Artensterben ist dramatisch.|B2|Umwelt
+Plastikmüll|der|-|N|пластиковые отходы|Abfall aus Plastik|Im Meer schwimmt viel Plastikmüll.|B2|Umwelt
+Mehrweg|der|-|N|многоразовая тара|Flaschen, die man wieder benutzt|Mehrwegflaschen sind besser für die Umwelt.|B2|Umwelt
+Einweg|der|-|N|одноразовая тара|nur einmal benutzbar|Einwegbecher sollte man vermeiden.|B2|Umwelt
+Lebensmittelverschwendung|die|-|N|выбрасывание продуктов|Essen wegwerfen|Gegen Lebensmittelverschwendung kann jeder etwas tun.|B2|Umwelt
+regional|-|-|A|региональный, местный|aus der Region|Ich kaufe gern regionales Gemüse.|B1|Umwelt
+saisonal|-|-|A|сезонный|passend zur Jahreszeit|Saisonales Obst ist günstiger.|B2|Umwelt
+klimaneutral|-|-|A|климатически нейтральный|ohne Schaden für das Klima|Die Firma will klimaneutral werden.|B2|Umwelt
+umweltschädlich|-|-|A|вредный для окружающей среды|schlecht für die Umwelt|Plastiktüten sind umweltschädlich.|B2|Umwelt
+erneuerbar|-|-|A|возобновляемый|kann neu entstehen|Wir brauchen mehr erneuerbare Energien.|B2|Umwelt
+wegwerfen|-|wirft weg, warf weg, hat weggeworfen|V|выбрасывать|in den Müll werfen|Wirf das Brot nicht weg!|A2|Umwelt
+reduzieren|-|reduziert, reduzierte, hat reduziert|V|сокращать|weniger machen|Wir wollen den Stromverbrauch reduzieren.|B2|Umwelt
+ausstoßen|-|stößt aus, stieß aus, hat ausgestoßen|V|выбрасывать (газы)|Gase in die Luft bringen|Das Auto stößt viel CO2 aus.|B2|Umwelt
+wählen gehen|-|geht wählen, ging wählen, ist wählen gegangen|V|идти на выборы|bei einer Wahl abstimmen|Am Sonntag gehen wir wählen.|B1|Gesellschaft
+abstimmen|-|stimmt ab, stimmte ab, hat abgestimmt|V|голосовать|bei einer Entscheidung die Stimme geben|Das Team stimmt über den Vorschlag ab.|B2|Gesellschaft
+demonstrieren|-|demonstriert, demonstrierte, hat demonstriert|V|протестовать (на демонстрации)|auf der Straße protestieren|Tausende demonstrieren für den Klimaschutz.|B2|Gesellschaft
+sich engagieren|-|engagiert sich, engagierte sich, hat sich engagiert|V|принимать активное участие|sich aktiv einsetzen|Sie engagiert sich im Elternrat.|B2|Gesellschaft
+sich einsetzen für|-|setzt sich ein, setzte sich ein, hat sich eingesetzt|V|выступать за|aktiv für etwas kämpfen|Er setzt sich für Flüchtlinge ein.|B2|Gesellschaft
+benachteiligen|-|benachteiligt, benachteiligte, hat benachteiligt|V|ущемлять|schlechter behandeln|Frauen werden oft benachteiligt.|B2|Gesellschaft
+integrieren|-|integriert, integrierte, hat integriert|V|интегрировать|in eine Gruppe aufnehmen|Die Kinder sind gut integriert.|B2|Gesellschaft
+recherchieren|-|recherchiert, recherchierte, hat recherchiert|V|искать информацию|Informationen suchen|Ich recherchiere im Internet.|B2|Medien
+posten|-|postet, postete, hat gepostet|V|публиковать (в соцсетях)|etwas in sozialen Medien veröffentlichen|Sie postet jeden Tag Fotos.|B1|Medien
+streamen|-|streamt, streamte, hat gestreamt|V|смотреть онлайн|Filme oder Musik im Internet abspielen|Wir streamen am Abend einen Film.|B1|Medien
+abonnieren|-|abonniert, abonnierte, hat abonniert|V|подписываться|regelmäßig bekommen (Zeitung, Kanal)|Ich habe die Zeitung abonniert.|B2|Medien
+aktualisieren|-|aktualisiert, aktualisierte, hat aktualisiert|V|обновлять|auf den neuesten Stand bringen|Bitte aktualisieren Sie die App.|B2|Technik
+sich registrieren|-|registriert sich, registrierte sich, hat sich registriert|V|регистрироваться|sich anmelden (online)|Registrieren Sie sich auf der Webseite.|B1|Technik
+hacken|-|hackt, hackte, hat gehackt|V|взламывать|in fremde Computer eindringen|Mein Konto wurde gehackt.|B2|Technik

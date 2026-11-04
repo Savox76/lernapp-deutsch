@@ -1,0 +1,119 @@
+# B2: abstrakte Nomen, Nomen-Verb-Verbindungen, Redemittel für Schreiben und Sprechen
+Ansatz|der|Ansätze|N|подход|Art, ein Problem zu lösen|Das ist ein interessanter Ansatz.|B2|Meinung
+Aspekt|der|Aspekte|N|аспект|Seite oder Teil eines Themas|Ein wichtiger Aspekt sind die Kosten.|B2|Meinung
+Standpunkt|der|Standpunkte|N|точка зрения|Meinung zu einem Thema|Ich verstehe Ihren Standpunkt.|B2|Meinung
+Überzeugung|die|Überzeugungen|N|убеждение|feste Meinung|Das ist meine feste Überzeugung.|B2|Meinung
+Einwand|der|Einwände|N|возражение|Argument dagegen|Haben Sie Einwände?|B2|Meinung
+Kompromiss|der|Kompromisse|N|компромисс|Lösung, bei der beide etwas nachgeben|Wir haben einen Kompromiss gefunden.|B2|Meinung
+Konsequenz|die|Konsequenzen|N|последствие|Folge einer Handlung|Das hat Konsequenzen für alle.|B2|Meinung
+Chance|die|Chancen|N|шанс|Möglichkeit, Erfolg zu haben|Das ist eine große Chance für dich.|B1|Meinung
+Risiko|das|Risiken|N|риск|Gefahr, dass etwas schiefgeht|Das Risiko ist zu hoch.|B1|Meinung
+Gefahr|die|Gefahren|N|опасность|etwas, das schaden kann|Rauchen ist eine Gefahr für die Gesundheit.|B1|Meinung
+Aufwand|der|-|N|затраты (сил, времени)|Zeit, Arbeit und Geld, die man braucht|Der Aufwand lohnt sich.|B2|Meinung
+Bedarf|der|-|N|потребность|was man braucht|Es gibt großen Bedarf an Pflegekräften.|B2|Meinung
+Tendenz|die|Tendenzen|N|тенденция|Richtung einer Entwicklung|Die Tendenz ist steigend.|B2|Meinung
+Anteil|der|Anteile|N|доля|Teil von einem Ganzen|Der Anteil der Frauen steigt.|B2|Meinung
+Minderheit|die|Minderheiten|N|меньшинство|kleinerer Teil einer Gruppe|Nur eine Minderheit ist dagegen.|B2|Meinung
+Durchschnitt|der|-|N|среднее значение|Mittelwert|Im Durchschnitt verdient man 3.000 Euro.|B2|Meinung
+Verhalten|das|-|N|поведение|wie sich jemand benimmt|Sein Verhalten war nicht in Ordnung.|B2|Meinung
+Umgang|der|-|N|обращение (с кем-то)|wie man mit jemandem/etwas umgeht|Der Umgang mit Kunden ist wichtig.|B2|Meinung
+Rücksichtnahme|die|-|N|внимательность к другим|an andere denken|Im Straßenverkehr ist Rücksichtnahme wichtig.|B2|Meinung
+Zuverlässigkeit|die|-|N|надёжность|man kann sich darauf verlassen|Zuverlässigkeit ist mir wichtig.|B2|Arbeit
+Selbstständigkeit|die|-|N|самостоятельность|ohne Hilfe arbeiten können|Wir erwarten Selbstständigkeit.|B2|Arbeit
+Belastung|die|Belastungen|N|нагрузка|schwere Last, Stress|Die Belastung im Job ist hoch.|B2|Arbeit
+Zufriedenheit|die|-|N|удовлетворённость|zufrieden sein|Die Zufriedenheit der Kunden ist gestiegen.|B2|Arbeit
+Vereinbarkeit|die|-|N|совместимость (работы и семьи)|zwei Dinge gut verbinden können|Die Vereinbarkeit von Familie und Beruf ist schwierig.|B2|Gesellschaft
+Gerechtigkeit|die|-|N|справедливость|wenn alle fair behandelt werden|Es geht um Gerechtigkeit.|B2|Gesellschaft
+Verantwortungsbewusstsein|das|-|N|чувство ответственности|man nimmt Verantwortung ernst|Für den Job braucht man Verantwortungsbewusstsein.|B2|Arbeit
+Leistungsdruck|der|-|N|давление (требование результатов)|Stress, weil man viel leisten muss|Schüler leiden unter Leistungsdruck.|B2|Bildung
+Fortschritte machen|-|macht Fortschritte|R|делать успехи|besser werden|Sie macht große Fortschritte im Deutschen.|B1|Bildung
+Bezug nehmen auf|-|nimmt Bezug|R|ссылаться на|sich auf etwas beziehen (formell)|Ich nehme Bezug auf Ihr Schreiben vom 3. Mai.|B2|Briefe
+eine Lösung finden|-|findet eine Lösung|R|найти решение|ein Problem lösen|Wir müssen schnell eine Lösung finden.|B1|Meinung
+Stellung nehmen zu|-|nimmt Stellung|R|высказать позицию|seine Meinung zu etwas sagen|Bitte nehmen Sie zu dem Thema Stellung.|B2|Meinung
+in Betracht ziehen|-|zieht in Betracht|R|принимать во внимание|überlegen, ob man etwas macht|Wir ziehen eine Verschiebung in Betracht.|B2|Meinung
+zur Sprache bringen|-|bringt zur Sprache|R|поднять вопрос|ein Thema ansprechen|Ich möchte ein Problem zur Sprache bringen.|B2|Meinung
+in Kraft treten|-|tritt in Kraft, trat in Kraft, ist in Kraft getreten|R|вступать в силу|gültig werden (Gesetz)|Das Gesetz tritt am 1. Januar in Kraft.|B2|Gesellschaft
+einen Beitrag leisten|-|leistet einen Beitrag|R|внести вклад|helfen, etwas zu erreichen|Jeder kann einen Beitrag leisten.|B2|Meinung
+eine Rolle übernehmen|-|übernimmt eine Rolle|R|взять на себя роль|eine Aufgabe annehmen|Sie übernimmt die Rolle der Teamleiterin.|B2|Arbeit
+Verantwortung übernehmen|-|übernimmt Verantwortung|R|брать на себя ответственность|verantwortlich sein|Ich übernehme die Verantwortung für das Projekt.|B2|Arbeit
+eine Frist einhalten|-|hält eine Frist ein|R|соблюдать срок|rechtzeitig fertig sein|Wir konnten die Frist nicht einhalten.|B2|Arbeit
+Einfluss nehmen auf|-|nimmt Einfluss|R|оказывать влияние|beeinflussen|Eltern nehmen Einfluss auf die Berufswahl.|B2|Meinung
+Rücksprache halten|-|hält Rücksprache|R|согласовать, проконсультироваться|nachfragen, besprechen|Ich muss erst Rücksprache mit meiner Chefin halten.|B2|Arbeit
+eine Ausnahme machen|-|macht eine Ausnahme|R|сделать исключение|ausnahmsweise erlauben|Können Sie eine Ausnahme machen?|B2|Alltag
+Bescheid geben|-|gibt Bescheid|R|сообщить|informieren|Gib mir bitte Bescheid, wenn du ankommst.|B1|Alltag
+in Rechnung stellen|-|stellt in Rechnung|R|выставить счёт|eine Rechnung schreiben|Die Anfahrt wird in Rechnung gestellt.|B2|Arbeit
+zur Verfügung stellen|-|stellt zur Verfügung|R|предоставлять|geben, damit man es benutzen kann|Die Firma stellt ein Handy zur Verfügung.|B2|Arbeit
+ein Gespräch führen|-|führt ein Gespräch|R|вести разговор|mit jemandem sprechen (formell)|Ich habe ein Gespräch mit dem Kunden geführt.|B2|Arbeit
+einen Termin wahrnehmen|-|nimmt einen Termin wahr|R|прийти на встречу|zu einem Termin gehen|Ich kann den Termin leider nicht wahrnehmen.|B2|Briefe
+Maßnahmen treffen|-|trifft Maßnahmen|R|принимать меры|etwas tun, um ein Problem zu lösen|Die Firma hat Maßnahmen getroffen.|B2|Arbeit
+eine Bitte äußern|-|äußert eine Bitte|R|высказать просьбу|um etwas bitten|Ich möchte eine Bitte äußern.|B2|Briefe
+äußern|-|äußert, äußerte, hat geäußert|V|высказывать|sagen, ausdrücken|Er äußerte seine Meinung offen.|B2|Meinung
+Meiner Ansicht nach …|-|-|R|по моему мнению …|so leitet man die eigene Meinung ein|Meiner Ansicht nach ist das zu teuer.|B2|Redemittel
+Ich bin davon überzeugt, dass …|-|-|R|я убеждена, что …|starke Meinung ausdrücken|Ich bin davon überzeugt, dass Homeoffice sinnvoll ist.|B2|Redemittel
+Ich halte es für wichtig, dass …|-|-|R|я считаю важным, чтобы …|Wichtigkeit betonen|Ich halte es für wichtig, dass alle informiert sind.|B2|Redemittel
+Es lässt sich nicht leugnen, dass …|-|-|R|нельзя отрицать, что …|etwas Offensichtliches zugeben|Es lässt sich nicht leugnen, dass die Preise steigen.|B2|Redemittel
+Ein Argument dafür ist, dass …|-|-|R|аргумент за — это то, что …|Pro-Argument einleiten|Ein Argument dafür ist, dass man Zeit spart.|B2|Redemittel
+Dagegen spricht, dass …|-|-|R|против говорит то, что …|Contra-Argument einleiten|Dagegen spricht, dass es teuer ist.|B2|Redemittel
+Einerseits stimmt es, dass …|-|-|R|с одной стороны, верно, что …|eine Seite zeigen|Einerseits stimmt es, dass Kameras helfen.|B2|Redemittel
+Im Gegensatz dazu …|-|-|R|в отличие от этого …|einen Gegensatz zeigen|Im Gegensatz dazu ist es bei uns anders.|B2|Redemittel
+Verglichen mit …|-|-|R|по сравнению с …|vergleichen|Verglichen mit meinem Heimatland ist die Miete hoch.|B2|Redemittel
+Was mich betrifft, …|-|-|R|что касается меня, …|eigene Situation einleiten|Was mich betrifft, ich arbeite lieber im Team.|B2|Redemittel
+Aus meiner Erfahrung kann ich sagen, dass …|-|-|R|исходя из опыта, могу сказать, что …|persönliche Erfahrung einbringen|Aus meiner Erfahrung kann ich sagen, dass Geduld hilft.|B2|Redemittel
+Das ist ein wichtiger Punkt, aber …|-|-|R|это важный момент, но …|zustimmen und widersprechen|Das ist ein wichtiger Punkt, aber wir müssen auch an die Kosten denken.|B2|Redemittel
+Da bin ich anderer Meinung.|-|-|R|тут я другого мнения.|höflich widersprechen|Da bin ich anderer Meinung, weil …|B2|Redemittel
+Da muss ich dir recht geben.|-|-|R|тут ты прав(а).|zustimmen|Da muss ich dir recht geben.|B2|Redemittel
+Könntest du das genauer erklären?|-|-|R|можешь объяснить подробнее?|nachfragen|Könntest du das genauer erklären?|B2|Redemittel
+Habe ich dich richtig verstanden, dass …?|-|-|R|я правильно поняла, что …?|nachfragen, ob man richtig verstanden hat|Habe ich dich richtig verstanden, dass du am Montag nicht kannst?|B2|Redemittel
+Wie siehst du das?|-|-|R|как ты на это смотришь?|Partner nach Meinung fragen|Ich finde das gut. Wie siehst du das?|B1|Redemittel
+Lass uns doch …|-|-|R|давай …|Vorschlag machen|Lass uns doch am Freitag feiern.|B1|Redemittel
+Ich hätte da einen Vorschlag: …|-|-|R|у меня есть предложение: …|Vorschlag einleiten|Ich hätte da einen Vorschlag: Wir teilen die Arbeit.|B2|Redemittel
+Damit bin ich einverstanden.|-|-|R|я с этим согласна.|zustimmen|Damit bin ich einverstanden.|B1|Redemittel
+Das kommt für mich nicht in Frage.|-|-|R|для меня это исключено.|stark ablehnen|Am Sonntag arbeiten? Das kommt für mich nicht in Frage.|B2|Redemittel
+Wir sind uns also einig, dass …|-|-|R|итак, мы согласны, что …|Ergebnis zusammenfassen|Wir sind uns also einig, dass wir im Park feiern.|B2|Redemittel
+Fassen wir zusammen: …|-|-|R|подведём итог: …|Gespräch abschließen|Fassen wir zusammen: Ich kaufe ein, du kochst.|B2|Redemittel
+Ich möchte über … sprechen.|-|-|R|я хочу поговорить о …|Vortrag beginnen|Ich möchte über flexible Arbeitszeiten sprechen.|B1|Redemittel
+Zuerst erkläre ich …, danach …|-|-|R|сначала объясню …, затем …|Vortrag gliedern|Zuerst erkläre ich das Problem, danach meine Lösung.|B2|Redemittel
+Kommen wir nun zu …|-|-|R|перейдём теперь к …|neuen Punkt einleiten|Kommen wir nun zu den Nachteilen.|B2|Redemittel
+Abschließend möchte ich sagen, dass …|-|-|R|в заключение хочу сказать, что …|Vortrag beenden|Abschließend möchte ich sagen, dass ich optimistisch bin.|B2|Redemittel
+Vielen Dank für Ihre Aufmerksamkeit.|-|-|R|спасибо за внимание.|Vortrag beenden|Vielen Dank für Ihre Aufmerksamkeit.|B1|Redemittel
+Das ist eine gute Frage.|-|-|R|это хороший вопрос.|Zeit gewinnen bei Prüferfragen|Das ist eine gute Frage. Ich denke, …|B1|Redemittel
+Wie meinen Sie das genau?|-|-|R|что вы имеете в виду?|nachfragen|Wie meinen Sie das genau?|B1|Redemittel
+Vielen Dank für Ihre Nachricht.|-|-|R|спасибо за ваше сообщение.|Antwortmail beginnen|Vielen Dank für Ihre Nachricht vom 5. Mai.|B1|Redemittel
+Wir bedauern sehr, dass …|-|-|R|мы очень сожалеем, что …|sich formell entschuldigen|Wir bedauern sehr, dass die Lieferung zu spät kam.|B2|Redemittel
+Bitte entschuldigen Sie die Unannehmlichkeiten.|-|-|R|просим прощения за неудобства.|formelle Entschuldigung|Bitte entschuldigen Sie die Unannehmlichkeiten.|B2|Redemittel
+Als Entschädigung bieten wir Ihnen … an.|-|-|R|в качестве компенсации предлагаем вам …|Lösung bei Beschwerde anbieten|Als Entschädigung bieten wir Ihnen einen Gutschein an.|B2|Redemittel
+Wir werden uns umgehend darum kümmern.|-|-|R|мы немедленно этим займёмся.|Hilfe zusagen|Wir werden uns umgehend darum kümmern.|B2|Redemittel
+Ich wende mich an Sie, weil …|-|-|R|я обращаюсь к вам, потому что …|formellen Brief beginnen|Ich wende mich an Sie, weil ich eine Frage habe.|B2|Redemittel
+Ich wäre Ihnen dankbar, wenn …|-|-|R|я была бы вам благодарна, если …|höflich bitten|Ich wäre Ihnen dankbar, wenn Sie mich zurückrufen.|B2|Redemittel
+Könnten Sie mir bitte mitteilen, ob …|-|-|R|не могли бы вы сообщить, …ли|höflich fragen|Könnten Sie mir bitte mitteilen, ob der Kurs stattfindet?|B2|Redemittel
+Ich bitte um eine kurze Rückmeldung.|-|-|R|прошу коротко ответить.|um Antwort bitten|Ich bitte um eine kurze Rückmeldung bis Freitag.|B2|Redemittel
+In Erwartung Ihrer Antwort verbleibe ich mit freundlichen Grüßen|-|-|R|в ожидании вашего ответа, с уважением|sehr formeller Schluss|In Erwartung Ihrer Antwort verbleibe ich mit freundlichen Grüßen.|B2|Redemittel
+Rückmeldung|die|Rückmeldungen|N|обратная связь, ответ|Antwort, Feedback|Danke für die schnelle Rückmeldung.|B2|Briefe
+Unannehmlichkeit|die|Unannehmlichkeiten|N|неудобство|unangenehme Situation|Wir entschuldigen uns für die Unannehmlichkeiten.|B2|Briefe
+Verzögerung|die|Verzögerungen|N|задержка|wenn etwas später passiert|Es gibt eine Verzögerung bei der Lieferung.|B2|Arbeit
+Missverständnis|das|Missverständnisse|N|недоразумение|wenn man etwas falsch versteht|Das war ein Missverständnis.|B2|Alltag
+Versehen|das|Versehen|N|оплошность|kleiner Fehler ohne Absicht|Das ist aus Versehen passiert.|B2|Alltag
+Kulanz|die|-|N|добрая воля (продавца)|Entgegenkommen ohne Pflicht|Aus Kulanz ersetzen wir das Gerät.|B2|Arbeit
+Entgegenkommen|das|-|N|любезность, уступка|Hilfe, Kompromiss|Vielen Dank für Ihr Entgegenkommen.|B2|Briefe
+Verbesserungsvorschlag|der|Verbesserungsvorschläge|N|предложение по улучшению|Idee, wie etwas besser wird|Haben Sie Verbesserungsvorschläge?|B2|Arbeit
+Lösungsvorschlag|der|Lösungsvorschläge|N|предложение решения|Idee für eine Lösung|Ich habe einen Lösungsvorschlag.|B2|Arbeit
+Zusammenarbeit|die|-|N|сотрудничество|gemeinsam arbeiten|Vielen Dank für die gute Zusammenarbeit.|B1|Arbeit
+Absprache|die|Absprachen|N|договорённость|Vereinbarung|Nach Absprache mit dem Chef kann ich früher gehen.|B2|Arbeit
+Abstimmung|die|Abstimmungen|N|согласование; голосование|Koordination; Wahl über eine Frage|In Abstimmung mit dem Team …|B2|Arbeit
+Priorität|die|Prioritäten|N|приоритет|was am wichtigsten ist|Sicherheit hat Priorität.|B2|Arbeit
+Engagement|das|-|N|вовлечённость, усердие|großer Einsatz|Danke für Ihr Engagement.|B2|Arbeit
+Kenntnis|die|Kenntnisse|N|знание|Wissen|Gute Deutschkenntnisse sind Voraussetzung.|B2|Arbeit
+Kompetenz|die|Kompetenzen|N|компетенция|Fähigkeit und Wissen|Soziale Kompetenz ist wichtig im Beruf.|B2|Arbeit
+Wertschätzung|die|-|N|признание, уважение|zeigen, dass man jemanden schätzt|Die Mitarbeiter wünschen sich mehr Wertschätzung.|B2|Arbeit
+Motivation|die|-|N|мотивация|Lust, etwas zu tun|Meine Motivation ist hoch.|B2|Arbeit
+Ehrgeiz|der|-|N|честолюбие, амбиции|starker Wunsch nach Erfolg|Sie hat viel Ehrgeiz.|B2|Arbeit
+Erwartung|die|Erwartungen|N|ожидание|was man hofft oder verlangt|Die Erwartungen sind sehr hoch.|B2|Meinung
+Enttäuschung|die|Enttäuschungen|N|разочарование|wenn etwas schlechter ist als erwartet|Das Ergebnis war eine Enttäuschung.|B2|Meinung
+Vorstellung|die|Vorstellungen|N|представление|Bild im Kopf; Präsentation|Ich habe eine klare Vorstellung von meinem Traumjob.|B2|Meinung
+Begründung|die|Begründungen|N|обоснование|Grund für eine Meinung|Ihre Begründung überzeugt mich nicht.|B2|Meinung
+Beispiel|das|-|N|пример|-|Ich nenne Ihnen ein Beispiel.|A2|Meinung
+Behauptung|die|Behauptungen|N|утверждение|etwas, das jemand sagt, aber nicht beweist|Das ist nur eine Behauptung.|B2|Meinung
+Beweis|der|Beweise|N|доказательство|etwas, das zeigt, dass etwas wahr ist|Gibt es Beweise dafür?|B2|Meinung
+Schlussfolgerung|die|Schlussfolgerungen|N|вывод|was man aus etwas lernt|Welche Schlussfolgerung ziehen Sie daraus?|B2|Meinung
+Gesichtspunkt|der|Gesichtspunkte|N|точка зрения, аспект|Aspekt|Unter diesem Gesichtspunkt ist das sinnvoll.|B2|Meinung
+Hinsicht|die|-|N|отношение (в каком-то отношении)|Aspekt|In dieser Hinsicht haben Sie recht.|B2|Meinung
