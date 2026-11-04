@@ -1,0 +1,86 @@
+# M8 Gesundheit: Körper, Beschwerden, Arztpraxis, Krankenhaus, Pflege
+Achillessehne|die|Achillessehnen|N|ахиллово сухожилие|Sehne an der Ferse|Beim Laufen hat er sich die Achillessehne verletzt.|B2|Gesundheit
+Ader|die|Adern|N|вена, сосуд|Blutgefäß|Die Schwester sucht eine gute Ader für die Blutabnahme.|B1|Gesundheit
+Atemnot|die|-|N|одышка|man bekommt schlecht Luft|Bei Atemnot rufen Sie sofort den Notarzt.|B2|Gesundheit
+Atemwege|die|(Pl.)|N|дыхательные пути|Nase, Hals, Lunge|Die Atemwege sind entzündet.|B2|Gesundheit
+Augentropfen|die|(Pl.)|N|глазные капли|Medikament für die Augen|Nehmen Sie dreimal täglich die Augentropfen.|B1|Gesundheit
+Ausschlag|der|Ausschläge|N|сыпь|rote Flecken auf der Haut|Das Kind hat einen Ausschlag am Bauch.|B1|Gesundheit
+Bandscheibe|die|Bandscheiben|N|межпозвоночный диск|Teil der Wirbelsäule|Er hat Probleme mit der Bandscheibe.|B2|Gesundheit
+Bettruhe|die|-|N|постельный режим|im Bett bleiben müssen|Der Arzt hat drei Tage Bettruhe verordnet.|B1|Gesundheit
+Blasenentzündung|die|Blasenentzündungen|N|цистит|Entzündung der Blase|Bei einer Blasenentzündung sollte man viel trinken.|B2|Gesundheit
+Bluterguss|der|Blutergüsse|N|синяк, гематома|blauer Fleck|Nach dem Sturz hatte sie einen großen Bluterguss.|B2|Gesundheit
+Bronchitis|die|-|N|бронхит|Entzündung der Bronchien|Er hustet seit Wochen, es ist eine Bronchitis.|B2|Gesundheit
+Brustkorb|der|Brustkörbe|N|грудная клетка|Teil des Körpers mit den Rippen|Er hat Schmerzen im Brustkorb.|B2|Gesundheit
+Durchfall|der|-|N|диарея|sehr weicher Stuhl|Bei Durchfall müssen Kinder viel trinken.|B1|Gesundheit
+Eingriff|der|Eingriffe|N|вмешательство, операция|kleine Operation|Der Eingriff dauert nur eine halbe Stunde.|B2|Gesundheit
+Einnahme|die|Einnahmen|N|приём (лекарства)|das Nehmen eines Medikaments|Die Einnahme erfolgt nach dem Essen.|B2|Gesundheit
+Erbrechen|das|-|N|рвота|sich übergeben|Das Kind hat Fieber und Erbrechen.|B2|Gesundheit
+Ernährungsberatung|die|-|N|консультация по питанию|Beratung zum gesunden Essen|Die Krankenkasse bezahlt eine Ernährungsberatung.|B2|Gesundheit
+Gesundheitskarte|die|Gesundheitskarten|N|карта медстрахования|Karte der Krankenkasse|Bitte zeigen Sie Ihre Gesundheitskarte.|A2|Gesundheit
+Gips|der|Gipse|N|гипс|harter Verband bei Knochenbruch|Sie hat den Arm sechs Wochen im Gips.|B1|Gesundheit
+Gleichgewicht|das|-|N|равновесие|nicht hinfallen|Nach der Operation hat er Probleme mit dem Gleichgewicht.|B2|Gesundheit
+Hausbesuch|der|Hausbesuche|N|визит врача на дом|Arzt kommt nach Hause|Die Ärztin macht nur dienstags Hausbesuche.|B1|Gesundheit
+Heilung|die|-|N|выздоровление, заживление|gesund werden|Die Heilung dauert etwa vier Wochen.|B2|Gesundheit
+Heiserkeit|die|-|N|хрипота|Stimme ist rau oder weg|Gegen Heiserkeit hilft warmer Tee.|B2|Gesundheit
+Hörgerät|das|Hörgeräte|N|слуховой аппарат|Gerät für besseres Hören|Mein Großvater trägt ein Hörgerät.|B1|Gesundheit
+Impfpass|der|Impfpässe|N|прививочный паспорт|Heft mit allen Impfungen|Bringen Sie bitte Ihren Impfpass mit.|B1|Gesundheit
+Infusion|die|Infusionen|N|капельница|Flüssigkeit direkt in die Ader|Der Patient bekommt eine Infusion.|B2|Gesundheit
+Intensivstation|die|Intensivstationen|N|реанимация|Station für schwer kranke Patienten|Nach dem Unfall lag er auf der Intensivstation.|B2|Gesundheit
+Kopfschmerztablette|die|Kopfschmerztabletten|N|таблетка от головной боли|Medikament gegen Kopfschmerzen|Hast du eine Kopfschmerztablette?|A2|Gesundheit
+Kreislauf|der|-|N|кровообращение|Blut fließt durch den Körper|Bei Hitze hat sie oft Probleme mit dem Kreislauf.|B1|Gesundheit
+Krankentransport|der|Krankentransporte|N|перевозка больных|Fahrt eines Kranken mit Spezialauto|Der Krankentransport kommt um acht Uhr.|B2|Gesundheit
+Kur|die|Kuren|N|санаторное лечение|Erholung zur Gesundung|Nach der Operation macht sie eine Kur an der Ostsee.|B2|Gesundheit
+Lebensmittelvergiftung|die|Lebensmittelvergiftungen|N|пищевое отравление|krank durch schlechtes Essen|Nach dem Fisch hatte er eine Lebensmittelvergiftung.|B2|Gesundheit
+Leistenbruch|der|Leistenbrüche|N|паховая грыжа|Bruch in der Leiste|Der Leistenbruch muss operiert werden.|B2|Gesundheit
+Magen-Darm-Infekt|der|Magen-Darm-Infekte|N|кишечная инфекция|Krankheit mit Bauchschmerzen und Durchfall|Im Kindergarten geht ein Magen-Darm-Infekt um.|B2|Gesundheit
+Mandelentzündung|die|Mandelentzündungen|N|ангина|Entzündung im Hals|Bei einer Mandelentzündung hat man starke Halsschmerzen.|B2|Gesundheit
+Migräne|die|Migränen|N|мигрень|sehr starke Kopfschmerzen|Bei Migräne muss sie im dunklen Zimmer liegen.|B2|Gesundheit
+Mutterpass|der|Mutterpässe|N|обменная карта беременной|Heft für die Schwangerschaft|Den Mutterpass bekommen Sie beim Frauenarzt.|B2|Gesundheit
+Nachsorge|die|-|N|последующее наблюдение|Kontrolle nach einer Behandlung|Zur Nachsorge kommen Sie in zwei Wochen wieder.|B2|Gesundheit
+Narbe|die|Narben|N|шрам|Spur einer Wunde auf der Haut|Die Narbe sieht man kaum noch.|B1|Gesundheit
+Narkose|die|Narkosen|N|наркоз|man schläft bei der Operation|Die Operation wird unter Narkose gemacht.|B2|Gesundheit
+Ohrenschmerzen|die|(Pl.)|N|боль в ушах|Schmerzen im Ohr|Kinder haben oft Ohrenschmerzen.|A2|Gesundheit
+Praxisgebühr|die|-|N|плата за приём у врача|früher: Gebühr beim Arzt|Die Praxisgebühr gibt es nicht mehr.|B2|Gesundheit
+Prellung|die|Prellungen|N|ушиб|Verletzung durch Stoß|Er hat sich beim Sturz eine Prellung zugezogen.|B2|Gesundheit
+Quetschung|die|Quetschungen|N|ушиб, сдавление|Verletzung durch Druck|Der Finger hat eine Quetschung.|B2|Gesundheit
+Rachen|der|Rachen|N|глотка|hinterer Teil des Mundes|Der Rachen ist rot und entzündet.|B2|Gesundheit
+Reha|die|Rehas|N|реабилитация|Behandlung nach Krankheit oder Unfall|Nach der Knie-OP geht er drei Wochen in die Reha.|B1|Gesundheit
+Rückenschmerzen|die|(Pl.)|N|боли в спине|Schmerzen im Rücken|Viele Pflegekräfte haben Rückenschmerzen.|A2|Gesundheit
+Sanitäter|der|Sanitäter|N|санитар, фельдшер|Helfer im Rettungswagen|Die Sanitäter brachten ihn ins Krankenhaus.|B1|Gesundheit
+Schilddrüse|die|Schilddrüsen|N|щитовидная железа|Organ am Hals|Sie nimmt Tabletten für die Schilddrüse.|B2|Gesundheit
+Schnittwunde|die|Schnittwunden|N|порез|Wunde von einem Messer|Die Schnittwunde muss genäht werden.|B2|Gesundheit
+Schonkost|die|-|N|щадящая диета|leichtes Essen für Kranke|Nach der Magen-OP gibt es Schonkost.|B2|Gesundheit
+Schwindel|der|-|N|головокружение|alles dreht sich|Wegen Schwindel kann sie nicht Auto fahren.|B1|Gesundheit
+Sehtest|der|Sehtests|N|проверка зрения|Test, wie gut man sieht|Für den Führerschein braucht man einen Sehtest.|B1|Gesundheit
+Sprechstundenhilfe|die|Sprechstundenhilfen|N|медрегистратор|Helferin am Empfang der Praxis|Die Sprechstundenhilfe gibt mir einen Termin.|B1|Gesundheit
+Stich|der|Stiche|N|укус (насекомого), шов|Biss einer Wespe; Naht|Der Wespenstich ist geschwollen.|B1|Gesundheit
+Stoffwechsel|der|-|N|обмен веществ|Prozesse im Körper|Bewegung bringt den Stoffwechsel in Schwung.|B2|Gesundheit
+Stuhlgang|der|-|N|стул (медицинский)|Ausscheidung über den Darm|Haben Sie regelmäßig Stuhlgang?|B2|Pflege
+Thermometer|das|Thermometer|N|термометр|Gerät zum Fiebermessen|Das Thermometer zeigt 39 Grad.|A2|Gesundheit
+Übelkeit|die|-|N|тошнота|man möchte sich übergeben|Das Medikament kann Übelkeit verursachen.|B1|Gesundheit
+Verdacht|der|-|N|подозрение|man glaubt, dass etwas so ist|Es besteht Verdacht auf einen Bruch.|B2|Gesundheit
+Verstauchung|die|Verstauchungen|N|растяжение|verletztes Gelenk|Es ist kein Bruch, nur eine Verstauchung.|B2|Gesundheit
+Vorerkrankung|die|Vorerkrankungen|N|предшествующее заболевание|Krankheit, die man schon hatte|Haben Sie Vorerkrankungen?|B2|Gesundheit
+Wirbelsäule|die|Wirbelsäulen|N|позвоночник|Knochen im Rücken|Schweres Heben belastet die Wirbelsäule.|B2|Gesundheit
+Zahnfleisch|das|-|N|дёсны|Haut um die Zähne|Mein Zahnfleisch blutet beim Putzen.|B1|Gesundheit
+Zuckerkrankheit|die|-|N|сахарный диабет|Diabetes|Seine Mutter hat die Zuckerkrankheit.|B1|Gesundheit
+abhören|-|hört ab, hörte ab, hat abgehört|V|прослушивать|mit dem Stethoskop hören|Der Arzt hört die Lunge ab.|B1|Gesundheit
+abtasten|-|tastet ab, tastete ab, hat abgetastet|V|прощупывать|mit den Händen untersuchen|Die Ärztin tastet den Bauch ab.|B2|Gesundheit
+einreiben|-|reibt ein, rieb ein, hat eingerieben|V|втирать|Creme auf die Haut geben|Reiben Sie die Salbe zweimal täglich ein.|B1|Gesundheit
+genesen|-|genest, genas, ist genesen|V|выздоравливать|wieder gesund werden|Sie ist schnell genesen.|B2|Gesundheit
+krankschreiben|-|schreibt krank, schrieb krank, hat krankgeschrieben|V|выписать больничный|bestätigen, dass jemand nicht arbeiten kann|Der Arzt hat mich eine Woche krankgeschrieben.|B1|Gesundheit
+lindern|-|lindert, linderte, hat gelindert|V|облегчать|Schmerzen kleiner machen|Die Salbe lindert den Juckreiz.|B2|Gesundheit
+röntgen|-|röntgt, röntgte, hat geröntgt|V|делать рентген|mit Röntgenstrahlen untersuchen|Wir müssen den Arm röntgen.|B1|Gesundheit
+schwellen|-|schwillt an, schwoll an, ist angeschwollen|V|опухать|dicker werden (Körperteil)|Der Knöchel ist stark angeschwollen.|B2|Gesundheit
+verordnen|-|verordnet, verordnete, hat verordnet|V|назначать, прописывать|Arzt bestimmt eine Behandlung|Die Ärztin hat Physiotherapie verordnet.|B2|Gesundheit
+vorbeugen|-|beugt vor, beugte vor, hat vorgebeugt|V|предупреждать (болезнь)|etwas tun, damit es nicht passiert|Mit Sport kann man Rückenschmerzen vorbeugen.|B2|Gesundheit
+wiederbeleben|-|belebt wieder, belebte wieder, hat wiederbelebt|V|реанимировать|Herz wieder zum Schlagen bringen|Der Sanitäter hat den Mann wiederbelebt.|B2|Gesundheit
+bewusstlos|-|-|A|без сознания|nicht wach, reagiert nicht|Der Mann lag bewusstlos auf der Straße.|B1|Gesundheit
+verstopft|-|-|A|заложенный; с запором|Nase zu; kein Stuhlgang|Meine Nase ist verstopft.|B1|Gesundheit
+übergewichtig|-|-|A|с избыточным весом|zu schwer|Viele Kinder sind übergewichtig.|B2|Gesundheit
+Dekubitus|der|-|N|пролежень|Wunde durch langes Liegen|Lagern Sie den Patienten regelmäßig, um Dekubitus zu vermeiden.|B2|Pflege
+Toilettenstuhl|der|Toilettenstühle|N|кресло-туалет|Stuhl mit Toilette|Neben dem Bett steht ein Toilettenstuhl.|B2|Pflege
+Vitalzeichen|die|(Pl.)|N|жизненные показатели|Puls, Blutdruck, Temperatur, Atmung|Messen Sie morgens die Vitalzeichen.|B2|Pflege
+Waschschüssel|die|Waschschüsseln|N|таз для мытья|Schüssel mit Wasser zum Waschen|Holen Sie bitte warmes Wasser in der Waschschüssel.|B2|Pflege
+Sturzgefahr|die|-|N|опасность падения|man kann leicht fallen|Bei Sturzgefahr bleibt das Bettgitter oben.|B2|Pflege
+Trinkprotokoll|das|Trinkprotokolle|N|протокол приёма жидкости|Liste, wie viel jemand trinkt|Bitte führen Sie ein Trinkprotokoll für Herrn Braun.|B2|Pflege

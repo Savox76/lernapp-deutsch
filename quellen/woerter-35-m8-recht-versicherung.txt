@@ -1,0 +1,50 @@
+# M8 Behörden spezial: Polizei, Recht, Versicherung, Steuern, Integration
+Einbruch|der|Einbrüche|N|кража со взломом|jemand kommt illegal ins Haus|Nach dem Einbruch fehlten Laptop und Schmuck.|B1|Behörden
+Bußgeldbescheid|der|Bußgeldbescheide|N|постановление о штрафе|Brief über eine Geldstrafe|Der Bußgeldbescheid kam zwei Wochen später.|B2|Verkehr
+Punkt in Flensburg|der|Punkte in Flensburg|N|штрафной балл|Strafpunkt im Fahreignungsregister|Bei Rot über die Ampel bekommt man einen Punkt in Flensburg.|B2|Verkehr
+Richterin|die|Richterinnen|N|судья|entscheidet vor Gericht|Die Richterin sprach das Urteil.|B1|Behörden
+Arbeitsgericht|das|Arbeitsgerichte|N|суд по трудовым спорам|Gericht für Streit am Arbeitsplatz|Wegen der Kündigung ging sie zum Arbeitsgericht.|B2|Arbeit
+Verbraucherzentrale|die|Verbraucherzentralen|N|центр защиты потребителей|Beratung für Kunden|Die Verbraucherzentrale hilft bei Problemen mit Verträgen.|B2|Behörden
+Schuldnerberatung|die|Schuldnerberatungen|N|консультация для должников|Hilfe bei Schulden|Die Schuldnerberatung erstellt einen Plan.|B2|Geld
+Inkasso|das|-|N|взыскание долгов|Firma holt Schulden ein|Die Rechnung ist jetzt beim Inkasso.|B2|Geld
+Versicherungsnehmer|der|Versicherungsnehmer|N|страхователь|Person mit Versicherungsvertrag|Der Versicherungsnehmer muss den Schaden melden.|B2|Geld
+Police|die|Policen|N|страховой полис|Vertrag der Versicherung|Die Police kommt per Post.|B2|Geld
+Steuerrückzahlung|die|Steuerrückzahlungen|N|возврат налога|Geld vom Finanzamt zurück|Mit der Steuerrückzahlung kaufen wir eine Waschmaschine.|B2|Geld
+Werbungskosten|die|(Pl.)|N|расходы на работу (налог.)|Kosten für den Beruf|Fahrtkosten zählen zu den Werbungskosten.|B2|Geld
+Pendlerpauschale|die|-|N|налоговый вычет за дорогу|Steuervorteil für den Arbeitsweg|Die Pendlerpauschale gilt ab dem ersten Kilometer.|B2|Geld
+Freibetrag|der|Freibeträge|N|необлагаемая сумма|Betrag ohne Steuer|Für Kinder gibt es einen Freibetrag.|B2|Geld
+Teilnahmeberechtigung|die|Teilnahmeberechtigungen|N|право на участие|Erlaubnis, am Kurs teilzunehmen|Die Teilnahmeberechtigung bekommen Sie vom BAMF.|B2|Bildung
+Kostenbeitrag|der|Kostenbeiträge|N|долевой взнос|Teil der Kosten|Pro Unterrichtsstunde zahlen Sie einen Kostenbeitrag.|B2|Bildung
+Berufserlaubnis|die|Berufserlaubnisse|N|разрешение на профессию|Erlaubnis, einen Beruf auszuüben|Für die Pflege braucht man eine Berufserlaubnis.|B2|Arbeit
+Kenntnisprüfung|die|Kenntnisprüfungen|N|экзамен на знания|Prüfung für ausländische Fachkräfte|Nach der Kenntnisprüfung darf sie als Pflegefachkraft arbeiten.|B2|Arbeit
+Anpassungslehrgang|der|Anpassungslehrgänge|N|адаптационный курс|Kurs, um fehlende Inhalte nachzuholen|Statt der Prüfung kann man einen Anpassungslehrgang machen.|B2|Arbeit
+Übersetzung|die|Übersetzungen|N|перевод|Text in einer anderen Sprache|Die Übersetzung muss beglaubigt sein.|B1|Behörden
+Apostille|die|Apostillen|N|апостиль|internationale Beglaubigung|Für die Heiratsurkunde brauchen Sie eine Apostille.|B2|Behörden
+biometrisch|-|-|A|биометрический|nach festen Regeln für Ausweise|Bringen Sie ein biometrisches Foto mit.|B2|Behörden
+Fingerabdruck|der|Fingerabdrücke|N|отпечаток пальца|Bild der Fingerlinien|Für den Ausweis nehmen wir Ihre Fingerabdrücke.|B2|Behörden
+Hauptwohnsitz|der|Hauptwohnsitze|N|основное место жительства|wichtigste Adresse|Mein Hauptwohnsitz ist in Leipzig.|B2|Behörden
+verwitwet|-|-|A|овдовевший|Partner ist gestorben|Meine Nachbarin ist verwitwet.|B1|Behörden
+Sorgerecht|das|-|N|право опеки|Recht, für ein Kind zu entscheiden|Beide Eltern haben das Sorgerecht.|B2|Familie
+Jugendamt|das|Jugendämter|N|ведомство по делам молодёжи|Amt für Kinder und Familien|Das Jugendamt berät Eltern kostenlos.|B1|Behörden
+Kita-Gutschein|der|Kita-Gutscheine|N|ваучер на детский сад|Bescheinigung für einen Kita-Platz|Den Kita-Gutschein beantragen Sie beim Jugendamt.|B2|Behörden
+Bildungspaket|das|-|N|образовательный пакет|Hilfe für Schulsachen und Ausflüge|Über das Bildungspaket wird die Klassenfahrt bezahlt.|B2|Behörden
+Wahlbenachrichtigung|die|Wahlbenachrichtigungen|N|уведомление о выборах|Brief vor der Wahl|Die Wahlbenachrichtigung kommt per Post.|B2|Gesellschaft
+Briefwahl|die|-|N|голосование по почте|wählen per Post|Ich mache dieses Jahr Briefwahl.|B2|Gesellschaft
+Servicenummer|die|Servicenummern|N|номер горячей линии|Telefonnummer für Fragen|Rufen Sie die Servicenummer 115 an.|B1|Behörden
+Online-Termin|der|Online-Termine|N|онлайн-запись|im Internet gebuchter Termin|Ohne Online-Termin werden Sie nicht bedient.|B1|Behörden
+Ausdruck|der|Ausdrucke|N|распечатка|gedrucktes Dokument|Bringen Sie einen Ausdruck der Bestätigung mit.|B1|Behörden
+Einschreiben|das|Einschreiben|N|заказное письмо|Brief mit Bestätigung|Schicken Sie die Kündigung per Einschreiben.|B1|Behörden
+Fristablauf|der|-|N|истечение срока|Ende einer Frist|Nach Fristablauf ist kein Widerspruch mehr möglich.|B2|Behörden
+Eingangsstempel|der|Eingangsstempel|N|штамп о получении|Stempel mit Datum des Eingangs|Entscheidend ist der Eingangsstempel.|B2|Behörden
+Formblatt|das|Formblätter|N|бланк|vorgedrucktes Formular|Verwenden Sie bitte das Formblatt A3.|B2|Behörden
+Pflichtfeld|das|Pflichtfelder|N|обязательное поле|Feld, das man ausfüllen muss|Die Pflichtfelder sind mit Stern markiert.|B1|Behörden
+abweisen|-|weist ab, wies ab, hat abgewiesen|V|отклонять|nicht annehmen|Die Klage wurde abgewiesen.|B2|Behörden
+festnehmen|-|nimmt fest, nahm fest, hat festgenommen|V|задерживать|eine Person mitnehmen (Polizei)|Der Dieb wurde festgenommen.|B2|Behörden
+haften|-|haftet, haftete, hat gehaftet|V|нести ответственность|für einen Schaden zahlen müssen|Eltern haften für ihre Kinder.|B2|Behörden
+mahnen|-|mahnt, mahnte, hat gemahnt|V|напоминать об оплате|an Zahlung erinnern|Die Firma hat mich schon zweimal gemahnt.|B2|Geld
+verjähren|-|verjährt, verjährte, ist verjährt|V|истекать (о сроке давности)|nach langer Zeit nicht mehr gelten|Die Forderung ist verjährt.|B2|Behörden
+vorbestraft|-|-|A|ранее судимый|hatte schon eine Strafe|Er ist nicht vorbestraft.|B2|Behörden
+privat versichert|-|-|A|застрахованный частно|in einer privaten Krankenkasse|Sind Sie gesetzlich oder privat versichert?|B2|Gesundheit
+rückwirkend|-|-|A|задним числом|gilt auch für die Vergangenheit|Das Wohngeld wird rückwirkend ab Januar gezahlt.|B2|Behörden
+vorläufig|-|-|A|предварительный|nur für jetzt, nicht endgültig|Sie bekommen einen vorläufigen Bescheid.|B2|Behörden
+endgültig|-|-|A|окончательный|nicht mehr änderbar|Die Entscheidung ist endgültig.|B2|Behörden

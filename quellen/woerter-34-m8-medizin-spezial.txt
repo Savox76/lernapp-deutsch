@@ -1,0 +1,91 @@
+# M8 Gesundheit spezial: Zahnarzt, Augen, Apotheke, Kinderarzt, Notfall
+Zahnbelag|der|-|N|зубной налёт|Schicht auf den Zähnen|Die Zahnärztin entfernt den Zahnbelag.|B2|Gesundheit
+Zahnreinigung|die|Zahnreinigungen|N|чистка зубов (профессиональная)|professionelle Reinigung beim Zahnarzt|Die Zahnreinigung kostet etwa 90 Euro.|B1|Gesundheit
+Füllung|die|Füllungen|N|пломба|Material im kaputten Zahn|Die alte Füllung ist herausgefallen.|B1|Gesundheit
+Krone|die|Kronen|N|коронка|Kappe auf einem Zahn|Der Zahn bekommt eine Krone.|B2|Gesundheit
+Wurzelbehandlung|die|Wurzelbehandlungen|N|лечение корневого канала|Behandlung im Inneren des Zahns|Die Wurzelbehandlung braucht zwei Termine.|B2|Gesundheit
+Zahnspange|die|Zahnspangen|N|брекеты|Gerät für gerade Zähne|Meine Tochter bekommt eine Zahnspange.|B1|Gesundheit
+Zahnersatz|der|-|N|зубной протез|künstliche Zähne|Die Krankenkasse zahlt einen Teil vom Zahnersatz.|B2|Gesundheit
+Heil- und Kostenplan|der|Heil- und Kostenpläne|N|план лечения и расходов|Plan für Zahnbehandlung und Kosten|Schicken Sie den Heil- und Kostenplan an die Krankenkasse.|B2|Gesundheit
+Betäubung|die|Betäubungen|N|обезболивание|Spritze gegen Schmerz|Sie bekommen eine örtliche Betäubung.|B2|Gesundheit
+Kontaktlinse|die|Kontaktlinsen|N|контактная линза|kleine Linse direkt auf dem Auge|Sie trägt Kontaktlinsen statt Brille.|B1|Gesundheit
+Sehschwäche|die|-|N|слабое зрение|nicht gut sehen|Eine Sehschwäche korrigiert man mit einer Brille.|B2|Gesundheit
+kurzsichtig|-|-|A|близорукий|sieht in der Ferne schlecht|Ich bin kurzsichtig.|B1|Gesundheit
+weitsichtig|-|-|A|дальнозоркий|sieht in der Nähe schlecht|Im Alter werden viele weitsichtig.|B2|Gesundheit
+Bindehautentzündung|die|Bindehautentzündungen|N|конъюнктивит|Entzündung im Auge|Bei einer Bindehautentzündung ist das Auge rot.|B2|Gesundheit
+Lutschtablette|die|Lutschtabletten|N|таблетка для рассасывания|Tablette, die man im Mund lässt|Gegen Halsschmerzen helfen Lutschtabletten.|B1|Gesundheit
+Hustensaft|der|Hustensäfte|N|сироп от кашля|flüssiges Medikament gegen Husten|Der Hustensaft schmeckt nach Kirsche.|A2|Gesundheit
+Nasenspray|das|Nasensprays|N|спрей для носа|Medikament für die Nase|Nehmen Sie das Nasenspray höchstens eine Woche.|A2|Gesundheit
+Zäpfchen|das|Zäpfchen|N|свеча (лекарство)|Medikament für den Po|Bei Fieber bekommt das Baby ein Zäpfchen.|B1|Gesundheit
+Dosierung|die|Dosierungen|N|дозировка|wie viel man nimmt|Die Dosierung steht auf der Packung.|B2|Gesundheit
+Packungsbeilage|die|Packungsbeilagen|N|инструкция к лекарству|Zettel im Medikament|Lesen Sie die Packungsbeilage.|B2|Gesundheit
+Wechselwirkung|die|Wechselwirkungen|N|взаимодействие (лекарств)|zwei Medikamente beeinflussen sich|Fragen Sie nach Wechselwirkungen mit anderen Medikamenten.|B2|Gesundheit
+Generikum|das|Generika|N|дженерик|billigeres Medikament mit gleichem Wirkstoff|Die Apotheke gibt Ihnen ein Generikum.|B2|Gesundheit
+Wirkstoff|der|Wirkstoffe|N|действующее вещество|Stoff, der im Medikament wirkt|Beide Tabletten haben den gleichen Wirkstoff.|B2|Gesundheit
+Haltbarkeit|die|-|N|срок годности|wie lange etwas gut bleibt|Prüfen Sie die Haltbarkeit der Tabletten.|B2|Gesundheit
+U-Untersuchung|die|U-Untersuchungen|N|профосмотр ребёнка|Vorsorge für Kinder (U1 bis U9)|Die nächste U-Untersuchung ist im März.|B2|Gesundheit
+Masern|die|(Pl.)|N|корь|ansteckende Kinderkrankheit|Gegen Masern muss jedes Kita-Kind geimpft sein.|B1|Gesundheit
+Windpocken|die|(Pl.)|N|ветрянка|Kinderkrankheit mit Bläschen|Im Kindergarten haben drei Kinder Windpocken.|B1|Gesundheit
+Läuse|die|(Pl.)|N|вши|kleine Tiere in den Haaren|In der Klasse gibt es Läuse.|B1|Gesundheit
+Zahnen|das|-|N|прорезывание зубов|Baby bekommt Zähne|Das Baby schreit, weil es zahnt.|B2|Gesundheit
+Fieberkrampf|der|Fieberkrämpfe|N|фебрильные судороги|Krampf bei hohem Fieber|Bei einem Fieberkrampf rufen Sie den Notarzt.|B2|Gesundheit
+Rettungswagen|der|Rettungswagen|N|машина скорой помощи|Auto für Kranke und Verletzte|Der Rettungswagen bringt sie ins Krankenhaus.|B1|Gesundheit
+Verbandskasten|der|Verbandskästen|N|аптечка|Kasten mit Pflaster und Verbänden|Im Auto muss ein Verbandskasten sein.|B1|Gesundheit
+stabile Seitenlage|die|-|N|устойчивое боковое положение|sichere Lage für Bewusstlose|Legen Sie den Mann in die stabile Seitenlage.|B2|Gesundheit
+Herzdruckmassage|die|Herzdruckmassagen|N|непрямой массаж сердца|Drücken auf die Brust bei Herzstillstand|Beginnen Sie sofort mit der Herzdruckmassage.|B2|Gesundheit
+Herzinfarkt|der|Herzinfarkte|N|инфаркт|plötzliche Störung am Herzen|Starke Brustschmerzen können ein Herzinfarkt sein.|B2|Gesundheit
+Verbrennung|die|Verbrennungen|N|ожог|Verletzung durch Hitze|Kühlen Sie die Verbrennung mit Wasser.|B1|Gesundheit
+Vergiftung|die|Vergiftungen|N|отравление|krank durch Gift|Bei Verdacht auf Vergiftung rufen Sie den Giftnotruf.|B2|Gesundheit
+Knochenbruch|der|Knochenbrüche|N|перелом|ein Knochen ist kaputt|Der Knochenbruch heilt in sechs Wochen.|B1|Gesundheit
+Gehirnerschütterung|die|Gehirnerschütterungen|N|сотрясение мозга|Verletzung am Kopf|Nach dem Sturz hatte er eine Gehirnerschütterung.|B2|Gesundheit
+Krücke|die|Krücken|N|костыль|Stock zum Gehen|Er läuft zwei Wochen an Krücken.|B1|Gesundheit
+Schwerbehindertenausweis|der|Schwerbehindertenausweise|N|удостоверение инвалида|Ausweis für Menschen mit Behinderung|Mit dem Schwerbehindertenausweis fährt sie günstiger Bus.|B2|Behörden
+Kreißsaal|der|Kreißsäle|N|родильный зал|Raum für die Geburt|Im Kreißsaal darf der Partner dabei sein.|B2|Gesundheit
+Frühgeburt|die|Frühgeburten|N|преждевременные роды|Baby kommt zu früh|Das Baby war eine Frühgeburt.|B2|Gesundheit
+Burnout|das|-|N|выгорание|völlige Erschöpfung durch Stress|Wegen Burnout war sie drei Monate krank.|B2|Gesundheit
+Schlafstörung|die|Schlafstörungen|N|нарушение сна|man schläft schlecht|Viele Schichtarbeiter haben Schlafstörungen.|B2|Gesundheit
+Erschöpfung|die|-|N|истощение, усталость|sehr müde, keine Kraft|Nach der Nachtschicht spüre ich große Erschöpfung.|B2|Gesundheit
+Suchtberatung|die|Suchtberatungen|N|консультация по зависимостям|Hilfe bei Abhängigkeit|Die Suchtberatung ist kostenlos und anonym.|B2|Gesundheit
+Gesundheitsamt|das|Gesundheitsämter|N|отдел здравоохранения|Amt für öffentliche Gesundheit|Das Gesundheitsamt kontrolliert die Kantine.|B2|Behörden
+Hygienevorschrift|die|Hygienevorschriften|N|санитарные правила|Regel für Sauberkeit|In der Küche gelten strenge Hygienevorschriften.|B2|Arbeit
+Keim|der|Keime|N|микроб|sehr kleiner Krankheitserreger|Regelmäßiges Händewaschen tötet Keime.|B2|Gesundheit
+Erreger|der|Erreger|N|возбудитель|Ursache einer Infektion|Der Erreger wird im Labor bestimmt.|B2|Gesundheit
+Abwehrkräfte|die|(Pl.)|N|иммунитет|Schutz des Körpers gegen Krankheit|Vitamin C stärkt die Abwehrkräfte.|B2|Gesundheit
+Immunsystem|das|Immunsysteme|N|иммунная система|Schutzsystem des Körpers|Schlaf ist wichtig für das Immunsystem.|B2|Gesundheit
+Laborwert|der|Laborwerte|N|лабораторный показатель|Ergebnis einer Blutuntersuchung|Ihre Laborwerte sind alle normal.|B2|Gesundheit
+Befund|der|Befunde|N|результат обследования|Ergebnis einer Untersuchung|Den Befund bespricht die Ärztin mit Ihnen.|B2|Gesundheit
+Arztbrief|der|Arztbriefe|N|медицинское заключение|Brief vom Krankenhaus an den Hausarzt|Bringen Sie den Arztbrief zum Hausarzt.|B2|Gesundheit
+Entlassung|die|Entlassungen|N|выписка|Patient darf nach Hause|Die Entlassung ist für Freitag geplant.|B2|Gesundheit
+Aufnahmebogen|der|Aufnahmebögen|N|анкета при поступлении|Formular bei der Ankunft|Füllen Sie bitte den Aufnahmebogen aus.|B2|Gesundheit
+Einverständniserklärung|die|Einverständniserklärungen|N|согласие (письменное)|Unterschrift, dass man einverstanden ist|Vor der OP unterschreiben Sie die Einverständniserklärung.|B2|Gesundheit
+Patientenverfügung|die|Patientenverfügungen|N|распоряжение пациента|Schreiben, welche Behandlung man will|Meine Mutter hat eine Patientenverfügung.|B2|Gesundheit
+Organspende|die|Organspenden|N|донорство органов|Organe nach dem Tod spenden|Haben Sie einen Organspendeausweis?|B2|Gesundheit
+Blutspende|die|Blutspenden|N|донорство крови|Blut für Kranke geben|Zur Blutspende sollte man gut gegessen haben.|B1|Gesundheit
+Allergiker|der|Allergiker|N|аллергик|Mensch mit Allergie|Für Allergiker gibt es nussfreie Kekse.|B1|Gesundheit
+Heuschnupfen|der|-|N|сенная лихорадка|Allergie gegen Pollen|Im Frühling leidet sie unter Heuschnupfen.|B1|Gesundheit
+Asthma|das|-|N|астма|Krankheit der Atemwege|Er hat Asthma und braucht ein Spray.|B1|Gesundheit
+Bluthochdruck|der|-|N|гипертония|zu hoher Blutdruck|Gegen Bluthochdruck nimmt er Tabletten.|B1|Gesundheit
+Krebs|der|-|N|рак|schwere Krankheit mit Tumor|Früherkennung kann bei Krebs Leben retten.|B1|Gesundheit
+Tumor|der|Tumoren|N|опухоль|Wucherung im Körper|Der Tumor war gutartig.|B2|Gesundheit
+Gesundheitsreform|die|Gesundheitsreformen|N|реформа здравоохранения|Änderung im Gesundheitssystem|Die Gesundheitsreform betrifft alle Versicherten.|B2|Gesellschaft
+Pflegegeld|das|-|N|пособие по уходу|Geld für Pflege zu Hause|Die Familie bekommt Pflegegeld.|B2|Pflege
+Kurzzeitpflege|die|-|N|кратковременный уход|Pflege im Heim für einige Wochen|Während unseres Urlaubs ist Oma in der Kurzzeitpflege.|B2|Pflege
+Tagespflege|die|-|N|дневной уход|Pflege tagsüber in einer Einrichtung|Mein Vater geht dreimal pro Woche in die Tagespflege.|B2|Pflege
+Hausnotruf|der|Hausnotrufe|N|домашняя тревожная кнопка|Knopf für Hilfe im Notfall|Mit dem Hausnotruf kann sie jederzeit Hilfe rufen.|B2|Pflege
+Essen auf Rädern|das|-|N|доставка еды пожилым|warmes Essen wird nach Hause gebracht|Seit dem Sturz bekommt er Essen auf Rädern.|B2|Pflege
+Begutachtung|die|Begutachtungen|N|освидетельствование|Prüfung durch einen Gutachter|Zur Begutachtung kommt der Medizinische Dienst nach Hause.|B2|Pflege
+Medizinischer Dienst|der|-|N|медицинская служба (экспертиза)|prüft den Pflegebedarf|Der Medizinische Dienst kommt am Dienstag.|B2|Pflege
+dosieren|-|dosiert, dosierte, hat dosiert|V|дозировать|die Menge bestimmen|Das Medikament muss genau dosiert werden.|B2|Gesundheit
+eincremen|-|cremt ein, cremte ein, hat eingecremt|V|намазывать кремом|Creme auf die Haut geben|Bitte cremen Sie die trockene Haut ein.|B1|Pflege
+lagern|-|lagert, lagerte, hat gelagert|V|укладывать (пациента)|Position im Bett ändern|Der Patient wird alle zwei Stunden gelagert.|B2|Pflege
+mobilisieren|-|mobilisiert, mobilisierte, hat mobilisiert|V|мобилизовать (пациента)|in Bewegung bringen|Nach der OP mobilisieren wir Sie schnell.|B2|Pflege
+kühlen|-|kühlt, kühlte, hat gekühlt|V|охлаждать|kalt machen|Kühlen Sie das Knie mit Eis.|B1|Gesundheit
+schonen|-|schont, schonte, hat geschont|V|беречь|nicht stark belasten|Sie müssen den Fuß noch schonen.|B2|Gesundheit
+juckreizstillend|-|-|A|снимающий зуд|hilft gegen Jucken|Die Salbe ist juckreizstillend.|B2|Gesundheit
+schmerzstillend|-|-|A|обезболивающий|hilft gegen Schmerzen|Sie bekommen ein schmerzstillendes Mittel.|B2|Gesundheit
+fiebersenkend|-|-|A|жаропонижающий|macht das Fieber niedriger|Paracetamol wirkt fiebersenkend.|B2|Gesundheit
+entzündungshemmend|-|-|A|противовоспалительный|wirkt gegen Entzündung|Ibuprofen ist entzündungshemmend.|B2|Gesundheit
+gutartig|-|-|A|доброкачественный|nicht gefährlich (Tumor)|Zum Glück war der Knoten gutartig.|B2|Gesundheit
+lebensbedrohlich|-|-|A|опасный для жизни|kann tödlich sein|Der Zustand ist nicht lebensbedrohlich.|B2|Gesundheit
+ambulant|-|-|A|амбулаторный|ohne Übernachtung im Krankenhaus|Die Operation wird ambulant gemacht.|B2|Gesundheit
+stationär|-|-|A|стационарный|mit Übernachtung im Krankenhaus|Er muss stationär aufgenommen werden.|B2|Gesundheit

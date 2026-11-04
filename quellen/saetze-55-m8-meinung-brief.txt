@@ -1,0 +1,39 @@
+# M8 B1/B2: Meinung, Erfahrungen und Briefe zu Gesundheit und Ämtern
+Als ich nach Deutschland kam, *war* der Weg zum Arzt für mich schwierig.|Когда я приехала в Германию, поход к врачу был для меня трудным.|B1|als-Satz zuerst → dann sofort das Verb.|Person
+Am Anfang *habe* ich nicht verstanden, was eine Überweisung ist.|Сначала я не понимала, что такое направление.|B1|Angabe auf Position 1; indirekte Frage.|Gesundheit
+In meinem Heimatland *geht* man direkt zum Facharzt.|На моей родине идут сразу к специалисту.|B1|Angabe auf Position 1 → Verb.|Gesundheit
+In Deutschland *ist* der Hausarzt meistens die erste Station.|В Германии терапевт обычно первая инстанция.|B1|Angabe auf Position 1 → Verb.|Gesundheit
+Mir *gefällt*, dass die Krankenkasse fast alles bezahlt.|Мне нравится, что больничная касса оплачивает почти всё.|B1|gefallen + Dativ; dass-Satz.|Gesundheit
+Was mich stört, *sind* die langen Wartezeiten beim Facharzt.|Что меня раздражает, так это долгое ожидание у специалиста.|B2|was-Satz zuerst → dann sofort das Verb.|Gesundheit
+Ich *finde* es gut, dass man Termine inzwischen online buchen kann.|Я считаю хорошим, что теперь можно записываться онлайн.|B1|finden + es + Adjektiv + dass.|Gesundheit
+Ältere Menschen *haben* aber oft Probleme mit dem Internet.|Однако у пожилых людей часто проблемы с интернетом.|B1|aber im Mittelfeld.|Gesellschaft
+Deshalb *sollte* es immer auch eine Telefonnummer geben.|Поэтому всегда должен быть и номер телефона.|B2|deshalb auf Position 1 → Modalverb.|Meinung
+Behördenbriefe *sind* für viele Menschen schwer zu verstehen.|Письма из учреждений многим трудно понять.|B2|sein + zu-Infinitiv.|Behörden
+Es *wäre* hilfreich, wenn die Ämter einfachere Sprache benutzen würden.|Было бы полезно, если бы учреждения использовали более простой язык.|B2|Konjunktiv II: wäre … würden.|Meinung
+Manche Ämter *bieten* inzwischen Informationen in leichter Sprache an.|Некоторые учреждения уже предлагают информацию на простом языке.|B2|anbieten: trennbar.|Behörden
+Ich *lasse* mir wichtige Briefe immer von einer Beratungsstelle erklären.|Я всегда прошу консультационный пункт объяснить мне важные письма.|B2|sich etwas erklären lassen.|Behörden
+Ohne die Hilfe meiner Kollegin *hätte* ich den Antrag nicht ausfüllen können.|Без помощи коллеги я не смогла бы заполнить заявление.|B2|Konjunktiv II Vergangenheit mit Modalverb.|Behörden
+Die Digitalisierung der Verwaltung *geht* in Deutschland nur langsam voran.|Цифровизация администрации в Германии продвигается медленно.|B2|vorangehen: trennbar.|Gesellschaft
+In anderen Ländern *kann* man fast alles online erledigen.|В других странах почти всё можно сделать онлайн.|B2|Angabe auf Position 1 → Modalverb.|Gesellschaft
+Einerseits *spart* das Zeit, andererseits gibt es Risiken beim Datenschutz.|С одной стороны, это экономит время, с другой — есть риски для защиты данных.|B2|einerseits … andererseits.|Meinung
+Ich *bin* der Meinung, dass jeder ein Recht auf persönliche Beratung haben sollte.|Я считаю, что каждый должен иметь право на личную консультацию.|B2|dass: Modalverb am Ende.|Meinung
+Sehr geehrte Damen und Herren, ich *wende* mich an Sie, weil ich eine Frage zu meinem Bescheid habe.|Уважаемые дамы и господа, обращаюсь к вам, потому что у меня вопрос по решению.|B2|sich wenden an; weil: Verb am Ende.|Briefe
+Laut Ihrem Schreiben *muss* ich 230 Euro zurückzahlen.|Согласно вашему письму, я должна вернуть 230 евро.|B2|laut + Dativ auf Position 1 → Modalverb.|Behörden
+Ich *kann* diese Summe leider nicht auf einmal bezahlen.|Я, к сожалению, не могу заплатить эту сумму сразу.|B1|Modalverb + Infinitiv am Ende.|Geld
+*Wäre* es möglich, den Betrag in Raten zu zahlen?|Можно ли выплатить сумму частями?|B2|Konjunktiv II Frage + zu-Infinitiv.|Geld
+Ich *schlage* vor, monatlich 40 Euro zu überweisen.|Предлагаю перечислять по 40 евро в месяц.|B2|vorschlagen + zu-Infinitiv.|Geld
+Meine Situation *hat* sich geändert, da ich eine neue Stelle gefunden habe.|Моя ситуация изменилась, так как я нашла новую работу.|B2|da: Hilfsverb am Ende.|Behörden
+Hiermit *teile* ich Ihnen mit, dass ich ab dem 1. März wieder arbeite.|Настоящим сообщаю вам, что с 1 марта снова работаю.|B2|mitteilen: trennbar; dass-Satz.|Behörden
+Den Arbeitsvertrag *füge* ich als Kopie bei.|Трудовой договор прилагаю в копии.|B2|beifügen: trennbar.|Briefe
+Für Rückfragen *stehe* ich Ihnen gern zur Verfügung.|На уточняющие вопросы охотно отвечу.|B2|zur Verfügung stehen.|Briefe
+Ich *bitte* Sie, meinen Termin bei Frau Dr. Roth auf nächste Woche zu verlegen.|Прошу вас перенести мою запись к доктору Рот на следующую неделю.|B2|bitten + zu-Infinitiv.|Gesundheit
+Leider *ist* bei der Abrechnung ein Fehler passiert.|К сожалению, в расчёте произошла ошибка.|B2|Perfekt mit sein: passieren.|Geld
+Die Behandlung vom 12. Mai *wurde* zweimal berechnet.|Лечение от 12 мая было выставлено в счёт дважды.|B2|Passiv Präteritum.|Gesundheit
+Ich *bitte* um Korrektur der Rechnung.|Прошу исправить счёт.|B2|bitten um + Akkusativ.|Briefe
+Mein Mann *ist* seit einem Unfall auf den Rollstuhl angewiesen.|Мой муж после аварии зависит от инвалидной коляски.|B2|angewiesen sein auf + Akkusativ.|Gesundheit
+Wir *suchen* deshalb eine barrierefreie Wohnung.|Поэтому мы ищем квартиру без барьеров.|B2|deshalb im Mittelfeld.|Wohnen
+Nachdem der Antrag eingegangen war, *dauerte* es noch zwei Monate.|После того как заявление поступило, прошло ещё два месяца.|B2|nachdem + Plusquamperfekt.|Behörden
+Je früher Sie den Antrag stellen, desto schneller *bekommen* Sie das Geld.|Чем раньше вы подадите заявление, тем быстрее получите деньги.|B2|je … desto.|Behörden
+Sollten Sie Fragen haben, *rufen* Sie uns bitte an.|Если у вас будут вопросы, позвоните нам.|B2|Bedingung ohne wenn: Sollten … vorne.|Briefe
+Bitte *beachten* Sie, dass unvollständige Anträge nicht bearbeitet werden können.|Учтите, что неполные заявления не могут быть рассмотрены.|B2|dass + Passiv mit Modalverb.|Behörden
+Wer seine Unterlagen nicht rechtzeitig einreicht, *riskiert*, dass die Zahlung gestoppt wird.|Кто не подаст документы вовремя, рискует остановкой выплат.|B2|wer-Satz zuerst; dass + Passiv.|Behörden

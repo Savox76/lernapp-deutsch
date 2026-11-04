@@ -1,0 +1,61 @@
+# M8 Behörden: Ämter, Anträge, Formulare (A2–B2)
+Ich *möchte* mich in der neuen Wohnung anmelden.|Я хочу зарегистрироваться в новой квартире.|A2|Modalverb auf Platz 2; anmelden am Ende.|Behörden
+Innerhalb von zwei Wochen *müssen* Sie sich ummelden.|В течение двух недель вы должны перерегистрироваться.|B1|innerhalb von auf Position 1 → Modalverb.|Behörden
+Für die Anmeldung *brauchen* Sie die Wohnungsgeberbestätigung.|Для регистрации вам нужно подтверждение арендодателя.|B2|für + Akkusativ auf Position 1.|Behörden
+Ziehen Sie bitte eine Wartemarke und *warten* Sie, bis Ihre Nummer erscheint.|Возьмите талон и ждите, пока появится ваш номер.|B1|zwei Imperative; bis: Verb am Ende.|Behörden
+Ohne Termin *werden* Sie leider nicht bedient.|Без записи вас, к сожалению, не обслужат.|B1|Passiv; ohne auf Position 1.|Behörden
+Termine *gibt* es nur noch online.|Записаться можно только онлайн.|B1|es gibt; Objekt auf Position 1.|Behörden
+Welche Unterlagen *muss* ich mitbringen?|Какие документы я должна принести?|A2|W-Frage mit Modalverb.|Behörden
+*Bringen* Sie bitte alle Dokumente im Original und in Kopie mit.|Принесите, пожалуйста, все документы в оригинале и копии.|B1|Imperativ; mitbringen trennbar.|Behörden
+Mein Pass *läuft* nächsten Monat ab.|Мой паспорт истекает в следующем месяце.|B1|ablaufen: trennbar.|Behörden
+Den neuen Ausweis *können* Sie in vier Wochen abholen.|Новое удостоверение вы сможете забрать через четыре недели.|B1|Objekt auf Position 1 → Modalverb.|Behörden
+Ihr Antrag *ist* leider unvollständig.|Ваше заявление, к сожалению, неполное.|B1|Hauptsatz: Verb auf Platz 2.|Behörden
+Es *fehlen* noch die Gehaltsnachweise der letzten drei Monate.|Не хватает ещё справок о зарплате за последние три месяца.|B2|es + Verb; Subjekt danach.|Behörden
+Die fehlenden Unterlagen *können* Sie per Post nachreichen.|Недостающие документы можно дослать по почте.|B2|Partizip als Adjektiv; nachreichen.|Behörden
+Bitte *geben* Sie bei allen Schreiben Ihr Aktenzeichen an.|Пожалуйста, указывайте во всех письмах номер дела.|B2|angeben: trennbar.|Behörden
+Der Bescheid *kommt* in etwa sechs Wochen per Post.|Решение придёт примерно через шесть недель по почте.|B1|Hauptsatz: Verb auf Platz 2.|Behörden
+Gegen den Bescheid *kann* man innerhalb eines Monats Widerspruch einlegen.|На решение можно подать возражение в течение месяца.|B2|innerhalb + Genitiv; Widerspruch einlegen.|Behörden
+Ich *lege* hiermit Widerspruch gegen Ihren Bescheid vom 3. Mai ein.|Настоящим подаю возражение на ваше решение от 3 мая.|B2|einlegen: trennbar; Briefsprache.|Behörden
+Mein Antrag auf Wohngeld *wurde* abgelehnt.|Моё заявление на жилищное пособие отклонили.|B2|Passiv Präteritum.|Behörden
+Ich *verstehe* nicht, warum mein Antrag abgelehnt wurde.|Я не понимаю, почему моё заявление отклонили.|B2|indirekte Frage + Passiv.|Behörden
+Der Antrag *wurde* bewilligt, das Geld kommt ab nächstem Monat.|Заявление одобрено, деньги будут со следующего месяца.|B2|Passiv Präteritum.|Behörden
+Das Wohngeld *wird* rückwirkend ab Januar gezahlt.|Жилищное пособие выплачивается задним числом с января.|B2|Passiv Präsens.|Behörden
+Kindergeld *beantragt* man bei der Familienkasse.|Детское пособие оформляют в семейной кассе.|B1|man + Verb; Objekt auf Position 1.|Behörden
+Elterngeld *gibt* es für höchstens 14 Monate.|Родительское пособие выплачивается максимум 14 месяцев.|B2|es gibt; Objekt auf Position 1.|Behörden
+Wer Bürgergeld bekommt, *muss* Änderungen sofort melden.|Кто получает гражданское пособие, должен сразу сообщать об изменениях.|B2|wer-Satz zuerst → dann sofort das Modalverb.|Behörden
+Wenn Sie einen Job finden, *müssen* Sie das dem Jobcenter mitteilen.|Если вы найдёте работу, нужно сообщить в центр занятости.|B1|wenn-Satz zuerst → Modalverb.|Behörden
+Mein Sachbearbeiter *ist* diese Woche nicht im Haus.|Моего специалиста на этой неделе нет на месте.|B1|Hauptsatz: Verb auf Platz 2.|Behörden
+Wer *ist* für meinen Antrag zuständig?|Кто отвечает за моё заявление?|B1|W-Frage; zuständig für.|Behörden
+Dafür *sind* wir leider nicht zuständig.|Мы, к сожалению, за это не отвечаем.|B1|dafür auf Position 1 → Verb.|Behörden
+*Wenden* Sie sich bitte an das Sozialamt.|Обратитесь, пожалуйста, в социальную службу.|B1|sich wenden an + Akkusativ.|Behörden
+*Darf* ich zum Termin einen Dolmetscher mitbringen?|Можно мне прийти на приём с переводчиком?|B1|Ja/Nein-Frage mit Modalverb.|Behörden
+Ich *habe* den Brief nicht verstanden, können Sie ihn mir erklären?|Я не поняла письмо, можете мне его объяснить?|B1|Perfekt + Frage mit Modalverb.|Behörden
+Die Kopie *muss* amtlich beglaubigt sein.|Копия должна быть официально заверена.|B2|Modalverb + Zustandspassiv.|Behörden
+Meine Zeugnisse *werden* gerade von der Anerkennungsstelle geprüft.|Мои документы сейчас проверяет ведомство по признанию.|B2|Passiv mit von + Dativ.|Behörden
+Für die Anerkennung *braucht* man beglaubigte Übersetzungen.|Для признания нужны заверенные переводы.|B2|Partizip als Adjektiv: beglaubigte.|Behörden
+Mit einer Vollmacht *kann* mein Mann die Unterlagen abholen.|По доверенности мой муж может забрать документы.|B2|Angabe auf Position 1 → Modalverb.|Behörden
+Die Aufenthaltserlaubnis *wurde* um zwei Jahre verlängert.|Вид на жительство продлили на два года.|B2|Passiv; um + Zeitraum.|Behörden
+*Vergessen* Sie nicht, Ihre Steuererklärung bis Ende Juli abzugeben.|Не забудьте подать налоговую декларацию до конца июля.|B2|vergessen + zu-Infinitiv: abzugeben.|Geld
+Mit der Steuererklärung *bekomme* ich oft Geld zurück.|С декларацией я часто получаю деньги обратно.|B1|Angabe auf Position 1 → Verb.|Geld
+Fahrtkosten zur Arbeit *kann* man von der Steuer absetzen.|Расходы на дорогу на работу можно вычесть из налогов.|B2|absetzen: trennbar.|Geld
+Nach der Hochzeit *haben* wir die Steuerklasse gewechselt.|После свадьбы мы сменили налоговый класс.|B2|Angabe auf Position 1 → Hilfsverb.|Geld
+Den Rundfunkbeitrag *zahlt* jeder Haushalt, auch ohne Fernseher.|Взнос за радио и ТВ платит каждое домохозяйство, даже без телевизора.|B2|Objekt auf Position 1 → Verb.|Behörden
+Bei einem Einbruch *sollten* Sie sofort die Polizei rufen.|При взломе вам следует сразу вызвать полицию.|B1|Angabe auf Position 1 → Modalverb.|Behörden
+Ich *möchte* einen Diebstahl anzeigen.|Я хочу заявить о краже.|B2|anzeigen: trennbar.|Behörden
+Mir *wurde* in der Straßenbahn das Handy gestohlen.|У меня украли телефон в трамвае.|B2|Passiv mit Dativ auf Position 1.|Behörden
+Die Polizei *hat* den Dieb noch am selben Tag festgenommen.|Полиция задержала вора в тот же день.|B2|Perfekt: hat … festgenommen.|Behörden
+Für zu schnelles Fahren *bekam* er einen Bußgeldbescheid.|За превышение скорости он получил постановление о штрафе.|B2|Angabe auf Position 1 → Verb.|Verkehr
+*Melden* Sie den Schaden innerhalb einer Woche Ihrer Versicherung.|Сообщите об ущербе страховой в течение недели.|B2|Imperativ; Dativ: Ihrer Versicherung.|Geld
+Die Haftpflichtversicherung *zahlt*, wenn man aus Versehen etwas beschädigt.|Страховка ответственности платит, если случайно что-то повредишь.|B2|wenn: Verb am Ende.|Geld
+Wenn Sie die Rechnung nicht bezahlen, *bekommen* Sie eine Mahnung.|Если вы не оплатите счёт, получите напоминание.|B1|wenn-Satz zuerst → dann sofort das Verb.|Geld
+Die Schuldnerberatung *hilft* kostenlos und vertraulich.|Консультация для должников помогает бесплатно и конфиденциально.|B2|Hauptsatz: Verb auf Platz 2.|Geld
+Für die Einbürgerung *muss* man unter anderem einen Einbürgerungstest bestehen.|Для натурализации нужно, среди прочего, сдать тест.|B2|für + Akkusativ auf Position 1 → Modalverb.|Behörden
+Der Integrationskurs *besteht* aus einem Sprachkurs und einem Orientierungskurs.|Интеграционный курс состоит из языкового и ориентационного курса.|B1|bestehen aus + Dativ.|Bildung
+Am Ende des Integrationskurses *macht* man den DTZ.|В конце интеграционного курса сдают DTZ.|B1|Angabe auf Position 1 → Verb.|Bildung
+Hiermit *bitte* ich um eine Verlängerung der Frist bis zum 30. Juni.|Настоящим прошу продлить срок до 30 июня.|B2|Briefsprache: bitten um + Akkusativ.|Behörden
+Ich *wäre* Ihnen dankbar, wenn Sie meinen Antrag schnell bearbeiten könnten.|Буду вам благодарна, если вы быстро рассмотрите моё заявление.|B2|Konjunktiv II: höfliche Bitte.|Behörden
+Anbei *sende* ich Ihnen die gewünschten Unterlagen.|В приложении отправляю вам запрошенные документы.|B2|anbei auf Position 1 → Verb.|Briefe
+Bitte *bestätigen* Sie mir den Eingang meines Schreibens.|Пожалуйста, подтвердите получение моего письма.|B2|Imperativ (Sie); Genitiv.|Briefe
+Ich *bin* telefonisch unter 0176 1234567 erreichbar.|Со мной можно связаться по телефону 0176 1234567.|B1|Hauptsatz: Verb auf Platz 2.|Briefe
+Die Kündigung *schicke* ich per Einschreiben.|Расторжение договора я отправлю заказным письмом.|B1|Objekt auf Position 1 → Verb.|Behörden
+Der Personalausweis *wird* Ihnen nur persönlich ausgehändigt.|Удостоверение выдаётся только лично.|B2|Passiv mit Dativ.|Behörden

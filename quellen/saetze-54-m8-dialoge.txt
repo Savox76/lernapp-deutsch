@@ -1,0 +1,45 @@
+# M8 Dialogsätze (Hören & Sprechen): Telefon, Praxis, Amt
+Praxis Dr. Weber, Sie *sprechen* mit Frau Lang.|Практика доктора Вебера, с вами говорит госпожа Ланг.|A2|Hauptsatz: Verb auf Platz 2.|Gesundheit
+Guten Tag, ich *rufe* wegen eines Termins an.|Добрый день, я звоню по поводу записи.|A2|anrufen: trennbar; wegen + Genitiv.|Gesundheit
+Worum *geht* es denn?|А в чём дело?|B1|W-Frage mit worum.|Alltag
+Ich *hätte* gern einen Termin für eine Vorsorgeuntersuchung.|Я бы хотела записаться на профилактический осмотр.|B1|Konjunktiv II: höflicher Wunsch.|Gesundheit
+*Passt* Ihnen Donnerstag um 9:15 Uhr?|Вам подходит четверг в 9:15?|A2|Frage: Verb vorne; Dativ Ihnen.|Gesundheit
+Leider *kann* ich vormittags nicht, ich arbeite.|К сожалению, утром не могу, я работаю.|A2|Leider auf Position 1 → Modalverb.|Arbeit
+*Hätten* Sie auch einen Termin am Nachmittag?|У вас есть запись на вторую половину дня?|B1|Konjunktiv II Frage: Verb vorne.|Gesundheit
+Ich *trage* Sie für Montag um 16 Uhr ein.|Записываю вас на понедельник в 16 часов.|B1|eintragen: trennbar.|Gesundheit
+*Können* Sie mir Ihren Namen bitte buchstabieren?|Можете продиктовать вашу фамилию по буквам?|A2|Frage mit Modalverb; Infinitiv am Ende.|Alltag
+*Sind* Sie gesetzlich oder privat versichert?|Вы застрахованы по закону или частно?|B1|Zustandspassiv in der Frage.|Gesundheit
+Falls Sie den Termin nicht wahrnehmen können, *sagen* Sie bitte 24 Stunden vorher ab.|Если не сможете прийти, отмените, пожалуйста, за 24 часа.|B2|falls-Satz zuerst → Imperativ.|Gesundheit
+Ich *muss* meinen Termin leider absagen.|Мне, к сожалению, нужно отменить запись.|A2|Modalverb; absagen am Ende.|Gesundheit
+Mein Kind *ist* krank geworden.|Мой ребёнок заболел.|A2|Perfekt von werden: ist … geworden.|Familie
+*Können* wir den Termin auf nächste Woche verschieben?|Можем перенести запись на следующую неделю?|B1|verschieben auf + Akkusativ.|Gesundheit
+Das *ist* kein Problem, ich schaue mal nach.|Это не проблема, сейчас посмотрю.|A2|zwei Hauptsätze.|Alltag
+Sie *haben* den Anschluss der Stadtverwaltung erreicht.|Вы дозвонились в городскую администрацию.|B1|Perfekt: haben … erreicht.|Behörden
+Für Fragen zum Wohngeld *drücken* Sie die Eins.|По вопросам жилищного пособия нажмите единицу.|B1|für + Akkusativ auf Position 1 → Verb.|Behörden
+Alle Mitarbeiter *sind* zurzeit im Gespräch.|Все сотрудники сейчас заняты.|A2|Hauptsatz: Verb auf Platz 2.|Behörden
+Bitte *bleiben* Sie in der Leitung.|Пожалуйста, оставайтесь на линии.|A2|Imperativ (Sie).|Alltag
+Sie *können* uns auch eine E-Mail schreiben.|Вы также можете написать нам письмо.|A2|Modalverb + Infinitiv.|Behörden
+Unsere Sprechzeiten *sind* Montag bis Freitag von 8 bis 12 Uhr.|Наши часы приёма с понедельника по пятницу с 8 до 12.|A2|Hauptsatz: Verb auf Platz 2.|Behörden
+Ich *rufe* Sie zurück, sobald ich Ihre Akte habe.|Я перезвоню вам, как только найду ваше дело.|B1|sobald: Verb am Ende.|Behörden
+*Könnten* Sie das bitte noch einmal wiederholen?|Не могли бы вы повторить ещё раз?|B1|Höfliche Frage; Infinitiv am Ende.|Alltag
+Entschuldigung, ich *habe* Sie akustisch nicht verstanden.|Извините, я вас не расслышала.|B1|Perfekt: habe … verstanden.|Alltag
+*Habe* ich Sie richtig verstanden, dass der Termin ausfällt?|Я правильно поняла, что приём отменяется?|B2|Rückfrage; dass: Verb am Ende.|Alltag
+Was *bedeutet* das Wort „Zuzahlung“?|Что означает слово «доплата»?|A2|W-Frage: Verb auf Platz 2.|Bildung
+Wie lange *dauert* die Bearbeitung ungefähr?|Сколько примерно длится рассмотрение?|B1|W-Frage mit wie lange.|Behörden
+Was *passiert*, wenn ich die Frist verpasse?|Что будет, если я пропущу срок?|B2|W-Frage + wenn-Satz.|Behörden
+*Muss* ich persönlich vorbeikommen oder geht das auch online?|Мне нужно прийти лично или можно онлайн?|B1|zwei Fragen mit oder.|Behörden
+Das *geht* auch online über unser Bürgerportal.|Это можно сделать и онлайн через портал.|B1|es geht = es ist möglich.|Behörden
+Ich *notiere* mir das kurz.|Я быстро это запишу.|A2|sich notieren + Akkusativ.|Alltag
+Hier *spricht* die automatische Ansage der Apotheke am Rathaus.|Говорит автоответчик аптеки у ратуши.|B1|Angabe auf Position 1 → Verb → Subjekt.|Gesundheit
+Ihr Medikament *liegt* ab morgen zur Abholung bereit.|Ваше лекарство будет готово к выдаче с завтрашнего дня.|B2|bereitliegen; zur Abholung.|Gesundheit
+Ihre Bestellung *ist* eingetroffen.|Ваш заказ поступил.|B1|Perfekt mit sein: eintreffen.|Handel
+Hallo Frau Iwanowa, hier *ist* das Bürgerbüro.|Здравствуйте, госпожа Иванова, это бюро обслуживания граждан.|A2|Angabe auf Position 1 → Verb.|Behörden
+Ihr neuer Reisepass *ist* fertig und kann abgeholt werden.|Ваш новый паспорт готов и его можно забрать.|B1|Passiv mit Modalverb im zweiten Teil.|Behörden
+Bitte *denken* Sie daran, den alten Pass mitzubringen.|Пожалуйста, не забудьте принести старый паспорт.|B2|denken an; daran + zu-Infinitiv.|Behörden
+Wir *möchten* Sie an Ihren Termin morgen um 10 Uhr erinnern.|Мы хотим напомнить вам о записи завтра в 10.|B1|erinnern an + Akkusativ.|Gesundheit
+Leider *muss* Dr. Kraus heute alle Termine absagen.|К сожалению, доктору Краусу сегодня придётся отменить все приёмы.|B1|Leider auf Position 1 → Modalverb.|Gesundheit
+In dringenden Fällen *wenden* Sie sich bitte an den ärztlichen Bereitschaftsdienst unter 116 117.|В срочных случаях обращайтесь в дежурную службу по номеру 116 117.|B2|Angabe auf Position 1 → Verb.|Gesundheit
+Bei lebensbedrohlichen Notfällen *wählen* Sie die 112.|При угрожающих жизни ситуациях звоните 112.|B2|Angabe auf Position 1 → Verb.|Gesundheit
+Achtung, eine Durchsage: Der Ausgang B *ist* wegen Bauarbeiten gesperrt.|Внимание, объявление: выход B закрыт из-за ремонта.|B1|Zustandspassiv: ist gesperrt.|Alltag
+Besucher *werden* gebeten, den Haupteingang zu benutzen.|Посетителей просят пользоваться главным входом.|B2|Passiv + zu-Infinitiv.|Alltag
+Die Wartenummer 47 *wird* bitte zu Schalter 3 gebeten.|Номер 47, пройдите, пожалуйста, к окну 3.|B2|Passiv: wird … gebeten.|Behörden

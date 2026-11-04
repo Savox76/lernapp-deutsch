@@ -1,0 +1,60 @@
+# M8 Gesundheit: Arztpraxis, Apotheke, Notfall (A2–B1)
+Ich *brauche* dringend einen Termin beim Hausarzt.|Мне срочно нужна запись к терапевту.|A2|Hauptsatz: Verb auf Platz 2.|Gesundheit
+*Haben* Sie heute noch einen Termin frei?|У вас есть сегодня свободное время для записи?|A2|Ja/Nein-Frage: Verb auf Position 1.|Gesundheit
+Seit drei Tagen *habe* ich Fieber und Halsschmerzen.|Уже три дня у меня температура и боль в горле.|A2|Zeitangabe auf Position 1 → Verb → Subjekt.|Gesundheit
+Bitte *bringen* Sie Ihre Gesundheitskarte mit.|Пожалуйста, возьмите с собой карту медстрахования.|A2|Imperativ (Sie): Verb vorne; mitbringen trennbar.|Gesundheit
+*Nehmen* Sie bitte im Wartezimmer Platz.|Пожалуйста, присядьте в комнате ожидания.|A2|Imperativ (Sie): Verb vorne.|Gesundheit
+Wo *tut* es Ihnen weh?|Где у вас болит?|A2|W-Frage: Verb auf Platz 2.|Gesundheit
+Mir *ist* seit heute Morgen schlecht.|Меня тошнит с сегодняшнего утра.|A2|Dativ + sein: mir ist schlecht.|Gesundheit
+Mein Sohn *hat* sich beim Fußball am Knie verletzt.|Мой сын повредил колено на футболе.|A2|Perfekt mit sich verletzen.|Gesundheit
+Die Ärztin *hat* mich eine Woche krankgeschrieben.|Врач выписала мне больничный на неделю.|B1|Perfekt: hat … krankgeschrieben.|Gesundheit
+Ich *muss* die Krankmeldung meinem Arbeitgeber schicken.|Я должна отправить больничный работодателю.|B1|Modalverb auf Platz 2, Infinitiv am Ende.|Arbeit
+Wie oft *soll* ich die Tabletten nehmen?|Как часто мне принимать таблетки?|A2|W-Frage mit Modalverb.|Gesundheit
+*Nehmen* Sie die Tabletten dreimal täglich nach dem Essen.|Принимайте таблетки три раза в день после еды.|A2|Imperativ (Sie): Verb vorne.|Gesundheit
+Dieses Medikament *gibt* es nur auf Rezept.|Это лекарство отпускается только по рецепту.|B1|es gibt + Akkusativ.|Gesundheit
+*Haben* Sie etwas gegen Kopfschmerzen?|У вас есть что-нибудь от головной боли?|A2|Frage: Verb vorne; gegen + Akkusativ.|Gesundheit
+Für den Orthopäden *brauchen* Sie eine Überweisung.|Для ортопеда вам нужно направление.|B1|Angabe auf Position 1 → Verb → Subjekt.|Gesundheit
+Zur Blutabnahme *müssen* Sie nüchtern kommen.|На сдачу крови нужно прийти натощак.|B1|Angabe auf Position 1 → Modalverb.|Gesundheit
+Das Ergebnis *bekommen* Sie in drei Tagen.|Результат вы получите через три дня.|B1|Objekt auf Position 1 → Verb → Subjekt.|Gesundheit
+Ich *bin* allergisch gegen Penicillin.|У меня аллергия на пенициллин.|B1|allergisch gegen + Akkusativ.|Gesundheit
+*Haben* Sie Vorerkrankungen oder nehmen Sie Medikamente?|У вас есть хронические заболевания или вы принимаете лекарства?|B1|zwei Fragen mit oder.|Gesundheit
+Die Wunde *muss* genäht werden.|Рану нужно зашить.|B1|Passiv mit Modalverb.|Gesundheit
+Der Arm *ist* gebrochen, er bekommt einen Gips.|Рука сломана, ему наложат гипс.|B1|Zustandspassiv: ist gebrochen.|Gesundheit
+Kühlen Sie den Fuß und *legen* Sie ihn hoch.|Охлаждайте ногу и держите её приподнятой.|B1|zwei Imperative; hochlegen trennbar.|Gesundheit
+Bei Atemnot *rufen* Sie sofort den Notruf 112.|При одышке сразу звоните 112.|B1|Angabe auf Position 1 → Verb.|Gesundheit
+Der Rettungswagen *ist* in zehn Minuten da.|Скорая будет через десять минут.|A2|Hauptsatz: Verb auf Platz 2.|Gesundheit
+Mein Vater *ist* gestern ins Krankenhaus gekommen.|Мой отец вчера попал в больницу.|A2|Perfekt mit sein (Bewegung).|Gesundheit
+Die Besuchszeit *endet* um 19 Uhr.|Время посещений заканчивается в 19 часов.|A2|Hauptsatz: Verb auf Platz 2.|Gesundheit
+Ich *möchte* mich gegen Grippe impfen lassen.|Я хочу сделать прививку от гриппа.|B1|sich impfen lassen.|Gesundheit
+*Haben* Sie Ihren Impfpass dabei?|У вас с собой прививочный паспорт?|A2|Ja/Nein-Frage.|Gesundheit
+Die Apotheke am Markt *hat* heute Notdienst.|Аптека на рынке сегодня дежурная.|B1|Hauptsatz: Verb auf Platz 2.|Gesundheit
+*Lesen* Sie vor der Einnahme die Packungsbeilage.|Перед приёмом прочитайте инструкцию.|B1|Imperativ (Sie): Verb vorne.|Gesundheit
+Das Medikament *kann* müde machen.|Лекарство может вызывать сонливость.|B1|Modalverb + Infinitiv am Ende.|Gesundheit
+Wenn das Fieber steigt, *kommen* Sie bitte wieder.|Если температура поднимется, приходите снова.|B1|wenn-Satz zuerst → dann sofort das Verb.|Gesundheit
+Mein Kind *hat* seit gestern Durchfall und erbricht.|У моего ребёнка со вчерашнего дня понос и рвота.|B1|seit + Dativ; Präsens.|Gesundheit
+*Geben* Sie dem Kind viel zu trinken.|Давайте ребёнку много пить.|B1|Imperativ (Sie); Dativ: dem Kind.|Gesundheit
+Ich *kann* nicht gut schlafen, weil ich Rückenschmerzen habe.|Я плохо сплю, потому что у меня болит спина.|B1|weil: Verb am Ende.|Gesundheit
+Die Krankenkasse *übernimmt* die Kosten für die Physiotherapie.|Больничная касса покрывает расходы на физиотерапию.|B1|übernehmen: nicht trennbar.|Gesundheit
+Für Medikamente *zahle* ich fünf Euro Zuzahlung.|За лекарства я доплачиваю пять евро.|B1|Angabe auf Position 1 → Verb.|Gesundheit
+Ich *habe* einen Termin beim Zahnarzt verschoben.|Я перенесла запись к стоматологу.|A2|Perfekt: habe … verschoben.|Gesundheit
+Die Füllung *ist* herausgefallen.|Пломба выпала.|B1|Perfekt mit sein: herausfallen.|Gesundheit
+*Tut* das weh, wenn ich hier drücke?|Больно, когда я здесь нажимаю?|B1|wenn: Verb am Ende.|Gesundheit
+Atmen Sie tief ein und *halten* Sie die Luft an.|Глубоко вдохните и задержите дыхание.|B1|Imperativ; einatmen, anhalten trennbar.|Gesundheit
+*Machen* Sie bitte den Oberkörper frei.|Пожалуйста, разденьтесь до пояса.|B1|Imperativ (Sie): Verb vorne.|Gesundheit
+Ihr Blutdruck *ist* etwas zu hoch.|Ваше давление немного высокое.|A2|Hauptsatz: Verb auf Platz 2.|Gesundheit
+Sie *sollten* weniger Salz essen und mehr Sport machen.|Вам следует есть меньше соли и больше заниматься спортом.|B1|Konjunktiv II sollten = Rat.|Gesundheit
+Ich *rauche* nicht und trinke selten Alkohol.|Я не курю и редко пью алкоголь.|A2|zwei Hauptsätze mit und.|Gesundheit
+In der Schwangerschaft *geht* sie regelmäßig zur Vorsorge.|Во время беременности она регулярно ходит на осмотры.|B1|Angabe auf Position 1 → Verb.|Gesundheit
+Die Hebamme *kommt* nach der Geburt zu uns nach Hause.|Акушерка приходит к нам домой после родов.|B1|Hauptsatz: Verb auf Platz 2.|Familie
+Der Kinderarzt *hat* das Baby gründlich untersucht.|Педиатр тщательно осмотрел малыша.|B1|Perfekt: hat … untersucht.|Gesundheit
+Bei Fieber über 39 Grad *gebe* ich ihr ein Zäpfchen.|При температуре выше 39 я даю ей свечку.|B1|Angabe auf Position 1 → Verb.|Familie
+Im Kindergarten *gibt* es gerade Läuse.|В детском саду сейчас вши.|B1|es gibt + Akkusativ.|Familie
+Sie *hat* sich an heißem Wasser verbrannt.|Она обожглась горячей водой.|B1|sich verbrennen an + Dativ.|Gesundheit
+*Halten* Sie die Verbrennung sofort unter kaltes Wasser.|Сразу подержите ожог под холодной водой.|B1|Imperativ; unter + Akkusativ (wohin?).|Gesundheit
+Der Mann *ist* bewusstlos, wir müssen ihn in die stabile Seitenlage bringen.|Мужчина без сознания, нужно уложить его в устойчивое боковое положение.|B2|Hauptsatz + Hauptsatz mit Modalverb.|Gesundheit
+Erste Hilfe *kann* Leben retten.|Первая помощь может спасти жизнь.|B1|Modalverb + Infinitiv.|Gesundheit
+Ich *fühle* mich schon viel besser.|Я чувствую себя уже намного лучше.|A2|sich fühlen; Komparativ besser.|Gesundheit
+Ich *wünsche* Ihnen gute Besserung.|Желаю вам скорейшего выздоровления.|A2|Dativ (Person) + Akkusativ (Sache).|Gesundheit
+*Könnten* Sie mir bitte ein Attest ausstellen?|Не могли бы вы выписать мне справку?|B1|Höfliche Frage: Infinitiv am Ende.|Gesundheit
+Die Praxis *bleibt* vom 1. bis 14. August geschlossen.|Практика закрыта с 1 по 14 августа.|A2|Hauptsatz: Verb auf Platz 2.|Gesundheit
+Die Vertretung *übernimmt* Dr. Wagner in der Bahnhofstraße.|Замещает доктор Вагнер на Банхофштрассе.|B1|Hauptsatz: Verb auf Platz 2.|Gesundheit

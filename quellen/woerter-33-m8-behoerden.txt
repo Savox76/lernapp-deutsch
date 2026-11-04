@@ -1,0 +1,41 @@
+# M8 Behörden: Ämter, Formulare, Recht, Sozialleistungen
+Abmeldung|die|Abmeldungen|N|снятие с регистрации|sich bei der Stadt abmelden|Vor dem Umzug ins Ausland ist eine Abmeldung nötig.|B1|Behörden
+Amtsgericht|das|Amtsgerichte|N|участковый суд|unteres Gericht|Der Fall wird beim Amtsgericht verhandelt.|B2|Behörden
+Anhörung|die|Anhörungen|N|слушание|Gelegenheit, seine Meinung zu sagen|Sie werden zu einer Anhörung eingeladen.|B2|Behörden
+Auszahlung|die|Auszahlungen|N|выплата|Geld wird bezahlt|Die Auszahlung erfolgt am Monatsende.|B2|Behörden
+Beglaubigung|die|Beglaubigungen|N|заверение|offizielle Bestätigung einer Kopie|Für die Beglaubigung zahlen Sie 5 Euro.|B2|Behörden
+Bearbeitungszeit|die|Bearbeitungszeiten|N|срок обработки|Zeit, bis ein Antrag fertig ist|Die Bearbeitungszeit beträgt sechs Wochen.|B2|Behörden
+Bedarfsgemeinschaft|die|Bedarfsgemeinschaften|N|сообщество потребностей|Personen in einem Haushalt beim Bürgergeld|Zu Ihrer Bedarfsgemeinschaft gehören Sie und Ihre Kinder.|B2|Behörden
+Behördengang|der|Behördengänge|N|поход в учреждение|Besuch bei einem Amt|Behördengänge kosten viel Zeit.|B2|Behörden
+Einspruch|der|Einsprüche|N|возражение|offiziell nicht einverstanden sein|Gegen den Bescheid können Sie Einspruch einlegen.|B2|Behörden
+Elterngeld|das|-|N|родительское пособие|Geld für Eltern nach der Geburt|Elterngeld bekommt man bis zu 14 Monate.|B1|Behörden
+Empfangsbestätigung|die|Empfangsbestätigungen|N|подтверждение получения|Bestätigung, dass etwas angekommen ist|Bitte schicken Sie mir eine Empfangsbestätigung.|B2|Behörden
+Erstattung|die|Erstattungen|N|возмещение|Geld zurückbekommen|Die Erstattung der Fahrtkosten dauert etwas.|B2|Behörden
+Fristverlängerung|die|Fristverlängerungen|N|продление срока|mehr Zeit bekommen|Ich bitte um eine Fristverlängerung bis Ende Mai.|B2|Behörden
+Führungszeugnis|das|Führungszeugnisse|N|справка о несудимости|Bescheinigung ohne Vorstrafen|Für die Arbeit in der Kita brauchen Sie ein Führungszeugnis.|B2|Behörden
+Gewerbeanmeldung|die|Gewerbeanmeldungen|N|регистрация предприятия|Anmeldung einer selbstständigen Arbeit|Die Gewerbeanmeldung kostet etwa 30 Euro.|B2|Behörden
+Kinderzuschlag|der|-|N|детская надбавка|extra Geld für Familien mit wenig Einkommen|Wir haben Kinderzuschlag beantragt.|B2|Behörden
+Lohnsteuerbescheinigung|die|Lohnsteuerbescheinigungen|N|справка о подоходном налоге|Übersicht über Lohn und Steuern im Jahr|Die Lohnsteuerbescheinigung brauchen Sie für die Steuererklärung.|B2|Behörden
+Mietbescheinigung|die|Mietbescheinigungen|N|справка об аренде|Bestätigung des Vermieters über die Miete|Für das Wohngeld brauchen Sie eine Mietbescheinigung.|B2|Behörden
+Mitwirkungspflicht|die|-|N|обязанность содействовать|man muss Unterlagen liefern|Wenn Sie Ihre Mitwirkungspflicht verletzen, kann die Leistung gekürzt werden.|B2|Behörden
+Ordnungsamt|das|Ordnungsämter|N|отдел порядка|Amt für Ordnung und Sicherheit in der Stadt|Das Ordnungsamt kontrolliert das Parken.|B1|Behörden
+Rechtsbehelfsbelehrung|die|Rechtsbehelfsbelehrungen|N|разъяснение о порядке обжалования|Info, wie man widersprechen kann|Am Ende des Bescheids steht die Rechtsbehelfsbelehrung.|B2|Behörden
+Sozialversicherungsnummer|die|Sozialversicherungsnummern|N|номер социального страхования|Nummer für Rente und Versicherung|Der Arbeitgeber braucht Ihre Sozialversicherungsnummer.|B2|Behörden
+Standesamt|das|Standesämter|N|ЗАГС|Amt für Heirat und Geburt|Wir heiraten im Standesamt.|B1|Behörden
+Steueridentifikationsnummer|die|Steueridentifikationsnummern|N|идентификационный налоговый номер|persönliche Steuernummer|Ihre Steueridentifikationsnummer steht auf dem Brief vom Bundeszentralamt.|B2|Behörden
+Unterhalt|der|-|N|алименты, содержание|Geld für Kinder oder Partner|Der Vater zahlt Unterhalt für die Kinder.|B2|Behörden
+Urkunde|die|Urkunden|N|документ, свидетельство|offizielles Dokument|Bringen Sie alle Urkunden im Original mit.|B1|Behörden
+Verwarnung|die|Verwarnungen|N|предупреждение|offizieller Hinweis auf einen Fehler|Für falsches Parken gab es eine Verwarnung.|B2|Behörden
+Vorladung|die|Vorladungen|N|повестка|Aufforderung, zu einem Amt zu kommen|Er hat eine Vorladung vom Gericht bekommen.|B2|Behörden
+Wohnberechtigungsschein|der|Wohnberechtigungsscheine|N|разрешение на социальное жильё|Schein für eine Sozialwohnung|Für diese Wohnung brauchen Sie einen Wohnberechtigungsschein.|B2|Behörden
+Zeugnisanerkennung|die|-|N|признание диплома|ausländisches Zeugnis wird akzeptiert|Die Zeugnisanerkennung dauert mehrere Monate.|B2|Behörden
+Zulassungsstelle|die|Zulassungsstellen|N|регистрация транспорта|Amt für Auto-Anmeldung|Das neue Auto melden Sie bei der Zulassungsstelle an.|B2|Behörden
+aushändigen|-|händigt aus, händigte aus, hat ausgehändigt|V|выдавать на руки|persönlich übergeben|Der Ausweis wird Ihnen persönlich ausgehändigt.|B2|Behörden
+erteilen|-|erteilt, erteilte, hat erteilt|V|выдавать, давать|offiziell geben|Die Erlaubnis wird für zwei Jahre erteilt.|B2|Behörden
+sich ausweisen|-|weist sich aus, wies sich aus, hat sich ausgewiesen|V|предъявлять удостоверение|zeigen, wer man ist|Bitte weisen Sie sich mit Ihrem Pass aus.|B2|Behörden
+ummelden|-|meldet um, meldete um, hat umgemeldet|V|перерегистрировать|neue Adresse melden|Nach dem Umzug müssen Sie sich ummelden.|B1|Behörden
+zustehen|-|steht zu, stand zu, hat zugestanden|V|полагаться (по праву)|ein Recht auf etwas haben|Ihnen steht Elterngeld zu.|B2|Behörden
+amtlich|-|-|A|официальный|vom Amt|Sie brauchen ein amtliches Dokument.|B2|Behörden
+gebührenpflichtig|-|-|A|платный|man muss eine Gebühr zahlen|Die Bescheinigung ist gebührenpflichtig.|B2|Behörden
+rechtskräftig|-|-|A|вступивший в силу|kann nicht mehr geändert werden|Das Urteil ist rechtskräftig.|B2|Behörden
+unvollständig|-|-|A|неполный|es fehlt etwas|Ihr Antrag ist leider unvollständig.|B1|Behörden

@@ -1,0 +1,1033 @@
+{
+ "hoeren": [
+  {
+   "id": "h67",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anrufbeantworter: Hausarztpraxis",
+   "situation": "Sie hören eine Ansage am Telefon.",
+   "text": "Guten Tag, Sie sind verbunden mit der Praxis Dr. Hoffmann. Unsere Praxis ist vom 22. Dezember bis zum 2. Januar geschlossen. In dringenden Fällen wenden Sie sich bitte an unsere Vertretung, Frau Dr. Yilmaz, in der Schillerstraße 12. Ab dem 3. Januar sind wir wieder zu den gewohnten Zeiten für Sie da. Rezepte können Sie auch online bestellen.",
+   "fragen": [
+    {
+     "q": "Wer ist die Vertretung?",
+     "o": [
+      "die Apotheke",
+      "Dr. Hoffmann",
+      "Frau Dr. Yilmaz"
+     ],
+     "r": 2
+    },
+    {
+     "q": "Ab wann ist die Praxis wieder geöffnet?",
+     "o": [
+      "ab dem 2. Januar",
+      "ab dem 3. Januar",
+      "ab dem 22. Dezember"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Rezepte kann man im Internet bestellen."
+    }
+   ]
+  },
+  {
+   "id": "h68",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch in der Apotheke",
+   "situation": "Eine Kundin spricht mit dem Apotheker.",
+   "text": "– Guten Tag, ich habe ein Rezept für meinen Sohn. – Danke. Das Antibiotikum haben wir leider gerade nicht da. Ich kann es bestellen, dann ist es heute ab 17 Uhr abholbereit. – Gut. Muss ich etwas zuzahlen? – Nein, für Kinder unter 18 gibt es keine Zuzahlung. Geben Sie ihm den Saft zweimal täglich, morgens und abends, und zwar sieben Tage lang, auch wenn es ihm schon besser geht.",
+   "fragen": [
+    {
+     "q": "Wann kann die Kundin das Medikament abholen?",
+     "o": [
+      "morgen früh",
+      "sofort",
+      "heute ab 17 Uhr"
+     ],
+     "r": 2
+    },
+    {
+     "q": "Wie oft soll der Sohn den Saft nehmen?",
+     "o": [
+      "dreimal täglich",
+      "einmal täglich",
+      "zweimal täglich"
+     ],
+     "r": 2
+    },
+    {
+     "rf": false,
+     "q": "Die Kundin muss fünf Euro zuzahlen."
+    }
+   ]
+  },
+  {
+   "id": "h69",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Durchsage im Krankenhaus",
+   "situation": "Sie hören eine Durchsage im Krankenhaus.",
+   "text": "Liebe Besucherinnen und Besucher, bitte beachten Sie: Wegen Bauarbeiten ist der Haupteingang ab sofort geschlossen. Bitte benutzen Sie den Eingang an der Parkstraße. Die Cafeteria im Erdgeschoss bleibt geöffnet. Die Besuchszeiten sind täglich von 14 bis 19 Uhr. Kinder unter 12 Jahren dürfen die Intensivstation nicht besuchen.",
+   "fragen": [
+    {
+     "q": "Welchen Eingang sollen Besucher benutzen?",
+     "o": [
+      "den Haupteingang",
+      "den Eingang an der Cafeteria",
+      "den Eingang an der Parkstraße"
+     ],
+     "r": 2
+    },
+    {
+     "rf": false,
+     "q": "Die Cafeteria ist geschlossen."
+    },
+    {
+     "q": "Wer darf nicht auf die Intensivstation?",
+     "o": [
+      "Besucher nach 14 Uhr",
+      "Kinder unter 12",
+      "alle Besucher"
+     ],
+     "r": 1
+    }
+   ]
+  },
+  {
+   "id": "h70",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Termin beim Zahnarzt",
+   "situation": "Ein Patient ruft beim Zahnarzt an.",
+   "text": "– Zahnarztpraxis Neumann, guten Tag. – Guten Tag, Petrov hier. Mir ist gestern eine Füllung herausgefallen, und jetzt tut der Zahn weh. – Oh, das ist unangenehm. Können Sie heute um 11:30 Uhr kommen? – Leider arbeite ich bis 14 Uhr. Geht es auch später? – Dann kommen Sie um 15:45 Uhr, wir schieben Sie dazwischen. Sie müssen vielleicht etwas warten. Bringen Sie bitte Ihre Versichertenkarte mit.",
+   "fragen": [
+    {
+     "q": "Warum ruft Herr Petrov an?",
+     "o": [
+      "Eine Füllung ist herausgefallen.",
+      "Er möchte einen Termin absagen.",
+      "Er braucht eine Zahnreinigung."
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wann hat er den Termin?",
+     "o": [
+      "um 15:45 Uhr",
+      "um 14 Uhr",
+      "um 11:30 Uhr"
+     ],
+     "r": 0
+    },
+    {
+     "rf": true,
+     "q": "Herr Petrov muss vielleicht warten."
+    }
+   ]
+  },
+  {
+   "id": "h71",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch im Bürgerbüro",
+   "situation": "Eine Frau möchte sich ummelden.",
+   "text": "– Guten Tag, ich bin umgezogen und möchte mich ummelden. – Haben Sie einen Termin? – Ja, um 10:20 Uhr. – Gut. Dann brauche ich Ihren Personalausweis und die Wohnungsgeberbestätigung von Ihrem Vermieter. – Oh, die Bestätigung habe ich zu Hause vergessen. – Dann kann ich die Ummeldung heute leider nicht machen. Buchen Sie bitte online einen neuen Termin. Die Ummeldung ist übrigens kostenlos.",
+   "fragen": [
+    {
+     "q": "Was hat die Frau vergessen?",
+     "o": [
+      "den Mietvertrag",
+      "die Wohnungsgeberbestätigung",
+      "den Personalausweis"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was soll die Frau jetzt tun?",
+     "o": [
+      "ihren Vermieter anrufen",
+      "online einen neuen Termin buchen",
+      "morgen ohne Termin kommen"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Die Ummeldung kostet Geld."
+    }
+   ]
+  },
+  {
+   "id": "h72",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachricht vom Jobcenter",
+   "situation": "Sie hören eine Nachricht auf Ihrer Mailbox.",
+   "text": "Guten Tag, Frau Iwanowa, hier ist Herr Kramer vom Jobcenter. Ich habe Ihren Weiterbewilligungsantrag bekommen, aber es fehlen noch die Kontoauszüge der letzten drei Monate. Bitte schicken Sie die Unterlagen bis zum 15. dieses Monats, sonst kann das Geld nicht pünktlich ausgezahlt werden. Sie können die Unterlagen auch über das Online-Portal hochladen. Bei Fragen erreichen Sie mich dienstags und donnerstags von 8 bis 12 Uhr.",
+   "fragen": [
+    {
+     "q": "Was fehlt noch?",
+     "o": [
+      "eine Geburtsurkunde",
+      "Kontoauszüge",
+      "der Mietvertrag"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Bis wann muss Frau Iwanowa die Unterlagen schicken?",
+     "o": [
+      "bis Ende des Monats",
+      "bis Dienstag",
+      "bis zum 15."
+     ],
+     "r": 2
+    },
+    {
+     "rf": true,
+     "q": "Man kann die Unterlagen auch online schicken."
+    }
+   ]
+  },
+  {
+   "id": "h73",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Beim Kinderarzt",
+   "situation": "Eine Mutter spricht mit der Kinderärztin.",
+   "text": "– Was fehlt Ihrer Tochter denn? – Sie hat seit zwei Tagen Fieber, fast 39 Grad, und sie isst nichts. – Ich höre mal die Lunge ab … Die Lunge ist frei. Es ist eine Mittelohrentzündung. Ich verschreibe Ihnen Ohrentropfen und einen Fiebersaft. Die Kleine sollte drei Tage zu Hause bleiben. – Brauche ich eine Bescheinigung für meinen Arbeitgeber? – Ja, ich stelle Ihnen eine Bescheinigung für die Krankenkasse aus, dann bekommen Sie Kinderkrankengeld.",
+   "fragen": [
+    {
+     "q": "Was hat die Tochter?",
+     "o": [
+      "eine Mittelohrentzündung",
+      "eine Lungenentzündung",
+      "eine Erkältung ohne Fieber"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wie lange soll das Kind zu Hause bleiben?",
+     "o": [
+      "drei Tage",
+      "eine Woche",
+      "zwei Tage"
+     ],
+     "r": 0
+    },
+    {
+     "rf": true,
+     "q": "Die Mutter bekommt eine Bescheinigung für die Krankenkasse."
+    }
+   ]
+  },
+  {
+   "id": "h74",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Radio: Grippewelle",
+   "situation": "Sie hören eine Meldung im Radio.",
+   "text": "Die Grippewelle hat unsere Region erreicht. Das Gesundheitsamt meldet in dieser Woche doppelt so viele Fälle wie in der Vorwoche. Besonders betroffen sind Kinder und ältere Menschen. Die Ärzte empfehlen, sich jetzt noch impfen zu lassen. Die Impfung ist für Menschen über 60 und für chronisch Kranke kostenlos. Wer Fieber hat, sollte zu Hause bleiben und zuerst telefonisch in der Praxis anrufen.",
+   "fragen": [
+    {
+     "q": "Wer ist besonders betroffen?",
+     "o": [
+      "nur Erwachsene",
+      "Kinder und ältere Menschen",
+      "Ärzte"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Die Impfung ist für alle kostenlos."
+    },
+    {
+     "q": "Was soll man bei Fieber zuerst tun?",
+     "o": [
+      "in der Praxis anrufen",
+      "sofort in die Praxis gehen",
+      "ins Krankenhaus fahren"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "h75",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch bei der Familienkasse",
+   "situation": "Ein Vater ruft bei der Familienkasse an.",
+   "text": "– Familienkasse, mein Name ist Vogel. – Guten Tag, Novak. Wir haben im Mai ein Baby bekommen und ich habe Kindergeld beantragt. Bis jetzt ist aber kein Geld gekommen. – Einen Moment, ich brauche Ihre Kindergeldnummer. … Ihr Antrag ist da, aber die Steuer-ID Ihres Kindes fehlt. – Die steht doch auf dem Brief vom Bundeszentralamt, oder? – Genau. Schicken Sie uns bitte eine Kopie. Das Geld wird dann rückwirkend ab Mai gezahlt.",
+   "fragen": [
+    {
+     "q": "Was fehlt im Antrag?",
+     "o": [
+      "die Geburtsurkunde",
+      "die Kontonummer",
+      "die Steuer-ID des Kindes"
+     ],
+     "r": 2
+    },
+    {
+     "rf": true,
+     "q": "Das Geld wird rückwirkend gezahlt."
+    },
+    {
+     "q": "Wann wurde das Baby geboren?",
+     "o": [
+      "im Mai",
+      "im Juni",
+      "im März"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "h76",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch mit dem Pflegedienst",
+   "situation": "Eine Tochter telefoniert mit dem Pflegedienst.",
+   "text": "– Pflegedienst Sonnenschein, guten Tag. – Guten Tag, hier ist Weber. Meine Mutter kommt nächste Woche aus dem Krankenhaus und braucht Hilfe beim Waschen und bei den Medikamenten. – Hat Ihre Mutter einen Pflegegrad? – Nein, noch nicht. – Dann stellen Sie bitte schnell einen Antrag bei der Pflegekasse. Wir können trotzdem schon kommen. Eine Kollegin besucht Ihre Mutter am Montag um 10 Uhr für ein Erstgespräch.",
+   "fragen": [
+    {
+     "q": "Wobei braucht die Mutter Hilfe?",
+     "o": [
+      "beim Einkaufen",
+      "beim Kochen",
+      "beim Waschen und bei den Medikamenten"
+     ],
+     "r": 2
+    },
+    {
+     "q": "Wo soll die Tochter einen Antrag stellen?",
+     "o": [
+      "im Krankenhaus",
+      "bei der Pflegekasse",
+      "beim Pflegedienst"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Das Erstgespräch ist am Montag."
+    }
+   ]
+  },
+  {
+   "id": "h77",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ansage: Wohngeldstelle",
+   "situation": "Sie hören eine Ansage der Stadtverwaltung.",
+   "text": "Herzlich willkommen bei der Wohngeldstelle der Stadt. Wegen der hohen Zahl an Anträgen beträgt die Bearbeitungszeit zurzeit etwa acht Wochen. Bitte sehen Sie von Nachfragen zum Stand Ihres Antrags ab. Neue Anträge können Sie online stellen oder in den Briefkasten am Rathaus werfen. Persönliche Beratung gibt es nur mit Termin, mittwochs von 13 bis 17 Uhr.",
+   "fragen": [
+    {
+     "q": "Wie lange dauert die Bearbeitung zurzeit?",
+     "o": [
+      "etwa vier Wochen",
+      "etwa acht Wochen",
+      "etwa zwei Wochen"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Man soll oft anrufen und nach dem Antrag fragen."
+    },
+    {
+     "q": "Wann gibt es persönliche Beratung?",
+     "o": [
+      "montags vormittags",
+      "mittwochs mit Termin",
+      "jeden Tag ohne Termin"
+     ],
+     "r": 1
+    }
+   ]
+  },
+  {
+   "id": "h78",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch bei der Polizei",
+   "situation": "Eine Frau meldet einen Diebstahl.",
+   "text": "– Guten Tag, ich möchte einen Diebstahl anzeigen. Mir wurde heute Morgen im Bus mein Portemonnaie gestohlen. – Was war denn drin? – Etwa 40 Euro, meine Bankkarte und mein Führerschein. – Haben Sie die Bankkarte schon sperren lassen? – Ja, sofort. – Gut. Ich nehme jetzt Ihre Anzeige auf. Mit der Bescheinigung können Sie einen neuen Führerschein beantragen.",
+   "fragen": [
+    {
+     "q": "Wo wurde das Portemonnaie gestohlen?",
+     "o": [
+      "im Supermarkt",
+      "im Bus",
+      "auf der Arbeit"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Die Frau hat die Bankkarte noch nicht gesperrt."
+    },
+    {
+     "q": "Wofür braucht die Frau die Bescheinigung?",
+     "o": [
+      "für die Bank",
+      "für einen neuen Führerschein",
+      "für die Versicherung"
+     ],
+     "r": 1
+    }
+   ]
+  },
+  {
+   "id": "h79",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Telefonat: Krankmeldung in der Pflege",
+   "situation": "Eine Pflegekraft ruft die Stationsleitung an.",
+   "text": "– Station 3, Schwester Anja. – Hallo Anja, hier ist Olga. Ich bin heute Nacht krank geworden, Magen-Darm. Ich kann den Spätdienst heute leider nicht machen. – Oh je, gute Besserung. Weißt du schon, wie lange? – Ich gehe gleich zum Arzt, dann melde ich mich. Wegen der Ansteckungsgefahr bleibe ich aber mindestens zwei Tage zu Hause. – Okay, ich frage Martin, ob er einspringen kann. Schick bitte die Krankmeldung an die Personalabteilung.",
+   "fragen": [
+    {
+     "q": "Welchen Dienst kann Olga nicht machen?",
+     "o": [
+      "den Frühdienst",
+      "den Spätdienst",
+      "den Nachtdienst"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wie lange bleibt Olga mindestens zu Hause?",
+     "o": [
+      "eine Woche",
+      "zwei Tage",
+      "einen Tag"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Olga soll die Krankmeldung an Anja schicken."
+    }
+   ]
+  },
+  {
+   "id": "h80",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Übergabe auf Station",
+   "situation": "Sie hören einen Teil einer Übergabe.",
+   "text": "Also, Zimmer 5: Herr Schuster, 78 Jahre, gestern an der Hüfte operiert. Er hat nachts über Schmerzen geklagt und um zwei Uhr ein Schmerzmittel bekommen. Der Verband ist trocken. Heute soll er zum ersten Mal mit der Physiotherapie aufstehen, um 10 Uhr. Bitte achtet darauf, dass er genug trinkt, er hat gestern nur einen Liter getrunken. Die Tochter ruft heute Nachmittag an.",
+   "fragen": [
+    {
+     "q": "Warum ist Herr Schuster im Krankenhaus?",
+     "o": [
+      "Er hat eine Lungenentzündung.",
+      "Er hatte einen Herzinfarkt.",
+      "Er wurde an der Hüfte operiert."
+     ],
+     "r": 2
+    },
+    {
+     "q": "Was passiert um 10 Uhr?",
+     "o": [
+      "Er steht mit der Physiotherapie auf.",
+      "Er bekommt ein Schmerzmittel.",
+      "Die Tochter kommt."
+     ],
+     "r": 0
+    },
+    {
+     "rf": false,
+     "q": "Herr Schuster hat gestern genug getrunken."
+    }
+   ]
+  },
+  {
+   "id": "h81",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Arbeitsschutz-Unterweisung",
+   "situation": "Eine Sicherheitsbeauftragte spricht zu neuen Mitarbeitern.",
+   "text": "Willkommen bei uns im Lager. Ein paar wichtige Regeln: Sicherheitsschuhe sind immer Pflicht, auch wenn Sie nur kurz durch die Halle gehen. Den Gabelstapler dürfen nur Kollegen mit Staplerschein fahren. Wenn Sie sich verletzen, auch nur leicht, melden Sie das bitte sofort Ihrem Schichtleiter und tragen Sie es ins Verbandbuch ein. Der Verbandskasten hängt neben der Tür zum Pausenraum. Die Ersthelfer erkennen Sie an der grünen Weste.",
+   "fragen": [
+    {
+     "q": "Wer darf den Gabelstapler fahren?",
+     "o": [
+      "nur Kollegen mit Staplerschein",
+      "nur der Schichtleiter",
+      "alle Mitarbeiter"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wo hängt der Verbandskasten?",
+     "o": [
+      "am Eingang",
+      "neben der Tür zum Pausenraum",
+      "im Büro"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Kleine Verletzungen muss man nicht melden."
+    }
+   ]
+  },
+  {
+   "id": "h82",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Anruf beim Betriebsarzt",
+   "situation": "Ein Mitarbeiter ruft beim Betriebsarzt an.",
+   "text": "– Betriebsärztlicher Dienst, Schulz. – Guten Tag, hier ist Kowalski aus der Logistik. Ich muss zur Vorsorgeuntersuchung für die Nachtarbeit. – Richtig, die ist alle drei Jahre Pflicht. Ich habe am Dienstag um 7:30 Uhr einen Termin frei. – Das passt, ich habe da Frühschicht. – Die Untersuchung gilt als Arbeitszeit. Kommen Sie bitte nüchtern, wir nehmen Blut ab, und bringen Sie Ihre Brille mit, falls Sie eine haben.",
+   "fragen": [
+    {
+     "q": "Wofür ist die Untersuchung?",
+     "o": [
+      "für den Staplerschein",
+      "nach einem Unfall",
+      "für die Nachtarbeit"
+     ],
+     "r": 2
+    },
+    {
+     "rf": false,
+     "q": "Herr Kowalski darf vorher frühstücken."
+    },
+    {
+     "q": "Wie oft ist die Untersuchung Pflicht?",
+     "o": [
+      "alle drei Jahre",
+      "jedes Jahr",
+      "alle fünf Jahre"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "h83",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch mit der Personalabteilung",
+   "situation": "Eine Mitarbeiterin fragt nach Elternzeit.",
+   "text": "– Frau Berger, ich bin schwanger und möchte fragen, wie das mit der Elternzeit funktioniert. – Herzlichen Glückwunsch! Zuerst gilt der Mutterschutz, sechs Wochen vor und acht Wochen nach der Geburt. Elternzeit müssen Sie spätestens sieben Wochen vorher schriftlich bei uns beantragen. – Kann ich in der Elternzeit Teilzeit arbeiten? – Ja, bis zu 32 Stunden pro Woche. Das Elterngeld beantragen Sie aber nicht bei uns, sondern bei der Elterngeldstelle der Stadt.",
+   "fragen": [
+    {
+     "q": "Wie lange dauert der Mutterschutz nach der Geburt?",
+     "o": [
+      "acht Wochen",
+      "sechs Wochen",
+      "sieben Wochen"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wo beantragt man das Elterngeld?",
+     "o": [
+      "bei der Elterngeldstelle der Stadt",
+      "bei der Personalabteilung",
+      "bei der Krankenkasse"
+     ],
+     "r": 0
+    },
+    {
+     "rf": true,
+     "q": "In der Elternzeit darf man bis zu 32 Stunden arbeiten."
+    }
+   ]
+  },
+  {
+   "id": "h84",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teambesprechung: Hygiene",
+   "situation": "Die Küchenchefin spricht mit dem Team.",
+   "text": "Kurz zur Hygiene: Nächste Woche kommt das Gesundheitsamt zur Kontrolle, wahrscheinlich unangemeldet. Bitte tragt immer Haarnetz und wascht vor jedem Arbeitsschritt die Hände. Die Kühlschranktemperaturen werden ab heute zweimal täglich ins Protokoll eingetragen, morgens und nachmittags. Lebensmittel ohne Datum werden sofort entsorgt. Wer krank ist, vor allem mit Durchfall, darf auf keinen Fall in die Küche.",
+   "fragen": [
+    {
+     "q": "Wer kommt nächste Woche?",
+     "o": [
+      "der neue Chef",
+      "das Gesundheitsamt",
+      "ein Lieferant"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wie oft wird die Temperatur kontrolliert?",
+     "o": [
+      "einmal pro Woche",
+      "zweimal täglich",
+      "einmal täglich"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Mitarbeiter mit Durchfall dürfen nicht in der Küche arbeiten."
+    }
+   ]
+  },
+  {
+   "id": "h85",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Anruf: Kunde mit Reklamation",
+   "situation": "Ein Kunde ruft im Sanitätshaus an.",
+   "text": "– Sanitätshaus Meyer, Sie sprechen mit Frau Ivanova. – Guten Tag, Lehmann hier. Ich habe letzte Woche einen Rollator für meine Mutter gekauft, aber die Bremse links funktioniert nicht richtig. – Das tut mir leid. Haben Sie den Kassenbon noch? – Ja. – Dann bringen Sie den Rollator bitte vorbei, wir reparieren ihn sofort oder tauschen ihn um. – Meine Mutter braucht ihn aber jeden Tag. – Dann bekommt sie so lange ein Leihgerät.",
+   "fragen": [
+    {
+     "q": "Was ist das Problem?",
+     "o": [
+      "Die Bremse funktioniert nicht.",
+      "Ein Rad fehlt.",
+      "Der Rollator ist zu klein."
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was bekommt die Mutter während der Reparatur?",
+     "o": [
+      "Geld zurück",
+      "ein Leihgerät",
+      "einen Gutschein"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Der Kunde hat keinen Kassenbon mehr."
+    }
+   ]
+  },
+  {
+   "id": "h86",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Durchsage im Betrieb",
+   "situation": "Sie hören eine Durchsage in der Firma.",
+   "text": "Achtung, eine Durchsage für alle Mitarbeiterinnen und Mitarbeiter: Am Donnerstag findet von 9 bis 10 Uhr eine Brandschutzübung statt. Wenn der Alarm ertönt, verlassen Sie bitte das Gebäude über die gekennzeichneten Fluchtwege und gehen Sie zum Sammelplatz auf dem Parkplatz Nord. Benutzen Sie nicht den Aufzug. Bitte nehmen Sie keine persönlichen Sachen mit.",
+   "fragen": [
+    {
+     "q": "Was passiert am Donnerstag?",
+     "o": [
+      "eine Betriebsversammlung",
+      "eine Brandschutzübung",
+      "eine Feier"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wo ist der Sammelplatz?",
+     "o": [
+      "in der Kantine",
+      "auf dem Parkplatz Nord",
+      "vor dem Haupteingang"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Man soll den Aufzug benutzen."
+    }
+   ]
+  },
+  {
+   "id": "h87",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch über Wiedereingliederung",
+   "situation": "Ein Mitarbeiter spricht mit seiner Vorgesetzten.",
+   "text": "– Schön, dass Sie wieder da sind, Herr Aydin. Wie geht es Ihrem Rücken? – Besser, danke. Aber der Arzt sagt, ich soll langsam anfangen. Er schlägt eine stufenweise Wiedereingliederung vor: zwei Wochen vier Stunden täglich, dann zwei Wochen sechs Stunden. – Das machen wir gern. In der Zeit heben Sie bitte nichts Schweres, Sie arbeiten erst mal am Computer in der Disposition. – Vielen Dank, das hilft mir sehr.",
+   "fragen": [
+    {
+     "q": "Wie viele Stunden arbeitet Herr Aydin am Anfang?",
+     "o": [
+      "acht Stunden täglich",
+      "sechs Stunden täglich",
+      "vier Stunden täglich"
+     ],
+     "r": 2
+    },
+    {
+     "q": "Wo arbeitet er zuerst?",
+     "o": [
+      "im Versand",
+      "in der Disposition",
+      "im Lager"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Herr Aydin soll in dieser Zeit nichts Schweres heben."
+    }
+   ]
+  },
+  {
+   "id": "h88",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Radio: Pflegereform",
+   "situation": "Sie hören einen Bericht im Radio.",
+   "text": "Ab dem kommenden Jahr sollen Pflegekräfte mehr Aufgaben selbstständig übernehmen dürfen, zum Beispiel bei der Wundversorgung. Das Gesundheitsministerium will damit die Ärzte entlasten und den Beruf attraktiver machen. Pflegeverbände begrüßen die Reform, kritisieren aber, dass es keine konkreten Pläne für eine bessere Bezahlung gibt. Außerdem fehlen bundesweit rund 100.000 Fachkräfte.",
+   "fragen": [
+    {
+     "q": "Was sollen Pflegekräfte künftig selbst machen dürfen?",
+     "o": [
+      "Rezepte schreiben",
+      "Wunden versorgen",
+      "Operationen machen"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was kritisieren die Pflegeverbände?",
+     "o": [
+      "Es gibt keine Pläne für mehr Geld.",
+      "Die Ärzte haben zu viel Arbeit.",
+      "Die Reform kommt zu spät."
+     ],
+     "r": 0
+    },
+    {
+     "rf": true,
+     "q": "Laut Bericht fehlen etwa 100.000 Fachkräfte."
+    }
+   ]
+  },
+  {
+   "id": "h89",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Anruf bei der Krankenkasse",
+   "situation": "Eine Mitarbeiterin ruft ihre Krankenkasse an.",
+   "text": "– Krankenkasse Nord, guten Tag. – Guten Tag, ich bin seit fünf Wochen krank und mein Arbeitgeber hat gesagt, dass ich ab der siebten Woche Krankengeld bekomme. Was muss ich tun? – Wichtig ist, dass Ihre Arbeitsunfähigkeit ohne Lücke bescheinigt ist. Die Bescheinigungen schickt Ihre Praxis inzwischen elektronisch an uns. Wir schicken Ihnen außerdem einen Fragebogen, den Sie bitte ausgefüllt zurücksenden. Das Krankengeld beträgt ungefähr 70 Prozent Ihres Bruttolohns.",
+   "fragen": [
+    {
+     "q": "Ab wann bekommt sie Krankengeld?",
+     "o": [
+      "ab der siebten Woche",
+      "ab dem ersten Tag",
+      "ab der fünften Woche"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was soll die Frau zurückschicken?",
+     "o": [
+      "einen Fragebogen",
+      "ihre Lohnabrechnung",
+      "ihre Versichertenkarte"
+     ],
+     "r": 0
+    },
+    {
+     "rf": false,
+     "q": "Das Krankengeld beträgt den vollen Lohn."
+    }
+   ]
+  },
+  {
+   "id": "h90",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch bei der Ausländerbehörde",
+   "situation": "Ein Mann möchte seine Aufenthaltserlaubnis verlängern.",
+   "text": "– Guten Tag, meine Aufenthaltserlaubnis läuft in sechs Wochen ab. – Gut, dass Sie rechtzeitig kommen. Ich brauche Ihren Pass, ein aktuelles biometrisches Foto, Ihren Arbeitsvertrag und die letzten drei Gehaltsabrechnungen. – Das Foto habe ich nicht dabei. – Das können Sie nachreichen. Die neue Karte wird in Berlin hergestellt und ist in etwa vier bis sechs Wochen fertig. Sie bekommen heute eine Fiktionsbescheinigung, damit Sie bis dahin weiter arbeiten dürfen.",
+   "fragen": [
+    {
+     "q": "Was hat der Mann nicht dabei?",
+     "o": [
+      "seinen Arbeitsvertrag",
+      "seinen Pass",
+      "ein Foto"
+     ],
+     "r": 2
+    },
+    {
+     "q": "Wann ist die neue Karte fertig?",
+     "o": [
+      "sofort",
+      "in einer Woche",
+      "in etwa vier bis sechs Wochen"
+     ],
+     "r": 2
+    },
+    {
+     "rf": true,
+     "q": "Der Mann darf bis zur neuen Karte weiter arbeiten."
+    }
+   ]
+  },
+  {
+   "id": "h91",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Mailbox: Termin abgesagt",
+   "situation": "Sie hören eine Nachricht auf Ihrer Mailbox.",
+   "text": "Hallo Frau Iwanowa, hier ist die Physiotherapiepraxis Bewegt. Leider ist unsere Kollegin Frau Ott morgen krank, deshalb müssen wir Ihren Termin um 17 Uhr absagen. Wir können Ihnen Freitag um 8 Uhr oder Montag um 18 Uhr anbieten. Bitte rufen Sie uns zurück. Denken Sie daran, dass auf Ihrem Rezept noch drei Behandlungen offen sind und das Rezept Ende des Monats abläuft.",
+   "fragen": [
+    {
+     "q": "Warum wird der Termin abgesagt?",
+     "o": [
+      "Die Praxis hat Urlaub.",
+      "Die Therapeutin ist krank.",
+      "Frau Iwanowa hat abgesagt."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Welche neuen Termine gibt es?",
+     "o": [
+      "morgen 17 Uhr",
+      "Freitag 18 Uhr oder Montag 8 Uhr",
+      "Freitag 8 Uhr oder Montag 18 Uhr"
+     ],
+     "r": 2
+    },
+    {
+     "rf": true,
+     "q": "Auf dem Rezept sind noch drei Behandlungen offen."
+    }
+   ]
+  },
+  {
+   "id": "h92",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Im Wartezimmer",
+   "situation": "Zwei Personen unterhalten sich im Wartezimmer.",
+   "text": "– Entschuldigung, sind Sie auch beim Doktor Fuchs? – Nein, ich warte auf die Blutabnahme. Die macht heute die Schwester. – Ach so. Ich warte schon seit einer Stunde. Ich hatte um neun einen Termin. – Montags ist es immer sehr voll. Ich komme lieber mittwochs, da gibt es auch eine offene Sprechstunde ohne Termin. – Danke für den Tipp. Aber mittwochs arbeite ich leider immer.",
+   "fragen": [
+    {
+     "q": "Worauf wartet die Frau?",
+     "o": [
+      "auf ein Rezept",
+      "auf die Blutabnahme",
+      "auf Doktor Fuchs"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wann gibt es eine offene Sprechstunde?",
+     "o": [
+      "jeden Tag",
+      "montags",
+      "mittwochs"
+     ],
+     "r": 2
+    },
+    {
+     "rf": false,
+     "q": "Der Mann kann mittwochs gut kommen."
+    }
+   ]
+  }
+ ],
+ "notiz": [
+  {
+   "id": "n23",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Anruf: Patientin verschiebt Termin",
+   "situation": "Sie arbeiten am Empfang einer Physiotherapiepraxis. Eine Patientin ruft an. Notieren Sie die Informationen für die Therapeutin.",
+   "audio": "Guten Tag, hier ist Brigitte Sommer. Ich habe morgen um 14 Uhr einen Termin bei Herrn Wolf. Leider muss meine Tochter ins Krankenhaus und ich muss auf die Enkel aufpassen. Könnte ich den Termin auf Donnerstag verschieben, am liebsten am Vormittag? Sie erreichen mich unter 0 3 5 1, 4 4 7 2 1 9. Ach ja, und bitte sagen Sie Herrn Wolf, dass die Schulter seit der letzten Behandlung schon viel besser ist.",
+   "felder": [
+    {
+     "l": "Patientin",
+     "a": [
+      "sommer"
+     ]
+    },
+    {
+     "l": "Alter Termin",
+     "a": [
+      "14"
+     ]
+    },
+    {
+     "l": "Neuer Wunsch",
+     "a": [
+      "donnerstag"
+     ]
+    },
+    {
+     "l": "Telefon",
+     "a": [
+      "447219"
+     ]
+    },
+    {
+     "l": "Info für Therapeut",
+     "a": [
+      "schulter"
+     ]
+    }
+   ],
+   "m": "Für Herrn Wolf\nPatientin: Brigitte Sommer\nTermin morgen 14 Uhr abgesagt (Tochter im Krankenhaus)\nWunsch: Donnerstag, möglichst vormittags\nRückruf: 0351 447219\nInfo: Schulter seit letzter Behandlung viel besser"
+  },
+  {
+   "id": "n24",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Anruf: Angehöriger im Pflegeheim",
+   "situation": "Sie arbeiten im Pflegeheim. Der Sohn einer Bewohnerin ruft an. Notieren Sie das Wichtigste für die Wohnbereichsleitung.",
+   "audio": "Hallo, hier spricht Thomas Krüger, der Sohn von Frau Krüger aus Zimmer 214. Ich komme am Samstag um 15 Uhr und möchte meine Mutter zum Kaffeetrinken abholen, wir sind gegen 18 Uhr zurück. Bitte geben Sie mir ihre Tabletten für den Nachmittag mit. Außerdem bringe ich ihr neue Hausschuhe, Größe 38. Und können Sie mir bitte sagen, ob die Rechnung für die Fußpflege schon gekommen ist? Meine Nummer: 0 1 7 0, 5 5 3 2 8 8 1.",
+   "felder": [
+    {
+     "l": "Anrufer",
+     "a": [
+      "krüger"
+     ]
+    },
+    {
+     "l": "Zimmer",
+     "a": [
+      "214"
+     ]
+    },
+    {
+     "l": "Abholung",
+     "a": [
+      "samstag"
+     ]
+    },
+    {
+     "l": "Mitgeben",
+     "a": [
+      "tabletten"
+     ]
+    },
+    {
+     "l": "Rückruf",
+     "a": [
+      "5532881"
+     ]
+    }
+   ],
+   "m": "Für die Wohnbereichsleitung\nAnrufer: Thomas Krüger (Sohn von Frau Krüger, Zi. 214)\nSamstag 15–18 Uhr Ausflug zum Kaffeetrinken\nBitte Tabletten für den Nachmittag mitgeben\nBringt neue Hausschuhe (Gr. 38)\nFrage: Rechnung Fußpflege schon da? Rückruf 0170 5532881"
+  },
+  {
+   "id": "n25",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Anruf vom Kinderarzt",
+   "situation": "Die Praxis des Kinderarztes ruft an. Notieren Sie die Informationen für Ihren Mann.",
+   "audio": "Guten Tag, hier ist die Praxis Dr. Beck. Die Laborergebnisse von Ihrem Sohn Leon sind da. Es ist alles in Ordnung, nur der Eisenwert ist etwas niedrig. Der Doktor möchte Leon in vier Wochen noch einmal sehen, am Dienstag, den 9. Dezember, um 16:30 Uhr. Bis dahin soll er jeden Morgen einen Löffel Eisensaft nehmen. Das Rezept liegt bei uns am Empfang. Bitte bringen Sie zum Termin das gelbe Untersuchungsheft mit.",
+   "felder": [
+    {
+     "l": "Kind",
+     "a": [
+      "leon"
+     ]
+    },
+    {
+     "l": "Ergebnis",
+     "a": [
+      "eisen"
+     ]
+    },
+    {
+     "l": "Nächster Termin",
+     "a": [
+      "16:30",
+      "9.12"
+     ]
+    },
+    {
+     "l": "Medikament",
+     "a": [
+      "eisensaft"
+     ]
+    },
+    {
+     "l": "Mitbringen",
+     "a": [
+      "heft"
+     ]
+    }
+   ],
+   "m": "Für Andrej\nAnruf Praxis Dr. Beck: Laborwerte von Leon fast alle okay, nur Eisen etwas niedrig\nJeden Morgen 1 Löffel Eisensaft (Rezept am Empfang abholen)\nKontrolle: Di, 9.12., 16:30 Uhr\nGelbes Untersuchungsheft mitnehmen!"
+  },
+  {
+   "id": "n26",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Nachricht vom Bürgeramt",
+   "situation": "Das Bürgeramt hat Ihnen auf die Mailbox gesprochen. Notieren Sie die wichtigsten Informationen.",
+   "audio": "Guten Tag, hier ist das Bürgeramt Mitte, Frau Hahn. Ihr neuer Personalausweis ist fertig. Sie können ihn ab Montag abholen, montags bis freitags von 8 bis 13 Uhr, donnerstags auch bis 18 Uhr. Sie brauchen dafür keinen Termin. Bitte bringen Sie Ihren alten Ausweis und den Abholschein mit. Die PIN-Unterlagen bekommen Sie per Post. Unser Gebäude ist in der Karl-Marx-Straße 25, Zimmer 012.",
+   "felder": [
+    {
+     "l": "Was ist fertig",
+     "a": [
+      "ausweis"
+     ]
+    },
+    {
+     "l": "Abholung ab",
+     "a": [
+      "montag"
+     ]
+    },
+    {
+     "l": "Donnerstag bis",
+     "a": [
+      "18"
+     ]
+    },
+    {
+     "l": "Mitbringen",
+     "a": [
+      "abholschein"
+     ]
+    },
+    {
+     "l": "Adresse",
+     "a": [
+      "karl-marx"
+     ]
+    }
+   ],
+   "m": "Notiz: Personalausweis fertig!\nAbholen ab Montag, Mo–Fr 8–13 Uhr, Do bis 18 Uhr, ohne Termin\nMitnehmen: alten Ausweis + Abholschein\nPIN kommt per Post\nBürgeramt Mitte, Karl-Marx-Str. 25, Zi. 012"
+  }
+ ]
+}

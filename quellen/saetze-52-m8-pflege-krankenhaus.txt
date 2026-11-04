@@ -1,0 +1,55 @@
+# M8 Gesundheit B1/B2: Krankenhaus, Pflege, Gesundheitssystem
+Die Patientin *wird* morgen um acht Uhr operiert.|Пациентку будут оперировать завтра в восемь.|B1|Passiv Präsens: wird … operiert.|Gesundheit
+Vor der Operation *müssen* Sie die Einverständniserklärung unterschreiben.|Перед операцией вы должны подписать согласие.|B2|Angabe auf Position 1 → Modalverb.|Gesundheit
+Der Eingriff *wird* ambulant durchgeführt.|Вмешательство проводится амбулаторно.|B2|Passiv: wird … durchgeführt.|Gesundheit
+Nach der Narkose *dürfen* Sie nicht Auto fahren.|После наркоза вам нельзя водить машину.|B2|Angabe auf Position 1 → Modalverb.|Gesundheit
+Die Entlassung *ist* für Freitag geplant.|Выписка запланирована на пятницу.|B2|Zustandspassiv: ist geplant.|Gesundheit
+Den Arztbrief *geben* Sie bitte Ihrem Hausarzt.|Медицинское заключение отдайте, пожалуйста, вашему терапевту.|B2|Objekt auf Position 1 → Verb.|Gesundheit
+Herr Braun *wird* alle zwei Stunden gelagert, damit er keinen Dekubitus bekommt.|Господина Брауна переворачивают каждые два часа, чтобы не было пролежней.|B2|Passiv + damit-Satz.|Pflege
+Die Vitalzeichen *werden* jeden Morgen gemessen und dokumentiert.|Жизненные показатели измеряют и документируют каждое утро.|B2|Passiv Präsens mit zwei Partizipien.|Pflege
+Frau Klein *trinkt* zu wenig, deshalb führen wir ein Trinkprotokoll.|Госпожа Кляйн пьёт слишком мало, поэтому мы ведём протокол.|B2|deshalb: Verb auf Position 2.|Pflege
+Bei Sturzgefahr *bleibt* das Bettgitter oben.|При опасности падения боковой поручень остаётся поднятым.|B2|Angabe auf Position 1 → Verb.|Pflege
+Ich *habe* den Verband gewechselt und die Wunde dokumentiert.|Я сменила повязку и задокументировала рану.|B1|Perfekt mit zwei Partizipien.|Pflege
+Die Bewohnerin *braucht* Hilfe bei der Körperpflege.|Жительнице нужна помощь в гигиене.|B1|brauchen + Akkusativ.|Pflege
+Vor jedem Patientenkontakt *werden* die Hände desinfiziert.|Перед каждым контактом с пациентом руки дезинфицируются.|B2|Passiv; Angabe auf Position 1.|Pflege
+Es *ist* wichtig, dass Bewohner mit Demenz einen festen Tagesablauf haben.|Важно, чтобы у жителей с деменцией был чёткий распорядок дня.|B2|dass: Verb am Ende.|Pflege
+Wenn ein Bewohner stürzt, *muss* sofort die Pflegefachkraft informiert werden.|Если житель упал, нужно сразу сообщить специалисту по уходу.|B2|Passiv mit Modalverb nach wenn-Satz.|Pflege
+Die Übergabe *findet* um 13:45 Uhr im Dienstzimmer statt.|Передача смены проходит в 13:45 в ординаторской.|B1|stattfinden: trennbar.|Pflege
+Bei der Übergabe *berichte* ich über Auffälligkeiten.|При передаче смены я сообщаю об особенностях.|B2|berichten über + Akkusativ.|Pflege
+Der Medizinische Dienst *kommt* nächste Woche zur Begutachtung.|Медицинская служба придёт на следующей неделе для освидетельствования.|B2|Hauptsatz: Verb auf Platz 2.|Pflege
+Mit Pflegegrad 2 *bekommt* man Pflegegeld oder Sachleistungen.|При второй степени ухода получают пособие или услуги.|B2|Angabe auf Position 1 → Verb.|Pflege
+Den Pflegegrad *beantragt* man bei der Pflegekasse.|Степень ухода оформляют в кассе страхования ухода.|B2|Objekt auf Position 1 → Verb.|Pflege
+Ein Pflegedienst *kommt* zweimal täglich zu meiner Großmutter.|Служба ухода приходит к бабушке два раза в день.|B1|Hauptsatz: Verb auf Platz 2.|Pflege
+Während unseres Urlaubs *ist* Opa in der Kurzzeitpflege.|Во время нашего отпуска дедушка находится в кратковременном уходе.|B2|während + Genitiv auf Position 1.|Pflege
+Mit dem Hausnotruf *kann* sie jederzeit Hilfe rufen.|С помощью тревожной кнопки она может в любой момент вызвать помощь.|B2|Angabe auf Position 1 → Modalverb.|Pflege
+In Deutschland *ist* jeder verpflichtet, eine Krankenversicherung zu haben.|В Германии каждый обязан иметь медстраховку.|B2|verpflichtet + zu-Infinitiv.|Gesundheit
+Gesetzlich Versicherte *zahlen* einen Beitrag, der vom Einkommen abhängt.|Застрахованные по закону платят взнос, который зависит от дохода.|B2|Relativsatz: der … abhängt.|Gesundheit
+Kinder *sind* in der Familienversicherung kostenlos mitversichert.|Дети бесплатно застрахованы в семейной страховке.|B2|Zustandspassiv: sind mitversichert.|Gesundheit
+Viele Ärzte *nehmen* keine neuen Patienten mehr auf.|Многие врачи больше не принимают новых пациентов.|B2|aufnehmen: trennbar; kein … mehr.|Gesundheit
+Auf einen Termin beim Facharzt *wartet* man oft mehrere Wochen.|На приём к специалисту часто ждут несколько недель.|B2|warten auf; Angabe auf Position 1.|Gesundheit
+Über die Terminservicestelle *bekommt* man schneller einen Termin.|Через сервис записи можно быстрее получить приём.|B2|Angabe auf Position 1 → Verb.|Gesundheit
+In ländlichen Regionen *fehlen* Hausärzte.|В сельской местности не хватает терапевтов.|B2|Subjekt nach dem Verb: Hausärzte fehlen.|Gesellschaft
+Wegen des Fachkräftemangels *werden* Pflegekräfte aus dem Ausland angeworben.|Из-за нехватки специалистов персонал по уходу набирают за границей.|B2|wegen + Genitiv; Passiv.|Pflege
+Ausländische Abschlüsse *müssen* zuerst anerkannt werden.|Иностранные дипломы сначала должны быть признаны.|B2|Passiv mit Modalverb.|Arbeit
+Nach der Kenntnisprüfung *darf* sie als Pflegefachkraft arbeiten.|После экзамена на знания она может работать специалистом по уходу.|B2|Angabe auf Position 1 → Modalverb.|Arbeit
+Viele Pflegekräfte *leiden* unter Schichtarbeit und Zeitdruck.|Многие работники по уходу страдают от сменной работы и нехватки времени.|B2|leiden unter + Dativ.|Pflege
+Damit die Pflege besser wird, *braucht* es mehr Personal.|Чтобы уход стал лучше, нужно больше персонала.|B2|damit-Satz zuerst → dann sofort das Verb.|Pflege
+Vorsorgeuntersuchungen *helfen*, Krankheiten früh zu erkennen.|Профилактические осмотры помогают рано выявлять болезни.|B2|helfen + zu-Infinitiv.|Gesundheit
+Wer sich regelmäßig bewegt, *lebt* gesünder.|Кто регулярно двигается, живёт здоровее.|B2|wer-Satz zuerst → dann sofort das Verb.|Gesundheit
+Stress am Arbeitsplatz *kann* zu Burnout führen.|Стресс на работе может привести к выгоранию.|B2|führen zu + Dativ.|Gesundheit
+Viele Schichtarbeiter *haben* Schlafstörungen.|Многие сменные работники страдают нарушениями сна.|B2|Hauptsatz: Verb auf Platz 2.|Arbeit
+Es *wäre* sinnvoll, mehr Geld in die Prävention zu investieren.|Было бы разумно вкладывать больше денег в профилактику.|B2|Konjunktiv II + zu-Infinitiv.|Meinung
+Meiner Meinung nach *sollte* das Rauchen in der Öffentlichkeit verboten werden.|По-моему, курение в общественных местах следует запретить.|B2|Meinung auf Position 1 → Modalverb; Passiv.|Meinung
+Ich *bin* der Ansicht, dass Pflegekräfte besser bezahlt werden müssen.|Я считаю, что работникам по уходу нужно платить больше.|B2|dass + Passiv mit Modalverb.|Meinung
+Telemedizin *bietet* Chancen, besonders auf dem Land.|Телемедицина даёт возможности, особенно в сельской местности.|B2|Hauptsatz: Verb auf Platz 2.|Gesundheit
+Durch die Online-Sprechstunde *spart* man Zeit.|Благодаря онлайн-приёму экономишь время.|B2|durch + Akkusativ auf Position 1.|Gesundheit
+Die elektronische Patientenakte *soll* den Austausch zwischen Ärzten erleichtern.|Электронная медкарта должна облегчить обмен между врачами.|B2|sollen = Ziel/Plan.|Gesundheit
+Kritiker *befürchten*, dass die Daten nicht sicher sind.|Критики опасаются, что данные не защищены.|B2|befürchten, dass: Verb am Ende.|Gesellschaft
+Das E-Rezept *wird* mit der Gesundheitskarte in der Apotheke eingelöst.|Электронный рецепт отоваривают в аптеке по карте медстрахования.|B2|Passiv Präsens.|Gesundheit
+Wäre ich früher zum Arzt gegangen, *hätte* man die Entzündung schneller behandeln können.|Если бы я пошла к врачу раньше, воспаление можно было бы вылечить быстрее.|B2|Konjunktiv II Vergangenheit ohne wenn.|Gesundheit
+Die Ärztin *riet* mir, mich zu schonen.|Врач посоветовала мне беречь себя.|B2|raten + zu-Infinitiv.|Gesundheit
+Ich *habe* mich entschieden, mit dem Rauchen aufzuhören.|Я решила бросить курить.|B2|sich entscheiden + zu-Infinitiv.|Gesundheit
+Seit ich jeden Tag spazieren gehe, *schlafe* ich besser.|С тех пор как я каждый день гуляю, я сплю лучше.|B2|seit-Satz zuerst → dann sofort das Verb.|Gesundheit
+Obwohl er Schmerzen hatte, *ging* er zur Arbeit.|Хотя у него были боли, он пошёл на работу.|B2|obwohl-Satz zuerst → dann sofort das Verb.|Arbeit
+Wer krank zur Arbeit geht, *steckt* oft die Kollegen an.|Кто ходит на работу больным, часто заражает коллег.|B2|wer-Satz zuerst; anstecken trennbar.|Arbeit
+Die Kosten für die Brille *werden* von der Kasse nur teilweise übernommen.|Расходы на очки касса покрывает лишь частично.|B2|Passiv mit von + Dativ.|Gesundheit
