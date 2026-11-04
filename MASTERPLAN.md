@@ -77,25 +77,28 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 
 Die App soll eine **reine Lernapp** werden: später auch C1/C2 und weitere Ausgangssprachen. Reihenfolge: erst Phase 1 abschließen, dann Phase 2, dann Phase 3. Vor jedem Umbau Mario fragen.
 
-**Phase 2 – Mehrere Ausgangssprachen**
+**Phase 2 – Mehrere Ausgangssprachen (M18–M24+)**
 
 | # | Meilenstein | Inhalt |
 |---|---|---|
 | M18 | Datenstruktur mehrsprachig | Übersetzungen nicht mehr nur im Feld `ru`, sondern pro Sprache (z. B. `ru`, `uk`, `en`, `ar`, `tr`). Alte Felder bleiben lesbar, localStorage-Schlüssel bleiben gleich. Neue Einstellung „Meine Sprache“. Die rund 23 festen Stellen mit Russisch in `web/app.js` umbauen. |
 | M19 | Ukrainisch | Alle Wörter, Sätze, Aufgabenstellungen und Regeln ins Ukrainische (≈ 7.000 Wörter + 3.900 Sätze + Aufgaben → in Teilpaketen). |
-| M20 | Weitere Sprache 1 | Vorschlag: Englisch (als Brückensprache für viele Lernende) |
-| M21 | Weitere Sprache 2 | Vorschlag: Arabisch (Achtung: Schrift von rechts nach links, Layout anpassen) oder Türkisch |
+| M20 | Englisch | Brückensprache für viele Lernende |
+| M21 | Arabisch | deckt auch Syrien, Irak usw. ab; Schrift von rechts nach links → Layout anpassen |
+| M22 | Türkisch | |
+| M23 | Dari (Afghanistan) | Persisch, ebenfalls rechts nach links; Paschtu optional später |
+| M24+ | weitere Sprachen nach Bedarf | |
 
-Hinweis: Jede neue Sprache bedeutet Übersetzungen für den gesamten Inhalt. Das ist pro Sprache etwa so viel Arbeit wie 3–4 Inhalts-Meilensteine. Ukrainisch lohnt sich, weil in Deutschland sehr viele Ukrainerinnen und Ukrainer Deutsch lernen und viele DTZ/DTB machen.
+Hinweis: Jede neue Sprache bedeutet Übersetzungen für den gesamten Inhalt. Das ist pro Sprache etwa so viel Arbeit wie 3–4 Inhalts-Meilensteine. Reihenfolge laut Mario (04.11.2026): Ukrainisch, Englisch, Arabisch, Türkisch, Dari, weitere. Ukrainisch lohnt sich, weil in Deutschland sehr viele Ukrainerinnen und Ukrainer Deutsch lernen und viele DTZ/DTB machen.
 
-**Phase 3 – C1 und C2**
+**Phase 3 – C1 und C2 (später)**
 
 | # | Meilenstein | Inhalt |
 |---|---|---|
-| M22 | Recherche C1/C2 | Prüfungsformate klären (z. B. Goethe-Zertifikat C1/C2, telc C1, DTB C1) – vor dem Bau mit Mario festlegen, welche Prüfung |
-| M23–M26 | C1-Inhalte | Wortschatz (abstrakt, akademisch, Fachsprache), komplexe Grammatik (Nominalstil, Partizipialattribute, Konjunktiv I), Prüfungsaufgaben im neuen Format |
-| M27–M29 | C2-Inhalte | Stilistik, Redewendungen, Textproduktion auf hohem Niveau |
-| M30 | Niveauwahl | In den Einstellungen Niveau A2–C2 wählbar, Grundkurs und Prüfungsbereich passen sich an |
+| M25 | Recherche C1/C2 | Prüfungsformate klären (z. B. Goethe-Zertifikat C1/C2, telc C1, DTB C1) – vor dem Bau mit Mario festlegen, welche Prüfung |
+| M26–M29 | C1-Inhalte | Wortschatz (abstrakt, akademisch, Fachsprache), komplexe Grammatik (Nominalstil, Partizipialattribute, Konjunktiv I), Prüfungsaufgaben im neuen Format |
+| M30–M32 | C2-Inhalte | Stilistik, Redewendungen, Textproduktion auf hohem Niveau |
+| M33 | Niveauwahl | In den Einstellungen Niveau A2–C2 wählbar, Grundkurs und Prüfungsbereich passen sich an |
 
 ---
 
