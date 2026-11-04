@@ -61,14 +61,14 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 | M9 | Inhaltspaket 6 | Gesellschaft, Medien, Umwelt · Vortrag und Diskussion | ✅ fertig (Wörter → 4.716, Sätze → 2.671, Prüfung → 377) |
 | M10 | Inhaltspaket 7 | Wohnen, Familie, Freizeit · Lösung finden, Fragen, Forum | ✅ fertig (Wörter → 4.974, Sätze → 2.880, Prüfung → 407) |
 | M11 | Inhaltspaket 8 | Grammatik-Drill zu allen 12 Themen · DTB-E-Mails und Telefonnotizen | ✅ fertig (Wörter → 5.148, Sätze → 3.094, Prüfung → 437) |
-| M12 | Inhaltspaket 9 | Verben, Adjektive, Redemittel · gemischte Prüfungsaufgaben | ⏳ als Nächstes |
-| M13 | Inhaltspaket 10 | Wortfamilien, Nomen-Verb-Verbindungen · Sprechen DTZ | offen |
+| M12 | Inhaltspaket 9 | Verben, Adjektive, Redemittel · gemischte Prüfungsaufgaben | ✅ fertig (Wörter → 5.457, Sätze → 3.285, Prüfung → 467) |
+| M13 | Inhaltspaket 10 | Wortfamilien, Nomen-Verb-Verbindungen · Sprechen DTZ | ⏳ als Nächstes |
 | M14 | Inhaltspaket 11 | Lücken füllen bei Sätzen und Prüfung, bis die Zielzahlen erreicht sind | offen |
 | M15 | Wörter-Paket A | +450 Wörter: Fachwortschatz (Pflege, Technik, Logistik, Verwaltung), Adjektive, Adverbien – Kandidaten vorab gegen Bestand prüfen | offen |
 | M16 | Wörter-Paket B | +450 Wörter: Restlücke bis ≈ 7.000, Schwerpunkt B1/B2 | offen |
 | M17 | Abschluss Phase 1 | Qualitätscheck (Dubletten, Verbmarkierung, Übersetzungen, Test im Browser), Zahlen prüfen | offen |
 
-**Stand:** 11 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 5.148 Wörter · 3.094 Sätze · 72 Schreibaufgaben · 437 Prüfungsaufgaben.
+**Stand:** 12 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 5.457 Wörter · 3.285 Sätze · 72 Schreibaufgaben · 467 Prüfungsaufgaben.
 
 
 **Warum 17 statt 15:** Gängige Wörter sind inzwischen fast alle vorhanden (oft 30–60 % Dubletten). M5–M11 haben je nur 170–340 statt 400 neue Wörter gebracht. Mario hat am 04.11.2026 zugestimmt, mehr Meilensteine einzuplanen.

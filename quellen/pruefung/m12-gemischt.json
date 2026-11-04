@@ -1,0 +1,1259 @@
+{
+ "sb": [
+  {
+   "id": "s70",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Mitteilung an das Team",
+   "text": "Liebe Kolleginnen und Kollegen,\n\nwie ihr wisst, geht Frau Lange Ende März in Rente. Wir möchten uns {{1}} ihr mit einer kleinen Feier verabschieden. Die Feier findet am 28. März {{2}} 15 Uhr im Pausenraum statt. Wer etwas zum Buffet beitragen möchte, {{3}} sich bitte in die Liste am Schwarzen Brett ein. Für das Geschenk sammeln wir Geld; jeder gibt, {{4}} er möchte. Bitte verratet Frau Lange nichts, {{5}} es soll eine Überraschung sein. Wir freuen uns auf {{6}} Kommen!\n\nViele Grüße\nEuer Organisationsteam",
+   "gaps": [
+    {
+     "o": [
+      "von",
+      "mit",
+      "bei"
+     ],
+     "r": 0,
+     "k": "Verb mit Präposition",
+     "e": "sich verabschieden von + Dativ."
+    },
+    {
+     "o": [
+      "um",
+      "am",
+      "im"
+     ],
+     "r": 0,
+     "k": "Zeit",
+     "e": "um 15 Uhr."
+    },
+    {
+     "o": [
+      "tragen",
+      "trage",
+      "trägt"
+     ],
+     "r": 2,
+     "k": "Konjugation",
+     "e": "wer … trägt sich ein (3. Person)."
+    },
+    {
+     "o": [
+      "wie",
+      "das",
+      "was"
+     ],
+     "r": 2,
+     "k": "Relativsatz",
+     "e": "so viel, was er möchte → was."
+    },
+    {
+     "o": [
+      "denn",
+      "obwohl",
+      "weil"
+     ],
+     "r": 0,
+     "k": "Konnektor",
+     "e": "denn: normale Wortstellung danach."
+    },
+    {
+     "o": [
+      "euer",
+      "eure",
+      "euch"
+     ],
+     "r": 0,
+     "k": "Possessivartikel",
+     "e": "das Kommen → euer Kommen."
+    }
+   ]
+  },
+  {
+   "id": "s71",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Bitte um Rückruf",
+   "text": "Sehr geehrter Herr Fischer,\n\nich habe heute Vormittag mehrmals versucht, Sie telefonisch zu {{1}}. Es geht um die Bestellung, {{2}} wir am Montag aufgegeben haben. Leider ist uns ein Fehler passiert: Statt 50 Packungen benötigen wir {{3}} 500. Könnten Sie die Menge bitte noch ändern, {{4}} die Ware noch nicht verschickt wurde? Falls das nicht möglich ist, bitten wir um {{5}} kurze Nachricht. Ich bin heute {{6}} 17 Uhr im Büro erreichbar.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "erreicht",
+      "erreichen",
+      "erreichte"
+     ],
+     "r": 1,
+     "k": "zu-Infinitiv",
+     "e": "versuchen + zu + Infinitiv."
+    },
+    {
+     "o": [
+      "der",
+      "die",
+      "den"
+     ],
+     "r": 1,
+     "k": "Relativpronomen",
+     "e": "die Bestellung (Akk.) → die."
+    },
+    {
+     "o": [
+      "eigen",
+      "eigentlich",
+      "eigene"
+     ],
+     "r": 1,
+     "k": "Wortschatz",
+     "e": "eigentlich = in Wirklichkeit."
+    },
+    {
+     "o": [
+      "falls",
+      "dass",
+      "ob"
+     ],
+     "r": 0,
+     "k": "Nebensatz",
+     "e": "falls = wenn."
+    },
+    {
+     "o": [
+      "einer",
+      "einen",
+      "eine"
+     ],
+     "r": 2,
+     "k": "Artikel Akkusativ",
+     "e": "bitten um eine Nachricht."
+    },
+    {
+     "o": [
+      "seit",
+      "ab",
+      "bis"
+     ],
+     "r": 2,
+     "k": "Zeit",
+     "e": "bis 17 Uhr erreichbar."
+    }
+   ]
+  },
+  {
+   "id": "s72",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Antwort auf eine Bewerbung",
+   "text": "Sehr geehrte Frau Iwanowa,\n\nvielen Dank für Ihr Interesse {{1}} unserem Unternehmen. Wir haben Ihre Unterlagen mit großem Interesse gelesen. Leider müssen wir Ihnen mitteilen, {{2}} die Stelle bereits besetzt ist. Wir würden Ihre Bewerbung jedoch gern in unserer Datenbank {{3}}, da wir bald weitere Stellen ausschreiben. Wenn Sie damit nicht einverstanden {{4}}, teilen Sie uns das bitte mit. Wir wünschen Ihnen für Ihre berufliche Zukunft {{5}} Gute und {{6}} Ihnen viel Erfolg.\n\nMit freundlichen Grüßen\nPersonalabteilung",
+   "gaps": [
+    {
+     "o": [
+      "für",
+      "an",
+      "über"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "Interesse an + Dativ."
+    },
+    {
+     "o": [
+      "weil",
+      "ob",
+      "dass"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "mitteilen, dass …"
+    },
+    {
+     "o": [
+      "speichern",
+      "gespeichert",
+      "speichert"
+     ],
+     "r": 0,
+     "k": "Infinitiv",
+     "e": "würden … speichern."
+    },
+    {
+     "o": [
+      "haben",
+      "werden",
+      "sind"
+     ],
+     "r": 2,
+     "k": "Konjugation",
+     "e": "einverstanden sein."
+    },
+    {
+     "o": [
+      "alle",
+      "allem",
+      "alles"
+     ],
+     "r": 2,
+     "k": "Indefinitpronomen",
+     "e": "alles Gute."
+    },
+    {
+     "o": [
+      "gewünscht",
+      "wünscht",
+      "wünschen"
+     ],
+     "r": 2,
+     "k": "Konjugation",
+     "e": "wir … wünschen."
+    }
+   ]
+  },
+  {
+   "id": "s73",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Hinweis zur Parkplatzsituation",
+   "text": "Liebe Mitarbeiterinnen und Mitarbeiter,\n\nin den letzten Wochen gab es immer wieder Probleme {{1}} unserem Parkplatz. Mitarbeiter haben auf den Plätzen für Besucher geparkt, {{2}} Kunden keinen Platz mehr gefunden haben. Ab sofort {{3}} die Plätze 1 bis 10 nur noch für Besucher reserviert. Wer {{4}} hält, muss mit einer Abmahnung rechnen. Wir bitten Sie, {{5}} möglich mit öffentlichen Verkehrsmitteln oder dem Fahrrad zu kommen. Für Radfahrer gibt es neue Stellplätze {{6}} dem Haupteingang.\n\nIhre Geschäftsleitung",
+   "gaps": [
+    {
+     "o": [
+      "in",
+      "auf",
+      "an"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "auf dem Parkplatz."
+    },
+    {
+     "o": [
+      "sodass",
+      "damit",
+      "obwohl"
+     ],
+     "r": 0,
+     "k": "Nebensatz",
+     "e": "sodass = Folge."
+    },
+    {
+     "o": [
+      "haben",
+      "werden",
+      "sind"
+     ],
+     "r": 2,
+     "k": "Zustandspassiv",
+     "e": "sind reserviert."
+    },
+    {
+     "o": [
+      "sich nicht darauf",
+      "sich nicht daran",
+      "nicht sich daran"
+     ],
+     "r": 1,
+     "k": "Verb mit Präposition",
+     "e": "sich halten an → sich nicht daran halten."
+    },
+    {
+     "o": [
+      "ob",
+      "wenn",
+      "als"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "wenn möglich."
+    },
+    {
+     "o": [
+      "zwischen",
+      "neben",
+      "unter"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "neben dem Eingang (Dativ)."
+    }
+   ]
+  },
+  {
+   "id": "s74",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief an die Vermieterin",
+   "text": "Sehr geehrte Frau Krüger,\n\nich wohne seit drei Jahren in Ihrer Wohnung in der Bahnhofstraße. Ich {{1}} mich bisher immer sehr wohl gefühlt. Leider hat meine Familie jetzt ein Problem: Wir bekommen im Sommer ein zweites Kind, {{2}} die Wohnung wird zu klein. Ich wollte Sie fragen, {{3}} in Ihrem Haus vielleicht eine größere Wohnung frei wird. Wir würden gern im Haus bleiben, {{4}} die Nachbarn sehr nett sind. Über eine Antwort {{5}} ich mich sehr freuen. Sie erreichen mich am besten {{6}} Abend.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "bin",
+      "habe",
+      "hatte"
+     ],
+     "r": 1,
+     "k": "Perfekt",
+     "e": "sich wohlfühlen → habe … gefühlt."
+    },
+    {
+     "o": [
+      "und",
+      "oder",
+      "aber"
+     ],
+     "r": 0,
+     "k": "Konnektor",
+     "e": "und verbindet zwei Sätze."
+    },
+    {
+     "o": [
+      "ob",
+      "dass",
+      "wann"
+     ],
+     "r": 0,
+     "k": "indirekte Frage",
+     "e": "ja/nein-Frage → ob."
+    },
+    {
+     "o": [
+      "weil",
+      "deshalb",
+      "denn"
+     ],
+     "r": 0,
+     "k": "Nebensatz",
+     "e": "weil: Verb am Ende."
+    },
+    {
+     "o": [
+      "werde",
+      "würde",
+      "wurde"
+     ],
+     "r": 1,
+     "k": "Konjunktiv II",
+     "e": "Über eine Antwort würde ich mich freuen."
+    },
+    {
+     "o": [
+      "im",
+      "am",
+      "um"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "am Abend."
+    }
+   ]
+  },
+  {
+   "id": "s75",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachricht an die Lehrerin",
+   "text": "Liebe Frau Hoffmann,\n\nmorgen kann mein Sohn Artem leider nicht {{1}} Ausflug mitkommen. Er hat seit gestern Abend Bauchschmerzen und war heute {{2}} Arzt. Der Arzt sagt, dass er zwei Tage zu Hause bleiben {{3}}. Das Geld für den Ausflug habe ich {{4}} einer Woche bezahlt. Bekomme ich es zurück, {{5}} er nicht dabei ist? Bitte geben Sie Artem die Hausaufgaben {{6}} seinen Freund Daniel mit.\n\nViele Grüße\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "beim",
+      "im",
+      "zum"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "zum Ausflug mitkommen."
+    },
+    {
+     "o": [
+      "beim",
+      "im",
+      "zum"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "beim Arzt sein."
+    },
+    {
+     "o": [
+      "soll",
+      "sollte",
+      "sollen"
+     ],
+     "r": 0,
+     "k": "Modalverb",
+     "e": "der Arzt sagt, er soll …"
+    },
+    {
+     "o": [
+      "vor",
+      "seit",
+      "ab"
+     ],
+     "r": 0,
+     "k": "Zeit",
+     "e": "vor einer Woche = in der Vergangenheit, abgeschlossen."
+    },
+    {
+     "o": [
+      "dass",
+      "ob",
+      "wenn"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "wenn = Bedingung."
+    },
+    {
+     "o": [
+      "an",
+      "für",
+      "über"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "über jemanden = durch ihn."
+    }
+   ]
+  },
+  {
+   "id": "s76",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anfrage beim Sportverein",
+   "text": "Sehr geehrte Damen und Herren,\n\nmeine Tochter ist neun Jahre alt und {{1}} gern schwimmen lernen. Ich habe auf Ihrer Webseite gelesen, {{2}} Sie Schwimmkurse für Kinder anbieten. Leider habe ich keine Informationen {{3}} die Kosten gefunden. Können Sie mir bitte schreiben, wie viel ein Kurs kostet und {{4}} der nächste Kurs beginnt? Meine Tochter hat nur dienstags und donnerstags Zeit, {{5}} sie an den anderen Tagen in den Hort geht. Ich danke Ihnen {{6}} Voraus.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "möchte",
+      "mochte",
+      "möchten"
+     ],
+     "r": 0,
+     "k": "Modalverb",
+     "e": "sie möchte."
+    },
+    {
+     "o": [
+      "ob",
+      "dass",
+      "was"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "lesen, dass …"
+    },
+    {
+     "o": [
+      "für",
+      "von",
+      "über"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "Informationen über + Akk."
+    },
+    {
+     "o": [
+      "als",
+      "wann",
+      "wenn"
+     ],
+     "r": 1,
+     "k": "indirekte Frage",
+     "e": "Frage nach der Zeit → wann."
+    },
+    {
+     "o": [
+      "deshalb",
+      "weil",
+      "denn"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "weil: Verb am Ende."
+    },
+    {
+     "o": [
+      "zum",
+      "am",
+      "im"
+     ],
+     "r": 2,
+     "k": "Redemittel",
+     "e": "im Voraus."
+    }
+   ]
+  },
+  {
+   "id": "s77",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "E-Mail an den Kundenservice",
+   "text": "Sehr geehrte Damen und Herren,\n\nam 2. Mai habe ich bei Ihnen einen Staubsauger bestellt. Das Paket ist gestern angekommen, {{1}} der Staubsauger funktioniert nicht. Wenn ich ihn einschalte, {{2}} er nach zwei Sekunden wieder aus. Ich möchte das Gerät deshalb {{3}}. Bitte schicken Sie mir ein Etikett {{4}} die kostenlose Rücksendung. Mir {{5}} lieber, wenn Sie mir ein neues Gerät schicken, statt das Geld zurückzuzahlen. Ich warte {{6}} Ihre Antwort.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "oder",
+      "denn",
+      "aber"
+     ],
+     "r": 2,
+     "k": "Konnektor",
+     "e": "aber = Gegensatz."
+    },
+    {
+     "o": [
+      "gehen",
+      "ging",
+      "geht"
+     ],
+     "r": 2,
+     "k": "Konjugation",
+     "e": "wenn-Satz zuerst, dann Verb: geht … aus."
+    },
+    {
+     "o": [
+      "zurückgeschickt",
+      "zurückschicken",
+      "zurückschickt"
+     ],
+     "r": 1,
+     "k": "Infinitiv",
+     "e": "möchte … zurückschicken."
+    },
+    {
+     "o": [
+      "über",
+      "um",
+      "für"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "ein Etikett für die Rücksendung."
+    },
+    {
+     "o": [
+      "wäre",
+      "würde",
+      "hätte"
+     ],
+     "r": 0,
+     "k": "Konjunktiv II",
+     "e": "Mir wäre es lieber …"
+    },
+    {
+     "o": [
+      "für",
+      "an",
+      "auf"
+     ],
+     "r": 2,
+     "k": "Verb mit Präposition",
+     "e": "warten auf."
+    }
+   ]
+  }
+ ],
+ "hoeren": [
+  {
+   "id": "h93",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Anruf: Kundin fragt nach Lieferung",
+   "situation": "Eine Kundin ruft beim Möbelhaus an.",
+   "text": "– Möbelhaus Elbe, Kundenservice, guten Tag. – Guten Tag, Iwanowa. Ich habe vor drei Wochen ein Sofa bestellt, Lieferung war für heute angekündigt, aber niemand ist gekommen. – Einen Moment … Ich sehe, der Hersteller hat das Sofa erst gestern geliefert. Es tut mir leid, dass Sie keine Nachricht bekommen haben. Wir können am Donnerstag zwischen 10 und 14 Uhr liefern. – Donnerstag arbeite ich bis 15 Uhr. Geht auch Samstag? – Samstag ja, von 8 bis 12 Uhr. Als Entschuldigung bekommen Sie die Lieferung kostenlos.",
+   "fragen": [
+    {
+     "q": "Warum kam die Lieferung nicht?",
+     "o": [
+      "Der Hersteller hat zu spät geliefert.",
+      "Die Kundin war nicht zu Hause.",
+      "Der Fahrer war krank."
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wann wird jetzt geliefert?",
+     "o": [
+      "heute Abend",
+      "am Samstag vormittags",
+      "am Donnerstag"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Die Kundin muss für die Lieferung nichts bezahlen."
+    }
+   ]
+  },
+  {
+   "id": "h94",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teambesprechung: neue Pausenregel",
+   "situation": "Die Stationsleitung spricht mit dem Team.",
+   "text": "Kurz zu den Pausen: In letzter Zeit haben viele Kollegen ihre Pause nicht genommen, weil zu viel zu tun war. Das ist nicht in Ordnung, die Pause ist gesetzlich vorgeschrieben. Ab nächster Woche tragen wir die Pausen in den Plan ein: Frühdienst zwischen 9 und 10 Uhr, Spätdienst zwischen 17 und 18 Uhr. Wer seine Pause nicht nehmen kann, sagt mir bitte sofort Bescheid, damit ich jemanden schicke.",
+   "fragen": [
+    {
+     "q": "Was ist das Problem?",
+     "o": [
+      "Viele machen keine Pause.",
+      "Die Pausen sind zu lang.",
+      "Der Pausenraum ist zu klein."
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wann ist die Pause im Spätdienst?",
+     "o": [
+      "nach Dienstschluss",
+      "zwischen 17 und 18 Uhr",
+      "zwischen 9 und 10 Uhr"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Wer keine Pause machen kann, soll es der Leitung sagen."
+    }
+   ]
+  },
+  {
+   "id": "h95",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Radio: Arbeitsmarkt",
+   "situation": "Sie hören eine Meldung im Radio.",
+   "text": "Die Zahl der offenen Ausbildungsplätze ist so hoch wie nie. Besonders im Handwerk, in der Gastronomie und in der Pflege finden Betriebe keine Auszubildenden. Gleichzeitig suchen viele junge Menschen ohne Schulabschluss vergeblich eine Stelle. Die Arbeitsagentur rät Betrieben, auch Bewerbern mit schlechteren Noten eine Chance zu geben, zum Beispiel über ein Praktikum. Unterstützung gibt es durch die sogenannte assistierte Ausbildung.",
+   "fragen": [
+    {
+     "q": "In welchen Bereichen fehlen besonders Auszubildende?",
+     "o": [
+      "Handwerk, Gastronomie und Pflege",
+      "IT und Medien",
+      "Banken und Versicherungen"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was rät die Arbeitsagentur den Betrieben?",
+     "o": [
+      "auch Bewerbern mit schlechteren Noten eine Chance zu geben",
+      "Personal aus dem Ausland zu holen",
+      "mehr Lohn zu zahlen"
+     ],
+     "r": 0
+    },
+    {
+     "rf": false,
+     "q": "Junge Menschen ohne Abschluss finden leicht eine Stelle."
+    }
+   ]
+  },
+  {
+   "id": "h96",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ansage im Supermarkt",
+   "situation": "Sie hören eine Durchsage im Supermarkt.",
+   "text": "Liebe Kundinnen und Kunden, wir schließen heute wegen einer Betriebsversammlung schon um 18 Uhr. Bitte gehen Sie rechtzeitig zur Kasse. Nur noch heute: Alle Backwaren nach 17 Uhr zum halben Preis. Und denken Sie daran: Ab Montag haben wir wieder bis 22 Uhr für Sie geöffnet.",
+   "fragen": [
+    {
+     "q": "Warum schließt der Supermarkt heute früher?",
+     "o": [
+      "wegen einer Betriebsversammlung",
+      "wegen eines Feiertags",
+      "wegen Bauarbeiten"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was ist nach 17 Uhr billiger?",
+     "o": [
+      "Obst",
+      "Getränke",
+      "Backwaren"
+     ],
+     "r": 2
+    },
+    {
+     "rf": true,
+     "q": "Ab Montag hat der Supermarkt wieder bis 22 Uhr geöffnet."
+    }
+   ]
+  },
+  {
+   "id": "h97",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch mit der Nachbarin",
+   "situation": "Zwei Nachbarinnen sprechen im Treppenhaus.",
+   "text": "– Hallo Frau Iwanowa! Haben Sie schon gehört? Ab nächstem Monat gibt es eine neue Hausmeisterfirma. – Nein, wirklich? Warum denn? – Die alte Firma hat den Winterdienst nicht gemacht, im Januar ist Herr Schmidt auf dem Eis gestürzt. – Oh, das wusste ich nicht. Wie geht es ihm? – Besser, aber er hatte das Handgelenk gebrochen. Die neue Firma kommt jeden Montag und Donnerstag. – Gut, dann frage ich sie gleich wegen der kaputten Lampe im Keller.",
+   "fragen": [
+    {
+     "q": "Warum gibt es eine neue Hausmeisterfirma?",
+     "o": [
+      "Die alte Firma hat keinen Winterdienst gemacht.",
+      "Der alte Hausmeister ist in Rente.",
+      "Die alte Firma war zu teuer."
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was ist mit Herrn Schmidt passiert?",
+     "o": [
+      "Er ist umgezogen.",
+      "Er hat den Schlüssel verloren.",
+      "Er hat sich das Handgelenk gebrochen."
+     ],
+     "r": 2
+    },
+    {
+     "rf": true,
+     "q": "Frau Iwanowa möchte der neuen Firma von der kaputten Lampe erzählen."
+    }
+   ]
+  },
+  {
+   "id": "h98",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anrufbeantworter: Volkshochschule",
+   "situation": "Sie hören eine Nachricht auf Ihrem Anrufbeantworter.",
+   "text": "Guten Tag, Frau Iwanowa, hier ist die Volkshochschule, Frau Brandt. Sie haben sich für den Computerkurs am Dienstagabend angemeldet. Leider haben sich zu wenige Teilnehmer angemeldet, deshalb findet der Kurs nicht statt. Wir können Ihnen aber einen Platz im Kurs am Samstagvormittag anbieten, der kostet genauso viel. Bitte rufen Sie uns bis Freitag zurück. Wenn Sie den Samstagskurs nicht möchten, bekommen Sie Ihr Geld zurück.",
+   "fragen": [
+    {
+     "q": "Warum findet der Kurs nicht statt?",
+     "o": [
+      "Die Lehrerin ist krank.",
+      "Es gibt zu wenige Teilnehmer.",
+      "Der Raum ist besetzt."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was bietet die Volkshochschule an?",
+     "o": [
+      "einen Online-Kurs",
+      "einen Kurs am Samstagvormittag",
+      "einen Kurs im nächsten Jahr"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Der Samstagskurs ist teurer."
+    }
+   ]
+  },
+  {
+   "id": "h99",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Im Bürgerbüro: Parkausweis",
+   "situation": "Ein Mann spricht im Bürgerbüro.",
+   "text": "– Guten Tag, ich möchte einen Bewohnerparkausweis beantragen. – Gern. Sind Sie in der Straße gemeldet? – Ja, seit Januar, Gartenstraße 12. – Ist das Auto auf Sie zugelassen? – Nein, auf meine Frau. – Dann braucht Ihre Frau den Ausweis, oder Sie bringen eine Vollmacht von ihr mit. Der Ausweis kostet 30 Euro im Jahr und gilt nur in Zone B.",
+   "fragen": [
+    {
+     "q": "Was möchte der Mann?",
+     "o": [
+      "einen Bewohnerparkausweis",
+      "eine Ummeldung",
+      "einen neuen Personalausweis"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was braucht er, wenn er den Ausweis beantragen will?",
+     "o": [
+      "einen Mietvertrag",
+      "ein Foto",
+      "eine Vollmacht von seiner Frau"
+     ],
+     "r": 2
+    },
+    {
+     "rf": false,
+     "q": "Der Ausweis gilt in der ganzen Stadt."
+    }
+   ]
+  }
+ ],
+ "lesen": [
+  {
+   "id": "r27",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kleinanzeigen",
+   "anweisung": "Welche Anzeige passt?",
+   "texte": [
+    {
+     "k": "Anzeigen",
+     "text": "A) Kinderwagen, gut erhalten, 80 €, nur Abholung. Tel. 0351 112233\nB) Suche Babysitterin für 2 Kinder (3 und 6), zweimal pro Woche nachmittags, 13 €/Std.\nC) Verschenke Kinderbücher auf Russisch und Deutsch, bitte bis Sonntag abholen.\nD) Nachhilfe Mathe und Deutsch, Klasse 1–6, Studentin, 15 €/Std., auch online."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Sohn (Klasse 3) hat Probleme in Deutsch.",
+     "o": [
+      "B",
+      "C",
+      "D"
+     ],
+     "r": 2
+    },
+    {
+     "q": "Sie möchten mit Kindern arbeiten und etwas Geld verdienen.",
+     "o": [
+      "A",
+      "B",
+      "D"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Sie suchen zweisprachige Bücher für Ihre Kinder.",
+     "o": [
+      "A",
+      "C",
+      "D"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Sie erwarten ein Baby und haben wenig Geld.",
+     "o": [
+      "A",
+      "B",
+      "C"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Informationen der Stadtbibliothek",
+   "anweisung": "Lesen Sie den Text. Richtig oder falsch?",
+   "texte": [
+    {
+     "k": "Stadtbibliothek",
+     "text": "Den Bibliotheksausweis bekommen Sie mit Ihrem Personalausweis und einer Meldebescheinigung. Kinder und Jugendliche bis 18 Jahre zahlen nichts, Erwachsene 15 Euro im Jahr. Sie können bis zu 20 Medien für vier Wochen ausleihen. Die Leihfrist können Sie online zweimal verlängern. Für verspätete Rückgaben zahlen Sie 50 Cent pro Tag und Medium. Jeden Mittwoch um 16 Uhr gibt es ein Sprachcafé für Deutschlernende."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Für den Ausweis braucht man eine Meldebescheinigung.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Kinder müssen 15 Euro im Jahr bezahlen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Man kann die Leihfrist im Internet verlängern.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Das Sprachcafé findet jeden Tag statt.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Schild an der Arztpraxis",
+   "anweisung": "Lesen Sie das Schild. Welche Antwort ist richtig?",
+   "texte": [
+    {
+     "k": "Praxis Dr. Wolf",
+     "text": "Sprechzeiten: Mo, Di, Do 8–12 und 15–18 Uhr · Mi, Fr 8–12 Uhr\nAkutsprechstunde ohne Termin: täglich 8–9 Uhr\nRezepte und Überweisungen: bitte 2 Tage vorher bestellen (Telefon oder App)\nUrlaub: 24.12.–2.1. Vertretung: Dr. Sommer, Marktplatz 3"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie haben plötzlich starke Halsschmerzen und keinen Termin. Wann gehen Sie hin?",
+     "o": [
+      "zwischen 8 und 9 Uhr",
+      "mittwochs um 16 Uhr",
+      "freitags nachmittags"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Sie brauchen ein neues Rezept. Was tun Sie?",
+     "o": [
+      "zwei Tage vorher bestellen",
+      "ohne Termin kommen",
+      "zu Dr. Sommer gehen"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Am 28. Dezember brauchen Sie einen Arzt. Wohin gehen Sie?",
+     "o": [
+      "zu Dr. Sommer",
+      "zu Dr. Wolf",
+      "ins Krankenhaus"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wann hat die Praxis am Mittwochnachmittag geöffnet?",
+     "o": [
+      "gar nicht",
+      "von 15 bis 18 Uhr",
+      "bis 20 Uhr"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Elternbrief der Schule",
+   "anweisung": "Lesen Sie den Brief. Richtig oder falsch?",
+   "texte": [
+    {
+     "k": "Elternbrief",
+     "text": "Liebe Eltern, am Freitag, 14. Juni, findet unser Sportfest statt. Die Kinder kommen um 8 Uhr in Sportkleidung in die Schule und brauchen ein Getränk und einen Sonnenhut. Der Unterricht endet um 12 Uhr, der Hort ist wie immer geöffnet. Wir suchen noch Eltern, die beim Kuchenverkauf helfen. Bei Regen findet das Fest in der Turnhalle statt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die Kinder sollen Sportkleidung tragen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Am Sportfest ist der Hort geschlossen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Die Schule sucht Eltern für den Kuchenverkauf.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Bei Regen fällt das Fest aus.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1
+    }
+   ]
+  }
+ ],
+ "brief": [
+  {
+   "id": "b27",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Krankmeldung bei der Arbeit",
+   "situation": "Sie sind krank und können morgen nicht zur Arbeit kommen. Schreiben Sie Ihrer Chefin, Frau Lange.",
+   "punkte": [
+    "Was ist los?",
+    "Wie lange fehlen Sie?",
+    "Krankmeldung",
+    "Wichtige Arbeit für morgen"
+   ],
+   "ru": "Вы заболели и завтра не придёте на работу. Напишите начальнице: что случилось, как долго вас не будет, больничный, важная работа на завтра.",
+   "w": 30,
+   "rm": [
+    "Liebe Frau …,",
+    "leider bin ich krank:",
+    "Ich kann bis … nicht kommen.",
+    "Die Krankmeldung schicke ich …",
+    "Morgen muss noch …"
+   ],
+   "m": "Liebe Frau Lange,\n\nleider bin ich krank. Ich habe seit gestern Abend hohes Fieber und Halsschmerzen.\n\nIch war heute beim Arzt. Er hat mich bis Freitag krankgeschrieben. Die Krankmeldung schicke ich Ihnen heute per App.\n\nMorgen kommt um 10 Uhr ein Kunde, Herr Braun. Vielleicht kann Frau Weber den Termin übernehmen? Die Unterlagen liegen auf meinem Schreibtisch.\n\nViele Grüße\nOlga Iwanowa"
+  },
+  {
+   "id": "b28",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Einladung zum Geburtstag",
+   "situation": "Ihr Sohn hat Geburtstag. Schreiben Sie eine Einladung an die Eltern seines Freundes Max.",
+   "punkte": [
+    "Wann und wo?",
+    "Was machen die Kinder?",
+    "Abholen",
+    "Bitte um Antwort"
+   ],
+   "ru": "Напишите приглашение родителям друга вашего сына: когда и где, что будут делать дети, когда забрать, просьба ответить.",
+   "w": 30,
+   "rm": [
+    "Liebe Familie …,",
+    "mein Sohn … wird … Jahre alt.",
+    "Wir feiern am …",
+    "Bitte geben Sie bis … Bescheid."
+   ],
+   "m": "Liebe Familie Krause,\n\nmein Sohn Lew wird am 12. Mai acht Jahre alt. Wir möchten Max herzlich zu seiner Geburtstagsfeier einladen.\n\nWir feiern am Samstag, 13. Mai, von 14 bis 17 Uhr bei uns zu Hause, Gartenweg 5. Die Kinder spielen im Garten und bei schönem Wetter grillen wir.\n\nSie können Max um 17 Uhr abholen. Bitte geben Sie mir bis Mittwoch Bescheid, ob er kommen kann.\n\nViele Grüße\nOlga Iwanowa"
+  },
+  {
+   "id": "b29",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Termin beim Jobcenter verschieben",
+   "situation": "Sie haben morgen einen Termin bei Ihrem Sachbearbeiter, Herrn Weber, im Jobcenter. Sie haben ein Vorstellungsgespräch zur gleichen Zeit. Schreiben Sie Herrn Weber.",
+   "punkte": [
+    "Warum schreiben Sie?",
+    "Grund",
+    "Neuer Termin",
+    "Unterlagen"
+   ],
+   "ru": "Перенесите встречу в центре занятости: почему пишете, причина, новый срок, документы.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrter Herr …,",
+    "leider kann ich am … nicht kommen, weil …",
+    "Wäre ein Termin am … möglich?",
+    "Ich bringe … mit."
+   ],
+   "m": "Sehr geehrter Herr Weber,\n\nleider kann ich morgen um 10 Uhr nicht zu unserem Termin kommen, weil ich zur gleichen Zeit ein Vorstellungsgespräch bei der Firma Elbtec habe.\n\nWäre ein neuer Termin am Donnerstag oder Freitag möglich? Ich habe den ganzen Tag Zeit.\n\nZum nächsten Termin bringe ich die Einladung zum Gespräch und meine Bewerbungsunterlagen mit.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "b30",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Beschwerde über Lärm",
+   "situation": "Ihr Nachbar über Ihnen macht oft nachts laute Musik. Schreiben Sie an die Hausverwaltung.",
+   "punkte": [
+    "Problem beschreiben",
+    "Seit wann?",
+    "Was haben Sie schon getan?",
+    "Was soll die Hausverwaltung tun?"
+   ],
+   "ru": "Пожалуйтесь в управляющую компанию на шум соседа: проблема, с какого времени, что вы уже сделали, что должна сделать компания.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren,",
+    "ich möchte mich über … beschweren.",
+    "Seit … ",
+    "Ich habe schon …",
+    "Bitte …"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nich wohne in der Lindenstraße 4 im zweiten Stock und möchte mich über meinen Nachbarn im dritten Stock beschweren.\n\nSeit etwa einem Monat hört er fast jede Nacht bis 2 Uhr laute Musik. Meine Kinder und ich können nicht schlafen.\n\nIch habe schon zweimal freundlich mit ihm gesprochen, aber es hat nichts geändert.\n\nBitte sprechen Sie mit dem Nachbarn und erinnern Sie ihn an die Hausordnung.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "b31",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anmeldung zum Deutschkurs",
+   "situation": "Sie möchten einen B2-Kurs an der Sprachschule „Lingua“ machen. Schreiben Sie eine E-Mail.",
+   "punkte": [
+    "Welcher Kurs?",
+    "Ihre Deutschkenntnisse",
+    "Zeit",
+    "Fragen zu Kosten"
+   ],
+   "ru": "Запишитесь на курс B2: какой курс, ваш уровень, когда можете, вопросы о стоимости.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren,",
+    "ich interessiere mich für …",
+    "Ich habe … bestanden.",
+    "Ich kann nur …",
+    "Wie viel kostet …?"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nich interessiere mich für Ihren B2-Kurs „Deutsch für den Beruf“.\n\nIch habe im letzten Jahr die B1-Prüfung bestanden und arbeite jetzt in der Pflege.\n\nWegen meiner Schichtarbeit kann ich nur am Abend oder am Wochenende lernen. Gibt es auch einen Abendkurs?\n\nWie viel kostet der Kurs, und kann ich die Kosten in Raten bezahlen?\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "b32",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Danke an die Nachbarin",
+   "situation": "Ihre Nachbarin, Frau Berger, hat während Ihres Krankenhausaufenthalts auf Ihre Katze aufgepasst. Schreiben Sie ihr.",
+   "punkte": [
+    "Dank",
+    "Wie geht es Ihnen jetzt?",
+    "Einladung",
+    "Angebot zu helfen"
+   ],
+   "ru": "Поблагодарите соседку, которая присматривала за кошкой, пока вы были в больнице: благодарность, как вы себя чувствуете, приглашение, предложение помощи.",
+   "w": 30,
+   "rm": [
+    "Liebe Frau …,",
+    "vielen herzlichen Dank, dass …",
+    "Mir geht es …",
+    "Darf ich Sie zu … einladen?",
+    "Wenn Sie einmal Hilfe brauchen, …"
+   ],
+   "m": "Liebe Frau Berger,\n\nvielen herzlichen Dank, dass Sie sich eine ganze Woche um meine Katze Mia gekümmert haben!\n\nMir geht es schon viel besser. Ich muss mich noch etwas schonen, aber in zwei Wochen kann ich wieder arbeiten.\n\nDarf ich Sie am Sonntag um 15 Uhr zu Kaffee und Kuchen einladen?\n\nWenn Sie einmal Hilfe brauchen, zum Beispiel beim Einkaufen, sagen Sie es mir bitte.\n\nViele Grüße\nOlga Iwanowa"
+  },
+  {
+   "id": "b33",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Reklamation im Online-Shop",
+   "situation": "Sie haben im Internet eine Jacke bestellt. Sie hat die falsche Größe. Schreiben Sie dem Shop.",
+   "punkte": [
+    "Was haben Sie bestellt?",
+    "Problem",
+    "Was möchten Sie?",
+    "Rücksendung"
+   ],
+   "ru": "Напишите интернет-магазину: что заказали, проблема, чего хотите, возврат.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren,",
+    "am … habe ich … bestellt.",
+    "Leider …",
+    "Ich möchte gern …",
+    "Bitte schicken Sie mir …"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nam 3. Oktober habe ich bei Ihnen eine blaue Winterjacke in Größe 38 bestellt (Bestellnummer 55210).\n\nLeider haben Sie mir die Jacke in Größe 44 geschickt. Sie ist viel zu groß.\n\nIch möchte die Jacke gern in Größe 38 umtauschen. Falls diese Größe nicht mehr da ist, möchte ich mein Geld zurück.\n\nBitte schicken Sie mir ein Etikett für die kostenlose Rücksendung.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "b34",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Absage an die Freundin",
+   "situation": "Ihre Freundin Anna hat Sie zu ihrer Hochzeit eingeladen. Sie können leider nicht kommen. Schreiben Sie ihr.",
+   "punkte": [
+    "Dank für die Einladung",
+    "Absage mit Grund",
+    "Glückwunsch",
+    "Vorschlag für ein Treffen"
+   ],
+   "ru": "Откажитесь от приглашения на свадьбу подруги: благодарность, отказ с причиной, поздравление, предложение встретиться.",
+   "w": 30,
+   "rm": [
+    "Liebe …,",
+    "vielen Dank für die Einladung.",
+    "Leider kann ich nicht kommen, weil …",
+    "Ich wünsche euch …",
+    "Können wir uns … treffen?"
+   ],
+   "m": "Liebe Anna,\n\nvielen Dank für die schöne Einladung zu eurer Hochzeit! Ich habe mich sehr gefreut.\n\nLeider kann ich am 20. Juli nicht kommen, weil ich an diesem Tag meine Prüfung habe. Das tut mir wirklich leid.\n\nIch wünsche euch einen wunderschönen Tag und alles Gute für eure gemeinsame Zukunft!\n\nKönnen wir uns nach eurer Hochzeitsreise treffen? Dann möchte ich euch mein Geschenk persönlich geben.\n\nLiebe Grüße\nOlga"
+  }
+ ],
+ "vortrag": [
+  {
+   "id": "v37",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Mein erster Tag in Deutschland",
+   "thema": "Erzählen Sie: Wie war Ihr erster Tag in Deutschland?",
+   "stichpunkte": [
+    "Wann und wie sind Sie angekommen?",
+    "Was haben Sie gemacht?",
+    "Was war schwierig?",
+    "Wie fühlen Sie sich heute?"
+   ],
+   "ru": "Расскажите о первом дне в Германии: когда и как приехали, что делали, что было трудно, как вы себя чувствуете сегодня.",
+   "rm": [
+    "Ich bin am … angekommen.",
+    "Zuerst …, danach …",
+    "Schwierig war, dass …",
+    "Heute …"
+   ],
+   "m": "Ich bin im März vor drei Jahren mit dem Zug in Dresden angekommen. Es war kalt und hat geregnet.\n\nZuerst haben wir bei Freunden gewohnt. Am ersten Tag sind wir in den Supermarkt gegangen. Ich habe fast nichts verstanden.\n\nSchwierig war, dass ich kein Deutsch sprechen konnte und alle Briefe von den Ämtern sehr kompliziert waren.\n\nHeute fühle ich mich hier zu Hause. Ich arbeite, meine Kinder gehen zur Schule und ich habe viele Freunde gefunden."
+  },
+  {
+   "id": "v38",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ein schwieriger Tag",
+   "thema": "Erzählen Sie von einem Tag, an dem etwas schiefgegangen ist.",
+   "stichpunkte": [
+    "Was ist passiert?",
+    "Was haben Sie gemacht?",
+    "Wer hat geholfen?",
+    "Wie ist es ausgegangen?"
+   ],
+   "ru": "Расскажите о дне, когда что-то пошло не так: что случилось, что вы сделали, кто помог, чем закончилось.",
+   "rm": [
+    "Einmal …",
+    "Plötzlich …",
+    "Zum Glück …",
+    "Am Ende …"
+   ],
+   "m": "Einmal wollte ich morgens zur Arbeit fahren, aber mein Fahrrad war kaputt.\n\nIch bin zur Haltestelle gelaufen, aber der Bus ist direkt vor mir losgefahren. Dann habe ich meine Chefin angerufen und gesagt, dass ich später komme.\n\nZum Glück hat mich mein Nachbar mit dem Auto mitgenommen.\n\nAm Ende bin ich nur 15 Minuten zu spät gekommen. Seitdem fahre ich immer zehn Minuten früher los."
+  },
+  {
+   "id": "v39",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Meine Arbeit",
+   "thema": "Erzählen Sie: Was machen Sie beruflich?",
+   "stichpunkte": [
+    "Wo arbeiten Sie?",
+    "Was sind Ihre Aufgaben?",
+    "Was gefällt Ihnen, was nicht?",
+    "Was möchten Sie in Zukunft machen?"
+   ],
+   "ru": "Расскажите о своей работе: где, какие задачи, что нравится и что нет, что хотите в будущем.",
+   "rm": [
+    "Ich arbeite als … bei …",
+    "Zu meinen Aufgaben gehört …",
+    "Mir gefällt, dass …",
+    "In Zukunft möchte ich …"
+   ],
+   "m": "Ich arbeite als Pflegehelferin in einem Altenheim in Dresden.\n\nZu meinen Aufgaben gehört es, die Bewohner zu waschen, beim Essen zu helfen und mit ihnen spazieren zu gehen.\n\nMir gefällt, dass ich mit Menschen arbeite und dass die Bewohner sehr dankbar sind. Nicht so gut finde ich die Schichtarbeit am Wochenende.\n\nIn Zukunft möchte ich die Ausbildung zur Pflegefachkraft machen. Dafür brauche ich das B2-Zertifikat."
+  }
+ ]
+}
