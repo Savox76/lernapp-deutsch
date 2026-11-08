@@ -1,0 +1,2535 @@
+{
+ "lesen": [
+  {
+   "id": "rz001",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Jobcenter",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Jobcenter Mitte",
+     "text": "EG: Empfang, Anmeldung, Wartebereich\n1. OG: Arbeitsvermittlung (Zimmer 101–130)\n2. OG: Leistungsabteilung – Bürgergeld, Anträge (Zimmer 201–230)\n3. OG: Bildungsberatung, Sprachkurse, Bildungsgutscheine\n4. OG: Leitung, Beschwerdestelle"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten einen Antrag auf Bürgergeld abgeben.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 1,
+     "e": "Anträge → Leistungsabteilung im 2. OG."
+    },
+    {
+     "q": "Sie suchen einen Deutschkurs.",
+     "o": [
+      "EG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 1,
+     "e": "Sprachkurse → 3. OG."
+    },
+    {
+     "q": "Sie kommen zum ersten Mal und wissen nicht, wohin.",
+     "o": [
+      "EG",
+      "1. OG",
+      "4. OG"
+     ],
+     "r": 0,
+     "e": "Empfang und Anmeldung sind im Erdgeschoss."
+    },
+    {
+     "q": "Sie sind mit der Bearbeitung unzufrieden und möchten sich beschweren.",
+     "o": [
+      "2. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 2,
+     "e": "Beschwerdestelle → 4. OG."
+    }
+   ]
+  },
+  {
+   "id": "rz002",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Einkaufszentrum",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Elbe-Center",
+     "text": "UG: Supermarkt, Drogerie, Getränkemarkt\nEG: Bäckerei, Apotheke, Schuhe, Information\n1. OG: Mode für Damen, Herren und Kinder, Friseur\n2. OG: Elektronik, Handys, Spielwaren, Restaurants"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie brauchen Medikamente gegen Husten.",
+     "o": [
+      "UG",
+      "EG",
+      "1. OG"
+     ],
+     "r": 1,
+     "e": "Apotheke → EG."
+    },
+    {
+     "q": "Ihr Sohn hat Geburtstag. Sie suchen ein Spielzeug.",
+     "o": [
+      "EG",
+      "1. OG",
+      "2. OG"
+     ],
+     "r": 2,
+     "e": "Spielwaren → 2. OG."
+    },
+    {
+     "q": "Sie möchten Wasser und Saft in Kisten kaufen.",
+     "o": [
+      "UG",
+      "EG",
+      "2. OG"
+     ],
+     "r": 0,
+     "e": "Getränkemarkt → UG."
+    },
+    {
+     "q": "Sie möchten sich die Haare schneiden lassen.",
+     "o": [
+      "EG",
+      "1. OG",
+      "2. OG"
+     ],
+     "r": 1,
+     "e": "Friseur → 1. OG."
+    }
+   ]
+  },
+  {
+   "id": "rz003",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Volkshochschule",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "VHS – Raumplan",
+     "text": "EG: Anmeldung und Kasse, Kursberatung (Mo–Do 9–12 Uhr)\nRaum 101–110: Sprachkurse\nRaum 201–205: Computerkurse\nRaum 206: Küche (Kochkurse)\nTurnhalle (Hof): Gymnastik, Yoga\nKeller: Werkstatt, Töpfern"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten den Kurs bezahlen.",
+     "o": [
+      "EG",
+      "Raum 101–110",
+      "Raum 201–205"
+     ],
+     "r": 0,
+     "e": "Anmeldung und Kasse → EG."
+    },
+    {
+     "q": "Sie haben heute Ihren Yogakurs.",
+     "o": [
+      "Raum 206",
+      "Turnhalle",
+      "Keller"
+     ],
+     "r": 1,
+     "e": "Yoga → Turnhalle im Hof."
+    },
+    {
+     "q": "Sie lernen, wie man Tabellen am Computer macht.",
+     "o": [
+      "Raum 101–110",
+      "Raum 201–205",
+      "Keller"
+     ],
+     "r": 1,
+     "e": "Computerkurse → Raum 201–205."
+    }
+   ]
+  },
+  {
+   "id": "rz004",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Arztpraxis",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Gemeinschaftspraxis Dr. Klein & Dr. Yilmaz",
+     "text": "Erdgeschoss: Anmeldung, Labor (Blutabnahme Mo–Fr 7:30–9:30)\n1. Stock: Allgemeinmedizin Dr. Klein\n2. Stock: Kinder- und Jugendmedizin Dr. Yilmaz\n3. Stock: Physiotherapie Weber"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie haben einen Termin zur Blutabnahme.",
+     "o": [
+      "Erdgeschoss",
+      "1. Stock",
+      "3. Stock"
+     ],
+     "r": 0,
+     "e": "Labor → Erdgeschoss."
+    },
+    {
+     "q": "Ihre Tochter braucht eine Impfung.",
+     "o": [
+      "1. Stock",
+      "2. Stock",
+      "3. Stock"
+     ],
+     "r": 1,
+     "e": "Kinder- und Jugendmedizin → 2. Stock."
+    },
+    {
+     "q": "Ihr Arzt hat Ihnen Massagen für den Rücken verschrieben.",
+     "o": [
+      "Erdgeschoss",
+      "2. Stock",
+      "3. Stock"
+     ],
+     "r": 2,
+     "e": "Physiotherapie → 3. Stock."
+    }
+   ]
+  },
+  {
+   "id": "rz005",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Möbelhaus",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Möbel Lux",
+     "text": "EG: Küchen, Bäder, Kundendienst und Reklamation\n1. OG: Wohnzimmer, Sofas, Teppiche\n2. OG: Schlafzimmer, Betten, Kinderzimmer\n3. OG: Restaurant, Büromöbel\nAußen: Abholung großer Möbel (Tor 3)"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr neues Sofa hat einen Fleck. Sie möchten es reklamieren.",
+     "o": [
+      "EG",
+      "1. OG",
+      "Tor 3"
+     ],
+     "r": 0,
+     "e": "Reklamation → Kundendienst im EG."
+    },
+    {
+     "q": "Sie brauchen ein Bett für Ihr Kind.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 1,
+     "e": "Kinderzimmer und Betten → 2. OG."
+    },
+    {
+     "q": "Sie haben einen Schrank gekauft und möchten ihn mitnehmen.",
+     "o": [
+      "EG",
+      "3. OG",
+      "Tor 3"
+     ],
+     "r": 2,
+     "e": "Abholung großer Möbel → Tor 3."
+    },
+    {
+     "q": "Sie suchen einen Schreibtisch für Ihr Arbeitszimmer.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 2,
+     "e": "Büromöbel → 3. OG."
+    }
+   ]
+  },
+  {
+   "id": "rz006",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Kurse",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Schwimmkurs für Erwachsene, die Angst vor Wasser haben. Kleine Gruppen, donnerstags 19 Uhr, Hallenbad Mitte."
+    },
+    {
+     "k": "b",
+     "text": "Nähkurs für Anfänger: Lernen Sie, Hosen zu kürzen und Knöpfe anzunähen. Samstags 10–13 Uhr."
+    },
+    {
+     "k": "c",
+     "text": "Computerkurs 50+: E-Mails schreiben, Fotos verschicken, Online-Banking. Mittwochs vormittags."
+    },
+    {
+     "k": "d",
+     "text": "Fahrradkurs für Frauen: Radfahren lernen in sicherer Umgebung. Fahrräder werden gestellt."
+    },
+    {
+     "k": "e",
+     "text": "Erste-Hilfe-Kurs für den Führerschein, nur ein Samstag, 9–17 Uhr."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihre Freundin ist 55 und möchte lernen, wie man Fotos per E-Mail schickt.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Computerkurs 50+, Fotos verschicken."
+    },
+    {
+     "q": "Sie machen gerade den Führerschein.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: Erste-Hilfe-Kurs für den Führerschein."
+    },
+    {
+     "q": "Ihre Nachbarin kann nicht Fahrrad fahren und hat kein eigenes Rad.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: Fahrräder werden gestellt."
+    },
+    {
+     "q": "Sie möchten Gitarre spielen lernen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "X: Kein Kurs für Gitarre."
+    }
+   ]
+  },
+  {
+   "id": "rz007",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Wohnung und Zimmer",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "2-Zimmer-Wohnung, 55 m², Balkon, 3. Stock ohne Aufzug, 520 € warm, ab sofort."
+    },
+    {
+     "k": "b",
+     "text": "Zimmer in WG für Studentin, 18 m², möbliert, 350 € warm, Nichtraucherin gesucht."
+    },
+    {
+     "k": "c",
+     "text": "3-Zimmer-Wohnung im EG mit Garten, Haustiere erlaubt, 790 € kalt, ab 1. Mai."
+    },
+    {
+     "k": "d",
+     "text": "1-Zimmer-Apartment, möbliert, nur für 6 Monate, ideal für Praktikanten, 600 € warm."
+    },
+    {
+     "k": "e",
+     "text": "Garage zu vermieten, 60 € im Monat, Nähe Bahnhof."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Eine Familie mit Hund sucht eine Wohnung.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Garten, Haustiere erlaubt."
+    },
+    {
+     "q": "Ein Kollege macht ein halbes Jahr Praktikum in Ihrer Stadt.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: nur für 6 Monate, ideal für Praktikanten."
+    },
+    {
+     "q": "Sie suchen einen Platz für Ihr Auto.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: Garage."
+    },
+    {
+     "q": "Ihre Mutter sitzt im Rollstuhl und sucht eine Wohnung im 2. Stock mit Aufzug.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "X: a hat keinen Aufzug, c ist im EG, nicht im 2. Stock."
+    }
+   ]
+  },
+  {
+   "id": "rz008",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Dienstleistungen",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Umzüge und Transporte – schnell und günstig, auch am Wochenende. Tel. 0351 12345"
+    },
+    {
+     "k": "b",
+     "text": "Nachhilfe in Mathe und Englisch für Schüler der Klassen 5–10, bei Ihnen zu Hause."
+    },
+    {
+     "k": "c",
+     "text": "Reinigungsservice für Büros und Privatwohnungen, auch Fensterputzen."
+    },
+    {
+     "k": "d",
+     "text": "Hausmeisterservice: kleine Reparaturen, Gartenarbeit, Winterdienst."
+    },
+    {
+     "k": "e",
+     "text": "Übersetzungen Russisch–Deutsch, beglaubigt, für Behörden."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie brauchen Ihre Geburtsurkunde auf Deutsch für das Standesamt.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: beglaubigte Übersetzungen für Behörden."
+    },
+    {
+     "q": "Ihr Sohn hat schlechte Noten in Englisch.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Nachhilfe in Englisch."
+    },
+    {
+     "q": "Im Winter möchten Sie, dass jemand den Schnee vor Ihrem Haus räumt.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: Winterdienst."
+    },
+    {
+     "q": "Ihr Auto ist kaputt und muss repariert werden.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "X: Keine Autowerkstatt."
+    }
+   ]
+  },
+  {
+   "id": "rz009",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Arbeit",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Reinigungskraft für Bürogebäude gesucht, Mo–Fr 17–20 Uhr, Minijob."
+    },
+    {
+     "k": "b",
+     "text": "Küchenhilfe (m/w/d) in Vollzeit für Kantine, Arbeitszeit 6–14:30 Uhr."
+    },
+    {
+     "k": "c",
+     "text": "Fahrer mit Führerschein Klasse B für Paketzustellung, Teilzeit möglich."
+    },
+    {
+     "k": "d",
+     "text": "Verkäuferin in Bäckerei, nur Wochenende, Sa und So 6–13 Uhr."
+    },
+    {
+     "k": "e",
+     "text": "Pflegehelfer/in für Seniorenheim, Schichtdienst, Ausbildung nicht nötig."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie arbeiten unter der Woche schon und suchen etwas für Samstag und Sonntag.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: nur Wochenende."
+    },
+    {
+     "q": "Sie möchten mit älteren Menschen arbeiten, haben aber keine Ausbildung.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: Seniorenheim, Ausbildung nicht nötig."
+    },
+    {
+     "q": "Ihr Mann hat einen Führerschein und möchte nur halbtags arbeiten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Führerschein B, Teilzeit möglich."
+    },
+    {
+     "q": "Sie möchten nur am Vormittag arbeiten, weil Ihr Kind nachmittags zu Hause ist.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: 6–14:30 Uhr. a ist abends, d nur am Wochenende."
+    }
+   ]
+  },
+  {
+   "id": "rz010",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Kinder und Familie",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Babyschwimmen für Kinder von 6 bis 18 Monaten, mit Mama oder Papa."
+    },
+    {
+     "k": "b",
+     "text": "Krabbelgruppe: Eltern mit Kleinkindern treffen sich jeden Dienstag im Familienzentrum."
+    },
+    {
+     "k": "c",
+     "text": "Ferienbetreuung für Schulkinder (6–12 Jahre) in den Sommerferien, 8–16 Uhr."
+    },
+    {
+     "k": "d",
+     "text": "Hausaufgabenhilfe für Grundschüler, kostenlos, Mo–Do in der Stadtbibliothek."
+    },
+    {
+     "k": "e",
+     "text": "Kinderflohmarkt: Kleidung und Spielzeug kaufen und verkaufen, Sonntag 10–14 Uhr."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie arbeiten in den Sommerferien und brauchen Betreuung für Ihre 8-jährige Tochter.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Ferienbetreuung 6–12 Jahre."
+    },
+    {
+     "q": "Sie möchten die alte Kinderkleidung Ihres Sohnes verkaufen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: Kinderflohmarkt."
+    },
+    {
+     "q": "Sie sind neu in der Stadt und möchten andere Eltern mit Babys kennenlernen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Krabbelgruppe."
+    },
+    {
+     "q": "Ihr Sohn ist 15 und braucht Hilfe in Mathematik.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "X: d ist nur für Grundschüler."
+    }
+   ]
+  },
+  {
+   "id": "rz011",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Neue Kita",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Zeitung",
+     "text": "Im Stadtteil Pieschen eröffnet im September eine neue Kita mit 90 Plätzen. Sie ist von 6 bis 18 Uhr geöffnet und hat einen großen Garten. Eltern können ihre Kinder ab sofort online anmelden. Für Kinder unter drei Jahren gibt es 30 Plätze. Wer keinen Internetzugang hat, kann sich im Bürgerbüro beraten lassen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die neue Kita …",
+     "o": [
+      "öffnet im September.",
+      "ist nur vormittags offen.",
+      "hat keine Plätze für Babys."
+     ],
+     "r": 0,
+     "e": "„… eröffnet im September …“"
+    },
+    {
+     "q": "Wenn man kein Internet hat, …",
+     "o": [
+      "kann man das Kind nicht anmelden.",
+      "bekommt man im Bürgerbüro Hilfe.",
+      "ruft man die Kita an."
+     ],
+     "r": 1,
+     "e": "„… kann sich im Bürgerbüro beraten lassen.“"
+    }
+   ]
+  },
+  {
+   "id": "rz012",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Baustelle",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Zeitung",
+     "text": "Wegen Bauarbeiten ist die Königsbrücker Straße ab Montag für drei Wochen zwischen Albertplatz und Bischofsweg gesperrt. Die Straßenbahnlinien 7 und 8 fahren in dieser Zeit eine Umleitung. Fußgänger können die Baustelle auf einer Seite passieren. Autofahrer werden gebeten, den Bereich weiträumig zu umfahren."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die Straße ist gesperrt …",
+     "o": [
+      "für drei Tage.",
+      "für drei Wochen.",
+      "nur am Montag."
+     ],
+     "r": 1,
+     "e": "„… ab Montag für drei Wochen …“"
+    },
+    {
+     "q": "Fußgänger …",
+     "o": [
+      "dürfen nicht durch.",
+      "können an der Baustelle vorbeigehen.",
+      "müssen die Straßenbahn nehmen."
+     ],
+     "r": 1,
+     "e": "„Fußgänger können die Baustelle auf einer Seite passieren.“"
+    }
+   ]
+  },
+  {
+   "id": "rz013",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Stadtfest",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Zeitung",
+     "text": "Am letzten Augustwochenende feiert die Stadt ihr großes Stadtfest. Auf drei Bühnen gibt es Musik, für Kinder einen Spielplatz und einen Zauberer. Der Eintritt ist frei. Weil viele Straßen gesperrt sind, empfiehlt die Stadt, mit Bus und Bahn anzureisen. Am Samstag fahren die Bahnen bis 2 Uhr nachts."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Für das Stadtfest …",
+     "o": [
+      "muss man Eintritt bezahlen.",
+      "muss man nichts bezahlen.",
+      "braucht man eine Karte."
+     ],
+     "r": 1,
+     "e": "„Der Eintritt ist frei.“"
+    },
+    {
+     "q": "Die Stadt empfiehlt, …",
+     "o": [
+      "mit dem Auto zu kommen.",
+      "mit öffentlichen Verkehrsmitteln zu kommen.",
+      "zu Hause zu bleiben."
+     ],
+     "r": 1,
+     "e": "„… mit Bus und Bahn anzureisen.“"
+    }
+   ]
+  },
+  {
+   "id": "rz014",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Sprechstunde",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Zeitung",
+     "text": "Die Verbraucherzentrale bietet ab Oktober eine kostenlose Beratung zu Strom- und Gasverträgen an. Die Beratung findet jeden Dienstag von 14 bis 17 Uhr im Rathaus statt, Raum 12. Bitte bringen Sie Ihre letzte Jahresabrechnung mit. Eine Anmeldung ist nicht nötig. Beratung auf Russisch und Arabisch ist nach Absprache möglich."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was muss man zur Beratung mitbringen?",
+     "o": [
+      "den Ausweis",
+      "die letzte Jahresabrechnung",
+      "einen Termin"
+     ],
+     "r": 1,
+     "e": "„Bitte bringen Sie Ihre letzte Jahresabrechnung mit.“"
+    },
+    {
+     "q": "Die Beratung …",
+     "o": [
+      "kostet 20 Euro.",
+      "ist kostenlos.",
+      "gibt es nur auf Deutsch."
+     ],
+     "r": 1,
+     "e": "„… eine kostenlose Beratung …“ – Russisch nach Absprache."
+    }
+   ]
+  },
+  {
+   "id": "rz015",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief vom Vermieter",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Hausverwaltung Elbe GmbH",
+     "text": "Sehr geehrte Mieterinnen und Mieter,\nam Dienstag, dem 14. Mai, wird zwischen 8 und 12 Uhr in allen Wohnungen der Rauchmelder geprüft. Bitte sorgen Sie dafür, dass der Techniker in Ihre Wohnung kann. Wenn Sie nicht zu Hause sind, geben Sie Ihren Schlüssel bitte bei einer Nachbarin ab und hängen Sie einen Zettel an die Tür. Ist die Wohnung nicht zugänglich, kostet ein zweiter Termin 35 Euro.\nMit freundlichen Grüßen\nIhre Hausverwaltung"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was passiert am 14. Mai?",
+     "o": [
+      "Die Heizung wird repariert.",
+      "Die Rauchmelder werden kontrolliert.",
+      "Die Wohnungen werden gestrichen."
+     ],
+     "r": 1,
+     "e": "„… wird … der Rauchmelder geprüft.“"
+    },
+    {
+     "q": "Wenn Sie nicht zu Hause sind, …",
+     "o": [
+      "müssen Sie 35 Euro zahlen.",
+      "geben Sie den Schlüssel bei einer Nachbarin ab.",
+      "kommt der Techniker nicht."
+     ],
+     "r": 1,
+     "e": "„… geben Sie Ihren Schlüssel bitte bei einer Nachbarin ab …“"
+    },
+    {
+     "q": "Ein zweiter Termin kostet Geld, wenn …",
+     "o": [
+      "die Wohnung nicht offen ist.",
+      "man den Termin vergisst anzurufen.",
+      "der Rauchmelder kaputt ist."
+     ],
+     "r": 0,
+     "e": "„Ist die Wohnung nicht zugänglich, kostet ein zweiter Termin 35 Euro.“"
+    }
+   ]
+  },
+  {
+   "id": "rz016",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief der Krankenkasse",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Gesund Plus Krankenkasse",
+     "text": "Sehr geehrte Frau Iwanowa,\nab dem 1. Januar erhalten Sie eine neue Versichertenkarte. Die alte Karte ist dann nicht mehr gültig. Bitte schicken Sie uns dafür bis zum 30. November ein aktuelles Foto. Das geht einfach über unsere App oder per Post. Ohne Foto können wir keine neue Karte ausstellen.\nMit freundlichen Grüßen\nIhr Kundenservice"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was soll Frau Iwanowa tun?",
+     "o": [
+      "Die alte Karte zurückschicken.",
+      "Ein Foto schicken.",
+      "In die Filiale kommen."
+     ],
+     "r": 1,
+     "e": "„Bitte schicken Sie uns … ein aktuelles Foto.“"
+    },
+    {
+     "q": "Bis wann?",
+     "o": [
+      "bis 30. November",
+      "bis 1. Januar",
+      "bis Ende Januar"
+     ],
+     "r": 0,
+     "e": "„… bis zum 30. November …“"
+    }
+   ]
+  },
+  {
+   "id": "rz017",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Aushang im Treppenhaus",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Liebe Nachbarn!",
+     "text": "Am Samstag, 6. Juli, feiern wir ab 15 Uhr ein Hoffest für alle Bewohner. Jeder bringt bitte etwas zu essen mit – einen Salat, Kuchen oder etwas für den Grill. Getränke kauft die Hausgemeinschaft von der gemeinsamen Kasse. Wer Tische oder Stühle hat, stellt sie bitte am Vormittag in den Hof. Bei Regen feiern wir im Gemeinschaftsraum im Keller.\nFamilie Krüger, 2. Stock"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was soll man mitbringen?",
+     "o": [
+      "Getränke",
+      "etwas zu essen",
+      "Geld für die Kasse"
+     ],
+     "r": 1,
+     "e": "„Jeder bringt bitte etwas zu essen mit.“"
+    },
+    {
+     "q": "Wenn es regnet, …",
+     "o": [
+      "fällt das Fest aus.",
+      "feiert man im Keller.",
+      "feiert man bei Familie Krüger."
+     ],
+     "r": 1,
+     "e": "„Bei Regen feiern wir im Gemeinschaftsraum im Keller.“"
+    }
+   ]
+  },
+  {
+   "id": "rz018",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Schild an der Apotheke",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Apotheke am Markt",
+     "text": "Öffnungszeiten: Mo–Fr 8–19 Uhr, Sa 8–14 Uhr.\nNotdienst: Wenn wir geschlossen sind, finden Sie die nächste Notdienst-Apotheke im Aushang am Fenster oder unter www.aponet.de.\nRezepte können Sie auch über unsere App schicken – wir legen die Medikamente für Sie bereit.\nLieferservice für ältere Kunden: kostenlos im Umkreis von 3 km."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Es ist Sonntag, und Sie brauchen ein Medikament. Was tun Sie?",
+     "o": [
+      "Sie warten bis Montag.",
+      "Sie suchen die Notdienst-Apotheke.",
+      "Sie rufen den Lieferservice an."
+     ],
+     "r": 1,
+     "e": "Sonntag geschlossen → Notdienst-Apotheke im Aushang oder im Internet."
+    },
+    {
+     "q": "Der Lieferservice …",
+     "o": [
+      "kostet 3 Euro.",
+      "ist für ältere Kunden in der Nähe kostenlos.",
+      "liefert nur Rezepte."
+     ],
+     "r": 1,
+     "e": "„Lieferservice für ältere Kunden: kostenlos im Umkreis von 3 km.“"
+    }
+   ]
+  },
+  {
+   "id": "rz019",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information der Bibliothek",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Stadtbibliothek – Neu!",
+     "text": "Ab sofort können Sie Bücher auch rund um die Uhr zurückgeben: am Rückgabe-Automaten neben dem Eingang. Ausleihen ist weiterhin nur zu den Öffnungszeiten möglich. Für Kinder und Jugendliche bis 18 Jahre ist der Ausweis kostenlos, Erwachsene zahlen 15 Euro im Jahr. Mit dem Ausweis können Sie auch E-Books und Sprachkurse online nutzen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Bücher zurückgeben kann man …",
+     "o": [
+      "nur zu den Öffnungszeiten.",
+      "jederzeit am Automaten.",
+      "nur online."
+     ],
+     "r": 1,
+     "e": "„… rund um die Uhr zurückgeben: am Rückgabe-Automaten …“"
+    },
+    {
+     "q": "Mit dem Bibliotheksausweis …",
+     "o": [
+      "kann man auch online Sprachkurse nutzen.",
+      "bekommt man Bücher nach Hause.",
+      "zahlen Kinder 15 Euro."
+     ],
+     "r": 0,
+     "e": "„… auch E-Books und Sprachkurse online nutzen.“"
+    }
+   ]
+  },
+  {
+   "id": "rz020",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief der Schule",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Grundschule am Park",
+     "text": "Liebe Eltern,\nam Freitag, 20. September, machen alle dritten Klassen einen Ausflug in den Zoo. Wir fahren um 8:15 Uhr mit dem Bus ab Schule und sind gegen 13 Uhr zurück. Der Eintritt kostet 6 Euro. Bitte geben Sie das Geld bis Mittwoch der Klassenlehrerin. Ihr Kind braucht ein Frühstück, etwas zu trinken und wetterfeste Kleidung. Bitte unterschreiben Sie die Einverständniserklärung unten.\nFrau Lehmann, Klassenlehrerin 3b"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Bis wann müssen die Eltern bezahlen?",
+     "o": [
+      "bis Mittwoch",
+      "bis Freitag",
+      "am Tag des Ausflugs"
+     ],
+     "r": 0,
+     "e": "„… bis Mittwoch der Klassenlehrerin.“"
+    },
+    {
+     "q": "Was müssen die Eltern noch tun?",
+     "o": [
+      "Die Kinder zum Zoo bringen.",
+      "Ein Formular unterschreiben.",
+      "Den Bus bezahlen."
+     ],
+     "r": 1,
+     "e": "„Bitte unterschreiben Sie die Einverständniserklärung unten.“"
+    }
+   ]
+  },
+  {
+   "id": "rz021",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Hausordnung: Müll",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Hausordnung – Mülltrennung",
+     "text": "Gelbe Tonne: Verpackungen aus Plastik und Metall.\nBlaue Tonne: Papier und Kartons – bitte Kartons klein machen!\nBraune Tonne: Essensreste, Obst und Gemüse, Kaffeesatz.\nSchwarze Tonne: Restmüll.\nGlas bringen Sie bitte zu den Containern an der Ecke Gartenweg (nicht sonntags und nicht nach 20 Uhr).\nSperrmüll (Möbel) wird nur nach Anmeldung bei der Stadt abgeholt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wohin kommt ein alter Joghurtbecher?",
+     "o": [
+      "gelbe Tonne",
+      "blaue Tonne",
+      "braune Tonne"
+     ],
+     "r": 0,
+     "e": "Verpackung aus Plastik → gelbe Tonne."
+    },
+    {
+     "q": "Sie möchten am Sonntag leere Flaschen wegbringen.",
+     "o": [
+      "Das ist erlaubt.",
+      "Das ist nicht erlaubt.",
+      "Nur nach Anmeldung."
+     ],
+     "r": 1,
+     "e": "Glascontainer „nicht sonntags“."
+    },
+    {
+     "q": "Ihr altes Sofa …",
+     "o": [
+      "stellen Sie neben die Tonnen.",
+      "wird nach Anmeldung bei der Stadt abgeholt.",
+      "kommt in die schwarze Tonne."
+     ],
+     "r": 1,
+     "e": "Sperrmüll „nur nach Anmeldung bei der Stadt“."
+    }
+   ]
+  },
+  {
+   "id": "rz022",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information der Stadtwerke: Wasser",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Stadtwerke",
+     "text": "Am Mittwoch, 12. März, wird zwischen 9 und 15 Uhr das Wasser in der Lindenstraße und der Gartenstraße abgestellt. Grund sind Reparaturen an einer Leitung. Bitte füllen Sie vorher Wasser in Flaschen oder Töpfe. Nach den Arbeiten kann das Wasser kurz braun sein. Lassen Sie es dann einige Minuten laufen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Warum gibt es kein Wasser?",
+     "o": [
+      "Weil gespart werden soll.",
+      "Weil eine Leitung repariert wird.",
+      "Weil das Wasser schmutzig ist."
+     ],
+     "r": 1,
+     "e": "„Grund sind Reparaturen an einer Leitung.“"
+    },
+    {
+     "q": "Wenn das Wasser danach braun ist, …",
+     "o": [
+      "rufen Sie die Stadtwerke an.",
+      "lassen Sie es einige Minuten laufen.",
+      "dürfen Sie es nicht benutzen."
+     ],
+     "r": 1,
+     "e": "„Lassen Sie es dann einige Minuten laufen.“"
+    }
+   ]
+  },
+  {
+   "id": "rz023",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kursprogramm Familienzentrum",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Familienzentrum Sonnenblume – Programm Herbst",
+     "text": "Montag 10 Uhr: Deutsch-Café für Mütter (mit Kinderbetreuung)\nDienstag 16 Uhr: Spielgruppe für Kinder von 1–3 Jahren\nMittwoch 18 Uhr: Elternabend zum Thema „Schule in Deutschland“\nDonnerstag 9 Uhr: Beratung zu Kindergeld und Elterngeld (Anmeldung nötig)\nFreitag 15 Uhr: Kochen mit Kindern\nAlle Angebote sind kostenlos."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten Deutsch sprechen, haben aber ein Baby.",
+     "o": [
+      "Montag",
+      "Mittwoch",
+      "Freitag"
+     ],
+     "r": 0,
+     "e": "Deutsch-Café mit Kinderbetreuung → Montag."
+    },
+    {
+     "q": "Für welches Angebot muss man sich anmelden?",
+     "o": [
+      "Spielgruppe",
+      "Beratung zu Kindergeld",
+      "Kochen mit Kindern"
+     ],
+     "r": 1,
+     "e": "„Beratung … (Anmeldung nötig)“."
+    },
+    {
+     "q": "Ihr Kind kommt bald in die Schule, und Sie möchten mehr über das System wissen.",
+     "o": [
+      "Dienstag",
+      "Mittwoch",
+      "Donnerstag"
+     ],
+     "r": 1,
+     "e": "Elternabend „Schule in Deutschland“ → Mittwoch."
+    }
+   ]
+  },
+  {
+   "id": "rz024",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kleinanzeigen: Verkaufen",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Kinderwagen, gut erhalten, 80 €, nur Abholung."
+    },
+    {
+     "k": "b",
+     "text": "Waschmaschine, 2 Jahre alt, 150 €, Lieferung möglich."
+    },
+    {
+     "k": "c",
+     "text": "Fahrrad für Kinder (6–8 Jahre), 40 €."
+    },
+    {
+     "k": "d",
+     "text": "Schreibtisch mit Stuhl, 50 €, ideal für Schüler."
+    },
+    {
+     "k": "e",
+     "text": "Fernseher, 55 Zoll, 200 €, mit Fernbedienung."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihre Waschmaschine ist kaputt. Sie haben kein Auto.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Lieferung möglich."
+    },
+    {
+     "q": "Ihre Tochter kommt in die 5. Klasse und braucht einen Platz für die Hausaufgaben.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: Schreibtisch, ideal für Schüler."
+    },
+    {
+     "q": "Sie suchen einen Kühlschrank.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "X: Kein Kühlschrank."
+    },
+    {
+     "q": "Ihr Sohn wird 7 und wünscht sich ein Fahrrad.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Fahrrad für Kinder 6–8 Jahre."
+    }
+   ]
+  },
+  {
+   "id": "rz025",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Öffnungszeiten Bürgerbüro",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Bürgerbüro Mitte",
+     "text": "Mo, Di, Do: 8–18 Uhr\nMi: geschlossen\nFr: 8–12 Uhr\nJeden ersten Samstag im Monat: 9–12 Uhr (nur mit Termin)\nTermine online oder unter Tel. 115.\nOhne Termin: nur Abholung von Ausweisen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie wollen am Mittwoch Ihren Pass beantragen.",
+     "o": [
+      "Das geht.",
+      "Das geht nicht.",
+      "Nur mit Termin."
+     ],
+     "r": 1,
+     "e": "Mittwoch geschlossen."
+    },
+    {
+     "q": "Ohne Termin kann man …",
+     "o": [
+      "einen Ausweis abholen.",
+      "einen Pass beantragen.",
+      "sich ummelden."
+     ],
+     "r": 0,
+     "e": "„Ohne Termin: nur Abholung von Ausweisen.“"
+    },
+    {
+     "q": "Am ersten Samstag im Monat …",
+     "o": [
+      "ist das Büro ohne Termin offen.",
+      "braucht man einen Termin.",
+      "ist das Büro geschlossen."
+     ],
+     "r": 1,
+     "e": "„… (nur mit Termin)“."
+    }
+   ]
+  },
+  {
+   "id": "rz026",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Rathaus Nord",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Rathaus Nord",
+     "text": "EG: Bürgerbüro (Pass, Ausweis, Anmeldung), Fundbüro\n1. OG: Standesamt (Heirat, Geburt, Sterbefall)\n2. OG: Sozialamt, Wohngeld, Elterngeldstelle\n3. OG: Ordnungsamt, Gewerbeamt, Führerscheinstelle"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie haben im Bus Ihre Brille verloren.",
+     "o": [
+      "EG",
+      "1. OG",
+      "3. OG"
+     ],
+     "r": 0,
+     "e": "Fundbüro → EG."
+    },
+    {
+     "q": "Sie möchten Elterngeld beantragen.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 1,
+     "e": "Elterngeldstelle → 2. OG."
+    },
+    {
+     "q": "Sie möchten Ihren ausländischen Führerschein umschreiben lassen.",
+     "o": [
+      "EG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 2,
+     "e": "Führerscheinstelle → 3. OG."
+    },
+    {
+     "q": "Sie wollen heiraten und brauchen einen Termin.",
+     "o": [
+      "EG",
+      "1. OG",
+      "2. OG"
+     ],
+     "r": 1,
+     "e": "Standesamt → 1. OG."
+    }
+   ]
+  },
+  {
+   "id": "rz027",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Krankenhaus",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Städtisches Klinikum",
+     "text": "Gebäude 1: Notaufnahme, Röntgen, Labor\nGebäude 2: Frauenklinik, Kreißsaal, Kinderklinik\nGebäude 3: Chirurgie, Orthopädie (Knochen und Gelenke)\nGebäude 4: Verwaltung, Patientenaufnahme, Kiosk, Seelsorge"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihre Freundin bekommt ein Baby.",
+     "o": [
+      "Gebäude 1",
+      "Gebäude 2",
+      "Gebäude 3"
+     ],
+     "r": 1,
+     "e": "Kreißsaal → Gebäude 2."
+    },
+    {
+     "q": "Sie haben Schmerzen im Knie und einen Termin beim Spezialisten.",
+     "o": [
+      "Gebäude 1",
+      "Gebäude 3",
+      "Gebäude 4"
+     ],
+     "r": 1,
+     "e": "Orthopädie → Gebäude 3."
+    },
+    {
+     "q": "Sie möchten für Ihre Mutter auf Station eine Zeitung kaufen.",
+     "o": [
+      "Gebäude 2",
+      "Gebäude 3",
+      "Gebäude 4"
+     ],
+     "r": 2,
+     "e": "Kiosk → Gebäude 4."
+    },
+    {
+     "q": "Ihr Mann hat sich in der Nacht stark verletzt.",
+     "o": [
+      "Gebäude 1",
+      "Gebäude 3",
+      "Gebäude 4"
+     ],
+     "r": 0,
+     "e": "Notaufnahme → Gebäude 1."
+    }
+   ]
+  },
+  {
+   "id": "rz028",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Baumarkt",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Baumarkt Hammer",
+     "text": "Gang 1–3: Farben, Tapeten, Pinsel\nGang 4–6: Werkzeug, Schrauben, Dübel\nGang 7–9: Lampen, Kabel, Steckdosen\nGang 10–12: Garten, Pflanzen, Erde\nAusgang: Kundenservice, Schlüsseldienst, Holzzuschnitt"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten Ihr Wohnzimmer neu streichen.",
+     "o": [
+      "Gang 1–3",
+      "Gang 4–6",
+      "Gang 7–9"
+     ],
+     "r": 0,
+     "e": "Farben → Gang 1–3."
+    },
+    {
+     "q": "Sie brauchen einen Zweitschlüssel für Ihre Wohnung.",
+     "o": [
+      "Gang 4–6",
+      "Gang 10–12",
+      "Ausgang"
+     ],
+     "r": 2,
+     "e": "Schlüsseldienst → Ausgang."
+    },
+    {
+     "q": "Sie suchen eine neue Lampe für den Flur.",
+     "o": [
+      "Gang 4–6",
+      "Gang 7–9",
+      "Gang 10–12"
+     ],
+     "r": 1,
+     "e": "Lampen → Gang 7–9."
+    }
+   ]
+  },
+  {
+   "id": "rz029",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Universität",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Hauptgebäude",
+     "text": "EG: Studierendenservice (Einschreibung, Beratung), Mensa\n1. OG: International Office (Anerkennung ausländischer Zeugnisse)\n2. OG: Sprachenzentrum (Deutschkurse für Studierende)\n3. OG: Bibliothek, Computerraum"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten Ihr ausländisches Zeugnis prüfen lassen.",
+     "o": [
+      "EG",
+      "1. OG",
+      "2. OG"
+     ],
+     "r": 1,
+     "e": "Anerkennung → International Office im 1. OG."
+    },
+    {
+     "q": "Sie möchten etwas essen.",
+     "o": [
+      "EG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 0,
+     "e": "Mensa → EG."
+    },
+    {
+     "q": "Sie brauchen einen Computer zum Drucken.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 2,
+     "e": "Computerraum → 3. OG."
+    }
+   ]
+  },
+  {
+   "id": "rz030",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Freizeit",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Lauftreff im Park: jeden Samstag 9 Uhr, für alle, kostenlos, keine Anmeldung."
+    },
+    {
+     "k": "b",
+     "text": "Chor sucht neue Stimmen! Proben dienstags 19 Uhr, Notenkenntnisse nicht nötig."
+    },
+    {
+     "k": "c",
+     "text": "Tanzkurs für Paare: Walzer, Tango, Salsa. Sechs Abende, 90 € pro Paar."
+    },
+    {
+     "k": "d",
+     "text": "Schachclub für Kinder und Erwachsene, mittwochs 17 Uhr im Bürgerhaus."
+    },
+    {
+     "k": "e",
+     "text": "Fotokurs: Bessere Bilder mit dem Handy. Zwei Nachmittage, 25 €."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie singen gern, können aber keine Noten lesen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Notenkenntnisse nicht nötig."
+    },
+    {
+     "q": "Sie möchten mit Ihrem Mann tanzen lernen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Tanzkurs für Paare."
+    },
+    {
+     "q": "Sie möchten Sport machen, haben aber wenig Geld.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 0,
+     "e": "a: Lauftreff, kostenlos."
+    },
+    {
+     "q": "Sie möchten Malen lernen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "X: Kein Malkurs."
+    }
+   ]
+  },
+  {
+   "id": "rz031",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Hilfe im Haushalt",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Babysitterin (Studentin, 23) betreut Ihre Kinder abends und am Wochenende."
+    },
+    {
+     "k": "b",
+     "text": "Seniorenbegleitung: Wir gehen mit älteren Menschen einkaufen oder zum Arzt."
+    },
+    {
+     "k": "c",
+     "text": "Hundesitter: Gassi gehen, auch für mehrere Tage, wenn Sie verreisen."
+    },
+    {
+     "k": "d",
+     "text": "Gartenhilfe: Rasen mähen, Hecke schneiden, Laub entfernen."
+    },
+    {
+     "k": "e",
+     "text": "Computerhilfe zu Hause: Handy, Internet, Drucker einrichten."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihre Oma ist 82 und braucht Begleitung zu einem Arzttermin.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Seniorenbegleitung zum Arzt."
+    },
+    {
+     "q": "Sie fahren eine Woche in Urlaub und haben einen Hund.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Hundesitter, auch für mehrere Tage."
+    },
+    {
+     "q": "Ihr neuer Drucker funktioniert nicht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: Drucker einrichten."
+    },
+    {
+     "q": "Sie suchen jemanden, der Ihre Wohnung putzt.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "X: Keine Reinigungshilfe."
+    }
+   ]
+  },
+  {
+   "id": "rz032",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Reisen",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Busreise an die Ostsee, 3 Tage, Hotel mit Frühstück, 199 € pro Person."
+    },
+    {
+     "k": "b",
+     "text": "Tagesausflug nach Prag mit Stadtführung auf Deutsch, 49 €."
+    },
+    {
+     "k": "c",
+     "text": "Familienurlaub auf dem Bauernhof: Tiere füttern, reiten, 7 Tage ab 450 € pro Familie."
+    },
+    {
+     "k": "d",
+     "text": "Wanderwoche in den Alpen für sportliche Menschen, 8 Tage."
+    },
+    {
+     "k": "e",
+     "text": "Städtereise Berlin mit dem Zug, 2 Nächte, Museumspass inklusive."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten mit Ihren zwei Kindern Urlaub machen. Die Kinder lieben Tiere.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Bauernhof, Tiere füttern."
+    },
+    {
+     "q": "Sie haben nur einen freien Tag und möchten eine andere Stadt sehen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Tagesausflug nach Prag."
+    },
+    {
+     "q": "Sie möchten ans Meer, aber nicht selbst fahren.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 0,
+     "e": "a: Busreise an die Ostsee."
+    },
+    {
+     "q": "Sie möchten einen Flug nach Spanien buchen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "X: Keine Flugreise."
+    }
+   ]
+  },
+  {
+   "id": "rz033",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Sprachkurse",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Intensivkurs B1, 5 Tage pro Woche, vormittags, mit DTZ-Prüfung am Ende."
+    },
+    {
+     "k": "b",
+     "text": "Abendkurs B2 Beruf, zweimal pro Woche, Vorbereitung auf den DTB."
+    },
+    {
+     "k": "c",
+     "text": "Konversationskurs: Sprechen üben in kleinen Gruppen, samstags."
+    },
+    {
+     "k": "d",
+     "text": "Alphabetisierungskurs: Lesen und Schreiben lernen in lateinischer Schrift."
+    },
+    {
+     "k": "e",
+     "text": "Online-Kurs A2 zum flexiblen Lernen, mit Tutor per Video."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie arbeiten tagsüber und möchten den Deutsch-Test für den Beruf machen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Abendkurs, Vorbereitung auf den DTB."
+    },
+    {
+     "q": "Sie können Deutsch verstehen, möchten aber mehr sprechen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Konversationskurs."
+    },
+    {
+     "q": "Ihr Nachbar kennt die lateinischen Buchstaben noch nicht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: Alphabetisierungskurs."
+    },
+    {
+     "q": "Sie suchen einen Englischkurs.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "X: Nur Deutschkurse."
+    }
+   ]
+  },
+  {
+   "id": "rz034",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Freibad",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Zeitung",
+     "text": "Das Freibad am See öffnet in diesem Jahr schon am 15. Mai. Wegen Personalmangel ist es allerdings montags geschlossen. Der Eintritt für Erwachsene kostet 4 Euro, Kinder unter sechs Jahren schwimmen kostenlos. Neu ist ein Bereich mit flachem Wasser für Familien mit kleinen Kindern."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Am Montag …",
+     "o": [
+      "ist das Freibad geschlossen.",
+      "ist der Eintritt frei.",
+      "ist es nur für Familien offen."
+     ],
+     "r": 0,
+     "e": "„… montags geschlossen.“"
+    },
+    {
+     "q": "Was ist neu?",
+     "o": [
+      "Ein Restaurant.",
+      "Ein Bereich mit flachem Wasser für Familien.",
+      "Längere Öffnungszeiten."
+     ],
+     "r": 1,
+     "e": "„Neu ist ein Bereich mit flachem Wasser …“"
+    }
+   ]
+  },
+  {
+   "id": "rz035",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Impfaktion",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Zeitung",
+     "text": "Am kommenden Samstag bietet das Gesundheitsamt von 10 bis 16 Uhr im Einkaufszentrum Nord kostenlose Grippeimpfungen an. Eine Anmeldung ist nicht nötig. Bitte bringen Sie Ihre Versichertenkarte und, wenn vorhanden, Ihren Impfpass mit. Kinder unter zwölf Jahren werden bei dieser Aktion nicht geimpft."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Für die Impfung …",
+     "o": [
+      "braucht man einen Termin.",
+      "muss man nichts bezahlen.",
+      "muss man zum Gesundheitsamt gehen."
+     ],
+     "r": 1,
+     "e": "„… kostenlose Grippeimpfungen …“"
+    },
+    {
+     "q": "Wer kann nicht geimpft werden?",
+     "o": [
+      "Erwachsene ohne Impfpass",
+      "Kinder unter zwölf Jahren",
+      "Menschen über 60"
+     ],
+     "r": 1,
+     "e": "„Kinder unter zwölf Jahren werden … nicht geimpft.“"
+    }
+   ]
+  },
+  {
+   "id": "rz036",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Fahrradstraße",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Zeitung",
+     "text": "Die Schillerstraße wird ab Juni eine Fahrradstraße. Radfahrer dürfen dann nebeneinander fahren und haben Vorrang. Autos dürfen weiter in der Straße fahren, aber höchstens 30 km/h. Parken ist nur noch auf der rechten Seite erlaubt. Die Stadt will so mehr Menschen motivieren, mit dem Rad zur Arbeit zu fahren."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "In der Fahrradstraße dürfen Autos …",
+     "o": [
+      "nicht mehr fahren.",
+      "langsam fahren.",
+      "auf beiden Seiten parken."
+     ],
+     "r": 1,
+     "e": "„… höchstens 30 km/h.“"
+    },
+    {
+     "q": "Warum macht die Stadt das?",
+     "o": [
+      "Damit mehr Menschen mit dem Rad fahren.",
+      "Weil es zu viele Unfälle gab.",
+      "Weil die Straße repariert wird."
+     ],
+     "r": 0,
+     "e": "„… mehr Menschen motivieren, mit dem Rad zur Arbeit zu fahren.“"
+    }
+   ]
+  },
+  {
+   "id": "rz037",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief vom Stromanbieter",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Elbstrom GmbH",
+     "text": "Sehr geehrte Kundin, sehr geehrter Kunde,\nab dem 1. März steigt der Preis pro Kilowattstunde von 32 auf 35 Cent. Ihr monatlicher Abschlag erhöht sich deshalb von 68 auf 74 Euro. Sie müssen nichts tun, der neue Betrag wird automatisch abgebucht. Wenn Sie mit der Preiserhöhung nicht einverstanden sind, können Sie bis zum 28. Februar kündigen.\nMit freundlichen Grüßen"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was ändert sich?",
+     "o": [
+      "Der Strom wird billiger.",
+      "Der monatliche Betrag wird höher.",
+      "Der Zähler wird gewechselt."
+     ],
+     "r": 1,
+     "e": "Abschlag von 68 auf 74 Euro."
+    },
+    {
+     "q": "Wenn man den höheren Preis nicht will, …",
+     "o": [
+      "kann man bis 28. Februar kündigen.",
+      "muss man anrufen.",
+      "zahlt man den alten Betrag weiter."
+     ],
+     "r": 0,
+     "e": "„… können Sie bis zum 28. Februar kündigen.“"
+    }
+   ]
+  },
+  {
+   "id": "rz038",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief vom Jobcenter",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Jobcenter Dresden",
+     "text": "Sehr geehrte Frau Iwanowa,\nbitte kommen Sie am Donnerstag, dem 7. November, um 10:30 Uhr zu einem Gespräch über Ihre berufliche Situation, Zimmer 214. Bringen Sie bitte Ihren Lebenslauf und Ihre Sprachzertifikate mit. Wenn Sie den Termin nicht wahrnehmen können, melden Sie sich bitte vorher telefonisch. Ohne wichtigen Grund kann Ihr Bürgergeld gekürzt werden.\nMit freundlichen Grüßen"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was soll Frau Iwanowa mitbringen?",
+     "o": [
+      "Kontoauszüge",
+      "Lebenslauf und Sprachzertifikate",
+      "den Mietvertrag"
+     ],
+     "r": 1,
+     "e": "„Bringen Sie bitte Ihren Lebenslauf und Ihre Sprachzertifikate mit.“"
+    },
+    {
+     "q": "Was passiert, wenn sie ohne wichtigen Grund nicht kommt?",
+     "o": [
+      "Nichts.",
+      "Das Bürgergeld kann gekürzt werden.",
+      "Sie bekommt einen neuen Termin per Post."
+     ],
+     "r": 1,
+     "e": "„Ohne wichtigen Grund kann Ihr Bürgergeld gekürzt werden.“"
+    }
+   ]
+  },
+  {
+   "id": "rz039",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Aushang in der Kita",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Liebe Eltern!",
+     "text": "In der Kita gibt es zurzeit mehrere Fälle von Läusen. Bitte kontrollieren Sie heute Abend die Haare Ihres Kindes. Wenn Sie Läuse finden, behandeln Sie Ihr Kind mit einem Mittel aus der Apotheke und informieren Sie uns. Ihr Kind darf nach der ersten Behandlung wieder in die Kita kommen. Bitte waschen Sie auch Mützen und Kissen bei 60 Grad.\nIhr Kita-Team"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was sollen die Eltern heute tun?",
+     "o": [
+      "Das Kind zu Hause lassen.",
+      "Die Haare des Kindes kontrollieren.",
+      "Zum Arzt gehen."
+     ],
+     "r": 1,
+     "e": "„… kontrollieren Sie heute Abend die Haare Ihres Kindes.“"
+    },
+    {
+     "q": "Ein Kind mit Läusen darf wieder in die Kita, …",
+     "o": [
+      "nach der ersten Behandlung.",
+      "nach zwei Wochen.",
+      "mit einem Attest vom Arzt."
+     ],
+     "r": 0,
+     "e": "„… nach der ersten Behandlung wieder in die Kita …“"
+    }
+   ]
+  },
+  {
+   "id": "rz040",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Aushang im Waschkeller",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Waschküche – Regeln",
+     "text": "Die Waschmaschinen dürfen von Montag bis Samstag zwischen 7 und 21 Uhr benutzt werden. Bitte tragen Sie sich vorher in den Plan an der Tür ein. Nach dem Waschen machen Sie bitte das Flusensieb des Trockners sauber. Die Wäsche bitte nicht länger als 24 Stunden auf dem Ständer hängen lassen. Am Sonntag ist die Waschküche geschlossen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wann darf man nicht waschen?",
+     "o": [
+      "am Samstag um 10 Uhr",
+      "am Sonntag",
+      "am Montag um 20 Uhr"
+     ],
+     "r": 1,
+     "e": "„Am Sonntag ist die Waschküche geschlossen.“"
+    },
+    {
+     "q": "Bevor man wäscht, …",
+     "o": [
+      "muss man sich in den Plan eintragen.",
+      "muss man den Hausmeister fragen.",
+      "muss man bezahlen."
+     ],
+     "r": 0,
+     "e": "„Bitte tragen Sie sich vorher in den Plan an der Tür ein.“"
+    }
+   ]
+  },
+  {
+   "id": "rz041",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information: Kinderarzt-Notdienst",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Kinderärztlicher Notdienst",
+     "text": "Außerhalb der Sprechzeiten erreichen Sie den kinderärztlichen Notdienst unter der Nummer 116 117. Der Notdienst ist am Mittwoch und Freitag ab 14 Uhr sowie am Wochenende und an Feiertagen geöffnet. Bei Lebensgefahr – zum Beispiel wenn Ihr Kind keine Luft bekommt – rufen Sie sofort die 112."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Kind hat am Samstag hohes Fieber.",
+     "o": [
+      "Sie rufen 116 117 an.",
+      "Sie warten bis Montag.",
+      "Sie gehen in die Apotheke."
+     ],
+     "r": 0,
+     "e": "Wochenende → Notdienst 116 117."
+    },
+    {
+     "q": "Wann ruft man die 112?",
+     "o": [
+      "bei Fieber",
+      "bei Lebensgefahr",
+      "wenn die Praxis geschlossen ist"
+     ],
+     "r": 1,
+     "e": "„Bei Lebensgefahr … rufen Sie sofort die 112.“"
+    }
+   ]
+  },
+  {
+   "id": "rz042",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information: Wertstoffhof",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Wertstoffhof Süd",
+     "text": "Öffnungszeiten: Di–Fr 10–18 Uhr, Sa 8–14 Uhr.\nKostenlos abgeben können Sie: Elektrogeräte, Batterien, Kleidung, Grünschnitt (bis 1 m³).\nGegen Gebühr: Bauschutt, Autoreifen, Möbel über 2 m³.\nNicht angenommen werden: Farben und Lacke – bitte zum Schadstoffmobil bringen.\nBitte Personalausweis mitbringen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten einen alten Fernseher wegbringen.",
+     "o": [
+      "Das ist kostenlos.",
+      "Das kostet Geld.",
+      "Das geht nicht."
+     ],
+     "r": 0,
+     "e": "Elektrogeräte → kostenlos."
+    },
+    {
+     "q": "Wohin bringen Sie alte Farbe?",
+     "o": [
+      "zum Wertstoffhof",
+      "zum Schadstoffmobil",
+      "in die gelbe Tonne"
+     ],
+     "r": 1,
+     "e": "„Farben und Lacke – bitte zum Schadstoffmobil bringen.“"
+    },
+    {
+     "q": "Am Montag …",
+     "o": [
+      "ist der Wertstoffhof geschlossen.",
+      "ist alles kostenlos.",
+      "ist er nur vormittags offen."
+     ],
+     "r": 0,
+     "e": "Öffnungszeiten erst ab Dienstag."
+    }
+   ]
+  },
+  {
+   "id": "rz043",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Stellenanzeigen",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Lagerhelfer (m/w/d) für Nachtschicht, 22–6 Uhr, Staplerschein erwünscht."
+    },
+    {
+     "k": "b",
+     "text": "Erzieher/in für Kita, Vollzeit, staatliche Anerkennung erforderlich."
+    },
+    {
+     "k": "c",
+     "text": "Zimmermädchen/Roomboy im Hotel, Teilzeit vormittags, Deutsch A2 reicht."
+    },
+    {
+     "k": "d",
+     "text": "Busfahrer/in, Führerschein Klasse D wird bezahlt."
+    },
+    {
+     "k": "e",
+     "text": "Bürokraft für Empfang, sehr gutes Deutsch und Englisch erforderlich."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Mann möchte Busfahrer werden, hat aber den Führerschein dafür noch nicht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: Führerschein Klasse D wird bezahlt."
+    },
+    {
+     "q": "Sie sprechen erst A2 und möchten vormittags arbeiten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Teilzeit vormittags, A2 reicht."
+    },
+    {
+     "q": "Sie suchen eine Arbeit in der Nacht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 0,
+     "e": "a: Nachtschicht 22–6 Uhr."
+    },
+    {
+     "q": "Sie suchen eine Stelle als Köchin.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "X: Keine Stelle für Köche."
+    }
+   ]
+  },
+  {
+   "id": "rz044",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Elternbrief: Elternsprechtag",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Oberschule Mitte",
+     "text": "Liebe Eltern,\nam Donnerstag, 21. November, findet von 15 bis 19 Uhr unser Elternsprechtag statt. Jede Lehrkraft hat für jedes Gespräch zehn Minuten Zeit. Bitte tragen Sie sich bis Montag in die Listen ein, die Ihr Kind mit nach Hause bringt. Wenn Sie einen Dolmetscher brauchen, teilen Sie uns das bitte bis Freitag davor mit.\nDie Schulleitung"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie lange dauert ein Gespräch?",
+     "o": [
+      "zehn Minuten",
+      "eine Stunde",
+      "vier Stunden"
+     ],
+     "r": 0,
+     "e": "„… für jedes Gespräch zehn Minuten Zeit.“"
+    },
+    {
+     "q": "Wenn Sie einen Dolmetscher brauchen, …",
+     "o": [
+      "bringen Sie selbst jemanden mit.",
+      "sagen Sie es der Schule vorher.",
+      "rufen Sie am Donnerstag an."
+     ],
+     "r": 1,
+     "e": "„… teilen Sie uns das bitte bis Freitag davor mit.“"
+    }
+   ]
+  },
+  {
+   "id": "rz045",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information: Ausweis beantragen",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Bürgerservice",
+     "text": "Für einen neuen Personalausweis brauchen Sie: ein aktuelles biometrisches Passfoto, Ihren alten Ausweis und, wenn Sie verheiratet sind, die Heiratsurkunde. Die Gebühr beträgt 46 Euro, für Personen unter 24 Jahren 22,80 Euro. Der neue Ausweis ist nach etwa vier Wochen fertig. Sie bekommen dann einen Brief und können ihn ohne Termin abholen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viel kostet der Ausweis für eine 30-jährige Frau?",
+     "o": [
+      "22,80 Euro",
+      "46 Euro",
+      "nichts"
+     ],
+     "r": 1,
+     "e": "Ab 24 Jahren → 46 Euro."
+    },
+    {
+     "q": "Den fertigen Ausweis …",
+     "o": [
+      "schickt die Stadt per Post.",
+      "holt man ohne Termin ab.",
+      "bekommt man sofort."
+     ],
+     "r": 1,
+     "e": "„… können ihn ohne Termin abholen.“"
+    }
+   ]
+  },
+  {
+   "id": "rz046",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Aushang im Supermarkt",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Liebe Kundinnen und Kunden",
+     "text": "Wegen Umbauarbeiten ist unser Markt vom 3. bis 8. März geschlossen. Ab dem 9. März sind wir mit neuer Backstation und längeren Öffnungszeiten für Sie da: Montag bis Samstag 7 bis 22 Uhr. In der Zeit des Umbaus finden Sie unsere Filiale in der Bahnhofstraße 20."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Am 5. März …",
+     "o": [
+      "ist der Markt geschlossen.",
+      "öffnet die neue Backstation.",
+      "ist der Markt bis 22 Uhr offen."
+     ],
+     "r": 0,
+     "e": "Umbau vom 3. bis 8. März."
+    },
+    {
+     "q": "Was ist neu ab 9. März?",
+     "o": [
+      "Der Markt ist sonntags offen.",
+      "Der Markt hat länger geöffnet.",
+      "Der Markt zieht in die Bahnhofstraße."
+     ],
+     "r": 1,
+     "e": "„… längeren Öffnungszeiten …“"
+    }
+   ]
+  },
+  {
+   "id": "rz047",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information: Mietervereine",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Mieterverein Dresden",
+     "text": "Probleme mit der Nebenkostenabrechnung? Ihr Vermieter will die Miete erhöhen? Der Mieterverein berät seine Mitglieder in allen Fragen rund ums Wohnen. Der Mitgliedsbeitrag beträgt 8 Euro im Monat. Für Mitglieder ist die Beratung kostenlos, auch vor Gericht hilft Ihnen unsere Rechtsschutzversicherung. Erstberatung für Nichtmitglieder: 30 Euro."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wer bekommt eine kostenlose Beratung?",
+     "o": [
+      "alle Mieter",
+      "nur Mitglieder",
+      "nur Vermieter"
+     ],
+     "r": 1,
+     "e": "„Für Mitglieder ist die Beratung kostenlos.“"
+    },
+    {
+     "q": "Wie viel kostet die Mitgliedschaft?",
+     "o": [
+      "8 Euro im Monat",
+      "30 Euro im Jahr",
+      "nichts"
+     ],
+     "r": 0,
+     "e": "„Der Mitgliedsbeitrag beträgt 8 Euro im Monat.“"
+    }
+   ]
+  },
+  {
+   "id": "rz048",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information: Deutschlandticket",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Verkehrsverbund",
+     "text": "Mit dem Deutschlandticket fahren Sie in ganz Deutschland mit Bus, Straßenbahn und Regionalzügen. Fernzüge wie ICE und IC sind nicht dabei. Das Ticket gibt es nur als Abo, man kann es aber jeden Monat bis zum 10. für den nächsten Monat kündigen. Viele Arbeitgeber geben einen Zuschuss als Jobticket."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Mit dem Deutschlandticket kann man …",
+     "o": [
+      "mit dem ICE fahren.",
+      "mit Regionalzügen in ganz Deutschland fahren.",
+      "nur in der eigenen Stadt fahren."
+     ],
+     "r": 1,
+     "e": "„… in ganz Deutschland mit Bus, Straßenbahn und Regionalzügen.“"
+    },
+    {
+     "q": "Man kann das Abo kündigen …",
+     "o": [
+      "jeden Monat bis zum 10.",
+      "nur einmal im Jahr.",
+      "gar nicht."
+     ],
+     "r": 0,
+     "e": "„… jeden Monat bis zum 10. für den nächsten Monat kündigen.“"
+    }
+   ]
+  },
+  {
+   "id": "rz049",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Aushang: Hausmeister",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Information vom Hausmeister",
+     "text": "Liebe Mieter, ich bin vom 15. bis 29. Juli im Urlaub. In dieser Zeit vertritt mich Herr Schulz. Sie erreichen ihn bei dringenden Problemen, zum Beispiel einem Wasserschaden, unter 0176 555 2211. Kleine Reparaturen erledige ich nach meinem Urlaub. Bitte stellen Sie in dieser Zeit keine Fahrräder in den Hausflur.\nIhr Hausmeister Becker"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wen rufen Sie am 20. Juli bei einem Wasserschaden an?",
+     "o": [
+      "Herrn Becker",
+      "Herrn Schulz",
+      "die Polizei"
+     ],
+     "r": 1,
+     "e": "Vertretung im Urlaub: Herr Schulz."
+    },
+    {
+     "q": "Eine kaputte Lampe im Keller …",
+     "o": [
+      "repariert Herr Schulz sofort.",
+      "wird nach dem Urlaub repariert.",
+      "muss man selbst reparieren."
+     ],
+     "r": 1,
+     "e": "„Kleine Reparaturen erledige ich nach meinem Urlaub.“"
+    }
+   ]
+  }
+ ]
+}
