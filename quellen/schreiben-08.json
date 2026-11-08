@@ -1,0 +1,68 @@
+[
+  {
+    "id": "l5-antwort-reklamation",
+    "lv": "B2",
+    "t": "Antwort auf eine Reklamation",
+    "s": "Sie arbeiten im Kundenservice eines Möbelhauses. Herr Schneider schreibt: Sein neuer Tisch kam mit einem Kratzer, und der Monteur kam zwei Stunden zu spät. Antworten Sie ihm (ca. 150 Wörter).",
+    "p": ["Bedanken Sie sich für die Nachricht und entschuldigen Sie sich.", "Erklären Sie kurz, was passiert ist.", "Bieten Sie eine Lösung an (Austausch oder Preisnachlass).", "Nennen Sie die nächsten Schritte."],
+    "ru": "Вы работаете в службе клиентов мебельного магазина. Ответьте на жалобу: поблагодарите, извинитесь, объясните, предложите решение и следующие шаги.",
+    "w": 150,
+    "rm": ["Sehr geehrter Herr Schneider,", "vielen Dank für Ihre Nachricht.", "Es tut uns sehr leid, dass …", "Leider ist es zu einer Verzögerung gekommen, weil …", "Wir bieten Ihnen an, …", "Bitte teilen Sie uns mit, welche Lösung Sie bevorzugen.", "Wir bitten nochmals um Entschuldigung."],
+    "m": "Betreff: Ihre Reklamation vom 5. November – Esstisch „Oslo“\n\nSehr geehrter Herr Schneider,\n\nvielen Dank für Ihre Nachricht. Es tut uns sehr leid, dass Sie mit der Lieferung Ihres Esstisches nicht zufrieden waren.\n\nLeider ist es am Liefertag zu einer Verzögerung gekommen, weil ein Fahrzeug unserer Monteure ausgefallen ist. Wir hätten Sie darüber informieren müssen. Dafür entschuldigen wir uns ausdrücklich.\n\nAuch der Kratzer auf der Tischplatte darf natürlich nicht sein. Wir bieten Ihnen zwei Möglichkeiten an: Entweder tauschen wir die Tischplatte kostenlos aus, oder Sie behalten den Tisch und erhalten einen Preisnachlass von 15 Prozent.\n\nBitte teilen Sie uns bis zum 20. November mit, welche Lösung Sie bevorzugen. Bei einem Austausch meldet sich unser Montageteam direkt bei Ihnen, um einen Termin zu vereinbaren.\n\nWir bitten nochmals um Entschuldigung und hoffen, dass Sie uns weiterhin Ihr Vertrauen schenken.\n\nMit freundlichen Grüßen\nOlga Iwanowa\nKundenservice"
+  },
+  {
+    "id": "l5-fehlermeldung-it",
+    "lv": "B1",
+    "t": "Fehlermeldung an die IT",
+    "s": "Seit heute Morgen können Sie keine Dateien mehr auf dem Firmenlaufwerk speichern. Schreiben Sie eine kurze Nachricht an die IT-Abteilung (ca. 80 Wörter).",
+    "p": ["Was haben Sie gemacht?", "Was ist passiert, welche Meldung erscheint?", "Seit wann gibt es das Problem?", "Warum ist es dringend?"],
+    "ru": "Напишите короткое сообщение в IT-отдел: что вы делали, что произошло, с какого времени проблема и почему это срочно.",
+    "w": 80,
+    "rm": ["Hallo IT-Team,", "seit heute Morgen kann ich …", "Wenn ich … will, erscheint die Meldung „…“.", "Ich habe den Computer schon neu gestartet.", "Da ich bis … brauche, wäre eine schnelle Lösung wichtig."],
+    "m": "Betreff: Speichern auf dem Firmenlaufwerk nicht möglich\n\nHallo IT-Team,\n\nseit heute Morgen um 8 Uhr kann ich keine Dateien mehr auf dem Firmenlaufwerk speichern. Wenn ich eine Tabelle speichern will, erscheint die Meldung „Zugriff verweigert“. Ich habe den Computer schon neu gestartet, aber das Problem besteht weiter.\n\nDa ich die Bestellliste bis heute 14 Uhr an die Lagerleitung schicken muss, wäre eine schnelle Lösung sehr wichtig. Sie erreichen mich unter Durchwahl 214.\n\nVielen Dank und viele Grüße\nOlga Iwanowa"
+  },
+  {
+    "id": "l5-verbesserungsvorschlag",
+    "lv": "B2",
+    "t": "Verbesserungsvorschlag im Betrieb",
+    "s": "In Ihrem Lager stehen leere Paletten oft im Weg. Schreiben Sie einen Verbesserungsvorschlag an Ihre Teamleitung (ca. 120 Wörter).",
+    "p": ["Beschreiben Sie das Problem.", "Machen Sie einen Vorschlag.", "Nennen Sie den Vorteil.", "Bieten Sie Ihre Hilfe an."],
+    "ru": "Напишите предложение по улучшению руководителю команды: опишите проблему, предложите решение, назовите преимущество, предложите помощь.",
+    "w": 120,
+    "rm": ["Ich möchte Sie auf ein Problem hinweisen.", "Mir ist aufgefallen, dass …", "Ich schlage vor, …", "Der Vorteil davon wäre, dass …", "Gern helfe ich dabei, …"],
+    "m": "Betreff: Vorschlag – fester Platz für Leerpaletten\n\nSehr geehrte Frau Berger,\n\nich möchte Sie auf ein Problem hinweisen. Mir ist aufgefallen, dass an Rampe 2 fast jeden Tag leere Paletten stehen bleiben. Dadurch sind die Wege versperrt, und gestern wäre ein Kollege mit dem Hubwagen beinahe gestürzt.\n\nIch schlage vor, einen festen Stellplatz für Leerpaletten neben dem Tor einzurichten und ihn mit gelber Farbe zu markieren. Am Ende jeder Schicht könnte eine Person kurz kontrollieren, ob alle Paletten dort stehen.\n\nDer Vorteil davon wäre, dass die Wege frei bleiben und weniger Unfälle passieren. Außerdem finden wir die Paletten schneller, wenn wir sie brauchen.\n\nGern helfe ich dabei, den Platz einzurichten.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+    "id": "l5-vorstellung-team",
+    "lv": "B1",
+    "t": "Sich dem neuen Team vorstellen",
+    "s": "Sie fangen nächste Woche in einer neuen Abteilung an. Schreiben Sie eine E-Mail an Ihr neues Team (ca. 100 Wörter).",
+    "p": ["Wer sind Sie?", "Was haben Sie bisher gemacht?", "Worauf freuen Sie sich?", "Laden Sie zu einem Kaffee ein."],
+    "ru": "Напишите письмо новой команде: кто вы, что делали раньше, чему радуетесь, пригласите на кофе.",
+    "w": 100,
+    "rm": ["Liebe Kolleginnen und Kollegen,", "zu meiner Person: …", "Bisher habe ich …", "Ich freue mich darauf, Sie kennenzulernen und …", "Am … möchte ich Sie gern zu einem Kaffee einladen."],
+    "m": "Betreff: Ihre neue Kollegin im Einkauf\n\nLiebe Kolleginnen und Kollegen,\n\nab Montag verstärke ich Ihr Team im Einkauf. Zu meiner Person: Ich heiße Olga Iwanowa, bin 38 Jahre alt und wohne seit drei Jahren in Dresden.\n\nBisher habe ich in der Buchhaltung einer Spedition gearbeitet und dort vor allem Rechnungen von Lieferanten geprüft. Deshalb kenne ich einige unserer Partner schon.\n\nIch freue mich darauf, Sie kennenzulernen und viel von Ihnen zu lernen. Am Dienstag um 10 Uhr möchte ich Sie gern zu Kaffee und Kuchen in die Küche im zweiten Stock einladen.\n\nViele Grüße\nOlga Iwanowa"
+  },
+  {
+    "id": "l5-leserbrief-homeoffice",
+    "lv": "B2",
+    "t": "Leserbrief: Homeoffice für alle?",
+    "s": "In einer Zeitung steht der Artikel „Homeoffice macht einsam und faul“. Schreiben Sie einen Leserbrief mit Ihrer Meinung (ca. 150 Wörter).",
+    "p": ["Auf welchen Artikel antworten Sie?", "Ihre Meinung mit Begründung", "Ein Beispiel aus Ihrer Erfahrung", "Ein Gegenargument und Ihr Fazit"],
+    "ru": "Напишите письмо в редакцию на статью о хоумофисе: ваше мнение с обоснованием, пример из опыта, контраргумент и вывод.",
+    "w": 150,
+    "rm": ["Mit Interesse habe ich Ihren Artikel … gelesen.", "Ich bin der Überzeugung, dass …", "Aus eigener Erfahrung weiß ich, dass …", "Zwar …, aber …", "Einerseits …, andererseits …", "Zusammenfassend lässt sich sagen, dass …"],
+    "m": "Betreff: Leserbrief zu Ihrem Artikel „Homeoffice macht einsam und faul“\n\nSehr geehrte Damen und Herren,\n\nmit Interesse habe ich Ihren Artikel vom 3. November gelesen. Ich bin jedoch der Überzeugung, dass Homeoffice nicht automatisch faul macht.\n\nAus eigener Erfahrung weiß ich, dass ich zu Hause oft konzentrierter arbeite als im lauten Großraumbüro. Außerdem spare ich jeden Tag eine Stunde Fahrzeit, die ich mit meiner Familie verbringen kann.\n\nZwar stimmt es, dass der Kontakt zu den Kollegen fehlen kann, aber das lässt sich lösen. In unserem Team arbeiten wir zum Beispiel zwei Tage im Büro und drei Tage zu Hause. So bleibt der Zusammenhalt erhalten.\n\nZusammenfassend lässt sich sagen, dass Homeoffice für viele Beschäftigte ein Gewinn ist, wenn es gut organisiert wird. Eine pauschale Kritik finde ich deshalb ungerecht.\n\nMit freundlichen Grüßen\nOlga Iwanowa, Dresden"
+  },
+  {
+    "id": "l5-anfrage-arbeitsvertrag",
+    "lv": "B2",
+    "t": "Fragen zum Arbeitsvertrag an die Personalabteilung",
+    "s": "Sie haben einen Arbeitsvertrag bekommen, verstehen aber einige Punkte nicht. Schreiben Sie an die Personalabteilung (ca. 120 Wörter).",
+    "p": ["Was bedeutet die Verschwiegenheitsklausel?", "Gibt es Gleitzeit?", "Wie viel verdienen Sie brutto pro Monat?", "Wann ist Ihr erster Arbeitstag?"],
+    "ru": "Напишите в отдел кадров вопросы по трудовому договору: что значит пункт о конфиденциальности, есть ли гибкий график, какая зарплата брутто, когда первый рабочий день.",
+    "w": 120,
+    "rm": ["Sehr geehrte Damen und Herren,", "vielen Dank für die Zusendung des Arbeitsvertrags.", "Bevor ich ihn unterschreibe, hätte ich noch einige Fragen.", "Was bedeutet …?", "Könnten Sie mir bitte mitteilen, ob …", "Außerdem wüsste ich gern, …"],
+    "m": "Betreff: Fragen zu meinem Arbeitsvertrag\n\nSehr geehrte Damen und Herren,\n\nvielen Dank für die Zusendung meines Arbeitsvertrags. Bevor ich ihn unterschreibe, hätte ich noch einige Fragen.\n\nIn Paragraf 8 steht eine Verschwiegenheitsklausel. Was genau bedeutet das für meine Arbeit im Kundenservice? Darf ich zum Beispiel mit meiner Familie über meine Arbeitszeiten sprechen?\n\nAußerdem möchte ich gern wissen, ob es in der Abteilung Gleitzeit gibt. Da ich ein Kind in der Kita habe, wäre das für mich sehr wichtig.\n\nIm Vertrag habe ich nur einen Stundenlohn gefunden. Könnten Sie mir bitte mitteilen, wie viel ich ungefähr brutto im Monat verdiene? Schließlich wüsste ich gern, an welchem Tag mein erster Arbeitstag ist und wann ich mich wo melden soll.\n\nVielen Dank im Voraus für Ihre Antwort.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  }
+]

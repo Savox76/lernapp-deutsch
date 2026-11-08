@@ -1,0 +1,59 @@
+# L5 B2-Grammatik: zweiteilige Konnektoren, Mittelfeld, kausale Präpositionen, verkürzte wenn-Sätze, Verweiswörter, Partizip als Adjektiv
+# --- zweiteilige Konnektoren ---
+Sowohl meine Kollegen als auch meine Chefin *haben* mir geholfen.|Мне помогли как коллеги, так и начальница.|B2|sowohl … als auch = beide; Verb im Plural.|Arbeit
+Ich *spreche* sowohl Russisch als auch Ukrainisch.|Я говорю как по-русски, так и по-украински.|B2|sowohl … als auch.|Person
+Die Arbeit *ist* zwar anstrengend, aber sie *macht* mir Spaß.|Работа, правда, тяжёлая, но мне нравится.|B2|zwar …, aber: Gegensatz.|Arbeit
+Zwar *verdiene* ich weniger, aber ich *habe* mehr Freizeit.|Я, правда, зарабатываю меньше, но у меня больше свободного времени.|B2|„Zwar“ auf Position 1 → Verb direkt danach.|Arbeit|Ich verdiene zwar weniger, aber ich habe mehr Freizeit.
+Einerseits *ist* das Großraumbüro modern, andererseits *ist* es sehr laut.|С одной стороны, офис открытого типа современный, с другой — очень шумный.|B2|einerseits …, andererseits: beide auf Position 1 → Verb.|Arbeit
+Soziale Netzwerke *verbinden* einerseits Menschen, andererseits *kosten* sie viel Zeit.|Социальные сети, с одной стороны, объединяют людей, с другой — отнимают много времени.|B2|einerseits im Mittelfeld, andererseits auf Position 1 → Verb.|Medien
+Entweder *nehme* ich die Stelle in Leipzig, oder ich *bleibe* in Dresden.|Либо я соглашусь на работу в Лейпциге, либо останусь в Дрездене.|B2|entweder …, oder.|Beruf
+Ich *habe* weder ein Auto noch einen Führerschein.|У меня нет ни машины, ни водительских прав.|B2|weder … noch.|Verkehr
+Nicht nur die Bezahlung, sondern auch das Betriebsklima *ist* wichtig.|Важна не только оплата, но и климат в коллективе.|B2|nicht nur …, sondern auch: Verb richtet sich nach dem letzten Teil.|Arbeit
+Je mehr ich *übe*, desto sicherer *werde* ich.|Чем больше я тренируюсь, тем увереннее становлюсь.|B2|je-Satz: Verb am Ende; desto + Komparativ → Verb → Subjekt.|Bildung
+# --- Mittelfeld im Hauptsatz ---
+Ich *gebe* dem Kunden morgen die Unterlagen.|Я завтра передам клиенту документы.|B1|Mittelfeld: Dativ (Person) vor Akkusativ (Sache).|Arbeit
+Ich *gebe* sie ihm morgen.|Я передам их ему завтра.|B2|Pronomen zuerst: Akkusativ-Pronomen vor Dativ-Pronomen.|Arbeit
+Der Chef *hat* mir gestern wegen des Fehlers eine E-Mail geschrieben.|Вчера начальник написал мне письмо из-за ошибки.|B2|Mittelfeld: Pronomen – wann – warum – Objekt.|Arbeit
+Wir *treffen* uns am Freitag nach der Arbeit im Café am Markt.|Мы встречаемся в пятницу после работы в кафе на рынке.|B1|Mittelfeld: wann – wo.|Freizeit
+Sie *hat* ihrer Freundin zum Geburtstag eine Karte geschickt.|Она отправила подруге открытку на день рождения.|B1|Dativ (Person) vor Akkusativ (Sache); Partizip am Ende.|Freunde
+Ich *habe* es ihr schon gestern erklärt.|Я ей это уже вчера объяснила.|B2|Pronomen am Anfang des Mittelfelds: es vor ihr.|Arbeit
+Die Kollegin *hat* sich heute wegen eines Termins früher verabschiedet.|Коллега сегодня ушла раньше из-за встречи.|B2|Reflexivpronomen früh im Mittelfeld; wann – warum – wie.|Arbeit
+# --- kausale Präpositionen ---
+Wegen des Streiks *kam* ich zwei Stunden zu spät.|Из-за забастовки я опоздала на два часа.|B2|wegen + Genitiv auf Position 1 → Verb auf Platz 2.|Verkehr|Ich kam wegen des Streiks zwei Stunden zu spät.
+Aufgrund der hohen Nachfrage *suchen* wir weitere Mitarbeiter.|Из-за высокого спроса мы ищем дополнительных сотрудников.|B2|aufgrund + Genitiv auf Position 1.|Arbeit
+Dank der neuen Software *geht* die Arbeit schneller.|Благодаря новой программе работа идёт быстрее.|B2|dank + Genitiv (positiver Grund).|IT
+Aus Angst vor Fehlern *sagt* sie im Meeting nichts.|Из страха перед ошибками она ничего не говорит на совещании.|B2|aus + Dativ ohne Artikel: Grund für eine Handlung.|Arbeit
+Vor Freude *konnte* er nicht schlafen.|От радости он не мог спать.|B2|vor + Dativ: Grund ohne Absicht (Gefühl).|Freunde
+Infolge des Unfalls *wurde* die Autobahn gesperrt.|Вследствие аварии автобан перекрыли.|B2|infolge + Genitiv; Passiv Präteritum.|Verkehr
+# --- verkürzte wenn-Sätze (Verb zuerst) ---
+*Hast* du morgen Zeit, *können* wir zusammen lernen.|Если у тебя завтра будет время, мы можем позаниматься вместе.|B2|Bedingung ohne „wenn“: Verb auf Position 1, dann Hauptsatz mit Verb vorn.|Bildung
+*Klingelt* das Telefon, *gehe* ich sofort ran.|Если звонит телефон, я сразу беру трубку.|B2|verkürzter wenn-Satz: Verb auf Position 1.|Büro
+*Ist* die Lieferung beschädigt, *machen* Sie bitte ein Foto.|Если поставка повреждена, сделайте, пожалуйста, фото.|B2|Bedingung mit Verb vorn statt „wenn“.|Lager
+*Sollten* Sie Fragen haben, *rufen* Sie mich gern an.|Если у вас возникнут вопросы, звоните мне.|B2|„Sollten Sie …“ = höfliche Bedingung; danach Imperativ.|Brief
+*Fällt* der Zug aus, *nehme* ich den Bus.|Если поезд отменят, я поеду на автобусе.|B2|verkürzter wenn-Satz; trennbares Verb: „aus“ am Ende.|Verkehr
+# --- Verweiswörter: darauf, darüber, damit … dass / zu ---
+Ich *freue* mich darauf, dass wir bald *zusammenarbeiten*.|Я радуюсь тому, что мы скоро будем работать вместе.|B2|sich freuen auf → darauf, dass …; Verb am Ende.|Arbeit
+Wir *haben* uns darüber geärgert, dass niemand Bescheid gesagt *hat*.|Мы разозлились из-за того, что никто не предупредил.|B2|sich ärgern über → darüber, dass …|Arbeit
+Sie *achtet* darauf, pünktlich zu sein.|Она следит за тем, чтобы быть пунктуальной.|B2|achten auf → darauf + zu-Infinitiv (gleiche Person).|Arbeit
+Es *hängt* davon ab, ob ich frei *bekomme*.|Это зависит от того, отпустят ли меня.|B2|abhängen von → davon, ob …|Arbeit
+Ich *habe* mich daran gewöhnt, früh aufzustehen.|Я привыкла рано вставать.|B2|sich gewöhnen an → daran + zu-Infinitiv; aufzustehen = trennbar mit zu.|Alltag
+Der Chef *hat* uns daran erinnert, die Liste auszufüllen.|Начальник напомнил нам заполнить список.|B2|erinnern an → daran + zu-Infinitiv.|Arbeit
+Es *kommt* darauf an, wie viel Zeit wir *haben*.|Всё зависит от того, сколько у нас времени.|B2|ankommen auf → darauf, wie …|Arbeit
+# --- dass-Satz oder Infinitiv ---
+Ich *hoffe*, dass ich die Prüfung *bestehe*.|Я надеюсь, что сдам экзамен.|B1|dass-Satz: Verb am Ende.|Bildung|Ich hoffe, die Prüfung zu bestehen.
+Ich *hoffe*, die Prüfung zu bestehen.|Надеюсь сдать экзамен.|B2|gleiche Person → zu-Infinitiv statt dass-Satz.|Bildung
+Die Chefin *hat* versprochen, dass sie uns *hilft*.|Начальница пообещала, что поможет нам.|B1|dass-Satz: Verb am Ende.|Arbeit
+Die Chefin *hat* versprochen, uns zu helfen.|Начальница пообещала нам помочь.|B2|gleiche Person → zu-Infinitiv.|Arbeit
+Es *ist* wichtig, dass man Pausen *macht*.|Важно делать перерывы.|B1|dass-Satz mit „man“.|Gesundheit
+# --- Partizip I und II als Adjektiv ---
+Die schlafenden Kinder *dürfen* nicht geweckt werden.|Спящих детей нельзя будить.|B2|Partizip I als Adjektiv = gerade jetzt (schlafend); Passiv mit Modalverb.|Kita
+Das reparierte Gerät *funktioniert* wieder.|Отремонтированное устройство снова работает.|B2|Partizip II als Adjektiv = schon passiert (repariert).|Technik
+Bitte *legen* Sie die ausgefüllten Formulare in die Kiste.|Пожалуйста, положите заполненные формуляры в ящик.|B2|Partizip II als Adjektiv mit Endung.|Büro
+Der wartende Kunde *wird* ungeduldig.|Ожидающий клиент теряет терпение.|B2|Partizip I als Adjektiv: Kunde, der wartet.|Kunden
+Die gelieferte Ware *muss* sofort kontrolliert werden.|Доставленный товар нужно сразу проверить.|B2|Partizip II als Adjektiv; Passiv mit Modalverb.|Lager
+Ein gut ausgebildetes Team *ist* wichtig für den Erfolg.|Хорошо обученная команда важна для успеха.|B2|Partizip II mit Adverb vor dem Nomen.|Arbeit
+# --- Wortbildung und Nominalisierung ---
+Die Freundlichkeit des Personals *wurde* gelobt.|Дружелюбие персонала было отмечено.|B2|-keit macht aus Adjektiven Nomen; Passiv Präteritum.|Kunden
+Die Pünktlichkeit der Züge *lässt* leider oft zu wünschen übrig.|Пунктуальность поездов, к сожалению, часто оставляет желать лучшего.|B2|-keit: pünktlich → die Pünktlichkeit.|Verkehr
+Nach der Schule *mache* ich ein Jahr Work and Travel in Kanada.|После школы я поеду на год по программе Work and Travel в Канаду.|B1|Zeitangabe auf Position 1 → Verb auf Platz 2.|Bildung|Ich mache nach der Schule ein Jahr Work and Travel in Kanada.
+Der Berufseinstieg *fällt* vielen jungen Leuten schwer.|Начало профессиональной жизни многим молодым людям даётся тяжело.|B2|schwerfallen: trennbar, „schwer“ am Ende.|Beruf

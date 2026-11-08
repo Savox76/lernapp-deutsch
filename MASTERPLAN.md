@@ -2,7 +2,7 @@
 
 Stand: 08.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
 
-**Zuletzt komplett geprüft:** 08.11.2026 nach L1–L4 (Lehrbuch-Auswertung) (Code, Inhalte und Veröffentlichung abgeglichen).
+**Zuletzt komplett geprüft:** 08.11.2026 nach L5 (Lehrbuch-Auswertung) (Code, Inhalte und Veröffentlichung abgeglichen).
 Zeichen: ✅ eingebaut/fertig · 🟡 teilweise · ⏳ in Arbeit · ⬜ offen · ❓ Entscheidung von Mario nötig
 Claude aktualisiert diesen Plan nach **jedem** Arbeitsschritt selbstständig.
 
@@ -30,15 +30,15 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ---
 
-## 2. Stand heute (geprüft am 08.11.2026 nach L1–L4 (Lehrbuch-Auswertung))
+## 2. Stand heute (geprüft am 08.11.2026 nach L5 (Lehrbuch-Auswertung))
 
 | Bereich | Stand | |
 |---|---|---|
-| Wortschatz | 7.175 Wörter (A2, B1, B2, Beruf, Alltag, Wortfamilien, Nomen-Verb-Verbindungen) | ✅ |
-| Satzbau | 4.082 Übungssätze (4.076 mit markiertem Verb), alle 12 Grammatik-Themen auf A2–B2 | ✅ |
-| Schreibaufgaben | 112 (A2, B1, B2, DTZ und DTB; laufend mehr) | ✅ |
+| Wortschatz | 7.235 Wörter (A2, B1, B2, Beruf, Alltag, Wortfamilien, Nomen-Verb-Verbindungen) | ✅ |
+| Satzbau | 4.129 Übungssätze (4.123 mit markiertem Verb), alle 12 Grammatik-Themen auf A2–B2 | ✅ |
+| Schreibaufgaben | 118 (A2, B1, B2, DTZ und DTB; laufend mehr) | ✅ |
 | **Grundkurs von vorn** | 13 Stufen von „Verb auf Platz 2“ bis „Passiv“ plus Abschluss; Freischaltung ab 80 %; A2-Sätze zuerst | ✅ |
-| **Prüfung DTB** | 26 Leseaufgaben (Teil 1–4) · 55 E-Mails · 42 Telefonnotizen · 34 Forumsbeiträge · 52 Sprachbausteine · 21 Vorträge · 10 Fragerunden · 26 Diskussionen · 15 Lösung finden · 53 Hörtexte | ✅ |
+| **Prüfung DTB** | 42 Leseaufgaben (Teil 1–4) · 55 E-Mails · 42 Telefonnotizen · 34 Forumsbeiträge · 52 Sprachbausteine · 21 Vorträge · 10 Fragerunden · 26 Diskussionen · 15 Lösung finden · 53 Hörtexte | ✅ |
 | **Prüfung DTZ** | 38 Briefe · 30 Leseaufgaben · 33 Brief-Lückentexte · 26 Erzählthemen · 15 Fragerunden · 23 Gemeinsam planen · 54 Hörtexte | ✅ |
 | Prüfungsrechner | Punkte eintragen → bestanden ja/nein nach DTB-Regel und neuer DTZ-Regel (ab 1.11.2026) | ✅ |
 | Übungen | Karteikarten, Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat, Hörtraining, Bedeutung, der/die/das, Lückentext, Wortart, Schreiben mit Checkliste und Timer · Wort markieren (lange drücken) → Erklärung, Formen, Beispiel, Vorlesen, Übersetzung auf Tipp (offline) | ✅ |
@@ -78,10 +78,10 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 | M16 | Wörter-Paket B | Restlücke bis ≈ 7.000 geschlossen: +1.029 Wörter (häufige Nomen/Verben B1/B2 und alle Wörter, die in Sätzen und Prüfungstexten der App vorkamen, aber im Wörterbuch fehlten) · +155 Sätze für die schwächsten Themen (Relativsatz/zu-Infinitiv/indirekte Frage A2, Konnektoren B1, Fragen B2) · neue Funktion „Wort markieren → Erklärung + Übersetzung“ | ✅ fertig |
 | M17 | Abschluss Phase 1 | Qualitätscheck bestanden: keine doppelten Wörter/Sätze/IDs, alle Felder gefüllt, 241 alte Sätze nachträglich mit Verb markiert (jetzt 3.900 von 3.905, Rest ohne Verb wie „Gute Besserung!“), Prüfungsaufgaben geprüft (Antworten, Lücken, DTB/DTZ-Zuordnung), Browser-Test aller Bereiche · dazu: Vorlesen mit Pause/Weiter/Stopp bei langen Texten, automatisches Vorlesen standardmäßig aus | ✅ fertig |
 
-**Stand:** 17 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 7.175 Wörter · 4.082 Sätze · 112 Schreibaufgaben · 553 Prüfungsaufgaben.
+**Stand:** 17 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 7.235 Wörter · 4.129 Sätze · 118 Schreibaufgaben · 569 Prüfungsaufgaben.
 
 
-**Phase 1 ist abgeschlossen (04.11.2026).** Danach am 08.11.2026: Ausbau aus Lehrbuch-Auswertung (Abschnitt 2c, L1–L4 fertig). Nächster Schritt nach Rücksprache mit Mario: M18 (Datenstruktur für mehrere Sprachen) oder zuerst die offenen ❓-Punkte aus Abschnitt 4 (z. B. Dialoge, Lesen DTB, Prüfungssimulation).
+**Phase 1 ist abgeschlossen (04.11.2026).** Danach am 08.11.2026: Ausbau aus Lehrbuch-Auswertung (Abschnitt 2c, L1–L5 fertig). Nächster Schritt nach Rücksprache mit Mario: M18 (Datenstruktur für mehrere Sprachen) oder zuerst die offenen ❓-Punkte aus Abschnitt 4 (z. B. Dialoge, Lesen DTB, Prüfungssimulation).
 
 **Nach Phase 1:** Inhalte (vor allem Schreibaufgaben, Sätze, Prüfungsaufgaben) wachsen laufend weiter – die Zielzahlen sind Zwischenziele, keine Obergrenze.
 
@@ -93,11 +93,11 @@ Mario hat 9 PDFs geschickt (DTB-Lesetraining, telc B2, „Mit Erfolg zu telc B2�
 
 | # | Meilenstein | Inhalt | Status |
 |---|---|---|---|
-| L1 | **Lesen DTB Teil 1–4** | 26 eigene Leseaufgaben im echten DTB-Format: Teil 1 Personen ↔ Artikel a–h (6), Teil 2 Willkommensmappe/Anweisungen mit richtig/falsch + a/b/c (8), Teil 3 Forum mit X (6), Teil 4 Protokoll/Bericht (6). Nach jeder Antwort erscheint die Erklärung mit der Schlüsselstelle aus dem Text (Idee aus dem Lösungsschlüssel). Kleine Code-Änderung: Lesen jetzt auch im DTB-Modus, richtig/falsch wird nicht mehr gemischt, russische Anweisung je Aufgabe. | ✅ fertig |
+| L1 | **Lesen DTB Teil 1–4** | 26 eigene Leseaufgaben im echten DTB-Format (inzwischen 42, siehe L5): Teil 1 Personen ↔ Artikel a–h (6), Teil 2 Willkommensmappe/Anweisungen mit richtig/falsch + a/b/c (8), Teil 3 Forum mit X (6), Teil 4 Protokoll/Bericht (6). Nach jeder Antwort erscheint die Erklärung mit der Schlüsselstelle aus dem Text (Idee aus dem Lösungsschlüssel). Kleine Code-Änderung: Lesen jetzt auch im DTB-Modus, richtig/falsch wird nicht mehr gemischt, russische Anweisung je Aufgabe. | ✅ fertig |
 | L2 | **Brief-Baukasten (Satzbau)** | 100 Sätze nach den Bausteinen Anfrage, Beschwerde, Bewerbung: Satz nicht mit „ich“ beginnen, Nebensatz vorn, indirekte Fragen, Konjunktiv II, dass-Sätze, weder/noch, Passiv, Präteritum, Genitiv-Präpositionen, Reihenfolge wann–warum–wie–wo. Viele Sätze mit erlaubten Umstellungen. | ✅ fertig |
 | L3 | **Schreiben nach Baukasten** | 12 Schreibaufgaben (4 Anfragen, 4 Beschwerden, 4 Bewerbungen) mit eigenen Anzeigen, Redemitteln und Musterlösungen | ✅ fertig |
 | L4 | **B2-Grammatik Beruf + Wörter** | 77 Sätze für Lücken aus dem Abgleich mit dem Berufssprachkurs B2 (Konjunktiv II Vergangenheit, indem, ohne zu/ohne dass, sodass/folglich, zum + Nomen, Passiv Perfekt/Zustandspassiv, Stellung von „nicht“, je … desto) · 96 neue Wörter (Brief, Umzug, Handwerk, Tourismus, Arbeitsrecht, IT) | ✅ fertig |
-| L5 | Weitere Lesesets | je Teil weitere 6–10 Aufgaben, Themen aus „Linie 1 Beruf B2“ (Gastronomie, Handel international, neue Medien, Global arbeiten) | ⬜ offen |
+| L5 | **Weitere Lesesets + Grammatik aus „Sicher! B2.1“** | 16 weitere DTB-Leseaufgaben (je 4 pro Teil: Gastronomie, neue Medien, internationale Fachkräfte, Handel, Hygiene, Großraumbüro, IT-Regeln, Betriebsausflug, Teilzeit/Familie, Arbeitsvertrag, Technik im Betrieb, Bau, Pflegedienst) · 47 Sätze (zweiteilige Konnektoren, Mittelfeld, kausale Präpositionen, verkürzte wenn-Sätze, darauf/darüber + dass/zu, Partizip als Adjektiv) · 60 neue Wörter · 6 Schreibaufgaben (Antwort auf Reklamation, Fehlermeldung an die IT, Verbesserungsvorschlag, Vorstellung im Team, Leserbrief, Fragen zum Arbeitsvertrag) | ✅ fertig |
 | L6 | DTB C1 | Prüfung-Express-C1 ausgewertet (Format bekannt) → gehört zu Phase 3 (M26) | ⬜ später |
 
 **Fehler behoben (08.11.2026):** Seit dem Update „Aufgabenliste zum freien Auswählen“ hing im **Prüfungsmodus** jede Prüfungsaufgabe nach der ersten Antwort (die Protokoll-Funktion rief sich selbst endlos auf). Im Lernmodus trat der Fehler nicht auf. Ist behoben und im Browser getestet.
@@ -171,7 +171,7 @@ B2 ist bestanden, wenn **mindestens 144 Punkte** erreicht sind, **mindestens dre
 
 | Bereich | Fehlt | Priorität | Status |
 |---|---|---|---|
-| Lesen DTB | eigene Leseteile Teil 1–4 | 1 | ✅ L1 (26 Aufgaben), Ausbau in L5 |
+| Lesen DTB | eigene Leseteile Teil 1–4 | 1 | ✅ L1 + L5 (42 Aufgaben), laufend mehr |
 | Hören | Dialoge mit zwei Stimmen (braucht kleine APK-Änderung), Meinungen zuordnen | 2 | ⬜ |
 | Simulation | komplette Prüfung mit Zeitlimit und Punkteschätzung | 1 | ⬜ ❓ Rücksprache nötig |
 | Sprechen | sich selbst aufnehmen und anhören (braucht Mikrofon-Berechtigung, neue APK) | 3 | ⬜ |

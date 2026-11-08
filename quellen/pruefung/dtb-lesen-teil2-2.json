@@ -1,0 +1,52 @@
+{
+  "lesen": [
+    {
+      "id": "dtbl2-09", "ex": ["DTB"],
+      "t": "Teil 2: Küche – Hygieneregeln",
+      "anweisung": "Sie arbeiten neu in einer Großküche und lesen die Hygieneregeln. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Вы новый сотрудник на большой кухне и читаете правила гигиены. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Hygieneregeln Küche", "text": "Vor Arbeitsbeginn, nach jeder Pause und nach dem Toilettengang sind die Hände gründlich zu waschen und zu desinfizieren. Schmuck, Uhren und künstliche Fingernägel sind in der Küche nicht erlaubt.\nArbeitskleidung wird von der Firma gestellt und gewaschen. Sie darf außerhalb des Betriebs nicht getragen werden. Lange Haare müssen zusammengebunden und mit einer Haube bedeckt sein.\nWer an Durchfall, Erbrechen oder offenen Wunden an den Händen leidet, darf nicht mit Lebensmitteln arbeiten und muss dies sofort der Küchenleitung melden – auch wenn er sich sonst gesund fühlt.\nRohes Fleisch und Gemüse werden auf getrennten Brettern geschnitten: rot für Fleisch, grün für Gemüse. Die Temperatur der Kühlräume wird zweimal täglich kontrolliert und in die Liste eingetragen."}],
+      "fragen": [
+        {"q": "Die Arbeitskleidung muss man zu Hause waschen.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: Sie „wird von der Firma gestellt und gewaschen“."},
+        {"q": "Wer Durchfall hat, …", "o": ["darf weiterarbeiten, wenn er sich gesund fühlt.", "muss es der Küchenleitung melden und darf nicht mit Lebensmitteln arbeiten.", "soll Handschuhe tragen."], "r": 1, "e": "„… darf nicht mit Lebensmitteln arbeiten und muss dies sofort der Küchenleitung melden – auch wenn er sich sonst gesund fühlt.“"},
+        {"q": "Für Gemüse benutzt man …", "o": ["ein grünes Brett.", "ein rotes Brett.", "das gleiche Brett wie für Fleisch."], "r": 0, "e": "„rot für Fleisch, grün für Gemüse“."}
+      ]
+    },
+    {
+      "id": "dtbl2-10", "ex": ["DTB"],
+      "t": "Teil 2: Großraumbüro – Regeln",
+      "anweisung": "Ihre Firma ist in ein Großraumbüro umgezogen. Sie lesen die neuen Regeln. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Ваша фирма переехала в офис открытого типа. Прочитайте новые правила. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Gemeinsam gut arbeiten im Open Space", "text": "In unserem neuen Büro gibt es keine festen Plätze mehr. Wer morgens kommt, wählt einen freien Schreibtisch. Am Abend wird der Platz vollständig geräumt; persönliche Sachen kommen in die Schließfächer.\nTelefonate und Videokonferenzen führen Sie bitte in den Telefonboxen oder in den kleinen Besprechungsräumen. Die Räume können über den Kalender gebucht werden, höchstens zwei Stunden am Stück.\nDie Ruhezone im hinteren Bereich ist für konzentriertes Arbeiten gedacht. Dort sind Gespräche und Telefone nicht erlaubt.\nEssen ist nur in der Küche und im Pausenraum gestattet. Getränke dürfen am Platz stehen.\nWer Ideen hat, wie wir die neue Umgebung verbessern können, schreibt sie bis Ende des Monats in den Briefkasten im Eingangsbereich."}],
+      "fragen": [
+        {"q": "Jeder Mitarbeiter hat einen eigenen Schreibtisch.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: „… gibt es keine festen Plätze mehr.“"},
+        {"q": "In der Ruhezone …", "o": ["darf man telefonieren, wenn man leise spricht.", "soll man ohne Gespräche konzentriert arbeiten.", "darf man essen."], "r": 1, "e": "„… für konzentriertes Arbeiten … Gespräche und Telefone nicht erlaubt.“"},
+        {"q": "Die Besprechungsräume …", "o": ["kann man höchstens zwei Stunden hintereinander reservieren.", "sind nur für die Leitung.", "muss man nicht buchen."], "r": 0, "e": "„… über den Kalender gebucht werden, höchstens zwei Stunden am Stück.“"}
+      ]
+    },
+    {
+      "id": "dtbl2-11", "ex": ["DTB"],
+      "t": "Teil 2: IT-Regeln für Beschäftigte",
+      "anweisung": "Sie lesen die IT-Regeln Ihrer Firma. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте правила IT вашей фирмы. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "IT-Sicherheit – das gilt für alle", "text": "Ihr Passwort muss mindestens zwölf Zeichen haben und wird alle sechs Monate geändert. Geben Sie es niemals weiter, auch nicht an Kollegen oder an Personen, die sich als IT-Mitarbeiter ausgeben.\nUSB-Sticks aus unbekannter Herkunft dürfen nicht an Firmenrechner angeschlossen werden. Für den Austausch von Dateien nutzen Sie bitte das Firmenlaufwerk.\nPrivate Programme dürfen nicht installiert werden. Wenn Sie eine zusätzliche Software brauchen, stellen Sie über das Ticketsystem einen Antrag. Die IT prüft diesen innerhalb von drei Arbeitstagen.\nBei einer verdächtigen E-Mail klicken Sie nicht auf Anhänge, sondern leiten die Nachricht an die Adresse sicherheit@firma.de weiter und löschen sie anschließend."}],
+      "fragen": [
+        {"q": "Man darf sein Passwort einem Kollegen sagen, wenn er es dringend braucht.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: „Geben Sie es niemals weiter, auch nicht an Kollegen …“"},
+        {"q": "Wer ein neues Programm braucht, …", "o": ["installiert es selbst.", "stellt einen Antrag über das Ticketsystem.", "fragt die Teamleitung."], "r": 1, "e": "„… stellen Sie über das Ticketsystem einen Antrag.“"},
+        {"q": "Eine verdächtige E-Mail …", "o": ["öffnet man, um den Anhang zu prüfen.", "leitet man an die Sicherheitsadresse weiter und löscht sie dann.", "druckt man aus."], "r": 1, "e": "„… leiten die Nachricht an … weiter und löschen sie anschließend.“"}
+      ]
+    },
+    {
+      "id": "dtbl2-12", "ex": ["DTB"],
+      "t": "Teil 2: Betriebsausflug",
+      "anweisung": "Sie lesen eine Einladung zum Betriebsausflug. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте приглашение на корпоративную поездку. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Einladung zum Betriebsausflug", "text": "Liebe Kolleginnen und Kollegen,\nunser diesjähriger Betriebsausflug führt uns am Freitag, dem 13. Juni, in die Sächsische Schweiz. Abfahrt mit dem Bus ist um 8:30 Uhr am Haupteingang, die Rückkehr ist gegen 19 Uhr geplant.\nAm Vormittag wandern wir etwa zwei Stunden auf leichten Wegen. Wer nicht wandern möchte, kann stattdessen mit dem Schiff fahren und trifft die Gruppe beim Mittagessen. Bitte geben Sie bei der Anmeldung an, welche Variante Sie wählen.\nDie Kosten für Bus, Schiff und Mittagessen übernimmt die Firma. Getränke am Nachmittag zahlt jeder selbst. Der Ausflug gilt als Arbeitszeit.\nBitte melden Sie sich bis 30. Mai bei Frau Krüger im Sekretariat an. Bei Regen findet der Ausflug trotzdem statt – denken Sie an feste Schuhe und Regenkleidung."}],
+      "fragen": [
+        {"q": "Wer am Ausflug teilnimmt, muss an diesem Tag Urlaub nehmen.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: „Der Ausflug gilt als Arbeitszeit.“"},
+        {"q": "Wer nicht wandern möchte, …", "o": ["bleibt im Büro.", "fährt mit dem Schiff und kommt zum Mittagessen dazu.", "wartet im Bus."], "r": 1, "e": "„… kann stattdessen mit dem Schiff fahren und trifft die Gruppe beim Mittagessen.“"},
+        {"q": "Selbst bezahlen muss man …", "o": ["das Mittagessen.", "die Getränke am Nachmittag.", "die Schifffahrt."], "r": 1, "e": "„Getränke am Nachmittag zahlt jeder selbst.“"}
+      ]
+    }
+  ]
+}

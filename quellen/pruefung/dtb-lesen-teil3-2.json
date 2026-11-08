@@ -1,0 +1,88 @@
+{
+  "lesen": [
+    {
+      "id": "dtbl3-07", "ex": ["DTB"],
+      "t": "Teil 3: Forum – Teilzeit und Familie",
+      "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+      "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+      "texte": [
+        {"k": "A – Monika", "text": "Wenn dein Kind krank ist, kannst du dich freistellen lassen. Du brauchst ein Attest vom Kinderarzt, und die Krankenkasse zahlt Kinderkrankengeld für eine bestimmte Zahl von Tagen im Jahr."},
+        {"k": "B – Jörg", "text": "Nach der Elternzeit hast du das Recht, auf einen gleichwertigen Arbeitsplatz zurückzukommen. Es muss nicht genau der alte Schreibtisch sein, aber eine vergleichbare Tätigkeit."},
+        {"k": "C – Yasemin", "text": "In Firmen mit mehr als 15 Beschäftigten kann man nach sechs Monaten Teilzeit beantragen. Der Arbeitgeber darf nur aus betrieblichen Gründen ablehnen."},
+        {"k": "D – Kai", "text": "Ich arbeite seit Jahren in Teilzeit und finde es super. Ich habe mehr Zeit für meinen Garten."},
+        {"k": "E – Petra", "text": "Viele Kitas schließen um 16 Uhr. Frag doch beim Arbeitgeber, ob er Gleitzeit anbietet. Dann kannst du früher anfangen und dein Kind pünktlich abholen."},
+        {"k": "F – Wladimir", "text": "Elterngeld beantragt man bei der Elterngeldstelle der Stadt, nicht beim Arbeitgeber. Am besten gleich nach der Geburt, weil rückwirkend nur drei Monate gezahlt werden."},
+        {"k": "G – Sabine", "text": "Wenn du wieder Vollzeit arbeiten willst, sprich früh mit der Personalabteilung. Einen sicheren Anspruch gibt es nur bei der sogenannten Brückenteilzeit, die von Anfang an befristet ist."}
+      ],
+      "fragen": [
+        {"q": "1 – Darja: Meine Tochter hat Fieber und ich muss morgen zu Hause bleiben. Bekomme ich trotzdem Geld?", "o": ["A","B","C","D","E","F","G","X"], "r": 0, "e": "A: Freistellung bei Krankheit des Kindes, die Krankenkasse zahlt Kinderkrankengeld."},
+        {"q": "2 – Marco: Ich arbeite seit zwei Jahren in Teilzeit und möchte jetzt wieder 40 Stunden. Muss mein Chef zustimmen?", "o": ["A","B","C","D","E","F","G","X"], "r": 6, "e": "G: Einen sicheren Anspruch auf Rückkehr in Vollzeit gibt es nur bei der Brückenteilzeit."},
+        {"q": "3 – Inna: Ich komme bald aus der Elternzeit zurück. Mein Chef sagt, meine alte Stelle gibt es nicht mehr. Darf er das?", "o": ["A","B","C","D","E","F","G","X"], "r": 1, "e": "B: Recht auf einen gleichwertigen Arbeitsplatz nach der Elternzeit."},
+        {"q": "4 – Thomas: Weiß jemand, ob ich als Vater auch Teilzeit in der Elternzeit machen darf und wie viele Stunden?", "o": ["A","B","C","D","E","F","G","X"], "r": 7, "e": "X: Keine Antwort spricht über Teilzeit während der Elternzeit. C geht um Teilzeit allgemein nach sechs Monaten im Betrieb."}
+      ]
+    },
+    {
+      "id": "dtbl3-08", "ex": ["DTB"],
+      "t": "Teil 3: Forum – Arbeitsvertrag",
+      "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+      "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+      "texte": [
+        {"k": "A – Frank", "text": "Ein befristeter Vertrag ohne Grund darf höchstens zwei Jahre dauern und in dieser Zeit dreimal verlängert werden. Danach müsste er unbefristet sein."},
+        {"k": "B – Larissa", "text": "Eine Verschwiegenheitsklausel bedeutet, dass du über Betriebsgeheimnisse nicht sprechen darfst – also zum Beispiel über Kundenlisten oder Preise. Über deine Arbeitsbedingungen darfst du trotzdem reden."},
+        {"k": "C – Emre", "text": "Überstunden mit dem Gehalt abgegolten? So eine Klausel ist oft unwirksam, wenn nicht klar steht, wie viele Stunden gemeint sind. Lass den Vertrag am besten prüfen."},
+        {"k": "D – Gabi", "text": "Mein erster Vertrag war auch kompliziert. Ich habe ihn einfach unterschrieben und es hat alles geklappt."},
+        {"k": "E – Ruslan", "text": "Ein Wettbewerbsverbot nach dem Ende des Vertrags gilt nur, wenn der Arbeitgeber dafür eine Entschädigung zahlt. Ohne Geld musst du dich nicht daran halten."},
+        {"k": "F – Hanne", "text": "Den Vertrag muss man nicht sofort unterschreiben. Nimm ihn mit nach Hause und lies ihn in Ruhe. Ein seriöser Arbeitgeber hat dafür Verständnis."},
+        {"k": "G – Stefan", "text": "Die Kündigungsfrist steht meistens im Vertrag. Wenn nicht, gilt die gesetzliche Frist von vier Wochen zum 15. oder zum Monatsende."}
+      ],
+      "fragen": [
+        {"q": "1 – Olga: Im Vertrag steht „Überstunden sind mit dem Gehalt abgegolten“. Muss ich jetzt jede Woche umsonst länger arbeiten?", "o": ["A","B","C","D","E","F","G","X"], "r": 2, "e": "C: Eine solche Klausel ist oft unwirksam."},
+        {"q": "2 – Jan: Mein Vertrag wurde jetzt schon zum vierten Mal befristet verlängert, insgesamt drei Jahre. Ist das normal?", "o": ["A","B","C","D","E","F","G","X"], "r": 0, "e": "A: Ohne Grund höchstens zwei Jahre und dreimal verlängern."},
+        {"q": "3 – Nelli: Ich soll den Vertrag gleich beim Gespräch unterschreiben. Ich verstehe aber nicht alles.", "o": ["A","B","C","D","E","F","G","X"], "r": 5, "e": "F: Man muss nicht sofort unterschreiben, man kann den Vertrag mit nach Hause nehmen."},
+        {"q": "4 – Bogdan: In meinem Vertrag steht nichts über Urlaub. Wie viele Tage stehen mir zu?", "o": ["A","B","C","D","E","F","G","X"], "r": 7, "e": "X: Keine Antwort spricht über Urlaubstage. G geht um die Kündigungsfrist."}
+      ]
+    },
+    {
+      "id": "dtbl3-09", "ex": ["DTB"],
+      "t": "Teil 3: Forum – Neue Technik im Betrieb",
+      "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+      "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+      "texte": [
+        {"k": "A – Dieter", "text": "Wenn der Arbeitgeber eine neue Software einführt, muss er euch auch schulen. Die Schulung findet in der Arbeitszeit statt. Sprich ihn ruhig darauf an."},
+        {"k": "B – Oksana", "text": "Eine Videoüberwachung am Arbeitsplatz ist nur in engen Grenzen erlaubt und muss deutlich angekündigt werden. In Pausenräumen und Toiletten ist sie verboten."},
+        {"k": "C – Lukas", "text": "Wir haben bei uns ein digitales Dienstplan-Tool. Am Anfang war es schwierig, aber jetzt finden es alle praktisch."},
+        {"k": "D – Elif", "text": "Private Nutzung des Firmenhandys hängt vom Arbeitgeber ab. Wenn es nicht ausdrücklich erlaubt ist, nutze es lieber nur dienstlich."},
+        {"k": "E – Rainer", "text": "Die Zeiterfassung per App ist erlaubt. Der Arbeitgeber darf aber nicht ständig deinen Standort verfolgen, wenn das für die Arbeit nicht nötig ist."},
+        {"k": "F – Kamila", "text": "Bei Computerproblemen schreib eine genaue Fehlermeldung: Was hast du gemacht, was ist passiert, was steht auf dem Bildschirm? Das spart der IT viel Zeit."},
+        {"k": "G – Tobias", "text": "Wer viel am Bildschirm arbeitet, hat Anspruch auf eine Untersuchung der Augen. Der Arbeitgeber zahlt sogar eine Bildschirmbrille, wenn sie nötig ist."}
+      ],
+      "fragen": [
+        {"q": "1 – Sergej: Unsere Firma führt eine Zeiterfassungs-App ein. Kann mein Chef damit sehen, wo ich bin?", "o": ["A","B","C","D","E","F","G","X"], "r": 4, "e": "E: Der Arbeitgeber darf nicht ständig den Standort verfolgen."},
+        {"q": "2 – Anke: Seit Montag haben wir ein neues Programm, aber niemand hat es uns erklärt. Muss ich mir das in der Freizeit beibringen?", "o": ["A","B","C","D","E","F","G","X"], "r": 0, "e": "A: Der Arbeitgeber muss schulen, und zwar in der Arbeitszeit."},
+        {"q": "3 – Milan: Ich sehe abends am Computer immer schlechter. Muss ich eine Brille selbst bezahlen?", "o": ["A","B","C","D","E","F","G","X"], "r": 6, "e": "G: Der Arbeitgeber zahlt eine Bildschirmbrille, wenn sie nötig ist."},
+        {"q": "4 – Rita: Im Lager hängen jetzt Kameras. Ist das überhaupt erlaubt?", "o": ["A","B","C","D","E","F","G","X"], "r": 1, "e": "B: Videoüberwachung ist nur in engen Grenzen erlaubt und muss angekündigt werden."}
+      ]
+    },
+    {
+      "id": "dtbl3-10", "ex": ["DTB"],
+      "t": "Teil 3: Forum – Arbeiten in der Gastronomie",
+      "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+      "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+      "texte": [
+        {"k": "A – Gino", "text": "Trinkgeld gehört grundsätzlich dem Personal, nicht dem Chef. Wenn ihr es teilt, sollte das Team die Regeln gemeinsam festlegen."},
+        {"k": "B – Mareike", "text": "Zwischen zwei Schichten müssen normalerweise elf Stunden Ruhe liegen. In der Gastronomie darf es manchmal kürzer sein, aber das muss dann später ausgeglichen werden."},
+        {"k": "C – Hassan", "text": "Arbeitskleidung, die der Chef vorschreibt, muss er auch bezahlen. Das gilt zum Beispiel für Kochjacken mit Logo."},
+        {"k": "D – Birte", "text": "Ich habe in der Gastronomie angefangen und bin jetzt Hotelmanagerin. Es lohnt sich, dranzubleiben!"},
+        {"k": "E – Viktor", "text": "Für Arbeit an Sonn- und Feiertagen gibt es oft Zuschläge. Ob du welche bekommst, steht im Tarifvertrag oder in deinem Arbeitsvertrag."},
+        {"k": "F – Leonie", "text": "Wenn du Teller fallen lässt, darf der Chef das nicht einfach vom Lohn abziehen. Bei normaler Unachtsamkeit haftest du nur zum Teil oder gar nicht."},
+        {"k": "G – Ömer", "text": "Personalessen ist in vielen Betrieben günstig oder kostenlos. Manchmal wird ein kleiner Betrag als Sachbezug auf der Lohnabrechnung angegeben."}
+      ],
+      "fragen": [
+        {"q": "1 – Kristina: Gestern habe ich ein Tablett mit Gläsern fallen lassen. Mein Chef will mir 80 Euro vom Lohn abziehen.", "o": ["A","B","C","D","E","F","G","X"], "r": 5, "e": "F: Bei normaler Unachtsamkeit haftet man nur zum Teil oder gar nicht."},
+        {"q": "2 – Dmitri: Ich soll eine Kochjacke mit dem Logo des Restaurants tragen. Die kostet 60 Euro. Wer zahlt das?", "o": ["A","B","C","D","E","F","G","X"], "r": 2, "e": "C: Vorgeschriebene Arbeitskleidung muss der Chef bezahlen."},
+        {"q": "3 – Lara: Ich habe bis Mitternacht gearbeitet und soll morgen um 7 Uhr wieder da sein. Ist das erlaubt?", "o": ["A","B","C","D","E","F","G","X"], "r": 1, "e": "B: Normalerweise elf Stunden Ruhe zwischen zwei Schichten."},
+        {"q": "4 – Pedro: Unsere Chefin behält das ganze Trinkgeld aus der Kasse. Darf sie das?", "o": ["A","B","C","D","E","F","G","X"], "r": 0, "e": "A: Trinkgeld gehört grundsätzlich dem Personal."}
+      ]
+    }
+  ]
+}

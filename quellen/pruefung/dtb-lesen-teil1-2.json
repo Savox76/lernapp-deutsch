@@ -1,0 +1,96 @@
+{
+  "lesen": [
+    {
+      "id": "dtbl1-07", "ex": ["DTB"],
+      "t": "Teil 1: Gastronomie und Hotel",
+      "anweisung": "Sie lesen in einer Branchenzeitschrift für Gastronomie kurze Artikel. Welcher Artikel (a–h) passt zu welcher Person (1–5)? Drei Artikel bleiben übrig.",
+      "ru": "Прочитайте короткие статьи в отраслевом журнале о гастрономии. Какая статья (a–h) подходит какому человеку (1–5)? Три статьи лишние.",
+      "texte": [
+        {"k": "a", "text": "Allergene richtig kennzeichnen. Seit einigen Jahren müssen Restaurants angeben, welche Gerichte zum Beispiel Nüsse, Milch oder Gluten enthalten. Eine Vorlage für die Speisekarte gibt es kostenlos zum Herunterladen."},
+        {"k": "b", "text": "Trinkgeld – wem gehört es? Ob Trinkgeld geteilt wird, entscheidet nicht allein der Chef. Wichtig ist, was im Team vereinbart wurde. Wir erklären, welche Modelle fair sind."},
+        {"k": "c", "text": "Vom Spüler zum Koch. Viele Küchenhelfer lernen in der Praxis mehr, als sie denken. Mit einer Teilqualifizierung kann man Schritt für Schritt einen anerkannten Abschluss als Koch erreichen."},
+        {"k": "d", "text": "Weniger wegwerfen. Ein Gasthaus in Bayern hat seinen Lebensmittelabfall halbiert: kleinere Portionen, Nachschlag gratis und Reste als Tagesgericht am nächsten Tag."},
+        {"k": "e", "text": "Schwierige Gäste. Wenn sich ein Gast laut beschwert, hilft es, ruhig zu bleiben, zuzuhören und eine Lösung anzubieten – zum Beispiel ein neues Gericht oder ein Getränk aufs Haus."},
+        {"k": "f", "text": "Hygieneschulung Pflicht. Wer mit offenen Lebensmitteln arbeitet, braucht vor dem ersten Arbeitstag eine Belehrung beim Gesundheitsamt. Die Bescheinigung muss im Betrieb aufbewahrt werden."},
+        {"k": "g", "text": "Saisonarbeit an der Küste. Hotels an Nord- und Ostsee suchen für den Sommer Servicekräfte. Viele bieten ein Zimmer im Personalhaus und bezahlen die Anreise."},
+        {"k": "h", "text": "Bewertungen im Internet. Schlechte Online-Bewertungen ärgern viele Wirte. Eine sachliche, freundliche Antwort wirkt auf neue Gäste besser als eine wütende Reaktion."}
+      ],
+      "fragen": [
+        {"q": "Ahmed arbeitet seit vier Jahren als Küchenhilfe und möchte gern einen Berufsabschluss machen.", "o": ["a","b","c","d","e","f","g","h"], "r": 2, "e": "c: Küchenhelfer können mit einer Teilqualifizierung einen Abschluss als Koch erreichen."},
+        {"q": "Tanja fängt nächste Woche in einer Bäckerei an. Ihre Chefin sagt, sie braucht vorher noch ein Papier vom Amt.", "o": ["a","b","c","d","e","f","g","h"], "r": 5, "e": "f: Vor dem ersten Arbeitstag braucht man eine Belehrung beim Gesundheitsamt."},
+        {"q": "Ein Gast hat im Internet geschrieben, das Essen sei kalt gewesen. Restaurantbesitzer Paul ist sauer.", "o": ["a","b","c","d","e","f","g","h"], "r": 7, "e": "h: Auf schlechte Online-Bewertungen sachlich und freundlich antworten."},
+        {"q": "Nadja sucht für die Sommermonate eine Arbeit mit Unterkunft.", "o": ["a","b","c","d","e","f","g","h"], "r": 6, "e": "g: Saisonarbeit mit Zimmer im Personalhaus."},
+        {"q": "In Lenas Restaurant wird jeden Abend viel Essen weggeworfen.", "o": ["a","b","c","d","e","f","g","h"], "r": 3, "e": "d: Ein Gasthaus hat seinen Lebensmittelabfall halbiert."}
+      ]
+    },
+    {
+      "id": "dtbl1-08", "ex": ["DTB"],
+      "t": "Teil 1: Arbeit und neue Medien",
+      "anweisung": "Sie lesen auf einem Nachrichtenportal kurze Artikel und möchten sie Bekannten schicken. Welcher Artikel (a–h) passt zu welcher Person (1–5)? Drei Artikel bleiben übrig.",
+      "ru": "Прочитайте короткие статьи на новостном портале. Какая статья (a–h) подходит какому человеку (1–5)? Три статьи лишние.",
+      "texte": [
+        {"k": "a", "text": "Jobsuche über soziale Netzwerke. Immer mehr Firmen veröffentlichen Stellen auf Instagram oder LinkedIn. Ein gepflegtes Profil mit Foto und Berufserfahrung erhöht die Chancen."},
+        {"k": "b", "text": "Was der Chef im Netz sehen darf. Private Fotos und Kommentare können Folgen haben, wenn man öffentlich über den Arbeitgeber schimpft. Prüfen Sie, wer Ihre Beiträge lesen kann."},
+        {"k": "c", "text": "Handy am Arbeitsplatz. Ob man im Dienst private Nachrichten lesen darf, regelt der Arbeitgeber. In vielen Betrieben ist das Handy nur in den Pausen erlaubt."},
+        {"k": "d", "text": "Digital-Detox: eine Woche ohne Smartphone. Unsere Redakteurin hat es ausprobiert – und schläft seitdem deutlich besser."},
+        {"k": "e", "text": "Betrug per E-Mail. Gefälschte Nachrichten von angeblichen Banken oder Paketdiensten werden immer echter. Klicken Sie nie auf Links, wenn Sie nach Passwörtern gefragt werden."},
+        {"k": "f", "text": "Videokonferenz ohne Pannen. Mikrofon aus, wenn man nicht spricht, und vorher die Verbindung testen: Mit fünf Regeln werden Online-Besprechungen kürzer und klarer."},
+        {"k": "g", "text": "Grafiken verstehen. Säulen, Kurven, Kreise: Wer im Beruf Zahlen präsentieren muss, sollte die wichtigsten Diagramme beschreiben können. Wir zeigen nützliche Formulierungen."},
+        {"k": "h", "text": "Kinder und Bildschirmzeit. Kinderärzte empfehlen für Grundschulkinder höchstens eine Stunde am Tag. Feste Regeln für die ganze Familie helfen."}
+      ],
+      "fragen": [
+        {"q": "Frau Lindner hat eine E-Mail bekommen, angeblich von ihrer Bank. Sie soll ihr Passwort bestätigen.", "o": ["a","b","c","d","e","f","g","h"], "r": 4, "e": "e: Betrug per E-Mail – nie auf Links klicken, wenn nach Passwörtern gefragt wird."},
+        {"q": "Oleg soll in der nächsten Teamsitzung die Verkaufszahlen mit einem Diagramm vorstellen.", "o": ["a","b","c","d","e","f","g","h"], "r": 6, "e": "g: Diagramme beschreiben und Zahlen präsentieren."},
+        {"q": "Mia hat auf Facebook über ihren Chef geschrieben. Jetzt fragt sie sich, ob das Probleme geben kann.", "o": ["a","b","c","d","e","f","g","h"], "r": 1, "e": "b: Öffentliches Schimpfen über den Arbeitgeber im Netz kann Folgen haben."},
+        {"q": "Herr Sommer leitet ab jetzt jede Woche eine Online-Besprechung. Die letzte dauerte zwei Stunden.", "o": ["a","b","c","d","e","f","g","h"], "r": 5, "e": "f: Regeln für kürzere und klarere Videokonferenzen."},
+        {"q": "Swetlana sucht eine neue Stelle und hat gehört, dass Firmen auch auf Instagram Mitarbeiter suchen.", "o": ["a","b","c","d","e","f","g","h"], "r": 0, "e": "a: Jobsuche über soziale Netzwerke."}
+      ]
+    },
+    {
+      "id": "dtbl1-09", "ex": ["DTB"],
+      "t": "Teil 1: Neu in Deutschland arbeiten",
+      "anweisung": "Sie lesen in einem Ratgeber für internationale Fachkräfte kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Drei Texte bleiben übrig.",
+      "ru": "Прочитайте короткие тексты в справочнике для иностранных специалистов. Какой текст (a–h) подходит какому человеку (1–5)? Три текста лишние.",
+      "texte": [
+        {"k": "a", "text": "Du oder Sie? In vielen deutschen Firmen siezt man sich, in jungen Teams duzt man sich oft. Im Zweifel wartet man, bis die ältere oder ranghöhere Person das Du anbietet."},
+        {"k": "b", "text": "Pünktlichkeit zählt. Wer zu einer Besprechung zehn Minuten zu spät kommt, gilt schnell als unzuverlässig. Wenn es doch passiert, kurz anrufen oder schreiben."},
+        {"k": "c", "text": "Die Steuer-ID. Jeder, der in Deutschland gemeldet ist, bekommt automatisch eine Steuer-Identifikationsnummer per Post. Der Arbeitgeber braucht sie für die Lohnabrechnung."},
+        {"k": "d", "text": "Familie nachholen. Wer seine Familie nach Deutschland holen möchte, braucht genug Wohnraum und Einkommen. Die Ausländerbehörde berät zu den Unterlagen."},
+        {"k": "e", "text": "Kritik auf Deutsch. Deutsche Kollegen sagen oft direkt, was nicht gut ist. Das ist meistens nicht persönlich gemeint, sondern soll die Arbeit verbessern."},
+        {"k": "f", "text": "Rente aus dem Ausland. Versicherungszeiten in anderen Ländern können bei der deutschen Rente zählen. Ob das gilt, hängt von Abkommen zwischen den Staaten ab."},
+        {"k": "g", "text": "Smalltalk in der Kaffeeküche. Wetter, Wochenende, Urlaub – mit einfachen Themen kommt man ins Gespräch. Fragen nach Gehalt oder Religion sind eher unüblich."},
+        {"k": "h", "text": "Wohnungssuche mit Schufa. Viele Vermieter verlangen eine Bescheinigung über die Kreditwürdigkeit. Sie kann einmal im Jahr kostenlos angefordert werden."}
+      ],
+      "fragen": [
+        {"q": "Irina hat in Kasachstan 15 Jahre gearbeitet und fragt sich, ob diese Zeit für ihre Rente in Deutschland wichtig ist.", "o": ["a","b","c","d","e","f","g","h"], "r": 5, "e": "f: Versicherungszeiten aus anderen Ländern können für die Rente zählen."},
+        {"q": "Der neue Kollege von Ali hat gesagt: „Dein Bericht ist zu lang und unklar.“ Ali ist gekränkt.", "o": ["a","b","c","d","e","f","g","h"], "r": 4, "e": "e: Direkte Kritik ist meist nicht persönlich gemeint."},
+        {"q": "Die Personalabteilung möchte von Maria eine Nummer für die Lohnabrechnung, aber sie weiß nicht, welche.", "o": ["a","b","c","d","e","f","g","h"], "r": 2, "e": "c: Der Arbeitgeber braucht die Steuer-ID für die Lohnabrechnung."},
+        {"q": "Pavel ist neu im Team und weiß nicht, ob er seine Chefin mit Vornamen ansprechen soll.", "o": ["a","b","c","d","e","f","g","h"], "r": 0, "e": "a: Du oder Sie – im Zweifel warten, bis die ranghöhere Person das Du anbietet."},
+        {"q": "Elena sucht eine Wohnung. Der Vermieter will ein Papier über ihre Schulden sehen.", "o": ["a","b","c","d","e","f","g","h"], "r": 7, "e": "h: Viele Vermieter verlangen eine Bescheinigung über die Kreditwürdigkeit."}
+      ]
+    },
+    {
+      "id": "dtbl1-10", "ex": ["DTB"],
+      "t": "Teil 1: Handel und Verkauf",
+      "anweisung": "Sie lesen im Newsletter eines Handelsverbands kurze Meldungen. Welche Meldung (a–h) passt zu welcher Person (1–5)? Drei Meldungen bleiben übrig.",
+      "ru": "Прочитайте короткие сообщения в рассылке торговой ассоциации. Какое сообщение (a–h) подходит какому человеку (1–5)? Три сообщения лишние.",
+      "texte": [
+        {"k": "a", "text": "Umtausch ohne Kassenbon? Ein gesetzliches Recht auf Umtausch gibt es nur bei Mängeln. Viele Geschäfte tauschen aus Kulanz trotzdem um – aber nur mit Beleg."},
+        {"k": "b", "text": "Diebstahl im Laden verhindern. Aufmerksames Personal ist der beste Schutz. Ein kurzer Gruß an jeden Kunden zeigt: Hier wird man gesehen."},
+        {"k": "c", "text": "Kasse am Abend stimmt nicht? Wer regelmäßig zu wenig Geld in der Kasse hat, sollte das Zählen zu zweit einführen und Fehlbeträge sofort dokumentieren."},
+        {"k": "d", "text": "Online-Shop für kleine Läden. Mit einfachen Baukastensystemen kann auch ein kleines Geschäft ohne Programmierkenntnisse seine Waren im Internet verkaufen."},
+        {"k": "e", "text": "Sonntagsöffnung. Geschäfte dürfen nur an wenigen Sonntagen im Jahr öffnen. Die Termine legt die Stadt fest."},
+        {"k": "f", "text": "Ware richtig präsentieren. Produkte auf Augenhöhe verkaufen sich am besten. Teure Artikel gehören in die Mitte des Regals, Angebote an den Eingang."},
+        {"k": "g", "text": "Ausbildung im Einzelhandel. Die Ausbildung zur Kauffrau im Einzelhandel dauert drei Jahre, zum Verkäufer zwei Jahre. Beide Wege führen zu einem anerkannten Abschluss."},
+        {"k": "h", "text": "Reklamation professionell bearbeiten. Hören Sie zu, entschuldigen Sie sich für die Unannehmlichkeiten und bieten Sie Reparatur, Ersatz oder Gutschrift an."}
+      ],
+      "fragen": [
+        {"q": "Frau Weber hat einen kleinen Laden für Wolle und möchte ihre Produkte auch im Internet anbieten.", "o": ["a","b","c","d","e","f","g","h"], "r": 3, "e": "d: Online-Shop für kleine Läden ohne Programmierkenntnisse."},
+        {"q": "Ein Kunde möchte eine Hose zurückgeben, die ihm nicht gefällt. Den Kassenbon hat er verloren.", "o": ["a","b","c","d","e","f","g","h"], "r": 0, "e": "a: Umtausch ohne Kassenbon – nur aus Kulanz und meistens nur mit Beleg."},
+        {"q": "Bei Verkäuferin Diana fehlen am Ende der Schicht oft ein paar Euro in der Kasse.", "o": ["a","b","c","d","e","f","g","h"], "r": 2, "e": "c: Wenn die Kasse nicht stimmt – zu zweit zählen und Fehlbeträge dokumentieren."},
+        {"q": "Ein Kunde bringt einen defekten Wasserkocher zurück und ist sehr verärgert. Lehrling Tim weiß nicht, was er sagen soll.", "o": ["a","b","c","d","e","f","g","h"], "r": 7, "e": "h: Reklamation professionell bearbeiten."},
+        {"q": "Kemal arbeitet als Aushilfe im Supermarkt und möchte einen richtigen Abschluss im Verkauf machen.", "o": ["a","b","c","d","e","f","g","h"], "r": 6, "e": "g: Ausbildung im Einzelhandel mit anerkanntem Abschluss."}
+      ]
+    }
+  ]
+}

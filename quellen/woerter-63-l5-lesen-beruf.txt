@@ -1,0 +1,61 @@
+# L5 Wörter aus den neuen DTB-Lesetexten (Gastronomie, Handel, Medien, IT, Bau, Pflege, Arbeitsrecht)
+Mittagsmenü|das|Mittagsmenüs|N|бизнес-ланч|günstiges Essen am Mittag mit mehreren Gängen|Das Mittagsmenü kostet 9,90 Euro.|B1|Gastronomie
+Küchenleitung|die|Küchenleitungen|N|руководство кухни|Chef oder Chefin in der Küche|Melden Sie Krankheiten sofort der Küchenleitung.|B2|Gastronomie
+Haube|die|Hauben|N|шапочка (рабочая)|Kopfbedeckung, z. B. in der Küche|Lange Haare müssen unter einer Haube sein.|B1|Gastronomie
+Allergen|das|Allergene|N|аллерген|Stoff, der eine Allergie auslösen kann|Auf der Speisekarte stehen alle Allergene.|B2|Gastronomie
+Nachschlag|der|Nachschläge|N|добавка (еды)|zweite Portion Essen|Nachschlag gibt es kostenlos.|B1|Gastronomie
+Lebensmittelabfall|der|Lebensmittelabfälle|N|пищевые отходы|Essen, das weggeworfen wird|Wir wollen weniger Lebensmittelabfall produzieren.|B2|Gastronomie
+Belehrung|die|Belehrungen|N|инструктаж|offizielle Information über Regeln, z. B. beim Gesundheitsamt|Vor dem ersten Arbeitstag braucht man eine Belehrung.|B2|Gastronomie
+Saisonarbeit|die|-|N|сезонная работа|Arbeit nur in einer bestimmten Jahreszeit|Im Sommer gibt es viel Saisonarbeit an der Küste.|B1|Tourismus
+Personalhaus|das|Personalhäuser|N|общежитие для персонала|Haus, in dem Mitarbeiter eines Hotels wohnen|Die Servicekräfte wohnen im Personalhaus.|B2|Tourismus
+Wirt|der|Wirte|N|хозяин ресторана, трактирщик|Person, die eine Gaststätte führt|Der Wirt begrüßt jeden Gast persönlich.|B1|Gastronomie
+Gastraum|der|Gasträume|N|зал ресторана|Raum, in dem die Gäste essen|Im Gastraum ist es abends sehr laut.|B2|Gastronomie
+Lautstärke|die|Lautstärken|N|громкость|wie laut etwas ist|Die Gäste beschweren sich über die Lautstärke.|B1|Alltag
+Kochjacke|die|Kochjacken|N|поварская куртка|weiße Jacke, die Köche tragen|Die Kochjacke bekommt man vom Betrieb.|B1|Gastronomie
+Personalessen|das|-|N|питание для персонала|Essen für die Mitarbeiter im Betrieb|Das Personalessen ist kostenlos.|B2|Gastronomie
+Probeschicht|die|Probeschichten|N|пробная смена|Schicht zum Ausprobieren vor dem Vertrag|Nach zwei Probeschichten bekam ich den Vertrag.|B2|Arbeit
+Teilqualifizierung|die|Teilqualifizierungen|N|частичная квалификация|Weiterbildung in Teilen bis zum Berufsabschluss|Mit einer Teilqualifizierung kann man Schritt für Schritt Koch werden.|B2|Bildung
+Kauffrau|die|Kauffrauen|N|продавец-коммерсант (с образованием)|Frau mit einer kaufmännischen Ausbildung|Sie ist Kauffrau im Einzelhandel.|B1|Beruf
+Lehrling|der|Lehrlinge|N|ученик (на производстве)|Person in der Ausbildung, Azubi|Der Lehrling lernt das Kassieren.|B1|Beruf
+Fehlbetrag|der|Fehlbeträge|N|недостача|Geld, das in der Kasse fehlt|Den Fehlbetrag muss man sofort aufschreiben.|B2|Handel
+Programmierkenntnisse|die|- (nur Plural)|N|навыки программирования|Wissen, wie man Computerprogramme schreibt|Für den Online-Shop braucht man keine Programmierkenntnisse.|B2|IT
+Verkaufszahl|die|Verkaufszahlen|N|показатели продаж|wie viel verkauft wurde|Die Verkaufszahlen sind im Herbst gestiegen.|B2|Handel
+Ticketsystem|das|Ticketsysteme|N|система заявок|Programm, in das man Anfragen an die IT schreibt|Stellen Sie den Antrag über das Ticketsystem.|B2|IT
+Firmenlaufwerk|das|Firmenlaufwerke|N|общий сетевой диск фирмы|Speicher im Netz der Firma für gemeinsame Dateien|Speichern Sie Dateien auf dem Firmenlaufwerk.|B2|IT
+Firmenhandy|das|Firmenhandys|N|служебный телефон|Handy, das die Firma bezahlt|Mit dem Firmenhandy darf ich nicht privat telefonieren.|B1|IT
+Betrug|der|-|N|мошенничество|jemanden täuschen, um Geld zu bekommen|Diese E-Mail ist ein Betrug.|B1|Medien
+gefälscht|-|-|A|поддельный|nicht echt, nachgemacht|Die Nachricht kam von einer gefälschten Adresse.|B2|Medien
+Profil|das|Profile|N|профиль|Seite mit Informationen über eine Person im Internet|Ein gutes Profil erhöht die Chancen bei der Jobsuche.|B1|Medien
+Mikrofon|das|Mikrofone|N|микрофон|Gerät, das die Stimme aufnimmt|Schalten Sie das Mikrofon aus, wenn Sie nicht sprechen.|A2|Medien
+Säule|die|Säulen|N|столбец (в диаграмме); колонна|senkrechter Balken in einem Diagramm|Die blaue Säule zeigt das Jahr 2025.|B2|Medien
+Kurve|die|Kurven|N|кривая; поворот|Linie in einem Diagramm; Biegung einer Straße|Die Kurve steigt im Sommer stark an.|B1|Medien
+Smalltalk|der|-|N|светская беседа|kurzes, lockeres Gespräch|In der Kaffeeküche macht man oft Smalltalk.|B1|Kultur
+Wohnraum|der|-|N|жилая площадь|Platz zum Wohnen|Für den Familiennachzug braucht man genug Wohnraum.|B2|Wohnen
+Versicherungszeit|die|Versicherungszeiten|N|страховой стаж|Zeit, in der man in die Rentenversicherung gezahlt hat|Versicherungszeiten im Ausland können zählen.|B2|Behörden
+Abkommen|das|Abkommen|N|соглашение|Vertrag zwischen Staaten|Zwischen beiden Ländern gibt es ein Abkommen.|B2|Gesellschaft
+Kreditwürdigkeit|die|-|N|кредитоспособность|ob man Schulden zuverlässig zurückzahlt|Viele Vermieter prüfen die Kreditwürdigkeit.|B2|Wohnen
+Befragung|die|Befragungen|N|опрос|man fragt viele Menschen nach ihrer Meinung|An der Befragung haben 300 Personen teilgenommen.|B2|Arbeit
+Gerücht|das|Gerüchte|N|слух|Information, die man weitererzählt, ohne zu wissen, ob sie stimmt|Im Büro gibt es ein Gerücht über Kündigungen.|B2|Arbeit
+Bilanz|die|Bilanzen|N|итог; баланс|Ergebnis, das man am Ende zieht|Die Leitung zieht eine positive Bilanz.|B2|Arbeit
+Ausfall|der|Ausfälle|N|выход из строя; отсутствие (сотрудника)|wenn etwas oder jemand nicht da ist oder nicht funktioniert|Bei Ausfällen übernimmt die Springerin die Tour.|B2|Arbeit
+Springerin|die|Springerinnen|N|сотрудница на подмене|Mitarbeiterin, die einspringt, wenn jemand fehlt|Heute hat Olga Dienst als Springerin.|B2|Pflege
+Dienstplanung|die|-|N|составление графика дежурств|Planung, wer wann arbeitet|Die neue Dienstplanung bringt mehr Ruhe.|B2|Arbeit
+Kinderkrankengeld|das|-|N|пособие по уходу за больным ребёнком|Geld von der Krankenkasse, wenn man wegen eines kranken Kindes zu Hause bleibt|Für drei Tage habe ich Kinderkrankengeld bekommen.|B2|Familie
+Brückenteilzeit|die|-|N|временная неполная занятость|Teilzeit für eine feste Zeit, danach zurück in Vollzeit|Mit der Brückenteilzeit kann ich später wieder Vollzeit arbeiten.|B2|Recht
+Klausel|die|Klauseln|N|пункт договора|bestimmte Regel in einem Vertrag|Diese Klausel ist unwirksam.|B2|Recht
+unwirksam|-|-|A|недействительный|gilt rechtlich nicht|Die Regel im Vertrag ist unwirksam.|B2|Recht
+abgelten|-|gilt ab, galt ab, hat abgegolten|V|покрывать, компенсировать (оплатой)|mit einer Zahlung erledigen|Überstunden sind mit dem Gehalt abgegolten.|B2|Recht
+Betriebsgeheimnis|das|Betriebsgeheimnisse|N|коммерческая тайна|Information, die nur die Firma kennen darf|Kundenlisten sind ein Betriebsgeheimnis.|B2|Recht
+Wettbewerbsverbot|das|Wettbewerbsverbote|N|запрет на конкуренцию|Verbot, für eine Konkurrenzfirma zu arbeiten|Für das Wettbewerbsverbot muss die Firma zahlen.|B2|Recht
+Unachtsamkeit|die|-|N|невнимательность|wenn man nicht genug aufpasst|Aus Unachtsamkeit ist das Glas heruntergefallen.|B2|Arbeit
+Sachbezug|der|Sachbezüge|N|натуральная выплата|Leistung vom Arbeitgeber, die kein Geld ist, z. B. Essen|Das Essen steht als Sachbezug auf der Abrechnung.|B2|Recht
+Bildschirmbrille|die|Bildschirmbrillen|N|очки для работы за компьютером|Brille für die Arbeit am Computer|Der Arbeitgeber zahlt die Bildschirmbrille.|B2|Gesundheit
+Ruhezone|die|Ruhezonen|N|тихая зона|Bereich, in dem man leise sein muss|In der Ruhezone wird nicht telefoniert.|B1|Büro
+Telefonbox|die|Telefonboxen|N|телефонная кабина (в офисе)|kleiner Raum zum Telefonieren im Büro|Für Telefonate gibt es Telefonboxen.|B2|Büro
+Bauleitung|die|Bauleitungen|N|руководство строительством|Person oder Team, das eine Baustelle leitet|Die Bauleitung hat den Zeitplan geändert.|B2|Bau
+Absperrung|die|Absperrungen|N|ограждение|Zaun oder Band, das einen Bereich sperrt|Die Absperrung muss immer geschlossen sein.|B2|Bau
+Wasserrohr|das|Wasserrohre|N|водопроводная труба|Rohr, durch das Wasser fließt|Der Installateur verlegt die Wasserrohre.|B1|Bau
+Regenkleidung|die|-|N|непромокаемая одежда|Kleidung, die vor Regen schützt|Bringen Sie Regenkleidung mit.|A2|Freizeit
+Bauernhof|der|Bauernhöfe|N|ферма|Betrieb auf dem Land mit Tieren und Feldern|Das Gemüse kommt von einem Bauernhof in der Nähe.|A2|Natur
+Berufseinstieg|der|Berufseinstiege|N|начало профессиональной карьеры|der erste Job nach Schule oder Ausbildung|Der Berufseinstieg ist oft nicht leicht.|B2|Beruf
+Freiwillige|die|Freiwilligen|N|доброволец|Person, die etwas ohne Zwang tut|Für den Wochenenddienst gibt es zu wenige Freiwillige.|B1|Gesellschaft

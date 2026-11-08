@@ -1,0 +1,60 @@
+{
+  "lesen": [
+    {
+      "id": "dtbl4-07", "ex": ["DTB"],
+      "t": "Teil 4: Protokoll – Küchenbesprechung im Restaurant",
+      "anweisung": "Sie lesen das Protokoll einer Besprechung im Restaurant. Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте протокол совещания в ресторане. Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Protokoll Teambesprechung Restaurant „Elbblick“, 03.09.", "text": "Anwesend: Hr. Lange (Inhaber, HL), Fr. Becker (Küchenchefin, FB), Hr. Diaz (Service, HD), Fr. Popova (Service, Protokoll)\n\nTOP 1: Neue Speisekarte\nFB stellt die Herbstkarte vor, die ab 1. Oktober gilt. Es gibt drei neue vegetarische Gerichte und ein günstiges Mittagsmenü für Berufstätige. HD gibt zu bedenken, dass die Gäste mittags oft wenig Zeit haben. Es wird beschlossen, dass das Mittagsmenü innerhalb von 15 Minuten serviert werden soll.\n\nTOP 2: Lieferanten\nDer Gemüselieferant hat zuletzt dreimal zu spät geliefert. FB schlägt vor, einen regionalen Bauernhof zu testen. HL ist einverstanden, möchte aber zuerst die Preise vergleichen. Verantwortlich: FB bis 20.09.\n\nTOP 3: Personal\nAb Oktober fehlt eine Servicekraft. HL möchte zunächst eine Aushilfe für das Wochenende einstellen. HD bittet darum, dass neue Kolleginnen zwei Probeschichten machen, bevor ein Vertrag geschlossen wird. Angenommen.\n\nTOP 4: Bewertungen\nIm Internet wurde mehrfach die Lautstärke im Gastraum kritisiert. HL prüft Angebote für schallschluckende Wandelemente.\n\nNächste Besprechung: 1. Oktober, 10 Uhr."}],
+      "fragen": [
+        {"q": "Das Mittagsmenü …", "o": ["soll schnell auf dem Tisch sein.", "gibt es nur für Vegetarier.", "gilt schon ab September."], "r": 0, "e": "„… innerhalb von 15 Minuten serviert werden soll.“"},
+        {"q": "Bevor man einen neuen Lieferanten testet, …", "o": ["kündigt man den alten.", "vergleicht man die Preise.", "fragt man die Gäste."], "r": 1, "e": "HL „möchte aber zuerst die Preise vergleichen“."},
+        {"q": "Wer sich um den neuen Lieferanten kümmert, ist …", "o": ["der Inhaber.", "die Küchenchefin.", "Herr Diaz."], "r": 1, "e": "„Verantwortlich: FB“ = Frau Becker, die Küchenchefin."},
+        {"q": "Neue Servicekräfte …", "o": ["bekommen sofort einen Vertrag.", "arbeiten zuerst zweimal zur Probe.", "arbeiten nur in der Küche."], "r": 1, "e": "„… zwei Probeschichten machen, bevor ein Vertrag geschlossen wird. Angenommen.“"},
+        {"q": "Was kritisieren Gäste im Internet?", "o": ["Die Preise.", "Dass es im Restaurant zu laut ist.", "Die langen Wartezeiten."], "r": 1, "e": "„… die Lautstärke im Gastraum kritisiert.“"}
+      ]
+    },
+    {
+      "id": "dtbl4-08", "ex": ["DTB"],
+      "t": "Teil 4: Bericht – Mitarbeiterbefragung",
+      "anweisung": "Sie lesen einen Bericht über eine Befragung in Ihrem Unternehmen. Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте отчёт об опросе сотрудников в вашей компании. Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Ergebnisse der Mitarbeiterbefragung", "text": "An der diesjährigen Befragung haben 312 von 450 Beschäftigten teilgenommen, deutlich mehr als im Vorjahr. Die Ergebnisse zeigen ein gemischtes Bild.\nSehr zufrieden sind die Beschäftigten mit dem Zusammenhalt im Team: 82 Prozent fühlen sich von ihren Kolleginnen und Kollegen unterstützt. Auch die Möglichkeit, teilweise von zu Hause zu arbeiten, wird positiv bewertet.\nKritisch sehen viele dagegen die Kommunikation der Geschäftsleitung. Mehr als die Hälfte gibt an, wichtige Entscheidungen erst aus der Gerüchteküche zu erfahren. Außerdem wünschen sich viele mehr Weiterbildung: Nur ein Drittel hat im letzten Jahr an einer Schulung teilgenommen.\nDie Geschäftsleitung reagiert mit zwei Maßnahmen. Ab sofort gibt es einmal im Monat eine kurze Online-Versammlung für alle, in der aktuelle Themen erklärt werden und Fragen gestellt werden können. Außerdem erhält jede Abteilung ein festes Budget für Fortbildungen. Über die Verwendung entscheidet die Abteilungsleitung zusammen mit dem Team."}],
+      "fragen": [
+        {"q": "An der Befragung haben …", "o": ["weniger Leute als letztes Jahr teilgenommen.", "mehr Leute als letztes Jahr teilgenommen.", "alle Beschäftigten teilgenommen."], "r": 1, "e": "„… deutlich mehr als im Vorjahr.“"},
+        {"q": "Sehr positiv sehen die Beschäftigten …", "o": ["die Zusammenarbeit im Team.", "die Kommunikation der Leitung.", "das Angebot an Schulungen."], "r": 0, "e": "„Sehr zufrieden … mit dem Zusammenhalt im Team.“"},
+        {"q": "Was kritisieren viele?", "o": ["Dass sie zu oft zu Hause arbeiten müssen.", "Dass sie wichtige Entscheidungen nur über Gerüchte erfahren.", "Dass das Team sie nicht unterstützt."], "r": 1, "e": "„… wichtige Entscheidungen erst aus der Gerüchteküche zu erfahren.“"},
+        {"q": "Die monatliche Online-Versammlung …", "o": ["ist nur für Führungskräfte.", "informiert alle und lässt Fragen zu.", "ersetzt die Teambesprechungen."], "r": 1, "e": "„… für alle, in der aktuelle Themen erklärt werden und Fragen gestellt werden können.“"},
+        {"q": "Wie das Geld für Fortbildungen verwendet wird, …", "o": ["entscheidet die Geschäftsleitung allein.", "entscheiden Abteilungsleitung und Team gemeinsam.", "entscheidet jeder Mitarbeiter selbst."], "r": 1, "e": "„Über die Verwendung entscheidet die Abteilungsleitung zusammen mit dem Team.“"}
+      ]
+    },
+    {
+      "id": "dtbl4-09", "ex": ["DTB"],
+      "t": "Teil 4: Protokoll – Baustellenbesprechung",
+      "anweisung": "Sie arbeiten auf einer Baustelle und lesen das Protokoll der Baubesprechung. Welche Antwort (a, b oder c) passt?",
+      "ru": "Вы работаете на стройке и читаете протокол совещания. Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Baubesprechung Wohnanlage Lindenhof, 17.04.", "text": "Anwesend: Hr. Krämer (Bauleitung, BK), Fr. Aydin (Elektro, EA), Hr. Polak (Sanitär, SP), Hr. Weiß (Maler, MW)\n\nTOP 1: Zeitplan\nBK berichtet, dass die Arbeiten im zweiten Stock wegen der Regenwochen etwa zehn Tage hinter dem Plan liegen. Die Übergabe an die Mieter am 1. Juli soll trotzdem eingehalten werden. Dafür wird ab Montag auch samstags gearbeitet.\n\nTOP 2: Elektro und Sanitär\nEA weist darauf hin, dass sie erst mit den Leitungen im Bad beginnen kann, wenn SP die Wasserrohre verlegt hat. SP sagt zu, bis Freitag fertig zu sein. Die Abstimmung erfolgt künftig jeden Morgen kurz um 7 Uhr am Container.\n\nTOP 3: Sicherheit\nBei einer Kontrolle wurden fehlende Helme und offene Absperrungen bemängelt. BK betont, dass Verstöße ab sofort schriftlich festgehalten werden. Neue Helme liegen im Container bereit.\n\nTOP 4: Material\nDie Farbe für das Treppenhaus wurde falsch geliefert. MW hat sie bereits reklamiert; die richtige Lieferung kommt nächste Woche. Bis dahin streicht MW die Wohnungen."}],
+      "fragen": [
+        {"q": "Damit der Termin am 1. Juli klappt, …", "o": ["wird der Termin verschoben.", "arbeitet man zusätzlich am Samstag.", "kommen mehr Firmen auf die Baustelle."], "r": 1, "e": "„Dafür wird ab Montag auch samstags gearbeitet.“"},
+        {"q": "Frau Aydin kann im Bad erst anfangen, …", "o": ["wenn die Wasserrohre verlegt sind.", "wenn der Maler fertig ist.", "wenn es nicht mehr regnet."], "r": 0, "e": "„… erst …, wenn SP die Wasserrohre verlegt hat.“"},
+        {"q": "Elektro und Sanitär sprechen sich in Zukunft …", "o": ["jede Woche einmal ab.", "jeden Morgen kurz ab.", "per E-Mail ab."], "r": 1, "e": "„… jeden Morgen kurz um 7 Uhr am Container.“"},
+        {"q": "Was passiert bei Verstößen gegen die Sicherheitsregeln?", "o": ["Sie werden schriftlich notiert.", "Man muss sofort die Baustelle verlassen.", "Man bekommt einen neuen Helm."], "r": 0, "e": "„… Verstöße ab sofort schriftlich festgehalten werden.“"},
+        {"q": "Der Maler …", "o": ["wartet, bis die richtige Farbe kommt.", "arbeitet inzwischen in den Wohnungen.", "hat die falsche Farbe benutzt."], "r": 1, "e": "„Bis dahin streicht MW die Wohnungen.“"}
+      ]
+    },
+    {
+      "id": "dtbl4-10", "ex": ["DTB"],
+      "t": "Teil 4: Bericht – Neue Arbeitszeitregelung im Pflegedienst",
+      "anweisung": "Sie lesen einen Bericht in der Mitarbeiterzeitung. Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте отчёт в газете для сотрудников. Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Mehr Planbarkeit im ambulanten Dienst", "text": "Seit März testet unser ambulanter Pflegedienst ein neues Modell für die Dienstplanung. Bisher wurden Pflegekräfte oft kurzfristig angerufen, wenn jemand krank war. Viele empfanden das als große Belastung für ihr Privatleben.\nIm neuen Modell gibt es an jedem Tag eine sogenannte Springerin. Sie hat Bereitschaft und übernimmt bei Ausfällen die Touren. Dafür erhält sie einen Zuschlag – auch dann, wenn sie nicht eingesetzt wird. Alle anderen werden in ihrer Freizeit nicht mehr angerufen.\nNach drei Monaten zieht die Pflegedienstleitung eine positive Bilanz: Die Zahl der Krankmeldungen ist gesunken, und zwei Pflegekräfte, die bereits gekündigt hatten, sind geblieben. Ein Problem gibt es jedoch noch: An Wochenenden finden sich zu wenige Freiwillige für den Springerdienst.\nDie Leitung prüft nun, ob für Wochenenddienste ein höherer Zuschlag gezahlt werden kann. Das Modell soll nach Ablauf eines halben Jahres auf alle Standorte übertragen werden."}],
+      "fragen": [
+        {"q": "Was war das Problem beim alten System?", "o": ["Die Touren waren zu lang.", "Man wurde in der Freizeit kurzfristig zur Arbeit gerufen.", "Es gab zu viele Pflegekräfte."], "r": 1, "e": "„Bisher wurden Pflegekräfte oft kurzfristig angerufen …“"},
+        {"q": "Die Springerin bekommt einen Zuschlag, …", "o": ["nur wenn sie arbeiten muss.", "auch wenn sie nicht arbeiten muss.", "nur am Wochenende."], "r": 1, "e": "„… auch dann, wenn sie nicht eingesetzt wird.“"},
+        {"q": "Nach drei Monaten …", "o": ["sind weniger Pflegekräfte krank.", "haben zwei Pflegekräfte gekündigt.", "wurde das Modell beendet."], "r": 0, "e": "„Die Zahl der Krankmeldungen ist gesunken.“ Zwei, die gekündigt hatten, sind geblieben."},
+        {"q": "Welches Problem gibt es noch?", "o": ["Am Wochenende will kaum jemand Springerdienst machen.", "Die Springerin hat zu wenig Arbeit.", "Die Patienten sind unzufrieden."], "r": 0, "e": "„An Wochenenden finden sich zu wenige Freiwillige für den Springerdienst.“"},
+        {"q": "Was ist für die Zukunft geplant?", "o": ["Das Modell soll in allen Standorten eingeführt werden.", "Der Zuschlag wird abgeschafft.", "Es gibt keine Wochenenddienste mehr."], "r": 0, "e": "„… auf alle Standorte übertragen werden.“"}
+      ]
+    }
+  ]
+}
