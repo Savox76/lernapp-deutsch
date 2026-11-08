@@ -1011,7 +1011,14 @@ Letzte 7 Tage: an ${act7} Tagen gelernt, ${n7} Aufgaben, ${pct(r7, n7)} % richti
 Pausentage in 30 Tagen: ${p30.length}
 Satzbau (7 Tage): ${sb.n} Sätze, ${pct(sb.r, sb.n)} % richtig
 Wortschatz: ${c.seenW} Wörter gesehen, ${c.learned} gelernt, ${c.sure} sicher
-Serie: ${streak()} Tage in Folge${hard.length ? "\n\nSchwierig:\n- " + hard.join("\n- ") : ""}`;
+Serie: ${streak()} Tage in Folge${simReportLine()}${hard.length ? "\n\nSchwierig:\n- " + hard.join("\n- ") : ""}`;
+}
+function simReportLine() {
+  const since = Date.now() - 30 * 864e5; const H = (P.simHist || []).filter(h => (h.t || 0) >= since || h.d >= dayKey(new Date(since)));
+  if (!H.length && !(P.sim && !P.sim.done)) return "";
+  const L = [`\n\nPrüfungssimulationen (30 Tage): ${H.filter(h => h.st !== "abgebrochen").length} fertig, ${H.filter(h => h.st === "abgebrochen").length} abgebrochen${P.sim && !P.sim.done ? ", 1 läuft noch" : ""}`];
+  H.slice(-5).reverse().forEach(h => { const x = simLine(h); L.push(`- ${fmtDay(h.d)} ${x.was}: ${x.st} | ${x.pts}`); });
+  return L.join("\n");
 }
 async function shareReport() { return shareText(reportText()); }
 async function shareText(text) {
@@ -1019,6 +1026,17 @@ async function shareText(text) {
   try { if (navigator.share) { await navigator.share({ text }); return; } } catch (e) { if (e && e.name === "AbortError") return; }
   try { await navigator.clipboard.writeText(text); toast("Bericht kopiert – jetzt in WhatsApp einfügen"); return; } catch (e) { }
   const ta = document.createElement("textarea"); ta.value = text; document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); toast("Bericht kopiert"); } catch (e) { } ta.remove();
+}
+function simStatCard() {
+  const H = (P.simHist || []).slice().reverse(); const run = P.sim && !P.sim.done ? P.sim : null;
+  if (!H.length && !run) return "";
+  const fertig = H.filter(h => h.st !== "abgebrochen").length, ab = H.filter(h => h.st === "abgebrochen").length;
+  return `<div class="card"><h3>Prüfungssimulationen</h3>
+    <div class="kpis"><div><b>${H.length + (run ? 1 : 0)}</b><span>gestartet</span></div><div><b style="color:var(--ok)">${fertig}</b><span>fertig</span></div><div><b style="color:${ab ? "var(--bad)" : "inherit"}">${ab}</b><span>abgebrochen</span></div></div>
+    ${run ? `<div class="panel" style="gap:2px"><b>⏳ läuft gerade: ${esc(run.ex)}${run.only ? " (" + esc(run.only) + ")" : ""}</b><span class="hint small">Aufgabe ${run.i + 1} von ${run.slots.length}</span></div>` : ""}
+    <div class="tablewrap"><table><tr><th>Tag</th><th>Prüfung</th><th>Ergebnis</th><th class="num">Min.</th></tr>
+    ${H.slice(0, 15).map(h => { const x = simLine(h); return `<tr${h.st === "abgebrochen" ? ' style="background:var(--bad-soft)"' : ""}><td>${fmtDay(h.d)}</td><td>${esc(x.was)}</td><td style="white-space:normal">${esc(x.st)}<br><span class="hint small">${esc(x.pts)}</span></td><td class="num">${x.min ?? "–"}</td></tr>`; }).join("")}
+    </table></div></div>`;
 }
 VIEWS.statistik = function () {
   const d = today(); const d14 = lastDays(14); const d30 = lastDays(30).reverse();
@@ -1056,6 +1074,7 @@ VIEWS.statistik = function () {
         return `<tr><td>${wdOf(x.k)} ${fmtDay(x.k)}${st === "wenig" ? ` <span class="pill" style="color:var(--accent);border-color:var(--accent)">wenig</span>` : ""}</td><td class="num">${x.d.n}</td><td class="num" style="color:var(--ok)">${x.d.r}</td><td class="num" style="color:var(--bad)">${x.d.n - x.d.r}</td><td class="num">${pct(x.d.r, x.d.n)}</td><td class="num">${Math.round(x.d.sec / 60)}</td></tr>`; }).join("") || `<tr><td colspan="6" class="hint">Noch keine Daten.</td></tr>`}
       </table></div>
       <p class="hint small">Insgesamt: ${total.n} Aufgaben, ${pct(total.r, total.n)} % richtig, ${Math.round(total.sec / 60)} Minuten.</p></div>
+    ${simStatCard()}
     <div class="card"><h3>Wortschatz</h3>
       <div class="kpis"><div><b>${c.seenW}</b><span>gesehen</span></div><div><b>${c.learned}</b><span>gelernt</span></div><div><b>${c.sure}</b><span>sicher</span></div></div>
       <p class="hint small">„Gelernt“ = mindestens 3-mal hintereinander gewusst. „Sicher“ = 5-mal. Von ${W.length} Wörtern.</p>
@@ -1679,7 +1698,7 @@ function simOpen() {
 function simNext() {
   const S = P.sim; if (!S) return go("pruefung");
   S.i++;
-  if (S.i >= S.slots.length) { S.done = true; S.stage = "ende"; S.end = Date.now(); simHistory(); saveP(); go("sim"); return; }
+  if (S.i >= S.slots.length) { S.done = true; S.stage = "ende"; S.end = Date.now(); simHistory("fertig"); saveP(); go("sim"); return; }
   if (S.slots[S.i].s !== S.slots[S.i - 1].s) { S.stage = "teil"; saveP(); go("sim"); return; }
   simOpen();
 }
@@ -1710,11 +1729,12 @@ function simBar() {
 }
 /* Auswertung */
 const SR = { 2: 1, 1: 0.5, 0: 0.2 };   /* gut / teilweise / schwer */
-function simScore() {
+function simScore(upTo) {
   const S = P.sim; const cfg = SIMCFG[S.ex]; const A = {}; const dtz = S.ex === "DTZ";
   const add = (b, got, max) => { A[b] = A[b] || { got: 0, max: 0, n: 0 }; A[b].got += got; A[b].max += max; A[b].n++; };
   const weak = [];
   S.slots.forEach((sl, k) => {
+    if (upTo !== undefined && k >= upTo) return;
     const item = (BERUF[sl.typ] || []).find(x => x.id === sl.id); if (!item) return;
     const r = S.res[k] || []; const okc = t => r.filter(z => z.t === t && z.ok).length;
     const writing = target => { const z = r.find(z => z.t === "schreiben"); if (!z || !z.x) return 0; const [a, b] = String(z.x.ck || "0/0").split("/").map(Number); const wf = Math.min(1, (z.x.w || 0) / target); return b ? 0.7 * a / b + 0.3 * wf : wf; };
@@ -1743,8 +1763,23 @@ function simScore() {
   }
   return out;
 }
-function simHistory() {
-  const sc = simScore(); P.simHist = (P.simHist || []).concat([{ d: dayKey(new Date()), ex: P.sim.ex, only: P.sim.only, pts: sc.pts }]).slice(-20);
+function simHistory(status) {
+  const S = P.sim; if (!S) return; const cfg = SIMCFG[S.ex];
+  const ab = status === "abgebrochen"; const upTo = ab ? S.i + (S.res[S.i] && S.res[S.i].length ? 1 : 0) : undefined;
+  const sc = simScore(upTo); const nT = [...new Set(S.slots.map(x => x.s))]; const cur = S.slots[Math.min(S.i, S.slots.length - 1)];
+  const sec = Object.values(S.used || {}).reduce((a, b) => a + b, 0);
+  P.simHist = (P.simHist || []).concat([{ d: dayKey(new Date()), t: Date.now(), ex: S.ex, only: S.only, pts: sc.pts, st: ab ? "abgebrochen" : "fertig",
+    bei: ab ? { teil: cfg.teile[cur.s].name.de, nr: nT.indexOf(cur.s) + 1, von: nT.length, aufg: S.i, aufgVon: S.slots.length } : null, min: Math.round(sec / 60) }]).slice(-50);
+}
+/* Kurzform eines Simulations-Ergebnisses für Statistik und Bericht */
+function simLine(h) {
+  const p = h.pts || {}; const tn = h.only && SIMCFG && SIMCFG[h.ex] ? (SIMCFG[h.ex].teile.find(t => t.k === h.only) || {}).name : null; const was = h.ex + (h.only ? " – nur " + (tn ? tn.de : h.only) : "");
+  const pts = h.ex === "DTB" ? `L ${p.l ?? "–"} · H ${p.h ?? "–"} · S ${p.s ?? "–"} · Sp ${p.sp ?? "–"}` : `H+L ${p.hl ?? "–"}/45 · S ${p.s ?? "–"} · Sp ${p.sp ?? "–"}`;
+  let st = "✅ fertig";
+  if (h.st === "abgebrochen") st = `⛔ abgebrochen in Teil ${h.bei.nr}/${h.bei.von} (${h.bei.teil}), ${h.bei.aufg} von ${h.bei.aufgVon} Aufgaben`;
+  else if (!h.only && h.ex === "DTB") { const c = dtbCheck({ l: p.l || 0, h: p.h || 0, s: p.s || 0, sp: p.sp || 0 }); st += c.ok ? ", bestanden" : ", nicht bestanden"; }
+  else if (!h.only && h.ex === "DTZ") { const c = dtzCheck({ hl: p.hl || 0, s: p.s || "", sp: p.sp || "" }); st += c.ok ? ", B1" : ", kein B1"; }
+  return { was, pts: (h.st === "abgebrochen" ? "bis dahin: " : "") + pts, st, min: h.min };
 }
 function simReport() {
   const S = P.sim; const sc = simScore(); const cfg = SIMCFG[S.ex]; const L = [];
@@ -1765,7 +1800,7 @@ VIEWS.sim = function () {
   if (!S) {
     const X = exam(); const cfg = SIMCFG[X];
     const sumMin = cfg.teile.filter(t => !t.weich).reduce((a, t) => a + t.min, 0);
-    const hist = (P.simHist || []).filter(h => h.ex === X && !h.only).slice(-3).reverse();
+    const hist = (P.simHist || []).filter(h => h.ex === X).slice(-5).reverse();
     app.innerHTML = `${head("Prüfungssimulation", "Prüfung")}
       <div class="seg" id="exSeg2"><button data-ex="DTB" aria-pressed="${X === "DTB"}">DTB B2 (Beruf)</button><button data-ex="DTZ" aria-pressed="${X === "DTZ"}">DTZ (A2–B1)</button></div>
       <div class="card"><div class="row between"><h3>${esc(cfg.titel)}</h3>${sayBtn(cfg.intro.de + " " + SIMCFG.allgemein.de, "Erklärung vorlesen")}</div>${twoLang(cfg.intro)}</div>
@@ -1774,7 +1809,7 @@ VIEWS.sim = function () {
         ${cfg.teile.map((t, i) => `<div class="panel" style="gap:4px"><div class="row between"><b>${i + 1}. ${esc(t.name.de)}</b><span class="pill">${t.weich ? "ca. " : ""}${t.min} Min.</span></div><div class="hint small">${esc(t.info.de)}</div>${lang !== "de" && tr(t.info) ? `<div class="ru small">${esc(tr(t.info))}</div>` : ""}<button class="btn small" data-only="${t.k}" style="align-self:flex-start">Nur diesen Teil üben</button></div>`).join("")}
         <p class="hint small">Schriftlicher Teil zusammen: ${sumMin} Minuten.</p>
         <button class="btn primary big" id="simAll">▶ Ganze Prüfung starten</button></div>
-      ${hist.length ? `<div class="card"><h3>Letzte Simulationen</h3>${hist.map(h => `<div class="row between"><span>${h.d.split("-").reverse().join(".")}</span><span>${X === "DTB" ? ["l", "h", "s", "sp"].map(k => h.pts[k] ?? "–").join(" · ") + " Punkte" : `H+L ${h.pts.hl ?? "–"}/45 · S ${h.pts.s ?? "–"} · Sp ${h.pts.sp ?? "–"}`}</span></div>`).join("")}<p class="hint small">${X === "DTB" ? "Punkte: Lesen · Hören · Schreiben · Sprechen (je max. 60)" : ""}</p></div>` : ""}`;
+      ${hist.length ? `<div class="card"><h3>Letzte Simulationen</h3>${hist.map(h => { const x = simLine(h); return `<div class="panel" style="gap:2px"><div class="row between"><b>${fmtDay(h.d)} · ${esc(x.was)}</b><span class="hint small">${x.min ?? "–"} Min.</span></div><span class="small">${esc(x.st)}</span><span class="hint small">${esc(x.pts)}</span></div>`; }).join("")}<p class="hint small">Alle Simulationen stehen auch in der Statistik.</p></div>` : ""}`;
     app.querySelectorAll("#exSeg2 button").forEach(b => b.onclick = () => { SET.exam = b.dataset.ex; saveSET(); render(); });
     $("#simAll").onclick = () => simStart(X);
     app.querySelectorAll("[data-only]").forEach(b => b.onclick = () => simStart(X, b.dataset.only));
@@ -1805,7 +1840,7 @@ VIEWS.sim = function () {
   }
   const sl = S.slots[S.i]; const teil = cfg.teile[sl.s]; const nT = [...new Set(S.slots.map(x => x.s))];
   const abbr = `<button class="btn small ghost" id="simStop" style="align-self:flex-start">Simulation abbrechen</button>`;
-  const bindStop = () => { const b = $("#simStop"); b.onclick = () => { if (b.dataset.sure) { P.sim = null; saveP(); render(); } else { b.dataset.sure = "1"; b.textContent = "Wirklich abbrechen? Noch einmal tippen."; b.classList.add("danger"); } }; };
+  const bindStop = () => { const b = $("#simStop"); b.onclick = () => { if (b.dataset.sure) { simHistory("abgebrochen"); P.sim = null; saveP(); render(); } else { b.dataset.sure = "1"; b.textContent = "Wirklich abbrechen? Noch einmal tippen."; b.classList.add("danger"); } }; };
   /* 2) Wahl zwischen zwei Aufgaben (DTZ Schreiben) */
   if (S.stage === "wahl") {
     const opts = sl.wahl.map(id => (BERUF[sl.typ] || []).find(x => x.id === id)).filter(Boolean);

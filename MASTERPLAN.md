@@ -2,7 +2,7 @@
 
 Stand: 08.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
 
-**Zuletzt komplett geprüft:** 08.11.2026 nach Prüfungssimulation (Code, Inhalte und Veröffentlichung abgeglichen).
+**Zuletzt komplett geprüft:** 08.11.2026 nach Simulation in Statistik (Code, Inhalte und Veröffentlichung abgeglichen).
 Zeichen: ✅ eingebaut/fertig · 🟡 teilweise · ⏳ in Arbeit · ⬜ offen · ❓ Entscheidung von Mario nötig
 Claude aktualisiert diesen Plan nach **jedem** Arbeitsschritt selbstständig.
 
@@ -30,7 +30,7 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ---
 
-## 2. Stand heute (geprüft am 08.11.2026 nach Prüfungssimulation)
+## 2. Stand heute (geprüft am 08.11.2026 nach Simulation in Statistik)
 
 | Bereich | Stand | |
 |---|---|---|
@@ -216,6 +216,7 @@ Unter **Prüfung → Prüfungssimulation** für DTB B2 und DTZ. Ablauf und Zeite
 - **Zu Beginn** erklärt die App, wie die Prüfung abläuft – auf Deutsch und zusätzlich in der Sprache der Lernerin (jetzt Russisch). Die Texte stehen in `quellen/simulation.json` mit einem Feld pro Sprache (`de`, `ru`, später `uk`, `en`, `ar`, `tr`, `fa`, `fr` …) → bei M18 ff. nur dort ergänzen, kein App-Update nötig.
 - **Während der Simulation:** nur Deutsch, kein Lernmodus, Zeitbalken pro Teil, bei Zeitablauf weiter zum nächsten Teil (offene Aufgaben = 0 Punkte). Unterbrechen und Fortsetzen möglich, die Zeit läuft nur bei offener Aufgabe. Es werden bevorzugt noch nicht geübte Aufgaben gewählt. Einzelne Teile können auch allein geübt werden.
 - **Auswertung:** Lesen/Hören genau gezählt; Schreiben aus Checkliste, Wortzahl und (DTB) Sprachbausteinen geschätzt; Sprechen aus der Selbsteinschätzung („teilweise“ reicht absichtlich nicht für 36 Punkte bzw. B1). Danach Bestehensregel DTB bzw. neue DTZ-Regel, schwache Aufgaben, „Ergebnis teilen“ (WhatsApp an Mario) und Übernahme in den Punkte-Rechner. Die letzten Ergebnisse werden gespeichert.
+- **Statistik (Wunsch Mario, 08.11.2026):** Jede Simulation wird gespeichert – fertige mit Punkten und „bestanden?“, **abgebrochene** mit dem Teil, in dem abgebrochen wurde, der Zahl der bearbeiteten Aufgaben und den Punkten bis dahin, laufende als „läuft gerade“. Zu sehen unter Statistik → Prüfungssimulationen und auf der Startseite der Simulation; der WhatsApp-Bericht enthält die Simulationen der letzten 30 Tage.
 - **Später:** Schreiben und Sprechen durch KI bewerten lassen (zusammen mit Dialoge Stufe 3, braucht Server).
 
 ## 5. Lernplan
