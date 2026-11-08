@@ -1,0 +1,1594 @@
+{
+ "lesen": [
+  {
+   "id": "dtbl2-21",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Willkommensmappe – Kantine",
+   "anweisung": "Sie lesen die Willkommensmappe Ihrer neuen Firma. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Unsere Kantine",
+     "text": "Die Kantine im Erdgeschoss ist von 11:30 bis 14 Uhr geöffnet. Es gibt täglich drei Gerichte, davon immer eines vegetarisch. Bezahlt wird nur mit dem Mitarbeiterausweis, den Sie am Automaten neben dem Eingang aufladen können. Bargeld wird nicht angenommen.\nDie Firma bezahlt pro Mittagessen 2,50 Euro dazu. Den Speiseplan für die Woche finden Sie jeden Freitag im Intranet. Wer eine Lebensmittelallergie hat, kann sich an das Küchenteam wenden – auf Anfrage wird ein eigenes Essen zubereitet."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "In der Kantine kann man auch bar bezahlen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: „Bargeld wird nicht angenommen.“"
+    },
+    {
+     "q": "Den Speiseplan …",
+     "o": [
+      "gibt es jeden Freitag im Intranet.",
+      "hängt am Automaten.",
+      "bekommt man per E-Mail."
+     ],
+     "r": 0,
+     "e": "„… jeden Freitag im Intranet.“"
+    },
+    {
+     "q": "Wer eine Allergie hat, …",
+     "o": [
+      "muss sein Essen mitbringen.",
+      "kann ein eigenes Essen bekommen.",
+      "bekommt 2,50 Euro zurück."
+     ],
+     "r": 1,
+     "e": "„… auf Anfrage wird ein eigenes Essen zubereitet.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-22",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Urlaubsantrag",
+   "anweisung": "Sie lesen im Intranet, wie man Urlaub beantragt. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Urlaub beantragen – so geht's",
+     "text": "Urlaub beantragen Sie über das Personalportal. Für Urlaub von bis zu drei Tagen genügt ein Antrag eine Woche vorher. Längerer Urlaub muss mindestens vier Wochen vorher beantragt werden.\nIhre Teamleitung bestätigt oder lehnt den Antrag innerhalb von fünf Arbeitstagen ab. Erst nach der Bestätigung dürfen Sie Ihren Urlaub fest buchen.\nIm Dezember gilt wegen des Jahresabschlusses eine Urlaubssperre für die Buchhaltung. Resturlaub muss bis zum 31. März des nächsten Jahres genommen werden."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Für zwei freie Tage reicht ein Antrag eine Woche vorher.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0,
+     "e": "Richtig: Bis drei Tage genügt eine Woche vorher."
+    },
+    {
+     "q": "Eine Reise sollte man erst buchen, …",
+     "o": [
+      "wenn man den Antrag gestellt hat.",
+      "wenn die Teamleitung zugestimmt hat.",
+      "vier Wochen vorher."
+     ],
+     "r": 1,
+     "e": "„Erst nach der Bestätigung dürfen Sie Ihren Urlaub fest buchen.“"
+    },
+    {
+     "q": "Die Urlaubssperre im Dezember gilt …",
+     "o": [
+      "für alle Beschäftigten.",
+      "nur für die Buchhaltung.",
+      "nur für Teamleitungen."
+     ],
+     "r": 1,
+     "e": "„… eine Urlaubssperre für die Buchhaltung.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-23",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Sicherheitsregeln – Gabelstapler",
+   "anweisung": "Sie arbeiten im Lager und lesen die Regeln für Gabelstapler. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Gabelstapler – das gilt für alle",
+     "text": "Gabelstapler dürfen nur Beschäftigte fahren, die einen Staplerschein haben und vom Arbeitgeber schriftlich beauftragt wurden. Vor Beginn der Schicht prüfen Fahrer Bremsen, Hupe und Licht und tragen das Ergebnis in die Checkliste ein.\nIm Lager gilt Schrittgeschwindigkeit. Personen dürfen niemals auf der Gabel mitfahren. Beim Parken wird die Gabel ganz abgesenkt und der Schlüssel abgezogen.\nSchäden am Stapler melden Sie sofort der Lagerleitung. Ein defekter Stapler wird mit einem roten Schild gekennzeichnet und darf nicht benutzt werden."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Mit einem Staplerschein darf man jeden Stapler sofort fahren.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Man braucht außerdem einen schriftlichen Auftrag vom Arbeitgeber."
+    },
+    {
+     "q": "Vor der Schicht …",
+     "o": [
+      "tankt man den Stapler.",
+      "prüft man Bremsen, Hupe und Licht.",
+      "fährt man eine Proberunde mit Kollegen."
+     ],
+     "r": 1,
+     "e": "„… prüfen Fahrer Bremsen, Hupe und Licht …“"
+    },
+    {
+     "q": "Beim Parken …",
+     "o": [
+      "lässt man den Schlüssel stecken.",
+      "senkt man die Gabel ganz ab.",
+      "stellt man ein rotes Schild auf."
+     ],
+     "r": 1,
+     "e": "„Beim Parken wird die Gabel ganz abgesenkt und der Schlüssel abgezogen.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-24",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Mitteilung – Neue Software für Dienstpläne",
+   "anweisung": "Sie lesen eine Mitteilung der Pflegedienstleitung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Dienstpläne ab März digital",
+     "text": "Liebe Kolleginnen und Kollegen,\nab 1. März erstellen wir die Dienstpläne nur noch mit der App „Plan-Pflege“. Den Plan für den nächsten Monat sehen Sie jeweils ab dem 15. Wünsche für freie Tage tragen Sie bis zum 5. des Vormonats in der App ein.\nDie App läuft auf dem eigenen Handy. Wer kein Smartphone hat, kann die Pläne weiter am Computer im Stationszimmer ansehen.\nEine Schulung findet am 20. Februar um 14 Uhr im Konferenzraum statt. Sie zählt als Arbeitszeit.\nIhre Pflegedienstleitung"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wer kein Smartphone hat, bekommt eines von der Firma.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Man kann die Pläne am Computer im Stationszimmer ansehen."
+    },
+    {
+     "q": "Wunschtage für April trägt man ein …",
+     "o": [
+      "bis zum 5. März.",
+      "bis zum 15. März.",
+      "bis zum 5. April."
+     ],
+     "r": 0,
+     "e": "Bis zum 5. des Vormonats = 5. März."
+    },
+    {
+     "q": "Die Schulung …",
+     "o": [
+      "ist in der Freizeit.",
+      "zählt als Arbeitszeit.",
+      "ist nur für Teamleitungen."
+     ],
+     "r": 1,
+     "e": "„Sie zählt als Arbeitszeit.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-25",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Betriebsarzt",
+   "anweisung": "Sie lesen eine Information der Personalabteilung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Unser Betriebsarzt",
+     "text": "Herr Dr. Albers ist jeden Dienstag von 8 bis 12 Uhr im Raum 012 für Sie da. Er führt die Pflichtuntersuchungen durch, zum Beispiel für Arbeiten mit Lärm oder am Bildschirm. Außerdem können Sie ihn bei gesundheitlichen Problemen beraten lassen, die mit der Arbeit zu tun haben.\nDer Betriebsarzt unterliegt der Schweigepflicht. Ihr Arbeitgeber erfährt nur, ob Sie für eine Tätigkeit geeignet sind, nicht aber Ihre Diagnose.\nTermine vereinbaren Sie über das Sekretariat. Eine Krankschreibung stellt der Betriebsarzt nicht aus – dafür gehen Sie zu Ihrer Hausärztin."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Der Betriebsarzt kann Beschäftigte krankschreiben.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: „Eine Krankschreibung stellt der Betriebsarzt nicht aus.“"
+    },
+    {
+     "q": "Was erfährt der Arbeitgeber nach einer Untersuchung?",
+     "o": [
+      "die Diagnose",
+      "nur, ob man für die Arbeit geeignet ist",
+      "nichts"
+     ],
+     "r": 1,
+     "e": "„… nur, ob Sie für eine Tätigkeit geeignet sind …“"
+    },
+    {
+     "q": "Einen Termin bekommt man …",
+     "o": [
+      "über das Sekretariat.",
+      "dienstags ohne Anmeldung.",
+      "bei der Hausärztin."
+     ],
+     "r": 0,
+     "e": "„Termine vereinbaren Sie über das Sekretariat.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-26",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Hausordnung – Parkplatz",
+   "anweisung": "Sie lesen die Regeln für den Firmenparkplatz. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Parken auf dem Firmengelände",
+     "text": "Der Parkplatz hinter Halle 3 steht allen Beschäftigten kostenlos zur Verfügung. Voraussetzung ist eine Parkkarte, die Sie beim Empfang beantragen. Die Plätze direkt am Eingang sind für Besucher und Menschen mit Behinderung reserviert.\nFahrräder stellen Sie bitte in den überdachten Fahrradständer. Für E-Bikes gibt es dort auch Ladestationen.\nAutos ohne Parkkarte werden nach einer Warnung abgeschleppt. Die Kosten trägt der Fahrer. Im Winter räumt eine Firma den Parkplatz bis 6:30 Uhr."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Für den Parkplatz muss man bezahlen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Er steht „kostenlos zur Verfügung“."
+    },
+    {
+     "q": "Die Plätze am Eingang …",
+     "o": [
+      "sind für die Geschäftsleitung.",
+      "sind für Besucher und Menschen mit Behinderung.",
+      "sind für E-Bikes."
+     ],
+     "r": 1,
+     "e": "„… für Besucher und Menschen mit Behinderung reserviert.“"
+    },
+    {
+     "q": "Wer ohne Parkkarte parkt, …",
+     "o": [
+      "wird sofort abgeschleppt.",
+      "bekommt zuerst eine Warnung.",
+      "muss 10 Euro zahlen."
+     ],
+     "r": 1,
+     "e": "„… nach einer Warnung abgeschleppt.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-27",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Mitarbeiterrabatte",
+   "anweisung": "Sie lesen eine Information im Intranet. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Vorteile für Beschäftigte",
+     "text": "Als Beschäftigte unserer Supermarktkette erhalten Sie auf alle Einkäufe in unseren Filialen 10 Prozent Rabatt. Zeigen Sie dazu an der Kasse Ihren Mitarbeiterausweis. Der Rabatt gilt nicht für Tabak, Zeitungen und Geschenkkarten.\nAußerdem haben wir Verträge mit Partnern: Im Fitnessstudio „Aktiv“ zahlen Sie 20 Euro statt 35 Euro im Monat, und beim Handyanbieter „Mobil Plus“ gibt es günstigere Tarife.\nDie Rabatte gelten nur für Sie persönlich, nicht für Familienmitglieder. Eine Liste aller Partner finden Sie im Intranet unter „Benefits“."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Auch Zigaretten werden mit Rabatt verkauft.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: „Der Rabatt gilt nicht für Tabak …“"
+    },
+    {
+     "q": "Im Fitnessstudio „Aktiv“ …",
+     "o": [
+      "ist der Eintritt frei.",
+      "zahlt man 15 Euro weniger im Monat.",
+      "bekommt man 10 Prozent Rabatt."
+     ],
+     "r": 1,
+     "e": "20 statt 35 Euro = 15 Euro weniger."
+    },
+    {
+     "q": "Der Ehemann einer Mitarbeiterin …",
+     "o": [
+      "bekommt auch Rabatt.",
+      "bekommt keinen Rabatt.",
+      "bekommt nur im Fitnessstudio Rabatt."
+     ],
+     "r": 1,
+     "e": "„… nicht für Familienmitglieder.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-28",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Hygiene in der Pflege",
+   "anweisung": "Sie arbeiten in einem Pflegeheim und lesen die Hygieneregeln. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Händehygiene",
+     "text": "Desinfizieren Sie Ihre Hände vor und nach jedem Kontakt mit Bewohnern, nach dem Ausziehen von Handschuhen und vor der Zubereitung von Medikamenten. Das Mittel muss mindestens 30 Sekunden einwirken.\nRinge, Uhren und Armbänder sind bei der Arbeit nicht erlaubt. Fingernägel müssen kurz sein, Nagellack ist nicht gestattet.\nBei Durchfallerkrankungen von Bewohnern reicht Desinfektion nicht: Waschen Sie sich zusätzlich gründlich die Hände mit Seife. Die Hygienebeauftragte, Frau Neumann, kontrolliert die Einhaltung regelmäßig."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Eine Uhr darf man bei der Arbeit tragen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: „Ringe, Uhren und Armbänder sind … nicht erlaubt.“"
+    },
+    {
+     "q": "Das Desinfektionsmittel …",
+     "o": [
+      "muss 30 Sekunden einwirken.",
+      "wäscht man mit Wasser ab.",
+      "benutzt man nur morgens."
+     ],
+     "r": 0,
+     "e": "„… mindestens 30 Sekunden einwirken.“"
+    },
+    {
+     "q": "Wenn ein Bewohner Durchfall hat, …",
+     "o": [
+      "reicht das Desinfizieren.",
+      "wäscht man die Hände zusätzlich mit Seife.",
+      "trägt man keine Handschuhe."
+     ],
+     "r": 1,
+     "e": "„… zusätzlich gründlich die Hände mit Seife.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-29",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Mitteilung – Weihnachtsfeier",
+   "anweisung": "Sie lesen eine Einladung der Geschäftsleitung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Einladung zur Weihnachtsfeier",
+     "text": "Liebe Kolleginnen und Kollegen,\nwir laden Sie herzlich zu unserer Weihnachtsfeier am Freitag, 12. Dezember, ab 18 Uhr ins Restaurant „Elbterrasse“ ein. Für Essen und Getränke ist gesorgt. Partnerinnen und Partner sind ebenfalls herzlich willkommen.\nBitte melden Sie sich bis 28. November bei Frau Schulz an und geben Sie an, ob Sie vegetarisch essen möchten.\nFür die Rückfahrt organisieren wir einen Bus, der um 23 Uhr und um 1 Uhr in Richtung Innenstadt fährt.\nIhre Geschäftsleitung"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Man darf eine Begleitperson mitbringen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0,
+     "e": "Richtig: „Partnerinnen und Partner sind ebenfalls herzlich willkommen.“"
+    },
+    {
+     "q": "Bei der Anmeldung soll man sagen, …",
+     "o": [
+      "wann man nach Hause fährt.",
+      "ob man vegetarisch isst.",
+      "was man trinken möchte."
+     ],
+     "r": 1,
+     "e": "„… ob Sie vegetarisch essen möchten.“"
+    },
+    {
+     "q": "Für die Heimfahrt …",
+     "o": [
+      "muss jeder selbst sorgen.",
+      "gibt es einen Bus.",
+      "zahlt die Firma ein Taxi."
+     ],
+     "r": 1,
+     "e": "„… organisieren wir einen Bus …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-30",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Kundendaten am Telefon",
+   "anweisung": "Sie arbeiten im Callcenter und lesen eine Anweisung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Telefonate mit Kunden",
+     "text": "Melden Sie sich am Telefon immer mit dem Firmennamen und Ihrem Vornamen. Fragen Sie zu Beginn nach der Kundennummer. Ohne Kundennummer dürfen Sie keine Auskünfte über Verträge geben.\nGespräche werden nur aufgezeichnet, wenn der Kunde vorher zugestimmt hat. Fragen Sie deshalb am Anfang: „Sind Sie mit einer Aufzeichnung einverstanden?“\nWenn ein Kunde sehr unhöflich wird, dürfen Sie das Gespräch nach einer Warnung beenden. Notieren Sie den Grund im System. Schwierige Fälle besprechen Sie nach der Schicht mit Ihrer Teamleitung."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Alle Gespräche werden automatisch aufgezeichnet.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Nur, wenn der Kunde vorher zustimmt."
+    },
+    {
+     "q": "Ohne Kundennummer …",
+     "o": [
+      "darf man keine Auskunft zu Verträgen geben.",
+      "muss man das Gespräch beenden.",
+      "fragt man nach dem Geburtsdatum."
+     ],
+     "r": 0,
+     "e": "„Ohne Kundennummer dürfen Sie keine Auskünfte über Verträge geben.“"
+    },
+    {
+     "q": "Wenn ein Kunde sehr unhöflich ist, …",
+     "o": [
+      "legt man sofort auf.",
+      "darf man nach einer Warnung auflegen.",
+      "ruft man die Teamleitung ins Gespräch."
+     ],
+     "r": 1,
+     "e": "„… nach einer Warnung beenden.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-31",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Willkommensmappe – Arbeitskleidung",
+   "anweisung": "Sie lesen die Willkommensmappe einer Großküche. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Arbeitskleidung",
+     "text": "Jede neue Mitarbeiterin und jeder neue Mitarbeiter bekommt fünf Kochjacken, fünf Hosen und zwei Paar Sicherheitsschuhe. Die Kleidung wird von einer Wäscherei gereinigt: Werfen Sie schmutzige Kleidung in den blauen Sack in der Umkleide.\nDie Kleidung bleibt Eigentum der Firma. Wenn Sie die Firma verlassen, geben Sie sie bitte vollständig zurück. Für fehlende Teile werden Kosten berechnet.\nEigene Schuhe sind in der Küche nicht erlaubt. Neue Schuhe bekommen Sie, wenn die alten kaputt sind – sprechen Sie dafür die Küchenleitung an."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die Arbeitskleidung wäscht man zu Hause.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Eine Wäscherei reinigt sie."
+    },
+    {
+     "q": "Wenn man die Firma verlässt, …",
+     "o": [
+      "darf man die Kleidung behalten.",
+      "muss man die Kleidung zurückgeben.",
+      "bekommt man Geld für die Kleidung."
+     ],
+     "r": 1,
+     "e": "„… geben Sie sie bitte vollständig zurück.“"
+    },
+    {
+     "q": "Wenn die Schuhe kaputt sind, …",
+     "o": [
+      "kauft man sich selbst neue.",
+      "spricht man mit der Küchenleitung.",
+      "trägt man eigene Schuhe."
+     ],
+     "r": 1,
+     "e": "„… sprechen Sie dafür die Küchenleitung an.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-32",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Fortbildungsprogramm",
+   "anweisung": "Sie lesen das Fortbildungsprogramm Ihres Arbeitgebers. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Fortbildungen im zweiten Halbjahr",
+     "text": "Auch in diesem Halbjahr bieten wir wieder interne Fortbildungen an. Sie finden während der Arbeitszeit statt und sind kostenlos. Jeder Beschäftigte kann bis zu drei Fortbildungen pro Jahr besuchen.\nNeu im Programm: „Deutsch am Arbeitsplatz“ für Kolleginnen und Kollegen mit anderer Muttersprache, jeden Donnerstag 14–15:30 Uhr.\nDie Anmeldung erfolgt über die Teamleitung, die auch zustimmen muss. Plätze werden nach Eingang der Anmeldung vergeben. Nach jeder Fortbildung erhalten Sie eine Teilnahmebescheinigung."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Für die Fortbildungen muss man Urlaub nehmen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Sie finden „während der Arbeitszeit“ statt."
+    },
+    {
+     "q": "Wie viele Fortbildungen darf man im Jahr machen?",
+     "o": [
+      "eine",
+      "bis zu drei",
+      "so viele man will"
+     ],
+     "r": 1,
+     "e": "„… bis zu drei Fortbildungen pro Jahr …“"
+    },
+    {
+     "q": "Für die Anmeldung …",
+     "o": [
+      "schreibt man der Personalabteilung.",
+      "braucht man die Zustimmung der Teamleitung.",
+      "muss man einen Test machen."
+     ],
+     "r": 1,
+     "e": "„… über die Teamleitung, die auch zustimmen muss.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-33",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – Kühlraum",
+   "anweisung": "Sie arbeiten im Supermarkt und lesen die Regeln für den Kühlraum. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Kühlraum – bitte beachten",
+     "text": "Die Temperatur im Kühlraum muss zwischen 2 und 6 Grad liegen. Kontrollieren Sie sie morgens und abends und tragen Sie den Wert in die Liste an der Tür ein. Liegt die Temperatur über 7 Grad, informieren Sie sofort die Marktleitung.\nNeue Ware stellen Sie immer hinter die ältere Ware, damit die ältere zuerst verkauft wird. Ware mit abgelaufenem Datum wird aussortiert und in der Liste „Abschriften“ notiert.\nDie Tür des Kühlraums darf nicht offen bleiben. Ziehen Sie warme Kleidung an, wenn Sie länger als zehn Minuten im Kühlraum arbeiten."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Neue Ware stellt man nach vorne.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Neue Ware kommt hinter die ältere."
+    },
+    {
+     "q": "Wenn das Thermometer 8 Grad zeigt, …",
+     "o": [
+      "schreibt man es nur in die Liste.",
+      "informiert man sofort die Marktleitung.",
+      "macht man die Tür auf."
+     ],
+     "r": 1,
+     "e": "Über 7 Grad → sofort die Marktleitung informieren."
+    },
+    {
+     "q": "Abgelaufene Ware …",
+     "o": [
+      "verkauft man billiger.",
+      "sortiert man aus und notiert sie.",
+      "stellt man nach hinten."
+     ],
+     "r": 1,
+     "e": "„… wird aussortiert und in der Liste „Abschriften“ notiert.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-34",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Mitteilung – Streik bei der Bahn",
+   "anweisung": "Sie lesen eine kurzfristige Mitteilung der Personalabteilung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Bahnstreik am Donnerstag",
+     "text": "Liebe Kolleginnen und Kollegen,\nfür Donnerstag ist ein Streik im Nahverkehr angekündigt. Wer an diesem Tag nicht oder nur schwer zur Arbeit kommt, kann nach Absprache mit der Teamleitung im Homeoffice arbeiten. Beschäftigte in der Produktion können den Tag mit Plusstunden ausgleichen oder einen Urlaubstag nehmen.\nWir organisieren Fahrgemeinschaften: Tragen Sie sich bis Mittwoch 12 Uhr in die Liste im Intranet ein, wenn Sie Plätze im Auto anbieten oder suchen.\nIhre Personalabteilung"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Alle Beschäftigten können am Donnerstag zu Hause arbeiten.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Homeoffice nur nach Absprache; die Produktion gleicht mit Plusstunden oder Urlaub aus."
+    },
+    {
+     "q": "Beschäftigte in der Produktion …",
+     "o": [
+      "haben automatisch frei.",
+      "können Plusstunden oder Urlaub nehmen.",
+      "müssen trotzdem kommen."
+     ],
+     "r": 1,
+     "e": "„… mit Plusstunden ausgleichen oder einen Urlaubstag nehmen.“"
+    },
+    {
+     "q": "Wer jemanden im Auto mitnehmen kann, …",
+     "o": [
+      "meldet sich bei der Teamleitung.",
+      "trägt sich in die Liste im Intranet ein.",
+      "bekommt Fahrtkosten."
+     ],
+     "r": 1,
+     "e": "„Tragen Sie sich … in die Liste im Intranet ein.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-35",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Krankmeldung",
+   "anweisung": "Sie lesen eine Information für neue Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Wenn Sie krank sind",
+     "text": "Wenn Sie krank sind, informieren Sie bitte am ersten Tag vor Arbeitsbeginn telefonisch Ihre Teamleitung. Eine E-Mail reicht nicht.\nAb dem dritten Krankheitstag brauchen Sie eine ärztliche Bescheinigung. Die Arztpraxis übermittelt diese elektronisch an Ihre Krankenkasse; wir rufen sie dort ab. Sie müssen uns also keinen Zettel mehr schicken.\nWenn Ihr Kind krank ist, gelten dieselben Regeln. Für die Freistellung brauchen Sie eine Bescheinigung vom Kinderarzt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Am ersten Krankheitstag reicht eine E-Mail an die Teamleitung.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Man muss telefonisch informieren. „Eine E-Mail reicht nicht.“"
+    },
+    {
+     "q": "Eine ärztliche Bescheinigung braucht man …",
+     "o": [
+      "ab dem ersten Tag.",
+      "ab dem dritten Tag.",
+      "ab einer Woche."
+     ],
+     "r": 1,
+     "e": "„Ab dem dritten Krankheitstag …“"
+    },
+    {
+     "q": "Die Bescheinigung …",
+     "o": [
+      "bringt man selbst in die Firma.",
+      "kommt elektronisch über die Krankenkasse.",
+      "schickt man per Post."
+     ],
+     "r": 1,
+     "e": "„… elektronisch an Ihre Krankenkasse; wir rufen sie dort ab.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-36",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – Lieferfahrer",
+   "anweisung": "Sie fahren Möbel aus und lesen die Regeln für Lieferungen. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Auslieferung beim Kunden",
+     "text": "Rufen Sie den Kunden etwa 30 Minuten vor Ankunft an. Ist niemand zu Hause, warten Sie höchstens 15 Minuten und hinterlassen eine Karte im Briefkasten.\nTragen Sie die Möbel nur bis in den Raum, den der Kunde bestellt hat. Montagen machen Sie nur, wenn sie auf dem Lieferschein stehen.\nPrüfen Sie die Ware vor dem Kunden auf Schäden. Lassen Sie sich die Lieferung auf dem Handgerät unterschreiben. Verpackungen nehmen Sie auf Wunsch kostenlos mit."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Man baut die Möbel immer beim Kunden auf.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Nur, wenn die Montage auf dem Lieferschein steht."
+    },
+    {
+     "q": "Wenn der Kunde nicht da ist, …",
+     "o": [
+      "wartet man eine Stunde.",
+      "wartet man 15 Minuten und lässt eine Karte da.",
+      "stellt man die Möbel vor die Tür."
+     ],
+     "r": 1,
+     "e": "„… höchstens 15 Minuten … eine Karte im Briefkasten.“"
+    },
+    {
+     "q": "Verpackungen …",
+     "o": [
+      "lässt man beim Kunden.",
+      "nimmt man auf Wunsch mit.",
+      "kosten extra."
+     ],
+     "r": 1,
+     "e": "„Verpackungen nehmen Sie auf Wunsch kostenlos mit.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-37",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Mitteilung – Renovierung der Station",
+   "anweisung": "Sie lesen eine Mitteilung im Krankenhaus. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Station 4 wird renoviert",
+     "text": "Ab dem 1. Juni wird die Station 4 für etwa acht Wochen renoviert. Die Patientinnen und Patienten werden in dieser Zeit auf Station 6 im neuen Gebäude versorgt. Das Pflegeteam der Station 4 arbeitet dort mit.\nDie Dienstzeiten bleiben gleich. Wegen der längeren Wege gibt es für jede Schicht eine zusätzliche Hilfskraft.\nPersönliche Sachen aus den Spinden bitte bis zum 28. Mai in die Umkleide im neuen Gebäude bringen. Neue Schlüssel gibt es bei der Stationsleitung."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Das Team der Station 4 hat während der Renovierung frei.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Es arbeitet auf Station 6 mit."
+    },
+    {
+     "q": "Was ändert sich für die Schichten?",
+     "o": [
+      "Die Dienstzeiten ändern sich.",
+      "Es gibt eine zusätzliche Hilfskraft.",
+      "Die Schichten werden kürzer."
+     ],
+     "r": 1,
+     "e": "„… gibt es für jede Schicht eine zusätzliche Hilfskraft.“"
+    },
+    {
+     "q": "Die neuen Schlüssel bekommt man …",
+     "o": [
+      "bei der Stationsleitung.",
+      "in der Umkleide.",
+      "am 1. Juni."
+     ],
+     "r": 0,
+     "e": "„Neue Schlüssel gibt es bei der Stationsleitung.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-38",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Gleitzeit im Büro",
+   "anweisung": "Sie lesen die Betriebsvereinbarung zur Gleitzeit. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Gleitzeit – die wichtigsten Regeln",
+     "text": "Sie können zwischen 6:30 und 9:30 Uhr anfangen und zwischen 15 und 19 Uhr gehen. Die tägliche Arbeitszeit darf zehn Stunden nicht überschreiten.\nPlus- und Minusstunden sammeln Sie auf Ihrem Zeitkonto. Bis zu zwölf Gleittage pro Jahr dürfen Sie aus Plusstunden nehmen – nach Absprache mit dem Team.\nAm Freitag können Sie schon ab 13 Uhr gehen, wenn Ihre Wochenarbeitszeit erfüllt ist. Während der Teambesprechung am Montag um 10 Uhr müssen alle anwesend sein."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Man darf um 10 Uhr mit der Arbeit beginnen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Anfangen kann man nur bis 9:30 Uhr."
+    },
+    {
+     "q": "Wie viele Gleittage gibt es höchstens pro Jahr?",
+     "o": [
+      "fünf",
+      "zwölf",
+      "beliebig viele"
+     ],
+     "r": 1,
+     "e": "„Bis zu zwölf Gleittage pro Jahr …“"
+    },
+    {
+     "q": "Am Montag um 10 Uhr …",
+     "o": [
+      "fängt die Gleitzeit an.",
+      "müssen alle zur Teambesprechung da sein.",
+      "kann man nach Hause gehen."
+     ],
+     "r": 1,
+     "e": "„… müssen alle anwesend sein.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-39",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Notfall im Büro",
+   "anweisung": "Sie lesen den Aushang „Verhalten im Notfall“. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Was tun im Notfall?",
+     "text": "Bei einem medizinischen Notfall rufen Sie zuerst die 112 und dann die Ersthelfer über die Nummer 333. Die Namen der Ersthelfer hängen neben jedem Aufzug. Der Defibrillator befindet sich im Erdgeschoss am Empfang.\nBei Feueralarm verlassen Sie das Gebäude sofort über die Treppen – nicht mit dem Aufzug. Sammelplatz ist der Parkplatz vor dem Haupteingang. Nehmen Sie keine Taschen mit.\nBesucher, die sich im Haus befinden, nehmen Sie bitte mit zum Sammelplatz."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Bei Feueralarm darf man den Aufzug benutzen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: „… über die Treppen – nicht mit dem Aufzug.“"
+    },
+    {
+     "q": "Bei einem medizinischen Notfall ruft man zuerst …",
+     "o": [
+      "die 333.",
+      "die 112.",
+      "den Empfang."
+     ],
+     "r": 1,
+     "e": "„… rufen Sie zuerst die 112 und dann die Ersthelfer …“"
+    },
+    {
+     "q": "Was macht man mit Besuchern bei Feueralarm?",
+     "o": [
+      "Man schickt sie zum Empfang.",
+      "Man nimmt sie mit zum Sammelplatz.",
+      "Sie warten im Büro."
+     ],
+     "r": 1,
+     "e": "„Besucher … nehmen Sie bitte mit zum Sammelplatz.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-40",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Jobrad",
+   "anweisung": "Sie lesen eine Information der Personalabteilung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Mit dem Jobrad zur Arbeit",
+     "text": "Ab sofort können alle Beschäftigten ein Fahrrad oder E-Bike über die Firma leasen. Die monatliche Rate wird direkt vom Bruttogehalt abgezogen. Dadurch sparen Sie Steuern und Sozialabgaben. Die Firma zahlt außerdem die Versicherung.\nSie dürfen das Rad auch privat und im Urlaub nutzen. Nach drei Jahren können Sie es günstig kaufen.\nVoraussetzung: Ihr Arbeitsvertrag ist unbefristet und die Probezeit ist vorbei. Den Antrag stellen Sie online im Mitarbeiterportal."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Das Jobrad darf man nur für den Weg zur Arbeit benutzen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Man darf es „auch privat und im Urlaub“ nutzen."
+    },
+    {
+     "q": "Wer kann ein Jobrad bekommen?",
+     "o": [
+      "alle Beschäftigten in der Probezeit",
+      "Beschäftigte mit unbefristetem Vertrag nach der Probezeit",
+      "nur Führungskräfte"
+     ],
+     "r": 1,
+     "e": "„… unbefristet und die Probezeit ist vorbei.“"
+    },
+    {
+     "q": "Die Versicherung …",
+     "o": [
+      "zahlt die Firma.",
+      "zahlt man selbst.",
+      "ist nicht nötig."
+     ],
+     "r": 0,
+     "e": "„Die Firma zahlt außerdem die Versicherung.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-11",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Besprechung im Pflegedienst",
+   "anweisung": "Sie lesen das Protokoll der letzten Teambesprechung. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Teambesprechung ambulanter Pflegedienst, 14.10.",
+     "text": "Anwesend: Fr. Wolf (Leitung, FW), Hr. Berg (HB), Fr. Dimitrova (FD), Fr. Hahn (FH, Protokoll)\n\nTOP 1: Tourenplanung\nFW berichtet, dass zwei neue Patienten im Stadtteil Nord dazukommen. Die Tour Nord wird deshalb ab November geteilt. HB übernimmt die neue Tour Nord 2. Er bekommt dafür ein zusätzliches Dienstauto.\n\nTOP 2: Dokumentation\nFD kritisiert, dass die Tablets oft nicht geladen sind. Es wird beschlossen, dass jede Person ihr Tablet nach der Schicht an die Ladestation im Büro hängt. Wer das vergisst, wird von der Leitung angesprochen.\n\nTOP 3: Fortbildung\nDie Fortbildung „Wundversorgung“ am 6. November ist Pflicht für alle Pflegefachkräfte. Pflegehelferinnen können freiwillig teilnehmen.\n\nTOP 4: Verschiedenes\nFH sammelt Ideen für die Weihnachtsfeier bis Ende Oktober."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Warum wird die Tour Nord geteilt?",
+     "o": [
+      "Weil ein Kollege kündigt.",
+      "Weil neue Patienten dazukommen.",
+      "Weil das Auto kaputt ist."
+     ],
+     "r": 1,
+     "e": "„… zwei neue Patienten … Die Tour Nord wird deshalb … geteilt.“"
+    },
+    {
+     "q": "Herr Berg …",
+     "o": [
+      "bekommt ein zusätzliches Dienstauto.",
+      "leitet die Fortbildung.",
+      "schreibt das Protokoll."
+     ],
+     "r": 0,
+     "e": "„Er bekommt dafür ein zusätzliches Dienstauto.“"
+    },
+    {
+     "q": "Was ist das Problem mit den Tablets?",
+     "o": [
+      "Sie sind zu langsam.",
+      "Sie sind oft nicht geladen.",
+      "Es gibt zu wenige."
+     ],
+     "r": 1,
+     "e": "„… dass die Tablets oft nicht geladen sind.“"
+    },
+    {
+     "q": "Die Fortbildung „Wundversorgung“ …",
+     "o": [
+      "ist für alle freiwillig.",
+      "ist Pflicht für Pflegefachkräfte.",
+      "findet im Oktober statt."
+     ],
+     "r": 1,
+     "e": "„… Pflicht für alle Pflegefachkräfte.“"
+    },
+    {
+     "q": "Ideen für die Weihnachtsfeier …",
+     "o": [
+      "sammelt Frau Hahn.",
+      "bespricht man am 6. November.",
+      "gibt man der Leitung."
+     ],
+     "r": 0,
+     "e": "„FH sammelt Ideen …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-12",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Bericht – Neues Lagersystem",
+   "anweisung": "Sie lesen einen Bericht in der Mitarbeiterzeitung. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Ein halbes Jahr mit dem neuen Lagersystem",
+     "text": "Seit April arbeitet unser Zentrallager mit einem neuen System: Alle Regale haben Barcodes, und jede Ware wird beim Ein- und Auslagern gescannt. Ziel war es, weniger Waren zu verlieren und Bestellungen schneller zu bearbeiten.\nDie Bilanz nach sechs Monaten ist positiv. Falsche Lieferungen sind um 40 Prozent zurückgegangen. Die Mitarbeiter finden Waren schneller, weil der Scanner den Weg zum Regal anzeigt.\nAm Anfang gab es allerdings Probleme: Das WLAN war in der hinteren Halle zu schwach. Inzwischen wurden drei zusätzliche Antennen installiert.\nAls Nächstes sollen auch die Lieferanten ihre Ware mit Barcodes liefern. Dadurch soll die Warenannahme schneller werden."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was war das Ziel des neuen Systems?",
+     "o": [
+      "Weniger Personal.",
+      "Weniger verlorene Ware und schnellere Bestellungen.",
+      "Größere Regale."
+     ],
+     "r": 1,
+     "e": "„… weniger Waren zu verlieren und Bestellungen schneller zu bearbeiten.“"
+    },
+    {
+     "q": "Falsche Lieferungen …",
+     "o": [
+      "gibt es nicht mehr.",
+      "sind weniger geworden.",
+      "sind mehr geworden."
+     ],
+     "r": 1,
+     "e": "„… um 40 Prozent zurückgegangen.“"
+    },
+    {
+     "q": "Warum findet man Waren schneller?",
+     "o": [
+      "Weil die Regale neu sortiert wurden.",
+      "Weil der Scanner den Weg zeigt.",
+      "Weil es mehr Licht gibt."
+     ],
+     "r": 1,
+     "e": "„… weil der Scanner den Weg zum Regal anzeigt.“"
+    },
+    {
+     "q": "Welches Problem gab es am Anfang?",
+     "o": [
+      "Die Scanner waren kaputt.",
+      "Das WLAN war in einer Halle zu schwach.",
+      "Die Mitarbeiter wollten das System nicht."
+     ],
+     "r": 1,
+     "e": "„Das WLAN war in der hinteren Halle zu schwach.“"
+    },
+    {
+     "q": "Was ist als Nächstes geplant?",
+     "o": [
+      "Lieferanten sollen Barcodes nutzen.",
+      "Ein neues Lager wird gebaut.",
+      "Die Scanner werden ersetzt."
+     ],
+     "r": 0,
+     "e": "„… sollen auch die Lieferanten ihre Ware mit Barcodes liefern.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-13",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Betriebsversammlung",
+   "anweisung": "Sie lesen das Protokoll der Betriebsversammlung. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Betriebsversammlung Druckerei Elbe, 05.03.",
+     "text": "Anwesend: Geschäftsführung (Hr. Kraus), Betriebsrat (Fr. Yilmaz), 46 Beschäftigte\n\nTOP 1: Wirtschaftliche Lage\nHr. Kraus berichtet, dass die Aufträge im letzten Jahr leicht gesunken sind. Kündigungen sind jedoch nicht geplant. Stattdessen sollen neue Kunden im Bereich Verpackung gewonnen werden.\n\nTOP 2: Neue Maschine\nIm Sommer wird eine neue Druckmaschine geliefert. Sechs Beschäftigte werden im Mai beim Hersteller geschult. Wer Interesse hat, meldet sich bis 31. März beim Betriebsrat.\n\nTOP 3: Arbeitszeit\nFr. Yilmaz stellt den Wunsch vieler Beschäftigter nach einer Vier-Tage-Woche vor. Die Geschäftsführung lehnt dies zurzeit ab, ist aber bereit, im Herbst einen Test in einer Abteilung zu machen.\n\nTOP 4: Parkplätze\nWegen der Bauarbeiten fallen ab April 20 Parkplätze weg. Die Firma beteiligt sich mit 50 Prozent am Deutschlandticket."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Zur wirtschaftlichen Lage sagt Herr Kraus, dass …",
+     "o": [
+      "Mitarbeiter entlassen werden.",
+      "es weniger Aufträge gab, aber keine Kündigungen geplant sind.",
+      "die Firma verkauft wird."
+     ],
+     "r": 1,
+     "e": "„… leicht gesunken … Kündigungen sind jedoch nicht geplant.“"
+    },
+    {
+     "q": "Wer bei der neuen Maschine geschult werden möchte, …",
+     "o": [
+      "meldet sich beim Betriebsrat.",
+      "fragt Herrn Kraus.",
+      "fährt im Sommer zum Hersteller."
+     ],
+     "r": 0,
+     "e": "„… meldet sich bis 31. März beim Betriebsrat.“"
+    },
+    {
+     "q": "Zur Vier-Tage-Woche …",
+     "o": [
+      "wird sie sofort eingeführt.",
+      "soll es im Herbst einen Test geben.",
+      "gibt es keine Diskussion mehr."
+     ],
+     "r": 1,
+     "e": "„… im Herbst einen Test in einer Abteilung …“"
+    },
+    {
+     "q": "Warum fallen Parkplätze weg?",
+     "o": [
+      "Wegen einer neuen Maschine.",
+      "Wegen Bauarbeiten.",
+      "Weil es weniger Beschäftigte gibt."
+     ],
+     "r": 1,
+     "e": "„Wegen der Bauarbeiten fallen ab April 20 Parkplätze weg.“"
+    },
+    {
+     "q": "Was bietet die Firma als Ersatz?",
+     "o": [
+      "Einen Zuschuss zum Deutschlandticket.",
+      "Taxigutscheine.",
+      "Einen neuen Parkplatz."
+     ],
+     "r": 0,
+     "e": "„… beteiligt sich mit 50 Prozent am Deutschlandticket.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-14",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Bericht – Gesundheitstag",
+   "anweisung": "Sie lesen einen Bericht im Intranet. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Rückblick auf unseren Gesundheitstag",
+     "text": "Am 12. September fand unser erster Gesundheitstag statt. Mehr als 200 Beschäftigte nutzten die Angebote: Blutdruckmessung, Sehtest, Rückenschule und eine Ernährungsberatung. Besonders gefragt war der Sehtest – hier mussten viele lange warten.\nIn einer Umfrage wünschten sich die Teilnehmenden, dass es solche Angebote regelmäßig gibt. Die Geschäftsleitung hat deshalb beschlossen, ab Januar einmal im Monat eine Rückensprechstunde mit einer Physiotherapeutin anzubieten.\nAuch die Kantine reagiert: Ab Oktober gibt es täglich ein Gericht mit weniger als 600 Kalorien.\nDer nächste Gesundheitstag ist für das Frühjahr geplant, dann mit mehr Zeit für den Sehtest."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Welches Angebot war am beliebtesten?",
+     "o": [
+      "die Rückenschule",
+      "der Sehtest",
+      "die Ernährungsberatung"
+     ],
+     "r": 1,
+     "e": "„Besonders gefragt war der Sehtest …“"
+    },
+    {
+     "q": "Was wünschten sich die Teilnehmenden?",
+     "o": [
+      "Mehr Pausen.",
+      "Regelmäßige Gesundheitsangebote.",
+      "Ein Fitnessstudio."
+     ],
+     "r": 1,
+     "e": "„… dass es solche Angebote regelmäßig gibt.“"
+    },
+    {
+     "q": "Ab Januar gibt es …",
+     "o": [
+      "einen Sehtest jeden Monat.",
+      "eine monatliche Rückensprechstunde.",
+      "einen zweiten Gesundheitstag."
+     ],
+     "r": 1,
+     "e": "„… einmal im Monat eine Rückensprechstunde …“"
+    },
+    {
+     "q": "Was ändert sich in der Kantine?",
+     "o": [
+      "Es gibt täglich ein leichtes Gericht.",
+      "Das Essen wird billiger.",
+      "Es gibt kein Fleisch mehr."
+     ],
+     "r": 0,
+     "e": "„… täglich ein Gericht mit weniger als 600 Kalorien.“"
+    },
+    {
+     "q": "Beim nächsten Gesundheitstag …",
+     "o": [
+      "gibt es keinen Sehtest.",
+      "soll der Sehtest mehr Zeit bekommen.",
+      "ist alles wie dieses Mal."
+     ],
+     "r": 1,
+     "e": "„… mit mehr Zeit für den Sehtest.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-15",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Besprechung im Autohaus",
+   "anweisung": "Sie lesen das Protokoll einer Besprechung. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Besprechung Werkstatt und Verkauf, 22.01.",
+     "text": "Anwesend: Hr. Peters (Werkstattleitung, HP), Fr. Kaiser (Verkauf, FK), Hr. Lindner (Service, HL, Protokoll)\n\nTOP 1: Reifenwechsel\nIm Frühjahr gab es lange Wartezeiten beim Reifenwechsel. HP schlägt vor, ab März auch samstags von 8 bis 13 Uhr Termine anzubieten. Die Mitarbeiter bekommen dafür einen Zuschlag. Angenommen.\n\nTOP 2: Elektroautos\nFK berichtet, dass immer mehr Kunden nach E-Autos fragen. Zwei Mechaniker sollen deshalb im Februar eine Schulung zur Hochvolttechnik machen. HP wählt die Teilnehmer aus.\n\nTOP 3: Kundenzufriedenheit\nHL weist darauf hin, dass sich Kunden über unklare Rechnungen beschweren. Ab sofort erklärt der Service jede Rechnung über 300 Euro bei der Abholung persönlich.\n\nNächste Besprechung: 19.02., 8 Uhr."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was ist ab März neu?",
+     "o": [
+      "Reifenwechsel auch am Samstag.",
+      "Längere Öffnungszeiten am Abend.",
+      "Reifen werden billiger."
+     ],
+     "r": 0,
+     "e": "„… ab März auch samstags … Termine anzubieten.“"
+    },
+    {
+     "q": "Wer am Samstag arbeitet, …",
+     "o": [
+      "bekommt einen Zuschlag.",
+      "hat am Montag frei.",
+      "muss das freiwillig machen."
+     ],
+     "r": 0,
+     "e": "„Die Mitarbeiter bekommen dafür einen Zuschlag.“"
+    },
+    {
+     "q": "Warum gibt es eine Schulung zur Hochvolttechnik?",
+     "o": [
+      "Weil mehr Kunden E-Autos wollen.",
+      "Weil die Werkstatt neu ist.",
+      "Weil es Unfälle gab."
+     ],
+     "r": 0,
+     "e": "„… immer mehr Kunden nach E-Autos fragen.“"
+    },
+    {
+     "q": "Wer entscheidet, wer zur Schulung geht?",
+     "o": [
+      "Frau Kaiser",
+      "Herr Peters",
+      "Herr Lindner"
+     ],
+     "r": 1,
+     "e": "„HP wählt die Teilnehmer aus.“"
+    },
+    {
+     "q": "Hohe Rechnungen …",
+     "o": [
+      "werden per Post geschickt.",
+      "erklärt der Service bei der Abholung persönlich.",
+      "bezahlt man in Raten."
+     ],
+     "r": 1,
+     "e": "„… jede Rechnung über 300 Euro bei der Abholung persönlich.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-16",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Bericht – Ausbildung im Betrieb",
+   "anweisung": "Sie lesen einen Bericht der Personalabteilung. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Ausbildung bei uns – Zahlen und Pläne",
+     "text": "Im vergangenen Jahr haben 18 junge Menschen ihre Ausbildung bei uns begonnen, so viele wie nie zuvor. Sechs davon sind über 25 Jahre alt und haben vorher schon in einem anderen Beruf gearbeitet.\nEin Problem ist die Sprache: Mehrere Azubis mit anderer Muttersprache hatten Schwierigkeiten in der Berufsschule. Seit Herbst gibt es deshalb zweimal pro Woche Nachhilfe in Deutsch und Fachrechnen – während der Arbeitszeit.\nDie Abschlussprüfung haben 15 von 16 Azubis bestanden. Alle 15 wurden übernommen.\nFür das nächste Jahr plant die Firma, auch eine Ausbildung in Teilzeit für Eltern anzubieten."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was ist besonders an den neuen Azubis?",
+     "o": [
+      "Alle kommen aus dem Ausland.",
+      "Einige haben schon in einem anderen Beruf gearbeitet.",
+      "Alle sind unter 18."
+     ],
+     "r": 1,
+     "e": "„Sechs … haben vorher schon in einem anderen Beruf gearbeitet.“"
+    },
+    {
+     "q": "Warum gibt es Nachhilfe?",
+     "o": [
+      "Weil einige Azubis Probleme mit der Sprache hatten.",
+      "Weil die Berufsschule geschlossen ist.",
+      "Weil die Prüfung schwerer wurde."
+     ],
+     "r": 0,
+     "e": "„… Schwierigkeiten in der Berufsschule …“"
+    },
+    {
+     "q": "Die Nachhilfe findet statt …",
+     "o": [
+      "am Wochenende.",
+      "während der Arbeitszeit.",
+      "abends nach der Arbeit."
+     ],
+     "r": 1,
+     "e": "„… während der Arbeitszeit.“"
+    },
+    {
+     "q": "Wie viele Azubis wurden übernommen?",
+     "o": [
+      "alle, die bestanden haben",
+      "die Hälfte",
+      "keiner"
+     ],
+     "r": 0,
+     "e": "„Alle 15 wurden übernommen.“"
+    },
+    {
+     "q": "Was ist für das nächste Jahr geplant?",
+     "o": [
+      "Weniger Ausbildungsplätze.",
+      "Ausbildung in Teilzeit für Eltern.",
+      "Ein duales Studium."
+     ],
+     "r": 1,
+     "e": "„… eine Ausbildung in Teilzeit für Eltern …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-17",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Hotelküche",
+   "anweisung": "Sie arbeiten in einem Hotel und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Küchenbesprechung Hotel Sonne, 03.05.",
+     "text": "Anwesend: Hr. Moreau (Küchenchef, HM), Fr. Bauer (Service, FB), Hr. Aydin (Einkauf, HA), Fr. Petrova (Protokoll)\n\nTOP 1: Sommerkarte\nAb Juni gibt es eine neue Sommerkarte mit mehr Salaten und Fisch. HM bittet alle Köche, die neuen Rezepte bis Ende Mai zu üben. Eine Verkostung für das Team findet am 28. Mai statt.\n\nTOP 2: Lieferanten\nHA berichtet, dass der Fischlieferant die Preise um 15 Prozent erhöht. Er vergleicht bis Mitte Mai zwei andere Angebote.\n\nTOP 3: Allergene\nFB berichtet, dass Gäste oft nach Allergenen fragen und der Service nicht immer antworten kann. Es wird beschlossen, dass jede Karte eine Liste der Allergene bekommt. Zusätzlich gibt es eine kurze Schulung für den Service.\n\nTOP 4: Personal\nFür die Saison wird ein Koch zusätzlich eingestellt. Die Stelle ist auf sechs Monate befristet."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was ist neu auf der Sommerkarte?",
+     "o": [
+      "Mehr Fleisch.",
+      "Mehr Salate und Fisch.",
+      "Nur vegetarische Gerichte."
+     ],
+     "r": 1,
+     "e": "„… mit mehr Salaten und Fisch.“"
+    },
+    {
+     "q": "Am 28. Mai …",
+     "o": [
+      "beginnt die Sommerkarte.",
+      "probiert das Team die neuen Gerichte.",
+      "kommt der neue Koch."
+     ],
+     "r": 1,
+     "e": "„Eine Verkostung für das Team findet am 28. Mai statt.“"
+    },
+    {
+     "q": "Herr Aydin …",
+     "o": [
+      "wechselt sofort den Lieferanten.",
+      "vergleicht andere Angebote.",
+      "akzeptiert die höheren Preise."
+     ],
+     "r": 1,
+     "e": "„Er vergleicht bis Mitte Mai zwei andere Angebote.“"
+    },
+    {
+     "q": "Was wird gegen das Problem mit den Allergenen gemacht?",
+     "o": [
+      "Die Köche beantworten alle Fragen.",
+      "Liste auf der Karte und Schulung für den Service.",
+      "Es gibt keine Gerichte mit Nüssen mehr."
+     ],
+     "r": 1,
+     "e": "„… eine Liste der Allergene … eine kurze Schulung für den Service.“"
+    },
+    {
+     "q": "Der neue Koch …",
+     "o": [
+      "bekommt einen unbefristeten Vertrag.",
+      "wird für sechs Monate eingestellt.",
+      "arbeitet nur am Wochenende."
+     ],
+     "r": 1,
+     "e": "„Die Stelle ist auf sechs Monate befristet.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-18",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Bericht – Homeoffice-Regelung",
+   "anweisung": "Sie lesen einen Bericht im Intranet. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Ein Jahr neue Homeoffice-Regeln",
+     "text": "Seit einem Jahr dürfen Beschäftigte im Büro bis zu zwei Tage pro Woche zu Hause arbeiten. Eine Umfrage zeigt: 80 Prozent sind zufrieden. Besonders gelobt wird die Zeit, die man durch den wegfallenden Arbeitsweg spart.\nKritik gibt es an der Technik: Viele Laptops sind zu langsam für Videokonferenzen. Die IT tauscht deshalb bis zum Sommer alle Geräte aus, die älter als vier Jahre sind.\nTeamleitungen berichten, dass Absprachen schwieriger geworden sind. Ab sofort soll jedes Team einen festen Bürotag pro Woche vereinbaren, an dem alle anwesend sind.\nDie Regelung wird zunächst um ein weiteres Jahr verlängert."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viele Tage Homeoffice sind erlaubt?",
+     "o": [
+      "einer pro Woche",
+      "bis zu zwei pro Woche",
+      "so viele man will"
+     ],
+     "r": 1,
+     "e": "„… bis zu zwei Tage pro Woche …“"
+    },
+    {
+     "q": "Was gefällt den Beschäftigten besonders?",
+     "o": [
+      "Weniger Arbeit.",
+      "Die gesparte Zeit für den Arbeitsweg.",
+      "Die neuen Laptops."
+     ],
+     "r": 1,
+     "e": "„… die Zeit, die man durch den wegfallenden Arbeitsweg spart.“"
+    },
+    {
+     "q": "Welche Laptops werden ausgetauscht?",
+     "o": [
+      "alle",
+      "die älter als vier Jahre sind",
+      "nur die kaputten"
+     ],
+     "r": 1,
+     "e": "„… alle Geräte …, die älter als vier Jahre sind.“"
+    },
+    {
+     "q": "Was sollen die Teams einführen?",
+     "o": [
+      "Einen festen Bürotag pro Woche.",
+      "Tägliche Videokonferenzen.",
+      "Mehr Homeoffice."
+     ],
+     "r": 0,
+     "e": "„… einen festen Bürotag pro Woche …“"
+    },
+    {
+     "q": "Die Homeoffice-Regel …",
+     "o": [
+      "wird beendet.",
+      "wird um ein Jahr verlängert.",
+      "gilt nur noch für Teamleitungen."
+     ],
+     "r": 1,
+     "e": "„… um ein weiteres Jahr verlängert.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-19",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Elternabend in der Kita",
+   "anweisung": "Sie arbeiten als Erzieherin und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Teamsitzung Kita Regenbogen, 10.09.",
+     "text": "Anwesend: Fr. Hoffmann (Leitung, FHo), Fr. Kurz (FK), Hr. Demir (HD), Fr. Iwanowa (FI, Protokoll)\n\nTOP 1: Eingewöhnung\nIm September kommen sieben neue Kinder unter drei Jahren. FK und HD übernehmen die Eingewöhnung. In den ersten zwei Wochen bleiben die Eltern dabei, danach wird die Zeit ohne Eltern langsam verlängert.\n\nTOP 2: Elternabend\nDer Elternabend findet am 25. September um 19 Uhr statt. FI bereitet eine kurze Präsentation über den Tagesablauf vor. Weil viele Eltern wenig Deutsch sprechen, werden zwei Dolmetscherinnen (Russisch, Arabisch) eingeladen.\n\nTOP 3: Ausflug\nDer Herbstausflug in den Tierpark ist für den 8. Oktober geplant. Die Kosten von 4 Euro pro Kind zahlt der Förderverein.\n\nTOP 4: Personal\nHD ist ab November für drei Monate in Elternzeit. Eine Vertretung ist noch nicht gefunden."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wer kümmert sich um die Eingewöhnung?",
+     "o": [
+      "Frau Hoffmann",
+      "Frau Kurz und Herr Demir",
+      "Frau Iwanowa"
+     ],
+     "r": 1,
+     "e": "„FK und HD übernehmen die Eingewöhnung.“"
+    },
+    {
+     "q": "In den ersten zwei Wochen …",
+     "o": [
+      "sind die Eltern dabei.",
+      "bleiben die Kinder den ganzen Tag.",
+      "kommen die Kinder nur am Vormittag."
+     ],
+     "r": 0,
+     "e": "„… bleiben die Eltern dabei …“"
+    },
+    {
+     "q": "Warum kommen Dolmetscherinnen zum Elternabend?",
+     "o": [
+      "Weil viele Eltern wenig Deutsch sprechen.",
+      "Weil eine Präsentation auf Englisch ist.",
+      "Weil die Leitung neu ist."
+     ],
+     "r": 0,
+     "e": "„Weil viele Eltern wenig Deutsch sprechen …“"
+    },
+    {
+     "q": "Den Ausflug bezahlt …",
+     "o": [
+      "jede Familie selbst.",
+      "der Förderverein.",
+      "die Stadt."
+     ],
+     "r": 1,
+     "e": "„Die Kosten … zahlt der Förderverein.“"
+    },
+    {
+     "q": "Was ist bei Herrn Demir offen?",
+     "o": [
+      "Wer ihn in der Elternzeit vertritt.",
+      "Wann er zurückkommt.",
+      "Ob er die Eingewöhnung macht."
+     ],
+     "r": 0,
+     "e": "„Eine Vertretung ist noch nicht gefunden.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-20",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Bericht – Energiesparen im Betrieb",
+   "anweisung": "Sie lesen einen Bericht in der Mitarbeiterzeitung. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Wir sparen Energie – erste Ergebnisse",
+     "text": "Im letzten Winter hat unsere Firma ein Programm zum Energiesparen gestartet. Die Temperatur in den Büros wurde auf 20 Grad gesenkt, und in den Hallen gehen die Lichter jetzt automatisch aus, wenn niemand da ist.\nDas Ergebnis: Der Stromverbrauch sank um 18 Prozent, der Gasverbrauch um 12 Prozent. Die Firma hat dadurch rund 60.000 Euro gespart.\nNicht alle sind zufrieden: Im Lager ist es vielen Beschäftigten zu kalt. Die Firma stellt deshalb ab Oktober warme Arbeitsjacken zur Verfügung.\nDie Hälfte des gesparten Geldes wird in Solaranlagen auf dem Dach investiert. Mit dem Rest wird ein Fest für alle Beschäftigten finanziert."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was wurde in den Hallen geändert?",
+     "o": [
+      "Das Licht geht automatisch aus.",
+      "Die Hallen wurden geschlossen.",
+      "Es gibt neue Fenster."
+     ],
+     "r": 0,
+     "e": "„… gehen die Lichter jetzt automatisch aus …“"
+    },
+    {
+     "q": "Um wie viel ist der Stromverbrauch gesunken?",
+     "o": [
+      "12 Prozent",
+      "18 Prozent",
+      "20 Prozent"
+     ],
+     "r": 1,
+     "e": "„Der Stromverbrauch sank um 18 Prozent …“"
+    },
+    {
+     "q": "Worüber beschweren sich Beschäftigte im Lager?",
+     "o": [
+      "Es ist zu dunkel.",
+      "Es ist zu kalt.",
+      "Es ist zu laut."
+     ],
+     "r": 1,
+     "e": "„Im Lager ist es vielen Beschäftigten zu kalt.“"
+    },
+    {
+     "q": "Was bekommen die Beschäftigten im Lager?",
+     "o": [
+      "Eine Heizung.",
+      "Warme Arbeitsjacken.",
+      "Mehr Pausen."
+     ],
+     "r": 1,
+     "e": "„… warme Arbeitsjacken …“"
+    },
+    {
+     "q": "Was passiert mit dem gesparten Geld?",
+     "o": [
+      "Es wird ganz für Solaranlagen genutzt.",
+      "Die Hälfte für Solaranlagen, der Rest für ein Fest.",
+      "Es wird an die Beschäftigten ausgezahlt."
+     ],
+     "r": 1,
+     "e": "„Die Hälfte … in Solaranlagen … Mit dem Rest wird ein Fest … finanziert.“"
+    }
+   ]
+  }
+ ]
+}
