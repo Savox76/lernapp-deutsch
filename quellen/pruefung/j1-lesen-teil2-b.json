@@ -1,0 +1,740 @@
+{
+ "lesen": [
+  {
+   "id": "dtbl2-57",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Hausordnung Lager",
+   "anweisung": "Sie arbeiten im Lager und lesen die Hausordnung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Ordnung und Sicherheit im Lager",
+     "text": "Fluchtwege und Feuerlöscher müssen immer frei bleiben. Paletten dürfen höchstens drei Stück hoch gestapelt werden. Beschädigte Paletten werden aussortiert und neben dem Tor 4 gesammelt. Handys sind beim Fahren mit dem Stapler verboten. Wer einen Unfall oder Beinahe-Unfall beobachtet, meldet ihn der Schichtleitung – auch wenn niemand verletzt wurde. So können wir Gefahren früh erkennen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Einen Beinahe-Unfall muss man nicht melden.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Auch Beinahe-Unfälle werden gemeldet."
+    },
+    {
+     "q": "Wie hoch darf man Paletten stapeln?",
+     "o": [
+      "zwei Stück",
+      "drei Stück",
+      "so hoch wie möglich"
+     ],
+     "r": 1,
+     "e": "„… höchstens drei Stück hoch …“"
+    },
+    {
+     "q": "Kaputte Paletten …",
+     "o": [
+      "werden weggeworfen.",
+      "werden neben Tor 4 gesammelt.",
+      "kann man weiter benutzen."
+     ],
+     "r": 1,
+     "e": "„… neben dem Tor 4 gesammelt.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-58",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Weiterbildung",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Weiterbildung 2027",
+     "text": "Jede Mitarbeiterin und jeder Mitarbeiter hat Anspruch auf fünf Tage Weiterbildung pro Jahr. Das Programm für 2027 finden Sie im Intranet. Die Anmeldung erfolgt über Ihre Teamleitung bis zum 15. Januar. Die Kosten für Kurse aus dem Programm übernimmt die Firma. Für externe Kurse, zum Beispiel einen Sprachkurs an der Volkshochschule, stellen Sie einen Antrag. Wer nach einer teuren Weiterbildung innerhalb eines Jahres kündigt, muss einen Teil der Kosten zurückzahlen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die Kurse aus dem Programm muss man selbst bezahlen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Die Firma übernimmt die Kosten."
+    },
+    {
+     "q": "Wie meldet man sich an?",
+     "o": [
+      "über die Teamleitung",
+      "direkt im Intranet",
+      "bei der Volkshochschule"
+     ],
+     "r": 0,
+     "e": "„Die Anmeldung erfolgt über Ihre Teamleitung …“"
+    },
+    {
+     "q": "Was passiert, wenn man nach einem teuren Kurs schnell kündigt?",
+     "o": [
+      "nichts",
+      "Man zahlt einen Teil zurück.",
+      "Man verliert das Zertifikat."
+     ],
+     "r": 1,
+     "e": "„… muss einen Teil der Kosten zurückzahlen.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-59",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Reinigungsplan Küche",
+   "anweisung": "Sie arbeiten in einer Großküche und lesen eine Anweisung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Reinigungsplan",
+     "text": "Arbeitsflächen werden nach jedem Arbeitsschritt gereinigt, Böden zweimal täglich. Die Kühlräume werden jeden Montag geputzt; dabei werden alle Lebensmittel auf das Datum kontrolliert. Für rohes Fleisch benutzen Sie nur die roten Schneidebretter, für Gemüse die grünen. Putzlappen werden täglich gewechselt und bei 90 Grad gewaschen. Jede Reinigung tragen Sie mit Uhrzeit und Unterschrift in die Liste ein."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Für Gemüse benutzt man die roten Bretter.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Rot ist für rohes Fleisch, Grün für Gemüse."
+    },
+    {
+     "q": "Wann werden die Kühlräume geputzt?",
+     "o": [
+      "jeden Tag",
+      "jeden Montag",
+      "einmal im Monat"
+     ],
+     "r": 1,
+     "e": "„… jeden Montag geputzt …“"
+    },
+    {
+     "q": "Was muss man nach jeder Reinigung tun?",
+     "o": [
+      "die Chefin anrufen",
+      "sie in die Liste eintragen",
+      "ein Foto machen"
+     ],
+     "r": 1,
+     "e": "„… mit Uhrzeit und Unterschrift in die Liste ein.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-60",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Urlaubsplanung",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Urlaubsplanung für das nächste Jahr",
+     "text": "Bitte tragen Sie Ihre Urlaubswünsche für das nächste Jahr bis zum 30. November in den Urlaubskalender ein. In den Sommerferien darf jede Person höchstens drei Wochen am Stück Urlaub nehmen. Eltern mit schulpflichtigen Kindern haben in den Ferien Vorrang. Wenn zu viele Personen gleichzeitig Urlaub möchten, sucht die Teamleitung mit allen eine Lösung. Resturlaub aus diesem Jahr muss bis zum 31. März genommen werden, sonst verfällt er."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Eltern mit Schulkindern bekommen in den Ferien zuerst Urlaub.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0,
+     "e": "Richtig: „… haben in den Ferien Vorrang.“"
+    },
+    {
+     "q": "Bis wann trägt man die Wünsche ein?",
+     "o": [
+      "bis 31. März",
+      "bis 30. November",
+      "bis Ende Dezember"
+     ],
+     "r": 1,
+     "e": "„… bis zum 30. November …“"
+    },
+    {
+     "q": "Resturlaub, der bis Ende März nicht genommen wurde, …",
+     "o": [
+      "wird ausgezahlt.",
+      "verfällt.",
+      "wird ins nächste Jahr übertragen."
+     ],
+     "r": 1,
+     "e": "„… sonst verfällt er.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-61",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – Besucher im Betrieb",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Besucher anmelden",
+     "text": "Besucherinnen und Besucher müssen spätestens einen Tag vorher im System angemeldet werden. Am Empfang bekommen sie einen Besucherausweis, den sie sichtbar tragen. Besucher dürfen sich nicht allein im Gebäude bewegen; die einladende Person holt sie am Empfang ab und begleitet sie. In der Produktion müssen auch Besucher Schutzbrille und Sicherheitsschuhe tragen. Fotos sind auf dem Gelände nicht erlaubt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Besucher dürfen allein durch das Gebäude gehen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Sie werden immer begleitet."
+    },
+    {
+     "q": "Wann meldet man Besucher an?",
+     "o": [
+      "am selben Tag",
+      "spätestens einen Tag vorher",
+      "eine Woche vorher"
+     ],
+     "r": 1,
+     "e": "„… spätestens einen Tag vorher …“"
+    },
+    {
+     "q": "Was ist auf dem Gelände verboten?",
+     "o": [
+      "Essen",
+      "Fotos",
+      "Telefonieren"
+     ],
+     "r": 1,
+     "e": "„Fotos sind auf dem Gelände nicht erlaubt.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-62",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Elternzeit",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Elternzeit – was Sie wissen müssen",
+     "text": "Mütter und Väter können bis zu drei Jahre Elternzeit nehmen. Die Elternzeit müssen Sie spätestens sieben Wochen vor dem Beginn schriftlich bei der Personalabteilung beantragen. Während der Elternzeit dürfen Sie bis zu 32 Stunden pro Woche in Teilzeit arbeiten. Ihr Arbeitsplatz ist geschützt: In dieser Zeit darf Ihnen normalerweise nicht gekündigt werden. Das Elterngeld beantragen Sie nicht bei uns, sondern bei der Elterngeldstelle Ihrer Stadt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Elterngeld beantragt man bei der Personalabteilung.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: bei der Elterngeldstelle der Stadt."
+    },
+    {
+     "q": "Wann muss man die Elternzeit beantragen?",
+     "o": [
+      "sieben Wochen vorher",
+      "drei Monate vorher",
+      "nach der Geburt"
+     ],
+     "r": 0,
+     "e": "„… spätestens sieben Wochen vor dem Beginn …“"
+    },
+    {
+     "q": "Wie viele Stunden darf man in der Elternzeit arbeiten?",
+     "o": [
+      "gar nicht",
+      "bis zu 32 Stunden pro Woche",
+      "nur 10 Stunden pro Woche"
+     ],
+     "r": 1,
+     "e": "„… bis zu 32 Stunden pro Woche …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-63",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Übergabe im Krankenhaus",
+   "anweisung": "Sie arbeiten im Krankenhaus und lesen eine Anweisung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Schichtübergabe",
+     "text": "Die Übergabe findet zu Beginn jeder Schicht im Stationszimmer statt und dauert etwa 15 Minuten. Die Pflegekraft der vorherigen Schicht berichtet über jeden Patienten: Zustand, neue Medikamente, geplante Untersuchungen. Besonders wichtig sind Patienten mit Sturzgefahr und Allergien. Die Informationen stehen zusätzlich in der elektronischen Akte. Wer zu spät kommt, liest die Akte und fragt bei Unklarheiten nach."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die Übergabe findet am Bett des Patienten statt.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: im Stationszimmer."
+    },
+    {
+     "q": "Wie lange dauert die Übergabe?",
+     "o": [
+      "etwa 5 Minuten",
+      "etwa 15 Minuten",
+      "eine Stunde"
+     ],
+     "r": 1,
+     "e": "„… dauert etwa 15 Minuten.“"
+    },
+    {
+     "q": "Wer zu spät zur Übergabe kommt, …",
+     "o": [
+      "muss nach Hause gehen.",
+      "liest die Akte und fragt nach.",
+      "bekommt eine Abmahnung."
+     ],
+     "r": 1,
+     "e": "„… liest die Akte und fragt bei Unklarheiten nach.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-64",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Jobticket",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Das Jobticket",
+     "text": "Ab Januar können alle Beschäftigten das Deutschlandticket als Jobticket bekommen. Die Firma zahlt einen Zuschuss von 25 Euro im Monat, den Rest zahlen Sie selbst. Der Betrag wird direkt vom Gehalt abgezogen. Das Ticket gilt in ganz Deutschland im Nahverkehr, auch privat und am Wochenende. Sie können das Jobticket jeweils zum Monatsende kündigen. Anmeldung über das Formular im Intranet bis zum 10. des Vormonats."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Das Jobticket gilt nur für den Weg zur Arbeit.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Es gilt „auch privat und am Wochenende“."
+    },
+    {
+     "q": "Wie bezahlt man den eigenen Anteil?",
+     "o": [
+      "bar am Automaten",
+      "Er wird vom Gehalt abgezogen.",
+      "per Überweisung"
+     ],
+     "r": 1,
+     "e": "„… direkt vom Gehalt abgezogen.“"
+    },
+    {
+     "q": "Wann kann man kündigen?",
+     "o": [
+      "nur nach einem Jahr",
+      "jeweils zum Monatsende",
+      "nie"
+     ],
+     "r": 1,
+     "e": "„… jeweils zum Monatsende kündigen.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-65",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – Arbeiten bei Hitze",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Arbeiten an heißen Tagen",
+     "text": "Wenn es im Büro wärmer als 26 Grad ist, gelten besondere Regeln. Sie dürfen dann bequemere Kleidung tragen, zum Beispiel kurze Hosen, wenn Sie keinen Kundenkontakt haben. Die Firma stellt kostenloses Wasser zur Verfügung. Die Gleitzeit beginnt an heißen Tagen schon um 6 Uhr, damit Sie früher anfangen können. Lüften Sie am frühen Morgen und schließen Sie tagsüber die Jalousien. Wer gesundheitliche Probleme bekommt, meldet sich beim Betriebsarzt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "An heißen Tagen darf man früher anfangen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0,
+     "e": "Richtig: Die Gleitzeit beginnt dann schon um 6 Uhr."
+    },
+    {
+     "q": "Wer darf kurze Hosen tragen?",
+     "o": [
+      "alle",
+      "wer keinen Kundenkontakt hat",
+      "niemand"
+     ],
+     "r": 1,
+     "e": "„… wenn Sie keinen Kundenkontakt haben.“"
+    },
+    {
+     "q": "Was soll man tagsüber tun?",
+     "o": [
+      "die Fenster öffnen",
+      "die Jalousien schließen",
+      "die Heizung ausmachen"
+     ],
+     "r": 1,
+     "e": "„… tagsüber die Jalousien schließen.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-66",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Lohnabrechnung",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Ihre Gehaltsabrechnung",
+     "text": "Ihre Gehaltsabrechnung bekommen Sie ab sofort nicht mehr auf Papier, sondern digital im Mitarbeiterportal. Sie finden sie jeweils am 25. des Monats unter „Meine Dokumente“. Das Gehalt wird am letzten Arbeitstag des Monats überwiesen. Bitte prüfen Sie die Abrechnung und melden Sie Fehler innerhalb von vier Wochen. Wer weiterhin eine Papierabrechnung möchte, kann das einmalig in der Personalabteilung beantragen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Eine Papierabrechnung ist nicht mehr möglich.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Man kann sie beantragen."
+    },
+    {
+     "q": "Wann wird das Gehalt überwiesen?",
+     "o": [
+      "am 25. des Monats",
+      "am letzten Arbeitstag des Monats",
+      "am 1. des nächsten Monats"
+     ],
+     "r": 1,
+     "e": "„… am letzten Arbeitstag des Monats …“"
+    },
+    {
+     "q": "Fehler in der Abrechnung meldet man …",
+     "o": [
+      "sofort am selben Tag.",
+      "innerhalb von vier Wochen.",
+      "am Jahresende."
+     ],
+     "r": 1,
+     "e": "„… innerhalb von vier Wochen.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-67",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Umgang mit Fundsachen",
+   "anweisung": "Sie arbeiten in einem Hotel und lesen eine Anweisung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Fundsachen",
+     "text": "Gegenstände, die Gäste im Zimmer vergessen, bringen Sie sofort an die Rezeption. Dort werden sie mit Datum und Zimmernummer in das Fundbuch eingetragen. Wertsachen wie Schmuck, Geld oder Ausweise kommen in den Safe. Wir informieren den Gast per E-Mail. Fundsachen werden drei Monate aufbewahrt; danach gehen Wertsachen an das Fundbüro der Stadt. Lebensmittel und offene Kosmetik werden nicht aufbewahrt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Gefundenes Geld darf das Zimmermädchen behalten.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Wertsachen kommen in den Safe."
+    },
+    {
+     "q": "Was passiert nach drei Monaten mit Wertsachen?",
+     "o": [
+      "Sie werden verkauft.",
+      "Sie gehen an das Fundbüro der Stadt.",
+      "Sie werden weggeworfen."
+     ],
+     "r": 1,
+     "e": "„… gehen Wertsachen an das Fundbüro der Stadt.“"
+    },
+    {
+     "q": "Was wird nicht aufbewahrt?",
+     "o": [
+      "Ladekabel",
+      "Lebensmittel",
+      "Bücher"
+     ],
+     "r": 1,
+     "e": "„Lebensmittel und offene Kosmetik werden nicht aufbewahrt.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-68",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Betriebsrente",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Vorsorgen mit der Betriebsrente",
+     "text": "Sie können einen Teil Ihres Bruttogehalts in eine Betriebsrente einzahlen. Dafür müssen Sie weniger Steuern und Sozialabgaben zahlen. Die Firma legt 15 Prozent Ihres Beitrags dazu. Der Mindestbeitrag liegt bei 30 Euro im Monat. Sie können den Beitrag jederzeit ändern oder für eine Zeit stoppen, zum Beispiel in der Elternzeit. Eine kostenlose Beratung bietet die Versicherung jeden ersten Dienstag im Monat im Raum 105 an."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die Firma zahlt nichts zur Betriebsrente dazu.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Sie legt 15 Prozent dazu."
+    },
+    {
+     "q": "Wie viel muss man mindestens einzahlen?",
+     "o": [
+      "15 Euro",
+      "30 Euro",
+      "100 Euro"
+     ],
+     "r": 1,
+     "e": "„Der Mindestbeitrag liegt bei 30 Euro …“"
+    },
+    {
+     "q": "Wann gibt es eine Beratung?",
+     "o": [
+      "jeden Tag",
+      "jeden ersten Dienstag im Monat",
+      "nur im Januar"
+     ],
+     "r": 1,
+     "e": "„… jeden ersten Dienstag im Monat …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-69",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – E-Mails",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Regeln für E-Mails",
+     "text": "Schreiben Sie in den Betreff kurz, worum es geht. Setzen Sie nur die Personen in Kopie, die die Information wirklich brauchen. Antworten Sie auf Kundenanfragen innerhalb eines Arbeitstages, auch wenn es nur eine kurze Bestätigung ist. Wenn Sie länger als einen Tag abwesend sind, richten Sie eine Abwesenheitsnotiz mit Vertretung ein. Öffnen Sie keine Anhänge von unbekannten Absendern und melden Sie verdächtige E-Mails an die IT."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Bei Abwesenheit soll man eine Vertretung angeben.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0,
+     "e": "Richtig: Abwesenheitsnotiz mit Vertretung."
+    },
+    {
+     "q": "Wann antwortet man auf Kundenanfragen?",
+     "o": [
+      "innerhalb einer Stunde",
+      "innerhalb eines Arbeitstages",
+      "innerhalb einer Woche"
+     ],
+     "r": 1,
+     "e": "„… innerhalb eines Arbeitstages …“"
+    },
+    {
+     "q": "Was macht man mit einer verdächtigen E-Mail?",
+     "o": [
+      "den Anhang öffnen",
+      "an die IT melden",
+      "an alle Kollegen weiterleiten"
+     ],
+     "r": 1,
+     "e": "„… melden Sie verdächtige E-Mails an die IT.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-70",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Gesundheitstag",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Gesundheitstag am 12. Mai",
+     "text": "Am 12. Mai findet von 10 bis 15 Uhr unser Gesundheitstag statt. Sie können Ihren Blutdruck und Ihren Zucker messen lassen, an einem Rückenkurs teilnehmen oder sich zur Ernährung beraten lassen. Eine Physiotherapeutin zeigt Übungen für den Arbeitsplatz. Die Teilnahme ist freiwillig und zählt als Arbeitszeit. Die Ergebnisse der Messungen bekommen nur Sie persönlich – die Firma erfährt nichts davon."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die Firma bekommt die Ergebnisse der Messungen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Nur man selbst bekommt sie."
+    },
+    {
+     "q": "Was zeigt die Physiotherapeutin?",
+     "o": [
+      "Kochrezepte",
+      "Übungen für den Arbeitsplatz",
+      "neue Bürostühle"
+     ],
+     "r": 1,
+     "e": "„… Übungen für den Arbeitsplatz.“"
+    },
+    {
+     "q": "Die Teilnahme am Gesundheitstag …",
+     "o": [
+      "ist Pflicht.",
+      "ist freiwillig und zählt als Arbeitszeit.",
+      "kostet 10 Euro."
+     ],
+     "r": 1,
+     "e": "„… freiwillig und zählt als Arbeitszeit.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-71",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Kühlkette",
+   "anweisung": "Sie arbeiten in einem Supermarkt und lesen eine Anweisung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Kühlware richtig einräumen",
+     "text": "Kühlware wird immer zuerst eingeräumt, Tiefkühlware sofort nach der Lieferung. Die Temperatur in den Kühlregalen wird dreimal täglich kontrolliert und in die Liste eingetragen. Sie darf nicht über 7 Grad liegen, bei Fleisch und Fisch nicht über 4 Grad. Wenn ein Gerät zu warm ist, informieren Sie sofort die Marktleitung und räumen die Ware in den Kühlraum. Ware mit abgelaufenem Datum kommt aus dem Regal."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die Temperatur für Fleisch darf bei 6 Grad liegen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: höchstens 4 Grad."
+    },
+    {
+     "q": "Wie oft wird die Temperatur kontrolliert?",
+     "o": [
+      "einmal täglich",
+      "dreimal täglich",
+      "jede Stunde"
+     ],
+     "r": 1,
+     "e": "„… dreimal täglich kontrolliert …“"
+    },
+    {
+     "q": "Wenn ein Kühlregal zu warm ist, …",
+     "o": [
+      "verkauft man die Ware schnell.",
+      "informiert man die Marktleitung und räumt die Ware um.",
+      "stellt man Eis dazu."
+     ],
+     "r": 1,
+     "e": "„… informieren Sie sofort die Marktleitung …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-72",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Sprachkurs im Betrieb",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Deutschkurs für Beschäftigte",
+     "text": "Für Kolleginnen und Kollegen, die ihr Deutsch verbessern möchten, bieten wir ab Februar einen berufsbezogenen Deutschkurs an. Der Kurs findet zweimal pro Woche direkt nach der Frühschicht statt, jeweils 90 Minuten. Die Hälfte der Zeit gilt als Arbeitszeit. Der Kurs ist kostenlos und endet mit einer Prüfung auf B1- oder B2-Niveau. Vorher gibt es einen kurzen Einstufungstest. Anmeldung bis 20. Januar bei der Personalabteilung."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die ganze Kurszeit gilt als Arbeitszeit.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: nur die Hälfte."
+    },
+    {
+     "q": "Wann findet der Kurs statt?",
+     "o": [
+      "vor der Frühschicht",
+      "nach der Frühschicht",
+      "am Wochenende"
+     ],
+     "r": 1,
+     "e": "„… direkt nach der Frühschicht …“"
+    },
+    {
+     "q": "Was passiert vor dem Kurs?",
+     "o": [
+      "ein Einstufungstest",
+      "ein Vorstellungsgespräch",
+      "eine Prüfung B2"
+     ],
+     "r": 0,
+     "e": "„Vorher gibt es einen kurzen Einstufungstest.“"
+    }
+   ]
+  }
+ ]
+}

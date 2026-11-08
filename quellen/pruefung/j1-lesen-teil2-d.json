@@ -1,0 +1,740 @@
+{
+ "lesen": [
+  {
+   "id": "dtbl2-89",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Probezeit",
+   "anweisung": "Sie lesen die Willkommensmappe Ihrer neuen Firma. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Ihre Probezeit",
+     "text": "Die ersten sechs Monate sind Ihre Probezeit. In dieser Zeit können beide Seiten mit einer Frist von zwei Wochen kündigen. Nach drei Monaten führen Sie mit Ihrer Teamleitung ein Zwischengespräch: Was läuft gut, was kann besser werden? Kurz vor dem Ende der Probezeit gibt es ein Abschlussgespräch. Danach gilt die normale Kündigungsfrist aus Ihrem Arbeitsvertrag. Urlaub können Sie auch in der Probezeit nehmen, sprechen Sie ihn aber früh ab."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "In der Probezeit darf man keinen Urlaub nehmen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Urlaub ist möglich, früh absprechen."
+    },
+    {
+     "q": "Wie lang ist die Kündigungsfrist in der Probezeit?",
+     "o": [
+      "eine Woche",
+      "zwei Wochen",
+      "drei Monate"
+     ],
+     "r": 1,
+     "e": "„… mit einer Frist von zwei Wochen …“"
+    },
+    {
+     "q": "Wann gibt es das Zwischengespräch?",
+     "o": [
+      "nach einem Monat",
+      "nach drei Monaten",
+      "nach sechs Monaten"
+     ],
+     "r": 1,
+     "e": "„Nach drei Monaten …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-90",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – Lärmschutz",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Gehörschutz in der Halle 2",
+     "text": "In der Halle 2 ist es so laut, dass Gehörschutz Pflicht ist. Sie bekommen kostenlos Ohrstöpsel am Automaten am Eingang oder einen Kapselgehörschutz bei der Arbeitssicherheit. Wer ständig in der Halle arbeitet, kann sich einen angepassten Gehörschutz machen lassen; die Kosten übernimmt die Firma. Alle drei Jahre gibt es einen Hörtest beim Betriebsarzt. Die Teilnahme ist für Beschäftigte der Halle 2 Pflicht."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Der Hörtest ist für alle Beschäftigten der Firma Pflicht.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Pflicht nur für Beschäftigte der Halle 2."
+    },
+    {
+     "q": "Wo bekommt man Ohrstöpsel?",
+     "o": [
+      "am Automaten am Eingang",
+      "in der Apotheke",
+      "beim Betriebsrat"
+     ],
+     "r": 0,
+     "e": "„… Ohrstöpsel am Automaten am Eingang …“"
+    },
+    {
+     "q": "Wie oft gibt es einen Hörtest?",
+     "o": [
+      "jedes Jahr",
+      "alle drei Jahre",
+      "nur einmal"
+     ],
+     "r": 1,
+     "e": "„Alle drei Jahre …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-91",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Schließtage",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Betriebsferien zwischen den Jahren",
+     "text": "Vom 24. Dezember bis zum 1. Januar bleibt unser Werk geschlossen. Für diese Tage werden drei Urlaubstage von Ihrem Urlaubskonto abgezogen; die anderen Tage sind Feiertage oder Wochenende. Wer nicht genug Urlaub hat, kann Plusstunden vom Arbeitszeitkonto nehmen. Der Notdienst der Instandhaltung ist in dieser Zeit erreichbar. Wer Notdienst hat, bekommt einen Zuschlag von 50 Prozent."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Für die Betriebsferien braucht man keine Urlaubstage.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Drei Urlaubstage werden abgezogen."
+    },
+    {
+     "q": "Wer nicht genug Urlaub hat, …",
+     "o": [
+      "muss arbeiten.",
+      "kann Plusstunden nehmen.",
+      "bekommt unbezahlten Urlaub."
+     ],
+     "r": 1,
+     "e": "„… kann Plusstunden vom Arbeitszeitkonto nehmen.“"
+    },
+    {
+     "q": "Was bekommt man für den Notdienst?",
+     "o": [
+      "einen Gutschein",
+      "einen Zuschlag von 50 Prozent",
+      "einen Tag frei"
+     ],
+     "r": 1,
+     "e": "„… einen Zuschlag von 50 Prozent.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-92",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Unfall melden",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Was tun nach einem Arbeitsunfall?",
+     "text": "Jeder Unfall bei der Arbeit oder auf dem Weg zur Arbeit muss gemeldet werden, auch wenn er klein erscheint. Lassen Sie sich zuerst von einem Ersthelfer versorgen. Tragen Sie den Unfall danach in das Verbandbuch ein. Wenn Sie zum Arzt müssen, gehen Sie zu einem Durchgangsarzt; die Liste hängt neben dem Erste-Hilfe-Kasten. Sagen Sie dort, dass es ein Arbeitsunfall ist. Die Kosten übernimmt die Berufsgenossenschaft, nicht Ihre Krankenkasse."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ein Unfall auf dem Weg zur Arbeit zählt als Arbeitsunfall.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0,
+     "e": "Richtig: „… oder auf dem Weg zur Arbeit …“"
+    },
+    {
+     "q": "Wo trägt man einen kleinen Unfall ein?",
+     "o": [
+      "im Verbandbuch",
+      "im Kalender",
+      "im Intranet"
+     ],
+     "r": 0,
+     "e": "„… in das Verbandbuch ein.“"
+    },
+    {
+     "q": "Wer bezahlt die Behandlung nach einem Arbeitsunfall?",
+     "o": [
+      "die Krankenkasse",
+      "die Berufsgenossenschaft",
+      "man selbst"
+     ],
+     "r": 1,
+     "e": "„… übernimmt die Berufsgenossenschaft …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-93",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Homeoffice-Ausstattung",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Ausstattung für das Homeoffice",
+     "text": "Wer regelmäßig zu Hause arbeitet, bekommt von uns einen Laptop, ein Headset und auf Wunsch einen zweiten Bildschirm. Für Schreibtisch und Stuhl zahlen wir einmalig bis zu 300 Euro gegen Rechnung. Internet und Strom bezahlen Sie selbst; Sie können aber die Homeoffice-Pauschale in Ihrer Steuererklärung angeben. Achten Sie darauf, dass niemand in Ihrer Familie vertrauliche Daten sehen kann."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die Firma bezahlt das Internet zu Hause.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Internet und Strom zahlt man selbst."
+    },
+    {
+     "q": "Wie viel bekommt man für Möbel?",
+     "o": [
+      "einmalig bis zu 300 Euro",
+      "jeden Monat 30 Euro",
+      "nichts"
+     ],
+     "r": 0,
+     "e": "„… einmalig bis zu 300 Euro gegen Rechnung.“"
+    },
+    {
+     "q": "Was kann man in der Steuererklärung angeben?",
+     "o": [
+      "die Homeoffice-Pauschale",
+      "den Laptop",
+      "die Fahrtkosten"
+     ],
+     "r": 0,
+     "e": "„… die Homeoffice-Pauschale …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-94",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – Kundenkontakt im Autohaus",
+   "anweisung": "Sie arbeiten in einem Autohaus und lesen die Regeln. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Kunden im Autohaus",
+     "text": "Kunden werden innerhalb von zwei Minuten nach dem Betreten des Ausstellungsraums begrüßt. Bieten Sie immer ein Getränk an. Probefahrten gibt es nur mit gültigem Führerschein, den wir kopieren. Bei der Probefahrt fährt ein Mitarbeiter mit. Kaufverträge darf nur der Verkaufsleiter unterschreiben. Fahrzeuge aus der Werkstatt übergeben wir gewaschen und erklären die Rechnung."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Kunden dürfen allein Probefahrten machen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Ein Mitarbeiter fährt mit."
+    },
+    {
+     "q": "Was braucht man für eine Probefahrt?",
+     "o": [
+      "einen Personalausweis",
+      "einen gültigen Führerschein",
+      "eine Anzahlung"
+     ],
+     "r": 1,
+     "e": "„… nur mit gültigem Führerschein …“"
+    },
+    {
+     "q": "Wer unterschreibt Kaufverträge?",
+     "o": [
+      "jeder Verkäufer",
+      "der Verkaufsleiter",
+      "der Kunde allein"
+     ],
+     "r": 1,
+     "e": "„… nur der Verkaufsleiter …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-95",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Mutterschutz",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Schwanger – was jetzt?",
+     "text": "Bitte informieren Sie die Personalabteilung möglichst früh über Ihre Schwangerschaft. Nur so können wir Sie schützen. Die Betriebsärztin prüft dann, ob Ihr Arbeitsplatz sicher ist. Schwere Lasten heben und Nachtarbeit sind verboten. Der Mutterschutz beginnt sechs Wochen vor der Geburt und endet normalerweise acht Wochen danach. In dieser Zeit bekommen Sie Mutterschaftsgeld und einen Zuschuss von uns, sodass Ihr Nettogehalt gleich bleibt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Im Mutterschutz bekommt man weniger Geld.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Das Nettogehalt bleibt gleich."
+    },
+    {
+     "q": "Wer prüft den Arbeitsplatz?",
+     "o": [
+      "die Betriebsärztin",
+      "der Betriebsrat",
+      "die Teamleitung"
+     ],
+     "r": 0,
+     "e": "„Die Betriebsärztin prüft …“"
+    },
+    {
+     "q": "Wann beginnt der Mutterschutz?",
+     "o": [
+      "sechs Wochen vor der Geburt",
+      "drei Monate vor der Geburt",
+      "bei der Geburt"
+     ],
+     "r": 0,
+     "e": "„… sechs Wochen vor der Geburt …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-96",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Paketzustellung",
+   "anweisung": "Sie arbeiten als Paketbote und lesen eine Anweisung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Zustellung von Paketen",
+     "text": "Wenn der Empfänger nicht zu Hause ist, dürfen Sie das Paket bei einem Nachbarn abgeben. Notieren Sie Name und Adresse des Nachbarn auf der Benachrichtigungskarte und werfen Sie sie in den Briefkasten des Empfängers. Pakete mit dem roten Aufkleber „Nur persönlich“ dürfen nicht beim Nachbarn abgegeben werden; sie gehen in die Filiale. Einen Ablageort, zum Beispiel die Garage, nutzen Sie nur, wenn der Kunde ihn vorher genehmigt hat."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ein Paket mit rotem Aufkleber darf man beim Nachbarn abgeben.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Es geht in die Filiale."
+    },
+    {
+     "q": "Was schreibt man auf die Benachrichtigungskarte?",
+     "o": [
+      "die Uhrzeit",
+      "Name und Adresse des Nachbarn",
+      "das Gewicht"
+     ],
+     "r": 1,
+     "e": "„Notieren Sie Name und Adresse des Nachbarn …“"
+    },
+    {
+     "q": "Ein Paket in die Garage legen darf man, …",
+     "o": [
+      "immer.",
+      "wenn der Kunde es vorher genehmigt hat.",
+      "wenn es regnet."
+     ],
+     "r": 1,
+     "e": "„… nur, wenn der Kunde ihn vorher genehmigt hat.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-97",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Ideenmanagement",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Ihre Idee ist Geld wert",
+     "text": "Haben Sie eine Idee, wie wir Zeit, Material oder Energie sparen können? Dann reichen Sie sie über das Formular im Intranet ein. Eine Gruppe aus Beschäftigten und Betriebsrat prüft jede Idee innerhalb von acht Wochen. Für umgesetzte Ideen gibt es eine Prämie: zehn Prozent der Einsparung im ersten Jahr, höchstens 5.000 Euro. Auch Ideen, die nicht umgesetzt werden, bekommen eine schriftliche Antwort."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Nur umgesetzte Ideen bekommen eine Antwort.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Alle bekommen eine schriftliche Antwort."
+    },
+    {
+     "q": "Wie hoch ist die Prämie höchstens?",
+     "o": [
+      "500 Euro",
+      "5.000 Euro",
+      "10 Prozent ohne Grenze"
+     ],
+     "r": 1,
+     "e": "„… höchstens 5.000 Euro.“"
+    },
+    {
+     "q": "Wer prüft die Ideen?",
+     "o": [
+      "die Geschäftsleitung",
+      "eine Gruppe aus Beschäftigten und Betriebsrat",
+      "eine externe Firma"
+     ],
+     "r": 1,
+     "e": "„Eine Gruppe aus Beschäftigten und Betriebsrat …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-98",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – Schichttausch",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Schichten tauschen",
+     "text": "Sie dürfen Schichten mit Kolleginnen und Kollegen tauschen, wenn beide die gleiche Qualifikation haben. Der Tausch muss mindestens drei Tage vorher in die Tauschliste eingetragen und von der Schichtleitung bestätigt werden. Achten Sie darauf, dass zwischen zwei Schichten mindestens elf Stunden Ruhezeit liegen. Kurzfristige Tausche am selben Tag sind nur im Notfall und nach Anruf bei der Schichtleitung möglich."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Zwischen zwei Schichten braucht man elf Stunden Pause.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0,
+     "e": "Richtig: mindestens elf Stunden Ruhezeit."
+    },
+    {
+     "q": "Wie früh muss ein Tausch eingetragen werden?",
+     "o": [
+      "am selben Tag",
+      "mindestens drei Tage vorher",
+      "einen Monat vorher"
+     ],
+     "r": 1,
+     "e": "„… mindestens drei Tage vorher …“"
+    },
+    {
+     "q": "Mit wem darf man tauschen?",
+     "o": [
+      "mit jedem",
+      "mit Personen mit gleicher Qualifikation",
+      "nur mit Freunden"
+     ],
+     "r": 1,
+     "e": "„… wenn beide die gleiche Qualifikation haben.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-99",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Ersthelfer gesucht",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Werden Sie Ersthelfer!",
+     "text": "Für jede Abteilung brauchen wir ausgebildete Ersthelferinnen und Ersthelfer. Der Kurs dauert einen Tag und findet während der Arbeitszeit statt. Die Kosten übernimmt die Berufsgenossenschaft. Alle zwei Jahre gibt es eine Auffrischung. Ersthelfer bekommen einen Aufkleber für ihren Arbeitsplatz, damit Kollegen sie im Notfall schnell finden. Interessierte melden sich bei der Arbeitssicherheit."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Der Kurs findet am Wochenende statt.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: während der Arbeitszeit."
+    },
+    {
+     "q": "Wie oft muss man den Kurs auffrischen?",
+     "o": [
+      "jedes Jahr",
+      "alle zwei Jahre",
+      "nie"
+     ],
+     "r": 1,
+     "e": "„Alle zwei Jahre …“"
+    },
+    {
+     "q": "Wozu ist der Aufkleber?",
+     "o": [
+      "damit man Ersthelfer schnell findet",
+      "als Belohnung",
+      "für den Parkplatz"
+     ],
+     "r": 0,
+     "e": "„… damit Kollegen sie im Notfall schnell finden.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-100",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Reisekosten",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Reisekosten abrechnen",
+     "text": "Dienstreisen müssen vorher von der Teamleitung genehmigt werden. Fahrkarten und Hotels buchen Sie über das Reisebüro der Firma. Wenn Sie mit dem eigenen Auto fahren, bekommen Sie 30 Cent pro Kilometer. Für Essen gibt es eine Tagespauschale. Reichen Sie alle Belege spätestens einen Monat nach der Reise mit dem Formular ein. Ohne Beleg können wir keine Kosten erstatten."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Für Fahrten mit dem eigenen Auto gibt es Geld pro Kilometer.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0,
+     "e": "Richtig: 30 Cent pro Kilometer."
+    },
+    {
+     "q": "Wer bucht die Hotels?",
+     "o": [
+      "man selbst im Internet",
+      "das Reisebüro der Firma",
+      "die Teamleitung"
+     ],
+     "r": 1,
+     "e": "„… über das Reisebüro der Firma.“"
+    },
+    {
+     "q": "Bis wann reicht man die Belege ein?",
+     "o": [
+      "sofort",
+      "spätestens einen Monat nach der Reise",
+      "am Jahresende"
+     ],
+     "r": 1,
+     "e": "„… spätestens einen Monat nach der Reise …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-101",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Kinderbetreuung in den Ferien",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Ferienbetreuung für Kinder",
+     "text": "In den Sommerferien bieten wir eine Ferienbetreuung für Kinder von 6 bis 12 Jahren an. Sie findet in den ersten drei Ferienwochen von 8 bis 16 Uhr in den Räumen des Sportvereins neben dem Werk statt. Es gibt ein Mittagessen und viele Ausflüge. Eine Woche kostet 60 Euro, für das zweite Kind 40 Euro. Die Plätze sind begrenzt; Eltern im Schichtdienst werden zuerst berücksichtigt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die Betreuung findet in der Firma statt.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: in den Räumen des Sportvereins."
+    },
+    {
+     "q": "Wie viel kostet eine Woche für das zweite Kind?",
+     "o": [
+      "60 Euro",
+      "40 Euro",
+      "nichts"
+     ],
+     "r": 1,
+     "e": "„… für das zweite Kind 40 Euro.“"
+    },
+    {
+     "q": "Wer bekommt zuerst einen Platz?",
+     "o": [
+      "Eltern im Schichtdienst",
+      "Führungskräfte",
+      "wer zuerst kommt"
+     ],
+     "r": 0,
+     "e": "„… Eltern im Schichtdienst werden zuerst berücksichtigt.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-102",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – Arbeitsplatz im Labor",
+   "anweisung": "Sie arbeiten in einem Labor und lesen die Regeln. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Laborordnung",
+     "text": "Im Labor tragen Sie immer Laborkittel, Schutzbrille und geschlossene Schuhe. Essen und Trinken sind verboten. Lange Haare werden zusammengebunden. Chemikalien werden nur in beschrifteten Gefäßen aufbewahrt. Reste werden nicht in den Ausguss geschüttet, sondern in die gekennzeichneten Behälter. Wenn Chemikalien auf die Haut kommen, spülen Sie die Stelle sofort mindestens zehn Minuten mit Wasser."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Chemikalienreste schüttet man in den Ausguss.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: in die gekennzeichneten Behälter."
+    },
+    {
+     "q": "Was ist im Labor verboten?",
+     "o": [
+      "Telefonieren",
+      "Essen und Trinken",
+      "Musik"
+     ],
+     "r": 1,
+     "e": "„Essen und Trinken sind verboten.“"
+    },
+    {
+     "q": "Wie lange spült man die Haut mit Wasser?",
+     "o": [
+      "eine Minute",
+      "mindestens zehn Minuten",
+      "eine Stunde"
+     ],
+     "r": 1,
+     "e": "„… mindestens zehn Minuten …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-103",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Abschied in Rente",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Übergang in die Rente",
+     "text": "Wer in den nächsten zwei Jahren in Rente geht, ist zu einer Informationsveranstaltung am 8. März eingeladen. Eine Beraterin der Deutschen Rentenversicherung erklärt, wie man den Rentenantrag stellt und welche Unterlagen man braucht. Der Antrag sollte etwa drei Monate vor Rentenbeginn gestellt werden. Wir bieten außerdem an, die Arbeitszeit im letzten Jahr schrittweise zu reduzieren."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Den Rentenantrag stellt man am besten drei Monate vorher.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0,
+     "e": "Richtig: etwa drei Monate vor Rentenbeginn."
+    },
+    {
+     "q": "Wer erklärt den Rentenantrag?",
+     "o": [
+      "die Personalabteilung",
+      "eine Beraterin der Rentenversicherung",
+      "der Betriebsrat"
+     ],
+     "r": 1,
+     "e": "„Eine Beraterin der Deutschen Rentenversicherung …“"
+    },
+    {
+     "q": "Was bietet die Firma im letzten Jahr an?",
+     "o": [
+      "eine Prämie",
+      "weniger Arbeitszeit Schritt für Schritt",
+      "einen Dienstwagen"
+     ],
+     "r": 1,
+     "e": "„… die Arbeitszeit … schrittweise zu reduzieren.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-104",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Bürodienst Empfang",
+   "anweisung": "Sie arbeiten am Empfang und lesen eine Anweisung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Aufgaben am Empfang",
+     "text": "Der Empfang ist von 7:30 bis 17 Uhr besetzt. Sie nehmen Anrufe an, die nicht direkt durchgestellt werden können, und leiten sie weiter. Besucher tragen sich in das Besucherbuch ein und bekommen einen Ausweis. Pakete werden angenommen und die Empfänger per E-Mail informiert. In der Mittagspause von 12 bis 12:30 Uhr übernimmt die Poststelle. Bei Feueralarm nehmen Sie das Besucherbuch mit zum Sammelplatz."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "In der Mittagspause bleibt der Empfang leer.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Die Poststelle übernimmt."
+    },
+    {
+     "q": "Was nimmt man bei Feueralarm mit?",
+     "o": [
+      "die Kasse",
+      "das Besucherbuch",
+      "die Pakete"
+     ],
+     "r": 1,
+     "e": "„… nehmen Sie das Besucherbuch mit …“"
+    },
+    {
+     "q": "Wie informiert man über ein Paket?",
+     "o": [
+      "per Telefon",
+      "per E-Mail",
+      "per Brief"
+     ],
+     "r": 1,
+     "e": "„… die Empfänger per E-Mail informiert.“"
+    }
+   ]
+  }
+ ]
+}

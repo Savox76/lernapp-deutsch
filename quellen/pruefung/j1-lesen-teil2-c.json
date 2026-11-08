@@ -1,0 +1,740 @@
+{
+ "lesen": [
+  {
+   "id": "dtbl2-73",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Umzug der Abteilung",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Die Buchhaltung zieht um",
+     "text": "Vom 3. bis 5. Juni zieht die Buchhaltung vom zweiten Stock in das neue Gebäude B. Bitte packen Sie Ihre Unterlagen bis zum 2. Juni in die Umzugskisten, die ab Montag in den Büros stehen. Beschriften Sie jede Kiste mit Ihrem Namen und der neuen Raumnummer. Computer und Telefone baut die IT ab und wieder auf. In diesen drei Tagen arbeiten alle im Homeoffice. Ab dem 6. Juni erreichen Sie die Buchhaltung unter den bekannten Telefonnummern."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Nach dem Umzug bekommt die Buchhaltung neue Telefonnummern.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Die bekannten Nummern bleiben."
+    },
+    {
+     "q": "Wer baut die Computer ab?",
+     "o": [
+      "jeder selbst",
+      "die IT",
+      "die Umzugsfirma"
+     ],
+     "r": 1,
+     "e": "„Computer und Telefone baut die IT ab …“"
+    },
+    {
+     "q": "Wo arbeitet man während des Umzugs?",
+     "o": [
+      "im Gebäude B",
+      "im Homeoffice",
+      "in der Kantine"
+     ],
+     "r": 1,
+     "e": "„In diesen drei Tagen arbeiten alle im Homeoffice.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-74",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – Schlüssel und Ausweise",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Schlüssel und Mitarbeiterausweis",
+     "text": "Ihr Mitarbeiterausweis öffnet alle Türen, die Sie für Ihre Arbeit brauchen. Er ist gleichzeitig Ihre Karte für die Kantine. Leihen Sie den Ausweis niemals aus. Bei Verlust melden Sie ihn sofort beim Empfang, damit er gesperrt wird. Ein neuer Ausweis kostet 15 Euro. Schlüssel für Schränke und Spinde bekommen Sie gegen Unterschrift beim Hausmeister. Wenn Sie die Firma verlassen, geben Sie Ausweis und Schlüssel am letzten Arbeitstag ab."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ein neuer Ausweis ist kostenlos.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Er kostet 15 Euro."
+    },
+    {
+     "q": "Wofür braucht man den Ausweis außer für Türen?",
+     "o": [
+      "für den Parkplatz",
+      "für die Kantine",
+      "für den Drucker"
+     ],
+     "r": 1,
+     "e": "„… gleichzeitig Ihre Karte für die Kantine.“"
+    },
+    {
+     "q": "Spindschlüssel bekommt man …",
+     "o": [
+      "am Empfang.",
+      "beim Hausmeister.",
+      "in der Personalabteilung."
+     ],
+     "r": 1,
+     "e": "„… gegen Unterschrift beim Hausmeister.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-75",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Telefon in der Arztpraxis",
+   "anweisung": "Sie arbeiten in einer Arztpraxis und lesen eine Anweisung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Telefonregeln in der Praxis",
+     "text": "Melden Sie sich am Telefon immer mit „Praxis Dr. Wagner, Sie sprechen mit …“ und Ihrem Vornamen. Notfälle haben Vorrang: Bei Brustschmerzen oder Atemnot raten Sie dem Patienten, sofort die 112 anzurufen. Termine vergeben Sie nur nach dem Plan im System. Befunde dürfen am Telefon nicht mitgeteilt werden, nur die Ärztin darf darüber sprechen. Rezepte können telefonisch bestellt und am nächsten Tag abgeholt werden."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Am Telefon darf man Befunde vorlesen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Nur die Ärztin spricht über Befunde."
+    },
+    {
+     "q": "Was rät man einem Patienten mit Atemnot?",
+     "o": [
+      "morgen zu kommen",
+      "die 112 anzurufen",
+      "eine Tablette zu nehmen"
+     ],
+     "r": 1,
+     "e": "„… sofort die 112 anzurufen.“"
+    },
+    {
+     "q": "Ein telefonisch bestelltes Rezept …",
+     "o": [
+      "kommt per Post.",
+      "kann man am nächsten Tag abholen.",
+      "muss man online bezahlen."
+     ],
+     "r": 1,
+     "e": "„… am nächsten Tag abgeholt werden.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-76",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Überstunden",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Neue Regel für Überstunden",
+     "text": "Überstunden müssen vorher von der Teamleitung genehmigt werden. Genehmigte Überstunden werden auf Ihrem Arbeitszeitkonto gesammelt. Sie können sie als freie Tage nehmen oder sich bis zu 20 Stunden pro Jahr auszahlen lassen. Auf dem Konto dürfen höchstens 60 Plusstunden stehen. Wer mehr hat, spricht mit der Teamleitung, wie die Stunden abgebaut werden. Am Jahresende darf das Konto höchstens 40 Stunden haben."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Man kann alle Überstunden auszahlen lassen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: nur bis zu 20 Stunden pro Jahr."
+    },
+    {
+     "q": "Wer muss Überstunden genehmigen?",
+     "o": [
+      "die Personalabteilung",
+      "die Teamleitung",
+      "der Betriebsrat"
+     ],
+     "r": 1,
+     "e": "„… von der Teamleitung genehmigt …“"
+    },
+    {
+     "q": "Wie viele Stunden dürfen am Jahresende höchstens auf dem Konto sein?",
+     "o": [
+      "20",
+      "40",
+      "60"
+     ],
+     "r": 1,
+     "e": "„Am Jahresende … höchstens 40 Stunden.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-77",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Spende Weihnachtsaktion",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Weihnachtsaktion für Kinder",
+     "text": "Auch dieses Jahr sammeln wir Geschenke für Kinder aus dem Kinderheim „Sonnenschein“. Am Baum in der Eingangshalle hängen Karten mit Wünschen der Kinder. Nehmen Sie eine Karte, kaufen Sie das Geschenk und bringen Sie es bis zum 12. Dezember verpackt an den Empfang. Kleben Sie die Karte auf das Paket. Das Geschenk sollte nicht mehr als 25 Euro kosten. Wer lieber Geld spenden möchte, findet eine Spendenbox in der Kantine."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die Geschenke dürfen sehr teuer sein.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: höchstens etwa 25 Euro."
+    },
+    {
+     "q": "Wo hängen die Wunschkarten?",
+     "o": [
+      "in der Kantine",
+      "am Baum in der Eingangshalle",
+      "im Intranet"
+     ],
+     "r": 1,
+     "e": "„Am Baum in der Eingangshalle …“"
+    },
+    {
+     "q": "Was macht man mit der Karte?",
+     "o": [
+      "Man behält sie.",
+      "Man klebt sie auf das Paket.",
+      "Man schickt sie an das Kinderheim."
+     ],
+     "r": 1,
+     "e": "„Kleben Sie die Karte auf das Paket.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-78",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – Arbeiten im Großraumbüro",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Rücksicht im Großraumbüro",
+     "text": "Im Großraumbüro arbeiten viele Menschen zusammen. Bitte telefonieren Sie leise und nutzen Sie für längere Gespräche die kleinen Telefonräume. Besprechungen mit mehr als zwei Personen finden in den Besprechungsräumen statt. Musik nur mit Kopfhörern. Am Ende des Tages bleibt der Schreibtisch leer, weil jeden Tag andere Personen an den Plätzen arbeiten. Ihre persönlichen Sachen bewahren Sie im Schließfach auf."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Jeder hat einen festen Schreibtisch.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Jeden Tag arbeiten andere Personen an den Plätzen."
+    },
+    {
+     "q": "Wo führt man längere Telefonate?",
+     "o": [
+      "am Schreibtisch",
+      "in den Telefonräumen",
+      "im Flur"
+     ],
+     "r": 1,
+     "e": "„… nutzen Sie … die kleinen Telefonräume.“"
+    },
+    {
+     "q": "Wo bewahrt man persönliche Sachen auf?",
+     "o": [
+      "auf dem Schreibtisch",
+      "im Schließfach",
+      "im Auto"
+     ],
+     "r": 1,
+     "e": "„… im Schließfach auf.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-79",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Wäsche im Pflegeheim",
+   "anweisung": "Sie arbeiten im Pflegeheim und lesen eine Anweisung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Umgang mit Wäsche",
+     "text": "Die persönliche Wäsche der Bewohner wird mit einem Namensetikett versehen. Schmutzige Wäsche kommt in die Wäschesäcke auf dem Wagen: blau für Bettwäsche, weiß für Kleidung, gelb für infektiöse Wäsche. Gelbe Säcke werden fest verschlossen und nie geöffnet. Die Wäscherei holt die Säcke montags, mittwochs und freitags um 8 Uhr ab. Fehlt einem Bewohner ein Kleidungsstück, füllen Sie das Suchformular aus."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Gelbe Säcke werden vor dem Abholen noch einmal kontrolliert.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Sie werden nie geöffnet."
+    },
+    {
+     "q": "Wofür sind die weißen Säcke?",
+     "o": [
+      "Bettwäsche",
+      "Kleidung",
+      "infektiöse Wäsche"
+     ],
+     "r": 1,
+     "e": "„… weiß für Kleidung …“"
+    },
+    {
+     "q": "Wenn ein Kleidungsstück fehlt, …",
+     "o": [
+      "kauft man ein neues.",
+      "füllt man das Suchformular aus.",
+      "ruft man die Familie an."
+     ],
+     "r": 1,
+     "e": "„… füllen Sie das Suchformular aus.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-80",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Fahrrad-Leasing",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Dienstrad-Leasing",
+     "text": "Sie können über die Firma ein Fahrrad oder E-Bike leasen. Die monatliche Rate wird vom Bruttogehalt abgezogen; dadurch sparen Sie Steuern. Die Firma zahlt die Versicherung. Der Vertrag läuft 36 Monate. Danach können Sie das Rad günstig kaufen oder zurückgeben. Sie dürfen das Rad auch privat und im Urlaub nutzen. Wählen Sie Ihr Rad bei einem Fachhändler aus und schicken Sie das Angebot an die Personalabteilung."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Das Dienstrad darf man nur für den Weg zur Arbeit nutzen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: auch privat und im Urlaub."
+    },
+    {
+     "q": "Wer zahlt die Versicherung?",
+     "o": [
+      "man selbst",
+      "die Firma",
+      "der Händler"
+     ],
+     "r": 1,
+     "e": "„Die Firma zahlt die Versicherung.“"
+    },
+    {
+     "q": "Was passiert nach 36 Monaten?",
+     "o": [
+      "Man muss das Rad zurückgeben.",
+      "Man kann das Rad kaufen oder zurückgeben.",
+      "Der Vertrag verlängert sich automatisch."
+     ],
+     "r": 1,
+     "e": "„… günstig kaufen oder zurückgeben.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-81",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – Krankmeldung im Restaurant",
+   "anweisung": "Sie arbeiten in einem Restaurant und lesen die Regeln. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Krank? So geht es richtig",
+     "text": "Wenn Sie krank sind, rufen Sie spätestens zwei Stunden vor Schichtbeginn die Schichtleitung an. Eine Nachricht im Gruppenchat reicht nicht. Ab dem dritten Krankheitstag brauchen Sie eine Arbeitsunfähigkeitsbescheinigung; die Praxis meldet sie elektronisch an die Krankenkasse. Bei Durchfall oder Erbrechen dürfen Sie nicht in der Küche arbeiten, bis Sie 48 Stunden ohne Beschwerden sind. Das schützt unsere Gäste."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Eine Nachricht in der Gruppe reicht als Krankmeldung.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Man muss anrufen."
+    },
+    {
+     "q": "Wann muss man anrufen?",
+     "o": [
+      "eine Stunde vorher",
+      "spätestens zwei Stunden vor Schichtbeginn",
+      "am Vortag"
+     ],
+     "r": 1,
+     "e": "„… spätestens zwei Stunden vor Schichtbeginn …“"
+    },
+    {
+     "q": "Nach Durchfall darf man wieder in der Küche arbeiten, …",
+     "o": [
+      "sofort.",
+      "nach 48 Stunden ohne Beschwerden.",
+      "nach einer Woche."
+     ],
+     "r": 1,
+     "e": "„… bis Sie 48 Stunden ohne Beschwerden sind.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-82",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Praktikanten",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Praktikanten im Sommer",
+     "text": "Im Juli und August kommen sechs Schülerpraktikanten zu uns. Sie sind zwischen 15 und 17 Jahre alt. Jede Abteilung bekommt einen Praktikanten für zwei Wochen. Bitte denken Sie daran: Jugendliche dürfen höchstens acht Stunden am Tag arbeiten und nicht an gefährlichen Maschinen. Jeder Praktikant hat eine feste Ansprechperson. Am Ende schreibt die Ansprechperson eine kurze Beurteilung."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Praktikanten dürfen an allen Maschinen arbeiten.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: nicht an gefährlichen Maschinen."
+    },
+    {
+     "q": "Wie lange bleibt ein Praktikant in einer Abteilung?",
+     "o": [
+      "eine Woche",
+      "zwei Wochen",
+      "zwei Monate"
+     ],
+     "r": 1,
+     "e": "„… für zwei Wochen.“"
+    },
+    {
+     "q": "Wer schreibt die Beurteilung?",
+     "o": [
+      "die Ansprechperson",
+      "die Schule",
+      "die Personalabteilung"
+     ],
+     "r": 0,
+     "e": "„… schreibt die Ansprechperson eine kurze Beurteilung.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-83",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Kassenabschluss",
+   "anweisung": "Sie arbeiten in einer Bäckerei und lesen eine Anweisung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Kassenabschluss am Abend",
+     "text": "Nach Ladenschluss zählen Sie das Bargeld in der Kasse. In der Kasse bleiben für den nächsten Tag 150 Euro Wechselgeld. Den Rest legen Sie mit dem Kassenbericht in die Geldtasche und werfen sie in den Tresor. Wenn der gezählte Betrag mehr als 5 Euro vom Kassenbericht abweicht, schreiben Sie eine Notiz und rufen die Filialleitung an. Der Kassenabschluss wird immer von zwei Personen gemacht."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Den Kassenabschluss macht eine Person allein.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: immer zwei Personen."
+    },
+    {
+     "q": "Wie viel Geld bleibt in der Kasse?",
+     "o": [
+      "nichts",
+      "150 Euro",
+      "500 Euro"
+     ],
+     "r": 1,
+     "e": "„… 150 Euro Wechselgeld.“"
+    },
+    {
+     "q": "Wann ruft man die Filialleitung an?",
+     "o": [
+      "jeden Abend",
+      "wenn mehr als 5 Euro fehlen oder zu viel sind",
+      "nur am Wochenende"
+     ],
+     "r": 1,
+     "e": "„… mehr als 5 Euro … abweicht …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-84",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Datenschutz",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Datenschutz am Arbeitsplatz",
+     "text": "Personenbezogene Daten von Kunden und Kollegen sind besonders geschützt. Sperren Sie Ihren Bildschirm, wenn Sie den Platz verlassen. Ausdrucke mit Kundendaten gehören nicht in den normalen Papierkorb, sondern in die grauen Datenschutztonnen. Geben Sie am Telefon nur Auskunft, wenn Sie sicher sind, mit wem Sie sprechen. Wenn Daten verloren gehen, zum Beispiel durch einen verlorenen USB-Stick, melden Sie das sofort dem Datenschutzbeauftragten."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ausdrucke mit Kundendaten wirft man in den Papierkorb.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: in die grauen Datenschutztonnen."
+    },
+    {
+     "q": "Was soll man tun, wenn man den Platz verlässt?",
+     "o": [
+      "den Computer ausschalten",
+      "den Bildschirm sperren",
+      "die Tür abschließen"
+     ],
+     "r": 1,
+     "e": "„Sperren Sie Ihren Bildschirm …“"
+    },
+    {
+     "q": "Wem meldet man einen verlorenen USB-Stick?",
+     "o": [
+      "dem Datenschutzbeauftragten",
+      "der Polizei",
+      "dem Hausmeister"
+     ],
+     "r": 0,
+     "e": "„… sofort dem Datenschutzbeauftragten.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-85",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – Fahrzeugpool",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Firmenautos aus dem Fahrzeugpool",
+     "text": "Für Dienstfahrten können Sie ein Auto aus dem Fahrzeugpool reservieren. Die Reservierung machen Sie im Buchungssystem, spätestens am Vortag. Den Schlüssel holen Sie beim Empfang ab. Bitte tanken Sie, wenn der Tank weniger als ein Viertel voll ist; die Tankkarte liegt im Handschuhfach. Schäden notieren Sie im Fahrtenbuch. Private Fahrten sind nicht erlaubt. Rauchen im Auto ist verboten."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Mit dem Poolauto darf man am Wochenende privat fahren.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Private Fahrten sind nicht erlaubt."
+    },
+    {
+     "q": "Wo ist die Tankkarte?",
+     "o": [
+      "beim Empfang",
+      "im Handschuhfach",
+      "in der Buchhaltung"
+     ],
+     "r": 1,
+     "e": "„… liegt im Handschuhfach.“"
+    },
+    {
+     "q": "Einen Kratzer am Auto …",
+     "o": [
+      "notiert man im Fahrtenbuch.",
+      "repariert man selbst.",
+      "ignoriert man."
+     ],
+     "r": 0,
+     "e": "„Schäden notieren Sie im Fahrtenbuch.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-86",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – neues Kantinenangebot",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Neues in der Kantine",
+     "text": "Ab Montag gibt es in der Kantine jeden Tag drei Gerichte: ein Fleischgericht, ein vegetarisches Gericht und eine Suppe. Freitags gibt es zusätzlich Fisch. Den Speiseplan für die ganze Woche finden Sie im Intranet. Bezahlt wird nur noch mit dem Mitarbeiterausweis, Bargeld wird nicht mehr angenommen. Den Ausweis laden Sie am Automaten neben dem Eingang auf. Die Kantine ist von 11:30 bis 14 Uhr geöffnet."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "In der Kantine kann man weiter bar bezahlen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Bargeld wird nicht mehr angenommen."
+    },
+    {
+     "q": "Was gibt es freitags zusätzlich?",
+     "o": [
+      "Pizza",
+      "Fisch",
+      "Kuchen"
+     ],
+     "r": 1,
+     "e": "„Freitags gibt es zusätzlich Fisch.“"
+    },
+    {
+     "q": "Wo lädt man den Ausweis auf?",
+     "o": [
+      "an der Kasse",
+      "am Automaten neben dem Eingang",
+      "im Intranet"
+     ],
+     "r": 1,
+     "e": "„… am Automaten neben dem Eingang …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-87",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Baustelle",
+   "anweisung": "Sie arbeiten auf einer Baustelle und lesen eine Anweisung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Sicherheit auf der Baustelle",
+     "text": "Auf der Baustelle sind Helm, Sicherheitsschuhe und Warnweste Pflicht. Arbeiten in mehr als zwei Metern Höhe nur mit Absturzsicherung. Gerüste dürfen erst betreten werden, wenn sie vom Bauleiter freigegeben sind; die grüne Karte am Gerüst zeigt das. Alkohol ist auf der Baustelle verboten. Bei Gewitter werden die Kräne sofort gestoppt. Erste-Hilfe-Kasten und Feuerlöscher stehen im Container."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ein Gerüst mit grüner Karte ist freigegeben.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0,
+     "e": "Richtig: Die grüne Karte zeigt die Freigabe."
+    },
+    {
+     "q": "Ab welcher Höhe braucht man eine Absturzsicherung?",
+     "o": [
+      "ab einem Meter",
+      "ab mehr als zwei Metern",
+      "ab fünf Metern"
+     ],
+     "r": 1,
+     "e": "„… in mehr als zwei Metern Höhe …“"
+    },
+    {
+     "q": "Was passiert bei Gewitter?",
+     "o": [
+      "Die Kräne werden gestoppt.",
+      "Alle gehen nach Hause.",
+      "Man arbeitet schneller."
+     ],
+     "r": 0,
+     "e": "„Bei Gewitter werden die Kräne sofort gestoppt.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-88",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Mentorenprogramm",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Mentoren für neue Kolleginnen und Kollegen",
+     "text": "Neue Beschäftigte bekommen in den ersten sechs Monaten einen Mentor oder eine Mentorin. Das ist eine erfahrene Person aus einer anderen Abteilung. Sie treffen sich einmal im Monat für eine Stunde und sprechen über Fragen, die man nicht unbedingt der eigenen Chefin stellen möchte. Die Gespräche sind vertraulich. Wer selbst Mentor werden möchte, muss mindestens drei Jahre im Unternehmen sein und meldet sich bei der Personalentwicklung."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Der Mentor arbeitet in derselben Abteilung.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: aus einer anderen Abteilung."
+    },
+    {
+     "q": "Wie oft trifft man sich?",
+     "o": [
+      "jede Woche",
+      "einmal im Monat",
+      "einmal im Jahr"
+     ],
+     "r": 1,
+     "e": "„… einmal im Monat für eine Stunde …“"
+    },
+    {
+     "q": "Wer kann Mentor werden?",
+     "o": [
+      "jeder",
+      "wer mindestens drei Jahre im Unternehmen ist",
+      "nur Führungskräfte"
+     ],
+     "r": 1,
+     "e": "„… mindestens drei Jahre im Unternehmen …“"
+    }
+   ]
+  }
+ ]
+}
