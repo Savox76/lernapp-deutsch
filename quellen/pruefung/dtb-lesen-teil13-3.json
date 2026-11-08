@@ -1,0 +1,2214 @@
+{
+ "lesen": [
+  {
+   "id": "dtbl1-11",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Neues vom Arbeitsmarkt",
+   "anweisung": "Sie lesen in einem Online-Magazin für Beschäftigte kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Pflege sucht Personal. Bis 2030 fehlen in Deutschland Hunderttausende Pflegekräfte. Viele Heime bezahlen inzwischen Prämien, wenn neue Mitarbeiter mindestens ein Jahr bleiben."
+    },
+    {
+     "k": "b",
+     "text": "Arbeiten im Ausland. Wer ein paar Jahre in einem anderen EU-Land arbeiten möchte, braucht kein Visum. Wichtig ist aber, die Kranken- und Rentenversicherung zu klären."
+    },
+    {
+     "k": "c",
+     "text": "Vier-Tage-Woche im Test. Ein Handwerksbetrieb aus Sachsen hat die Vier-Tage-Woche eingeführt – bei gleichem Lohn. Die Krankentage sind seitdem deutlich gesunken."
+    },
+    {
+     "k": "d",
+     "text": "Teilzeitausbildung. Auch Mütter und Väter mit kleinen Kindern können eine Ausbildung machen: in Teilzeit mit 25 bis 30 Stunden pro Woche."
+    },
+    {
+     "k": "e",
+     "text": "Rente mit 63? Wer 45 Jahre gearbeitet hat, kann früher ohne Abzüge in Rente gehen. Wir erklären, welche Zeiten zählen."
+    },
+    {
+     "k": "f",
+     "text": "Jobs für Studierende. In den Semesterferien suchen viele Firmen Aushilfen. Bis zu 70 Tage im Jahr kann man arbeiten, ohne Sozialabgaben zu zahlen."
+    },
+    {
+     "k": "g",
+     "text": "Kündigung – und dann? Wer arbeitslos wird, muss sich spätestens drei Tage nach der Kündigung bei der Arbeitsagentur melden. Sonst gibt es eine Sperre."
+    },
+    {
+     "k": "h",
+     "text": "Gehalt verhandeln als Frau. Frauen verdienen oft weniger, weil sie bescheidener verhandeln. Eine Trainerin gibt Tipps für das nächste Gespräch."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Marina hat zwei Kinder im Kindergartenalter und möchte trotzdem eine Ausbildung zur Bürokauffrau machen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Ausbildung in Teilzeit für Eltern."
+    },
+    {
+     "q": "Herr Wolf hat heute seine Kündigung bekommen und weiß nicht, was er jetzt tun muss.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Innerhalb von drei Tagen bei der Arbeitsagentur melden."
+    },
+    {
+     "q": "Olga möchte für drei Jahre in Österreich arbeiten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Arbeiten in einem anderen EU-Land."
+    },
+    {
+     "q": "Herr Schulz arbeitet seit 44 Jahren und überlegt, wann er aufhören kann.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Nach 45 Arbeitsjahren früher in Rente."
+    },
+    {
+     "q": "Tim möchte in den Sommerferien Geld verdienen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Jobs in den Semesterferien."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-12",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Tipps für den Berufsalltag",
+   "anweisung": "Sie lesen in einer Zeitschrift für Arbeitnehmer kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Richtig telefonieren. Nennen Sie am Anfang Ihren Namen und Ihre Firma. Notieren Sie sich vorher die wichtigsten Punkte, damit Sie nichts vergessen."
+    },
+    {
+     "k": "b",
+     "text": "Ordnung auf dem Schreibtisch. Wer jeden Abend fünf Minuten aufräumt, findet am nächsten Morgen alles schneller und startet entspannter."
+    },
+    {
+     "k": "c",
+     "text": "Nein sagen lernen. Wer immer Ja sagt, hat bald zu viel Arbeit. Erklären Sie freundlich, warum Sie eine Aufgabe gerade nicht übernehmen können."
+    },
+    {
+     "k": "d",
+     "text": "Gut präsentieren. Sprechen Sie frei, schauen Sie die Zuhörer an und nutzen Sie nicht mehr als fünf Folien für zehn Minuten."
+    },
+    {
+     "k": "e",
+     "text": "Pausen richtig nutzen. Wer in der Pause am Handy hängt, erholt sich kaum. Besser: ein kurzer Spaziergang an der frischen Luft."
+    },
+    {
+     "k": "f",
+     "text": "Feedback geben. Beginnen Sie mit etwas Positivem, nennen Sie dann konkret, was besser werden kann – und bleiben Sie sachlich."
+    },
+    {
+     "k": "g",
+     "text": "Lampenfieber vor Prüfungen. Gute Vorbereitung, genug Schlaf und ruhiges Atmen helfen gegen die Nervosität."
+    },
+    {
+     "k": "h",
+     "text": "Protokoll schreiben. Notieren Sie Datum, Teilnehmer, Themen und vor allem: wer was bis wann erledigt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Frau Lange soll morgen vor ihrem Team ein neues Projekt vorstellen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Gut präsentieren."
+    },
+    {
+     "q": "Svetlana übernimmt immer Aufgaben von Kollegen und schafft ihre eigene Arbeit nicht mehr.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Nein sagen lernen."
+    },
+    {
+     "q": "Herr Kim soll bei der Teambesprechung die Ergebnisse aufschreiben.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 7,
+     "e": "h: Protokoll schreiben."
+    },
+    {
+     "q": "Lena ist in der Mittagspause oft genauso müde wie vorher.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Pausen richtig nutzen."
+    },
+    {
+     "q": "Paul soll einem Azubi sagen, was er bei seiner Arbeit verbessern muss.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Feedback geben."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-13",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Arbeit und Familie",
+   "anweisung": "Sie lesen in einem Elternportal kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Kinderkrankengeld. Ist das Kind krank, zahlt die Krankenkasse für eine bestimmte Zahl von Tagen pro Jahr einen Teil des Lohns. Voraussetzung ist ein Attest."
+    },
+    {
+     "k": "b",
+     "text": "Elternzeit für Väter. Immer mehr Väter nehmen Elternzeit. Viele Arbeitgeber reagieren inzwischen positiv – wenn man früh Bescheid sagt."
+    },
+    {
+     "k": "c",
+     "text": "Betriebskita. Einige große Firmen haben eigene Kitas. Die Öffnungszeiten passen oft besser zu den Arbeitszeiten als bei städtischen Kitas."
+    },
+    {
+     "k": "d",
+     "text": "Pflege von Angehörigen. Wer Eltern pflegt, kann bis zu sechs Monate ganz oder teilweise freigestellt werden."
+    },
+    {
+     "k": "e",
+     "text": "Ferienbetreuung. In den Schulferien wird es für berufstätige Eltern schwierig. Viele Städte bieten günstige Ferienprogramme an."
+    },
+    {
+     "k": "f",
+     "text": "Homeoffice mit Kindern. Wer zu Hause arbeitet und kleine Kinder hat, sollte feste Zeiten planen – Homeoffice ist kein Ersatz für Betreuung."
+    },
+    {
+     "k": "g",
+     "text": "Wiedereinstieg nach der Elternzeit. Ein Gespräch mit dem Chef einige Wochen vorher hilft, Arbeitszeit und Aufgaben zu planen."
+    },
+    {
+     "k": "h",
+     "text": "Taschengeld. Wie viel Taschengeld ist für welches Alter richtig? Eine Tabelle gibt Orientierung."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Herr Novak möchte nach der Geburt seiner Tochter zwei Monate zu Hause bleiben.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Elternzeit für Väter."
+    },
+    {
+     "q": "Die Mutter von Frau Weber ist schwer krank und braucht Pflege.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Freistellung zur Pflege von Angehörigen."
+    },
+    {
+     "q": "Anna kommt in sechs Wochen aus der Elternzeit zurück und möchte in Teilzeit arbeiten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Wiedereinstieg nach der Elternzeit."
+    },
+    {
+     "q": "Oleg arbeitet im Schichtdienst und findet keine Kita, die früh genug öffnet.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Betriebskita mit passenden Öffnungszeiten."
+    },
+    {
+     "q": "Die Kinder von Frau Petrova haben im Sommer sechs Wochen frei, aber sie hat nur zwei Wochen Urlaub.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Ferienbetreuung."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-14",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Gesund arbeiten",
+   "anweisung": "Sie lesen in dem Gesundheitsmagazin Ihrer Krankenkasse kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Augen schonen am Bildschirm. Der Abstand zum Monitor sollte mindestens eine Armlänge betragen. Blinzeln Sie bewusst öfter."
+    },
+    {
+     "k": "b",
+     "text": "Lärm im Betrieb. Wer täglich lautem Lärm ausgesetzt ist, sollte immer Gehörschutz tragen. Schäden am Gehör sind nicht heilbar."
+    },
+    {
+     "k": "c",
+     "text": "Hautschutz in der Pflege. Häufiges Händewaschen macht die Haut trocken. Pflegecreme nach jeder Schicht schützt vor Ekzemen."
+    },
+    {
+     "k": "d",
+     "text": "Stehen statt sitzen. Ein höhenverstellbarer Tisch hilft gegen Rückenschmerzen. Wechseln Sie mehrmals am Tag die Position."
+    },
+    {
+     "k": "e",
+     "text": "Burn-out erkennen. Wer dauerhaft erschöpft ist und schlecht schläft, sollte mit dem Hausarzt sprechen – bevor es zu spät ist."
+    },
+    {
+     "k": "f",
+     "text": "Hitze am Arbeitsplatz. Ab 26 Grad im Raum sollte der Arbeitgeber etwas tun, zum Beispiel Getränke anbieten oder Arbeitszeiten verschieben."
+    },
+    {
+     "k": "g",
+     "text": "Rauchstopp. Viele Krankenkassen bezahlen Kurse, die beim Aufhören helfen. Fragen Sie nach!"
+    },
+    {
+     "k": "h",
+     "text": "Grippeimpfung. Für Beschäftigte in Pflege und Kita ist die Impfung besonders wichtig. Der Betriebsarzt impft kostenlos."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Herr Braun arbeitet in einer Halle, in der Maschinen sehr laut sind.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Lärm im Betrieb – Gehörschutz."
+    },
+    {
+     "q": "Im Büro von Frau Klein ist es im Sommer über 30 Grad warm.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Hitze am Arbeitsplatz."
+    },
+    {
+     "q": "Natalia arbeitet im Altenheim und hat ständig rote, trockene Hände.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Hautschutz in der Pflege."
+    },
+    {
+     "q": "Peter raucht seit 20 Jahren und möchte endlich aufhören.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Rauchstopp-Kurse der Krankenkasse."
+    },
+    {
+     "q": "Frau Roth fühlt sich seit Monaten leer und kann nachts nicht schlafen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Burn-out erkennen."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-15",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Digital arbeiten",
+   "anweisung": "Sie lesen in einem IT-Ratgeber kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Sichere Passwörter. Nutzen Sie für jedes Konto ein anderes Passwort. Ein Passwort-Manager hilft, den Überblick zu behalten."
+    },
+    {
+     "k": "b",
+     "text": "Videokonferenz-Etikette. Kamera an, Mikrofon aus, wenn man nicht spricht – und bitte nicht nebenbei E-Mails schreiben."
+    },
+    {
+     "k": "c",
+     "text": "Dateien richtig benennen. Datum, Thema, Version: Mit klaren Dateinamen findet das ganze Team Dokumente schneller."
+    },
+    {
+     "k": "d",
+     "text": "Phishing erkennen. Achten Sie auf Rechtschreibfehler und seltsame Absender. Echte Banken fragen nie per E-Mail nach Ihrem Passwort."
+    },
+    {
+     "k": "e",
+     "text": "Excel für Anfänger. In einem kostenlosen Online-Kurs lernen Sie, wie man Tabellen anlegt und einfache Formeln benutzt."
+    },
+    {
+     "k": "f",
+     "text": "Digitale Zeiterfassung. Immer mehr Firmen erfassen die Arbeitszeit per App. Was darf der Arbeitgeber dabei sehen?"
+    },
+    {
+     "k": "g",
+     "text": "Daten sichern. Wer wichtige Dateien nur auf dem eigenen Laptop speichert, riskiert alles. Regelmäßige Sicherungen sind Pflicht."
+    },
+    {
+     "k": "h",
+     "text": "Künstliche Intelligenz im Büro. Programme schreiben Texte und fassen Berichte zusammen. Doch man muss die Ergebnisse immer prüfen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Herr Ali soll für seinen Chef Verkaufszahlen in einer Tabelle sammeln, kann das aber noch nicht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Excel für Anfänger."
+    },
+    {
+     "q": "Frau Becker hat eine E-Mail bekommen, in der sie ihr Bankpasswort eingeben soll.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Phishing erkennen."
+    },
+    {
+     "q": "Lisa benutzt für alle Konten dasselbe Passwort.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 0,
+     "e": "a: Sichere Passwörter."
+    },
+    {
+     "q": "Mehmets Laptop ist kaputt, und alle Präsentationen sind weg.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Daten sichern."
+    },
+    {
+     "q": "Im Team findet niemand die neueste Version eines Berichts.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Dateien richtig benennen."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-16",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Ausbildung und Studium",
+   "anweisung": "Sie lesen in einem Bildungsportal kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Ausbildung mit 30? Kein Problem: Immer mehr Menschen beginnen eine Ausbildung, wenn sie schon älter sind. Betriebe schätzen ihre Lebenserfahrung."
+    },
+    {
+     "k": "b",
+     "text": "BAföG für Erwachsene. Auch wer eine Meisterschule besucht, kann finanzielle Unterstützung bekommen – das sogenannte Aufstiegs-BAföG."
+    },
+    {
+     "k": "c",
+     "text": "Studium ohne Abitur. Wer eine Ausbildung und Berufserfahrung hat, kann in vielen Bundesländern auch ohne Abitur studieren."
+    },
+    {
+     "k": "d",
+     "text": "Praktikum vor der Ausbildung. Ein Praktikum hilft, den richtigen Beruf zu finden. Viele Betriebe bieten auch kurze Schnupperpraktika an."
+    },
+    {
+     "k": "e",
+     "text": "Duales Studium. Studium und Arbeit im Betrieb wechseln sich ab. Die Studierenden bekommen ein Gehalt."
+    },
+    {
+     "k": "f",
+     "text": "Ausbildung abbrechen? Wer unzufrieden ist, sollte erst mit dem Ausbilder oder der Kammer sprechen. Oft gibt es eine Lösung."
+    },
+    {
+     "k": "g",
+     "text": "Berufsschule in Deutschland. Azubis gehen ein bis zwei Tage pro Woche in die Berufsschule. Die Noten zählen auch für den Abschluss."
+    },
+    {
+     "k": "h",
+     "text": "Sprachförderung für Azubis. Wer Deutsch als Zweitsprache spricht, kann während der Ausbildung kostenlos Deutschunterricht bekommen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Irina ist 34 und überlegt, ob sie für eine Ausbildung zu alt ist.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 0,
+     "e": "a: Ausbildung mit 30 – kein Problem."
+    },
+    {
+     "q": "Herr Kaya ist Elektriker und möchte die Meisterschule besuchen, hat aber wenig Geld.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Aufstiegs-BAföG."
+    },
+    {
+     "q": "Dmitri macht eine Ausbildung, versteht aber in der Berufsschule viele Fachwörter nicht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 7,
+     "e": "h: Sprachförderung für Azubis."
+    },
+    {
+     "q": "Sara möchte studieren und gleichzeitig Geld verdienen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Duales Studium mit Gehalt."
+    },
+    {
+     "q": "Ali hat großen Ärger mit seinem Ausbilder und will alles hinwerfen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Ausbildung abbrechen? Erst sprechen."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-17",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Rechte im Job",
+   "anweisung": "Sie lesen in einer Gewerkschaftszeitung kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Arbeitszeugnis. Jeder Beschäftigte hat am Ende des Arbeitsverhältnisses Anspruch auf ein schriftliches Zeugnis."
+    },
+    {
+     "k": "b",
+     "text": "Lohn bei Krankheit. Wer krank ist, bekommt bis zu sechs Wochen den vollen Lohn vom Arbeitgeber. Danach zahlt die Krankenkasse."
+    },
+    {
+     "k": "c",
+     "text": "Urlaub in der Kündigungsfrist. Resturlaub muss vor dem Ende genommen oder ausgezahlt werden."
+    },
+    {
+     "k": "d",
+     "text": "Mutterschutz. Sechs Wochen vor und acht Wochen nach der Geburt dürfen Frauen nicht arbeiten. Sie bekommen trotzdem Geld."
+    },
+    {
+     "k": "e",
+     "text": "Minijob und Urlaub. Auch Minijobber haben Anspruch auf bezahlten Urlaub – das wissen viele nicht."
+    },
+    {
+     "k": "f",
+     "text": "Überwachung am Arbeitsplatz. Kameras sind nur in Ausnahmefällen erlaubt und müssen angekündigt werden."
+    },
+    {
+     "k": "g",
+     "text": "Betriebsrat gründen. Schon in Betrieben ab fünf Beschäftigten kann ein Betriebsrat gewählt werden."
+    },
+    {
+     "k": "h",
+     "text": "Abmahnung. Sie ist eine Warnung vor einer Kündigung. Man kann eine Gegendarstellung schreiben, die in die Personalakte kommt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Natascha arbeitet seit zwei Jahren als Minijobberin und hatte noch nie bezahlten Urlaub.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Auch Minijobber haben Urlaubsanspruch."
+    },
+    {
+     "q": "Frau Klein ist schwanger und möchte wissen, ab wann sie nicht mehr arbeiten muss.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Mutterschutz."
+    },
+    {
+     "q": "Herr Wagner hat eine Abmahnung bekommen, die er falsch findet.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 7,
+     "e": "h: Gegendarstellung zur Abmahnung."
+    },
+    {
+     "q": "In einer kleinen Firma mit acht Mitarbeitern wollen die Kollegen ihre Interessen besser vertreten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Betriebsrat ab fünf Beschäftigten."
+    },
+    {
+     "q": "Pavel hat gekündigt und noch zehn Urlaubstage.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Urlaub in der Kündigungsfrist."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-18",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Wohnen und Arbeiten",
+   "anweisung": "Sie lesen in dem Online-Portal einer Stadt kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Werkswohnungen. Einige Firmen bieten ihren Beschäftigten günstige Wohnungen an – besonders in Städten mit hohen Mieten."
+    },
+    {
+     "k": "b",
+     "text": "Umzugskosten von der Steuer. Wer wegen eines neuen Jobs umzieht, kann die Kosten oft in der Steuererklärung angeben."
+    },
+    {
+     "k": "c",
+     "text": "Pendeln oder umziehen? Eine Stunde Fahrt pro Strecke kostet viel Zeit. Ein Rechner hilft bei der Entscheidung."
+    },
+    {
+     "k": "d",
+     "text": "Wohngeld. Wer wenig verdient, kann einen Zuschuss zur Miete bekommen. Der Antrag wird bei der Stadt gestellt."
+    },
+    {
+     "k": "e",
+     "text": "WG für Berufstätige. Nicht nur Studierende wohnen in Wohngemeinschaften. Auch viele Berufseinsteiger teilen sich eine Wohnung."
+    },
+    {
+     "k": "f",
+     "text": "Nebenkosten prüfen. Jede dritte Abrechnung enthält Fehler. Der Mieterverein hilft beim Prüfen."
+    },
+    {
+     "k": "g",
+     "text": "Mit dem Rad zur Arbeit. Viele Arbeitgeber bieten Dienstfahrräder an, die man auch privat nutzen darf."
+    },
+    {
+     "k": "h",
+     "text": "Kündigung der Wohnung. Mieter müssen drei Monate vorher kündigen – schriftlich und mit Unterschrift."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Herr Popov fährt jeden Tag 70 Kilometer zur Arbeit und überlegt, in die Nähe zu ziehen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Pendeln oder umziehen?"
+    },
+    {
+     "q": "Frau Schmidt verdient wenig und kann die Miete kaum bezahlen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Wohngeld."
+    },
+    {
+     "q": "Swetlana ist für ihren neuen Job nach Leipzig gezogen. Der Umzug war teuer.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Umzugskosten von der Steuer."
+    },
+    {
+     "q": "Herr Lange glaubt, dass seine Heizkostenabrechnung zu hoch ist.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Nebenkosten prüfen."
+    },
+    {
+     "q": "Ali möchte in Hamburg arbeiten, findet aber keine bezahlbare Wohnung. Er fragt, ob die Firma helfen kann.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 0,
+     "e": "a: Werkswohnungen."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-19",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Kundenkontakt",
+   "anweisung": "Sie lesen in einer Fachzeitschrift für den Handel kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Freundlich am Telefon. Lächeln hört man! Wer beim Telefonieren lächelt, klingt automatisch freundlicher."
+    },
+    {
+     "k": "b",
+     "text": "Beschwerden als Chance. Ein Kunde, dessen Beschwerde gut gelöst wurde, kauft oft wieder. Hören Sie zu und bedanken Sie sich."
+    },
+    {
+     "k": "c",
+     "text": "Kunden aus anderen Kulturen. Nicht überall ist ein direkter Blickkontakt höflich. Ein wenig Wissen über Kulturen hilft im Verkauf."
+    },
+    {
+     "k": "d",
+     "text": "Online-Bewertungen. Antworten Sie auf jede Bewertung – auch auf die positiven."
+    },
+    {
+     "k": "e",
+     "text": "Verkaufen mit Fragen. Wer offene Fragen stellt, erfährt, was der Kunde wirklich braucht."
+    },
+    {
+     "k": "f",
+     "text": "Diebstahl im Laden. Was dürfen Verkäufer tun, wenn sie einen Dieb sehen? Festhalten ist nur in Ausnahmefällen erlaubt."
+    },
+    {
+     "k": "g",
+     "text": "Barrierefrei einkaufen. Breite Gänge, große Preisschilder und Hilfe beim Tragen machen ältere Kunden glücklich."
+    },
+    {
+     "k": "h",
+     "text": "Kassensysteme. Moderne Kassen zeigen den Lagerbestand sofort an. Das spart Zeit bei der Inventur."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ein Verkäufer sieht, wie ein Mann eine Flasche in seine Jacke steckt.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Diebstahl im Laden."
+    },
+    {
+     "q": "In Frau Webers Laden kaufen viele Senioren ein. Sie möchte das Geschäft für sie angenehmer machen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Barrierefrei einkaufen."
+    },
+    {
+     "q": "Ein Kunde ist wütend, weil sein Toaster nach einer Woche kaputt ist.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Beschwerden als Chance."
+    },
+    {
+     "q": "Olga weiß nie, was die Kunden genau suchen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Verkaufen mit offenen Fragen."
+    },
+    {
+     "q": "Ein Kunde aus Japan schaut Herrn Müller beim Gespräch nicht in die Augen. Herr Müller ist unsicher.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Kunden aus anderen Kulturen."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-20",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Mobil im Beruf",
+   "anweisung": "Sie lesen in einem Ratgeber für Pendler kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Jobticket. Viele Arbeitgeber zahlen einen Teil des Deutschlandtickets. Fragen Sie in der Personalabteilung nach."
+    },
+    {
+     "k": "b",
+     "text": "Fahrgemeinschaften. Wer mit Kollegen zusammen fährt, spart Geld und schont die Umwelt. Eine App hilft bei der Suche."
+    },
+    {
+     "k": "c",
+     "text": "Pendlerpauschale. Für jeden Kilometer zur Arbeit kann man in der Steuererklärung einen Betrag angeben."
+    },
+    {
+     "k": "d",
+     "text": "Zug fällt aus – was nun? Wer wegen einer Bahnstörung zu spät kommt, muss trotzdem Bescheid sagen. Den Lohn für die Fehlzeit gibt es meist nicht."
+    },
+    {
+     "k": "e",
+     "text": "Mit dem E-Bike zur Arbeit. Auch 15 Kilometer sind mit Elektrounterstützung gut zu schaffen – ohne zu schwitzen."
+    },
+    {
+     "k": "f",
+     "text": "Dienstwagen privat nutzen. Wer den Firmenwagen auch privat fährt, muss dafür Steuern zahlen."
+    },
+    {
+     "k": "g",
+     "text": "Unfall auf dem Arbeitsweg. Auf dem direkten Weg zur Arbeit ist man über die Berufsgenossenschaft versichert."
+    },
+    {
+     "k": "h",
+     "text": "Führerschein aus dem Ausland. Wer aus einem Nicht-EU-Land kommt, muss den Führerschein nach sechs Monaten umschreiben lassen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Frau Kowalski ist auf dem Weg zur Arbeit mit dem Fahrrad gestürzt.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Unfall auf dem Arbeitsweg ist versichert."
+    },
+    {
+     "q": "Herr Rahimi kommt aus Afghanistan und lebt seit acht Monaten in Deutschland. Er fährt mit seinem alten Führerschein.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 7,
+     "e": "h: Führerschein nach sechs Monaten umschreiben."
+    },
+    {
+     "q": "Drei Kollegen aus demselben Dorf fahren jeden Tag einzeln mit dem Auto.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Fahrgemeinschaften."
+    },
+    {
+     "q": "Natalia fährt jeden Tag 25 Kilometer und möchte Steuern sparen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Pendlerpauschale."
+    },
+    {
+     "q": "Herr Stein darf seinen Firmenwagen am Wochenende benutzen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Dienstwagen privat nutzen."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-11",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Kündigung",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Ines",
+     "text": "Wenn du kündigst, musst du die Frist aus deinem Vertrag einhalten. Steht dort nichts, sind es vier Wochen zum 15. oder zum Monatsende."
+    },
+    {
+     "k": "B – Bernd",
+     "text": "Ein Aufhebungsvertrag kann eine Lösung sein, aber Vorsicht: Die Arbeitsagentur kann dann eine Sperre beim Arbeitslosengeld verhängen."
+    },
+    {
+     "k": "C – Galina",
+     "text": "Gegen eine Kündigung kannst du innerhalb von drei Wochen beim Arbeitsgericht klagen. Danach ist es zu spät."
+    },
+    {
+     "k": "D – Torsten",
+     "text": "Ich habe selbst gekündigt und bin froh darüber. Die neue Stelle ist viel besser."
+    },
+    {
+     "k": "E – Ayşe",
+     "text": "Ein Arbeitszeugnis steht dir auf jeden Fall zu. Fordere es schriftlich an."
+    },
+    {
+     "k": "F – Kai",
+     "text": "Während der Krankheit darf man dir kündigen – das ist leider ein Irrtum, dass das verboten ist."
+    },
+    {
+     "k": "G – Mira",
+     "text": "Wenn du schwanger bist, darf man dir in der Regel nicht kündigen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Lena: Ich wurde gestern gekündigt und finde das ungerecht. Wie lange habe ich Zeit, mich zu wehren?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 2,
+     "e": "C: Klage innerhalb von drei Wochen."
+    },
+    {
+     "q": "2 – Oleg: Mein Chef bietet mir an, den Vertrag im gegenseitigen Einverständnis zu beenden. Ist das gut für mich?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 1,
+     "e": "B: Aufhebungsvertrag – Vorsicht wegen Sperre."
+    },
+    {
+     "q": "3 – Rita: Mein Arbeitsvertrag sagt nichts über die Frist. Wann kann ich gehen?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 0,
+     "e": "A: Gesetzliche Frist vier Wochen zum 15. oder Monatsende."
+    },
+    {
+     "q": "4 – Jan: Bekomme ich nach der Kündigung noch mein Weihnachtsgeld?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 7,
+     "e": "X: Keine Antwort spricht über Weihnachtsgeld."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-12",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Nebenjob",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Rolf",
+     "text": "Einen Nebenjob musst du deinem Arbeitgeber melden. Verbieten darf er ihn nur, wenn deine Arbeit darunter leidet oder du für die Konkurrenz arbeitest."
+    },
+    {
+     "k": "B – Daria",
+     "text": "Im Minijob darfst du bis zur Minijobgrenze verdienen, ohne Steuern zu zahlen."
+    },
+    {
+     "k": "C – Uwe",
+     "text": "Achte darauf, dass du insgesamt nicht mehr als 48 Stunden pro Woche arbeitest. Das sagt das Arbeitszeitgesetz."
+    },
+    {
+     "k": "D – Svenja",
+     "text": "Ich habe einen Nebenjob im Café und lerne dort viele nette Leute kennen."
+    },
+    {
+     "k": "E – Pjotr",
+     "text": "Wenn du selbstständig nebenbei arbeitest, musst du ein Gewerbe anmelden."
+    },
+    {
+     "k": "F – Hanna",
+     "text": "Im Urlaub darfst du nicht für einen anderen Arbeitgeber arbeiten, wenn das deiner Erholung schadet."
+    },
+    {
+     "k": "G – Emil",
+     "text": "Der Nebenjob zählt bei der Rente mit, wenn du Rentenbeiträge zahlst."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Marina: Muss ich meinem Chef sagen, dass ich am Wochenende noch kellnere?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 0,
+     "e": "A: Nebenjob melden."
+    },
+    {
+     "q": "2 – Viktor: Ich möchte neben meinem Job im Lager noch nachts Pakete ausfahren. Gibt es eine Grenze?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 2,
+     "e": "C: Höchstens 48 Stunden pro Woche."
+    },
+    {
+     "q": "3 – Lisa: Ich will nebenbei Torten auf Bestellung backen und verkaufen. Was muss ich tun?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: Selbstständig nebenbei → Gewerbe anmelden."
+    },
+    {
+     "q": "4 – Tomasz: Darf ich während meines Urlaubs zwei Wochen auf dem Bau helfen?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 5,
+     "e": "F: Nicht, wenn es der Erholung schadet."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-13",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Bewerbung",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Jana",
+     "text": "Ein Foto ist in Deutschland bei Bewerbungen nicht mehr Pflicht. Viele schicken trotzdem eins mit."
+    },
+    {
+     "k": "B – Sergej",
+     "text": "Bewirb dich ruhig, auch wenn du nicht alle Anforderungen erfüllst. 70 Prozent reichen oft."
+    },
+    {
+     "k": "C – Franzi",
+     "text": "Nach zwei Wochen ohne Antwort darfst du freundlich nachfragen, wie der Stand ist."
+    },
+    {
+     "k": "D – Mehmet",
+     "text": "Ich habe 40 Bewerbungen geschrieben, bevor es geklappt hat. Nicht aufgeben!"
+    },
+    {
+     "k": "E – Claudia",
+     "text": "Im Lebenslauf sollte die neueste Station oben stehen."
+    },
+    {
+     "k": "F – Wolfgang",
+     "text": "Fahrtkosten zum Vorstellungsgespräch muss die Firma oft erstatten, wenn sie dich eingeladen hat."
+    },
+    {
+     "k": "G – Nadja",
+     "text": "Deine Zeugnisse aus dem Ausland solltest du übersetzen lassen und als Kopie mitschicken."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Ivan: Ich habe vor drei Wochen eine Bewerbung geschickt und nichts gehört. Was soll ich tun?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 2,
+     "e": "C: Nach zwei Wochen freundlich nachfragen."
+    },
+    {
+     "q": "2 – Elena: In der Anzeige steht „fünf Jahre Erfahrung“, ich habe drei. Soll ich mich trotzdem bewerben?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 1,
+     "e": "B: Auch ohne alle Anforderungen bewerben."
+    },
+    {
+     "q": "3 – Ali: Ich fahre 200 Kilometer zum Vorstellungsgespräch. Wer zahlt die Fahrt?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 5,
+     "e": "F: Die Firma muss oft die Fahrtkosten erstatten."
+    },
+    {
+     "q": "4 – Tanja: Wie lang darf ein Anschreiben sein?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 7,
+     "e": "X: Keine Antwort spricht über die Länge des Anschreibens."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-14",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Kollegen und Sprache",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Petra",
+     "text": "Frag einfach nach, wenn du etwas nicht verstehst. Die meisten Kollegen erklären es gern noch einmal."
+    },
+    {
+     "k": "B – Jurij",
+     "text": "Mir hat ein Tandempartner geholfen: Ich helfe ihm mit Russisch, er mir mit Deutsch."
+    },
+    {
+     "k": "C – Doris",
+     "text": "In der Pause wird viel Dialekt gesprochen. Daran gewöhnt man sich mit der Zeit."
+    },
+    {
+     "k": "D – Asel",
+     "text": "Schreib dir neue Fachwörter in ein Heft und lerne jeden Abend fünf davon."
+    },
+    {
+     "k": "E – Gerd",
+     "text": "Dein Arbeitgeber darf nicht verbieten, dass du in der Pause deine Muttersprache sprichst."
+    },
+    {
+     "k": "F – Lin",
+     "text": "Ich habe einen Berufssprachkurs gemacht, den das BAMF bezahlt hat – neben der Arbeit, am Abend."
+    },
+    {
+     "k": "G – Holger",
+     "text": "Lustige Missverständnisse gibt es immer. Lach einfach mit!"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Olga: Meine Kollegen sprechen in der Pause so komisch, ich verstehe kaum etwas.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 2,
+     "e": "C: Dialekt – daran gewöhnt man sich."
+    },
+    {
+     "q": "2 – Murat: Ich möchte mein Deutsch verbessern, habe aber tagsüber keine Zeit für einen Kurs.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 5,
+     "e": "F: Berufssprachkurs am Abend."
+    },
+    {
+     "q": "3 – Ana: Mein Chef sagt, ich darf mit meiner Kollegin in der Pause nicht Spanisch sprechen. Darf er das?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: In der Pause darf man die Muttersprache sprechen."
+    },
+    {
+     "q": "4 – Wiktor: Bei der Arbeit gibt es so viele neue Wörter. Wie merke ich mir die?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 3,
+     "e": "D: Fachwörter ins Heft, jeden Abend fünf lernen."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-15",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Elternzeit",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Sabine",
+     "text": "Elternzeit musst du spätestens sieben Wochen vorher schriftlich beim Arbeitgeber anmelden."
+    },
+    {
+     "k": "B – Ruslan",
+     "text": "Während der Elternzeit darfst du bis zu 32 Stunden pro Woche in Teilzeit arbeiten."
+    },
+    {
+     "k": "C – Katja",
+     "text": "Elterngeld beantragst du bei der Elterngeldstelle, nicht beim Arbeitgeber."
+    },
+    {
+     "k": "D – Michael",
+     "text": "Mein Chef war nicht begeistert, aber jetzt sind die zwei Monate mit meinem Sohn das Schönste."
+    },
+    {
+     "k": "E – Oksana",
+     "text": "Während der Elternzeit hast du besonderen Kündigungsschutz."
+    },
+    {
+     "k": "F – Jens",
+     "text": "Die Elternzeit kann man auch aufteilen und einen Teil später nehmen, bis das Kind acht ist."
+    },
+    {
+     "k": "G – Ulrike",
+     "text": "Urlaub, den du vor der Elternzeit nicht genommen hast, verfällt nicht."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Igor: Meine Frau bekommt im Mai ein Baby. Bis wann muss ich meinem Chef Bescheid sagen?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 0,
+     "e": "A: Spätestens sieben Wochen vorher schriftlich."
+    },
+    {
+     "q": "2 – Lea: Ich bin in Elternzeit und würde gern ein paar Stunden arbeiten. Geht das?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 1,
+     "e": "B: Bis zu 32 Stunden Teilzeit."
+    },
+    {
+     "q": "3 – Swetlana: Ich hatte vor der Geburt noch 12 Urlaubstage. Sind die jetzt weg?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 6,
+     "e": "G: Resturlaub verfällt nicht."
+    },
+    {
+     "q": "4 – Paul: Wie viel Elterngeld bekomme ich eigentlich?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 7,
+     "e": "X: Keine Antwort nennt die Höhe des Elterngelds. C sagt nur, wo man es beantragt."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-16",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Arbeitszeit",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Heike",
+     "text": "Mehr als zehn Stunden am Tag sind gesetzlich in der Regel nicht erlaubt."
+    },
+    {
+     "k": "B – Bogdan",
+     "text": "Nach sechs Stunden Arbeit stehen dir mindestens 30 Minuten Pause zu."
+    },
+    {
+     "k": "C – Lara",
+     "text": "Rufbereitschaft zählt nicht als Arbeitszeit, nur der Einsatz selbst."
+    },
+    {
+     "k": "D – Werner",
+     "text": "Umziehen gehört zur Arbeitszeit, wenn die Firma eine bestimmte Arbeitskleidung vorschreibt."
+    },
+    {
+     "k": "E – Ksenia",
+     "text": "Ich mache gerne Überstunden, weil ich das Geld brauche."
+    },
+    {
+     "k": "F – Tobias",
+     "text": "Wenn nichts im Vertrag steht, musst du keine Überstunden machen – außer in Notfällen."
+    },
+    {
+     "k": "G – Edith",
+     "text": "Die Zeit für den Weg zur Arbeit zählt nicht als Arbeitszeit."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Daniel: Mein Chef will, dass ich jeden Tag zwölf Stunden arbeite. Ist das okay?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 0,
+     "e": "A: Mehr als zehn Stunden sind meist nicht erlaubt."
+    },
+    {
+     "q": "2 – Irina: Ich muss vor der Schicht eine Schutzkleidung anziehen. Zählt das zur Arbeitszeit?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 3,
+     "e": "D: Umziehen bei vorgeschriebener Kleidung = Arbeitszeit."
+    },
+    {
+     "q": "3 – Ahmed: In meinem Vertrag steht nichts über Überstunden. Muss ich trotzdem länger bleiben?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 5,
+     "e": "F: Ohne Regelung keine Pflicht, außer in Notfällen."
+    },
+    {
+     "q": "4 – Nina: Ich arbeite von 7 bis 15 Uhr, und mein Chef sagt, eine Pause von 15 Minuten reicht.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 1,
+     "e": "B: Nach sechs Stunden mindestens 30 Minuten Pause."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-17",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Gehalt und Steuern",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Frank",
+     "text": "Die Steuererklärung lohnt sich fast immer, weil man oft Geld zurückbekommt."
+    },
+    {
+     "k": "B – Olena",
+     "text": "Die Lohnsteuerklasse 3 bekommt der Partner mit dem höheren Einkommen, der andere die 5."
+    },
+    {
+     "k": "C – Rainer",
+     "text": "Brutto ist das Gehalt vor Steuern und Sozialabgaben, netto das, was du aufs Konto bekommst."
+    },
+    {
+     "k": "D – Sara",
+     "text": "Ich frage nie nach mehr Gehalt, weil ich Angst habe."
+    },
+    {
+     "k": "E – Ludmila",
+     "text": "Geld für Arbeitskleidung und Fachbücher kannst du von der Steuer absetzen."
+    },
+    {
+     "k": "F – Peter",
+     "text": "Weihnachtsgeld ist keine Pflicht, außer es steht im Vertrag oder Tarifvertrag."
+    },
+    {
+     "k": "G – Can",
+     "text": "Ab dem ersten Arbeitstag bist du kranken- und rentenversichert."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Marta: Was ist eigentlich der Unterschied zwischen brutto und netto?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 2,
+     "e": "C: Erklärung brutto und netto."
+    },
+    {
+     "q": "2 – Wassili: Ich habe mir Fachbücher für meine Weiterbildung gekauft. Bekomme ich das Geld irgendwie zurück?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: Fachbücher von der Steuer absetzen."
+    },
+    {
+     "q": "3 – Jana: Mein Mann verdient viel mehr als ich. Welche Steuerklasse sollen wir wählen?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 1,
+     "e": "B: 3 für den Partner mit höherem Einkommen, 5 für den anderen."
+    },
+    {
+     "q": "4 – Dirk: Muss mein Chef mir Weihnachtsgeld zahlen?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 5,
+     "e": "F: Keine Pflicht, außer im Vertrag."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-18",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Pflegeberuf",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Anja",
+     "text": "Die Anerkennung als Pflegefachkraft dauert oft mehrere Monate. Fang früh an und schick alle Unterlagen vollständig."
+    },
+    {
+     "k": "B – Oleksandr",
+     "text": "Mit B2 Deutsch kannst du die Anerkennung beantragen, für die Arbeit brauchst du oft auch Fachsprache."
+    },
+    {
+     "k": "C – Monika",
+     "text": "Der Beruf ist anstrengend, aber er gibt einem viel zurück."
+    },
+    {
+     "k": "D – Rüdiger",
+     "text": "Viele Heime bezahlen nach Tarif. Frag danach, das macht einen großen Unterschied."
+    },
+    {
+     "k": "E – Lilia",
+     "text": "Eine Anpassungsqualifizierung im Krankenhaus kann die Kenntnisprüfung ersetzen."
+    },
+    {
+     "k": "F – Thomas",
+     "text": "Nachtdienste werden mit Zuschlägen bezahlt, die teilweise steuerfrei sind."
+    },
+    {
+     "k": "G – Gül",
+     "text": "Als Pflegehelferin kannst du schon arbeiten, während deine Anerkennung läuft."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Natalia: Meine Anerkennung dauert noch. Darf ich in der Zeit schon in der Pflege arbeiten?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 6,
+     "e": "G: Als Pflegehelferin schon arbeiten."
+    },
+    {
+     "q": "2 – Irina: Ich habe zwei Angebote. Eins zahlt nach Tarif, das andere nicht. Ist das wichtig?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 3,
+     "e": "D: Tarif macht einen großen Unterschied."
+    },
+    {
+     "q": "3 – Swetlana: Muss ich unbedingt die Kenntnisprüfung machen?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: Anpassungsqualifizierung statt Prüfung möglich."
+    },
+    {
+     "q": "4 – Maria: Lohnen sich Nachtdienste finanziell?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 5,
+     "e": "F: Zuschläge, teilweise steuerfrei."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-19",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Probleme mit dem Chef",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Hans",
+     "text": "Schreib dir auf, was passiert: Datum, Uhrzeit, was gesagt wurde. Das hilft später."
+    },
+    {
+     "k": "B – Elena",
+     "text": "Vielleicht hat dein Chef gerade selbst viel Druck. Ein ruhiges Gespräch kann viel klären."
+    },
+    {
+     "k": "C – Robert",
+     "text": "Der Betriebsrat darf bei Problemen vermitteln und ist zur Verschwiegenheit verpflichtet."
+    },
+    {
+     "k": "D – Selin",
+     "text": "Ich habe gekündigt und eine bessere Stelle gefunden. Manchmal ist das die beste Lösung."
+    },
+    {
+     "k": "E – Kurt",
+     "text": "Anschreien muss sich niemand gefallen lassen. Das ist eine Verletzung der Würde."
+    },
+    {
+     "k": "F – Vera",
+     "text": "Wenn dein Chef private Fotos von dir verlangt, ist das nicht erlaubt."
+    },
+    {
+     "k": "G – Gregor",
+     "text": "Bei Ungleichbehandlung wegen Herkunft hilft die Antidiskriminierungsstelle des Bundes."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Amir: Mein Chef behandelt mich schlechter, weil ich aus Syrien komme. An wen kann ich mich wenden?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 6,
+     "e": "G: Antidiskriminierungsstelle."
+    },
+    {
+     "q": "2 – Julia: Mein Chef schreit mich vor allen Kollegen an. Muss ich das akzeptieren?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: Anschreien muss sich niemand gefallen lassen."
+    },
+    {
+     "q": "3 – Oksana: Ich will mit jemandem sprechen, aber mein Chef soll nichts davon erfahren.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 2,
+     "e": "C: Betriebsrat, Verschwiegenheit."
+    },
+    {
+     "q": "4 – Ben: Mein Chef ist seit Wochen schlecht gelaunt, aber nur zu mir. Ich weiß nicht, warum.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 1,
+     "e": "B: Ein ruhiges Gespräch kann viel klären."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-20",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Weiterbildung bezahlen",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Jörg",
+     "text": "Mit dem Bildungsgutschein der Arbeitsagentur kann eine Weiterbildung komplett bezahlt werden – wenn sie für die Jobsuche nötig ist."
+    },
+    {
+     "k": "B – Natalja",
+     "text": "Manche Bundesländer zahlen die Hälfte der Kursgebühren mit einer Bildungsprämie."
+    },
+    {
+     "k": "C – Achim",
+     "text": "Die Kosten für eine berufliche Weiterbildung kannst du von der Steuer absetzen."
+    },
+    {
+     "k": "D – Petra",
+     "text": "Ich habe meinen Chef einfach gefragt, und er hat den Kurs bezahlt."
+    },
+    {
+     "k": "E – Kamil",
+     "text": "Achte bei Kursen auf eine Zulassung (AZAV), sonst gibt es keine Förderung."
+    },
+    {
+     "k": "F – Maren",
+     "text": "Für Sprachkurse im Beruf ist das BAMF zuständig, nicht die Arbeitsagentur."
+    },
+    {
+     "k": "G – Leo",
+     "text": "Wenn die Firma den Kurs zahlt, kann sie verlangen, dass du danach eine Zeit lang bleibst."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Oleg: Ich bin arbeitslos und möchte einen Staplerschein machen. Wer bezahlt das?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 0,
+     "e": "A: Bildungsgutschein der Arbeitsagentur."
+    },
+    {
+     "q": "2 – Irina: Mein Chef zahlt mir einen teuren Kurs. Gibt es einen Haken?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 6,
+     "e": "G: Man muss vielleicht eine Zeit lang bleiben."
+    },
+    {
+     "q": "3 – Sami: Ich habe einen Kurs gefunden, aber das Jobcenter will ihn nicht fördern. Warum?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: Ohne Zulassung (AZAV) keine Förderung."
+    },
+    {
+     "q": "4 – Lena: Wie lange dauert eine Umschulung zur Erzieherin?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 7,
+     "e": "X: Keine Antwort nennt die Dauer einer Umschulung."
+    }
+   ]
+  }
+ ]
+}
