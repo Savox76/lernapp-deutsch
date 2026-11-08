@@ -2,7 +2,7 @@
 
 Stand: 08.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
 
-**Zuletzt komplett geprüft:** 08.11.2026 nach Dialoge Stufe 1 (Code, Inhalte und Veröffentlichung abgeglichen).
+**Zuletzt komplett geprüft:** 08.11.2026 nach Prüfungssimulation (Code, Inhalte und Veröffentlichung abgeglichen).
 Zeichen: ✅ eingebaut/fertig · 🟡 teilweise · ⏳ in Arbeit · ⬜ offen · ❓ Entscheidung von Mario nötig
 Claude aktualisiert diesen Plan nach **jedem** Arbeitsschritt selbstständig.
 
@@ -30,7 +30,7 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ---
 
-## 2. Stand heute (geprüft am 08.11.2026 nach Dialoge Stufe 1)
+## 2. Stand heute (geprüft am 08.11.2026 nach Prüfungssimulation)
 
 | Bereich | Stand | |
 |---|---|---|
@@ -110,7 +110,7 @@ Die App soll eine **reine Lernapp** werden: später auch C1/C2 und weitere Ausga
 
 | # | Meilenstein | Inhalt | Status |
 |---|---|---|---|
-| M18 | Datenstruktur mehrsprachig | Übersetzungen nicht mehr nur im Feld `ru`, sondern pro Sprache (z. B. `ru`, `uk`, `en`, `ar`, `tr`). Alte Felder bleiben lesbar, localStorage-Schlüssel bleiben gleich. Neue Einstellung „Meine Sprache“. Die rund 23 festen Stellen mit Russisch in `web/app.js` umbauen. | ⬜ |
+| M18 | Datenstruktur mehrsprachig | Übersetzungen nicht mehr nur im Feld `ru`, sondern pro Sprache (z. B. `ru`, `uk`, `en`, `ar`, `tr`). Alte Felder bleiben lesbar, localStorage-Schlüssel bleiben gleich. Neue Einstellung „Meine Sprache“. Die rund 23 festen Stellen mit Russisch in `web/app.js` umbauen. Die App fragt die Sprache schon heute über `SET.lang` ab (Standard `ru`); die Erklärtexte der Prüfungssimulation (`quellen/simulation.json`) sind bereits pro Sprache angelegt. | ⬜ |
 | M19 | Ukrainisch | Alle Wörter, Sätze, Aufgabenstellungen und Regeln ins Ukrainische (≈ 7.000 Wörter + 3.900 Sätze + Aufgaben → in Teilpaketen). | ⬜ |
 | M20 | Englisch | Brückensprache für viele Lernende | ⬜ |
 | M21 | Arabisch | deckt auch Syrien, Irak usw. ab; Schrift von rechts nach links → Layout anpassen | ⬜ |
@@ -173,7 +173,7 @@ B2 ist bestanden, wenn **mindestens 144 Punkte** erreicht sind, **mindestens dre
 |---|---|---|---|
 | Lesen DTB | eigene Leseteile Teil 1–4 | 1 | ✅ L1 + L5 (42 Aufgaben), laufend mehr |
 | Hören | Dialoge mit zwei Stimmen (braucht kleine APK-Änderung), Meinungen zuordnen | 2 | ⬜ |
-| Simulation | komplette Prüfung mit Zeitlimit und Punkteschätzung | 1 | ⬜ ❓ Rücksprache nötig |
+| Simulation | komplette Prüfung mit Zeitlimit und Punkteschätzung | 1 | ✅ fertig (08.11.2026, siehe 4b) |
 | Sprechen | sich selbst aufnehmen und anhören (braucht Mikrofon-Berechtigung, neue APK) | 3 | ⬜ |
 | **Dialoge führen** | Gespräche üben, in denen die Lernerin selbst antwortet | 1 | ✅ Stufe 1 fertig (60 Szenen, 08.11.2026) · Stufe 2 und 3 später (Abschnitt 4a) |
 | Grammatik | Drill zu Kasus nach Präpositionen und Adjektivendungen | 2 | 🟡 viele Übungssätze dazu (M7, M11, M12), aber kein eigener Übungstyp |
@@ -192,6 +192,31 @@ Neue Aufgabentypen werden erst nach Rücksprache mit Mario gebaut (siehe `CLAUDE
 Reihenfolge: Stufe 1 ✅ → Stufe 2, sobald Stufe 1 im Alltag gut läuft → Stufe 3 zusammen mit dem Abo-Server (G4).
 
 ---
+
+### 4b. Prüfungssimulation (gebaut am 08.11.2026)
+
+Unter **Prüfung → Prüfungssimulation** für DTB B2 und DTZ. Ablauf und Zeiten wie in der echten Prüfung (Quellen: telc/BAMF DTB B2, Goethe/BAMF DTZ-Modellsatz):
+
+| DTB B2 | Zeit | Aufgaben in der Simulation |
+|---|---|---|
+| Lesen | 45 Min. | je 1× Teil 1, 3, 4 und 2× Teil 2 |
+| Lesen und Schreiben | 20 Min. | 1 E-Mail (Fragen + Antwort) |
+| Hören | 20 Min. | 4 Hörtexte (max. 2× hören) |
+| Hören und Schreiben | 5 Min. | 1 Telefonnotiz |
+| Sprachbausteine und Schreiben | 35 Min. | 2 Lückentexte + 1 Forumsbeitrag |
+| Sprechen | ca. 16 Min. | Vortrag, Prüferfragen, Diskussion, Lösung finden |
+
+| DTZ | Zeit | Aufgaben in der Simulation |
+|---|---|---|
+| Hören | 25 Min. | 4 Hörtexte |
+| Lesen | 45 Min. | 4 Leseaufgaben + 1 Brief-Lückentext |
+| Schreiben | 30 Min. | Wahl zwischen 2 Briefen |
+| Sprechen | ca. 10 Min. | sich vorstellen, erzählen, gemeinsam planen |
+
+- **Zu Beginn** erklärt die App, wie die Prüfung abläuft – auf Deutsch und zusätzlich in der Sprache der Lernerin (jetzt Russisch). Die Texte stehen in `quellen/simulation.json` mit einem Feld pro Sprache (`de`, `ru`, später `uk`, `en`, `ar`, `tr`, `fa`, `fr` …) → bei M18 ff. nur dort ergänzen, kein App-Update nötig.
+- **Während der Simulation:** nur Deutsch, kein Lernmodus, Zeitbalken pro Teil, bei Zeitablauf weiter zum nächsten Teil (offene Aufgaben = 0 Punkte). Unterbrechen und Fortsetzen möglich, die Zeit läuft nur bei offener Aufgabe. Es werden bevorzugt noch nicht geübte Aufgaben gewählt. Einzelne Teile können auch allein geübt werden.
+- **Auswertung:** Lesen/Hören genau gezählt; Schreiben aus Checkliste, Wortzahl und (DTB) Sprachbausteinen geschätzt; Sprechen aus der Selbsteinschätzung („teilweise“ reicht absichtlich nicht für 36 Punkte bzw. B1). Danach Bestehensregel DTB bzw. neue DTZ-Regel, schwache Aufgaben, „Ergebnis teilen“ (WhatsApp an Mario) und Übernahme in den Punkte-Rechner. Die letzten Ergebnisse werden gespeichert.
+- **Später:** Schreiben und Sprechen durch KI bewerten lassen (zusammen mit Dialoge Stufe 3, braucht Server).
 
 ## 5. Lernplan
 

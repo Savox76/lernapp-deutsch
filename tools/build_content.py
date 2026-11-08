@@ -148,6 +148,18 @@ if dlg:
 if errors:
     print("\n".join(errors)); sys.exit(1)
 json.dump(pr, open(os.path.join(OUT, "pruefung.json"), "w", encoding="utf8"), ensure_ascii=False, separators=(",", ":"))
+# Prüfungssimulation: Ablauf und Erklärtexte (mehrsprachig) nur prüfen und kopieren
+simsrc = os.path.join(SRC, "simulation.json")
+if os.path.exists(simsrc):
+    try:
+        sim = json.load(open(simsrc, encoding="utf8"))
+    except Exception as e:
+        print(f"simulation.json: JSON-Fehler: {e}"); sys.exit(1)
+    for ex in ("DTB", "DTZ"):
+        for t in sim[ex]["teile"]:
+            for a in t["aufgaben"]:
+                if a[0] not in pr: print(f"simulation.json: Typ {a[0]} gibt es nicht"); sys.exit(1)
+    json.dump(sim, open(os.path.join(OUT, "simulation.json"), "w", encoding="utf8"), ensure_ascii=False, separators=(",", ":"))
 marked = sum(1 for s in sents if "*" in s["de"])
 manifest = {"version": int(time.time()), "woerter": len(words), "saetze": len(sents), "markiert": marked, "schreiben": len(tasks), "pruefung": {k: len(v) for k, v in pr.items()}}
 json.dump(manifest, open(os.path.join(OUT, "manifest.json"), "w", encoding="utf8"), ensure_ascii=False)

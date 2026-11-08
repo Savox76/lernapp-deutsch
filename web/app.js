@@ -225,8 +225,8 @@ async function getJSON(path) {
   return r.json();
 }
 async function loadContent() {
-  const [m, w, s, t, pr] = await Promise.all([getJSON("content/manifest.json"), getJSON("content/woerter.json"), getJSON("content/saetze.json"), getJSON("content/schreiben.json").catch(() => []), getJSON("content/pruefung.json").catch(() => ({}))]);
-  BERUF = mixOpts(pr || {});
+  const [m, w, s, t, pr, sim] = await Promise.all([getJSON("content/manifest.json"), getJSON("content/woerter.json"), getJSON("content/saetze.json"), getJSON("content/schreiben.json").catch(() => []), getJSON("content/pruefung.json").catch(() => ({})), getJSON("content/simulation.json").catch(() => null)]);
+  BERUF = mixOpts(pr || {}); SIMCFG = sim;
   MAN = m; W = w; T = t;
   // Beispielsätze der Wörter werden zusätzliche Satzbau-Übungen
   const ex = w.filter(x => x.x && x.x.split(/\s+/).length >= 4 && x.x.split(/\s+/).length <= 16)
@@ -781,17 +781,20 @@ const PLAN = {
 /* ================= Ansichten ================= */
 const app = $("#app");
 let view = "home", viewArg = null;
-const PARENT = { kurs: "home", pr: "pruefung", prliste: "pruefung", analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "schreiben", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr" };
+const PARENT = { sim: "pruefung", kurs: "home", pr: "pruefung", prliste: "pruefung", analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "schreiben", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr" };
 function go(v, arg) { if (SP) sayStop(); stopTimer && stopTimer(); view = v; viewArg = arg; render(); window.scrollTo(0, 0); }
-window.appBack = function () { if (view === "pr" && viewArg && viewArg.typ) { go("prliste", { typ: viewArg.typ }); return true; } if (PARENT[view]) { go(PARENT[view]); return true; } if (view !== "home") { go("home"); return true; } return false; };
+window.appBack = function () { if (view === "pr" && viewArg && viewArg.sim) { go("sim"); return true; } if (view === "pr" && viewArg && viewArg.typ) { go("prliste", { typ: viewArg.typ }); return true; } if (PARENT[view]) { go(PARENT[view]); return true; } if (view !== "home") { go("home"); return true; } return false; };
 document.querySelectorAll("#tabs button").forEach(b => b.onclick = () => go(b.dataset.go));
 function head(title, back) { return `<div class="top">${back ? `<button class="back" id="backBtn">${esc(back)}</button>` : ""}</div><h1>${title}</h1>`; }
 function bindBack() { const b = $("#backBtn"); if (b) b.onclick = () => window.appBack(); }
 
 function render() {
-  const tabFor = { kurs: "home", pr: "pruefung", prliste: "pruefung", analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "mehr", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr", quiz: "woerter" }[view] || view;
+  const tabFor = { sim: "pruefung", kurs: "home", pr: "pruefung", prliste: "pruefung", analyse: "statistik", session: "home", schreiben: "mehr", aufgabe: "mehr", regeln: "mehr", liste: "mehr", einstellungen: "mehr", sicherung: "mehr", quiz: "woerter" }[view] || view;
   document.querySelectorAll("#tabs button").forEach(b => b.setAttribute("aria-current", b.dataset.go === tabFor ? "page" : "false"));
+  const simOn = view === "pr" && !!(viewArg && viewArg.sim);
+  document.body.classList.toggle("sim", simOn); clearInterval(simInt);
   (VIEWS[view] || VIEWS.home)();
+  if (simOn) simBar();
   bindBack();
 }
 
@@ -1251,6 +1254,9 @@ VIEWS.pruefung = function () {
     ${section("Hören", "Hören")}
     ${section("Lesen", "Lesen")}`;
   app.querySelectorAll("#exSeg button").forEach(b => b.onclick = () => { SET.exam = b.dataset.ex; saveSET(); render(); });
+  if (SIMCFG) { const sg = document.createElement("div"); sg.className = "card"; const run = P.sim && !P.sim.done;
+    sg.innerHTML = `<h3>📝 Prüfungssimulation</h3><p class="hint small">Die ganze Prüfung wie am echten Tag: gleiche Teile, gleiche Zeiten, alles auf Deutsch, am Ende Punkte und „bestanden?“.</p><button class="btn primary" id="simGo">${run ? "▶ Simulation fortsetzen" : "Simulation ansehen und starten"}</button>`;
+    const ex = $("#exSeg"); ex.parentNode.insertBefore(sg, ex.nextSibling); $("#simGo").onclick = () => go("sim"); }
   if ($("#zSave")) $("#zSave").onclick = () => { SET.dtz = { hl: $("#zhl").value, s: $("#zs").value, sp: $("#zsp").value }; saveSET(); render(); };
   if ($("#dSave")) $("#dSave").onclick = () => { SET.dtb = { l: $("#dl").value.replace(",", "."), h: $("#dh").value.replace(",", "."), s: $("#ds").value.replace(",", "."), sp: $("#dsp").value.replace(",", ".") }; saveSET(); render(); };
   app.querySelectorAll("[data-pt]").forEach(b => b.onclick = () => go("prliste", { typ: b.dataset.pt }));
@@ -1284,13 +1290,13 @@ VIEWS.prliste = function () {
   $("#prRec").onclick = () => { const x = prNext(typ); if (x) go("pr", { typ, id: x.id }); };
 };
 VIEWS.pr = function () {
-  stopTimer(); const LERN = !!SET.lern;
-  const prMk = (...x) => { if (!LERN) prMark(...x); }; const plog = (...x) => { if (!LERN) log(...x); };
-  const a = viewArg || {}; const typ = a.typ; const item = prList(typ).find(x => x.id === a.id);
+  stopTimer(); const SIMA = !!(viewArg && viewArg.sim); const LERN = !!SET.lern && !SIMA;
+  const prMk = (...x) => { if (!LERN) prMark(...x); }; const plog = (...x) => { if (SIMA) simRecord(...x); if (!LERN) log(...x); };
+  const a = viewArg || {}; const typ = a.typ; const item = (SIMA ? (BERUF[typ] || []) : prList(typ)).find(x => x.id === a.id);
   if (!item) return go("pruefung");
   const T = Object.assign({}, PR_TYPES[typ], { l: prLabel(typ) });
   const nextBtnHtml = `<button class="btn primary" id="prNext">Nächste Aufgabe →</button>`;
-  const bindNext = () => { const b = $("#prNext"); if (b) b.onclick = () => { const x = prNext(typ, item.id); if (x) go("pr", { typ, id: x.id }); else go("pruefung"); }; };
+  const bindNext = () => { const b = $("#prNext"); if (b && SIMA) { b.textContent = "Weiter →"; b.onclick = simNext; return; } if (b) b.onclick = () => { const x = prNext(typ, item.id); if (x) go("pr", { typ, id: x.id }); else go("pruefung"); }; };
   const selfRate = (logType) => `<div class="card"><h3>Wie gut hat es geklappt?</h3><p class="ru small">Как получилось?</p>
       <div class="choices"><button class="choice" data-r="2">😀 gut</button><button class="choice" data-r="1">🙂 teilweise</button><button class="choice" data-r="0">😕 schwer</button></div>
       <div id="rated" hidden class="panel">${nextBtnHtml}</div></div>`;
@@ -1299,7 +1305,7 @@ VIEWS.pr = function () {
     prMk(typ, item.id, r === 2); plog(logType, r === 2, null, { pr: typ, pid: item.id, sr: r }); $("#rated").hidden = false; bindNext();
   });
   const pos = prList(typ).findIndex(x => x.id === item.id) + 1;
-  const head2 = `${head(esc(item.t), "Liste")}<p class="hint small">Aufgabe ${pos} von ${prList(typ).length}</p><div class="seg" id="modeSeg"><button data-mode="lern" aria-pressed="${LERN}">🎓 Lernmodus</button><button data-mode="pr" aria-pressed="${!LERN}">📝 Prüfungsmodus</button></div>
+  const head2 = `${head(esc(item.t), SIMA ? "Pause" : "Liste")}<p class="hint small simhide">Aufgabe ${pos} von ${prList(typ).length}</p><div class="seg" id="modeSeg"><button data-mode="lern" aria-pressed="${LERN}">🎓 Lernmodus</button><button data-mode="pr" aria-pressed="${!LERN}">📝 Prüfungsmodus</button></div>
     ${LERN ? `<p class="hint small">Lernmodus: so oft hören, wie du willst, mit dem Regler oben springen, Text anzeigen, Wörter markieren. Nichts wird bewertet. <span class="ru">Режим учёбы: слушай сколько хочешь, без оценки.</span></p>` : ""}
     <div class="row between"><span class="pill">${esc(T.l)}</span><span class="pill" id="tm">⏱ ${T.min}:00</span></div>`;
   const timerBtn = `<button class="btn small" id="tStart">⏱ Prüfungszeit starten (${T.min} Min.)</button>`;
@@ -1634,6 +1640,192 @@ VIEWS.pr = function () {
   }
   if (LERN) { const tb = $("#tStart"); if (tb) tb.hidden = true; }
 
+};
+
+/* ================= Prüfungssimulation ================= */
+let SIMCFG = null, simInt = null;
+const UL = () => SET.lang || "ru";              /* Ausgangssprache der Lernerin – später wählbar (Phase 2) */
+const tr = o => o ? (o[UL()] || o.ru || o.de || "") : "";
+const nl2br = t => esc(t).replace(/\n/g, "<br>");
+const fmtT = sec => { const m = Math.floor(Math.abs(sec) / 60), x = Math.abs(sec) % 60; return (sec < 0 ? "+" : "") + m + ":" + pad(x); };
+function simPick(ex, typ, pre, used) {
+  const l = (BERUF[typ] || []).filter(x => (!x.ex || x.ex.includes(ex)) && (!pre || x.id.startsWith(pre)) && !used.has(typ + ":" + x.id));
+  if (!l.length) return null;
+  const fresh = l.filter(x => !prDone(typ, x.id)); return rnd(fresh.length ? fresh : l);
+}
+function simStart(ex, onlyK) {
+  SET.exam = ex; saveSET();
+  const cfg = SIMCFG[ex]; const slots = []; const used = new Set();
+  cfg.teile.forEach((t, si) => {
+    if (onlyK && t.k !== onlyK) return;
+    t.aufgaben.forEach(([typ, pre, wahl]) => {
+      const n = wahl || 1; const ids = [];
+      for (let k = 0; k < n; k++) { const x = simPick(ex, typ, pre, used); if (x) { used.add(typ + ":" + x.id); ids.push(x.id); } }
+      if (ids.length) slots.push(wahl && ids.length > 1 ? { s: si, typ, id: ids[0], wahl: ids } : { s: si, typ, id: ids[0] });
+    });
+  });
+  P.sim = { ex, only: onlyK || null, slots, i: 0, used: {}, res: {}, stage: "teil", start: Date.now(), done: false };
+  saveP(); go("sim");
+}
+function simRecord(type, ok, ref, extra) {
+  if (!P.sim || P.sim.done) return; const i = P.sim.i;
+  (P.sim.res[i] = P.sim.res[i] || []).push({ t: type, ok: !!ok, x: extra || null }); saveP();
+}
+function simOpen() {
+  const S = P.sim; const sl = S.slots[S.i];
+  if (sl.wahl && !sl.ok) { S.stage = "wahl"; saveP(); go("sim"); return; }
+  S.stage = "aufgabe"; saveP(); go("pr", { typ: sl.typ, id: sl.id, sim: true });
+}
+function simNext() {
+  const S = P.sim; if (!S) return go("pruefung");
+  S.i++;
+  if (S.i >= S.slots.length) { S.done = true; S.stage = "ende"; S.end = Date.now(); simHistory(); saveP(); go("sim"); return; }
+  if (S.slots[S.i].s !== S.slots[S.i - 1].s) { S.stage = "teil"; saveP(); go("sim"); return; }
+  simOpen();
+}
+function simSkipTeil() {
+  const S = P.sim; const cur = S.slots[S.i].s; let j = S.i; while (j < S.slots.length && S.slots[j].s === cur) j++;
+  S.i = j - 1; simNext();
+}
+/* Banner mit Teil-Zeit oben in jeder Aufgabe der Simulation */
+function simBar() {
+  const S = P.sim; if (!S || S.done) return; const sl = S.slots[S.i]; const teil = SIMCFG[S.ex].teile[sl.s];
+  const nT = [...new Set(S.slots.map(x => x.s))]; const pos = nT.indexOf(sl.s) + 1;
+  const inTeil = S.slots.filter(x => x.s === sl.s); const k = inTeil.indexOf(sl) + 1;
+  const bar = document.createElement("div"); bar.className = "simbar";
+  bar.innerHTML = `<span>📝 Teil ${pos}/${nT.length}: <b>${esc(teil.name.de)}</b> · Aufgabe ${k}/${inTeil.length}</span><span class="simt" id="simT"></span>`;
+  app.insertBefore(bar, app.firstChild);
+  const draw = () => {
+    const left = teil.min * 60 - (S.used[sl.s] || 0); const el = $("#simT"); if (!el) return;
+    el.textContent = (teil.weich ? "ca. " : "⏱ ") + fmtT(left); el.classList.toggle("low", left < 300);
+    if (left <= 0 && !teil.weich && !$("#simOver")) {
+      clearInterval(simInt);
+      const o = document.createElement("div"); o.className = "card simover"; o.id = "simOver";
+      o.innerHTML = `<h3>⏰ Die Zeit für „${esc(teil.name.de)}“ ist um.</h3><p class="hint">In der echten Prüfung musst du jetzt aufhören. Nicht beantwortete Aufgaben zählen 0 Punkte.</p><button class="btn primary" id="simSkip">Weiter zum nächsten Teil →</button>`;
+      bar.after(o); $("#simSkip").onclick = simSkipTeil; o.scrollIntoView({ behavior: "smooth" }); say("Die Zeit ist um.");
+    }
+  };
+  draw(); let tick = 0;
+  simInt = setInterval(() => { if (document.hidden) return; S.used[sl.s] = (S.used[sl.s] || 0) + 1; if (++tick % 10 === 0) saveP(); draw(); }, 1000);
+}
+/* Auswertung */
+const SR = { 2: 1, 1: 0.5, 0: 0.2 };   /* gut / teilweise / schwer */
+function simScore() {
+  const S = P.sim; const cfg = SIMCFG[S.ex]; const A = {}; const dtz = S.ex === "DTZ";
+  const add = (b, got, max) => { A[b] = A[b] || { got: 0, max: 0, n: 0 }; A[b].got += got; A[b].max += max; A[b].n++; };
+  const weak = [];
+  S.slots.forEach((sl, k) => {
+    const item = (BERUF[sl.typ] || []).find(x => x.id === sl.id); if (!item) return;
+    const r = S.res[k] || []; const okc = t => r.filter(z => z.t === t && z.ok).length;
+    const writing = target => { const z = r.find(z => z.t === "schreiben"); if (!z || !z.x) return 0; const [a, b] = String(z.x.ck || "0/0").split("/").map(Number); const wf = Math.min(1, (z.x.w || 0) / target); return b ? 0.7 * a / b + 0.3 * wf : wf; };
+    const speak = () => { const z = r.find(z => z.t === "sprechen"); return z && z.x && z.x.sr !== undefined ? SR[z.x.sr] : 0; };
+    let frac = null;
+    if (sl.typ === "lesen") { add(dtz ? "HL" : "L", okc("lesen_pr"), item.fragen.length); frac = okc("lesen_pr") / item.fragen.length; }
+    else if (sl.typ === "hoeren") { add(dtz ? "HL" : "H", okc("hoeren_beruf"), item.fragen.length); frac = okc("hoeren_beruf") / item.fragen.length; }
+    else if (sl.typ === "notiz") { const z = r.find(z => z.t === "notiz"); const m = z && z.x && z.x.sc ? z.x.sc.split("/").map(Number) : [0, item.felder.length]; add("H", m[0], m[1]); frac = m[0] / m[1]; }
+    else if (sl.typ === "sb") { add(dtz ? "HL" : "Ssb", okc("sb"), item.gaps.length); frac = okc("sb") / item.gaps.length; }
+    else if (sl.typ === "mail") { add("L", okc("mailfragen"), item.fragen.length); const w = writing(100); add("Sw", w, 1); frac = w; }
+    else if (sl.typ === "forum") { const w = writing(120); add("Sw", w, 1); frac = w; }
+    else if (sl.typ === "brief") { const w = writing(item.w || 80); add("Sw", w, 1); frac = w; }
+    else if (sl.typ === "vortrag" || sl.typ === "fragen") { const v = speak(); add("SP", v, 1); frac = v; }
+    else if (sl.typ === "diskussion" || sl.typ === "loesung") { const st = (item.schritte || []).length || 1; const v = 0.5 * okc(sl.typ === "loesung" ? "loesung_wahl" : "diskussion_wahl") / st + 0.5 * speak(); add("SP", v, 1); frac = v; }
+    if (frac !== null && frac < 0.6) weak.push({ t: cfg.teile[sl.s].name.de, a: item.t, p: Math.round(frac * 100) });
+  });
+  const f = b => A[b] && A[b].max ? A[b].got / A[b].max : null;
+  const out = { weak, A };
+  if (!dtz) {
+    const sb = f("Ssb"), sw = f("Sw"); const s = sb === null ? sw : sw === null ? sb : 0.25 * sb + 0.75 * sw;
+    out.pts = { l: f("L"), h: f("H"), s, sp: f("SP") };
+    Object.keys(out.pts).forEach(k => out.pts[k] = out.pts[k] === null ? null : Math.round(out.pts[k] * 60));
+  } else {
+    const lv = x => x === null ? null : x >= 0.7 ? "B1" : x >= 0.4 ? "A2" : "unter A2";
+    out.pts = { hl: f("HL") === null ? null : Math.round(f("HL") * 45), s: lv(f("Sw")), sp: lv(f("SP")) };
+  }
+  return out;
+}
+function simHistory() {
+  const sc = simScore(); P.simHist = (P.simHist || []).concat([{ d: dayKey(new Date()), ex: P.sim.ex, only: P.sim.only, pts: sc.pts }]).slice(-20);
+}
+function simReport() {
+  const S = P.sim; const sc = simScore(); const cfg = SIMCFG[S.ex]; const L = [];
+  L.push("PRÜFUNGSSIMULATION " + S.ex + (S.only ? " (nur " + cfg.teile.find(t => t.k === S.only).name.de + ")" : ""), "Datum: " + new Date(S.end || Date.now()).toLocaleDateString("de-DE"));
+  if (S.ex === "DTB") { const p = sc.pts; L.push(`Lesen: ${p.l ?? "–"}/60`, `Hören: ${p.h ?? "–"}/60`, `Schreiben: ${p.s ?? "–"}/60 (Selbsteinschätzung)`, `Sprechen: ${p.sp ?? "–"}/60 (Selbsteinschätzung)`);
+    if (!S.only) { const c = dtbCheck(p); L.push(`Summe: ${c.sum}/240 → ${c.ok ? "BESTANDEN" : "noch nicht bestanden"}`); } }
+  else { const p = sc.pts; L.push(`Hören + Lesen: ${p.hl ?? "–"}/45`, `Schreiben: ${p.s ?? "–"} (Selbsteinschätzung)`, `Sprechen: ${p.sp ?? "–"} (Selbsteinschätzung)`);
+    if (!S.only) { const c = dtzCheck(p); L.push(c.ok ? "→ B1 erreicht" : "→ B1 noch nicht erreicht"); } }
+  if (sc.weak.length) { L.push("", "SCHWACH (unter 60 %):"); sc.weak.forEach(w => L.push(`- ${w.t}: ${w.a} (${w.p} %)`)); }
+  return L.join("\n");
+}
+VIEWS.sim = function () {
+  clearInterval(simInt);
+  if (!SIMCFG) { app.innerHTML = `${head("Prüfungssimulation", "Prüfung")}<div class="card"><p>Die Simulation wird gerade geladen. Bitte später noch einmal öffnen.</p></div>`; return; }
+  const S = P.sim; const lang = UL();
+  const twoLang = (o, cls) => `<div class="${cls || "panel"}" style="gap:6px"><div>${nl2br(o.de || "")}</div></div>${lang !== "de" && tr(o) ? `<div class="rubox">${nl2br(tr(o))}</div>` : ""}`;
+  /* 1) Start: Erklärung und Auswahl */
+  if (!S) {
+    const X = exam(); const cfg = SIMCFG[X];
+    const sumMin = cfg.teile.filter(t => !t.weich).reduce((a, t) => a + t.min, 0);
+    const hist = (P.simHist || []).filter(h => h.ex === X && !h.only).slice(-3).reverse();
+    app.innerHTML = `${head("Prüfungssimulation", "Prüfung")}
+      <div class="seg" id="exSeg2"><button data-ex="DTB" aria-pressed="${X === "DTB"}">DTB B2 (Beruf)</button><button data-ex="DTZ" aria-pressed="${X === "DTZ"}">DTZ (A2–B1)</button></div>
+      <div class="card"><div class="row between"><h3>${esc(cfg.titel)}</h3>${sayBtn(cfg.intro.de + " " + SIMCFG.allgemein.de, "Erklärung vorlesen")}</div>${twoLang(cfg.intro)}</div>
+      <div class="card"><h3>So läuft die Simulation ab</h3>${twoLang(SIMCFG.allgemein)}</div>
+      <div class="card"><h3>Die Teile</h3>
+        ${cfg.teile.map((t, i) => `<div class="panel" style="gap:4px"><div class="row between"><b>${i + 1}. ${esc(t.name.de)}</b><span class="pill">${t.weich ? "ca. " : ""}${t.min} Min.</span></div><div class="hint small">${esc(t.info.de)}</div>${lang !== "de" && tr(t.info) ? `<div class="ru small">${esc(tr(t.info))}</div>` : ""}<button class="btn small" data-only="${t.k}" style="align-self:flex-start">Nur diesen Teil üben</button></div>`).join("")}
+        <p class="hint small">Schriftlicher Teil zusammen: ${sumMin} Minuten.</p>
+        <button class="btn primary big" id="simAll">▶ Ganze Prüfung starten</button></div>
+      ${hist.length ? `<div class="card"><h3>Letzte Simulationen</h3>${hist.map(h => `<div class="row between"><span>${h.d.split("-").reverse().join(".")}</span><span>${X === "DTB" ? ["l", "h", "s", "sp"].map(k => h.pts[k] ?? "–").join(" · ") + " Punkte" : `H+L ${h.pts.hl ?? "–"}/45 · S ${h.pts.s ?? "–"} · Sp ${h.pts.sp ?? "–"}`}</span></div>`).join("")}<p class="hint small">${X === "DTB" ? "Punkte: Lesen · Hören · Schreiben · Sprechen (je max. 60)" : ""}</p></div>` : ""}`;
+    app.querySelectorAll("#exSeg2 button").forEach(b => b.onclick = () => { SET.exam = b.dataset.ex; saveSET(); render(); });
+    $("#simAll").onclick = () => simStart(X);
+    app.querySelectorAll("[data-only]").forEach(b => b.onclick = () => simStart(X, b.dataset.only));
+    return;
+  }
+  const cfg = SIMCFG[S.ex];
+  /* 4) Ergebnis */
+  if (S.done) {
+    const sc = simScore(); const p = sc.pts; let verdict = "";
+    const row = (n, v, max, note) => `<div class="panel" style="gap:4px"><div class="row between"><b>${n}</b><span>${v === null || v === undefined ? "–" : v}${max ? " / " + max : ""}</span></div>${max && v !== null && v !== undefined ? `<div class="bar"><i style="width:${Math.round(100 * v / max)}%"></i></div>` : ""}${note ? `<span class="hint small">${note}</span>` : ""}</div>`;
+    let rows = "";
+    if (S.ex === "DTB") {
+      rows = row("Lesen", p.l, 60) + row("Hören", p.h, 60) + row("Schreiben", p.s, 60, "geschätzt aus Checkliste, Wortzahl und Sprachbausteinen") + row("Sprechen", p.sp, 60, "nach deiner Selbsteinschätzung");
+      if (!S.only) { const c = dtbCheck({ l: p.l || 0, h: p.h || 0, s: p.s || 0, sp: p.sp || 0 }); verdict = `<div class="feedback ${c.ok ? "ok" : "bad"}">${c.ok ? "✅ Bestanden" : "❌ Noch nicht bestanden"} – ${c.sum} von 240 Punkten</div>${c.tips.map(t => `<div class="rule">${esc(t)}</div>`).join("")}`; }
+    } else {
+      rows = row("Hören + Lesen", p.hl, 45, "B1 ab 33, A2 ab 20 Punkten") + row("Schreiben", p.s, 0, "geschätzt aus Checkliste und Wortzahl") + row("Sprechen", p.sp, 0, "nach deiner Selbsteinschätzung");
+      if (!S.only) { const c = dtzCheck({ hl: p.hl || 0, s: p.s || "", sp: p.sp || "" }); verdict = `<div class="feedback ${c.ok ? "ok" : "bad"}">${c.ok ? "✅ B1 erreicht" : "❌ B1 noch nicht erreicht"}</div>${c.tips.map(t => `<div class="rule">${esc(t)}</div>`).join("")}`; }
+    }
+    app.innerHTML = `${head("Ergebnis der Simulation", "Prüfung")}
+      <div class="card"><h3>${esc(cfg.titel)}${S.only ? " – nur " + esc(cfg.teile.find(t => t.k === S.only).name.de) : ""}</h3>${verdict}${rows}
+        <p class="hint small">Lesen und Hören sind genau gezählt. Schreiben und Sprechen sind eine Schätzung – die echte Bewertung machen Prüfer.</p></div>
+      ${sc.weak.length ? `<div class="card"><h3>Hier musst du noch üben</h3>${sc.weak.map(w => `<div class="row between"><span>${esc(w.t)}: ${esc(w.a)}</span><span class="pill">${w.p} %</span></div>`).join("")}</div>` : ""}
+      <div class="card"><button class="btn" id="simShare">📤 Ergebnis teilen</button>${S.ex === "DTB" && !S.only ? `<button class="btn" id="simCalc">In den Punkte-Rechner übernehmen</button>` : ""}<button class="btn primary" id="simNew">Neue Simulation</button></div>`;
+    $("#simShare").onclick = () => shareText(simReport());
+    if ($("#simCalc")) $("#simCalc").onclick = () => { SET.dtb = { l: p.l || 0, h: p.h || 0, s: p.s || 0, sp: p.sp || 0 }; saveSET(); toast("Übernommen"); };
+    $("#simNew").onclick = () => { P.sim = null; saveP(); render(); };
+    return;
+  }
+  const sl = S.slots[S.i]; const teil = cfg.teile[sl.s]; const nT = [...new Set(S.slots.map(x => x.s))];
+  const abbr = `<button class="btn small ghost" id="simStop" style="align-self:flex-start">Simulation abbrechen</button>`;
+  const bindStop = () => { const b = $("#simStop"); b.onclick = () => { if (b.dataset.sure) { P.sim = null; saveP(); render(); } else { b.dataset.sure = "1"; b.textContent = "Wirklich abbrechen? Noch einmal tippen."; b.classList.add("danger"); } }; };
+  /* 2) Wahl zwischen zwei Aufgaben (DTZ Schreiben) */
+  if (S.stage === "wahl") {
+    const opts = sl.wahl.map(id => (BERUF[sl.typ] || []).find(x => x.id === id)).filter(Boolean);
+    app.innerHTML = `${head("Prüfungssimulation", "Prüfung")}<div class="card"><h3>${esc(teil.name.de)}: Wähle eine Aufgabe</h3><p class="hint">Lies beide Aufgaben kurz und nimm die, zu der dir mehr einfällt.</p>
+      ${opts.map((o, i) => `<div class="panel" style="gap:6px"><b>Aufgabe ${"AB"[i]}: ${esc(o.t)}</b><span>${esc(o.situation || "")}</span><button class="btn" data-pick="${esc(o.id)}">Aufgabe ${"AB"[i]} wählen</button></div>`).join("")}</div>`;
+    app.querySelectorAll("[data-pick]").forEach(b => b.onclick = () => { sl.id = b.dataset.pick; sl.ok = true; simOpen(); });
+    return;
+  }
+  /* 3) Einführung in einen Teil bzw. Fortsetzen */
+  const left = teil.min * 60 - (S.used[sl.s] || 0);
+  const started = (S.used[sl.s] || 0) > 0;
+  app.innerHTML = `${head("Prüfungssimulation", "Prüfung")}
+    <div class="card"><p class="hint small">Teil ${nT.indexOf(sl.s) + 1} von ${nT.length}</p>
+      <div class="row between"><h2 style="margin:0">${esc(teil.name.de)}</h2><span class="pill">${teil.weich ? "ca. " : ""}${teil.min} Min.</span></div>
+      <div class="row between"><span>${esc(teil.info.de)}</span>${sayBtn(teil.name.de + ". " + teil.info.de, "Vorlesen")}</div>
+      ${lang !== "de" && tr(teil.info) ? `<div class="rubox">${esc(tr(teil.info))}</div>` : ""}
+      <p class="hint small">${S.slots.filter(x => x.s === sl.s).length} Aufgaben in diesem Teil.${started ? ` Noch ${fmtT(Math.max(0, left))} Minuten.` : ""}</p>
+      <button class="btn primary big" id="simGoOn">${started ? "▶ Weitermachen" : "▶ Teil starten – die Zeit läuft"}</button></div>
+    <div class="card"><h3>Fortschritt</h3>${nT.map((s, i) => `<div class="row between"><span>${i + 1}. ${esc(cfg.teile[s].name.de)}</span><span>${s < sl.s ? "✅" : s === sl.s ? "⏳" : "⬜"}</span></div>`).join("")}${abbr}</div>`;
+  $("#simGoOn").onclick = simOpen; bindStop();
 };
 
 /* --- Mehr --- */

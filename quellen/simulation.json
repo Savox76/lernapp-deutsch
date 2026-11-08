@@ -1,0 +1,55 @@
+{
+  "_hinweis": "Ablauf und Erklärtexte der Prüfungssimulation. Jeder Text gibt es auf Deutsch (de) und in den Ausgangssprachen (ru, später uk, en, ar, tr, fa, fr …). Fehlt eine Sprache, zeigt die App Russisch bzw. Deutsch. 'aufgaben' = [Typ, Anfang der id oder leer]. Quellen: telc/BAMF DTB B2 (schriftlich 125 Min., mündlich ca. 16 Min.), Goethe/BAMF DTZ Modellsatz (Hören 25, Lesen 45, Schreiben 30, Sprechen ca. 10 Min. pro Person).",
+  "allgemein": {
+    "de": "Die Simulation ist so aufgebaut wie die echte Prüfung: gleiche Reihenfolge, gleiche Zeiten, ähnlich viele Aufgaben. Alles ist auf Deutsch – es gibt keine Übersetzung und keinen Lernmodus.\n\nWichtig:\n• Jeder Teil hat eine feste Zeit. Ist die Zeit um, geht es mit dem nächsten Teil weiter. Was nicht beantwortet ist, zählt 0 Punkte.\n• Hörtexte kannst du höchstens zweimal hören.\n• Lesen und Hören bewertet die App selbst. Schreiben und Sprechen bewertest du am Ende selbst – mit Checkliste und Musterlösung. Sei ehrlich, sonst ist das Ergebnis nichts wert.\n• Du kannst unterbrechen und später weitermachen. Die Zeit läuft nur, solange eine Aufgabe offen ist.\n• Plane genug Zeit ein und such dir einen ruhigen Platz. Für das Sprechen brauchst du einen Ort, an dem du laut sprechen kannst.",
+    "ru": "Симуляция устроена как настоящий экзамен: тот же порядок, то же время, примерно столько же заданий. Всё на немецком – перевода и режима обучения нет.\n\nВажно:\n• У каждой части есть фиксированное время. Когда время вышло, начинается следующая часть. Задания без ответа дают 0 баллов.\n• Аудиотексты можно прослушать не больше двух раз.\n• Чтение и аудирование приложение оценивает само. Письмо и устную часть ты оцениваешь в конце сама – по чек-листу и образцу. Будь честной, иначе результат ничего не стоит.\n• Можно прерваться и продолжить позже. Время идёт, только пока задание открыто.\n• Выдели достаточно времени и найди тихое место. Для устной части нужно место, где можно говорить вслух."
+  },
+  "DTB": {
+    "titel": "DTB B2 – Deutsch-Test für den Beruf",
+    "intro": {
+      "de": "So läuft der DTB B2 ab: Zuerst kommt der schriftliche Teil. Er dauert 125 Minuten ohne Pause. Der mündliche Teil findet am selben Tag oder innerhalb von sieben Tagen statt. Er dauert etwa 16 Minuten, du sprichst zusammen mit einer anderen Person, und es gibt keine Vorbereitungszeit.\n\nBestanden ist die Prüfung mit mindestens 144 von 240 Punkten. Mindestens drei Bereiche brauchen je 36 von 60 Punkten, und kein Bereich darf unter 24 Punkten liegen.",
+      "ru": "Так проходит DTB B2: сначала письменная часть. Она длится 125 минут без перерыва. Устная часть проходит в тот же день или в течение семи дней. Она длится около 16 минут, ты говоришь вместе с другим участником, времени на подготовку нет.\n\nЭкзамен сдан, если набрано минимум 144 из 240 баллов. Минимум в трёх частях нужно по 36 из 60 баллов, и ни одна часть не может быть ниже 24 баллов."
+    },
+    "teile": [
+      {"k": "lesen", "bereich": "L", "min": 45, "name": {"de": "Lesen", "ru": "Чтение"},
+       "info": {"de": "4 Teile: Artikel den Personen zuordnen, Mitteilungen und Anweisungen (richtig/falsch und a/b/c), Forum (eine Antwort passt nicht = X), Protokoll oder Bericht.", "ru": "4 части: подобрать статьи к людям, сообщения и инструкции (верно/неверно и a/b/c), форум (если ответ не подходит = X), протокол или отчёт."},
+       "aufgaben": [["lesen", "dtbl1"], ["lesen", "dtbl2"], ["lesen", "dtbl2"], ["lesen", "dtbl3"], ["lesen", "dtbl4"]]},
+      {"k": "ls", "bereich": "L+S", "min": 20, "name": {"de": "Lesen und Schreiben", "ru": "Чтение и письмо"},
+       "info": {"de": "Du liest eine E-Mail (z. B. eine Beschwerde), beantwortest Fragen dazu und schreibst dann eine Antwort.", "ru": "Ты читаешь письмо (например, жалобу), отвечаешь на вопросы и пишешь ответ."},
+       "aufgaben": [["mail", ""]]},
+      {"k": "hoeren", "bereich": "H", "min": 20, "name": {"de": "Hören", "ru": "Аудирование"},
+       "info": {"de": "Gespräche, Besprechungen, Durchsagen und Telefonate aus dem Arbeitsalltag. Jeden Text kannst du höchstens zweimal hören.", "ru": "Разговоры, совещания, объявления и звонки из рабочей жизни. Каждый текст можно прослушать не больше двух раз."},
+       "aufgaben": [["hoeren", ""], ["hoeren", ""], ["hoeren", ""], ["hoeren", ""]]},
+      {"k": "hs", "bereich": "H", "min": 5, "name": {"de": "Hören und Schreiben", "ru": "Аудирование и письмо"},
+       "info": {"de": "Du hörst einen Anruf und schreibst eine Telefonnotiz. In der echten Prüfung hörst du den Anruf nur einmal!", "ru": "Ты слушаешь звонок и пишешь телефонную заметку. На настоящем экзамене звонок звучит только один раз!"},
+       "aufgaben": [["notiz", ""]]},
+      {"k": "sbs", "bereich": "S", "min": 35, "name": {"de": "Sprachbausteine und Schreiben", "ru": "Языковые блоки и письмо"},
+       "info": {"de": "Zwei Lückentexte (Sprachbausteine), danach schreibst du einen Forumsbeitrag mit deiner Meinung.", "ru": "Два текста с пропусками, затем ты пишешь сообщение на форуме со своим мнением."},
+       "aufgaben": [["sb", ""], ["sb", ""], ["forum", ""]]},
+      {"k": "sprechen", "bereich": "SP", "min": 16, "weich": true, "name": {"de": "Sprechen", "ru": "Устная часть"},
+       "info": {"de": "Etwa 16 Minuten zu zweit, ohne Vorbereitung: 1A über ein Thema sprechen, 1B Fragen der Prüfer beantworten, 2 über ein Thema diskutieren, 3 gemeinsam eine Lösung finden. Sprich jede Antwort wirklich laut!", "ru": "Около 16 минут вдвоём, без подготовки: 1A рассказать на тему, 1B ответить на вопросы экзаменаторов, 2 обсудить тему, 3 вместе найти решение. Отвечай действительно вслух!"},
+       "aufgaben": [["vortrag", ""], ["fragen", ""], ["diskussion", ""], ["loesung", ""]]}
+    ]
+  },
+  "DTZ": {
+    "titel": "DTZ – Deutsch-Test für Zuwanderer (A2–B1)",
+    "intro": {
+      "de": "So läuft der DTZ ab: Der schriftliche Teil hat drei Teile – Hören (25 Minuten), Lesen (45 Minuten) und Schreiben (30 Minuten). Danach kommt das Sprechen, meistens zu zweit, etwa 10 Minuten pro Person.\n\nFür B1 gilt seit dem 1. November 2026: Sprechen muss B1 sein, dazu Hören/Lesen oder Schreiben B1 und der andere schriftliche Teil mindestens A2. Hören und Lesen zusammen sind B1 ab 33 von 45 Punkten.",
+      "ru": "Так проходит DTZ: письменная часть состоит из трёх частей – аудирование (25 минут), чтение (45 минут) и письмо (30 минут). Потом устная часть, обычно вдвоём, около 10 минут на человека.\n\nДля B1 с 1 ноября 2026 года: устная часть должна быть на B1, кроме того аудирование/чтение или письмо – B1, а другая письменная часть – минимум A2. Аудирование и чтение вместе – B1 от 33 из 45 баллов."
+    },
+    "teile": [
+      {"k": "hoeren", "bereich": "HL", "min": 25, "name": {"de": "Hören", "ru": "Аудирование"},
+       "info": {"de": "Ansagen, Durchsagen, Radio und Gespräche aus dem Alltag. Jeden Text kannst du höchstens zweimal hören.", "ru": "Объявления, радио и разговоры из повседневной жизни. Каждый текст можно прослушать не больше двух раз."},
+       "aufgaben": [["hoeren", ""], ["hoeren", ""], ["hoeren", ""], ["hoeren", ""]]},
+      {"k": "lesen", "bereich": "HL", "min": 45, "name": {"de": "Lesen", "ru": "Чтение"},
+       "info": {"de": "Wegweiser, Anzeigen, Zeitungstexte und ein Brief mit Lücken.", "ru": "Указатели, объявления, газетные тексты и письмо с пропусками."},
+       "aufgaben": [["lesen", ""], ["lesen", ""], ["lesen", ""], ["lesen", ""], ["sb", ""]]},
+      {"k": "schreiben", "bereich": "S", "min": 30, "name": {"de": "Schreiben", "ru": "Письмо"},
+       "info": {"de": "Du wählst zwischen zwei Aufgaben und schreibst einen Brief oder eine E-Mail zu allen Punkten.", "ru": "Ты выбираешь одно из двух заданий и пишешь письмо по всем пунктам."},
+       "aufgaben": [["brief", "", 2]]},
+      {"k": "sprechen", "bereich": "SP", "min": 10, "weich": true, "name": {"de": "Sprechen", "ru": "Устная часть"},
+       "info": {"de": "Teil 1: sich vorstellen, Teil 2: über Erfahrungen erzählen, Teil 3: gemeinsam etwas planen. Sprich jede Antwort wirklich laut!", "ru": "Часть 1: представиться, часть 2: рассказать о своём опыте, часть 3: вместе что-то спланировать. Отвечай действительно вслух!"},
+       "aufgaben": [["fragen", ""], ["vortrag", ""], ["loesung", ""]]}
+    ]
+  }
+}

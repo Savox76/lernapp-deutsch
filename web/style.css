@@ -210,3 +210,13 @@ body.has-player{padding-top:calc(96px + env(safe-area-inset-top,0px))}
 .seek{cursor:pointer;border-radius:4px}
 .seek:hover{background:var(--bg)}
 .seek.on{background:var(--accent-soft);color:var(--accent-ink);box-shadow:0 0 0 2px var(--accent-soft)}
+
+/* Prüfungssimulation */
+.simbar{position:sticky;top:calc(4px + env(safe-area-inset-top,0px));z-index:5;display:flex;justify-content:space-between;align-items:center;gap:8px;padding:10px 14px;border-radius:12px;background:var(--accent-soft);border:1.5px solid var(--accent);font-size:15px}
+.simbar .simt{font-weight:800;font-variant-numeric:tabular-nums;white-space:nowrap}
+.simbar .simt.low{color:var(--bad)}
+.simover{border:2px solid var(--bad)}
+.btn.danger{border-color:var(--bad);color:var(--bad)}
+body.sim .ru,body.sim .rubox,body.sim #modeSeg,body.sim #tStart,body.sim #tm{display:none!important}
+body.has-player .simbar{top:calc(100px + env(safe-area-inset-top,0px))}
+body.sim .simhide{display:none!important}
