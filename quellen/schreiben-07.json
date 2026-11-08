@@ -1,0 +1,134 @@
+[
+  {
+    "id": "bk-anfrage-schwimmkurs",
+    "lv": "B1",
+    "t": "Anfrage: Schwimmkurs für Erwachsene",
+    "s": "Sie haben diese Anzeige gelesen: „Nie schwimmen gelernt? Schwimmkurs für Erwachsene im Hallenbad Mitte. Kleine Gruppen, erfahrene Trainer, zweimal pro Woche. Infos: Herr Krause, info@hallenbad-mitte.de“. Schreiben Sie eine E-Mail an Herrn Krause. Bausteine: Wo gefunden? – Warum interessiert? – Warum schreibe ich? – Fragen mit Grund – Dank – Erreichbarkeit – Gruß.",
+    "p": ["Wo haben Sie die Anzeige gefunden?", "Warum interessieren Sie sich für den Kurs?", "Fragen Sie nach Kurszeiten am Abend.", "Fragen Sie, ob es eine Probestunde gibt."],
+    "ru": "Напишите письмо-запрос по объявлению о курсе плавания: где нашли, почему интересно, вопросы о вечернем времени и пробном занятии. Используйте блоки письма.",
+    "w": 100,
+    "rm": ["Sehr geehrter Herr Krause,", "In der Stadtzeitung bin ich auf Ihre Anzeige gestoßen.", "Da ich als Kind nie schwimmen gelernt habe, …", "Bevor ich mich anmelde, möchte ich Ihnen einige Fragen stellen.", "Ich möchte gern wissen, ob …", "Vielen Dank im Voraus für Ihre Antwort.", "Mit freundlichen Grüßen"],
+    "m": "Betreff: Anfrage zum Schwimmkurs für Erwachsene\n\nSehr geehrter Herr Krause,\n\nin der Stadtzeitung bin ich auf Ihre Anzeige gestoßen. Da ich als Kind nie schwimmen gelernt habe, interessiert mich Ihr Kurs sehr. Im Sommer möchte ich endlich mit meiner Familie am See schwimmen gehen.\n\nBevor ich mich anmelde, möchte ich Ihnen noch einige Fragen stellen. Weil ich tagsüber arbeite, ist es für mich wichtig zu wissen, ob es auch Kurse am Abend gibt. Außerdem würde ich gern erfahren, ob ich vorher eine Probestunde machen kann. Ich habe nämlich etwas Angst vor tiefem Wasser.\n\nVielen Dank im Voraus für die Beantwortung meiner Fragen. Unter meiner Handynummer 0176 1234567 bin ich jederzeit erreichbar.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+    "id": "bk-anfrage-sprachschule",
+    "lv": "B2",
+    "t": "Anfrage: Sprachschule – Vorbereitung auf den DTB",
+    "s": "Die Sprachschule „Wortwerk“ bietet an: „Deutschkurse A1 bis C1 – Vormittag, Nachmittag oder Abend – Kleingruppen (4–6 Personen) oder Klassen (15–20 Personen) – Intensivkurse und Prüfungsvorbereitung. Kontakt: Frau Berg, kurse@wortwerk.de“. Schreiben Sie eine E-Mail an Frau Berg (150–200 Wörter). Behandeln Sie mindestens drei Punkte.",
+    "p": ["Wie viele Unterrichtsstunden hat ein Kurs pro Woche?", "Wie lange dauert die Vorbereitung auf den DTB B2?", "Was kostet eine Kleingruppe im Vergleich zur Klasse?", "Kann man jederzeit einsteigen?"],
+    "ru": "Напишите запрос в языковую школу (150–200 слов): сколько часов в неделю, сколько длится подготовка к DTB B2, разница в цене между мини-группой и классом, можно ли начать в любое время.",
+    "w": 150,
+    "rm": ["Sehr geehrte Frau Berg,", "Mit großem Interesse habe ich auf Ihrer Website gelesen, dass …", "Da ich in drei Monaten den DTB B2 ablegen möchte, …", "Könnten Sie mir bitte mitteilen, wie viele …", "Außerdem wüsste ich gern, ob …", "Des Weiteren interessiert mich, was … kostet.", "Für eine rasche Antwort wäre ich Ihnen sehr dankbar.", "Mit freundlichen Grüßen"],
+    "m": "Betreff: Anfrage zu Ihren Kursen zur Prüfungsvorbereitung DTB B2\n\nSehr geehrte Frau Berg,\n\nmit großem Interesse habe ich auf Ihrer Website gelesen, dass Sie auch Kurse zur Prüfungsvorbereitung anbieten. Seit zwei Jahren lebe ich in Deutschland und arbeite als Pflegehelferin. Da ich in drei Monaten den Deutsch-Test für den Beruf B2 ablegen möchte, suche ich einen passenden Kurs.\n\nBevor ich mich anmelde, hätte ich noch einige Fragen. Zunächst möchte ich gern wissen, wie viele Unterrichtsstunden ein Kurs pro Woche hat. Außerdem wüsste ich gern, wie lange die Vorbereitung auf den DTB B2 normalerweise dauert. Weil ich im Schichtdienst arbeite, kann ich leider nicht jeden Tag kommen.\n\nDes Weiteren interessiert mich, was der Unterricht in einer Kleingruppe im Vergleich zu einer Klasse kostet. In einer kleinen Gruppe könnte ich sicher mehr sprechen, was für mich besonders wichtig ist. Schließlich würde ich gern erfahren, ob man jederzeit in einen laufenden Kurs einsteigen kann.\n\nFür eine rasche Beantwortung meiner Fragen wäre ich Ihnen sehr dankbar. Telefonisch bin ich nachmittags unter 0176 1234567 erreichbar.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+    "id": "bk-anfrage-ferienwohnung",
+    "lv": "B1",
+    "t": "Anfrage: Ferienwohnung an der Ostsee",
+    "s": "Sie lesen im Internet: „Ferienwohnung an der Ostsee, 2 Zimmer, Balkon, 300 m zum Strand, ab 70 € pro Nacht. Anfragen an Familie Lorenz, lorenz-ferien@web.de“. Sie möchten mit Ihrer Familie im August eine Woche Urlaub machen. Schreiben Sie eine E-Mail (ca. 100 Wörter).",
+    "p": ["Ist die Wohnung vom 10. bis 17. August frei?", "Dürfen Sie Ihren Hund mitbringen?", "Gibt es einen Parkplatz?", "Wie hoch ist der Endpreis mit Reinigung?"],
+    "ru": "Напишите запрос о квартире на Балтийском море: свободна ли она с 10 по 17 августа, можно ли с собакой, есть ли парковка, сколько стоит с уборкой.",
+    "w": 100,
+    "rm": ["Sehr geehrte Familie Lorenz,", "Im Internet habe ich Ihre Anzeige gefunden.", "Da wir gern am Meer Urlaub machen, …", "Ich möchte gern wissen, ob …", "Könnten Sie mir bitte mitteilen, …", "Über eine baldige Antwort würde ich mich freuen."],
+    "m": "Betreff: Anfrage Ferienwohnung 10. bis 17. August\n\nSehr geehrte Familie Lorenz,\n\nim Internet habe ich Ihre Anzeige für die Ferienwohnung an der Ostsee gefunden. Da meine Familie und ich sehr gern am Meer Urlaub machen, interessiert uns Ihr Angebot sehr.\n\nIch möchte gern wissen, ob die Wohnung vom 10. bis 17. August noch frei ist. Weil wir einen kleinen Hund haben, ist es für uns außerdem wichtig zu wissen, ob wir ihn mitbringen dürfen. Wir kommen mit dem Auto. Gibt es bei der Wohnung einen Parkplatz? Könnten Sie mir bitte auch mitteilen, wie hoch der Endpreis mit Reinigung ist?\n\nÜber eine baldige Antwort würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+    "id": "bk-anfrage-praktikum",
+    "lv": "B2",
+    "t": "Anfrage: Praktikum in einer Kita",
+    "s": "Die Kita „Kleine Entdecker“ sucht Praktikantinnen und Praktikanten: „Lernen Sie den Alltag in unserer zweisprachigen Kita kennen. Praktikum 4–12 Wochen, Betreuung durch erfahrene Erzieherinnen. Kontakt: Frau Hahn, Leitung“. Schreiben Sie eine E-Mail an Frau Hahn (150–200 Wörter).",
+    "p": ["Warum interessieren Sie sich für die Arbeit mit Kindern?", "Wie sind die Arbeitszeiten?", "Bekommt man eine Vergütung?", "Welches Deutschniveau braucht man?"],
+    "ru": "Напишите запрос о практике в детском саду (150–200 слов): почему интересна работа с детьми, рабочее время, оплата, нужный уровень немецкого.",
+    "w": 150,
+    "rm": ["Sehr geehrte Frau Hahn,", "Ihre Anzeige hat sofort mein Interesse geweckt, weil …", "Bevor ich mich bewerbe, würde ich gern Näheres erfahren.", "Es wäre für mich wichtig zu wissen, ob …", "Weiterhin möchte ich gern erfahren, wie …", "Ich bedanke mich im Voraus für Ihre Antwort."],
+    "m": "Betreff: Anfrage zu einem Praktikum in Ihrer Kita\n\nSehr geehrte Frau Hahn,\n\nauf der Website der Arbeitsagentur bin ich auf Ihre Anzeige gestoßen. Sie hat sofort mein Interesse geweckt, weil ich sehr gern mit Kindern arbeite. In meiner Heimat habe ich drei Jahre als Grundschullehrerin gearbeitet. Nun möchte ich in Deutschland als Erzieherin arbeiten und zuerst die Arbeit in einer deutschen Kita kennenlernen.\n\nBevor ich mich bewerbe, würde ich gern Näheres erfahren. Da ich zwei Kinder habe, ist es für mich wichtig zu wissen, wie die Arbeitszeiten während des Praktikums sind. Am besten könnte ich zwischen 8 und 15 Uhr arbeiten. Außerdem wüsste ich gern, ob Praktikanten eine Vergütung bekommen.\n\nZurzeit besuche ich einen Deutschkurs auf dem Niveau B1. Deshalb möchte ich auch fragen, welches Deutschniveau Sie für ein Praktikum erwarten. Gern würde ich meine Sprachkenntnisse im Alltag mit den Kindern verbessern.\n\nIch bedanke mich im Voraus für die Beantwortung meiner Fragen. Sie erreichen mich jederzeit per E-Mail oder unter 0176 1234567.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+    "id": "bk-beschwerde-jugendreise",
+    "lv": "B2",
+    "t": "Beschwerde: Gruppenreise an den See",
+    "s": "Sie haben eine Reise mit „Sonnenweg Reisen“ gemacht. In der Anzeige stand: „Eine Woche am Chiemsee – moderne Apartments, Bootsfahrt und Stadtführung inklusive, Strand direkt vor der Tür“. Leider waren Sie gar nicht zufrieden. Schreiben Sie einen Beschwerdebrief (150–200 Wörter). Bausteine: Was stand in der Anzeige? – Was war wirklich? – Überleitung – Gefühl – Forderung.",
+    "p": ["Die Apartments waren alt und schmutzig.", "Die Bootsfahrt musste man extra bezahlen.", "Der Strand war 3 km entfernt.", "Sie verlangen einen Teil des Preises zurück."],
+    "ru": "Напишите жалобу на поездку (150–200 слов): что обещало объявление и что было на самом деле, ваши чувства, требование вернуть часть денег.",
+    "w": 150,
+    "rm": ["Sehr geehrte Damen und Herren,", "In Ihrer Anzeige stand, dass … Tatsächlich …", "Leider musste ich feststellen, dass …", "Des Weiteren …", "Das finde ich wirklich unzumutbar.", "Ich erwarte von Ihnen, dass Sie mir … erstatten.", "Andernfalls sehe ich mich gezwungen, …"],
+    "m": "Olga Iwanowa\nLindenstraße 12\n01069 Dresden\n\nSonnenweg Reisen GmbH\nKundenservice\nMarktplatz 3\n80331 München\n\nDresden, 8. November 2026\n\nBeschwerde über meine Reise an den Chiemsee vom 12. bis 19. Oktober\n\nSehr geehrte Damen und Herren,\n\nvom 12. bis 19. Oktober habe ich mit Ihnen eine Reise an den Chiemsee gemacht. Leider entsprach die Reise in keiner Weise Ihrer Anzeige.\n\nIn Ihrer Anzeige stand, dass die Apartments modern sind. Tatsächlich waren die Möbel alt und das Bad war schmutzig. Des Weiteren versprachen Sie eine Bootsfahrt inklusive. Vor Ort mussten wir die Bootsfahrt jedoch extra bezahlen. Abschließend möchte ich noch erwähnen, dass der Strand nicht direkt vor der Tür lag, sondern drei Kilometer entfernt war.\n\nIch bin nicht nur enttäuscht, sondern auch verärgert. Ich hatte mich lange auf diesen Urlaub gefreut und viel Geld dafür bezahlt.\n\nIch erwarte von Ihnen, dass Sie mir 30 Prozent des Reisepreises sowie die Kosten für die Bootsfahrt erstatten. Sollte ich innerhalb von zwei Wochen nichts von Ihnen hören, werde ich mich an die Verbraucherzentrale wenden.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+    "id": "bk-beschwerde-sprachkurs",
+    "lv": "B2",
+    "t": "Beschwerde: Sprachkurs",
+    "s": "Sie haben an einem Intensivkurs der Sprachschule „Lingua Plus“ teilgenommen. Die Anzeige versprach: „Kleine Klassen bis 12 Personen, erfahrene Lehrkräfte, moderne Räume, Prüfungstraining inklusive“. Schreiben Sie eine Beschwerde per E-Mail (150–200 Wörter).",
+    "p": ["Die Klasse hatte 25 Teilnehmer.", "Die Lehrkraft wechselte jede Woche.", "Es gab kein Prüfungstraining.", "Sie verlangen einen Teil der Kursgebühr zurück."],
+    "ru": "Напишите жалобу на языковые курсы (150–200 слов): обещали маленькие классы, опытных преподавателей и подготовку к экзамену – было иначе. Потребуйте вернуть часть денег.",
+    "w": 150,
+    "rm": ["Sehr geehrte Damen und Herren,", "Die Anzeige versprach … Tatsächlich …", "Anders als in der Anzeige angegeben, …", "Außerdem …", "Darüber bin ich sehr enttäuscht.", "Meine Erwartungen wurden leider nicht erfüllt.", "Ich erwarte, dass Sie mir … zurückzahlen."],
+    "m": "Betreff: Beschwerde über den Intensivkurs B2 (September/Oktober)\n\nSehr geehrte Damen und Herren,\n\nvon September bis Oktober habe ich an Ihrem Intensivkurs B2 teilgenommen. Leider muss ich Ihnen mitteilen, dass ich mit dem Kurs überhaupt nicht zufrieden war.\n\nIhre Anzeige versprach kleine Klassen mit höchstens zwölf Personen. Tatsächlich saßen wir zu fünfundzwanzig in einem engen Raum. Deshalb hatte ich kaum Gelegenheit zu sprechen. Außerdem wechselte die Lehrkraft fast jede Woche. So konnte niemand unsere Schwächen richtig kennenlernen.\n\nWas ich unbedingt noch erwähnen möchte, ist das fehlende Prüfungstraining. Anders als in der Anzeige angegeben, haben wir keinen einzigen Modelltest gemacht. Da ich im Dezember die Prüfung ablege, ist das für mich ein großes Problem.\n\nMeine Erwartungen wurden leider nicht erfüllt, und ich bin darüber sehr enttäuscht. Ich erwarte von Ihnen, dass Sie mir die Hälfte der Kursgebühr zurückzahlen. Über eine Antwort innerhalb von zwei Wochen würde ich mich freuen.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+    "id": "bk-beschwerde-tablet",
+    "lv": "B1",
+    "t": "Beschwerde: Falsches Tablet geliefert",
+    "s": "Sie haben im Onlineshop „Technikland“ ein schwarzes Tablet bestellt. In der Anzeige stand: „Lieferung in 2 Tagen, Ladekabel und Hülle inklusive“. Schreiben Sie eine E-Mail an den Kundenservice (ca. 120 Wörter).",
+    "p": ["Sie haben ein rotes Tablet bekommen.", "Die Lieferung hat drei Wochen gedauert.", "Ladekabel und Hülle fehlten.", "Sie möchten ein neues Gerät oder Ihr Geld zurück."],
+    "ru": "Напишите жалобу в интернет-магазин: прислали красный планшет вместо чёрного, доставка три недели, нет кабеля и чехла. Требуйте новый планшет или деньги назад.",
+    "w": 120,
+    "rm": ["Sehr geehrte Damen und Herren,", "am … habe ich bei Ihnen … bestellt.", "Statt eines schwarzen Tablets haben Sie mir … geschickt.", "Außerdem …", "Zudem fehlten …", "Ich verlange entweder … oder …"],
+    "m": "Betreff: Reklamation – Bestellnummer 48213\n\nSehr geehrte Damen und Herren,\n\nam 2. Oktober habe ich bei Ihnen ein schwarzes Tablet bestellt. Leider bin ich mit diesem Kauf überhaupt nicht zufrieden.\n\nStatt eines schwarzen Tablets haben Sie mir ein rotes geschickt. Außerdem stand in Ihrer Anzeige, dass die Lieferung zwei Tage dauert. Tatsächlich kam das Paket erst nach drei Wochen an. Zudem fehlten das Ladekabel und die Hülle, obwohl sie laut Anzeige dabei sein sollten.\n\nDarüber bin ich sehr verärgert, denn ich brauche das Tablet dringend für meinen Deutschkurs.\n\nIch verlange entweder ein neues schwarzes Tablet mit vollständigem Zubehör oder mein Geld zurück. Bitte teilen Sie mir mit, wie ich das rote Gerät zurückschicken soll.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+    "id": "bk-beschwerde-umzugsfirma",
+    "lv": "B2",
+    "t": "Beschwerde: Umzugsfirma",
+    "s": "Sie haben die Firma „Schnell & Sicher Umzüge“ beauftragt. In der Werbung stand: „Pünktlich, zuverlässig, Festpreis ohne Überraschungen, Montage der Möbel inklusive“. Schreiben Sie einen Beschwerdebrief (150–200 Wörter).",
+    "p": ["Die Firma kam vier Stunden zu spät.", "Ein Schrank wurde beschädigt.", "Die Möbel wurden nicht aufgebaut.", "Auf der Rechnung steht ein höherer Preis."],
+    "ru": "Напишите жалобу на фирму по переезду (150–200 слов): опоздание на четыре часа, повреждён шкаф, мебель не собрали, в счёте цена выше. Используйте пассив.",
+    "w": 150,
+    "rm": ["Sehr geehrte Damen und Herren,", "In Ihrer Werbung stand, dass …", "Stattdessen …", "Ein Schrank wurde beschädigt.", "Es ist unzumutbar, dass …", "Ich erwarte von Ihnen, dass …", "Andernfalls werde ich …"],
+    "m": "Olga Iwanowa\nAm Park 7\n01219 Dresden\n\nSchnell & Sicher Umzüge\nHafenstraße 20\n01097 Dresden\n\nDresden, 8. November 2026\n\nBeschwerde über meinen Umzug am 30. Oktober, Rechnung Nr. 2026-311\n\nSehr geehrte Damen und Herren,\n\nam 30. Oktober habe ich mit Ihrer Firma meine Wohnung gewechselt. Leider muss ich mich über Ihren Service beschweren.\n\nIn Ihrer Werbung stand, dass Sie pünktlich und zuverlässig sind. Stattdessen kamen Ihre Mitarbeiter vier Stunden zu spät, sodass ich einen Tag Urlaub zusätzlich nehmen musste. Beim Transport wurde außerdem mein Kleiderschrank beschädigt. Die Tür lässt sich nicht mehr schließen.\n\nDes Weiteren war die Montage der Möbel laut Anzeige inklusive. Meine Möbel wurden jedoch nicht aufgebaut. Abschließend möchte ich erwähnen, dass auf der Rechnung 180 Euro mehr als vereinbart stehen. Es ist unzumutbar, dass ein Festpreis plötzlich nicht mehr gilt.\n\nIch erwarte von Ihnen, dass Sie die Reparatur des Schranks bezahlen und die Rechnung korrigieren. Sollte ich bis zum 22. November keine Antwort erhalten, werde ich mich an einen Anwalt wenden.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+    "id": "bk-bewerbung-ferienjob",
+    "lv": "B1",
+    "t": "Bewerbung: Aushilfe im Gartencenter",
+    "s": "Das Gartencenter „Grünzeug“ sucht: „Aushilfen für die Frühjahrssaison (März–Mai), 20 Std./Woche, Beratung und Verkauf, Pflege der Pflanzen. Gute Deutschkenntnisse, Freude am Umgang mit Kunden. Bewerbung an Herrn Schäfer“. Schreiben Sie eine kurze Bewerbung per E-Mail (ca. 120 Wörter).",
+    "p": ["Warum interessiert Sie die Stelle?", "Welche Erfahrungen haben Sie?", "Was sind Ihre Stärken?", "Bitten Sie um ein Gespräch."],
+    "ru": "Напишите короткое письмо-заявку на подработку в садовом центре: почему интересно, какой опыт, сильные стороны, попросите о встрече.",
+    "w": 120,
+    "rm": ["Sehr geehrter Herr Schäfer,", "mit großem Interesse habe ich Ihre Anzeige gelesen.", "Da ich mich schon immer für Pflanzen interessiere, …", "In meiner Heimat habe ich …", "Zu meinen Stärken gehören …", "Über eine Einladung zu einem Gespräch würde ich mich sehr freuen."],
+    "m": "Betreff: Bewerbung als Aushilfe für die Frühjahrssaison\n\nSehr geehrter Herr Schäfer,\n\nmit großem Interesse habe ich Ihre Anzeige in der Zeitung gelesen. Da ich mich schon immer für Pflanzen interessiere, möchte ich mich als Aushilfe bei Ihnen bewerben.\n\nIn meiner Heimat hatte meine Familie einen großen Garten. Dort habe ich gelernt, wie man Gemüse und Blumen pflegt. In Deutschland habe ich ein Jahr in einem Supermarkt gearbeitet und dort Kunden beraten.\n\nZu meinen Stärken gehören Zuverlässigkeit und Freundlichkeit. Auch wenn viel los ist, bleibe ich ruhig. Ab März könnte ich 20 Stunden pro Woche arbeiten.\n\nÜber eine Einladung zu einem persönlichen Gespräch würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+    "id": "bk-bewerbung-pflege",
+    "lv": "B2",
+    "t": "Bewerbung: Pflegehelferin im Seniorenheim",
+    "s": "Das Seniorenheim „Haus Abendrot“ sucht: „Pflegehelfer/innen in Teilzeit oder Vollzeit. Wir bieten: Einarbeitung, Fortbildungen, Unterstützung bei der Anerkennung ausländischer Abschlüsse. Sie bringen mit: Einfühlungsvermögen, Teamfähigkeit, Deutsch mindestens B1. Bewerbungen an Frau Dr. Engel“. Schreiben Sie eine Bewerbung (150–200 Wörter).",
+    "p": ["Warum hat die Anzeige Ihr Interesse geweckt?", "Ihre Ausbildung und Berufserfahrung", "Ihre Stärken", "Fragen zur Anerkennung Ihres Abschlusses"],
+    "ru": "Напишите заявку на должность помощницы по уходу (150–200 слов): почему интересно, образование и опыт, сильные стороны, вопрос о признании диплома.",
+    "w": 150,
+    "rm": ["Sehr geehrte Frau Dr. Engel,", "Ihre Anzeige hat mein Interesse geweckt, weil …", "Von … bis … machte ich eine Ausbildung als …", "Danach arbeitete ich …", "Aufgrund meiner Erfahrung bin ich …", "Zu meinen Stärken gehört …", "Gern würde ich wissen, ob …", "Über eine Einladung … würde ich mich sehr freuen."],
+    "m": "Betreff: Bewerbung als Pflegehelferin in Teilzeit\n\nSehr geehrte Frau Dr. Engel,\n\nIhre Anzeige auf der Website der Arbeitsagentur hat sofort mein Interesse geweckt, weil Sie neue Mitarbeiter bei der Anerkennung ihrer Abschlüsse unterstützen.\n\nVon 2008 bis 2011 machte ich in Russland eine Ausbildung als Krankenschwester. Danach arbeitete ich zehn Jahre in einem Krankenhaus in Samara, zuletzt auf einer Station für ältere Menschen. Seit 2023 lebe ich in Deutschland und arbeite zurzeit als Helferin in einem ambulanten Pflegedienst.\n\nAufgrund meiner Erfahrung bin ich mit der Grundpflege, der Begleitung von Menschen mit Demenz und der Zusammenarbeit mit Angehörigen sehr gut vertraut. Zu meinen Stärken gehören Geduld und Einfühlungsvermögen. Auch in stressigen Situationen bleibe ich ruhig.\n\nMein Ziel ist es, wieder als Pflegefachkraft zu arbeiten. Deshalb würde ich gern wissen, wie Sie mich bei der Anerkennung unterstützen können. Zurzeit bereite ich mich auf den Deutsch-Test für den Beruf B2 vor.\n\nÜber eine Einladung zu einem persönlichen Gespräch würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+    "id": "bk-bewerbung-lager",
+    "lv": "B1",
+    "t": "Bewerbung: Lagermitarbeiterin",
+    "s": "Die Firma „Logistik Elbe“ sucht: „Mitarbeiter/innen im Lager, Schichtdienst, Kommissionierung mit Scanner, Staplerschein von Vorteil. Bewerbung per E-Mail an Herrn Wendt“. Schreiben Sie eine Bewerbung (ca. 120 Wörter).",
+    "p": ["Wo haben Sie die Anzeige gefunden?", "Ihre Erfahrung im Lager", "Können Sie im Schichtdienst arbeiten?", "Wann können Sie anfangen?"],
+    "ru": "Напишите заявку на работу на складе: где нашли объявление, опыт работы, готовность к сменам, когда можете начать.",
+    "w": 120,
+    "rm": ["Sehr geehrter Herr Wendt,", "Auf … bin ich auf Ihre Stellenanzeige gestoßen.", "Zwei Jahre habe ich …", "Den Staplerschein habe ich …", "Ab … könnte ich bei Ihnen anfangen.", "Gern stehe ich Ihnen für weitere Fragen zur Verfügung."],
+    "m": "Betreff: Bewerbung als Lagermitarbeiterin\n\nSehr geehrter Herr Wendt,\n\nauf einem Jobportal bin ich auf Ihre Stellenanzeige gestoßen und möchte mich hiermit bewerben.\n\nZwei Jahre habe ich in einem Lager für Lebensmittel gearbeitet. Dort habe ich Waren angenommen, kontrolliert und mit dem Scanner kommissioniert. Den Staplerschein habe ich im letzten Jahr gemacht.\n\nSchichtdienst ist für mich kein Problem, weil meine Kinder schon groß sind. Ich arbeite genau und zuverlässig. Mit meinen Kollegen arbeite ich gern im Team.\n\nAb dem 1. Dezember könnte ich bei Ihnen anfangen. Gern stehe ich Ihnen für weitere Fragen zur Verfügung und freue mich auf eine Einladung zu einem Gespräch.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+    "id": "bk-bewerbung-hotel",
+    "lv": "B2",
+    "t": "Bewerbung: Rezeption im Hotel",
+    "s": "Das „Hotel am Elbufer“ sucht: „Mitarbeiter/in Rezeption, Früh- und Spätdienst, Check-in, Reservierungen, Beschwerden, Englisch- und weitere Fremdsprachenkenntnisse erwünscht. Bewerbung an Frau Lehmann“. Schreiben Sie eine Bewerbung (150–200 Wörter). Achten Sie darauf, nicht jeden Satz mit „Ich“ zu beginnen.",
+    "p": ["Warum passt die Stelle zu Ihnen?", "Ausbildung und Erfahrung (Präteritum)", "Sprachkenntnisse und Stärken", "Fragen zu den Arbeitszeiten"],
+    "ru": "Напишите заявку на работу на ресепшене (150–200 слов): почему подходит, образование и опыт (претеритум), языки и сильные стороны, вопрос о графике. Не начинайте каждое предложение с «Ich».",
+    "w": 150,
+    "rm": ["Sehr geehrte Frau Lehmann,", "Besonders interessant finde ich, dass …", "Nach meinem Studium arbeitete ich …", "Dank meiner Sprachkenntnisse …", "Neben Zuverlässigkeit zählt es zu meinen Stärken, dass …", "Gern würde ich noch erfahren, …", "Über eine Einladung … würde ich mich sehr freuen."],
+    "m": "Betreff: Bewerbung als Mitarbeiterin an der Rezeption\n\nSehr geehrte Frau Lehmann,\n\nmit großem Interesse habe ich Ihre Stellenanzeige gelesen. Besonders interessant finde ich, dass Sie Mitarbeiter mit mehreren Fremdsprachen suchen.\n\nNach meinem Studium der Touristik in Sankt Petersburg arbeitete ich sechs Jahre an der Rezeption eines großen Hotels. Dort war ich für den Check-in, Reservierungen und die Bearbeitung von Beschwerden zuständig. Seit einem Jahr lebe ich in Dresden und arbeite zurzeit in einem Café.\n\nDank meiner Sprachkenntnisse kann ich Gäste auf Russisch, Englisch und Deutsch betreuen. Neben Zuverlässigkeit zählt es zu meinen Stärken, dass ich auch mit unzufriedenen Gästen freundlich und geduldig bleibe.\n\nDa ich zwei Kinder habe, würde ich gern noch erfahren, wie die Früh- und Spätdienste verteilt werden und ob man Wünsche äußern kann.\n\nÜber eine Einladung zu einem persönlichen Gespräch würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  }
+]

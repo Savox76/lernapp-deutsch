@@ -1,0 +1,89 @@
+# M18b B2-Grammatik im Beruf: Lücken aus dem Abgleich mit dem Berufssprachkurs B2
+# Konjunktiv II Vergangenheit, indem, ohne zu / ohne dass, sodass / folglich, zum + Nomen, Vorgangs- und Zustandspassiv, Negation mit nicht
+# --- Konjunktiv II der Vergangenheit (Rat, Kritik, Bedauern) ---
+An deiner Stelle *hätte* ich die Reise storniert.|На твоём месте я бы отменила поездку.|B2|Konjunktiv II Vergangenheit: hätte + Partizip II am Ende.|Tourismus
+Du *hättest* die Reise rechtzeitig stornieren sollen.|Тебе следовало вовремя отменить поездку.|B2|Konjunktiv II Vergangenheit mit Modalverb: hätte + Infinitiv + sollen am Ende.|Tourismus
+Die Versicherung *wäre* für die Kosten aufgekommen.|Страховка покрыла бы расходы.|B2|Konjunktiv II Vergangenheit mit „sein“: wäre + Partizip II.|Tourismus
+Wenn ich das gewusst *hätte*, *wäre* ich früher gekommen.|Если бы я это знала, я бы пришла раньше.|B2|Konjunktiv II Vergangenheit: wenn-Satz zuerst, dann wäre + Partizip.|Arbeit
+Wir *hätten* das Material früher bestellen müssen.|Нам нужно было заказать материал раньше.|B2|Konjunktiv II Vergangenheit mit Modalverb: hätten … bestellen müssen.|Handwerk
+Sie *hätten* mich vorher informieren können.|Вы могли бы предупредить меня заранее.|B2|Konjunktiv II Vergangenheit: hätten + Infinitiv + können am Ende.|Arbeit
+Ohne deine Hilfe *hätte* ich die Prüfung nicht bestanden.|Без твоей помощи я бы не сдала экзамен.|B2|Konjunktiv II Vergangenheit: hätte … bestanden.|Bildung
+Wenn der Kunde angerufen *hätte*, *hätten* wir den Termin verschoben.|Если бы клиент позвонил, мы бы перенесли встречу.|B2|Konjunktiv II Vergangenheit im wenn-Satz und im Hauptsatz.|Arbeit
+Ich *hätte* gern länger im Hotel gearbeitet, aber der Vertrag *war* befristet.|Я бы с удовольствием дольше работала в отеле, но договор был срочным.|B2|Konjunktiv II Vergangenheit: Wunsch, der nicht passiert ist.|Tourismus
+Fast *wäre* die Lieferung zu spät gekommen.|Доставка чуть не опоздала.|B2|Konjunktiv II Vergangenheit mit „fast“: wäre … gekommen.|Lager
+Der Unfall *hätte* vermieden werden können.|Несчастного случая можно было избежать.|B2|Konjunktiv II Vergangenheit im Passiv mit Modalverb: hätte … werden können.|Sicherheit
+Da *hätten* Sie besser beim Chef nachfragen sollen.|Тут вам лучше было бы спросить у начальника.|B2|Konjunktiv II Vergangenheit: Ratschlag im Nachhinein.|Arbeit
+# --- indem (wie? auf welche Weise?) ---
+Man *spart* Zeit, indem man die Aufgaben am Morgen *plant*.|Время экономят, планируя задачи утром.|B2|indem = auf diese Weise; Verb am Ende.|Arbeit
+Indem wir die Abläufe *vereinfachen*, *senken* wir die Kosten.|Упрощая процессы, мы снижаем расходы.|B2|indem-Satz zuerst → Hauptsatz beginnt mit dem Verb.|Arbeit|Wir senken die Kosten, indem wir die Abläufe vereinfachen.
+Man *könnte* die Website interessanter machen, indem man mehr Fotos *zeigt*.|Сайт можно было бы сделать интереснее, показав больше фотографий.|B2|indem-Satz: Verb am Ende.|Handel
+Ich *verbessere* mein Deutsch, indem ich jeden Tag zehn Sätze *schreibe*.|Я улучшаю свой немецкий, каждый день записывая десять предложений.|B2|indem = wie? Verb am Ende.|Bildung
+Sie *beruhigte* den Kunden, indem sie ihm ruhig alles *erklärte*.|Она успокоила клиента, спокойно всё ему объяснив.|B2|indem im Präteritum: Verb am Ende.|Kunden
+Der Koch *verhindert* Fehler, indem er die Lieferung sofort *kontrolliert*.|Повар предотвращает ошибки, сразу проверяя поставку.|B2|indem-Satz: Verb am Ende.|Gastronomie
+# --- ohne zu / ohne dass ---
+Er *verließ* das Büro, ohne sich zu verabschieden.|Он ушёл из офиса, не попрощавшись.|B2|ohne … zu + Infinitiv: gleiche Person, Infinitiv am Ende.|Arbeit
+Sie *hat* den Vertrag unterschrieben, ohne ihn genau zu lesen.|Она подписала договор, не прочитав его внимательно.|B2|ohne … zu + Infinitiv am Ende.|Recht
+Der Text *muss* auf die Seite passen, ohne dass man scrollen *muss*.|Текст должен помещаться на странице так, чтобы не нужно было прокручивать.|B2|ohne dass: andere Person oder „man“; Verb am Ende.|IT
+Der Kollege *hat* die Schicht getauscht, ohne dass die Chefin davon *wusste*.|Коллега поменялся сменой, а начальница об этом не знала.|B2|ohne dass: zwei verschiedene Personen; Verb am Ende.|Arbeit
+Ohne lange zu überlegen, *nahm* sie die Stelle an.|Не раздумывая долго, она приняла предложение о работе.|B2|ohne … zu zuerst → Hauptsatz beginnt mit dem Verb; trennbar: „an“ am Ende.|Arbeit|Sie nahm die Stelle an, ohne lange zu überlegen.
+Man *kann* nicht einfach kündigen, ohne die Frist zu beachten.|Нельзя просто уволиться, не соблюдая срок.|B2|ohne … zu + Infinitiv am Ende.|Recht
+Die Ware *wurde* geliefert, ohne dass jemand die Menge *kontrollierte*.|Товар был доставлен, но никто не проверил количество.|B2|ohne dass + Präteritum; Hauptsatz im Passiv.|Lager
+# --- damit / um … zu / zum + Nomen (Zweck) ---
+Zum Rühren *nehme* ich einen Kochlöffel.|Для помешивания я беру поварёшку.|B2|zum + substantivierter Infinitiv = Zweck; auf Position 1 → Verb.|Gastronomie|Ich nehme zum Rühren einen Kochlöffel.
+Zum Schneiden *braucht* man ein scharfes Messer.|Для нарезки нужен острый нож.|B2|zum + Nomen (Zweck) auf Position 1 → Verb auf Platz 2.|Gastronomie|Man braucht zum Schneiden ein scharfes Messer.
+Zum Bohren *benutzt* der Handwerker eine Bohrmaschine.|Для сверления мастер использует дрель.|B2|zum + Nomen = wofür? Verb auf Platz 2.|Handwerk
+Wir *lüften* regelmäßig, damit sich kein Schimmel *bildet*.|Мы регулярно проветриваем, чтобы не образовывалась плесень.|B2|damit: andere Person/Sache im Nebensatz; Verb am Ende.|Wohnen
+Ich *schreibe* mir alles auf, um nichts zu vergessen.|Я всё записываю, чтобы ничего не забыть.|B1|um … zu: gleiche Person; Infinitiv am Ende.|Arbeit
+Damit die Gäste nicht warten *müssen*, *bereiten* wir das Frühstück früh vor.|Чтобы гостям не приходилось ждать, мы готовим завтрак рано.|B2|damit-Satz zuerst → Hauptsatz beginnt mit dem Verb; trennbar: „vor“ am Ende.|Gastronomie|Wir bereiten das Frühstück früh vor, damit die Gäste nicht warten müssen.
+Um Kosten zu sparen, *suchen* wir neue Büroräume.|Чтобы сэкономить расходы, мы ищем новые офисные помещения.|B2|um … zu zuerst → Hauptsatz beginnt mit dem Verb.|Arbeit|Wir suchen neue Büroräume, um Kosten zu sparen.
+# --- Folgen: sodass, folglich, infolgedessen, deshalb ---
+Die Maschine *fiel* aus, sodass die Produktion *stillstand*.|Машина вышла из строя, так что производство остановилось.|B2|sodass = Folge; Verb am Ende (stillstand = trennbar, zusammen).|Produktion
+Es *regnete* stark, sodass die Bauarbeiten unterbrochen werden *mussten*.|Шёл сильный дождь, так что строительные работы пришлось прервать.|B2|sodass + Passiv mit Modalverb: Modalverb ganz am Ende.|Handwerk
+Der Zug *hatte* Verspätung, folglich *kam* ich zu spät zum Termin.|Поезд опоздал, следовательно, я опоздала на встречу.|B2|folglich auf Position 1 im zweiten Satz → Verb direkt danach.|Verkehr
+Zwei Kollegen *waren* krank. Infolgedessen *mussten* wir Überstunden machen.|Два коллеги были больны. Вследствие этого нам пришлось работать сверхурочно.|B2|infolgedessen auf Position 1 → Verb auf Platz 2.|Arbeit
+Der Server *war* überlastet, sodass niemand auf die Daten zugreifen *konnte*.|Сервер был перегружен, так что никто не мог получить доступ к данным.|B2|sodass: Modalverb am Ende.|IT
+Die Preise *sind* gestiegen. Deshalb *kaufen* viele Kunden weniger.|Цены выросли. Поэтому многие клиенты покупают меньше.|B1|deshalb auf Position 1 → Verb auf Platz 2.|Handel
+# --- Vorgangspassiv Perfekt und Zustandspassiv ---
+Die Heizung *ist* gestern repariert worden.|Отопление вчера отремонтировали.|B2|Passiv Perfekt: ist + Partizip II + worden.|Handwerk
+Die Rechnung *ist* noch nicht bezahlt worden.|Счёт ещё не оплачен.|B2|Passiv Perfekt: ist … bezahlt worden.|Büro
+Alle Geräte *sind* überprüft worden.|Все устройства были проверены.|B2|Passiv Perfekt: sind … überprüft worden.|Sicherheit
+Die Maschine *ist* schon lange ausgeschaltet.|Машина уже давно выключена.|B2|Zustandspassiv: sein + Partizip II = Ergebnis.|Handwerk
+Die Tür *ist* abgeschlossen, du *brauchst* den Schlüssel.|Дверь заперта, тебе нужен ключ.|B2|Zustandspassiv: ist abgeschlossen = Zustand.|Wohnen
+Zuerst *wird* der Haupthahn zugedreht, dann *wird* das Rohr gewechselt.|Сначала перекрывают главный кран, затем меняют трубу.|B2|Vorgangspassiv Präsens: wird + Partizip II, Arbeitsablauf.|Handwerk
+Die Bestellung *wurde* gestern verschickt und *ist* heute schon angekommen.|Заказ отправили вчера, и он уже сегодня прибыл.|B2|Passiv Präteritum, danach Perfekt mit „sein“.|Handel
+Das Problem *ist* inzwischen gelöst.|Проблема тем временем решена.|B2|Zustandspassiv: ist gelöst = fertig.|Arbeit
+Der neue Kollege *wurde* vom ganzen Team herzlich begrüßt.|Новый коллега был тепло встречен всей командой.|B2|Passiv Präteritum: von + Dativ nennt die Person.|Team
+Die Mitarbeiter *wurden* über die neuen Regeln informiert.|Сотрудников проинформировали о новых правилах.|B2|Passiv Präteritum: wurden … informiert.|Arbeit
+# --- Negation: Wo steht „nicht“? ---
+Ich *kann* am Samstag leider nicht arbeiten.|К сожалению, в субботу я не могу работать.|B1|nicht vor dem Infinitiv am Ende.|Arbeit
+Am Montag *kann* ich leider nicht, weil ich einen Arzttermin *habe*.|В понедельник я, к сожалению, не могу, потому что у меня приём у врача.|B1|Zeit vorn → Verb auf Platz 2; nicht nach dem Subjekt.|Arbeit
+Dafür *bin* ich leider nicht zuständig.|За это я, к сожалению, не отвечаю.|B1|nicht vor dem Adjektiv.|Arbeit|Ich bin dafür leider nicht zuständig.
+Das Gerät *funktioniert* nicht.|Устройство не работает.|A2|nicht am Satzende, wenn es das ganze Verb verneint.|Technik
+Ich *habe* die E-Mail nicht bekommen.|Я не получила письмо.|A2|nicht vor dem Partizip am Ende.|Büro
+Wir *arbeiten* nicht am Wochenende, sondern nur unter der Woche.|Мы работаем не на выходных, а только в будни.|B1|nicht vor dem Satzteil, der verneint wird; sondern = Korrektur.|Arbeit
+Kein Mitarbeiter *darf* die Maschine ohne Einweisung bedienen.|Ни один сотрудник не имеет права работать на станке без инструктажа.|B2|kein vor dem Nomen; Infinitiv am Ende.|Sicherheit
+Niemand *hat* mir gesagt, dass der Termin verschoben *wurde*.|Никто не сказал мне, что встречу перенесли.|B2|niemand auf Position 1; dass-Satz im Passiv: wurde am Ende.|Arbeit
+Ich *habe* noch nie im Schichtdienst gearbeitet.|Я ещё никогда не работала посменно.|B1|noch nie vor dem Partizip am Ende.|Arbeit
+# --- Angaben im Satz (Mittelfeld) ---
+Die Spedition *bringt* die Möbel morgen wegen des Feiertags erst am Nachmittag.|Из-за праздника транспортная компания привезёт мебель завтра только после обеда.|B2|Reihenfolge der Angaben: wann – warum – wann genau.|Umzug
+Den Umzug *lassen* wir von einer Spedition machen.|Переезд мы поручим транспортной компании.|B2|Objekt auf Position 1; lassen + Infinitiv am Ende.|Umzug|Wir lassen den Umzug von einer Spedition machen.
+Aus Kostengründen *müssen* wir dringend neue Büroräume finden.|По финансовым причинам нам срочно нужно найти новые офисные помещения.|B2|Grund auf Position 1 → Modalverb auf Platz 2, Infinitiv am Ende.|Umzug|Wir müssen aus Kostengründen dringend neue Büroräume finden.
+Ich *beziehe* mich auf unser heutiges Telefongespräch.|Ссылаюсь на наш сегодняшний телефонный разговор.|B2|sich beziehen auf + Akkusativ.|Büro
+*Sind* Sie bezüglich des Termins flexibel?|Вы гибки в отношении даты?|B2|bezüglich + Genitiv; Ja/Nein-Frage: Verb auf Position 1.|Umzug
+Der Boden in der Kaffeeküche *bekommt* Risse.|На полу в кухне появляются трещины.|B1|Hauptsatz: Verb auf Platz 2.|Büro
+# --- je … desto ---
+Je öfter ich das Handy *ausschalte*, desto entspannter *lebe* ich.|Чем чаще я выключаю телефон, тем спокойнее я живу.|B2|je-Satz: Verb am Ende; desto + Komparativ → Verb → Subjekt.|Medien
+Je früher wir *bestellen*, desto günstiger *wird* das Material.|Чем раньше мы закажем, тем дешевле будет материал.|B2|je … desto: im desto-Teil steht das Verb direkt nach dem Komparativ.|Handwerk
+# --- Redemittel aus dem Berufsalltag ---
+*Können* Sie bitte die Lieferung prüfen? – Ja, das *erledige* ich sofort.|Не могли бы вы проверить поставку? – Да, сейчас сделаю.|B1|„das“ auf Position 1 → Verb auf Platz 2.|Arbeit
+Das *war* anders vereinbart, ich *hatte* zehn Kisten bestellt.|Договаривались иначе: я заказывала десять ящиков.|B2|Plusquamperfekt: hatte + Partizip II am Ende.|Gastronomie
+Ich *möchte* Sie auf ein Problem hinweisen.|Я хотела бы обратить ваше внимание на одну проблему.|B2|hinweisen auf + Akkusativ; trennbares Verb im Infinitiv zusammen am Ende.|Arbeit
+Die Arbeitszeiten *sollten* geändert werden.|Рабочее время следовало бы изменить.|B2|Passiv mit Modalverb: sollten … geändert werden.|Arbeit
+Der Vorteil davon *wäre*, dass wir weniger Fehler *machen*.|Преимущество этого было бы в том, что мы делаем меньше ошибок.|B2|Konjunktiv II: wäre; dass-Satz: Verb am Ende.|Arbeit
+Was hier ganz anders *ist* als zu Hause, *ist* die Pünktlichkeit.|Что здесь совсем иначе, чем дома, — это пунктуальность.|B2|was-Satz auf Position 1 → Verb vom Hauptsatz direkt danach.|Kultur
+An deutsches Essen *habe* ich mich schnell gewöhnt.|К немецкой еде я быстро привыкла.|B2|sich gewöhnen an + Akkusativ; Ergänzung auf Position 1 → Verb.|Kultur|Ich habe mich schnell an deutsches Essen gewöhnt.
+Womit ich gar nicht *zurechtkomme*, *ist* das Wetter.|С чем я совсем не справляюсь, так это с погодой.|B2|womit-Satz auf Position 1 → danach sofort das Verb.|Kultur
+Es *ist* eine Herausforderung, sich ständig weiterzubilden.|Постоянно повышать квалификацию — это вызов.|B2|zu-Infinitiv bei trennbaren Verben: weiter-zu-bilden.|Gesundheit
+Für meinen Beruf *ist* es wichtig, dass man mit Stress umgehen *kann*.|Для моей профессии важно уметь справляться со стрессом.|B2|„Für meinen Beruf“ auf Position 1 → Verb; dass-Satz: Modalverb am Ende.|Arbeit
+An Ihrem Unternehmen *reizt* mich besonders die internationale Arbeit.|В вашей компании меня особенно привлекает международная работа.|B2|Ergänzung auf Position 1 → Verb auf Platz 2, Subjekt am Ende.|Bewerbung
+Ich *bin* überzeugt, dass ich gut in Ihr Team *passe*.|Я уверена, что хорошо впишусь в вашу команду.|B2|dass-Satz: Verb am Ende.|Bewerbung

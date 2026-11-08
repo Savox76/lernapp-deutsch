@@ -1,0 +1,100 @@
+{
+  "lesen": [
+    {
+      "id": "dtbl2-01", "ex": ["DTB"],
+      "t": "Teil 2: Willkommensmappe – Arbeitszeit",
+      "anweisung": "Sie sind neu in der Firma und lesen die Willkommensmappe. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Вы новый сотрудник и читаете приветственную папку. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Arbeitszeit und Zeiterfassung", "text": "In unserem Haus gilt Gleitzeit. Die Kernarbeitszeit liegt montags bis donnerstags zwischen 9 und 15 Uhr, freitags zwischen 9 und 13 Uhr. In dieser Zeit müssen alle Beschäftigten anwesend sein. Außerhalb der Kernzeit können Sie Beginn und Ende Ihres Arbeitstages selbst bestimmen, frühestens ab 6:30 Uhr und spätestens bis 19 Uhr.\nIhre Arbeitszeit erfassen Sie mit Ihrem Mitarbeiterausweis am Terminal im Eingangsbereich. Bitte buchen Sie auch Pausen und Dienstgänge, damit Ihr Zeitkonto stimmt. Wer das Buchen vergisst, trägt die Zeiten bis spätestens Ende der Woche im Online-Portal nach.\nPlus- und Minusstunden werden auf einem Zeitkonto gesammelt. Am Monatsende dürfen höchstens 20 Plusstunden und 10 Minusstunden auf dem Konto stehen. Plusstunden können Sie nach Absprache mit Ihrer Teamleitung als ganze oder halbe freie Tage nehmen."}],
+      "fragen": [
+        {"q": "Am Freitag darf man schon um 13 Uhr nach Hause gehen.", "o": ["richtig","falsch"], "r": 0, "e": "Richtig: Freitags endet die Kernarbeitszeit um 13 Uhr. Danach kann man selbst entscheiden."},
+        {"q": "Wenn man vergessen hat, die Arbeitszeit zu buchen, …", "o": ["muss man die Teamleitung sofort informieren.", "kann man die Zeit bis Ende der Woche online eintragen.", "wird die Zeit nicht angerechnet."], "r": 1, "e": "„Wer das Buchen vergisst, trägt die Zeiten bis spätestens Ende der Woche im Online-Portal nach.“"},
+        {"q": "Plusstunden …", "o": ["werden am Monatsende ausgezahlt.", "kann man als freie Tage nehmen, wenn die Teamleitung zustimmt.", "dürfen unbegrenzt gesammelt werden."], "r": 1, "e": "„… nach Absprache mit Ihrer Teamleitung als ganze oder halbe freie Tage nehmen.“ Maximal 20 Plusstunden – also nicht unbegrenzt."}
+      ]
+    },
+    {
+      "id": "dtbl2-02", "ex": ["DTB"],
+      "t": "Teil 2: Hausordnung – Sicherheit in der Werkstatt",
+      "anweisung": "Sie lesen die Sicherheitsregeln Ihrer neuen Werkstatt. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте правила безопасности мастерской. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Sicherheitsregeln Werkstatt Halle 2", "text": "In der Werkstatt ist das Tragen von Sicherheitsschuhen und Schutzbrille für alle Personen Pflicht, auch für Besucher. Gehörschutz ist nur an den Maschinen mit dem blauen Schild vorgeschrieben.\nMaschinen dürfen nur von Beschäftigten bedient werden, die eine Einweisung durch den Werkstattleiter erhalten haben. Die Einweisung wird schriftlich bestätigt und muss jedes Jahr wiederholt werden.\nDefekte Werkzeuge sind sofort mit dem roten Etikett „Nicht benutzen“ zu kennzeichnen und im Werkstattbüro abzugeben. Eigene Reparaturen an elektrischen Geräten sind nicht gestattet.\nNach Schichtende ist der Arbeitsplatz aufzuräumen. Späne und Reste werden in die gekennzeichneten Behälter entsorgt. Die letzte Person schaltet die Hauptstromversorgung ab und trägt dies ins Schichtbuch ein."}],
+      "fragen": [
+        {"q": "Besucher brauchen in der Werkstatt keine Schutzbrille.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: Schuhe und Schutzbrille sind „für alle Personen Pflicht, auch für Besucher“."},
+        {"q": "Wenn ein Werkzeug kaputt ist, …", "o": ["repariert man es selbst, wenn man eingewiesen ist.", "markiert man es und bringt es ins Werkstattbüro.", "wirft man es in den Behälter für Reste."], "r": 1, "e": "„… mit dem roten Etikett … zu kennzeichnen und im Werkstattbüro abzugeben.“ Eigene Reparaturen sind verboten."},
+        {"q": "Die Einweisung für die Maschinen …", "o": ["gilt für immer.", "muss jährlich wiederholt werden.", "macht jeder Kollege selbst."], "r": 1, "e": "„… muss jedes Jahr wiederholt werden.“"}
+      ]
+    },
+    {
+      "id": "dtbl2-03", "ex": ["DTB"],
+      "t": "Teil 2: Mitteilung – Umzug der Abteilung",
+      "anweisung": "Sie lesen eine interne Mitteilung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте внутреннее сообщение. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Mitteilung an alle Beschäftigten der Buchhaltung", "text": "Liebe Kolleginnen und Kollegen,\nwie bereits angekündigt, zieht unsere Abteilung in das renovierte Gebäude C. Der Umzug findet am Freitag, dem 14. März, statt. An diesem Tag ist die Buchhaltung telefonisch nicht erreichbar. Dringende Anfragen leitet die Zentrale an Frau Hoffmann weiter, die von zu Hause arbeitet.\nBitte packen Sie Ihre persönlichen Unterlagen bis Donnerstagmittag in die Umzugskartons, die ab Montag im Flur bereitstehen. Beschriften Sie jeden Karton mit Ihrem Namen und der neuen Raumnummer. Computer und Telefone werden von der IT-Abteilung abgebaut und am neuen Arbeitsplatz angeschlossen – bitte nicht selbst ausstecken.\nAb Montag, dem 17. März, arbeiten wir im zweiten Stock von Gebäude C. Parkplätze gibt es direkt hinter dem Gebäude. Ihre Zugangskarten werden automatisch freigeschaltet.\nVielen Dank für Ihre Mithilfe!\nMarkus Engel, Abteilungsleitung"}],
+      "fragen": [
+        {"q": "Die Beschäftigten sollen ihre Computer selbst abbauen.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: „Computer und Telefone werden von der IT-Abteilung abgebaut … bitte nicht selbst ausstecken.“"},
+        {"q": "Am Umzugstag …", "o": ["arbeiten alle von zu Hause.", "kann man die Buchhaltung nicht anrufen.", "ist das Gebäude C geschlossen."], "r": 1, "e": "„An diesem Tag ist die Buchhaltung telefonisch nicht erreichbar.“ Nur Frau Hoffmann arbeitet von zu Hause."},
+        {"q": "Auf jeden Karton schreibt man …", "o": ["den Namen und die neue Raumnummer.", "den Inhalt und das Datum.", "die alte Raumnummer."], "r": 0, "e": "„Beschriften Sie jeden Karton mit Ihrem Namen und der neuen Raumnummer.“"}
+      ]
+    },
+    {
+      "id": "dtbl2-04", "ex": ["DTB"],
+      "t": "Teil 2: Regeln für Dienstreisen",
+      "anweisung": "Sie lesen die Richtlinie für Dienstreisen. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте правила служебных командировок. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Richtlinie Dienstreisen", "text": "Jede Dienstreise muss vorher von der direkten Führungskraft genehmigt werden. Den Antrag stellen Sie mindestens eine Woche vor Reisebeginn im Personalportal.\nFür Fahrten bis 300 Kilometer nutzen Sie bitte die Bahn in der 2. Klasse. Flüge sind nur bei längeren Strecken erlaubt und werden über das Reisebüro der Firma gebucht. Wer mit dem eigenen Auto fährt, erhält 30 Cent pro Kilometer, aber nur, wenn die Fahrt vorher genehmigt wurde.\nHotels buchen Sie selbst. Die Kosten pro Nacht dürfen in Großstädten 120 Euro und in anderen Orten 90 Euro nicht überschreiten. Für Verpflegung erhalten Sie eine Tagespauschale.\nAlle Belege reichen Sie spätestens einen Monat nach der Reise in der Buchhaltung ein. Später eingereichte Belege können nicht mehr erstattet werden."}],
+      "fragen": [
+        {"q": "Hotels werden vom Reisebüro der Firma gebucht.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: „Hotels buchen Sie selbst.“ Das Reisebüro bucht nur Flüge."},
+        {"q": "Für die Fahrt mit dem eigenen Auto bekommt man Geld, …", "o": ["wenn die Strecke länger als 300 Kilometer ist.", "wenn die Fahrt vorher genehmigt wurde.", "in jedem Fall."], "r": 1, "e": "„… aber nur, wenn die Fahrt vorher genehmigt wurde.“"},
+        {"q": "Belege …", "o": ["muss man innerhalb eines Monats abgeben.", "schickt man an das Reisebüro.", "braucht man nur für Flüge."], "r": 0, "e": "„… spätestens einen Monat nach der Reise in der Buchhaltung ein.“"}
+      ]
+    },
+    {
+      "id": "dtbl2-05", "ex": ["DTB"],
+      "t": "Teil 2: Information – Betriebliches Gesundheitsangebot",
+      "anweisung": "Sie lesen eine Information im Intranet. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте информацию во внутренней сети. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Fit im Job – unser neues Gesundheitsprogramm", "text": "Ab Oktober bieten wir allen Beschäftigten ein erweitertes Gesundheitsprogramm an. Jeden Dienstag und Donnerstag findet nach Feierabend ein Rückenkurs im Schulungsraum statt. Die Teilnahme ist kostenlos, die Kurszeit zählt aber nicht als Arbeitszeit.\nAußerdem können Sie einmal im Jahr während der Arbeitszeit an einem Gesundheitscheck beim Betriebsarzt teilnehmen. Dabei werden Blutdruck, Blutzucker und Sehstärke geprüft. Die Ergebnisse erhalten nur Sie persönlich, der Arbeitgeber wird nicht informiert.\nFür Mitglieder in einem Fitnessstudio zahlen wir einen Zuschuss von 25 Euro im Monat. Dafür reichen Sie einmal im Quartal eine Bescheinigung des Studios im Personalbüro ein.\nAnmeldungen für den Rückenkurs nimmt Herr Demir bis zum 20. September entgegen. Die Plätze sind auf 15 Personen pro Kurs begrenzt."}],
+      "fragen": [
+        {"q": "Der Rückenkurs findet während der Arbeitszeit statt.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: Der Kurs ist „nach Feierabend“ und „zählt … nicht als Arbeitszeit“."},
+        {"q": "Die Ergebnisse des Gesundheitschecks …", "o": ["bekommt die Personalabteilung.", "bekommt nur die Mitarbeiterin oder der Mitarbeiter selbst.", "werden im Intranet veröffentlicht."], "r": 1, "e": "„Die Ergebnisse erhalten nur Sie persönlich.“"},
+        {"q": "Um den Zuschuss für das Fitnessstudio zu bekommen, …", "o": ["muss man am Rückenkurs teilnehmen.", "gibt man alle drei Monate eine Bescheinigung ab.", "meldet man sich bei Herrn Demir an."], "r": 1, "e": "„… einmal im Quartal eine Bescheinigung“ – ein Quartal = drei Monate."}
+      ]
+    },
+    {
+      "id": "dtbl2-06", "ex": ["DTB"],
+      "t": "Teil 2: Anweisung – Umgang mit Kundendaten",
+      "anweisung": "Sie lesen eine Arbeitsanweisung zum Datenschutz. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте рабочую инструкцию по защите данных. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Arbeitsanweisung Datenschutz im Kundenservice", "text": "Kundendaten dürfen nur für den Zweck verwendet werden, für den sie erhoben wurden. Eine Weitergabe an andere Abteilungen ist nur erlaubt, wenn der Kunde zugestimmt hat.\nAm Telefon geben Sie Auskünfte erst, wenn der Anrufer Kundennummer und Geburtsdatum genannt hat. Fragen Angehörige nach Informationen, verweisen Sie sie höflich an den Kunden selbst.\nVerlassen Sie Ihren Arbeitsplatz, sperren Sie immer den Bildschirm – auch bei kurzen Pausen. Ausdrucke mit Kundendaten werden nicht in den normalen Papierkorb geworfen, sondern in die verschlossenen Datenschutzbehälter.\nBemerken Sie einen Datenschutzvorfall, zum Beispiel eine E-Mail an den falschen Empfänger, melden Sie dies sofort der Datenschutzbeauftragten. Der Vorfall muss innerhalb von 72 Stunden an die Behörde gemeldet werden."}],
+      "fragen": [
+        {"q": "Wenn die Ehefrau eines Kunden anruft, darf man ihr Auskunft geben.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: Angehörige werden „höflich an den Kunden selbst“ verwiesen."},
+        {"q": "Wer eine E-Mail an den falschen Kunden geschickt hat, …", "o": ["löscht sie sofort und sagt nichts.", "informiert sofort die Datenschutzbeauftragte.", "meldet es innerhalb von 72 Stunden selbst der Behörde."], "r": 1, "e": "„… melden Sie dies sofort der Datenschutzbeauftragten.“ Die Meldung an die Behörde macht nicht der Mitarbeiter selbst."},
+        {"q": "Papiere mit Kundendaten …", "o": ["kommen in einen verschlossenen Behälter.", "darf man mit nach Hause nehmen.", "wirft man in den Papierkorb."], "r": 0, "e": "„… in die verschlossenen Datenschutzbehälter.“"}
+      ]
+    },
+    {
+      "id": "dtbl2-07", "ex": ["DTB"],
+      "t": "Teil 2: Kita im Betrieb",
+      "anweisung": "Sie lesen eine Information über die Betriebskita. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте информацию о детском саде при предприятии. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Unsere Betriebskita „Sonnenschein“", "text": "Für Kinder unserer Beschäftigten im Alter von einem bis sechs Jahren gibt es auf dem Firmengelände eine Kita mit drei Gruppen. Die Kita ist von 6 bis 18 Uhr geöffnet und passt damit auch zu den Schichtzeiten in der Produktion.\nDie Plätze werden nach Wartelisteneingang vergeben. Alleinerziehende werden bevorzugt. Bitte melden Sie Ihr Kind möglichst schon während der Schwangerschaft an.\nDer Elternbeitrag richtet sich nach dem Einkommen. Mittagessen und Getränke sind im Beitrag enthalten. In den drei Wochen im August, in denen die Produktion ruht, bleibt auch die Kita geschlossen.\nWeitere Fragen beantwortet Frau Lindner im Personalbüro, montags bis mittwochs von 8 bis 12 Uhr."}],
+      "fragen": [
+        {"q": "Das Essen muss man zusätzlich bezahlen.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: „Mittagessen und Getränke sind im Beitrag enthalten.“"},
+        {"q": "Einen Platz bekommen zuerst …", "o": ["Eltern, die in der Produktion arbeiten.", "Eltern, die allein für ihr Kind sorgen.", "Eltern mit hohem Einkommen."], "r": 1, "e": "„Alleinerziehende werden bevorzugt.“ Alleinerziehend = man sorgt allein für das Kind."},
+        {"q": "Im August …", "o": ["ist die Kita drei Wochen zu.", "hat die Kita längere Öffnungszeiten.", "gibt es nur eine Gruppe."], "r": 0, "e": "„… drei Wochen im August … bleibt auch die Kita geschlossen.“"}
+      ]
+    },
+    {
+      "id": "dtbl2-08", "ex": ["DTB"],
+      "t": "Teil 2: Lager – Regeln für die Warenannahme",
+      "anweisung": "Sie arbeiten im Lager und lesen die Regeln für die Warenannahme. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Вы работаете на складе и читаете правила приёмки товара. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Warenannahme – so gehen Sie vor", "text": "Lieferungen werden nur zwischen 7 und 14 Uhr an Rampe 3 angenommen. Kommt ein Fahrer später, informieren Sie die Schichtleitung. Sie entscheidet, ob die Ware noch angenommen wird.\nPrüfen Sie zuerst, ob die Anzahl der Paletten mit dem Lieferschein übereinstimmt. Kontrollieren Sie dann die Verpackung auf Schäden. Beschädigte Ware wird nicht abgelehnt, sondern angenommen und auf dem Lieferschein mit „unter Vorbehalt“ vermerkt. Machen Sie zusätzlich Fotos mit dem Scanner.\nKühlware muss innerhalb von 20 Minuten in den Kühlraum gebracht werden. Messen Sie die Temperatur bei der Annahme und tragen Sie den Wert in die Liste ein.\nErst wenn alle Prüfungen abgeschlossen sind, unterschreiben Sie den Lieferschein."}],
+      "fragen": [
+        {"q": "Beschädigte Ware schickt man sofort mit dem Fahrer zurück.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: Sie „wird nicht abgelehnt, sondern angenommen“ und mit „unter Vorbehalt“ vermerkt."},
+        {"q": "Wenn ein Lkw um 15 Uhr ankommt, …", "o": ["darf er nicht abladen.", "fragt man die Schichtleitung.", "lädt man an einer anderen Rampe ab."], "r": 1, "e": "„Kommt ein Fahrer später, informieren Sie die Schichtleitung. Sie entscheidet …“"},
+        {"q": "Den Lieferschein unterschreibt man …", "o": ["sofort, wenn der Fahrer kommt.", "nachdem alles kontrolliert wurde.", "erst am Ende der Schicht."], "r": 1, "e": "„Erst wenn alle Prüfungen abgeschlossen sind, unterschreiben Sie den Lieferschein.“"}
+      ]
+    }
+  ]
+}

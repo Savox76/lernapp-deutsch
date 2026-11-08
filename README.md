@@ -22,7 +22,7 @@ automatisch beim nächsten Öffnen. Die App muss nicht neu installiert werden.
 | Bereich | Inhalt |
 |---|---|
 | Heute | **Grundkurs von vorn** (13 Stufen von „Verb auf Platz 2“ bis Passiv, nächste Stufe ab 80 %), Tagesmix (20 Aufgaben gemischt), Tagesziel, Serie |
-| Prüfung | Umschaltbar **DTB B2** / **DTZ**. DTB: E-Mail beantworten, Telefonnotiz, Forumsbeitrag, Sprachbausteine, Vortrag, Prüferfragen, Diskussion, Lösung finden, Hören im Beruf. DTZ: Brief, Brief-Lückentext, Lesen (Wegweiser, Anzeigen), Sich vorstellen, Erzählen, Gemeinsam planen, Hören. Mit Timer, Redemitteln, Musterlösungen zum Anhören und **Punkterechner** (bestanden ja/nein). |
+| Prüfung | Umschaltbar **DTB B2** / **DTZ**. DTB: Lesen im Beruf (Teil 1–4), E-Mail beantworten, Telefonnotiz, Forumsbeitrag, Sprachbausteine, Vortrag, Prüferfragen, Diskussion, Lösung finden, Hören im Beruf. DTZ: Brief, Brief-Lückentext, Lesen (Wegweiser, Anzeigen), Sich vorstellen, Erzählen, Gemeinsam planen, Hören. Mit Timer, Redemitteln, Musterlösungen zum Anhören und **Punkterechner** (bestanden ja/nein). |
 | Wörter | Karteikasten mit Wiederholung nach 1, 3, 7, 14, 30 … Tagen, Quiz: Bedeutung, der/die/das, Lückentext, Wortart |
 | Satzbau | Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat (hören und bauen) |
 | Statistik | Aufgaben, richtig/falsch und Minuten pro Tag, Diagramm 14 Tage, Übungsarten, häufigste Fehler, **Bericht per WhatsApp senden** |
@@ -70,7 +70,7 @@ Typen und Felder:
 | `fragen` | `t, fragen[{q, m, ru}]` |
 | `diskussion`, `loesung` | `t, thema, situation, optionen?, rm[], schritte[{wer, sagt, o[], r, e}], m` |
 | `hoeren` | `t, situation?, text, fragen[{q,o,r} oder {q, rf:true/false}]` |
-| `lesen` | `t, anweisung, texte[{k,text}], fragen[{q,o,r}]` |
+| `lesen` | `t, anweisung, ru?, texte[{k,text}], fragen[{q,o,r,e?}]` – `e` = Erklärung nach der Antwort (Schlüsselstelle im Text) |
 
 `r` ist die Nummer der richtigen Option (ab 0). Die App mischt die Optionen selbst.
 

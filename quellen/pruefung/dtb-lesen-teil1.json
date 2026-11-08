@@ -1,0 +1,142 @@
+{
+  "lesen": [
+    {
+      "id": "dtbl1-01", "ex": ["DTB"],
+      "t": "Teil 1: Artikel für Kollegen – Weiterbildung",
+      "anweisung": "Sie lesen in einem Online-Magazin für Beschäftigte kurze Artikel und möchten sie Kollegen schicken. Welcher Artikel (a–h) passt zu welcher Person (1–5)? Jeden Artikel können Sie nur einmal wählen. Drei Artikel bleiben übrig.",
+      "ru": "Прочитайте короткие статьи. Какая статья (a–h) подходит какому человеку (1–5)? Каждую статью можно выбрать только один раз, три статьи останутся лишними.",
+      "texte": [
+        {"k": "a", "text": "Lernen am Feierabend – aber richtig. Wer neben dem Job einen Abschluss nachholen will, braucht einen Plan. Unsere Expertin erklärt, wie man Abendkurse, Familie und Schichtdienst unter einen Hut bekommt."},
+        {"k": "b", "text": "Bildungsurlaub: Fünf Tage frei zum Lernen. In vielen Bundesländern haben Beschäftigte Anspruch auf bezahlte Freistellung für Weiterbildung. Wir zeigen, wie man den Antrag stellt und welche Fristen gelten."},
+        {"k": "c", "text": "Vom Helfer zur Fachkraft. Viele Betriebe suchen dringend Fachkräfte. Wer schon Berufserfahrung hat, kann den Berufsabschluss oft in einer verkürzten Prüfung nachholen – sogar ohne klassische Ausbildung."},
+        {"k": "d", "text": "Englisch im Büro: Telefonieren ohne Angst. Kurze Übungen für jeden Tag helfen, internationale Kunden am Telefon sicher zu begrüßen und Fragen zu klären."},
+        {"k": "e", "text": "Ausländischer Abschluss – was ist er in Deutschland wert? Die Anerkennungsstellen prüfen, ob eine Ausbildung aus dem Ausland einem deutschen Beruf entspricht. Wir erklären die Schritte und die Kosten."},
+        {"k": "f", "text": "Digital fit in 30 Tagen. Tabellen, Videokonferenzen, sichere Passwörter: Ein kostenloser Online-Kurs der Arbeitsagentur vermittelt die wichtigsten Computerkenntnisse für den Berufsalltag."},
+        {"k": "g", "text": "Führung will gelernt sein. Plötzlich Teamleiterin – und nun? Ein neues Seminar bereitet Beschäftigte darauf vor, Gespräche mit Mitarbeitern zu führen und Konflikte im Team zu lösen."},
+        {"k": "h", "text": "Weiterbildung bezahlt der Chef? Nicht immer. Ob der Arbeitgeber Kurskosten übernehmen muss und wann man das Geld zurückzahlen muss, wenn man kündigt, hängt vom Vertrag ab."}
+      ],
+      "fragen": [
+        {"q": "Swetlana arbeitet seit sechs Jahren als Hilfskraft im Lager und möchte endlich einen anerkannten Berufsabschluss.", "o": ["a","b","c","d","e","f","g","h"], "r": 2, "e": "c: „Wer schon Berufserfahrung hat, kann den Berufsabschluss … nachholen.“ Swetlana hat Erfahrung, aber keinen Abschluss."},
+        {"q": "Marek ist Elektriker aus Polen. Er möchte wissen, ob sein Zeugnis hier gilt.", "o": ["a","b","c","d","e","f","g","h"], "r": 4, "e": "e: Es geht um die Anerkennung von Abschlüssen aus dem Ausland."},
+        {"q": "Frau Kaya leitet ab nächstem Monat ein Team von acht Personen.", "o": ["a","b","c","d","e","f","g","h"], "r": 6, "e": "g: „Plötzlich Teamleiterin“ – das Seminar bereitet auf die neue Rolle vor."},
+        {"q": "Herr Neumann hat einen Kurs gemacht, den die Firma bezahlt hat. Jetzt will er kündigen und hat Angst, dass er das Geld zurückgeben muss.", "o": ["a","b","c","d","e","f","g","h"], "r": 7, "e": "h: Der Artikel erklärt, wann man Kurskosten nach einer Kündigung zurückzahlen muss."},
+        {"q": "Anna möchte eine Woche lang ein Seminar besuchen und dafür nicht ihre Urlaubstage nehmen.", "o": ["a","b","c","d","e","f","g","h"], "r": 1, "e": "b: Bildungsurlaub = bezahlte Freistellung zum Lernen, man braucht keinen normalen Urlaub."}
+      ]
+    },
+    {
+      "id": "dtbl1-02", "ex": ["DTB"],
+      "t": "Teil 1: Gesundheit am Arbeitsplatz",
+      "anweisung": "Sie lesen im Newsletter Ihrer Krankenkasse kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Drei Texte bleiben übrig.",
+      "ru": "Прочитайте короткие тексты из рассылки больничной кассы. Какой текст (a–h) подходит какому человеку (1–5)? Три текста лишние.",
+      "texte": [
+        {"k": "a", "text": "Rückenschmerzen im Lager? Schweres Heben gehört für viele zum Alltag. Mit der richtigen Technik – Knie beugen, Last nah am Körper – lassen sich Schäden vermeiden. Unsere Physiotherapeutin zeigt drei einfache Übungen."},
+        {"k": "b", "text": "Nachtschicht und Schlaf. Wer nachts arbeitet, schläft tagsüber oft schlecht. Dunkle Vorhänge, feste Schlafzeiten und leichtes Essen in der Nacht helfen dem Körper, sich umzustellen."},
+        {"k": "c", "text": "Bildschirmarbeit: Augen entspannen. Alle 20 Minuten für 20 Sekunden in die Ferne schauen – diese einfache Regel schützt vor trockenen und müden Augen."},
+        {"k": "d", "text": "Gesund essen in der Kantine. Unsere Ernährungsberaterin erklärt, wie man auch in der Mittagspause schnell und ausgewogen isst – ohne Kalorienzählen."},
+        {"k": "e", "text": "Krankmeldung: Was gilt seit der elektronischen AU? Der Arzt schickt die Bescheinigung direkt an die Krankenkasse. Trotzdem müssen Beschäftigte ihren Arbeitgeber am ersten Tag selbst informieren."},
+        {"k": "f", "text": "Stress im Kundenkontakt. Unfreundliche Kunden belasten. Ein kostenloses Online-Training zeigt, wie man ruhig bleibt und schwierige Gespräche professionell beendet."},
+        {"k": "g", "text": "Zurück nach langer Krankheit. Beim „Hamburger Modell“ steigen Beschäftigte nach einer langen Krankheit mit wenigen Stunden pro Tag wieder ein und steigern die Arbeitszeit langsam."},
+        {"k": "h", "text": "Mit dem Rad zur Arbeit. Wer regelmäßig radelt, bleibt fit und spart Geld. Manche Arbeitgeber zahlen sogar einen Zuschuss für ein Dienstrad."}
+      ],
+      "fragen": [
+        {"q": "Ali ist seit vier Monaten krank. Er möchte bald wieder arbeiten, aber noch nicht voll.", "o": ["a","b","c","d","e","f","g","h"], "r": 6, "e": "g: Wiedereinstieg mit wenigen Stunden nach langer Krankheit."},
+        {"q": "Frau Petrova arbeitet an der Kasse im Supermarkt und ärgert sich oft über unhöfliche Kunden.", "o": ["a","b","c","d","e","f","g","h"], "r": 5, "e": "f: Training für Stress mit unfreundlichen Kunden."},
+        {"q": "Jonas fährt seit Kurzem Nachtschicht und kann am Tag kaum einschlafen.", "o": ["a","b","c","d","e","f","g","h"], "r": 1, "e": "b: Tipps zum Schlafen am Tag bei Nachtarbeit."},
+        {"q": "Lena ist heute krank und weiß nicht, ob sie ihrem Chef noch einen gelben Schein bringen muss.", "o": ["a","b","c","d","e","f","g","h"], "r": 4, "e": "e: Elektronische Krankmeldung – die Bescheinigung geht direkt an die Krankenkasse, den Chef informiert man selbst."},
+        {"q": "Herr Sommer sitzt acht Stunden am Computer. Abends brennen ihm die Augen.", "o": ["a","b","c","d","e","f","g","h"], "r": 2, "e": "c: Bildschirmarbeit und müde, trockene Augen."}
+      ]
+    },
+    {
+      "id": "dtbl1-03", "ex": ["DTB"],
+      "t": "Teil 1: Ratgeber Bewerbung und Jobwechsel",
+      "anweisung": "Sie lesen auf einem Karriereportal kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Drei Texte bleiben übrig.",
+      "ru": "Прочитайте короткие тексты на карьерном портале. Какой текст (a–h) подходит какому человеку (1–5)? Три текста лишние.",
+      "texte": [
+        {"k": "a", "text": "Lücke im Lebenslauf – kein Drama. Elternzeit, Pflege von Angehörigen oder Arbeitslosigkeit: Wer ehrlich erklärt, was er in dieser Zeit gemacht hat, überzeugt Personaler eher als mit Ausreden."},
+        {"k": "b", "text": "Das erste Gehaltsgespräch. Informieren Sie sich vorher über übliche Gehälter in Ihrer Branche und nennen Sie eine konkrete Zahl. Wer zu bescheiden ist, verschenkt Geld."},
+        {"k": "c", "text": "Probearbeiten: Muss ich dafür bezahlt werden? Ein kurzer Probetag ist oft unbezahlt. Arbeitet man aber richtig mit, steht einem Lohn zu. Wir erklären die Regeln."},
+        {"k": "d", "text": "Videointerview: So wirken Sie souverän. Ruhiger Hintergrund, Kamera auf Augenhöhe, Technik vorher testen – mit diesen Tipps klappt das Gespräch am Bildschirm."},
+        {"k": "e", "text": "Kündigung richtig schreiben. Eine Kündigung muss schriftlich auf Papier und mit Unterschrift erfolgen. Eine E-Mail oder WhatsApp-Nachricht reicht nicht."},
+        {"k": "f", "text": "Arbeitszeugnis verstehen. Hinter freundlichen Formulierungen verstecken sich oft Noten. „Stets zu unserer vollsten Zufriedenheit“ bedeutet zum Beispiel „sehr gut“."},
+        {"k": "g", "text": "Minijob neben der Hauptstelle. Wer zusätzlich Geld verdienen will, darf meistens einen Minijob annehmen. Der Arbeitgeber sollte aber informiert werden."},
+        {"k": "h", "text": "Initiativbewerbung: Wenn keine Stelle ausgeschrieben ist. Rufen Sie vorher an, fragen Sie nach dem richtigen Ansprechpartner und erklären Sie genau, was Sie dem Betrieb bieten können."}
+      ],
+      "fragen": [
+        {"q": "Tatjana hat ihrem Chef per E-Mail gekündigt. Ihre Kollegin sagt, das sei nicht gültig.", "o": ["a","b","c","d","e","f","g","h"], "r": 4, "e": "e: Eine Kündigung muss schriftlich mit Unterschrift sein, eine E-Mail reicht nicht."},
+        {"q": "Paul möchte unbedingt in einer bestimmten Firma arbeiten, aber dort gibt es gerade keine freie Stelle.", "o": ["a","b","c","d","e","f","g","h"], "r": 7, "e": "h: Initiativbewerbung = Bewerbung ohne ausgeschriebene Stelle."},
+        {"q": "Frau Bauer war drei Jahre zu Hause, um ihre Mutter zu pflegen. Jetzt bewirbt sie sich wieder.", "o": ["a","b","c","d","e","f","g","h"], "r": 0, "e": "a: Lücke im Lebenslauf, z. B. durch Pflege von Angehörigen."},
+        {"q": "Kemal hat sein Zeugnis bekommen. Alles klingt nett, aber er weiß nicht, ob es gut ist.", "o": ["a","b","c","d","e","f","g","h"], "r": 5, "e": "f: Hinter den Formulierungen im Arbeitszeugnis stehen Noten."},
+        {"q": "Irina soll morgen einen ganzen Tag in einer Bäckerei mitarbeiten, bevor sie den Vertrag bekommt.", "o": ["a","b","c","d","e","f","g","h"], "r": 2, "e": "c: Probearbeiten – wann es bezahlt werden muss."}
+      ]
+    },
+    {
+      "id": "dtbl1-04", "ex": ["DTB"],
+      "t": "Teil 1: Neues aus der Pflege",
+      "anweisung": "Sie arbeiten in einer Pflegeeinrichtung und lesen in einer Fachzeitschrift kurze Meldungen. Welche Meldung (a–h) passt zu welcher Person (1–5)? Drei Meldungen bleiben übrig.",
+      "ru": "Вы работаете в учреждении по уходу и читаете короткие сообщения в профессиональном журнале. Какое сообщение (a–h) подходит какому человеку (1–5)? Три сообщения лишние.",
+      "texte": [
+        {"k": "a", "text": "Dokumentation per Tablet. Immer mehr Heime ersetzen Papierakten durch Tablets. Pflegekräfte sparen dadurch bis zu 30 Minuten pro Schicht – wenn sie gut geschult werden."},
+        {"k": "b", "text": "Demenz verstehen. Ein Tagesseminar zeigt, wie man mit Menschen mit Demenz spricht, wenn sie unruhig werden oder nichts mehr verstehen."},
+        {"k": "c", "text": "Pflegehelfer werden in einem Jahr. Die einjährige Ausbildung zur Pflegefachhilfe ist ein guter Einstieg – auch für Quereinsteiger mit Sprachniveau B1."},
+        {"k": "d", "text": "Rückenschonend arbeiten. Mit Hilfsmitteln wie Gleitmatten und Liftern lassen sich Bewohner sicher umlagern, ohne dass die Pflegekraft schwer heben muss."},
+        {"k": "e", "text": "Dienstplan per App. In einer neuen App können Beschäftigte Schichten tauschen und Wünsche eintragen. Die Leitung muss den Tausch nur noch bestätigen."},
+        {"k": "f", "text": "Fachsprache Pflege: Kurs für Zugewanderte. Pflegekräfte aus dem Ausland lernen in zwölf Wochen die Wörter für Übergaben, Pflegeberichte und Gespräche mit Ärzten."},
+        {"k": "g", "text": "Hygiene im Winter. Grippe und Magen-Darm-Infekte verbreiten sich in Heimen schnell. Händedesinfektion und Schutzkleidung sind jetzt besonders wichtig."},
+        {"k": "h", "text": "Gespräche mit Angehörigen. Wenn Familien unzufrieden sind, hilft ein ruhiges Gespräch an einem festen Termin mehr als ein schneller Wortwechsel im Flur."}
+      ],
+      "fragen": [
+        {"q": "Natalia war in der Ukraine Krankenschwester. Bei der Übergabe versteht sie viele Fachwörter noch nicht.", "o": ["a","b","c","d","e","f","g","h"], "r": 5, "e": "f: Kurs Fachsprache Pflege für Zugewanderte – Übergaben und Pflegeberichte."},
+        {"q": "Herr Wolf möchte am Samstag nicht arbeiten und sucht jemanden, der mit ihm die Schicht tauscht.", "o": ["a","b","c","d","e","f","g","h"], "r": 4, "e": "e: In der App kann man Schichten tauschen."},
+        {"q": "Eine Bewohnerin wird abends oft unruhig und ruft nach ihrer Mutter. Pflegerin Sara weiß nicht, wie sie reagieren soll.", "o": ["a","b","c","d","e","f","g","h"], "r": 1, "e": "b: Umgang mit Menschen mit Demenz, wenn sie unruhig werden."},
+        {"q": "Die Tochter eines Bewohners beschwert sich ständig bei Pfleger Tim, wenn sie ihn auf dem Gang trifft.", "o": ["a","b","c","d","e","f","g","h"], "r": 7, "e": "h: Gespräche mit Angehörigen besser an einem festen Termin führen."},
+        {"q": "Frau Lange hat seit Wochen Rückenschmerzen, weil sie Bewohner oft allein im Bett umdreht.", "o": ["a","b","c","d","e","f","g","h"], "r": 3, "e": "d: Hilfsmittel zum Umlagern, ohne schwer zu heben."}
+      ]
+    },
+    {
+      "id": "dtbl1-05", "ex": ["DTB"],
+      "t": "Teil 1: Tipps für den Arbeitsalltag",
+      "anweisung": "Sie lesen in der Mitarbeiterzeitung kurze Tipps. Welcher Tipp (a–h) passt zu welcher Person (1–5)? Drei Tipps bleiben übrig.",
+      "ru": "Прочитайте короткие советы в газете для сотрудников. Какой совет (a–h) подходит какому человеку (1–5)? Три совета лишние.",
+      "texte": [
+        {"k": "a", "text": "Überstunden im Blick. Notieren Sie Ihre Arbeitszeit jeden Tag. Nur so können Sie später nachweisen, wie viele Überstunden Sie gemacht haben."},
+        {"k": "b", "text": "Der Betriebsrat hilft. Bei Streit über Urlaub, Schichten oder Abmahnungen können Sie sich vertraulich an den Betriebsrat wenden – auch ohne Gewerkschaftsmitglied zu sein."},
+        {"k": "c", "text": "Weniger E-Mails, mehr Ruhe. Legen Sie feste Zeiten fest, zu denen Sie Ihr Postfach öffnen. Dazwischen arbeiten Sie konzentriert an einer Aufgabe."},
+        {"k": "d", "text": "Urlaub richtig planen. Tragen Sie Ihre Urlaubswünsche früh in den Kalender ein. Wer Kinder im Schulalter hat, bekommt in den Ferien oft Vorrang."},
+        {"k": "e", "text": "Fahrtkosten sparen. Das Jobticket gilt in Bussen und Bahnen der ganzen Region. Die Firma übernimmt die Hälfte der Kosten – Anmeldung im Personalbüro."},
+        {"k": "f", "text": "Neue Kollegen gut einarbeiten. Eine Checkliste für die ersten Tage hilft: Wer zeigt was? Wo liegen die Unterlagen? Wer ist Ansprechpartner?"},
+        {"k": "g", "text": "Arbeitsunfall – was nun? Auch kleine Verletzungen müssen ins Verbandbuch eingetragen werden. Nur dann zahlt die Berufsgenossenschaft, falls später Probleme auftreten."},
+        {"k": "h", "text": "Pausen sind Pflicht. Wer mehr als sechs Stunden arbeitet, muss mindestens 30 Minuten Pause machen. Durcharbeiten, um früher zu gehen, ist nicht erlaubt."}
+      ],
+      "fragen": [
+        {"q": "Dmitri hat sich gestern beim Auspacken leicht in die Hand geschnitten und nichts gesagt.", "o": ["a","b","c","d","e","f","g","h"], "r": 6, "e": "g: Auch kleine Verletzungen ins Verbandbuch eintragen."},
+        {"q": "Frau Roth fährt jeden Tag mit der S-Bahn zur Arbeit und findet das Monatsticket zu teuer.", "o": ["a","b","c","d","e","f","g","h"], "r": 4, "e": "e: Jobticket – die Firma zahlt die Hälfte."},
+        {"q": "Ben möchte ohne Mittagspause arbeiten, damit er um 14 Uhr nach Hause gehen kann.", "o": ["a","b","c","d","e","f","g","h"], "r": 7, "e": "h: Nach sechs Stunden Arbeit ist eine Pause Pflicht, Durcharbeiten ist nicht erlaubt."},
+        {"q": "Olga bekommt ab Montag eine neue Kollegin, die sie einarbeiten soll.", "o": ["a","b","c","d","e","f","g","h"], "r": 5, "e": "f: Checkliste zur Einarbeitung neuer Kollegen."},
+        {"q": "Herr Yilmaz hat eine Abmahnung bekommen, die er ungerecht findet. Er möchte mit jemandem darüber sprechen.", "o": ["a","b","c","d","e","f","g","h"], "r": 1, "e": "b: Bei Abmahnungen hilft der Betriebsrat vertraulich."}
+      ]
+    },
+    {
+      "id": "dtbl1-06", "ex": ["DTB"],
+      "t": "Teil 1: Selbstständig machen",
+      "anweisung": "Sie lesen in einem Wirtschaftsmagazin kurze Artikel. Welcher Artikel (a–h) passt zu welcher Person (1–5)? Drei Artikel bleiben übrig.",
+      "ru": "Прочитайте короткие статьи в экономическом журнале. Какая статья (a–h) подходит какому человеку (1–5)? Три статьи лишние.",
+      "texte": [
+        {"k": "a", "text": "Gründen mit wenig Geld. Ein Gründungszuschuss der Arbeitsagentur hilft Arbeitslosen in den ersten Monaten. Voraussetzung ist ein überzeugender Businessplan."},
+        {"k": "b", "text": "Das eigene Café. Wer Gastronomie plant, braucht eine Gaststättenerlaubnis, eine Hygieneschulung und viel Geduld mit den Behörden."},
+        {"k": "c", "text": "Steuern für Anfänger. Kleinunternehmer mit wenig Umsatz müssen keine Umsatzsteuer berechnen. Eine Steuererklärung brauchen sie trotzdem."},
+        {"k": "d", "text": "Kunden über soziale Medien finden. Mit regelmäßigen Beiträgen und echten Fotos gewinnen kleine Betriebe Vertrauen – auch ohne großes Werbebudget."},
+        {"k": "e", "text": "Teilzeit gründen. Viele starten ihr Unternehmen neben dem Job. Wichtig: Der Arbeitgeber muss in den meisten Fällen zustimmen."},
+        {"k": "f", "text": "Krankenversicherung für Selbstständige. Wer selbstständig ist, muss sich selbst versichern. Die Beiträge hängen vom Einkommen ab und können am Anfang hoch sein."},
+        {"k": "g", "text": "Handwerk mit Meister? Für manche Handwerke braucht man einen Meisterbrief, für andere nicht. Die Handwerkskammer berät kostenlos."},
+        {"k": "h", "text": "Gemeinsam gründen. Zwei Gründer bringen doppelt so viel Wissen mit – aber auch doppelt so viele Meinungen. Ein klarer Vertrag schützt die Freundschaft."}
+      ],
+      "fragen": [
+        {"q": "Svetlana möchte neben ihrer festen Stelle am Wochenende Torten verkaufen.", "o": ["a","b","c","d","e","f","g","h"], "r": 4, "e": "e: Gründen neben dem Job – der Arbeitgeber muss meist zustimmen."},
+        {"q": "Herr Brandt ist seit drei Monaten arbeitslos und möchte eine eigene Firma gründen, hat aber kaum Ersparnisse.", "o": ["a","b","c","d","e","f","g","h"], "r": 0, "e": "a: Gründungszuschuss für Arbeitslose."},
+        {"q": "Ahmed ist Fliesenleger und fragt sich, ob er ohne Meisterbrief einen eigenen Betrieb eröffnen darf.", "o": ["a","b","c","d","e","f","g","h"], "r": 6, "e": "g: Meisterbrief im Handwerk – Beratung bei der Handwerkskammer."},
+        {"q": "Lisa und ihr bester Freund wollen zusammen eine Fahrradwerkstatt eröffnen.", "o": ["a","b","c","d","e","f","g","h"], "r": 7, "e": "h: Gemeinsam gründen, mit einem klaren Vertrag."},
+        {"q": "Frau Klein hat einen kleinen Nähservice. Sie verdient wenig und will wissen, ob sie Umsatzsteuer zahlen muss.", "o": ["a","b","c","d","e","f","g","h"], "r": 2, "e": "c: Kleinunternehmer mit wenig Umsatz zahlen keine Umsatzsteuer."}
+      ]
+    }
+  ]
+}

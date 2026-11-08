@@ -1,0 +1,130 @@
+{
+  "lesen": [
+    {
+      "id": "dtbl3-01", "ex": ["DTB"],
+      "t": "Teil 3: Forum – Urlaub und Urlaubsanspruch",
+      "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+      "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит к какому вопросу? Если ни один не подходит, выберите X.",
+      "texte": [
+        {"k": "A – Birgit", "text": "Im ersten halben Jahr hast du noch nicht den vollen Urlaub. Aber für jeden ganzen Monat bekommst du ein Zwölftel. Wenn du schon im dritten Monat bist, kannst du also ein paar Tage nehmen, wenn dein Chef einverstanden ist."},
+        {"k": "B – Murat", "text": "Wenn du im Urlaub krank wirst, geh sofort zum Arzt und lass dich krankschreiben. Die Krankheitstage werden dann nicht als Urlaub gezählt. Du bekommst sie später zurück."},
+        {"k": "C – Elena", "text": "Bei uns gibt es eine Urlaubssperre im Dezember, weil wir im Handel das Weihnachtsgeschäft haben. Das ist ärgerlich, aber erlaubt, wenn es betriebliche Gründe gibt."},
+        {"k": "D – Thomas", "text": "Resturlaub verfällt normalerweise am 31. März des nächsten Jahres. Aber nur, wenn der Arbeitgeber dich vorher darauf hingewiesen hat. Hat er das nicht gemacht, bleibt der Urlaub bestehen."},
+        {"k": "E – Sandra", "text": "Ich finde Urlaub im Winter sowieso besser. Die Flüge sind billiger und es ist nicht so voll."},
+        {"k": "F – Jens", "text": "Urlaubsgeld ist eine freiwillige Leistung, außer es steht im Tarifvertrag oder im Arbeitsvertrag. Schau mal genau in deinen Vertrag."},
+        {"k": "G – Aylin", "text": "Wer zuerst einträgt, bekommt den Urlaub? So einfach ist das nicht. Der Arbeitgeber muss auch soziale Gründe beachten, zum Beispiel Eltern mit Schulkindern in den Ferien."}
+      ],
+      "fragen": [
+        {"q": "1 – Pavel: Ich habe letztes Jahr nicht alle Urlaubstage genommen, weil so viel zu tun war. Jetzt sagt die Personalabteilung, die Tage sind weg. Stimmt das?", "o": ["A","B","C","D","E","F","G","X"], "r": 3, "e": "D: Resturlaub verfällt nur, wenn der Arbeitgeber vorher darauf hingewiesen hat."},
+        {"q": "2 – Nina: Ich hatte eine Woche Urlaub und lag davon vier Tage mit Fieber im Bett. Sind die Tage jetzt einfach verloren?", "o": ["A","B","C","D","E","F","G","X"], "r": 1, "e": "B: Krank im Urlaub – mit Krankschreibung bekommt man die Tage zurück."},
+        {"q": "3 – Oleg: Ich arbeite seit drei Monaten in der Firma. Darf ich im Sommer schon Urlaub machen?", "o": ["A","B","C","D","E","F","G","X"], "r": 0, "e": "A: Im ersten halben Jahr gibt es für jeden ganzen Monat ein Zwölftel des Urlaubs."},
+        {"q": "4 – Maria: Mein Kollege hat zwei Wochen mehr Urlaub als ich, obwohl wir die gleiche Arbeit machen. Ist das erlaubt?", "o": ["A","B","C","D","E","F","G","X"], "r": 7, "e": "X: Keine Antwort spricht über unterschiedlich viele Urlaubstage bei Kollegen. F geht um Urlaubsgeld, nicht um Urlaubstage."}
+      ]
+    },
+    {
+      "id": "dtbl3-02", "ex": ["DTB"],
+      "t": "Teil 3: Forum – Homeoffice",
+      "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+      "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+      "texte": [
+        {"k": "A – Kerstin", "text": "Einen gesetzlichen Anspruch auf Homeoffice gibt es in Deutschland nicht. Viele Firmen haben aber eine Betriebsvereinbarung. Frag doch beim Betriebsrat nach."},
+        {"k": "B – Rafael", "text": "Wenn du zu Hause arbeitest, kannst du einen Teil der Kosten bei der Steuer angeben. Es gibt eine Pauschale pro Arbeitstag zu Hause. Heb dir die Nachweise auf."},
+        {"k": "C – Monika", "text": "Mich nervt im Homeoffice am meisten, dass die Kinder ständig stören. Ich arbeite deshalb lieber im Büro."},
+        {"k": "D – Felix", "text": "Auch zu Hause gilt das Arbeitszeitgesetz. Nach Feierabend musst du keine E-Mails lesen. Sprich mit deiner Chefin und vereinbart feste Zeiten, in denen du erreichbar bist."},
+        {"k": "E – Ilona", "text": "Bei uns stellt die Firma Laptop, Bildschirm und Headset. Private Geräte darf man aus Datenschutzgründen nicht benutzen."},
+        {"k": "F – Sven", "text": "Ein Unfall im Homeoffice kann ein Arbeitsunfall sein, zum Beispiel, wenn du auf dem Weg zum Drucker stolperst. Auf dem Weg in die Küche zum Kaffeeholen ist man inzwischen meist auch versichert."},
+        {"k": "G – Dana", "text": "Mir hilft eine feste Routine: morgens anziehen wie fürs Büro, Pausen draußen machen und abends den Laptop wegräumen."}
+      ],
+      "fragen": [
+        {"q": "1 – Sergej: Meine Chefin schreibt mir oft um 21 Uhr noch Nachrichten und erwartet eine Antwort. Muss ich das machen?", "o": ["A","B","C","D","E","F","G","X"], "r": 3, "e": "D: Auch zu Hause gilt das Arbeitszeitgesetz, nach Feierabend muss man keine Mails lesen."},
+        {"q": "2 – Clara: Ich arbeite zwei Tage pro Woche zu Hause. Kann ich dafür etwas von der Steuer zurückbekommen?", "o": ["A","B","C","D","E","F","G","X"], "r": 1, "e": "B: Pauschale pro Arbeitstag zu Hause bei der Steuer."},
+        {"q": "3 – Herr Nowak: Ich möchte gern einen Tag pro Woche zu Hause arbeiten, aber mein Chef sagt Nein. Kann er das einfach ablehnen?", "o": ["A","B","C","D","E","F","G","X"], "r": 0, "e": "A: Es gibt keinen gesetzlichen Anspruch auf Homeoffice, aber vielleicht eine Betriebsvereinbarung."},
+        {"q": "4 – Jana: Zu Hause fehlt mir der Kontakt zu den Kollegen. Ich fühle mich oft allein. Was macht ihr dagegen?", "o": ["A","B","C","D","E","F","G","X"], "r": 7, "e": "X: Keine Antwort spricht über Einsamkeit oder Kontakt zu Kollegen. G gibt Tipps zur Routine, nicht zum Kontakt."}
+      ]
+    },
+    {
+      "id": "dtbl3-03", "ex": ["DTB"],
+      "t": "Teil 3: Forum – Probezeit",
+      "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+      "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+      "texte": [
+        {"k": "A – Peter", "text": "In der Probezeit kann man mit zwei Wochen Frist kündigen, und zwar beide Seiten. Einen Grund muss der Arbeitgeber nicht nennen."},
+        {"k": "B – Svetlana", "text": "Die Probezeit darf höchstens sechs Monate dauern. Eine Verlängerung ist im Prinzip nicht möglich. Manchmal schlagen Firmen stattdessen einen Aufhebungsvertrag mit späterem Ende vor."},
+        {"k": "C – Tobias", "text": "Auch in der Probezeit hast du Anspruch auf Lohnfortzahlung bei Krankheit – aber erst, wenn du vier Wochen im Betrieb bist."},
+        {"k": "D – Hanna", "text": "Ich habe in der Probezeit immer extra Stunden gemacht, um einen guten Eindruck zu machen. Heute würde ich das nicht mehr tun."},
+        {"k": "E – Roman", "text": "Frag nach einem Feedbackgespräch nach drei Monaten. Dann weißt du, was gut läuft und was du verbessern solltest, bevor die Probezeit endet."},
+        {"k": "F – Ute", "text": "Urlaub in der Probezeit ist nicht verboten. Viele Chefs sehen es aber nicht gern. Sprich lieber früh darüber, vor allem bei einer Familienfeier."},
+        {"k": "G – Bilal", "text": "Wenn du schwanger bist, gilt der besondere Kündigungsschutz schon in der Probezeit. Informiere deinen Arbeitgeber am besten schriftlich."}
+      ],
+      "fragen": [
+        {"q": "1 – Ewa: Meine Probezeit läuft noch zwei Monate. Ich weiß nicht, ob mein Chef mit mir zufrieden ist. Was kann ich tun?", "o": ["A","B","C","D","E","F","G","X"], "r": 4, "e": "E: Um ein Feedbackgespräch bitten."},
+        {"q": "2 – Karim: Mein Arbeitgeber will meine Probezeit um drei Monate verlängern, weil er noch unsicher ist. Geht das?", "o": ["A","B","C","D","E","F","G","X"], "r": 1, "e": "B: Höchstens sechs Monate, eine Verlängerung ist im Prinzip nicht möglich."},
+        {"q": "3 – Lea: Meine Schwester heiratet im Mai, und ich bin dann noch in der Probezeit. Darf ich freinehmen?", "o": ["A","B","C","D","E","F","G","X"], "r": 5, "e": "F: Urlaub in der Probezeit ist nicht verboten, früh darüber sprechen – „Familienfeier“."},
+        {"q": "4 – Andrej: Ich habe nach drei Wochen gemerkt, dass der Job nichts für mich ist. Wie schnell kann ich gehen?", "o": ["A","B","C","D","E","F","G","X"], "r": 0, "e": "A: In der Probezeit können beide Seiten mit zwei Wochen Frist kündigen."}
+      ]
+    },
+    {
+      "id": "dtbl3-04", "ex": ["DTB"],
+      "t": "Teil 3: Forum – Weiterbildung und Sprachkurs",
+      "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+      "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+      "texte": [
+        {"k": "A – Galina", "text": "Ich habe einen Berufssprachkurs B2 gemacht. Der war für mich kostenlos, weil ich arbeitssuchend gemeldet war. Wer arbeitet und mehr verdient, zahlt einen kleinen Eigenanteil."},
+        {"k": "B – Heiko", "text": "Wenn du beim Lesen schnell bist, aber beim Schreiben unsicher, dann schreib jeden Tag zehn Sätze über deinen Arbeitstag. Lass sie von jemandem korrigieren."},
+        {"k": "C – Marta", "text": "Die Prüfung kann man wiederholen, so oft man will. Man muss nur die Gebühr noch einmal bezahlen, wenn der Kurs vorbei ist."},
+        {"k": "D – Uwe", "text": "Abends nach der Arbeit noch zum Kurs? Das schaffe ich nicht. Ich lerne lieber am Wochenende."},
+        {"k": "E – Nadja", "text": "Bei Online-Kursen musst du sehr diszipliniert sein. Mir hat geholfen, mich mit einer Lernpartnerin zu verabreden – jeden Dienstag eine Stunde per Video."},
+        {"k": "F – Klaus", "text": "Für das Sprechen in der Prüfung ist es wichtig, dass du nicht auswendig lernst, sondern frei sprichst. Übe mit Bildern und erzähle, was du siehst."},
+        {"k": "G – Ines", "text": "Ein Zertifikat B2 hilft dir auch bei der Anerkennung deines Berufs. Manche Berufe, zum Beispiel in der Pflege, verlangen genau dieses Niveau."}
+      ],
+      "fragen": [
+        {"q": "1 – Tamara: Ich bin Krankenschwester aus Kasachstan. Welches Deutschniveau brauche ich, damit mein Beruf anerkannt wird?", "o": ["A","B","C","D","E","F","G","X"], "r": 6, "e": "G: Manche Berufe, z. B. in der Pflege, verlangen B2 für die Anerkennung."},
+        {"q": "2 – Ivan: Ich habe einen Online-Kurs gekauft, aber nach zwei Wochen lerne ich schon nicht mehr. Wie bleibt ihr motiviert?", "o": ["A","B","C","D","E","F","G","X"], "r": 4, "e": "E: Disziplin bei Online-Kursen – feste Termine mit einer Lernpartnerin."},
+        {"q": "3 – Olena: Beim Lesen und Hören bin ich gut, aber meine Briefe sind voller Fehler. Habt ihr einen Tipp?", "o": ["A","B","C","D","E","F","G","X"], "r": 1, "e": "B: Schnell beim Lesen, unsicher beim Schreiben → jeden Tag Sätze schreiben und korrigieren lassen."},
+        {"q": "4 – Mehmet: Weiß jemand, ob mein Chef mir für die Prüfungstage freigeben muss?", "o": ["A","B","C","D","E","F","G","X"], "r": 7, "e": "X: Keine Antwort spricht über freie Tage für die Prüfung."}
+      ]
+    },
+    {
+      "id": "dtbl3-05", "ex": ["DTB"],
+      "t": "Teil 3: Forum – Ärger mit Kollegen",
+      "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+      "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+      "texte": [
+        {"k": "A – Bettina", "text": "Sprich zuerst direkt mit der Kollegin, unter vier Augen und ruhig. Sag, was dich stört, und mach einen Vorschlag. Erst wenn das nichts bringt, gehst du zur Teamleitung."},
+        {"k": "B – Juri", "text": "Wenn jemand immer deine Ideen als seine eigenen präsentiert, schick deine Vorschläge per E-Mail an das ganze Team. Dann ist klar, von wem sie kommen."},
+        {"k": "C – Petra", "text": "Laute Telefonate im Großraumbüro sind ein Klassiker. Bei uns gibt es dafür jetzt kleine Telefonräume. Vielleicht kannst du das bei der nächsten Teamsitzung vorschlagen."},
+        {"k": "D – Marco", "text": "Ich hatte auch mal einen schwierigen Chef. Am Ende habe ich die Abteilung gewechselt und es nie bereut."},
+        {"k": "E – Sophie", "text": "Bei Mobbing solltest du ein Tagebuch führen: Datum, was passiert ist, wer dabei war. Damit kannst du zum Betriebsrat oder zur Beratungsstelle gehen."},
+        {"k": "F – Lars", "text": "Wenn Aufgaben ungerecht verteilt sind, schreib eine Woche lang auf, was du alles erledigst. Mit dieser Liste kannst du sachlich mit deiner Chefin reden."},
+        {"k": "G – Fatma", "text": "Ein kleiner Gruß am Morgen, ein Kaffee zusammen – oft verbessert sich die Stimmung schon dadurch."}
+      ],
+      "fragen": [
+        {"q": "1 – Alina: Eine Kollegin kommt jeden Tag zu spät, und ich muss ihre Arbeit mitmachen. Soll ich gleich zum Chef gehen?", "o": ["A","B","C","D","E","F","G","X"], "r": 0, "e": "A: Zuerst direkt mit der Kollegin sprechen, erst danach zur Teamleitung."},
+        {"q": "2 – Robert: Seit Monaten lachen zwei Kollegen über mich und verstecken meine Sachen. Ich weiß nicht mehr weiter.", "o": ["A","B","C","D","E","F","G","X"], "r": 4, "e": "E: Das ist Mobbing – Tagebuch führen und zum Betriebsrat gehen."},
+        {"q": "3 – Vera: Ich bekomme immer die unangenehmen Aufgaben, meine Kollegen die interessanten. Wie spreche ich das an?", "o": ["A","B","C","D","E","F","G","X"], "r": 5, "e": "F: Ungerechte Verteilung – eine Woche lang aufschreiben und sachlich mit der Chefin sprechen."},
+        {"q": "4 – Timo: Mein Kollege präsentiert in Besprechungen meine Ideen, als wären es seine.", "o": ["A","B","C","D","E","F","G","X"], "r": 1, "e": "B: Vorschläge per E-Mail an das ganze Team schicken."}
+      ]
+    },
+    {
+      "id": "dtbl3-06", "ex": ["DTB"],
+      "t": "Teil 3: Forum – Gehalt und Lohnabrechnung",
+      "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+      "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+      "texte": [
+        {"k": "A – Holger", "text": "Nachtzuschläge sind bis zu einer bestimmten Höhe steuerfrei. Deshalb lohnt sich Nachtarbeit oft mehr, als man auf den ersten Blick denkt. Schau in deine Abrechnung unter „Zuschläge“."},
+        {"k": "B – Diana", "text": "Wenn du von Steuerklasse 1 in Steuerklasse 4 oder 3 wechselst, ändert sich dein Netto. Nach der Hochzeit lohnt es sich, das mit dem Finanzamt zu klären."},
+        {"k": "C – Konstantin", "text": "Der Mindestlohn gilt auch für Minijobs und Aushilfen. Wenn du weniger bekommst, kannst du das Geld nachfordern – auch rückwirkend."},
+        {"k": "D – Anke", "text": "Das 13. Gehalt ist keine Pflicht. Es gibt es nur, wenn es im Vertrag oder Tarifvertrag steht."},
+        {"k": "E – Sami", "text": "Ich habe mein Gehalt einmal zu spät bekommen. Das war ärgerlich, aber es kam dann doch."},
+        {"k": "F – Ralf", "text": "Ob dein Kollege mehr verdient, darfst du ihn ruhig fragen. Über das Gehalt zu sprechen ist erlaubt, auch wenn manche Verträge etwas anderes sagen."},
+        {"k": "G – Larissa", "text": "Die Lohnabrechnung muss dir der Arbeitgeber in Textform geben. Digital ist das erlaubt. Wenn du kein Online-Portal nutzen kannst, frag nach einer Papierversion."}
+      ],
+      "fragen": [
+        {"q": "1 – Marina: Ich arbeite als Aushilfe im Restaurant und bekomme 9 Euro pro Stunde. Ist das normal?", "o": ["A","B","C","D","E","F","G","X"], "r": 2, "e": "C: Der Mindestlohn gilt auch für Aushilfen, man kann das Geld nachfordern."},
+        {"q": "2 – Herr Popov: Ich habe im Sommer geheiratet. Seitdem ist mein Nettolohn anders. Warum?", "o": ["A","B","C","D","E","F","G","X"], "r": 1, "e": "B: Nach der Hochzeit ändert sich die Steuerklasse und damit das Netto."},
+        {"q": "3 – Svenja: Meine Firma schickt die Lohnabrechnung nur noch online. Ich habe aber keinen Computer. Was soll ich tun?", "o": ["A","B","C","D","E","F","G","X"], "r": 6, "e": "G: Digital ist erlaubt, man kann aber nach einer Papierversion fragen."},
+        {"q": "4 – Igor: Im Vertrag steht, dass ich mit Kollegen nicht über mein Gehalt reden darf. Muss ich mich daran halten?", "o": ["A","B","C","D","E","F","G","X"], "r": 5, "e": "F: Über das Gehalt zu sprechen ist erlaubt, auch wenn manche Verträge etwas anderes sagen."}
+      ]
+    }
+  ]
+}

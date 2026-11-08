@@ -1,0 +1,119 @@
+# M18a Brief-Baukasten: Bausteine für Anfrage, Beschwerde, Bewerbung (B1–B2)
+# Schwerpunkt: Satz nicht mit „ich“ beginnen, Nebensatz vorn, Konjunktiv II, indirekte Frage, dass-Satz, Passiv
+# --- Anfrage: Wo habe ich die Anzeige gefunden? ---
+Im Internet *bin* ich auf Ihre Anzeige gestoßen.|В интернете я наткнулась на ваше объявление.|B1|Ort auf Position 1 → Verb auf Platz 2, dann „ich“.|Brief|Ich bin im Internet auf Ihre Anzeige gestoßen.
+In der Zeitung *habe* ich Ihre Anzeige gelesen.|В газете я прочитала ваше объявление.|B1|Ort auf Position 1 → Verb auf Platz 2.|Brief|Ich habe Ihre Anzeige in der Zeitung gelesen.
+Mit großem Interesse *habe* ich Ihre Anzeige gelesen.|С большим интересом я прочитала ваше объявление.|B1|„Mit großem Interesse“ auf Position 1 → Verb auf Platz 2.|Brief|Ich habe Ihre Anzeige mit großem Interesse gelesen.
+Auf Ihrer Website *ist* mir Ihr Angebot aufgefallen.|На вашем сайте мне бросилось в глаза ваше предложение.|B1|auffallen: Perfekt mit „sein“; Ort vorn → Verb auf Platz 2.|Brief
+Gestern *fiel* mir Ihre Anzeige in der Stadtzeitung auf.|Вчера мне попалось на глаза ваше объявление в городской газете.|B2|Präteritum im Brief; trennbares Verb: „auf“ am Ende.|Brief
+Ihre Anzeige *hat* sofort mein Interesse geweckt.|Ваше объявление сразу вызвало мой интерес.|B1|Perfekt: „hat“ auf Platz 2, „geweckt“ am Ende.|Brief
+Mein Interesse *wurde* durch Ihre Anzeige geweckt.|Мой интерес был вызван вашим объявлением.|B2|Passiv Präteritum: wurde + Partizip II am Ende.|Brief
+Eine Freundin *hat* mir Ihre Anzeige gezeigt.|Подруга показала мне ваше объявление.|A2|Perfekt: Hilfsverb Platz 2, Partizip am Ende.|Brief
+# --- Anfrage: Warum bin ich interessiert? ---
+Da ich gern *tanze*, *möchte* ich mich zu Ihrem Tanzkurs anmelden.|Так как я люблю танцевать, я хотела бы записаться на ваш курс танцев.|B1|Nebensatz mit „da“ zuerst → Hauptsatz beginnt mit dem Verb.|Brief|Ich möchte mich zu Ihrem Tanzkurs anmelden, da ich gern tanze.
+Ich *tanze* sehr gern, deshalb *interessiert* mich Ihr Angebot.|Я очень люблю танцевать, поэтому меня интересует ваше предложение.|B1|deshalb auf Position 1 → Verb direkt danach.|Brief
+Ich *lerne* seit einem Jahr Deutsch. Aus diesem Grund *suche* ich einen Kurs.|Я учу немецкий уже год. Поэтому я ищу курс.|B1|„Aus diesem Grund“ = Position 1 → Verb auf Platz 2.|Brief
+Weil ich im Schichtdienst *arbeite*, *brauche* ich flexible Kurszeiten.|Так как я работаю посменно, мне нужно гибкое время занятий.|B1|weil-Satz zuerst → Hauptsatz beginnt mit dem Verb.|Brief|Ich brauche flexible Kurszeiten, weil ich im Schichtdienst arbeite.
+Da ich in zwei Monaten die Prüfung ablegen *möchte*, *brauche* ich einen Intensivkurs.|Так как через два месяца я хочу сдать экзамен, мне нужен интенсивный курс.|B2|Nebensatz zuerst: Modalverb am Ende, dann sofort das Verb vom Hauptsatz.|Brief|Ich brauche einen Intensivkurs, da ich in zwei Monaten die Prüfung ablegen möchte.
+Ich *möchte* in zwei Monaten die Prüfung ablegen. Deshalb *brauche* ich einen Intensivkurs.|Я хочу через два месяца сдать экзамен. Поэтому мне нужен интенсивный курс.|B1|deshalb auf Position 1 → Verb, dann Subjekt.|Brief
+Schon seit meiner Kindheit *interessiere* ich mich für Technik.|Ещё с детства я интересуюсь техникой.|B1|Zeitangabe auf Position 1 → Verb auf Platz 2.|Brief|Ich interessiere mich schon seit meiner Kindheit für Technik.
+Ich *war* von Ihrem Angebot sofort begeistert.|Я сразу была в восторге от вашего предложения.|B1|begeistert sein von + Dativ.|Brief
+# --- Anfrage: Warum schreibe ich? ---
+Bevor ich mich *anmelde*, *möchte* ich Ihnen noch einige Fragen stellen.|Прежде чем записаться, я хотела бы задать вам ещё несколько вопросов.|B1|bevor-Satz zuerst → trennbares Verb am Ende zusammen; danach das Verb.|Brief|Ich möchte Ihnen noch einige Fragen stellen, bevor ich mich anmelde.
+Ich *würde* Ihnen gern noch einige Fragen stellen.|Я бы хотела задать вам ещё несколько вопросов.|B1|Konjunktiv II: würde + Infinitiv am Ende.|Brief
+Ich *würde* gern Näheres erfahren und *hätte* einige Fragen an Sie.|Я хотела бы узнать подробнее, и у меня есть несколько вопросов к вам.|B2|Konjunktiv II: würde … erfahren, hätte = höflich.|Brief
+Zu Ihrem Angebot *habe* ich noch einige Fragen.|По вашему предложению у меня есть ещё несколько вопросов.|A2|„Zu Ihrem Angebot“ auf Position 1 → Verb auf Platz 2.|Brief|Ich habe noch einige Fragen zu Ihrem Angebot.
+# --- Anfrage: Fragen formulieren (indirekte Frage, Konjunktiv II) ---
+Ich *möchte* gern wissen, wann der nächste Kurs *beginnt*.|Я хотела бы узнать, когда начинается следующий курс.|B1|indirekte Frage mit wann: Verb am Ende.|Brief
+*Könnten* Sie mir bitte mitteilen, ob Sie auch Onlinekurse *anbieten*?|Не могли бы вы сообщить, предлагаете ли вы также онлайн-курсы?|B1|indirekte Frage mit ob: Verb am Ende; „Könnten“ = höflich.|Brief
+Es *wäre* für mich wichtig zu wissen, wie viel der Kurs *kostet*.|Для меня было бы важно знать, сколько стоит курс.|B2|indirekte Frage mit wie viel: Verb am Ende.|Brief
+Außerdem *wüsste* ich gern, ob man jederzeit einsteigen *kann*.|Кроме того, я хотела бы знать, можно ли начать в любое время.|B2|„Außerdem“ auf Position 1 → Verb; ob-Satz: Modalverb am Ende.|Brief
+Des Weiteren *interessiert* mich, wie groß die Gruppen *sind*.|Кроме того, меня интересует, насколько большие группы.|B2|indirekte Frage mit wie: Verb am Ende.|Brief
+Weiterhin *möchte* ich gern erfahren, wo der Unterricht *stattfindet*.|Также я хотела бы узнать, где проходят занятия.|B1|wo-Satz: trennbares Verb am Ende zusammengeschrieben.|Brief
+Da ich nur abends Zeit *habe*, *möchte* ich wissen, ob es auch Abendkurse *gibt*.|Так как у меня есть время только вечером, я хотела бы узнать, есть ли вечерние курсы.|B2|da-Satz zuerst → Verb; ob-Satz: Verb am Ende.|Brief
+*Gibt* es auch Einzelunterricht?|Есть ли также индивидуальные занятия?|A2|Ja/Nein-Frage: Verb auf Position 1.|Brief
+Wie hoch *wäre* der monatliche Beitrag?|Каким был бы ежемесячный взнос?|B1|W-Frage mit Konjunktiv II: wäre auf Platz 2.|Brief
+*Könnte* ich vorher eine Probestunde machen?|Могла бы я сначала посетить пробное занятие?|B1|Höfliche Frage: Konjunktiv II auf Position 1.|Brief
+Ich *wäre* Ihnen dankbar, wenn Sie mir die Kurszeiten schicken *könnten*.|Я была бы вам благодарна, если бы вы прислали мне расписание занятий.|B2|Konjunktiv II im Haupt- und Nebensatz; wenn-Satz: Verb am Ende.|Brief
+# --- Anfrage: Dank und Schluss ---
+Vielen Dank im Voraus für die Beantwortung meiner Fragen.|Заранее большое спасибо за ответы на мои вопросы.|A2|Feste Formel ohne Verb.|Brief
+Für eine rasche Antwort *wäre* ich Ihnen sehr dankbar.|Я была бы вам очень благодарна за быстрый ответ.|B2|„Für eine rasche Antwort“ auf Position 1 → wäre auf Platz 2.|Brief|Ich wäre Ihnen für eine rasche Antwort sehr dankbar.
+Über eine baldige Antwort *würde* ich mich sehr freuen.|Я была бы очень рада скорому ответу.|B1|sich freuen über + Akkusativ; Konjunktiv II: würde … freuen.|Brief|Ich würde mich über eine baldige Antwort sehr freuen.
+Ich *hoffe*, dass Sie meine Fragen bald beantworten *können*.|Надеюсь, что вы скоро сможете ответить на мои вопросы.|B1|dass-Satz: Modalverb ganz am Ende.|Brief
+Unter meiner Handynummer *bin* ich jederzeit erreichbar.|По моему мобильному номеру я доступна в любое время.|B1|Angabe auf Position 1 → Verb auf Platz 2.|Brief|Ich bin unter meiner Handynummer jederzeit erreichbar.
+Falls Sie Fragen *haben*, *können* Sie mich gern anrufen.|Если у вас есть вопросы, можете мне позвонить.|B1|falls-Satz zuerst → Hauptsatz beginnt mit dem Verb.|Brief|Sie können mich gern anrufen, falls Sie Fragen haben.
+# --- Beschwerde: Was stand in der Anzeige, was war wirklich? ---
+Leider *musste* ich feststellen, dass das Zimmer nicht der Beschreibung *entsprach*.|К сожалению, я была вынуждена констатировать, что номер не соответствовал описанию.|B2|„Leider“ auf Position 1 → Verb; dass-Satz: Verb am Ende.|Brief|Ich musste leider feststellen, dass das Zimmer nicht der Beschreibung entsprach.
+In der Anzeige *stand*, dass die Wohnungen gut ausgestattet *sind*.|В объявлении было написано, что квартиры хорошо оборудованы.|B1|Ort auf Position 1 → Verb; dass-Satz: Verb am Ende.|Brief
+Die Anzeige *versprach* kleine Gruppen. Tatsächlich *saßen* wir zu dreißig im Raum.|Объявление обещало маленькие группы. На самом деле нас в классе было тридцать человек.|B2|Präteritum; „Tatsächlich“ auf Position 1 → Verb auf Platz 2.|Brief
+Zu meiner großen Enttäuschung *funktionierte* das Gerät nicht.|К моему большому разочарованию, устройство не работало.|B2|Angabe auf Position 1 → Verb auf Platz 2.|Brief|Das Gerät funktionierte zu meiner großen Enttäuschung nicht.
+Beim Auspacken *habe* ich festgestellt, dass das Display beschädigt *war*.|При распаковке я обнаружила, что дисплей повреждён.|B1|„Beim Auspacken“ auf Position 1; dass-Satz: Verb am Ende.|Brief
+Anders als in der Anzeige angegeben, *war* der Strand weit entfernt.|В отличие от того, что было указано в объявлении, пляж был далеко.|B2|Ausdruck auf Position 1 → Verb auf Platz 2.|Brief
+Außerdem *war* die Sendung nicht vollständig.|Кроме того, посылка была неполной.|B1|„Außerdem“ auf Position 1 → Verb auf Platz 2.|Brief
+Es *fehlten* das Ladekabel und die Kopfhörer.|Не хватало зарядного кабеля и наушников.|B1|„Es“ auf Position 1, Verb richtet sich nach dem Subjekt (Plural).|Brief
+Statt eines schwarzen Tablets *haben* Sie mir ein rotes geschickt.|Вместо чёрного планшета вы прислали мне красный.|B2|statt + Genitiv auf Position 1 → Verb auf Platz 2.|Brief|Sie haben mir statt eines schwarzen Tablets ein rotes geschickt.
+Die Lieferung *kam* erst nach drei Wochen an.|Доставка пришла только через три недели.|B1|trennbares Verb im Präteritum: „an“ am Ende.|Brief
+# --- Beschwerde: Überleitung ---
+Des Weiteren *waren* die Ausflüge nicht im Preis enthalten.|Кроме того, экскурсии не были включены в цену.|B2|„Des Weiteren“ auf Position 1 → Verb auf Platz 2.|Brief
+Der nächste Punkt, der mich *störte*, *war* das laute Zimmer.|Следующий пункт, который мне мешал, — шумная комната.|B2|Relativsatz in der Mitte: Verb am Ende; danach Verb vom Hauptsatz.|Brief
+Abschließend *möchte* ich noch erwähnen, dass das Personal unfreundlich *war*.|В заключение хочу ещё упомянуть, что персонал был неприветлив.|B2|„Abschließend“ auf Position 1 → Verb; dass-Satz: Verb am Ende.|Brief
+# --- Beschwerde: Gefühle ---
+Darüber *bin* ich sehr verärgert.|Я этим очень раздосадована.|B1|„Darüber“ auf Position 1 → Verb auf Platz 2.|Brief|Ich bin darüber sehr verärgert.
+Das *finde* ich wirklich unzumutbar.|Я считаю это действительно недопустимым.|B2|„Das“ auf Position 1 → Verb auf Platz 2.|Brief|Ich finde das wirklich unzumutbar.
+Ich *bin* nicht nur enttäuscht, sondern auch verärgert.|Я не только разочарована, но и раздосадована.|B2|nicht nur …, sondern auch.|Brief
+Die Zimmer *waren* weder sauber noch komfortabel.|Номера не были ни чистыми, ни удобными.|B2|weder … noch = beides nicht.|Brief
+Wir *konnten* weder frühstücken noch Ausflüge buchen.|Мы не могли ни позавтракать, ни заказать экскурсии.|B2|weder … noch mit Modalverb: Infinitive am Ende.|Brief
+Ich *finde* es unmöglich, dass niemand auf meine E-Mails *reagiert* hat.|Я считаю недопустимым, что никто не ответил на мои письма.|B2|dass-Satz im Perfekt: „hat“ ganz am Ende.|Brief
+Es *ist* unzumutbar, dass wir drei Wochen warten *mussten*.|Недопустимо, что нам пришлось ждать три недели.|B2|dass-Satz: Modalverb im Präteritum ganz am Ende.|Brief
+Ich *bin* sehr enttäuscht darüber, dass der Kurs ausgefallen *ist*.|Я очень разочарована тем, что курс отменили.|B2|enttäuscht sein über + dass-Satz; Perfekt mit „sein“ am Ende.|Brief
+Ich *denke*, Sie *können* nachvollziehen, wie enttäuscht ich *bin*.|Думаю, вы можете понять, как я разочарована.|B2|wie-Satz: Verb am Ende.|Brief
+# --- Beschwerde: Forderung und Konsequenz ---
+Ich *erwarte* von Ihnen, dass Sie mir den Kaufpreis *erstatten*.|Я ожидаю от вас, что вы вернёте мне стоимость покупки.|B2|dass-Satz: Verb am Ende.|Brief
+Ich *verlange* entweder eine kostenlose Reparatur oder mein Geld zurück.|Я требую либо бесплатного ремонта, либо возврата денег.|B2|entweder … oder.|Brief
+Entweder *erstatten* Sie mir das Geld, oder ich *schalte* einen Anwalt ein.|Либо вы вернёте мне деньги, либо я обращусь к адвокату.|B2|entweder … oder: hier folgt das Verb direkt nach „entweder“; trennbares Verb: „ein“ am Ende.|Brief
+*Sollte* ich innerhalb von zwei Wochen nichts von Ihnen hören, *werde* ich einen Anwalt einschalten.|Если в течение двух недель я ничего от вас не услышу, я обращусь к адвокату.|B2|Bedingung ohne „wenn“: „Sollte“ auf Position 1, danach Hauptsatz mit Verb vorn.|Brief
+Andernfalls *sehe* ich mich gezwungen, rechtliche Schritte einzuleiten.|В противном случае я буду вынуждена принять юридические меры.|B2|„Andernfalls“ auf Position 1 → Verb; zu + Infinitiv am Ende.|Brief
+Aus diesen Gründen *werde* ich Sie nicht weiterempfehlen.|По этим причинам я не буду вас рекомендовать.|B1|„Aus diesen Gründen“ auf Position 1 → Verb; Infinitiv am Ende.|Brief|Ich werde Sie aus diesen Gründen nicht weiterempfehlen.
+Bitte *teilen* Sie mir mit, wie Sie das Problem lösen *wollen*.|Пожалуйста, сообщите мне, как вы хотите решить проблему.|B1|Imperativ; wie-Satz: Modalverb am Ende.|Brief
+# --- Beschwerde: Passiv ---
+Ich *wurde* falsch informiert.|Меня неправильно проинформировали.|B2|Passiv Präteritum: wurde + Partizip II.|Brief
+Meine Erwartungen *wurden* leider nicht erfüllt.|Мои ожидания, к сожалению, не оправдались.|B2|Passiv Präteritum: wurde … erfüllt.|Brief
+Mir *wurde* versprochen, dass ich am Ende ein Zertifikat *bekomme*.|Мне обещали, что в конце я получу сертификат.|B2|Passiv ohne Subjekt: „Mir wurde versprochen“; dass-Satz: Verb am Ende.|Brief
+Die Grammatik *wurde* im Kurs kaum erklärt.|Грамматику на курсе почти не объясняли.|B2|Passiv Präteritum: Partizip am Ende.|Brief
+Das Paket *wurde* beschädigt geliefert.|Посылка была доставлена повреждённой.|B2|Passiv Präteritum: wurde … geliefert.|Brief
+# --- Bewerbung ---
+Ihre Stellenanzeige *hat* mich sofort angesprochen, weil ich gern mit Menschen *arbeite*.|Ваше объявление о вакансии сразу меня заинтересовало, потому что я люблю работать с людьми.|B1|Perfekt; weil-Satz: Verb am Ende.|Brief
+Besonders interessant *finde* ich, dass Sie flexible Arbeitszeiten *anbieten*.|Особенно интересным я нахожу то, что вы предлагаете гибкий график.|B2|„Besonders interessant“ auf Position 1 → Verb; dass-Satz: Verb am Ende.|Brief|Ich finde besonders interessant, dass Sie flexible Arbeitszeiten anbieten.
+Von 2012 bis 2015 *machte* ich eine Ausbildung als Köchin.|С 2012 по 2015 год я проходила обучение на повара.|B1|Zeitangabe auf Position 1 → Verb (Präteritum) auf Platz 2.|Brief|Ich machte von 2012 bis 2015 eine Ausbildung als Köchin.
+Danach *arbeitete* ich fünf Jahre in einem Hotel in Moskau.|Потом я пять лет работала в отеле в Москве.|B1|„Danach“ auf Position 1 → Verb auf Platz 2.|Brief|Ich arbeitete danach fünf Jahre in einem Hotel in Moskau.
+In meiner Heimat *habe* ich als Krankenschwester gearbeitet.|На родине я работала медсестрой.|B1|Ort auf Position 1 → Hilfsverb auf Platz 2, Partizip am Ende.|Brief|Ich habe in meiner Heimat als Krankenschwester gearbeitet.
+2019 *habe* ich in Kiew ein Praktikum in einer Bank gemacht.|В 2019 году я проходила практику в банке в Киеве.|B1|Jahreszahl auf Position 1 → Verb auf Platz 2.|Brief|Ich habe 2019 in Kiew ein Praktikum in einer Bank gemacht.
+Aufgrund meiner Erfahrung *bin* ich für diese Stelle gut geeignet.|Благодаря моему опыту я хорошо подхожу для этой должности.|B2|aufgrund + Genitiv auf Position 1 → Verb auf Platz 2.|Brief|Ich bin aufgrund meiner Erfahrung für diese Stelle gut geeignet.
+Wegen meiner Deutschkenntnisse *musste* ich zuerst einen Sprachkurs machen.|Из-за моего уровня немецкого мне сначала пришлось пройти языковой курс.|B2|wegen + Genitiv auf Position 1 → Modalverb, Infinitiv am Ende.|Brief
+Dank der Unterstützung meiner Familie *konnte* ich die Ausbildung abschließen.|Благодаря поддержке семьи я смогла закончить обучение.|B2|dank + Genitiv auf Position 1 → Modalverb, Infinitiv am Ende.|Brief
+Zu meinen Stärken *gehören* Zuverlässigkeit und Pünktlichkeit.|К моим сильным сторонам относятся надёжность и пунктуальность.|B1|„Zu meinen Stärken“ auf Position 1 → Verb (Plural) auf Platz 2.|Brief
+Auch in stressigen Situationen *bleibe* ich ruhig.|Даже в стрессовых ситуациях я остаюсь спокойной.|B1|Angabe auf Position 1 → Verb auf Platz 2.|Brief|Ich bleibe auch in stressigen Situationen ruhig.
+Mit meinen Kollegen *arbeite* ich gern im Team.|С коллегами я охотно работаю в команде.|B1|Angabe auf Position 1 → Verb auf Platz 2.|Brief|Ich arbeite gern mit meinen Kollegen im Team.
+Ich *spreche* Russisch, Ukrainisch und Deutsch auf dem Niveau B1.|Я говорю по-русски, по-украински и по-немецки на уровне B1.|A2|Hauptsatz: Verb auf Platz 2.|Brief
+Über eine Einladung zu einem persönlichen Gespräch *würde* ich mich sehr freuen.|Я была бы очень рада приглашению на личную беседу.|B1|„Über eine Einladung …“ auf Position 1 → würde, „freuen“ am Ende.|Brief|Ich würde mich über eine Einladung zu einem persönlichen Gespräch sehr freuen.
+Gern *stehe* ich Ihnen für weitere Fragen zur Verfügung.|Я охотно отвечу на ваши дальнейшие вопросы.|B2|„Gern“ auf Position 1 → Verb auf Platz 2.|Brief|Ich stehe Ihnen gern für weitere Fragen zur Verfügung.
+Ab dem 1. März *könnte* ich bei Ihnen anfangen.|С 1 марта я могла бы начать у вас работать.|B1|Zeit auf Position 1 → Konjunktiv II auf Platz 2, Infinitiv am Ende.|Brief|Ich könnte ab dem 1. März bei Ihnen anfangen.
+# --- Satzglieder: wann – warum – wie – wo (TeKaMoLo) ---
+Ich *habe* 2018 wegen der Arbeit meines Mannes in Leipzig gewohnt.|В 2018 году из-за работы мужа я жила в Лейпциге.|B2|Reihenfolge: wann – warum – wo.|Brief
+Ich *bin* vor zwei Jahren aus familiären Gründen nach Dresden gezogen.|Два года назад я переехала в Дрезден по семейным причинам.|B2|Reihenfolge: wann – warum – wohin.|Brief
+Ich *habe* im Sommer mit viel Freude ein Praktikum in einer Kita gemacht.|Летом я с большой радостью проходила практику в детском саду.|B2|Reihenfolge: wann – wie – wo.|Brief
+Der Kurs *beginnt* am Montag um 9 Uhr.|Курс начинается в понедельник в 9 часов.|A2|Zeit: vom Großen zum Kleinen (Tag → Uhrzeit).|Brief
+Ich *habe* in einer kleinen Stadt im Süden Russlands meine Ausbildung gemacht.|Я получила образование в маленьком городе на юге России.|B2|Ort: vom Kleinen zum Großen (Stadt → Region).|Brief
+# --- Satz umstellen: Was wichtig ist, steht vorn ---
+1997 *habe* ich in Omsk eine Ausbildung als Lehrerin gemacht.|В 1997 году я получила в Омске образование учителя.|B1|Zeit auf Position 1 → Verb auf Platz 2, dann „ich“.|Brief|Ich habe 1997 in Omsk eine Ausbildung als Lehrerin gemacht. / In Omsk habe ich 1997 eine Ausbildung als Lehrerin gemacht.
+Meine Ausbildung als Lehrerin *habe* ich in Omsk gemacht.|Образование учителя я получила в Омске.|B2|Objekt auf Position 1 → Verb auf Platz 2.|Brief|Ich habe meine Ausbildung als Lehrerin in Omsk gemacht.
+Vier Jahre *war* ich in Polen und *habe* dort gearbeitet.|Четыре года я была в Польше и работала там.|B2|Zeitangabe vorn → Verb auf Platz 2; zweiter Satzteil mit „und“.|Brief|Ich war vier Jahre in Polen und habe dort gearbeitet.
+Nach zwölf Schuljahren *bestand* ich die Abschlussprüfung mit guten Noten.|После двенадцати лет учёбы я сдала выпускной экзамен с хорошими оценками.|B2|Zeit auf Position 1 → Verb (Präteritum) auf Platz 2.|Brief|Ich bestand nach zwölf Schuljahren die Abschlussprüfung mit guten Noten.
+In Deutschland *lebe* ich seit 2022.|В Германии я живу с 2022 года.|A2|Ort auf Position 1 → Verb auf Platz 2.|Brief|Ich lebe seit 2022 in Deutschland.
+# --- Präpositionen mit festen Verbindungen ---
+Ich *interessiere* mich für einen Kurs am Abend.|Меня интересует вечерний курс.|A2|sich interessieren für + Akkusativ.|Brief
+Ich *habe* großes Interesse an einem flexiblen Kursbeginn.|У меня большой интерес к гибкому началу курса.|B1|Interesse haben an + Dativ.|Brief
+Gern *würde* ich an dem Kurs im Frühjahr teilnehmen.|Я бы с удовольствием приняла участие в весеннем курсе.|B1|teilnehmen an + Dativ; Konjunktiv II, Infinitiv am Ende.|Brief|Ich würde gern an dem Kurs im Frühjahr teilnehmen.
+Ich *bedanke* mich für Ihre schnelle Antwort.|Благодарю вас за быстрый ответ.|A2|sich bedanken für + Akkusativ.|Brief
+Ich *möchte* mehr über die Arbeitszeiten erfahren.|Я хотела бы узнать больше о рабочем времени.|B1|erfahren über + Akkusativ; Infinitiv am Ende.|Brief
+Mit dieser Frage *wende* ich mich an Sie.|С этим вопросом я обращаюсь к вам.|B2|sich wenden an + Akkusativ; Angabe vorn → Verb auf Platz 2.|Brief|Ich wende mich mit dieser Frage an Sie.

@@ -1,0 +1,88 @@
+{
+  "lesen": [
+    {
+      "id": "dtbl4-01", "ex": ["DTB"],
+      "t": "Teil 4: Protokoll – Teambesprechung Lager",
+      "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+      "ru": "Вы не были на совещании и читаете протокол. Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Protokoll Teambesprechung Lager, 12.05.", "text": "Anwesend: K. Berger (Lagerleitung, KB), T. Novak (TN), S. Arslan (SA), M. Klein (MK, Protokoll)\nEntschuldigt: R. Frey\n\nTOP 1: Neue Scanner\nKB berichtet, dass die neuen Handscanner ab Juni eingesetzt werden. Die alten Geräte werden eingesammelt. TN gibt zu bedenken, dass nicht alle Kollegen mit der neuen Software vertraut sind. Es wird beschlossen, dass SA in der ersten Juniwoche zwei kurze Schulungen anbietet. Verantwortlich: SA.\n\nTOP 2: Urlaubsplanung Sommer\nIm Juli und August darf jeweils nur eine Person pro Schicht gleichzeitig im Urlaub sein. Wünsche müssen bis 31. Mai in die Liste eingetragen werden. Bei Überschneidungen entscheidet KB, wobei Kollegen mit schulpflichtigen Kindern Vorrang haben.\n\nTOP 3: Ordnung an Rampe 2\nMK weist darauf hin, dass an Rampe 2 regelmäßig leere Paletten stehen bleiben und den Weg versperren. TN schlägt vor, einen festen Stellplatz für Leerpaletten einzurichten. Der Vorschlag wird angenommen; der Stellplatz wird bis Ende Mai markiert. Verantwortlich: TN.\n\nTOP 4: Verschiedenes\nDie Kaffeemaschine im Pausenraum ist defekt. Eine neue wurde bereits bestellt.\n\nNächste Besprechung: 9. Juni, 14 Uhr."}],
+      "fragen": [
+        {"q": "Die Schulungen für die neuen Scanner …", "o": ["macht die Lagerleitung.", "finden Anfang Juni statt.", "sind nur für neue Mitarbeiter."], "r": 1, "e": "„… SA in der ersten Juniwoche zwei kurze Schulungen anbietet.“"},
+        {"q": "Wer hat im Sommer beim Urlaub Vorrang?", "o": ["Wer sich zuerst einträgt.", "Kollegen mit Kindern im Schulalter.", "Kollegen, die am längsten im Betrieb sind."], "r": 1, "e": "„… Kollegen mit schulpflichtigen Kindern Vorrang haben.“"},
+        {"q": "Urlaubswünsche muss man …", "o": ["bis Ende Mai eintragen.", "bis zur nächsten Besprechung abgeben.", "mit SA absprechen."], "r": 0, "e": "„Wünsche müssen bis 31. Mai in die Liste eingetragen werden.“"},
+        {"q": "Was passiert an Rampe 2?", "o": ["Die Rampe wird geschlossen.", "Es gibt bald einen Platz nur für leere Paletten.", "MK räumt die Paletten jeden Tag weg."], "r": 1, "e": "„… einen festen Stellplatz für Leerpaletten einzurichten. Der Vorschlag wird angenommen.“"},
+        {"q": "Wer kümmert sich um den Stellplatz?", "o": ["K. Berger", "T. Novak", "M. Klein"], "r": 1, "e": "„Verantwortlich: TN“ = T. Novak."}
+      ]
+    },
+    {
+      "id": "dtbl4-02", "ex": ["DTB"],
+      "t": "Teil 4: Protokoll – Dienstbesprechung Pflegestation",
+      "anweisung": "Sie lesen das Protokoll der letzten Dienstbesprechung. Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте протокол последнего служебного совещания. Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Protokoll Dienstbesprechung Station 3, 04.03.", "text": "Anwesend: Frau Wagner (Stationsleitung), Herr Böhm, Frau Lewandowska, Frau Schulte, Herr Akın (Protokoll)\n\nTOP 1: Personalsituation\nFrau Wagner berichtet, dass zwei Kolleginnen langfristig krank sind. Bis Ende April werden zwei Kräfte einer Zeitarbeitsfirma eingesetzt. Herr Böhm kritisiert, dass die Zeitarbeitskräfte die Abläufe nicht kennen und viel Einarbeitung brauchen. Es wird vereinbart, dass sie in der ersten Woche immer mit einer Stammkraft zusammenarbeiten.\n\nTOP 2: Pflegedokumentation\nAb 1. April wird die Dokumentation vollständig auf Tablets umgestellt. Frau Schulte hat bereits an einer Schulung teilgenommen und steht als Ansprechpartnerin zur Verfügung. Papierformulare dürfen nur noch bei einem Systemausfall benutzt werden.\n\nTOP 3: Angehörigengespräche\nFrau Lewandowska schlägt vor, feste Sprechzeiten für Angehörige einzuführen, da Gespräche im Flur die Arbeit oft unterbrechen. Der Vorschlag wird angenommen: Dienstag und Donnerstag von 16 bis 17 Uhr. Dringende Fälle sind davon ausgenommen.\n\nTOP 4: Fortbildung\nDie Fortbildung „Erste Hilfe“ ist für alle Pflegekräfte verpflichtend. Termine hängen ab 10. März im Stationszimmer aus."}],
+      "fragen": [
+        {"q": "Die Kräfte der Zeitarbeitsfirma …", "o": ["arbeiten am Anfang mit erfahrenen Kollegen zusammen.", "werden fest eingestellt.", "brauchen keine Einarbeitung."], "r": 0, "e": "„… in der ersten Woche immer mit einer Stammkraft zusammenarbeiten.“ Stammkraft = feste, erfahrene Kollegin."},
+        {"q": "Was kritisiert Herr Böhm?", "o": ["Dass zwei Kolleginnen krank sind.", "Dass die neuen Kräfte die Abläufe nicht kennen.", "Dass es zu wenige Tablets gibt."], "r": 1, "e": "„Herr Böhm kritisiert, dass die Zeitarbeitskräfte die Abläufe nicht kennen.“"},
+        {"q": "Papierformulare …", "o": ["benutzt man ab April nicht mehr, außer das System fällt aus.", "kann man weiter wie bisher verwenden.", "gibt Frau Schulte aus."], "r": 0, "e": "„Papierformulare dürfen nur noch bei einem Systemausfall benutzt werden.“"},
+        {"q": "Angehörige können …", "o": ["jederzeit im Flur mit den Pflegekräften sprechen.", "an zwei Tagen zu festen Zeiten zum Gespräch kommen.", "nur noch per Telefon Fragen stellen."], "r": 1, "e": "„Dienstag und Donnerstag von 16 bis 17 Uhr.“"},
+        {"q": "Die Termine für die Erste-Hilfe-Fortbildung …", "o": ["stehen schon im Protokoll.", "werden im Stationszimmer ausgehängt.", "bekommt man per E-Mail."], "r": 1, "e": "„Termine hängen ab 10. März im Stationszimmer aus.“"}
+      ]
+    },
+    {
+      "id": "dtbl4-03", "ex": ["DTB"],
+      "t": "Teil 4: Bericht – Kundenbefragung im Autohaus",
+      "anweisung": "Sie lesen einen internen Bericht über eine Kundenbefragung. Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте внутренний отчёт об опросе клиентов. Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Ergebnisse der Kundenbefragung – Werkstatt und Service", "text": "Im ersten Quartal haben wir 420 Kundinnen und Kunden nach ihrem Werkstattbesuch befragt. Insgesamt ist die Zufriedenheit gestiegen: 78 Prozent bewerten den Service mit „gut“ oder „sehr gut“, im Vorjahr waren es 71 Prozent.\nBesonders gelobt wurden die Freundlichkeit des Personals und die verständliche Erklärung der Reparaturen. Kritik gab es vor allem an der Terminvergabe: Viele Kunden mussten länger als zwei Wochen auf einen Termin warten. Außerdem wünschen sich viele eine Nachricht per SMS, wenn das Auto abholbereit ist.\nDie Geschäftsleitung hat deshalb beschlossen, ab Mai einen Online-Terminkalender einzuführen. Eine zusätzliche Servicekraft wird für die Annahme am Morgen eingestellt, da es zwischen 7 und 9 Uhr oft zu langen Schlangen kommt. Die SMS-Benachrichtigung wird zunächst in einer Filiale getestet.\nDie nächste Befragung findet im Herbst statt."}],
+      "fragen": [
+        {"q": "Im Vergleich zum Vorjahr sind die Kunden …", "o": ["weniger zufrieden.", "zufriedener.", "genauso zufrieden."], "r": 1, "e": "78 Prozent statt 71 Prozent – die Zufriedenheit ist gestiegen."},
+        {"q": "Was gefällt den Kunden besonders?", "o": ["Die kurzen Wartezeiten auf einen Termin.", "Dass die Mitarbeiter freundlich sind und gut erklären.", "Die niedrigen Preise."], "r": 1, "e": "„Besonders gelobt wurden die Freundlichkeit … und die verständliche Erklärung.“"},
+        {"q": "Woran gab es die meiste Kritik?", "o": ["An der Qualität der Reparaturen.", "An den langen Wartezeiten für einen Termin.", "An der Freundlichkeit."], "r": 1, "e": "„Kritik gab es vor allem an der Terminvergabe …“"},
+        {"q": "Warum wird eine neue Servicekraft eingestellt?", "o": ["Weil morgens viele Kunden gleichzeitig kommen.", "Weil eine Kollegin in Rente geht.", "Weil sie die SMS verschicken soll."], "r": 0, "e": "„… da es zwischen 7 und 9 Uhr oft zu langen Schlangen kommt.“"},
+        {"q": "Die SMS-Benachrichtigung …", "o": ["gibt es ab Mai in allen Filialen.", "wird zuerst nur an einem Standort ausprobiert.", "wurde abgelehnt."], "r": 1, "e": "„… zunächst in einer Filiale getestet.“"}
+      ]
+    },
+    {
+      "id": "dtbl4-04", "ex": ["DTB"],
+      "t": "Teil 4: Protokoll – Besprechung im Hotel",
+      "anweisung": "Sie arbeiten in einem Hotel und lesen das Protokoll der Abteilungsleiterbesprechung. Welche Antwort (a, b oder c) passt?",
+      "ru": "Вы работаете в гостинице и читаете протокол совещания руководителей отделов. Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Protokoll Abteilungsleiterbesprechung Hotel am See, 21.02.", "text": "Anwesend: Hr. Seidel (Direktion, HS), Fr. Krüger (Rezeption, FK), Hr. Basaran (Küche, HB), Fr. Moreau (Housekeeping, FM)\n\nTOP 1: Messe im April\nVom 14. bis 18. April findet in der Stadt eine große Messe statt. Das Hotel ist bereits zu 95 Prozent ausgebucht. FK bittet darum, in dieser Woche keinen Urlaub zu genehmigen. HS stimmt zu.\n\nTOP 2: Frühstück\nHB berichtet, dass am Wochenende das Frühstücksbuffet oft schon um 10 Uhr leer ist, obwohl es bis 10:30 Uhr geht. Ab März wird samstags und sonntags eine zusätzliche Aushilfe eingesetzt. Außerdem sollen mehr vegetarische Produkte angeboten werden, weil Gäste dies häufig wünschen.\n\nTOP 3: Zimmerreinigung\nFM schlägt vor, Gästen, die länger als drei Nächte bleiben, eine Reinigung nur noch jeden zweiten Tag anzubieten. Gäste, die darauf verzichten, erhalten einen Gutschein für ein Getränk an der Bar. HS möchte zunächst einen Testmonat im März; danach wird entschieden.\n\nTOP 4: Beschwerden\nFK berichtet von mehreren Beschwerden über das langsame WLAN im dritten Stock. Ein Techniker kommt am 28. Februar."}],
+      "fragen": [
+        {"q": "Während der Messe …", "o": ["ist das Hotel noch fast leer.", "dürfen die Mitarbeiter keinen Urlaub nehmen.", "wird das Hotel renoviert."], "r": 1, "e": "FK bittet, keinen Urlaub zu genehmigen, und HS stimmt zu."},
+        {"q": "Was ist das Problem beim Frühstück am Wochenende?", "o": ["Es beginnt zu spät.", "Das Buffet ist vor dem Ende leer.", "Es gibt keine vegetarischen Produkte."], "r": 1, "e": "„… oft schon um 10 Uhr leer …, obwohl es bis 10:30 Uhr geht.“"},
+        {"q": "Gäste, die länger bleiben, …", "o": ["bekommen ein Getränk, wenn sie weniger Reinigung wollen.", "müssen für die Reinigung extra bezahlen.", "bekommen jeden Tag eine Reinigung."], "r": 0, "e": "„Gäste, die darauf verzichten, erhalten einen Gutschein für ein Getränk.“"},
+        {"q": "Über den Vorschlag von Frau Moreau …", "o": ["wurde sofort positiv entschieden.", "wird nach einem Test im März entschieden.", "wurde nicht gesprochen."], "r": 1, "e": "„HS möchte zunächst einen Testmonat im März; danach wird entschieden.“"},
+        {"q": "Wegen des WLANs …", "o": ["bekommen die Gäste Geld zurück.", "kommt Ende Februar ein Techniker.", "wird der dritte Stock geschlossen."], "r": 1, "e": "„Ein Techniker kommt am 28. Februar.“"}
+      ]
+    },
+    {
+      "id": "dtbl4-05", "ex": ["DTB"],
+      "t": "Teil 4: Bericht – Einführung einer neuen Software",
+      "anweisung": "Sie lesen einen Bericht im Intranet. Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте отчёт во внутренней сети. Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Neue Software für Aufträge – ein Zwischenbericht", "text": "Seit Januar arbeiten unsere Vertriebsteams mit der neuen Auftragssoftware. Ziel war es, Aufträge schneller zu bearbeiten und Fehler bei der Eingabe zu reduzieren.\nDie ersten drei Monate zeigen ein gemischtes Bild. Die Bearbeitungszeit pro Auftrag ist um durchschnittlich zehn Minuten gesunken. Die Zahl der Eingabefehler hat sich dagegen kaum verändert. Die Projektgruppe vermutet, dass viele Beschäftigte noch alte Gewohnheiten haben und Daten doppelt eingeben.\nIn einer internen Umfrage gaben 60 Prozent der Befragten an, dass die Software übersichtlich sei. Kritisiert wurde vor allem, dass man Kundendaten aus dem alten System nur mühsam übernehmen kann.\nDie IT-Abteilung arbeitet an einer Lösung für die Datenübernahme, die bis Juni fertig sein soll. Bis dahin werden jeden Mittwoch offene Sprechstunden angeboten, in denen Fragen zur Software direkt geklärt werden können. Eine Rückkehr zum alten System ist nicht geplant."}],
+      "fragen": [
+        {"q": "Was hat sich seit der Einführung verbessert?", "o": ["Es gibt weniger Fehler.", "Aufträge werden schneller bearbeitet.", "Die Kundendaten sind vollständiger."], "r": 1, "e": "„Die Bearbeitungszeit pro Auftrag ist … gesunken.“ Die Fehler haben sich kaum verändert."},
+        {"q": "Warum gibt es immer noch viele Eingabefehler?", "o": ["Weil die Software Fehler hat.", "Weil viele noch wie früher arbeiten.", "Weil es zu wenig Personal gibt."], "r": 1, "e": "„… viele Beschäftigte noch alte Gewohnheiten haben und Daten doppelt eingeben.“"},
+        {"q": "Was finden die Beschäftigten schlecht?", "o": ["Die Übersichtlichkeit.", "Die Übernahme der alten Kundendaten.", "Die Sprechstunden."], "r": 1, "e": "„Kritisiert wurde vor allem, dass man Kundendaten aus dem alten System nur mühsam übernehmen kann.“"},
+        {"q": "Bis Juni …", "o": ["soll eine Lösung für die Datenübernahme fertig sein.", "kehrt man zum alten System zurück.", "gibt es keine Unterstützung."], "r": 0, "e": "„… eine Lösung für die Datenübernahme, die bis Juni fertig sein soll.“"},
+        {"q": "Wer Fragen zur Software hat, …", "o": ["schreibt eine E-Mail an die Projektgruppe.", "kann jeden Mittwoch in eine Sprechstunde gehen.", "muss bis Juni warten."], "r": 1, "e": "„… jeden Mittwoch offene Sprechstunden …“"}
+      ]
+    },
+    {
+      "id": "dtbl4-06", "ex": ["DTB"],
+      "t": "Teil 4: Protokoll – Betriebsversammlung Bäckerei",
+      "anweisung": "Sie lesen das Protokoll einer Versammlung in Ihrem Betrieb. Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте протокол собрания на вашем предприятии. Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Protokoll Mitarbeiterversammlung Bäckerei Hansen, 15.10.", "text": "Anwesend: Herr Hansen (Inhaber), 23 Mitarbeiterinnen und Mitarbeiter aus Backstube und Filialen\nProtokoll: Frau Ivanova\n\nTOP 1: Neue Filiale\nHerr Hansen teilt mit, dass im Januar eine neue Filiale am Bahnhof eröffnet wird. Dafür werden vier Verkäuferinnen oder Verkäufer gesucht. Beschäftigte, die wechseln möchten, melden sich bis Ende Oktober. Interne Bewerbungen werden bevorzugt.\n\nTOP 2: Arbeitszeiten in der Backstube\nMehrere Bäcker wünschen sich, später anzufangen. Herr Hansen erklärt, dass dies wegen der frühen Öffnungszeiten der Filialen nicht möglich sei. Als Ausgleich wird ab November ein freier Samstag pro Monat eingeführt.\n\nTOP 3: Energiekosten\nDie Stromkosten sind stark gestiegen. Herr Hansen bittet alle, Öfen und Kaffeemaschinen nach Gebrauch auszuschalten. Eine Preiserhöhung bei Brötchen ist ab Dezember geplant.\n\nTOP 4: Weihnachtsfeier\nDie Weihnachtsfeier findet am 20. Dezember nach Ladenschluss statt. Frau Ivanova sammelt Vorschläge für das Restaurant."}],
+      "fragen": [
+        {"q": "Für die neue Filiale …", "o": ["werden nur neue Mitarbeiter eingestellt.", "haben Mitarbeiter aus dem Betrieb Vorrang.", "sucht man Bäcker."], "r": 1, "e": "„Interne Bewerbungen werden bevorzugt.“ Gesucht werden Verkäufer, keine Bäcker."},
+        {"q": "Die Bäcker in der Backstube …", "o": ["dürfen ab November später anfangen.", "bekommen einen freien Samstag im Monat.", "arbeiten in Zukunft auch in der Filiale."], "r": 1, "e": "Später anfangen ist nicht möglich, „als Ausgleich … ein freier Samstag pro Monat“."},
+        {"q": "Warum sollen die Geräte ausgeschaltet werden?", "o": ["Weil der Strom teurer geworden ist.", "Weil es gefährlich ist.", "Weil sie kaputtgehen."], "r": 0, "e": "„Die Stromkosten sind stark gestiegen.“"},
+        {"q": "Was passiert im Dezember?", "o": ["Die Brötchen werden teurer.", "Die neue Filiale eröffnet.", "Die Öffnungszeiten ändern sich."], "r": 0, "e": "„Eine Preiserhöhung bei Brötchen ist ab Dezember geplant.“ Die Filiale eröffnet im Januar."},
+        {"q": "Frau Ivanova …", "o": ["leitet die neue Filiale.", "sammelt Ideen, wo man feiern kann.", "ist die Inhaberin."], "r": 1, "e": "„Frau Ivanova sammelt Vorschläge für das Restaurant.“"}
+      ]
+    }
+  ]
+}

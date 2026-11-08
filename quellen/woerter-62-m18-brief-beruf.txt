@@ -1,0 +1,97 @@
+# M18 Wörter aus Brief-Baukasten, DTB-Lesen und Berufssprachkurs-Themen (Umzug, Handwerk, Tourismus, Rechte und Pflichten)
+Mängelmeldung|die|Mängelmeldungen|N|сообщение о недостатках|Nachricht, dass etwas kaputt oder fehlerhaft ist|Ich schicke dem Vermieter eine Mängelmeldung.|B2|Wohnen
+Riss|der|Risse|N|трещина|eine dünne Linie, wo etwas gebrochen ist|In der Wand ist ein Riss.|B1|Wohnen
+Betreiber|der|Betreiber|N|владелец, оператор (заведения)|Person oder Firma, die z. B. einen Kiosk führt|Der Betreiber des Kiosks öffnet um sechs Uhr.|B2|Handel
+Gründer|der|Gründer|N|основатель|Person, die eine Firma neu startet|Die Gründer haben das Café vor drei Jahren eröffnet.|B2|Wirtschaft
+Existenzgründung|die|Existenzgründungen|N|открытие собственного дела|Start in die Selbstständigkeit|Für die Existenzgründung braucht man einen Businessplan.|B2|Wirtschaft
+Businessplan|der|Businesspläne|N|бизнес-план|Plan, wie eine neue Firma Geld verdienen soll|Ohne Businessplan bekommt man keinen Kredit.|B2|Wirtschaft
+Gründungszuschuss|der|Gründungszuschüsse|N|субсидия на открытие бизнеса|Geld von der Arbeitsagentur für Gründer|Sie hat einen Gründungszuschuss beantragt.|B2|Wirtschaft
+Kleinunternehmer|der|Kleinunternehmer|N|мелкий предприниматель|Selbstständiger mit wenig Umsatz|Als Kleinunternehmer zahlt er keine Umsatzsteuer.|B2|Wirtschaft
+Umsatzsteuer|die|-|N|налог с оборота, НДС|Steuer, die auf den Preis von Waren kommt|Auf der Rechnung steht die Umsatzsteuer extra.|B2|Wirtschaft
+Handwerkskammer|die|Handwerkskammern|N|ремесленная палата|Organisation für alle Handwerksbetriebe einer Region|Die Handwerkskammer berät kostenlos.|B2|Handwerk
+Teamrolle|die|Teamrollen|N|роль в команде|Aufgabe, die jemand im Team übernimmt|Meine Teamrolle ist es, zwischen den Kollegen zu vermitteln.|B2|Arbeit
+Reiseleiter|der|Reiseleiter|N|руководитель тургруппы|Person, die eine Reisegruppe begleitet|Der Reiseleiter erklärt die Sehenswürdigkeiten.|B1|Tourismus
+Stornierung|die|Stornierungen|N|отмена (брони)|das Absagen einer Buchung|Bei einer Stornierung bis 14 Tage vorher ist alles kostenlos.|B2|Tourismus
+Reiserücktrittsversicherung|die|Reiserücktrittsversicherungen|N|страховка от отмены поездки|Versicherung, die zahlt, wenn man nicht reisen kann|Zum Glück hatte ich eine Reiserücktrittsversicherung.|B2|Tourismus
+Touristik|die|-|N|туризм (отрасль)|Branche, die Reisen organisiert|Sie hat Touristik studiert.|B2|Tourismus
+Reisepreis|der|Reisepreise|N|стоимость поездки|Geld, das eine Reise kostet|Im Reisepreis sind alle Ausflüge enthalten.|B1|Tourismus
+Saison|die|Saisons|N|сезон|bestimmte Zeit im Jahr, z. B. mit vielen Gästen|In der Saison arbeiten wir auch am Wochenende.|B1|Tourismus
+Haupthahn|der|Haupthähne|N|главный кран (воды)|Hahn, mit dem man das ganze Wasser abstellt|Zuerst muss man den Haupthahn zudrehen.|B2|Handwerk
+Heimwerker|der|Heimwerker|N|домашний мастер|Person, die zu Hause selbst repariert und baut|Der Baumarkt bietet Kurse für Heimwerker an.|B2|Handwerk
+Montage|die|Montagen|N|монтаж, сборка|das Aufbauen und Befestigen von Möbeln oder Geräten|Die Montage der Küche dauert einen Tag.|B1|Handwerk
+Festpreis|der|Festpreise|N|фиксированная цена|Preis, der sich nicht ändert|Wir haben einen Festpreis vereinbart.|B2|Handel
+Endpreis|der|Endpreise|N|итоговая цена|Preis mit allen Kosten|Wie hoch ist der Endpreis mit Reinigung?|B1|Handel
+Metropolregion|die|Metropolregionen|N|метрополитенский регион|große Stadt mit dem Gebiet drumherum|In der Metropolregion gibt es viele Arbeitsplätze.|B2|Gesellschaft
+Arbeitsplan|der|Arbeitspläne|N|рабочий план|Plan, wer wann welche Aufgabe macht|Im Arbeitsplan steht, wer heute die Medikamente vorbereitet.|B1|Arbeit
+Anlieferung|die|Anlieferungen|N|доставка (товара)|das Bringen von Waren zum Betrieb|Die Anlieferung ist um sieben Uhr.|B2|Lager
+Jobmesse|die|Jobmessen|N|ярмарка вакансий|Veranstaltung, auf der Firmen Mitarbeiter suchen|Auf der Jobmesse habe ich mit vier Firmen gesprochen.|B1|Beruf
+Jobportal|das|Jobportale|N|сайт вакансий|Internetseite mit Stellenanzeigen|Ich habe die Stelle auf einem Jobportal gefunden.|B1|Beruf
+Personaler|der|Personaler|N|кадровик, HR-специалист|Mitarbeiter der Personalabteilung|Der Personaler hat nach meiner Erfahrung gefragt.|B2|Beruf
+Gehaltsgespräch|das|Gehaltsgespräche|N|разговор о зарплате|Gespräch mit dem Chef über mehr Lohn|Vor dem Gehaltsgespräch habe ich mich gut informiert.|B2|Beruf
+Videointerview|das|Videointerviews|N|видеособеседование|Vorstellungsgespräch am Bildschirm|Das Videointerview beginnt um zehn Uhr.|B2|Beruf
+Augenhöhe|die|-|N|уровень глаз; на равных|so hoch wie die Augen; gleichberechtigt|Die Kamera sollte auf Augenhöhe sein.|B2|Beruf
+Webdesign|das|-|N|веб-дизайн|Gestaltung von Internetseiten|Sie arbeitet im Bereich Webdesign.|B2|IT
+Kernarbeitszeit|die|Kernarbeitszeiten|N|основное (обязательное) рабочее время|Zeit, in der alle bei Gleitzeit da sein müssen|Die Kernarbeitszeit ist von 9 bis 15 Uhr.|B2|Arbeit
+Zeitkonto|das|Zeitkonten|N|счёт рабочего времени|Liste mit Plus- und Minusstunden|Auf meinem Zeitkonto stehen zwölf Plusstunden.|B2|Arbeit
+Dienstgang|der|Dienstgänge|N|служебная отлучка|kurzer Weg für die Arbeit, z. B. zur Bank|Bitte buchen Sie auch Dienstgänge am Terminal.|B2|Arbeit
+Verschwiegenheit|die|-|N|соблюдение тайны|man erzählt Geheimnisse der Firma nicht weiter|Im Vertrag steht eine Pflicht zur Verschwiegenheit.|B2|Recht
+Betriebsvereinbarung|die|Betriebsvereinbarungen|N|коллективное соглашение на предприятии|Vertrag zwischen Firma und Betriebsrat|Die Regeln zum Homeoffice stehen in der Betriebsvereinbarung.|B2|Recht
+Urlaubssperre|die|Urlaubssperren|N|запрет на отпуск|Zeit, in der niemand Urlaub nehmen darf|Im Dezember gibt es eine Urlaubssperre.|B2|Arbeit
+Abteilungsleitung|die|Abteilungsleitungen|N|руководство отдела|Chef oder Chefin einer Abteilung|Die Abteilungsleitung hat den Umzug geplant.|B2|Arbeit
+Lagerleitung|die|Lagerleitungen|N|руководство склада|Chef oder Chefin im Lager|Die Lagerleitung entscheidet über den Urlaub.|B2|Lager
+Projektgruppe|die|Projektgruppen|N|проектная группа|Team, das an einem Projekt arbeitet|Die Projektgruppe trifft sich jeden Montag.|B2|Arbeit
+Zwischenbericht|der|Zwischenberichte|N|промежуточный отчёт|Bericht in der Mitte eines Projekts|Im Zwischenbericht stehen die ersten Ergebnisse.|B2|Arbeit
+Eingabefehler|der|Eingabefehler|N|ошибка ввода|Fehler beim Eintippen von Daten|Die Software soll Eingabefehler vermeiden.|B2|IT
+Datenübernahme|die|-|N|перенос данных|Daten von einem System in ein anderes bringen|Die Datenübernahme dauert noch bis Juni.|B2|IT
+Computerkenntnisse|die|- (nur Plural)|N|навыки работы с компьютером|was man am Computer kann|Für die Stelle braucht man gute Computerkenntnisse.|B1|IT
+Vorfall|der|Vorfälle|N|инцидент, случай|etwas Unangenehmes, das passiert ist|Den Vorfall muss man sofort melden.|B2|Arbeit
+Datenschutzbeauftragte|die|Datenschutzbeauftragten|N|уполномоченная по защите данных|Person in der Firma, die für den Datenschutz zuständig ist|Melden Sie Probleme der Datenschutzbeauftragten.|B2|IT
+Weitergabe|die|-|N|передача (дальше)|etwas an andere geben|Die Weitergabe von Kundendaten ist verboten.|B2|Recht
+Anrufer|der|Anrufer|N|звонящий|Person, die anruft|Der Anrufer nennt seine Kundennummer.|B1|Büro
+Papierkorb|der|Papierkörbe|N|мусорная корзина для бумаг|kleiner Eimer für Papiermüll|Werfen Sie die Ausdrucke nicht in den Papierkorb.|A2|Büro
+Behälter|der|Behälter|N|контейнер, ёмкость|Gefäß oder Kiste, in die man etwas legt|Die Späne kommen in den Behälter.|B1|Arbeit
+Raumnummer|die|Raumnummern|N|номер кабинета|Nummer eines Zimmers im Gebäude|Schreiben Sie die Raumnummer auf den Karton.|A2|Büro
+Eingangsbereich|der|Eingangsbereiche|N|входная зона|Bereich direkt hinter der Tür|Das Terminal steht im Eingangsbereich.|B1|Büro
+Schulungsraum|der|Schulungsräume|N|учебный класс (на работе)|Raum für Kurse in der Firma|Der Kurs findet im Schulungsraum statt.|B1|Arbeit
+Besucher|der|Besucher|N|посетитель|Person, die zu Besuch kommt|Auch Besucher müssen eine Schutzbrille tragen.|A2|Arbeit
+Schutzausrüstung|die|Schutzausrüstungen|N|средства защиты|Kleidung und Geräte zum Schutz bei der Arbeit|Die Schutzausrüstung wird jedes Jahr kontrolliert.|B2|Sicherheit
+Schichtbuch|das|Schichtbücher|N|сменный журнал|Heft, in das man Wichtiges aus der Schicht schreibt|Tragen Sie die Störung ins Schichtbuch ein.|B2|Arbeit
+Kühlware|die|Kühlwaren|N|охлаждённый товар|Waren, die kalt bleiben müssen|Kühlware muss schnell in den Kühlraum.|B2|Lager
+Vorbehalt|der|Vorbehalte|N|оговорка; сомнение|unter Vorbehalt = nicht ganz sicher, mit Einschränkung|Wir nehmen die Ware unter Vorbehalt an.|B2|Lager
+Stationszimmer|das|Stationszimmer|N|ординаторская, сестринская|Raum für das Personal auf einer Station|Die Termine hängen im Stationszimmer aus.|B2|Pflege
+Grundpflege|die|-|N|базовый уход|Hilfe beim Waschen, Anziehen und Essen|Die Grundpflege dauert am Morgen am längsten.|B2|Pflege
+Rückenkurs|der|Rückenkurse|N|курс для спины|Kurs mit Übungen für einen gesunden Rücken|Der Rückenkurs ist kostenlos.|B1|Gesundheit
+Sehstärke|die|-|N|острота зрения|wie gut man sieht|Der Arzt prüft die Sehstärke.|B2|Gesundheit
+Kundenkontakt|der|Kundenkontakte|N|контакт с клиентами|direkter Umgang mit Kunden|Im Kundenkontakt muss man freundlich bleiben.|B1|Beruf
+Dienstrad|das|Diensträder|N|служебный велосипед|Fahrrad, das die Firma bezahlt|Mit dem Dienstrad fahre ich zur Arbeit.|B2|Verkehr
+Verpflegung|die|-|N|питание|Essen und Trinken, z. B. auf einer Reise|Für die Verpflegung gibt es eine Tagespauschale.|B2|Tourismus
+Tagespauschale|die|Tagespauschalen|N|суточные|fester Betrag pro Tag|Die Tagespauschale für Essen beträgt 28 Euro.|B2|Arbeit
+Elternbeitrag|der|Elternbeiträge|N|родительский взнос|Geld, das Eltern für die Kita zahlen|Der Elternbeitrag hängt vom Einkommen ab.|B2|Familie
+Kurskosten|die|- (nur Plural)|N|стоимость курса|Geld für einen Kurs|Die Firma übernimmt die Kurskosten.|B1|Bildung
+Deutschniveau|das|Deutschniveaus|N|уровень немецкого|wie gut man Deutsch kann (A1 bis C2)|Für die Stelle braucht man mindestens das Deutschniveau B1.|B1|Bildung
+Prüfungsvorbereitung|die|Prüfungsvorbereitungen|N|подготовка к экзамену|Lernen und Üben für eine Prüfung|Die Prüfungsvorbereitung dauert acht Wochen.|B1|Bildung
+Modelltest|der|Modelltests|N|модельный (пробный) тест|Übungsprüfung wie die echte Prüfung|Wir haben drei Modelltests geschrieben.|B1|Bildung
+Intensivkurs|der|Intensivkurse|N|интенсивный курс|Kurs mit vielen Stunden pro Woche|Ich mache einen Intensivkurs mit 20 Stunden pro Woche.|B1|Bildung
+Einzelunterricht|der|-|N|индивидуальные занятия|Unterricht nur für eine Person|Einzelunterricht ist teurer als eine Gruppe.|B1|Bildung
+Kleingruppe|die|Kleingruppen|N|мини-группа|Gruppe mit wenigen Personen|In der Kleingruppe kann man mehr sprechen.|B1|Bildung
+Lehrkraft|die|Lehrkräfte|N|преподаватель|Lehrerin oder Lehrer|Die Lehrkraft wechselte jede Woche.|B2|Bildung
+Gleichwertigkeit|die|-|N|равноценность|gleicher Wert, z. B. von zwei Abschlüssen|Die Behörde prüft die Gleichwertigkeit des Abschlusses.|B2|Behörden
+Rechtsanspruch|der|Rechtsansprüche|N|законное право|etwas, das man laut Gesetz bekommen muss|Es gibt einen Rechtsanspruch auf einen Kitaplatz.|B2|Recht
+Meistertitel|der|Meistertitel|N|звание мастера|Abschluss als Meister im Handwerk|Mit dem Meistertitel darf er Lehrlinge ausbilden.|B2|Handwerk
+Willkommensmappe|die|Willkommensmappen|N|приветственная папка|Mappe mit Informationen für neue Mitarbeiter|In der Willkommensmappe steht alles zur Arbeitszeit.|B2|Arbeit
+Inserat|das|Inserate|N|объявление|Anzeige in einer Zeitung oder im Internet|Ihr Inserat hat mein Interesse geweckt.|B2|Brief
+Anrede|die|Anreden|N|обращение (в письме)|„Sehr geehrte …“ am Anfang eines Briefes|Nach der Anrede steht ein Komma.|B1|Brief
+Grußformel|die|Grußformeln|N|заключительная формула вежливости|„Mit freundlichen Grüßen“ am Ende|Vergessen Sie die Grußformel nicht.|B1|Brief
+Beantwortung|die|Beantwortungen|N|ответ (на вопросы)|das Antworten|Vielen Dank für die Beantwortung meiner Fragen.|B2|Brief
+im Voraus|-|-|R|заранее|vorher, schon jetzt|Vielen Dank im Voraus!|B1|Brief
+Kaufpreis|der|Kaufpreise|N|покупная цена|Geld, das man für einen Kauf bezahlt hat|Bitte erstatten Sie mir den Kaufpreis.|B1|Brief
+Zubehör|das|-|N|комплектующие, аксессуары|Teile, die zu einem Gerät gehören|Vom Zubehör fehlte das Ladekabel.|B1|Handel
+unzumutbar|-|-|A|недопустимый, неприемлемый|so schlecht, dass man es nicht akzeptieren kann|Das finde ich wirklich unzumutbar.|B2|Brief
+weiterempfehlen|-|empfiehlt weiter, empfahl weiter, hat weiterempfohlen|V|рекомендовать (другим)|anderen sagen, dass etwas gut ist|Ich werde Sie nicht weiterempfehlen.|B2|Brief
+Ferienjob|der|Ferienjobs|N|работа на каникулах|Arbeit in den Ferien|Im Sommer hatte ich einen Ferienjob im Hotel.|A2|Beruf
+Gastfamilie|die|Gastfamilien|N|принимающая семья|Familie, bei der ein Gast wohnt|Ich wohnte während des Kurses in einer Gastfamilie.|B1|Bildung
+Bildschirmarbeit|die|-|N|работа за компьютером|Arbeit am Computer|Bei Bildschirmarbeit sind Pausen wichtig.|B2|Gesundheit
+ausgewogen|-|ausgewogener, am ausgewogensten|A|сбалансированный|mit allem, was man braucht, in gutem Verhältnis|Ein ausgewogenes Essen hält fit.|B2|Ernährung
+Backstube|die|Backstuben|N|пекарня (цех)|Raum, in dem Brot gebacken wird|In der Backstube beginnt die Arbeit um drei Uhr.|B1|Beruf
+Messe|die|Messen|N|ярмарка, выставка|große Ausstellung von Firmen|Während der Messe sind alle Hotels voll.|B1|Wirtschaft
+Stammkraft|die|Stammkräfte|N|постоянный сотрудник|feste, erfahrene Mitarbeiterin im Team|Neue Kollegen arbeiten zuerst mit einer Stammkraft.|B2|Arbeit

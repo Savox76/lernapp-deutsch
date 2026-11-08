@@ -1151,7 +1151,7 @@ let BERUF = {};
 function mixOpts(x) {
   if (Array.isArray(x)) { x.forEach(mixOpts); return x; }
   if (x && typeof x === "object") {
-    if (Array.isArray(x.o) && typeof x.r === "number" && x.o[x.r] !== undefined && x.o.some(o => String(o).length > 6)) { const right = x.o[x.r]; x.o = shuffle(x.o); x.r = x.o.indexOf(right); }
+    if (Array.isArray(x.o) && typeof x.r === "number" && x.o[x.r] !== undefined && x.o.some(o => String(o).length > 6) && !(x.o.length === 2 && x.o.includes("richtig") && x.o.includes("falsch"))) { const right = x.o[x.r]; x.o = shuffle(x.o); x.r = x.o.indexOf(right); }
     Object.values(x).forEach(v => { if (v && typeof v === "object") mixOpts(v); });
   }
   return x;
@@ -1168,7 +1168,7 @@ const PR_TYPES = {
   diskussion: { l: { DTB: "Diskussion (Teil 2)" }, g: "Sprechen", ic: "⇆", min: 5 },
   loesung: { l: { DTB: "Lösung finden (Teil 3)", DTZ: "Gemeinsam planen (Teil 3)" }, g: "Sprechen", ic: "✓", min: 5 },
   hoeren: { l: { DTB: "Hören im Beruf", DTZ: "Hören: Ansagen und Gespräche" }, g: "Hören", ic: "🔊", min: 2 },
-  lesen: { l: { DTZ: "Lesen: Anzeigen und Wegweiser" }, g: "Lesen", ic: "📄", min: 5 }
+  lesen: { l: { DTB: "Lesen im Beruf (Teil 1–4)", DTZ: "Lesen: Anzeigen und Wegweiser" }, g: "Lesen", ic: "📄", min: 5 }
 };
 function exam() { return SET.exam || "DTB"; }
 function prLabel(t) { return PR_TYPES[t].l[exam()] || PR_TYPES[t].l.DTB || PR_TYPES[t].l.DTZ; }
@@ -1284,7 +1284,7 @@ VIEWS.prliste = function () {
 };
 VIEWS.pr = function () {
   stopTimer(); const LERN = !!SET.lern;
-  const prMk = (...x) => { if (!LERN) prMark(...x); }; const plog = (...x) => { if (!LERN) plog(...x); };
+  const prMk = (...x) => { if (!LERN) prMark(...x); }; const plog = (...x) => { if (!LERN) log(...x); };
   const a = viewArg || {}; const typ = a.typ; const item = prList(typ).find(x => x.id === a.id);
   if (!item) return go("pruefung");
   const T = Object.assign({}, PR_TYPES[typ], { l: prLabel(typ) });
@@ -1330,17 +1330,18 @@ VIEWS.pr = function () {
   }
   else if (typ === "lesen") {
     app.innerHTML = `${head2}
-      <div class="card">${task(item.anweisung || "Lies die Texte und beantworte die Fragen.", "Прочитай тексты и ответь на вопросы.")}
+      <div class="card">${task(item.anweisung || "Lies die Texte und beantworte die Fragen.", item.ru || "Прочитай тексты и ответь на вопросы.")}
         <div class="row between"><h3>${esc(item.t)}</h3>${sayBtn(item.texte.map(x => (x.k ? x.k + ": " : "") + x.text).join(" "), "Texte vorlesen")}</div>
         ${item.texte.map(x => `<div class="ex">${x.k ? `<b>${esc(x.k)}</b> ` : ""}${esc(x.text)}</div>`).join("")}</div>
       <div class="card" id="lq"></div><div id="nx" hidden>${nextBtnHtml}</div>`;
     const lq = $("#lq"); let n = 0, r = 0;
     item.fragen.forEach((f, qi) => {
       const box = document.createElement("div"); box.className = "panel"; box.style.gap = "8px";
-      box.innerHTML = `<div class="row between" style="flex-wrap:nowrap"><p style="flex:1"><b>${qi + 1}.</b> ${esc(f.q)}</p>${sayBtn(f.q)}</div><div class="choices ${f.o.length > 3 ? "two" : "one"}"></div>`;
+      box.innerHTML = `<div class="row between" style="flex-wrap:nowrap"><p style="flex:1"><b>${qi + 1}.</b> ${esc(f.q)}</p>${sayBtn(f.q)}</div><div class="choices ${f.o.length > 3 ? "two" : "one"}"></div><div class="res"></div>`;
       const ch = box.querySelector(".choices"); let done = false;
       f.o.forEach((o, oi) => { const b = document.createElement("button"); b.className = "choice"; b.textContent = o; b.onclick = () => {
         if (done) return; done = true; const ok = oi === f.r; n++; if (ok) r++; b.classList.add(ok ? "right" : "wrong"); if (!ok) ch.children[f.r].classList.add("right");
+        if (f.e) box.querySelector(".res").innerHTML = `<div class="rule">💡 ${esc(f.e)}</div>${sayBtn(f.e, "Erklärung vorlesen")}`;
         plog("lesen_pr", ok, null, { pr: typ, pid: item.id });
         if (n === item.fragen.length) { prMk(typ, item.id, r === n); $("#nx").hidden = false; bindNext(); toast(r + " von " + n + " richtig"); }
       }; ch.appendChild(b); });
