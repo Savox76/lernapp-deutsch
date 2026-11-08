@@ -1273,9 +1273,14 @@ VIEWS.pruefung = function () {
     ${section("Hören", "Hören")}
     ${section("Lesen", "Lesen")}`;
   app.querySelectorAll("#exSeg button").forEach(b => b.onclick = () => { SET.exam = b.dataset.ex; saveSET(); render(); });
-  if (SIMCFG) { const sg = document.createElement("div"); sg.className = "card"; const run = P.sim && !P.sim.done;
-    sg.innerHTML = `<h3>📝 Prüfungssimulation</h3><p class="hint small">Die ganze Prüfung wie am echten Tag: gleiche Teile, gleiche Zeiten, alles auf Deutsch, am Ende Punkte und „bestanden?“.</p><button class="btn primary" id="simGo">${run ? "▶ Simulation fortsetzen" : "Simulation ansehen und starten"}</button>`;
-    const ex = $("#exSeg"); ex.parentNode.insertBefore(sg, ex.nextSibling); $("#simGo").onclick = () => go("sim"); }
+  /* Reihenfolge: Training zuerst, Punkte-Rechner ans Ende, Simulation als schmale Leiste oben */
+  const calc = ($("#dSave") || $("#zSave")); const calcCard = calc && calc.closest(".card");
+  const firstH2 = app.querySelector("h2");
+  if (firstH2) { const h = document.createElement("h2"); h.textContent = "Einzelne Aufgaben üben"; h.style.marginBottom = "0"; firstH2.parentNode.insertBefore(h, firstH2); }
+  if (calcCard) app.appendChild(calcCard);
+  if (SIMCFG) { const sg = document.createElement("button"); sg.className = "btn"; sg.id = "simGo"; const run = P.sim && !P.sim.done;
+    sg.innerHTML = run ? "📝 Prüfungssimulation fortsetzen ▶" : "📝 Prüfungssimulation – ganze Prüfung wie am echten Tag";
+    const ex = $("#exSeg"); ex.parentNode.insertBefore(sg, ex.nextSibling); sg.onclick = () => go("sim"); }
   if ($("#zSave")) $("#zSave").onclick = () => { SET.dtz = { hl: $("#zhl").value, s: $("#zs").value, sp: $("#zsp").value }; saveSET(); render(); };
   if ($("#dSave")) $("#dSave").onclick = () => { SET.dtb = { l: $("#dl").value.replace(",", "."), h: $("#dh").value.replace(",", "."), s: $("#ds").value.replace(",", "."), sp: $("#dsp").value.replace(",", ".") }; saveSET(); render(); };
   app.querySelectorAll("[data-pt]").forEach(b => b.onclick = () => go("prliste", { typ: b.dataset.pt }));
