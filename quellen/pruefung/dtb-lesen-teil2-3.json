@@ -1,0 +1,100 @@
+{
+  "lesen": [
+    {
+      "id": "dtbl2-13", "ex": ["DTB"],
+      "t": "Teil 2: Willkommensmappe – Erster Arbeitstag",
+      "anweisung": "Sie sind neu in der Firma und lesen die Willkommensmappe. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Вы новый сотрудник и читаете приветственную папку. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Ihr erster Arbeitstag", "text": "Herzlich willkommen bei Elbtec! Bitte melden Sie sich an Ihrem ersten Tag um 8:30 Uhr am Empfang im Gebäude A. Dort erhalten Sie Ihren Mitarbeiterausweis. Bringen Sie dafür bitte Ihren Personalausweis mit.\nAnschließend begleitet Sie Ihre Patin oder Ihr Pate durch das Haus. Diese Person ist in den ersten drei Monaten Ihre feste Ansprechperson für alle Fragen.\nIhren Laptop und Ihre Zugangsdaten bekommen Sie am Vormittag von der IT. Bitte ändern Sie das Startpasswort sofort.\nAm Nachmittag findet eine Einführung für alle neuen Mitarbeitenden statt. Dort stellen sich der Betriebsrat und die Personalabteilung vor. Die Teilnahme ist Pflicht.\nIn der ersten Woche erhalten Sie in der Kantine ein kostenloses Mittagessen."}],
+      "fragen": [
+        {"q": "Den Mitarbeiterausweis bekommt man vom Paten.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: Den Ausweis erhält man „am Empfang im Gebäude A“."},
+        {"q": "Am ersten Tag muss man …", "o": ["den Personalausweis mitbringen.", "einen Laptop mitbringen.", "das Mittagessen bezahlen."], "r": 0, "e": "„Bringen Sie dafür bitte Ihren Personalausweis mit.“"},
+        {"q": "Die Einführung am Nachmittag …", "o": ["ist freiwillig.", "müssen alle neuen Mitarbeitenden besuchen.", "macht die IT."], "r": 1, "e": "„Die Teilnahme ist Pflicht.“"}
+      ]
+    },
+    {
+      "id": "dtbl2-14", "ex": ["DTB"],
+      "t": "Teil 2: Regeln für die Nutzung von Firmenwagen",
+      "anweisung": "Sie lesen die Regeln für Firmenwagen. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте правила пользования служебными автомобилями. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Nutzung der Firmenwagen", "text": "Die Firmenwagen werden über das Buchungssystem reserviert, spätestens einen Tag vor der Fahrt. Die Schlüssel holen Sie morgens ab 7 Uhr am Empfang ab.\nVor jeder Fahrt prüfen Sie bitte kurz Reifen, Licht und Tankanzeige. Schäden, die Sie bemerken, tragen Sie in das Fahrtenbuch ein, bevor Sie losfahren. Sonst kann man nicht feststellen, wer den Schaden verursacht hat.\nPrivate Fahrten sind nicht erlaubt. In den Fahrzeugen darf nicht geraucht werden.\nBitte geben Sie das Fahrzeug mit mindestens halbvollem Tank zurück. Getankt wird nur mit der Tankkarte, die im Handschuhfach liegt. Bei einem Unfall rufen Sie immer die Polizei und informieren danach den Fuhrparkleiter, Herrn Meier."}],
+      "fragen": [
+        {"q": "Man kann einen Firmenwagen auch am selben Tag spontan buchen.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: „… spätestens einen Tag vor der Fahrt“."},
+        {"q": "Einen Schaden am Auto …", "o": ["meldet man nach der Fahrt.", "schreibt man vor der Fahrt ins Fahrtenbuch.", "repariert man selbst."], "r": 1, "e": "„… tragen Sie in das Fahrtenbuch ein, bevor Sie losfahren.“"},
+        {"q": "Nach einem Unfall …", "o": ["ruft man zuerst Herrn Meier an.", "ruft man die Polizei und informiert danach Herrn Meier.", "tankt man das Auto voll."], "r": 1, "e": "„… rufen Sie immer die Polizei und informieren danach den Fuhrparkleiter.“"}
+      ]
+    },
+    {
+      "id": "dtbl2-15", "ex": ["DTB"],
+      "t": "Teil 2: Hausordnung im Seniorenheim – Besuche",
+      "anweisung": "Sie arbeiten in einem Seniorenheim und lesen die Regeln für Besuche. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Вы работаете в доме престарелых и читаете правила посещения. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Besuchsregeln Haus Lindenhof", "text": "Besuche sind täglich von 9 bis 20 Uhr möglich. In Ausnahmefällen, zum Beispiel bei schwer kranken Bewohnern, dürfen Angehörige nach Absprache mit der Stationsleitung auch nachts bleiben.\nAlle Besucherinnen und Besucher tragen sich am Eingang in die Besucherliste ein. In der Grippezeit von Dezember bis März wird zusätzlich gebeten, im Haus eine Maske zu tragen.\nHaustiere sind willkommen, wenn sie angeleint sind. In die Küche und in die Speiseräume dürfen sie jedoch nicht.\nMitgebrachte Speisen dürfen nur nach Rücksprache mit dem Pflegepersonal gegeben werden, da viele Bewohner eine besondere Diät haben.\nFragen zur Pflege beantwortet die Stationsleitung in ihrer Sprechstunde, nicht das Personal auf dem Flur."}],
+      "fragen": [
+        {"q": "Hunde dürfen nicht ins Haus.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: „Haustiere sind willkommen, wenn sie angeleint sind.“ Nur Küche und Speiseräume sind verboten."},
+        {"q": "Wenn Angehörige Kuchen mitbringen, …", "o": ["dürfen sie ihn sofort geben.", "müssen sie vorher das Pflegepersonal fragen.", "müssen sie ihn in der Küche abgeben."], "r": 1, "e": "„… nur nach Rücksprache mit dem Pflegepersonal“."},
+        {"q": "Über die Pflege sprechen Angehörige …", "o": ["mit jeder Pflegekraft im Flur.", "in der Sprechstunde der Stationsleitung.", "am Eingang."], "r": 1, "e": "„Fragen zur Pflege beantwortet die Stationsleitung in ihrer Sprechstunde.“"}
+      ]
+    },
+    {
+      "id": "dtbl2-16", "ex": ["DTB"],
+      "t": "Teil 2: Mitteilung – Neue Pausenregelung",
+      "anweisung": "Sie lesen eine Mitteilung der Produktionsleitung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте сообщение руководства производства. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Neue Pausenzeiten ab 1. Februar", "text": "Liebe Mitarbeiterinnen und Mitarbeiter,\nweil es in der Kantine in der Mittagszeit oft sehr voll war, ändern sich ab 1. Februar die Pausenzeiten. Die Halle 1 macht künftig von 11:30 bis 12:00 Uhr Pause, die Halle 2 von 12:00 bis 12:30 Uhr und das Lager von 12:30 bis 13:00 Uhr.\nDie Maschinen laufen während der Pausen weiter. Deshalb bleibt in jeder Halle eine Person zur Aufsicht. Wer das übernimmt, legen die Schichtleiter im Wochenplan fest. Diese Person macht ihre Pause danach.\nKurze Pausen von fünf Minuten am Platz sind weiterhin möglich, müssen aber nicht gebucht werden.\nBei Fragen wenden Sie sich bitte an Ihre Schichtleitung.\nIhre Produktionsleitung"}],
+      "fragen": [
+        {"q": "Die Maschinen werden in den Pausen ausgeschaltet.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: „Die Maschinen laufen während der Pausen weiter.“"},
+        {"q": "Warum ändern sich die Pausenzeiten?", "o": ["Weil die Kantine mittags überfüllt war.", "Weil es mehr Aufträge gibt.", "Weil die Kantine umgebaut wird."], "r": 0, "e": "„… weil es in der Kantine in der Mittagszeit oft sehr voll war“."},
+        {"q": "Wer während der Pause aufpasst, …", "o": ["entscheidet jeder selbst.", "steht im Wochenplan der Schichtleitung.", "muss auf die Pause verzichten."], "r": 1, "e": "„Wer das übernimmt, legen die Schichtleiter im Wochenplan fest.“ Die Pause wird danach gemacht."}
+      ]
+    },
+    {
+      "id": "dtbl2-17", "ex": ["DTB"],
+      "t": "Teil 2: Anweisung – Umgang mit Gefahrstoffen",
+      "anweisung": "Sie lesen eine Anweisung für die Arbeit mit Reinigungsmitteln. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте инструкцию по работе с моющими средствами. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Betriebsanweisung Reinigungsmittel", "text": "Reinigungsmittel mit dem Warnzeichen „Ätzend“ dürfen nur mit Schutzhandschuhen und Schutzbrille verwendet werden. Mischen Sie niemals verschiedene Reinigungsmittel, da dabei giftige Gase entstehen können.\nFüllen Sie Reinigungsmittel nicht in andere Flaschen um, besonders nicht in Getränkeflaschen. Alle Behälter müssen immer beschriftet sein.\nGelangt ein Mittel in die Augen, spülen Sie sofort mindestens zehn Minuten mit Wasser und suchen danach einen Arzt auf. Die Augenspülflasche hängt neben dem Waschbecken im Lagerraum.\nLeere Behälter werden nicht im normalen Müll entsorgt, sondern im gelben Sammelbehälter im Hof.\nDas Sicherheitsdatenblatt jedes Mittels finden Sie im Ordner im Lagerraum."}],
+      "fragen": [
+        {"q": "Man darf Reinigungsmittel in Getränkeflaschen umfüllen, wenn man sie beschriftet.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: „Füllen Sie Reinigungsmittel nicht in andere Flaschen um, besonders nicht in Getränkeflaschen.“"},
+        {"q": "Wenn ein Mittel ins Auge kommt, …", "o": ["geht man sofort zum Arzt.", "spült man mindestens zehn Minuten und geht dann zum Arzt.", "nimmt man das Sicherheitsdatenblatt."], "r": 1, "e": "„… spülen Sie sofort mindestens zehn Minuten mit Wasser und suchen danach einen Arzt auf.“"},
+        {"q": "Leere Behälter …", "o": ["kommen in den normalen Müll.", "kommen in den gelben Sammelbehälter im Hof.", "werden im Lagerraum gesammelt."], "r": 1, "e": "„… im gelben Sammelbehälter im Hof.“"}
+      ]
+    },
+    {
+      "id": "dtbl2-18", "ex": ["DTB"],
+      "t": "Teil 2: Information – Betriebliche Altersvorsorge",
+      "anweisung": "Sie lesen eine Information der Personalabteilung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте информацию отдела кадров. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Für später vorsorgen", "text": "Alle Beschäftigten können einen Teil ihres Gehalts in eine betriebliche Altersvorsorge einzahlen. Der Betrag wird direkt vom Bruttogehalt abgezogen. Dadurch zahlen Sie auf diesen Teil weniger Steuern und Sozialabgaben.\nDie Firma legt zusätzlich 15 Prozent Ihres Beitrags dazu. Wer zum Beispiel 100 Euro im Monat einzahlt, bekommt also 15 Euro von der Firma.\nSie können jederzeit einsteigen. Die Höhe des Beitrags können Sie einmal im Jahr ändern. Wenn Sie die Firma verlassen, bleibt das Geld Ihnen erhalten.\nEine persönliche Beratung bietet Frau Albrecht von der Personalabteilung jeden ersten Montag im Monat an. Bitte vereinbaren Sie vorher einen Termin."}],
+      "fragen": [
+        {"q": "Wenn man die Firma verlässt, verliert man das eingezahlte Geld.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: „Wenn Sie die Firma verlassen, bleibt das Geld Ihnen erhalten.“"},
+        {"q": "Wer 200 Euro im Monat einzahlt, bekommt von der Firma …", "o": ["15 Euro.", "30 Euro.", "200 Euro."], "r": 1, "e": "15 Prozent von 200 Euro = 30 Euro."},
+        {"q": "Den Beitrag kann man …", "o": ["jeden Monat ändern.", "einmal pro Jahr ändern.", "nie ändern."], "r": 1, "e": "„Die Höhe des Beitrags können Sie einmal im Jahr ändern.“"}
+      ]
+    },
+    {
+      "id": "dtbl2-19", "ex": ["DTB"],
+      "t": "Teil 2: Regeln in der Gemeinschaftsküche",
+      "anweisung": "Sie lesen einen Aushang in der Küche Ihres Büros. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Прочитайте объявление на кухне вашего офиса. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Unsere Küche – bitte beachten!", "text": "Liebe Kolleginnen und Kollegen,\ndamit sich alle in unserer Küche wohlfühlen, gelten ab sofort folgende Regeln:\nSchmutziges Geschirr kommt direkt in die Spülmaschine, nicht ins Waschbecken. Wer die Maschine voll macht, schaltet sie auch ein. Wer sie leer findet, räumt sie aus.\nLebensmittel im Kühlschrank bitte mit Namen und Datum beschriften. Jeden Freitag um 15 Uhr wird der Kühlschrank geleert. Alles, was dann noch drin ist, wird weggeworfen.\nDer Kaffee wird aus der gemeinsamen Kasse bezahlt. Bitte werfen Sie pro Tasse 30 Cent in die Dose.\nFür den Küchendienst gibt es einen Plan an der Tür. Jede Abteilung ist eine Woche zuständig."}],
+      "fragen": [
+        {"q": "Wer die Spülmaschine leer findet, soll sie ausräumen.", "o": ["richtig","falsch"], "r": 0, "e": "Richtig: „Wer sie leer findet, räumt sie aus.“ Gemeint ist: fertig gespült."},
+        {"q": "Lebensmittel im Kühlschrank …", "o": ["dürfen beliebig lange bleiben.", "werden am Freitag weggeworfen, wenn sie noch drin sind.", "bezahlt die Firma."], "r": 1, "e": "„Jeden Freitag um 15 Uhr wird der Kühlschrank geleert.“"},
+        {"q": "Für den Küchendienst …", "o": ["ist jede Abteilung eine Woche zuständig.", "gibt es eine Reinigungsfirma.", "melden sich Freiwillige."], "r": 0, "e": "„Jede Abteilung ist eine Woche zuständig.“"}
+      ]
+    },
+    {
+      "id": "dtbl2-20", "ex": ["DTB"],
+      "t": "Teil 2: Anweisung – Kassenabschluss im Laden",
+      "anweisung": "Sie arbeiten in einem Geschäft und lesen die Anweisung für den Kassenabschluss. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+      "ru": "Вы работаете в магазине и читаете инструкцию по закрытию кассы. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+      "texte": [{"k": "Kassenabschluss – so geht's", "text": "Der Kassenabschluss wird nach Ladenschluss immer von zwei Personen gemacht. Eine Person zählt, die zweite kontrolliert und unterschreibt das Protokoll.\nZuerst drucken Sie den Tagesbericht an der Kasse aus. Dann zählen Sie das Bargeld und tragen den Betrag in das Protokoll ein. 150 Euro Wechselgeld bleiben in der Kasse für den nächsten Tag.\nStimmt der Betrag nicht mit dem Tagesbericht überein, zählen Sie ein zweites Mal. Ist der Unterschied größer als 5 Euro, informieren Sie noch am selben Abend die Filialleitung telefonisch.\nDas übrige Geld kommt in den Tresor im Büro. Kartenzahlungen müssen nicht gezählt werden, sie stehen im Tagesbericht."}],
+      "fragen": [
+        {"q": "Den Kassenabschluss macht eine Person allein.", "o": ["richtig","falsch"], "r": 1, "e": "Falsch: „… immer von zwei Personen gemacht“."},
+        {"q": "Wenn 8 Euro fehlen, …", "o": ["schreibt man es nur ins Protokoll.", "ruft man noch am Abend die Filialleitung an.", "nimmt man Geld aus dem Wechselgeld."], "r": 1, "e": "Mehr als 5 Euro Unterschied → „… informieren Sie noch am selben Abend die Filialleitung telefonisch“."},
+        {"q": "In der Kasse bleiben über Nacht …", "o": ["150 Euro Wechselgeld.", "alle Einnahmen.", "die Kartenzahlungen."], "r": 0, "e": "„150 Euro Wechselgeld bleiben in der Kasse für den nächsten Tag.“"}
+      ]
+    }
+  ]
+}

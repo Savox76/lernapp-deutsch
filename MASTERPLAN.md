@@ -2,7 +2,7 @@
 
 Stand: 08.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
 
-**Zuletzt komplett geprüft:** 08.11.2026 nach Simulation in Statistik (Code, Inhalte und Veröffentlichung abgeglichen).
+**Zuletzt komplett geprüft:** 08.11.2026 nach L7 (Endungen) (Code, Inhalte und Veröffentlichung abgeglichen).
 Zeichen: ✅ eingebaut/fertig · 🟡 teilweise · ⏳ in Arbeit · ⬜ offen · ❓ Entscheidung von Mario nötig
 Claude aktualisiert diesen Plan nach **jedem** Arbeitsschritt selbstständig.
 
@@ -30,7 +30,7 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ---
 
-## 2. Stand heute (geprüft am 08.11.2026 nach Simulation in Statistik)
+## 2. Stand heute (geprüft am 08.11.2026 nach L7 (Endungen))
 
 | Bereich | Stand | |
 |---|---|---|
@@ -38,10 +38,10 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 | Satzbau | 4.129 Übungssätze (4.123 mit markiertem Verb), alle 12 Grammatik-Themen auf A2–B2 | ✅ |
 | Schreibaufgaben | 118 (A2, B1, B2, DTZ und DTB; laufend mehr) | ✅ |
 | **Grundkurs von vorn** | 13 Stufen von „Verb auf Platz 2“ bis „Passiv“ plus Abschluss; Freischaltung ab 80 %; A2-Sätze zuerst | ✅ |
-| **Prüfung DTB** | 42 Leseaufgaben (Teil 1–4) · 55 E-Mails · 42 Telefonnotizen · 34 Forumsbeiträge · 52 Sprachbausteine · 21 Vorträge · 10 Fragerunden · 26 Diskussionen · 15 Lösung finden · 53 Hörtexte · 60 Dialoge | ✅ |
+| **Prüfung DTB** | 50 Leseaufgaben (Teil 1–4) · 55 E-Mails · 42 Telefonnotizen · 34 Forumsbeiträge · 52 Sprachbausteine · 21 Vorträge · 30 Fragerunden · 26 Diskussionen · 15 Lösung finden · 53 Hörtexte · 60 Dialoge | ✅ |
 | **Prüfung DTZ** | 38 Briefe · 30 Leseaufgaben · 33 Brief-Lückentexte · 26 Erzählthemen · 15 Fragerunden · 23 Gemeinsam planen · 54 Hörtexte · 30 Dialoge | ✅ |
 | Prüfungsrechner | Punkte eintragen → bestanden ja/nein nach DTB-Regel und neuer DTZ-Regel (ab 1.11.2026) | ✅ |
-| Übungen | Karteikarten, Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat, Hörtraining, Bedeutung, der/die/das, Lückentext, Wortart, Schreiben mit Checkliste und Timer · Wort markieren (lange drücken) → Erklärung, Formen, Beispiel, Vorlesen, Übersetzung auf Tipp (offline) | ✅ |
+| Übungen | Karteikarten, Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat, **Endungen (Kasus/Adjektive, 239 Sätze)**, Hörtraining, Bedeutung, der/die/das, Lückentext, Wortart, Schreiben mit Checkliste und Timer · Wort markieren (lange drücken) → Erklärung, Formen, Beispiel, Vorlesen, Übersetzung auf Tipp (offline) | ✅ |
 | Tagesmix | 20 Aufgaben, jede zweite Satzbau-Aufgabe aus den schwächsten Grammatik-Themen | ✅ |
 | Lernsteuerung | 30 neue Wörter pro Tag (einstellbar 20–80), Satz erst nach 40, Wort nach 20 anderen wieder | ✅ |
 | Statistik | pro Tag Aufgaben, richtig, falsch, Minuten; Serie; Pausentage; Fehleranalyse nach 12 Grammatik-Themen; „Auswertung teilen“ | ✅ |
@@ -78,7 +78,7 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 | M16 | Wörter-Paket B | Restlücke bis ≈ 7.000 geschlossen: +1.029 Wörter (häufige Nomen/Verben B1/B2 und alle Wörter, die in Sätzen und Prüfungstexten der App vorkamen, aber im Wörterbuch fehlten) · +155 Sätze für die schwächsten Themen (Relativsatz/zu-Infinitiv/indirekte Frage A2, Konnektoren B1, Fragen B2) · neue Funktion „Wort markieren → Erklärung + Übersetzung“ | ✅ fertig |
 | M17 | Abschluss Phase 1 | Qualitätscheck bestanden: keine doppelten Wörter/Sätze/IDs, alle Felder gefüllt, 241 alte Sätze nachträglich mit Verb markiert (jetzt 3.900 von 3.905, Rest ohne Verb wie „Gute Besserung!“), Prüfungsaufgaben geprüft (Antworten, Lücken, DTB/DTZ-Zuordnung), Browser-Test aller Bereiche · dazu: Vorlesen mit Pause/Weiter/Stopp bei langen Texten, automatisches Vorlesen standardmäßig aus | ✅ fertig |
 
-**Stand:** 17 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 7.235 Wörter · 4.129 Sätze · 118 Schreibaufgaben · 629 Prüfungsaufgaben.
+**Stand:** 17 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 7.235 Wörter · 4.129 Sätze · 118 Schreibaufgaben · 657 Prüfungsaufgaben.
 
 
 **Phase 1 ist abgeschlossen (04.11.2026).** Danach am 08.11.2026: Ausbau aus Lehrbuch-Auswertung (Abschnitt 2c, L1–L5 fertig). Nächster Schritt nach Rücksprache mit Mario: M18 (Datenstruktur für mehrere Sprachen) oder zuerst die offenen ❓-Punkte aus Abschnitt 4 (z. B. Dialoge, Lesen DTB, Prüfungssimulation).
@@ -99,6 +99,7 @@ Mario hat 9 PDFs geschickt (DTB-Lesetraining, telc B2, „Mit Erfolg zu telc B2�
 | L4 | **B2-Grammatik Beruf + Wörter** | 77 Sätze für Lücken aus dem Abgleich mit dem Berufssprachkurs B2 (Konjunktiv II Vergangenheit, indem, ohne zu/ohne dass, sodass/folglich, zum + Nomen, Passiv Perfekt/Zustandspassiv, Stellung von „nicht“, je … desto) · 96 neue Wörter (Brief, Umzug, Handwerk, Tourismus, Arbeitsrecht, IT) | ✅ fertig |
 | L5 | **Weitere Lesesets + Grammatik aus „Sicher! B2.1“** | 16 weitere DTB-Leseaufgaben (je 4 pro Teil: Gastronomie, neue Medien, internationale Fachkräfte, Handel, Hygiene, Großraumbüro, IT-Regeln, Betriebsausflug, Teilzeit/Familie, Arbeitsvertrag, Technik im Betrieb, Bau, Pflegedienst) · 47 Sätze (zweiteilige Konnektoren, Mittelfeld, kausale Präpositionen, verkürzte wenn-Sätze, darauf/darüber + dass/zu, Partizip als Adjektiv) · 60 neue Wörter · 6 Schreibaufgaben (Antwort auf Reklamation, Fehlermeldung an die IT, Verbesserungsvorschlag, Vorstellung im Team, Leserbrief, Fragen zum Arbeitsvertrag) | ✅ fertig |
 | L6 | DTB C1 | Prüfung-Express-C1 ausgewertet (Format bekannt) → gehört zu Phase 3 (M26) | ⬜ später |
+| L7 | **Endungen, Prüferfragen, Lesen Teil 2** (08.11.2026) | Neuer Übungstyp **Endungen** unter Satzbau (auch „meine Schwächen“ und 2× im Tagesmix): Lücken wie „mit d… neu… Kollegen“, Auswahl aus 4 Formen, sofortige Korrektur, Regel + Russisch. 239 Sätze in 8 Bereichen (Akkusativ, Dativ, Genitiv nach Präpositionen, Wechselpräpositionen wo?/wohin?, Kasus nach Verben, Adjektiv nach der/die/das, nach ein/kein/mein, ohne Artikel). Fehleranalyse und „Auswertung teilen“ zeigen die schwächsten Endungs-Bereiche. Quelle: `quellen/endungen-*.txt`. · **Prüferfragen DTB** 10 → 30 (zu allen Vortragsthemen) · **Lesen Teil 2** 12 → 20 | ✅ fertig |
 
 **Fehler behoben (08.11.2026):** Seit dem Update „Aufgabenliste zum freien Auswählen“ hing im **Prüfungsmodus** jede Prüfungsaufgabe nach der ersten Antwort (die Protokoll-Funktion rief sich selbst endlos auf). Im Lernmodus trat der Fehler nicht auf. Ist behoben und im Browser getestet.
 
@@ -176,7 +177,7 @@ B2 ist bestanden, wenn **mindestens 144 Punkte** erreicht sind, **mindestens dre
 | Simulation | komplette Prüfung mit Zeitlimit und Punkteschätzung | 1 | ✅ fertig (08.11.2026, siehe 4b) |
 | Sprechen | sich selbst aufnehmen und anhören (braucht Mikrofon-Berechtigung, neue APK) | 3 | ⬜ |
 | **Dialoge führen** | Gespräche üben, in denen die Lernerin selbst antwortet | 1 | ✅ Stufe 1 fertig (60 Szenen, 08.11.2026) · Stufe 2 und 3 später (Abschnitt 4a) |
-| Grammatik | Drill zu Kasus nach Präpositionen und Adjektivendungen | 2 | 🟡 viele Übungssätze dazu (M7, M11, M12), aber kein eigener Übungstyp |
+| Grammatik | Drill zu Kasus nach Präpositionen und Adjektivendungen | 2 | ✅ eigener Übungstyp „Endungen“ (08.11.2026, 239 Sätze), siehe L7 |
 | Wortschatz | Fachwortschatz je Branche (Pflege, Lager, Büro, Handel, Gastro, Handwerk) | 2 | ✅ M5, M11 (weiterer Ausbau in M15) |
 
 Neue Aufgabentypen werden erst nach Rücksprache mit Mario gebaut (siehe `CLAUDE.md`).

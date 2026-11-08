@@ -1,0 +1,51 @@
+# Endungen Teil 3: gemischt, mehrere Lücken, Beruf und Alltag (B1–B2)
+Ich bringe {d|en} {neu|en} Kollegen zu {d|er} Besprechung.|Я провожу нового коллегу на совещание.|B1|Akkusativ: den neuen Kollegen; zu + Dativ: der Besprechung.|AKK
+Die Chefin gibt {d|em} {neu|en} Mitarbeiter {ein|en} Schlüssel.|Начальница даёт новому сотруднику ключ.|B1|Person im Dativ: dem neuen Mitarbeiter; Sache im Akkusativ: einen Schlüssel.|VERB
+Mit {ein|em} {gut|en} Lebenslauf hat man bessere Chancen.|С хорошим резюме больше шансов.|B1|mit + Dativ: einem guten Lebenslauf.|DAT
+Wir suchen für {unser|en} Betrieb {ein|e} {zuverlässig|e} Fahrerin.|Мы ищем для нашего предприятия надёжного водителя (женщину).|B1|für + Akkusativ: unseren Betrieb; Akkusativ feminin: eine zuverlässige.|ADU
+Nach {d|er} {lang|en} Schicht bin ich sehr müde.|После долгой смены я очень устала.|B1|nach + Dativ: der langen Schicht (Dativ: -en).|DAT
+Wegen {d|es} {stark|en} Verkehrs komme ich später.|Из-за плотного движения я приду позже.|B2|wegen + Genitiv: des starken Verkehrs.|GEN
+Ich lege {d|ie} {sauber|en} Handtücher in {d|en} Schrank.|Я кладу чистые полотенца в шкаф.|B1|Plural Akkusativ: die sauberen; wohin? in den Schrank.|WEC
+Die {sauber|en} Handtücher liegen in {d|em} Schrank.|Чистые полотенца лежат в шкафу.|B1|Plural: die sauberen; wo? in dem Schrank.|WEC
+{D|er} Kunde hat sich über {d|ie} {lang|e} Wartezeit beschwert.|Клиент пожаловался на долгое ожидание.|B1|sich beschweren über + Akkusativ: die lange Wartezeit.|AKK
+Ich habe {ein|e} Frage zu {d|em} {neu|en} Dienstplan.|У меня вопрос по новому графику.|B1|zu + Dativ: dem neuen Dienstplan.|DAT
+Sie hat sich bei {ein|er} {groß|en} Firma beworben.|Она подала заявление в крупную фирму.|B1|bei + Dativ: einer großen Firma.|DAT
+Er hat sich um {ein|e} {neu|e} Stelle beworben.|Он подал заявление на новую должность.|B1|sich bewerben um + Akkusativ: eine neue Stelle.|AKK
+Während {d|er} {kurz|en} Pause trinke ich einen Kaffee.|Во время короткого перерыва я пью кофе.|B2|während + Genitiv: der kurzen Pause.|GEN
+Das Büro {d|er} {neu|en} Chefin ist im dritten Stock.|Кабинет новой начальницы на четвёртом этаже.|B2|Genitiv: der neuen Chefin.|GEN
+Ich fahre mit {mein|em} {alt|en} Fahrrad zur Arbeit.|Я езжу на работу на своём старом велосипеде.|B1|mit + Dativ: meinem alten Fahrrad.|DAT
+Kannst du {d|ie} {schwer|en} Kisten auf {d|en} Wagen stellen?|Можешь поставить тяжёлые ящики на тележку?|B1|Plural Akkusativ: die schweren; wohin? auf den Wagen.|WEC
+Ohne {ein|en} {gültig|en} Fahrschein muss man 60 Euro zahlen.|Без действительного билета нужно заплатить 60 евро.|B1|ohne + Akkusativ: einen gültigen Fahrschein.|AKK
+Ich danke Ihnen für {d|as} {nett|e} Gespräch.|Благодарю вас за приятную беседу.|B1|danken für + Akkusativ: das nette Gespräch.|AKK
+Wir treffen uns vor {d|em} {groß|en} Eingang.|Встречаемся перед главным входом.|B1|wo? vor dem großen Eingang (Dativ).|WEC
+Sie hat {ein|en} {klein|en} Sohn und {ein|e} {klein|e} Tochter.|У неё маленький сын и маленькая дочь.|A2|haben + Akkusativ: einen kleinen Sohn, eine kleine Tochter.|ADU
+Die Firma sucht {ein|en} {erfahren|en} Koch.|Фирма ищет опытного повара.|B1|Akkusativ maskulin: einen erfahrenen Koch.|ADU
+Ich habe den Bericht mit {d|em} {neu|en} Programm geschrieben.|Я написала отчёт в новой программе.|B1|mit + Dativ: dem neuen Programm.|DAT
+Seit {d|em} {letzt|en} Jahr arbeite ich in Teilzeit.|С прошлого года я работаю неполный день.|B1|seit + Dativ: dem letzten Jahr.|DAT
+Trotz {d|er} {gut|en} Bezahlung hat er gekündigt.|Несмотря на хорошую оплату, он уволился.|B2|trotz + Genitiv: der guten Bezahlung.|GEN
+Er stellt {d|ie} {voll|en} Flaschen in {d|en} Kühlschrank.|Он ставит полные бутылки в холодильник.|B1|Plural Akkusativ: die vollen; wohin? in den Kühlschrank.|WEC
+Bei {schön|em} Wetter essen wir draußen.|В хорошую погоду мы едим на улице.|B2|bei + Dativ ohne Artikel: schönem (wie dem).|ADO
+Wir bieten {ein|en} {sicher|en} Arbeitsplatz und {flexibl|e} Arbeitszeiten.|Мы предлагаем надёжное рабочее место и гибкий график.|B1|Akkusativ: einen sicheren Arbeitsplatz; ohne Artikel Plural: flexible.|ADO
+Ich interessiere mich für {d|ie} {ausgeschrieben|e} Stelle.|Меня интересует объявленная вакансия.|B1|für + Akkusativ: die ausgeschriebene Stelle.|AKK
+Er kümmert sich um {d|ie} {alt|en} Bewohner.|Он заботится о пожилых жильцах.|B1|kümmern um + Akkusativ Plural: die alten Bewohner.|AKK
+Ich warte seit {ein|er} {halb|en} Stunde auf {d|en} Techniker.|Я уже полчаса жду техника.|B1|seit + Dativ: einer halben Stunde; warten auf + Akkusativ: den Techniker.|DAT
+Wir sind mit {d|em} {neu|en} Lieferanten sehr zufrieden.|Мы очень довольны новым поставщиком.|B1|zufrieden mit + Dativ: dem neuen Lieferanten.|DAT
+Die Kinder spielen in {d|em} {klein|en} Garten hinter {d|em} Haus.|Дети играют в маленьком саду за домом.|B1|wo? in dem kleinen Garten, hinter dem Haus (Dativ).|WEC
+{Lieb|e} Kolleginnen und Kollegen, ich lade euch zu {mein|er} Feier ein.|Дорогие коллеги, приглашаю вас на свой праздник.|B1|Anrede Plural: liebe; zu + Dativ: meiner Feier.|ADO
+Ich habe {d|en} Schlüssel {mein|er} Nachbarin gegeben.|Я отдала ключ соседке.|B1|Akkusativ: den Schlüssel; Person im Dativ: meiner Nachbarin.|VERB
+Wir haben in {ein|em} {gemütlich|en} Restaurant gegessen.|Мы поели в уютном ресторане.|B1|wo? in einem gemütlichen Restaurant (Dativ).|WEC
+Die Lehrerin erklärt {d|en} Schülern {d|ie} {neu|e} Regel.|Учительница объясняет ученикам новое правило.|B1|Person im Dativ Plural: den Schülern; Sache im Akkusativ: die neue Regel.|VERB
+Aufgrund {ein|er} {technisch|en} Störung fällt der Zug aus.|Из-за технической неисправности поезд отменяется.|B2|aufgrund + Genitiv: einer technischen Störung.|GEN
+Ich habe {kein|e} {gut|en} Erfahrungen mit dieser Firma gemacht.|У меня нет хорошего опыта с этой фирмой.|B1|keine + Plural: keine guten.|ADU
+Ich hätte gern {ein|en} Termin in {d|er} {nächst|en} Woche.|Я бы хотела записаться на следующую неделю.|B1|Akkusativ: einen Termin; in + Dativ (wann?): der nächsten Woche.|WEC
+Sie stellt {ihr|e} {neu|e} Kollegin {d|em} Team vor.|Она представляет новую коллегу команде.|B2|Akkusativ: ihre neue Kollegin; Dativ: dem Team.|VERB
+Das Paket liegt auf {d|em} {klein|en} Tisch neben {d|er} Tür.|Посылка лежит на маленьком столе возле двери.|B1|wo? auf dem kleinen Tisch, neben der Tür (Dativ).|WEC
+Ich wohne seit zwei Jahren in {ein|er} {ruhig|en} Gegend.|Я два года живу в тихом районе.|B1|in + Dativ (wo?): einer ruhigen Gegend.|WEC
+Er hat {d|ie} {ganz|e} Nacht nicht geschlafen.|Он не спал всю ночь.|B1|Akkusativ feminin: die ganze Nacht.|ADB
+Bitte schicken Sie mir {d|ie} {unterschrieben|en} Unterlagen zurück.|Пожалуйста, пришлите мне подписанные документы обратно.|B2|Plural Akkusativ: die unterschriebenen Unterlagen.|ADB
+Für {d|ie} {erst|en} Tage bekommen Sie {ein|en} Paten.|На первые дни вам назначат наставника.|B2|für + Akkusativ Plural: die ersten Tage; Akkusativ: einen Paten.|AKK
+Ich habe {mein|e} Tasche in {d|em} Bus vergessen.|Я забыла сумку в автобусе.|A2|Akkusativ: meine Tasche; wo? in dem Bus (Dativ).|WEC
+Nach {ein|em} {kurz|en} Gespräch hat sie den Vertrag unterschrieben.|После короткого разговора она подписала договор.|B1|nach + Dativ: einem kurzen Gespräch.|DAT
+Wir sprechen über {d|ie} {neu|en} Arbeitszeiten.|Мы говорим о новом графике работы.|B1|sprechen über + Akkusativ Plural: die neuen Arbeitszeiten.|AKK
+Er wohnt bei {sein|en} Eltern.|Он живёт у родителей.|A2|bei + Dativ Plural: seinen Eltern.|DAT
+Das Geld ist für {d|ie} {neu|en} Möbel.|Деньги на новую мебель.|B1|für + Akkusativ Plural: die neuen Möbel.|AKK

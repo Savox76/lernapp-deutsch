@@ -148,6 +148,31 @@ if dlg:
 if errors:
     print("\n".join(errors)); sys.exit(1)
 json.dump(pr, open(os.path.join(OUT, "pruefung.json"), "w", encoding="utf8"), ensure_ascii=False, separators=(",", ":"))
+# Endungen: quellen/endungen-*.txt  Satz mit {Stamm|Endung}|Russisch|Niveau|Regel|Kategorie
+END_KAT = {"AKK", "DAT", "GEN", "WEC", "ADB", "ADU", "ADO", "VERB"}
+ends, seen_e = [], set()
+for path in sorted(glob.glob(os.path.join(SRC, "endungen-*.txt"))):
+    fn = os.path.basename(path)
+    for n, line in enumerate(open(path, encoding="utf8"), 1):
+        line = line.rstrip("\n").strip()
+        if not line or line.startswith("#"):
+            continue
+        f = [x.strip() for x in line.split("|")]
+        # Lücken enthalten selbst ein "|": erst Lücken schützen
+        prot = re.sub(r"\{([^|}]*)\|([^}]*)\}", lambda m: "{" + m.group(1) + "\x00" + m.group(2) + "}", line)
+        f = [x.strip().replace("\x00", "|") for x in prot.split("|")]
+        if len(f) != 5: errors.append(f"{fn}:{n}: {len(f)} Felder statt 5"); continue
+        de, ru, lv, regel, k = f
+        if k not in END_KAT: errors.append(f"{fn}:{n}: Kategorie '{k}' unbekannt"); continue
+        if lv not in ("A2", "B1", "B2"): errors.append(f"{fn}:{n}: Niveau '{lv}'"); continue
+        if not re.search(r"\{[^|}]*\|[^}]*\}", de): errors.append(f"{fn}:{n}: keine Lücke {{Stamm|Endung}}"); continue
+        plainE = re.sub(r"\{([^|}]*)\|([^}]*)\}", r"\1\2", de)
+        if plainE in seen_e: continue
+        seen_e.add(plainE)
+        ends.append({"id": "e" + sid(plainE), "de": de, "ru": ru, "lv": lv, "r": regel, "k": k})
+if errors:
+    print("\n".join(errors)); sys.exit(1)
+json.dump(ends, open(os.path.join(OUT, "endungen.json"), "w", encoding="utf8"), ensure_ascii=False, separators=(",", ":"))
 # Prüfungssimulation: Ablauf und Erklärtexte (mehrsprachig) nur prüfen und kopieren
 simsrc = os.path.join(SRC, "simulation.json")
 if os.path.exists(simsrc):
@@ -161,7 +186,7 @@ if os.path.exists(simsrc):
                 if a[0] not in pr: print(f"simulation.json: Typ {a[0]} gibt es nicht"); sys.exit(1)
     json.dump(sim, open(os.path.join(OUT, "simulation.json"), "w", encoding="utf8"), ensure_ascii=False, separators=(",", ":"))
 marked = sum(1 for s in sents if "*" in s["de"])
-manifest = {"version": int(time.time()), "woerter": len(words), "saetze": len(sents), "markiert": marked, "schreiben": len(tasks), "pruefung": {k: len(v) for k, v in pr.items()}}
+manifest = {"version": int(time.time()), "woerter": len(words), "saetze": len(sents), "markiert": marked, "schreiben": len(tasks), "endungen": len(ends), "pruefung": {k: len(v) for k, v in pr.items()}}
 json.dump(manifest, open(os.path.join(OUT, "manifest.json"), "w", encoding="utf8"), ensure_ascii=False)
-print(f"{len(words)} Wörter, {len(sents)} Sätze ({marked} mit Verbmarkierung), {len(tasks)} Schreibaufgaben")
+print(f"{len(words)} Wörter, {len(sents)} Sätze ({marked} mit Verbmarkierung), {len(tasks)} Schreibaufgaben, {len(ends)} Endungen-Sätze")
 print("Prüfungsaufgaben:", ", ".join(f"{k} {len(v)}" for k, v in sorted(pr.items())) or "keine")

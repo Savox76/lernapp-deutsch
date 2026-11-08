@@ -1,0 +1,108 @@
+# Endungen Teil 1: Kasus nach Präpositionen und Verben
+# Format: Satz mit {Stamm|Endung}|Russisch|Niveau|Regel|Kategorie (AKK, DAT, GEN, WEC, VERB, ADB, ADU, ADO)
+# Stamm "d" = der/die/das-Artikel, "ein/kein/mein/…" = ein-Wörter, sonst Adjektiv.
+# --- AKK: für, ohne, durch, gegen, um, bis ---
+Das Geschenk ist für {mein|en} Chef.|Подарок для моего начальника.|A2|für + Akkusativ: der Chef → meinen Chef.|AKK
+Ich habe ein Geschenk für {d|ie} Kollegin gekauft.|Я купила подарок для коллеги.|A2|für + Akkusativ: die Kollegin → die (bleibt gleich).|AKK
+Wir gehen durch {d|en} Park zur Arbeit.|Мы идём на работу через парк.|A2|durch + Akkusativ: der Park → den Park.|AKK
+Ohne {mein|en} Ausweis kann ich nicht reisen.|Без паспорта я не могу путешествовать.|A2|ohne + Akkusativ: der Ausweis → meinen Ausweis.|AKK
+Sie ist gegen {d|en} Plan der Chefin.|Она против плана начальницы.|B1|gegen + Akkusativ: der Plan → den Plan.|AKK
+Wir sitzen um {d|en} Tisch herum.|Мы сидим вокруг стола.|B1|um + Akkusativ: der Tisch → den Tisch.|AKK
+Der Bus fährt bis {d|en} Hauptbahnhof.|Автобус едет до главного вокзала.|B1|bis + Akkusativ (ohne Artikel oft „bis zum“): der Hauptbahnhof → den.|AKK
+Das Auto ist gegen {ein|en} Baum gefahren.|Машина врезалась в дерево.|B1|gegen + Akkusativ: der Baum → einen Baum.|AKK
+Ich mache das für {mein|e} Familie.|Я делаю это для своей семьи.|A2|für + Akkusativ: die Familie → meine Familie.|AKK
+Ohne {d|as} Formular können wir den Antrag nicht bearbeiten.|Без формуляра мы не можем обработать заявление.|B1|ohne + Akkusativ: das Formular → das (bleibt gleich).|AKK
+Vielen Dank für {Ihr|en} Brief.|Большое спасибо за ваше письмо.|A2|danken für + Akkusativ: der Brief → Ihren Brief.|AKK
+Ich interessiere mich für {d|en} Kurs am Abend.|Меня интересует вечерний курс.|B1|sich interessieren für + Akkusativ: der Kurs → den Kurs.|AKK
+Wir warten auf {d|en} Bus.|Мы ждём автобус.|A2|warten auf + Akkusativ: der Bus → den Bus.|AKK
+Sie freut sich auf {d|as} Wochenende.|Она радуется выходным.|A2|sich freuen auf + Akkusativ: das Wochenende → das.|AKK
+Ich denke oft an {mein|e} Mutter.|Я часто думаю о маме.|B1|denken an + Akkusativ: die Mutter → meine Mutter.|AKK
+Er ärgert sich über {d|en} Fehler.|Он злится из-за ошибки.|B1|sich ärgern über + Akkusativ: der Fehler → den Fehler.|AKK
+Bitte achten Sie auf {d|ie} Sicherheitsregeln.|Пожалуйста, соблюдайте правила безопасности.|B1|achten auf + Akkusativ, Plural: die Regeln → die.|AKK
+Ich kümmere mich um {d|en} Kunden.|Я займусь клиентом.|B1|sich kümmern um + Akkusativ: der Kunde → den Kunden (n-Deklination).|AKK
+Wir sprechen morgen über {d|as} Problem.|Мы завтра поговорим о проблеме.|B1|sprechen über + Akkusativ: das Problem → das.|AKK
+Ich habe {ein|en} Termin beim Arzt.|У меня приём у врача.|A2|haben + Akkusativ: der Termin → einen Termin.|AKK
+Wir brauchen {ein|en} neuen Drucker.|Нам нужен новый принтер.|A2|brauchen + Akkusativ: der Drucker → einen.|AKK
+Hast du {d|en} Schlüssel gesehen?|Ты видела ключ?|A2|sehen + Akkusativ: der Schlüssel → den Schlüssel.|AKK
+Ich rufe {d|en} Kollegen morgen an.|Я позвоню коллеге завтра.|B1|anrufen + Akkusativ (nicht Dativ!): der Kollege → den Kollegen.|AKK
+Kannst du {mein|en} Sohn von der Kita abholen?|Можешь забрать моего сына из садика?|A2|abholen + Akkusativ: der Sohn → meinen Sohn.|AKK
+Die Firma sucht {ein|en} Fahrer für das Lager.|Фирма ищет водителя для склада.|A2|suchen + Akkusativ: der Fahrer → einen Fahrer.|AKK
+Ich frage {d|en} Arzt nach dem Ergebnis.|Я спрошу врача о результате.|B1|fragen + Akkusativ (Person): der Arzt → den Arzt.|AKK
+# --- DAT: mit, bei, nach, von, zu, aus, seit, gegenüber, außer ---
+Ich fahre mit {d|em} Bus zur Arbeit.|Я езжу на работу на автобусе.|A2|mit + Dativ: der Bus → dem Bus.|DAT
+Sie wohnt bei {ihr|er} Schwester.|Она живёт у своей сестры.|A2|bei + Dativ: die Schwester → ihrer Schwester.|DAT
+Nach {d|em} Essen trinken wir Kaffee.|После еды мы пьём кофе.|A2|nach + Dativ: das Essen → dem Essen.|DAT
+Das Paket ist von {mein|er} Mutter.|Посылка от моей мамы.|A2|von + Dativ: die Mutter → meiner Mutter.|DAT
+Ich gehe heute zu {d|em} Arzt.|Сегодня я иду к врачу.|A2|zu + Dativ: der Arzt → dem Arzt (oft: zum Arzt).|DAT
+Sie kommt aus {d|er} Ukraine.|Она из Украины.|A2|aus + Dativ: die Ukraine → der Ukraine.|DAT
+Seit {ein|em} Jahr arbeite ich hier.|Я работаю здесь уже год.|A2|seit + Dativ: das Jahr → einem Jahr.|DAT
+Die Apotheke ist gegenüber {d|em} Bahnhof.|Аптека напротив вокзала.|B1|gegenüber + Dativ: der Bahnhof → dem Bahnhof.|DAT
+Außer {mein|em} Bruder kommen alle.|Придут все, кроме моего брата.|B1|außer + Dativ: der Bruder → meinem Bruder.|DAT
+Ich arbeite mit {ein|er} netten Kollegin zusammen.|Я работаю с приятной коллегой.|B1|mit + Dativ: die Kollegin → einer Kollegin.|DAT
+Nach {d|er} Arbeit gehe ich einkaufen.|После работы я иду за покупками.|A2|nach + Dativ: die Arbeit → der Arbeit.|DAT
+Er spricht mit {d|en} Kunden am Telefon.|Он говорит с клиентами по телефону.|B1|mit + Dativ Plural: die Kunden → den Kunden (Dativ Plural: -n).|DAT
+Seit {d|em} Unfall hat sie Rückenschmerzen.|После аварии у неё болит спина.|B1|seit + Dativ: der Unfall → dem Unfall.|DAT
+Ich bin bei {ein|er} Spedition angestellt.|Я работаю в транспортной компании.|B1|bei + Dativ: die Spedition → einer Spedition.|DAT
+Wir fahren mit {d|en} Kindern an den See.|Мы едем с детьми на озеро.|A2|mit + Dativ Plural: die Kinder → den Kindern (Dativ Plural: -n).|DAT
+Ich habe eine E-Mail von {d|er} Personalabteilung bekommen.|Я получила письмо из отдела кадров.|B1|von + Dativ: die Personalabteilung → der.|DAT
+Nach {d|em} Termin rufe ich dich an.|После встречи я тебе позвоню.|A2|nach + Dativ: der Termin → dem Termin.|DAT
+Ich helfe {mein|er} Nachbarin beim Einkaufen.|Я помогаю соседке с покупками.|A2|helfen + Dativ: die Nachbarin → meiner Nachbarin.|VERB
+Das Kleid gefällt {mein|er} Tochter sehr.|Платье очень нравится моей дочери.|A2|gefallen + Dativ: die Tochter → meiner Tochter.|VERB
+Ich danke {Ihr|em} Team für die Hilfe.|Благодарю вашу команду за помощь.|A2|danken + Dativ: das Team → Ihrem Team.|VERB
+Kannst du {d|em} Kunden die Rechnung schicken?|Можешь отправить клиенту счёт?|B1|schicken: Person im Dativ (dem Kunden), Sache im Akkusativ.|VERB
+Ich gebe {d|er} Chefin den Bericht.|Я отдаю начальнице отчёт.|A2|geben: Person im Dativ: die Chefin → der Chefin.|VERB
+Die Schuhe passen {mein|em} Sohn nicht mehr.|Ботинки больше не подходят моему сыну.|B1|passen + Dativ: der Sohn → meinem Sohn.|VERB
+Das Auto gehört {mein|em} Mann.|Машина принадлежит моему мужу.|A2|gehören + Dativ: der Mann → meinem Mann.|VERB
+Ich gratuliere {mein|em} Bruder zum Geburtstag.|Я поздравляю брата с днём рождения.|A2|gratulieren + Dativ: der Bruder → meinem Bruder.|VERB
+Der Arzt hat {d|em} Patienten ein Medikament gegeben.|Врач дал пациенту лекарство.|B1|geben: Person im Dativ: der Patient → dem Patienten (n-Deklination).|VERB
+Ich erkläre {d|er} neuen Kollegin den Scanner.|Я объясняю новой коллеге сканер.|B1|erklären: Person im Dativ: die Kollegin → der Kollegin.|VERB
+Bitte antworten Sie {d|em} Kunden heute noch.|Пожалуйста, ответьте клиенту ещё сегодня.|B1|antworten + Dativ: der Kunde → dem Kunden.|VERB
+Ich glaube {d|em} Kollegen nicht.|Я не верю коллеге.|B1|glauben + Dativ (Person): der Kollege → dem Kollegen.|VERB
+Wir zeigen {d|en} Gästen das Zimmer.|Мы показываем гостям номер.|B1|zeigen: Person im Dativ Plural: die Gäste → den Gästen.|VERB
+Ich habe {d|en} Brief noch nicht gelesen.|Я ещё не прочитала письмо.|A2|lesen + Akkusativ: der Brief → den Brief.|AKK
+Kannst du {mein|er} Mutter eine Nachricht schreiben?|Можешь написать моей маме сообщение?|B1|schreiben: Person im Dativ: die Mutter → meiner Mutter.|VERB
+# --- GEN: wegen, trotz, während, aufgrund, statt, innerhalb, außerhalb ---
+Wegen {d|es} Streiks fährt heute kein Zug.|Из-за забастовки сегодня не ходит ни один поезд.|B1|wegen + Genitiv: der Streik → des Streiks.|GEN
+Trotz {d|es} Regens gehen wir spazieren.|Несмотря на дождь, мы идём гулять.|B1|trotz + Genitiv: der Regen → des Regens.|GEN
+Während {d|er} Arbeit darf man nicht privat telefonieren.|Во время работы нельзя звонить по личным делам.|B1|während + Genitiv: die Arbeit → der Arbeit.|GEN
+Aufgrund {d|er} hohen Nachfrage suchen wir neue Mitarbeiter.|Из-за высокого спроса мы ищем новых сотрудников.|B2|aufgrund + Genitiv: die Nachfrage → der Nachfrage.|GEN
+Statt {ein|es} Briefes schreibe ich eine E-Mail.|Вместо письма я напишу e-mail.|B2|statt + Genitiv: der Brief → eines Briefes.|GEN
+Innerhalb {ein|er} Woche müssen Sie antworten.|Вы должны ответить в течение недели.|B2|innerhalb + Genitiv: die Woche → einer Woche.|GEN
+Während {d|es} Urlaubs habe ich viel gelesen.|Во время отпуска я много читала.|B1|während + Genitiv: der Urlaub → des Urlaubs.|GEN
+Wegen {mein|er} Krankheit konnte ich nicht kommen.|Из-за болезни я не смогла прийти.|B1|wegen + Genitiv: die Krankheit → meiner Krankheit.|GEN
+Trotz {d|er} Probleme haben wir das Projekt beendet.|Несмотря на проблемы, мы закончили проект.|B2|trotz + Genitiv Plural: die Probleme → der Probleme.|GEN
+Aufgrund {d|es} Unfalls war die Straße gesperrt.|Из-за аварии улица была перекрыта.|B2|aufgrund + Genitiv: der Unfall → des Unfalls.|GEN
+Außerhalb {d|er} Öffnungszeiten ist niemand da.|Вне часов работы никого нет.|B2|außerhalb + Genitiv Plural: die Öffnungszeiten → der.|GEN
+Das ist das Auto {mein|es} Mannes.|Это машина моего мужа.|B1|Genitiv zeigt, wem etwas gehört: der Mann → meines Mannes.|GEN
+Die Farbe {d|er} Wand gefällt mir nicht.|Цвет стены мне не нравится.|B1|Genitiv: die Wand → der Wand.|GEN
+Am Ende {d|es} Monats bekomme ich mein Gehalt.|В конце месяца я получаю зарплату.|B1|Genitiv: der Monat → des Monats.|GEN
+Dank {d|er} Hilfe meiner Kollegen war ich schnell fertig.|Благодаря помощи коллег я быстро закончила.|B2|dank + Genitiv: die Hilfe → der Hilfe.|GEN
+# --- WEC: in, an, auf, über, unter, vor, hinter, neben, zwischen (wo? Dativ / wohin? Akkusativ) ---
+Ich stelle die Kiste in {d|as} Regal.|Я ставлю ящик на стеллаж.|B1|wohin? → Akkusativ: das Regal → in das (ins) Regal.|WEC
+Die Kiste steht in {d|em} Regal.|Ящик стоит на стеллаже.|B1|wo? → Dativ: das Regal → in dem (im) Regal.|WEC
+Ich hänge das Bild an {d|ie} Wand.|Я вешаю картину на стену.|B1|wohin? → Akkusativ: die Wand → an die Wand.|WEC
+Das Bild hängt an {d|er} Wand.|Картина висит на стене.|B1|wo? → Dativ: die Wand → an der Wand.|WEC
+Leg die Schlüssel bitte auf {d|en} Tisch.|Положи, пожалуйста, ключи на стол.|B1|wohin? → Akkusativ: der Tisch → auf den Tisch.|WEC
+Die Schlüssel liegen auf {d|em} Tisch.|Ключи лежат на столе.|B1|wo? → Dativ: der Tisch → auf dem Tisch.|WEC
+Wir gehen heute Abend in {d|as} Kino.|Сегодня вечером мы идём в кино.|A2|wohin? → Akkusativ: das Kino → ins Kino.|WEC
+Wir sind gestern in {d|em} Kino gewesen.|Вчера мы были в кино.|A2|wo? → Dativ: das Kino → im Kino.|WEC
+Das Auto steht vor {d|em} Haus.|Машина стоит перед домом.|A2|wo? → Dativ: das Haus → vor dem Haus.|WEC
+Stell das Auto bitte vor {d|as} Haus.|Поставь, пожалуйста, машину перед домом.|B1|wohin? → Akkusativ: das Haus → vor das Haus.|WEC
+Die Katze schläft unter {d|em} Bett.|Кошка спит под кроватью.|A2|wo? → Dativ: das Bett → unter dem Bett.|WEC
+Die Katze läuft unter {d|as} Bett.|Кошка бежит под кровать.|B1|wohin? → Akkusativ: das Bett → unter das Bett.|WEC
+Der Drucker steht neben {d|em} Fenster.|Принтер стоит рядом с окном.|A2|wo? → Dativ: das Fenster → neben dem Fenster.|WEC
+Ich setze mich neben {mein|e} Kollegin.|Я сажусь рядом с коллегой.|B1|wohin? → Akkusativ: die Kollegin → neben meine Kollegin.|WEC
+Ich sitze neben {mein|er} Kollegin.|Я сижу рядом с коллегой.|B1|wo? → Dativ: die Kollegin → neben meiner Kollegin.|WEC
+Die Lampe hängt über {d|em} Tisch.|Лампа висит над столом.|B1|wo? → Dativ: der Tisch → über dem Tisch.|WEC
+Der Container steht hinter {d|er} Halle.|Контейнер стоит за цехом.|B1|wo? → Dativ: die Halle → hinter der Halle.|WEC
+Bring die Paletten bitte hinter {d|ie} Halle.|Отвези, пожалуйста, поддоны за цех.|B1|wohin? → Akkusativ: die Halle → hinter die Halle.|WEC
+Die Apotheke ist zwischen {d|er} Bank und {d|em} Supermarkt.|Аптека между банком и супермаркетом.|B1|wo? → Dativ: die Bank → der Bank, der Supermarkt → dem Supermarkt.|WEC
+Ich fahre morgen in {d|ie} Stadt.|Завтра я еду в город.|A2|wohin? → Akkusativ: die Stadt → in die Stadt.|WEC
+Sie arbeitet in {ein|er} Bäckerei.|Она работает в пекарне.|A2|wo? → Dativ: die Bäckerei → in einer Bäckerei.|WEC
+Ich lege die Unterlagen in {Ihr|en} Briefkasten.|Я положу документы в ваш почтовый ящик.|B1|wohin? → Akkusativ: der Briefkasten → in Ihren Briefkasten.|WEC
+Die Unterlagen liegen in {Ihr|em} Briefkasten.|Документы лежат в вашем почтовом ящике.|B1|wo? → Dativ: der Briefkasten → in Ihrem Briefkasten.|WEC
+Am Wochenende fahren wir an {d|ie} Ostsee.|На выходных мы едем на Балтийское море.|B1|wohin? → Akkusativ: die Ostsee → an die Ostsee.|WEC
+Wir waren zwei Wochen an {d|er} Ostsee.|Мы были две недели на Балтийском море.|B1|wo? → Dativ: die Ostsee → an der Ostsee.|WEC
+Häng deine Jacke bitte in {d|en} Schrank.|Повесь, пожалуйста, куртку в шкаф.|B1|wohin? → Akkusativ: der Schrank → in den Schrank.|WEC
+Deine Jacke hängt in {d|em} Schrank.|Твоя куртка висит в шкафу.|B1|wo? → Dativ: der Schrank → im Schrank.|WEC
+Er stellt die Flaschen auf {d|en} Boden.|Он ставит бутылки на пол.|B1|wohin? → Akkusativ: der Boden → auf den Boden.|WEC

@@ -1,0 +1,104 @@
+{
+  "fragen": [
+    {"id": "qb20", "ex": ["DTB"], "t": "Fragen zum Vortrag: Fachkräfte aus dem Ausland", "fragen": [
+      {"q": "Was war für Sie am Anfang in Deutschland am schwierigsten?", "m": "Am schwierigsten war die Sprache, besonders am Telefon und bei Behörden.", "ru": "Что было для вас самым трудным в начале в Германии?"},
+      {"q": "Wie lange hat die Anerkennung Ihres Abschlusses gedauert?", "m": "Es hat fast ein Jahr gedauert, weil ich viele Unterlagen übersetzen lassen musste.", "ru": "Сколько длилось признание вашего диплома?"},
+      {"q": "Was sollten Firmen für ausländische Fachkräfte tun?", "m": "Sie sollten Sprachkurse anbieten und neuen Kollegen einen Paten geben.", "ru": "Что фирмы должны делать для иностранных специалистов?"},
+      {"q": "Würden Sie anderen Menschen raten, nach Deutschland zu kommen?", "m": "Ja, aber nur, wenn sie vorher gut Deutsch lernen und Geduld haben.", "ru": "Посоветовали бы вы другим приехать в Германию?"}]},
+    {"id": "qb21", "ex": ["DTB"], "t": "Fragen zum Vortrag: Ältere Mitarbeiter und Digitalisierung", "fragen": [
+      {"q": "Haben ältere Kollegen bei Ihnen Probleme mit neuer Technik?", "m": "Manche ja, aber sie lernen schnell, wenn man ihnen geduldig hilft.", "ru": "Есть ли у пожилых коллег проблемы с новой техникой?"},
+      {"q": "Wer sollte die Schulungen bezahlen?", "m": "Ich finde, das sollte der Arbeitgeber bezahlen, weil die Firma davon profitiert.", "ru": "Кто должен оплачивать обучение?"},
+      {"q": "Was können jüngere Kollegen von älteren lernen?", "m": "Sie können viel Erfahrung lernen, zum Beispiel wie man mit schwierigen Kunden umgeht.", "ru": "Чему молодые коллеги могут научиться у старших?"},
+      {"q": "Wie lernen Sie selbst neue Programme?", "m": "Ich probiere viel aus und schaue mir kurze Videos im Internet an.", "ru": "Как вы сами осваиваете новые программы?"}]},
+    {"id": "qb22", "ex": ["DTB"], "t": "Fragen zum Vortrag: Schichtdienst und Gesundheit", "fragen": [
+      {"q": "Arbeiten Sie selbst im Schichtdienst?", "m": "Ja, ich arbeite im Wechsel Früh- und Spätschicht, manchmal auch am Wochenende.", "ru": "Вы сами работаете посменно?"},
+      {"q": "Was ist für Sie das Schwierigste daran?", "m": "Am schwierigsten ist es, genug zu schlafen und Zeit für die Familie zu haben.", "ru": "Что для вас в этом самое трудное?"},
+      {"q": "Was macht Ihr Arbeitgeber für die Gesundheit der Mitarbeiter?", "m": "Es gibt einen Rückenkurs und gesundes Essen in der Kantine.", "ru": "Что ваш работодатель делает для здоровья сотрудников?"},
+      {"q": "Würden Sie lieber nur tagsüber arbeiten?", "m": "Eigentlich ja, aber die Zuschläge für die Nachtschicht sind für mich wichtig.", "ru": "Вы бы предпочли работать только днём?"}]},
+    {"id": "qb23", "ex": ["DTB"], "t": "Fragen zum Vortrag: Frauen in Führungspositionen", "fragen": [
+      {"q": "Haben Sie schon einmal eine Chefin gehabt?", "m": "Ja, in meiner letzten Firma hatte ich eine Chefin, und ich habe sehr gern mit ihr gearbeitet.", "ru": "У вас когда-нибудь была начальница?"},
+      {"q": "Warum gibt es Ihrer Meinung nach so wenige Frauen in Führungspositionen?", "m": "Ich glaube, weil viele Frauen Kinder betreuen und deshalb in Teilzeit arbeiten.", "ru": "Почему, по-вашему, так мало женщин на руководящих должностях?"},
+      {"q": "Ist eine Frauenquote eine gute Idee?", "m": "Ich bin unsicher. Sie hilft vielleicht am Anfang, aber am wichtigsten ist die Qualifikation.", "ru": "Хорошая ли идея — квота для женщин?"},
+      {"q": "Wie ist das in Ihrem Heimatland?", "m": "In meinem Heimatland gibt es viele Frauen als Ärztinnen und Lehrerinnen, aber wenige als Chefinnen.", "ru": "Как это на вашей родине?"}]},
+    {"id": "qb24", "ex": ["DTB"], "t": "Fragen zum Vortrag: Pünktlichkeit und Zuverlässigkeit", "fragen": [
+      {"q": "Was passiert bei Ihnen, wenn jemand zu spät kommt?", "m": "Wenn es selten passiert, ist es kein Problem, aber man muss vorher anrufen.", "ru": "Что у вас происходит, если кто-то опаздывает?"},
+      {"q": "Sind die Deutschen wirklich so pünktlich?", "m": "Im Beruf meistens ja, privat sind manche auch etwas lockerer.", "ru": "Немцы правда такие пунктуальные?"},
+      {"q": "Was bedeutet Zuverlässigkeit für Sie?", "m": "Zuverlässig ist, wer seine Aufgaben erledigt und Bescheid sagt, wenn es ein Problem gibt.", "ru": "Что для вас значит надёжность?"},
+      {"q": "Waren Sie schon einmal zu spät bei der Arbeit?", "m": "Ja, einmal wegen eines Streiks, aber ich habe meine Chefin sofort informiert.", "ru": "Вы когда-нибудь опаздывали на работу?"}]},
+    {"id": "qb25", "ex": ["DTB"], "t": "Fragen zum Vortrag: Sicherheit am Arbeitsplatz", "fragen": [
+      {"q": "Welche Schutzkleidung tragen Sie bei der Arbeit?", "m": "Ich trage Sicherheitsschuhe und Handschuhe, im Lager auch eine Warnweste.", "ru": "Какую защитную одежду вы носите на работе?"},
+      {"q": "Hatten Sie schon einmal einen Arbeitsunfall?", "m": "Zum Glück nur einen kleinen: Ich habe mich an einem Karton geschnitten.", "ru": "У вас был несчастный случай на работе?"},
+      {"q": "Wer ist für die Sicherheit verantwortlich?", "m": "Der Arbeitgeber ist verantwortlich, aber jeder muss die Regeln beachten.", "ru": "Кто отвечает за безопасность?"},
+      {"q": "Was würden Sie tun, wenn ein Kollege die Regeln nicht beachtet?", "m": "Ich würde ihn freundlich darauf hinweisen und, wenn nötig, die Schichtleitung informieren.", "ru": "Что бы вы сделали, если бы коллега не соблюдал правила?"}]},
+    {"id": "qb26", "ex": ["DTB"], "t": "Fragen zum Vortrag: Konflikte am Arbeitsplatz", "fragen": [
+      {"q": "Hatten Sie schon einmal Streit mit einem Kollegen?", "m": "Ja, einmal ging es um die Urlaubsplanung, aber wir haben eine Lösung gefunden.", "ru": "У вас был когда-нибудь конфликт с коллегой?"},
+      {"q": "Wie haben Sie das Problem gelöst?", "m": "Wir haben in Ruhe gesprochen, und jeder hat ein bisschen nachgegeben.", "ru": "Как вы решили проблему?"},
+      {"q": "Wann sollte man zum Chef gehen?", "m": "Erst wenn ein Gespräch unter Kollegen nichts bringt.", "ru": "Когда стоит идти к начальнику?"},
+      {"q": "Sind Konflikte auch manchmal gut?", "m": "Ja, manchmal entstehen dadurch neue Ideen, wenn man fair diskutiert.", "ru": "Бывают ли конфликты иногда полезными?"}]},
+    {"id": "qb27", "ex": ["DTB"], "t": "Fragen zum Vortrag: Kommunikation – E-Mail, Telefon oder Gespräch", "fragen": [
+      {"q": "Wie kommunizieren Sie am liebsten mit Kollegen?", "m": "Am liebsten persönlich, weil man Missverständnisse schneller klären kann.", "ru": "Как вы предпочитаете общаться с коллегами?"},
+      {"q": "Wann schreiben Sie lieber eine E-Mail?", "m": "Wenn ich etwas schriftlich festhalten möchte, zum Beispiel einen Termin.", "ru": "Когда вы предпочитаете писать e-mail?"},
+      {"q": "Ist Telefonieren auf Deutsch für Sie schwierig?", "m": "Ja, ein bisschen, weil ich das Gesicht nicht sehe. Deshalb notiere ich mir vorher Stichpunkte.", "ru": "Трудно ли вам говорить по телефону на немецком?"},
+      {"q": "Bekommen Sie zu viele E-Mails?", "m": "Manchmal ja. Ich lese sie deshalb nur zu festen Zeiten.", "ru": "Вы получаете слишком много писем?"}]},
+    {"id": "qb28", "ex": ["DTB"], "t": "Fragen zum Vortrag: Flexible Arbeitszeiten", "fragen": [
+      {"q": "Haben Sie Gleitzeit?", "m": "Nein, in der Pflege gibt es feste Schichten, aber wir können Dienste tauschen.", "ru": "У вас есть гибкий график?"},
+      {"q": "Was sind die Vorteile von flexiblen Arbeitszeiten?", "m": "Man kann Familie und Beruf besser verbinden und Termine leichter planen.", "ru": "Какие преимущества у гибкого графика?"},
+      {"q": "Gibt es auch Nachteile?", "m": "Ja, manchmal arbeitet man zu viel, und die Kollegen sind nicht gleichzeitig da.", "ru": "Есть ли недостатки?"},
+      {"q": "Wie würden Sie gern arbeiten?", "m": "Ich würde gern vier Tage pro Woche arbeiten, dafür etwas länger.", "ru": "Как бы вы хотели работать?"}]},
+    {"id": "qb29", "ex": ["DTB"], "t": "Fragen zum Vortrag: Zusammenarbeit im Team", "fragen": [
+      {"q": "Wie groß ist Ihr Team?", "m": "Wir sind zwölf Personen, die meisten arbeiten schon lange zusammen.", "ru": "Насколько большая ваша команда?"},
+      {"q": "Welche Rolle haben Sie im Team?", "m": "Ich bin oft diejenige, die neue Kollegen einarbeitet.", "ru": "Какая у вас роль в команде?"},
+      {"q": "Was macht für Sie ein gutes Team aus?", "m": "Man hilft sich gegenseitig und spricht offen über Probleme.", "ru": "Что для вас делает команду хорошей?"},
+      {"q": "Unternehmen Sie auch privat etwas mit Kollegen?", "m": "Ja, manchmal gehen wir nach der Arbeit zusammen essen.", "ru": "Вы проводите время с коллегами и вне работы?"}]},
+    {"id": "qb30", "ex": ["DTB"], "t": "Fragen zum Vortrag: Lebenslanges Lernen", "fragen": [
+      {"q": "Welche Weiterbildung haben Sie zuletzt gemacht?", "m": "Zuletzt habe ich einen Kurs in Erster Hilfe gemacht.", "ru": "Какое повышение квалификации вы прошли последним?"},
+      {"q": "Wie viel Zeit haben Sie zum Lernen?", "m": "Unter der Woche nur etwa eine halbe Stunde am Abend, am Wochenende mehr.", "ru": "Сколько у вас времени на учёбу?"},
+      {"q": "Sollte Weiterbildung während der Arbeitszeit stattfinden?", "m": "Ja, wenn sie für die Arbeit wichtig ist, sollte sie zur Arbeitszeit zählen.", "ru": "Должно ли обучение проходить в рабочее время?"},
+      {"q": "Was möchten Sie als Nächstes lernen?", "m": "Ich möchte mein Deutsch auf C1 verbessern, damit ich als Fachkraft arbeiten kann.", "ru": "Чему вы хотите научиться дальше?"}]},
+    {"id": "qb31", "ex": ["DTB"], "t": "Fragen zum Vortrag: Schwierige Kunden", "fragen": [
+      {"q": "Haben Sie oft Kontakt mit Kunden?", "m": "Ja, jeden Tag. Ich berate Kunden und nehme Reklamationen an.", "ru": "У вас часто бывает контакт с клиентами?"},
+      {"q": "Was machen Sie, wenn ein Kunde laut wird?", "m": "Ich bleibe ruhig, höre zu und versuche, eine Lösung anzubieten.", "ru": "Что вы делаете, если клиент начинает кричать?"},
+      {"q": "Hat der Kunde immer recht?", "m": "Nein, nicht immer, aber man sollte ihn immer höflich behandeln.", "ru": "Клиент всегда прав?"},
+      {"q": "Erzählen Sie von einer schwierigen Situation.", "m": "Einmal war ein Kunde sehr wütend, weil die Lieferung zu spät kam. Ich habe mich entschuldigt und ihm einen Rabatt angeboten.", "ru": "Расскажите о трудной ситуации."}]},
+    {"id": "qb32", "ex": ["DTB"], "t": "Fragen zum Vortrag: Ausbildung in Deutschland und im Heimatland", "fragen": [
+      {"q": "Wie haben Sie Ihren Beruf gelernt?", "m": "In meinem Heimatland habe ich an einer Fachschule gelernt, mit wenigen Praktika.", "ru": "Как вы учились своей профессии?"},
+      {"q": "Was gefällt Ihnen an der dualen Ausbildung in Deutschland?", "m": "Mir gefällt, dass man gleichzeitig im Betrieb arbeitet und Geld verdient.", "ru": "Что вам нравится в дуальном обучении в Германии?"},
+      {"q": "Gibt es auch Nachteile?", "m": "Die Ausbildung dauert lange, und die Bezahlung ist am Anfang niedrig.", "ru": "Есть ли недостатки?"},
+      {"q": "Würden Sie in Deutschland noch einmal eine Ausbildung machen?", "m": "Vielleicht, wenn mein Abschluss nicht vollständig anerkannt wird.", "ru": "Вы бы ещё раз прошли обучение в Германии?"}]},
+    {"id": "qb33", "ex": ["DTB"], "t": "Fragen zum Vortrag: Nachhaltigkeit am Arbeitsplatz", "fragen": [
+      {"q": "Was wird in Ihrer Firma für die Umwelt getan?", "m": "Wir trennen den Müll und drucken nur noch, wenn es wirklich nötig ist.", "ru": "Что делается в вашей фирме для окружающей среды?"},
+      {"q": "Welche Idee hätten Sie für Ihren Arbeitsplatz?", "m": "Man könnte Mehrwegbecher in der Kantine einführen.", "ru": "Какая у вас была бы идея для вашего рабочего места?"},
+      {"q": "Ist Nachhaltigkeit nicht nur ein Werbetrick?", "m": "Manchmal schon, aber viele Firmen sparen dadurch wirklich Energie und Geld.", "ru": "Не просто ли это рекламный трюк?"},
+      {"q": "Wie kommen Sie zur Arbeit?", "m": "Meistens mit der Straßenbahn, im Sommer auch mit dem Fahrrad.", "ru": "Как вы добираетесь до работы?"}]},
+    {"id": "qb34", "ex": ["DTB"], "t": "Fragen zum Vortrag: Stellensuche in Deutschland", "fragen": [
+      {"q": "Wie haben Sie Ihre jetzige Stelle gefunden?", "m": "Ich habe sie über ein Jobportal gefunden und mich online beworben.", "ru": "Как вы нашли нынешнюю работу?"},
+      {"q": "Was ist bei einer Bewerbung in Deutschland besonders wichtig?", "m": "Ein vollständiger Lebenslauf ohne Lücken und ein persönliches Anschreiben.", "ru": "Что особенно важно при подаче заявления в Германии?"},
+      {"q": "Hat Ihnen jemand bei der Suche geholfen?", "m": "Ja, die Arbeitsagentur und eine Bekannte, die schon dort gearbeitet hat.", "ru": "Вам кто-нибудь помогал в поиске?"},
+      {"q": "Welchen Tipp würden Sie anderen geben?", "m": "Man sollte nicht aufgeben und auch Initiativbewerbungen schreiben.", "ru": "Какой совет вы бы дали другим?"}]},
+    {"id": "qb35", "ex": ["DTB"], "t": "Fragen zum Vortrag: Beruf und Familie", "fragen": [
+      {"q": "Wer betreut Ihre Kinder, wenn Sie arbeiten?", "m": "Meine Tochter geht in die Kita, und mein Mann holt sie am Nachmittag ab.", "ru": "Кто присматривает за детьми, когда вы работаете?"},
+      {"q": "Was machen Sie, wenn Ihr Kind krank ist?", "m": "Dann bleibe ich zu Hause und bekomme Kinderkrankengeld von der Krankenkasse.", "ru": "Что вы делаете, если ребёнок заболел?"},
+      {"q": "Sollten Väter mehr Elternzeit nehmen?", "m": "Ja, ich finde, beide Eltern sollten sich die Arbeit zu Hause teilen.", "ru": "Должны ли отцы брать больше отпуска по уходу за ребёнком?"},
+      {"q": "Was könnte Ihr Arbeitgeber besser machen?", "m": "Es wäre gut, wenn die Dienstpläne früher feststehen würden.", "ru": "Что ваш работодатель мог бы сделать лучше?"}]},
+    {"id": "qb36", "ex": ["DTB"], "t": "Fragen zum Vortrag: Digitale Medien im Beruf", "fragen": [
+      {"q": "Welche Programme benutzen Sie bei der Arbeit?", "m": "Ich benutze eine App für die Dokumentation und das E-Mail-Programm.", "ru": "Какими программами вы пользуетесь на работе?"},
+      {"q": "Sind Videokonferenzen genauso gut wie Treffen?", "m": "Für kurze Absprachen ja, aber für schwierige Themen ist ein Treffen besser.", "ru": "Видеоконференции так же хороши, как встречи?"},
+      {"q": "Darf man bei Ihnen das Handy privat benutzen?", "m": "Nur in den Pausen, während der Arbeit ist es nicht erlaubt.", "ru": "Можно ли у вас пользоваться телефоном в личных целях?"},
+      {"q": "Macht die Digitalisierung die Arbeit leichter?", "m": "Meistens ja, aber am Anfang braucht man Zeit, um alles zu lernen.", "ru": "Делает ли цифровизация работу легче?"}]},
+    {"id": "qb37", "ex": ["DTB"], "t": "Fragen zum Vortrag: Gesund im Arbeitsalltag", "fragen": [
+      {"q": "Was tun Sie gegen Stress?", "m": "Ich gehe nach der Arbeit spazieren und treffe mich mit Freunden.", "ru": "Что вы делаете против стресса?"},
+      {"q": "Machen Sie regelmäßig Pausen?", "m": "Ich versuche es, aber wenn viel los ist, ist die Pause manchmal kurz.", "ru": "Вы регулярно делаете перерывы?"},
+      {"q": "Wie ernähren Sie sich bei der Arbeit?", "m": "Ich bringe mir meistens Essen von zu Hause mit, das ist gesünder und billiger.", "ru": "Как вы питаетесь на работе?"},
+      {"q": "Sollte der Arbeitgeber Sportangebote machen?", "m": "Ja, ein Zuschuss für das Fitnessstudio wäre zum Beispiel eine gute Idee.", "ru": "Должен ли работодатель предлагать спорт?"}]},
+    {"id": "qb38", "ex": ["DTB"], "t": "Fragen zum Vortrag: Ältere Menschen in der Arbeitswelt", "fragen": [
+      {"q": "Bis wann möchten Sie arbeiten?", "m": "Ich möchte bis zur Rente arbeiten, aber vielleicht die letzten Jahre in Teilzeit.", "ru": "До какого возраста вы хотите работать?"},
+      {"q": "Was ist der Vorteil von älteren Kollegen?", "m": "Sie haben viel Erfahrung und bleiben in schwierigen Situationen ruhig.", "ru": "В чём преимущество старших коллег?"},
+      {"q": "Sollten alle länger arbeiten?", "m": "Nicht alle. Wer körperlich schwer arbeitet, sollte früher in Rente gehen können.", "ru": "Должны ли все работать дольше?"},
+      {"q": "Wie ist das Rentenalter in Ihrem Heimatland?", "m": "Bei uns gehen die Menschen etwas früher in Rente als in Deutschland.", "ru": "Какой пенсионный возраст на вашей родине?"}]},
+    {"id": "qb39", "ex": ["DTB"], "t": "Fragen zum Vortrag: Mein Arbeitsplatz", "fragen": [
+      {"q": "Beschreiben Sie bitte Ihren Arbeitsplatz.", "m": "Ich arbeite in einem großen Seniorenheim mit drei Stationen und etwa achtzig Bewohnern.", "ru": "Опишите, пожалуйста, своё рабочее место."},
+      {"q": "Was gefällt Ihnen an Ihrer Arbeit am besten?", "m": "Am besten gefällt mir, wenn die Bewohner zufrieden sind und sich bedanken.", "ru": "Что вам больше всего нравится в работе?"},
+      {"q": "Was würden Sie ändern, wenn Sie Chefin wären?", "m": "Ich würde mehr Personal einstellen, damit wir mehr Zeit für die Menschen haben.", "ru": "Что бы вы изменили, если бы были начальницей?"},
+      {"q": "Wo sehen Sie sich in fünf Jahren?", "m": "In fünf Jahren möchte ich als Pflegefachkraft arbeiten.", "ru": "Где вы видите себя через пять лет?"}]}
+  ]
+}

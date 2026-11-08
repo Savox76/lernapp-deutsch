@@ -24,7 +24,7 @@ automatisch beim nächsten Öffnen. Die App muss nicht neu installiert werden.
 | Heute | **Grundkurs von vorn** (13 Stufen von „Verb auf Platz 2“ bis Passiv, nächste Stufe ab 80 %), Tagesmix (20 Aufgaben gemischt), Tagesziel, Serie |
 | Prüfung | Umschaltbar **DTB B2** / **DTZ**. DTB: Lesen im Beruf (Teil 1–4), Dialoge führen, E-Mail beantworten, Telefonnotiz, Forumsbeitrag, Sprachbausteine, Vortrag, Prüferfragen, Diskussion, Lösung finden, Hören im Beruf. DTZ: Brief, Brief-Lückentext, Lesen (Wegweiser, Anzeigen), Sich vorstellen, Erzählen, Gemeinsam planen, Hören. Mit Timer, Redemitteln, Musterlösungen zum Anhören und **Punkterechner** (bestanden ja/nein). |
 | Wörter | Karteikasten mit Wiederholung nach 1, 3, 7, 14, 30 … Tagen, Quiz: Bedeutung, der/die/das, Lückentext, Wortart |
-| Satzbau | Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat (hören und bauen) |
+| Satzbau | Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat (hören und bauen), Endungen (der/den/dem, -e/-en/-er) |
 | Statistik | Aufgaben, richtig/falsch und Minuten pro Tag, Diagramm 14 Tage, Übungsarten, häufigste Fehler, **Bericht per WhatsApp senden** |
 | Fehleranalyse | Satzbau nach Grammatik-Thema, Fehlerarten (Verb falsch / Wörter vertauscht), Artikel-Verwechslungen, schwache Wortthemen, schwerste Sätze, **Auswertung teilen**. Der Tagesmix und „Meine Schwächen trainieren“ wählen Sätze gezielt aus den schwächsten Themen. |
 | Simulation | Komplette Prüfung DTB oder DTZ mit echten Zeiten, Erklärung auf Deutsch und Russisch, Auswertung „bestanden?“ |
@@ -74,6 +74,15 @@ Typen und Felder:
 | `lesen` | `t, anweisung, ru?, texte[{k,text}], fragen[{q,o,r,e?}]` – `e` = Erklärung nach der Antwort (Schlüsselstelle im Text) |
 
 `r` ist die Nummer der richtigen Option (ab 0). Die App mischt die Optionen selbst.
+
+**Endungen** (`quellen/endungen-*.txt`): eine Zeile pro Satz, Lücken als `{Stamm|Endung}`.
+
+```
+Ich fahre mit {d|em} {neu|en} Auto.|Я езжу на новой машине.|B1|mit + Dativ: dem neuen Auto.|DAT
+```
+
+Stamm `d` = der/die/das, `ein`/`kein`/`mein` … = ein-Wörter, sonst Adjektiv (die App bietet passende Formen zur Auswahl an).
+Kategorien: `AKK`, `DAT`, `GEN`, `WEC` (Wechselpräpositionen), `VERB`, `ADB` (nach der/die/das), `ADU` (nach ein/kein/mein), `ADO` (ohne Artikel).
 
 **Dialoge** (`quellen/dialoge/*.txt`): einfaches Textformat, eine Szene beginnt mit einer Kopfzeile.
 

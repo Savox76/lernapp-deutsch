@@ -26,7 +26,7 @@ function pct(r, n) { return n ? Math.round(100 * r / n) : 0; }
 const INTERVALS = [0, 1, 3, 7, 14, 30, 60, 120];
 let W = [], S = [], T = [], MAN = {};
 let WBYID = {}, SBYID = {};
-let P = Object.assign({ w: {}, s: {}, newDay: 0, newCount: 0, fehler: {}, seenVersion: 0, drafts: {}, schreibenDone: {} }, LS.get("dl-prog", {}));
+let P = Object.assign({ w: {}, s: {}, e: {}, newDay: 0, newCount: 0, fehler: {}, seenVersion: 0, drafts: {}, schreibenDone: {} }, LS.get("dl-prog", {}));
 let ST = Object.assign({ days: {} }, LS.get("dl-stats", {}));
 let SET = Object.assign({ name: "", niveau: "alle", perDay: 30, goal: 60, leicht: false, rate: 0.9, onboarded: false, auto: false, tapSay: true }, LS.get("dl-set", {}));
 /* einmalig: automatisches Vorlesen ausschalten – man tippt selbst auf 🔊 (Wunsch vom 04.11.2026) */
@@ -34,6 +34,7 @@ if (!SET.mig3) { SET.auto = false; SET.mig3 = true; try { localStorage.setItem("
 /* einmalig: neue Wörter pro Tag verdoppeln (Wunsch vom 04.11.2026) */
 if (!SET.mig2) { const old = LS.get("dl-set", {}); if (old.perDay) SET.perDay = Math.min(80, +old.perDay * 2); SET.mig2 = true; try { localStorage.setItem("dl-set", JSON.stringify(SET)); } catch (e) {} }
 function saveP() { LS.set("dl-prog", P); }
+if (!P.e) P.e = {};
 function saveST() { LS.set("dl-stats", ST); }
 function saveSET() { LS.set("dl-set", SET); }
 
@@ -225,8 +226,8 @@ async function getJSON(path) {
   return r.json();
 }
 async function loadContent() {
-  const [m, w, s, t, pr, sim] = await Promise.all([getJSON("content/manifest.json"), getJSON("content/woerter.json"), getJSON("content/saetze.json"), getJSON("content/schreiben.json").catch(() => []), getJSON("content/pruefung.json").catch(() => ({})), getJSON("content/simulation.json").catch(() => null)]);
-  BERUF = mixOpts(pr || {}); SIMCFG = sim;
+  const [m, w, s, t, pr, sim, en] = await Promise.all([getJSON("content/manifest.json"), getJSON("content/woerter.json"), getJSON("content/saetze.json"), getJSON("content/schreiben.json").catch(() => []), getJSON("content/pruefung.json").catch(() => ({})), getJSON("content/simulation.json").catch(() => null), getJSON("content/endungen.json").catch(() => [])]);
+  BERUF = mixOpts(pr || {}); SIMCFG = sim; E = en || [];
   MAN = m; W = w; T = t;
   // Beispielsätze der Wörter werden zusätzliche Satzbau-Übungen
   const ex = w.filter(x => x.x && x.x.split(/\s+/).length >= 4 && x.x.split(/\s+/).length <= 16)
@@ -333,7 +334,7 @@ function pickCard0() {
 /* ================= Übungen =================
    Jede Übung: build(host, done) – ruft done(ok) genau einmal auf, wenn die Lernerin "Weiter" drückt. */
 const EX = {};
-const TYPE_NAMES = { mailfragen: "Prüfung: E-Mail verstehen", notiz: "Prüfung: Telefonnotiz", sb: "Prüfung: Sprachbausteine", sprechen: "Prüfung: Sprechen", loesung_wahl: "Prüfung: Lösung finden", diskussion_wahl: "Prüfung: Diskussion", hoeren_beruf: "Prüfung: Hören", lesen_pr: "Prüfung: Lesen", dialog: "Dialoge führen", hoeren: "Hörtraining", karte: "Karteikarten", bauen: "Satz bauen", verb: "Wo steht das Verb?", rf: "Richtig oder falsch?", diktat: "Diktat", bedeutung: "Bedeutung", artikel: "der/die/das", luecke: "Lückentext", wortart: "Wortart", schreiben: "Schreiben" };
+const TYPE_NAMES = { mailfragen: "Prüfung: E-Mail verstehen", notiz: "Prüfung: Telefonnotiz", sb: "Prüfung: Sprachbausteine", sprechen: "Prüfung: Sprechen", loesung_wahl: "Prüfung: Lösung finden", diskussion_wahl: "Prüfung: Diskussion", hoeren_beruf: "Prüfung: Hören", lesen_pr: "Prüfung: Lesen", endung: "Endungen (Kasus, Adjektive)", dialog: "Dialoge führen", hoeren: "Hörtraining", karte: "Karteikarten", bauen: "Satz bauen", verb: "Wo steht das Verb?", rf: "Richtig oder falsch?", diktat: "Diktat", bedeutung: "Bedeutung", artikel: "der/die/das", luecke: "Lückentext", wortart: "Wortart", schreiben: "Schreiben" };
 
 function nextBtn(host, done, ok) {
   const b = document.createElement("button"); b.className = "btn primary"; b.textContent = "Weiter →";
@@ -443,6 +444,70 @@ function buildSentence(host, done, sent, mode) {
 }
 EX.bauen = (host, done, opt = {}) => { const s = opt.sent || pickSentence(false, opt.cats); return s ? buildSentence(host, done, s, "bauen") : false; };
 EX.diktat = (host, done, opt = {}) => { if (!HAS_TTS) return EX.bauen(host, done, opt); const s = opt.sent || pickSentence(false, opt.cats); return s ? buildSentence(host, done, s, "diktat") : false; };
+
+/* --- Endungen: Kasus nach Präpositionen und Adjektivendungen --- */
+let E = [];
+const END_KAT = { AKK: "Akkusativ (für, ohne, durch, gegen, um …)", DAT: "Dativ (mit, bei, nach, von, zu, aus, seit …)", GEN: "Genitiv (wegen, trotz, während, aufgrund …)", WEC: "Wechselpräpositionen (in, an, auf … wo? / wohin?)", ADB: "Adjektiv nach der/die/das", ADU: "Adjektiv nach ein/kein/mein", ADO: "Adjektiv ohne Artikel", VERB: "Kasus nach Verben (helfen, danken, fragen …)" };
+const END_RU = { AKK: "винительный падеж", DAT: "дательный падеж", GEN: "родительный падеж", WEC: "предлоги с двумя падежами", ADB: "прилагательное после der/die/das", ADU: "прилагательное после ein/kein/mein", ADO: "прилагательное без артикля", VERB: "падеж после глагола" };
+function endOptions(stem, ending) {
+  const low = stem.toLowerCase(); const cap = stem !== low;
+  let ends;
+  if (low === "d") ends = ["er", "ie", "as", "en", "em", "es"];
+  else if (["ein", "kein", "mein", "dein", "sein", "ihr", "unser"].includes(low)) ends = ["", "e", "en", "em", "er", "es"];
+  else if (["dies", "jed", "welch", "manch", "solch", "all"].includes(low)) ends = ["er", "e", "es", "en", "em"];
+  else ends = ["e", "en", "er", "es", "em"];
+  const right = stem + ending; let pool = shuffle(ends.map(e => stem + e).filter(w => w !== right));
+  const out = [right].concat(pool.slice(0, 3)); return shuffle(out).map(w => cap ? w.charAt(0).toUpperCase() + w.slice(1) : w);
+}
+function endWeak() {
+  const A = analyse(30);
+  return Object.entries(A.end).filter(([k, v]) => v.n >= 3).sort((a, b) => rate(a[1]) - rate(b[1])).filter(([k, v]) => rate(v) < 0.85).map(x => x[0]);
+}
+function pickEnd(weak) {
+  let pool = E;
+  if (weak) { const w = endWeak(); if (w.length) pool = E.filter(x => w.slice(0, 2).includes(x.k)); }
+  const t = dayNum(); const due = pool.filter(x => P.e[x.id] && P.e[x.id].d <= t); const fresh = pool.filter(x => !P.e[x.id]);
+  const first = due.length && Math.random() < 0.6 ? due : fresh.length ? fresh.filter(x => x.lv !== "B2" || Math.random() < 0.6) : pool;
+  return rnd(first.length ? first : pool);
+}
+EX.endung = function (host, done, opt = {}) {
+  if (!E.length) return false;
+  const it = opt.item || pickEnd(opt.weak);
+  /* Teile: Text und Lücken {stem|ending} */
+  const parts = []; it.de.replace(/\{([^|}]*)\|([^}]*)\}|([^{]+)/g, (m, st, en, tx) => { parts.push(tx !== undefined ? { tx } : { st, en, opts: endOptions(st, en) }); return m; });
+  const gaps = parts.filter(x => x.st !== undefined); let gi = 0, right = 0; const chosen = [];
+  const full = parts.map(x => x.tx !== undefined ? x.tx : x.st + x.en).join("");
+  host.innerHTML = `<div class="card">
+      <div class="row between"><span class="pill">Endungen · ${esc(it.lv)}</span>${sayBtn("Welche Endung ist richtig?", "Aufgabe vorlesen")}</div>
+      ${task("Welche Form ist richtig? Wähle für jede Lücke.", "Какая форма правильная? Выбери для каждого пропуска.")}
+      <p class="hint small">${esc(END_KAT[it.k] || "")}</p>
+      <div class="sent endsent" style="font-size:21px;line-height:1.9"></div>
+      <div class="choices two" id="eopts"></div><div id="eres"></div></div>`;
+  const sentEl = $(".endsent", host), optEl = $("#eopts", host), res = $("#eres", host);
+  const drawSent = () => {
+    let g = 0; sentEl.innerHTML = parts.map(x => {
+      if (x.tx !== undefined) return esc(x.tx);
+      const k = g++; const c = chosen[k];
+      if (c) return `<span class="egap ${c.ok ? "ok" : "bad"}">${esc(c.ok ? c.w : c.w)}</span>${c.ok ? "" : `<span class="egap fix">${esc(c.r)}</span>`}`;
+      return `<span class="egap ${k === gi ? "cur" : ""}">${esc(x.st)}…</span>`;
+    }).join("");
+  };
+  const drawOpts = () => {
+    optEl.innerHTML = ""; if (gi >= gaps.length) return; const gp = gaps[gi];
+    gp.opts.forEach(o => { const b = document.createElement("button"); b.className = "choice"; b.textContent = o; b.onclick = () => {
+      const r = gp.st + gp.en; const rr = /^[A-ZÄÖÜ]/.test(o) ? r.charAt(0).toUpperCase() + r.slice(1) : r; const ok = o === rr;
+      chosen.push({ w: o, ok, r: rr }); if (ok) right++; gi++; drawSent(); drawOpts(); if (gi >= gaps.length) finish(); }; optEl.appendChild(b); });
+  };
+  const finish = () => {
+    const ok = right === gaps.length; srsGrade("e", it.id, ok);
+    log("endung", ok, it.id, Object.assign({ ek: it.k }, ok ? {} : { a: chosen.map(c => c.w).join(" "), c: gaps.map(g => g.st + g.en).join(" ") }));
+    res.innerHTML = `<div class="feedback ${ok ? "ok" : "bad"}" style="text-align:left">${ok ? "Richtig! <span class='ru'>Верно!</span>" : `${right} von ${gaps.length} richtig. So ist es richtig: <span class='ru'>Правильно так:</span>`}</div>
+      <div class="solution">${esc(full)}</div>${sayBtn(full, "Satz vorlesen")}
+      ${it.r ? `<div class="rule"><b>Regel:</b> ${esc(it.r)}</div>` : ""}${it.ru ? `<div class="rubox">${esc(it.ru)}</div>` : ""}`;
+    say(full); nextBtn(host.firstElementChild, done, ok);
+  };
+  drawSent(); drawOpts(); return true;
+};
 
 /* --- Wo steht das Verb? --- */
 EX.verb = function (host, done, opt = {}) {
@@ -647,7 +712,7 @@ const W_TYPES = ["karte", "bedeutung", "artikel", "luecke", "wortart", "hoeren"]
 function analyse(days) {
   const since = days ? Math.floor(Date.now() / 1000) - days * 86400 : 0;
   const ev = LOG.filter(e => e.t >= since);
-  const A = { n: ev.length, cat: {}, fehlerArt: {}, art: {}, artVerw: {}, thema: {}, wortart: {}, typ: {}, wrong: {} };
+  const A = { n: ev.length, cat: {}, fehlerArt: {}, art: {}, artVerw: {}, thema: {}, wortart: {}, typ: {}, wrong: {}, end: {} };
   const inc = (o, k, ok) => { if (!k) return; const x = o[k] || (o[k] = { n: 0, r: 0 }); x.n++; if (ok) x.r++; };
   ev.forEach(e => {
     inc(A.typ, e.y, e.o);
@@ -656,6 +721,7 @@ function analyse(days) {
       if (!e.o && e.f) A.fehlerArt[e.f] = (A.fehlerArt[e.f] || 0) + 1;
     }
     if (W_TYPES.includes(e.y) && e.i && WBYID[e.i]) { const w = WBYID[e.i]; inc(A.thema, w.th, e.o); inc(A.wortart, w.t, e.o); }
+    if (e.y === "endung") inc(A.end, e.ek, e.o);
     if (e.y === "artikel") { inc(A.art, e.c || (WBYID[e.i] || {}).a, e.o); if (!e.o && e.a && e.c) { const key = e.a + " statt " + e.c; A.artVerw[key] = (A.artVerw[key] || 0) + 1; } }
     if (!e.o && e.i) { const x = A.wrong[e.i] || (A.wrong[e.i] = { n: 0, last: null }); x.n++; x.last = e; }
   });
@@ -754,7 +820,7 @@ function sessionEnd(host) {
 /* Pläne */
 const PLAN = {
   mix: i => {
-    const order = ["karte", "bauen", "karte", "verb", "bedeutung", "rf", "karte", "bauen", "artikel", "diktat", "karte", "verb", "hoeren", "bauen", "karte", "rf", "luecke", "bauen", "verb", "hoeren"];
+    const order = ["karte", "bauen", "endung", "verb", "bedeutung", "rf", "karte", "bauen", "artikel", "diktat", "endung", "verb", "hoeren", "bauen", "karte", "rf", "luecke", "bauen", "verb", "hoeren"];
     const type = order[i % order.length];
     // Satzbau-Aufgaben im Tagesmix: jede zweite aus den schwächsten Grammatik-Themen
     if (["bauen", "verb", "rf", "diktat"].includes(type) && i % 2 === 1) return { type, opt: { cats: weakCats() } };
@@ -763,6 +829,7 @@ const PLAN = {
   schwach: (i, t) => { const c = weakCats(); return { type: t > 2 ? "bauen" : ["bauen", "verb", "bauen", "rf", "verb", "diktat"][i % 6], opt: { cats: c } }; },
   kat: (i, t) => ({ type: t > 2 ? "bauen" : ["bauen", "verb", "rf", "bauen"][i % 4], opt: { cats: [session.kat] } }),
   satzbau: (i, t) => ({ type: t > 1 ? "bauen" : ["bauen", "verb", "rf", "bauen", "diktat", "verb", "bauen", "rf"][i % 8] }),
+  endung: () => ({ type: "endung" }), endungSchwach: () => ({ type: "endung", opt: { weak: true } }),
   bauen: () => ({ type: "bauen" }), verb: () => ({ type: "verb" }), rf: () => ({ type: "rf" }), diktat: () => ({ type: "diktat" }),
   karten: () => ({ type: "karte" }),
   quiz: (i, t) => ({ type: t > 2 ? "bedeutung" : ["bedeutung", "artikel", "luecke", "hoeren", "wortart", "artikel", "bedeutung", "hoeren"][i % 8] }),
@@ -946,6 +1013,8 @@ VIEWS.satzbau = function () {
       <button data-p="verb"><span class="ic">V</span><b>Wo steht das Verb?</b><span>${marked} Sätze</span></button>
       <button data-p="rf"><span class="ic">✓✗</span><b>Richtig oder falsch?</b><span>Fehler erkennen</span></button>
       <button data-p="diktat" ${HAS_TTS ? "" : "disabled"}><span class="ic">🔊</span><b>Diktat</b><span>${HAS_TTS ? "hören und bauen" : "Vorlesen nicht verfügbar"}</span></button>
+      <button data-p="endung" ${E.length ? "" : "disabled"}><span class="ic">-em</span><b>Endungen</b><span>dem, den, des · -e, -en, -er (${E.length} Sätze)</span></button>
+      <button data-p="endungSchwach" ${E.length ? "" : "disabled"}><span class="ic">🎯</span><b>Endungen: meine Schwächen</b><span>${endWeak().map(k => END_KAT[k]).slice(0, 2).join(", ") || "noch keine Daten"}</span></button>
     </div>
     <div class="card"><h3>Die 3 wichtigsten Regeln</h3>
       <div class="ex">1. Hauptsatz: Verb auf <b>Position 2</b>.<br>2. Nebensatz (weil, dass, wenn …): Verb <b>ganz am Ende</b>.<br>3. Zwei Verbteile: Teil 2 <b>ans Ende</b> (Satzklammer).</div>
@@ -1159,6 +1228,8 @@ function analyseText() {
   L.push("", "SATZBAU NACH THEMA (schwächstes zuerst):"); cats.forEach(([k, v]) => L.push(`- ${CATS[k].l}: ${v.n}×, ${pc(v)}`));
   if (fa.length) { L.push("", "FEHLERARTEN:"); fa.forEach(([k, n]) => L.push(`- ${FEHLERART[k] || k}: ${n}×`)); }
   if (Object.keys(A.art).length) { L.push("", "ARTIKEL:"); ["der", "die", "das"].forEach(a => A.art[a] && L.push(`- ${a}: ${A.art[a].n}×, ${pc(A.art[a])}`)); verw.forEach(([k, n]) => L.push(`  Verwechslung ${k}: ${n}×`)); }
+  const ends = Object.entries(A.end).sort((a, b) => rate(a[1]) - rate(b[1]));
+  if (ends.length) { L.push("", "ENDUNGEN (schwächstes zuerst):"); ends.forEach(([k, v]) => L.push(`- ${END_KAT[k] || k}: ${v.n}×, ${pc(v)}`)); }
   if (themen.length) { L.push("", "SCHWÄCHSTE WORTTHEMEN:"); themen.forEach(([k, v]) => L.push(`- ${k}: ${pc(v)}`)); }
   if (wl.length) {
     L.push("", "SCHWERSTE SÄTZE (richtig → zuletzt gebaut):");

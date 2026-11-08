@@ -1,0 +1,95 @@
+# Endungen Teil 2: Adjektivendungen
+# ADB = nach der/die/das (bestimmter Artikel): Nominativ Singular und Akkusativ fem./neutr. -e, sonst -en
+# ADU = nach ein/kein/mein: Endung zeigt das Geschlecht, wenn der Artikel es nicht zeigt (ein neuer Kollege, ein neues Auto)
+# ADO = ohne Artikel: Adjektiv bekommt die Endung des Artikels (frischer Kaffee, mit frischem Brot)
+# --- ADB ---
+Der {neu|e} Kollege kommt aus Polen.|Новый коллега из Польши.|A2|der + Adjektiv im Nominativ: der neue (-e).|ADB
+Die {neu|e} Kollegin heißt Anna.|Новую коллегу зовут Анна.|A2|die + Adjektiv im Nominativ: die neue (-e).|ADB
+Das {neu|e} Programm ist sehr schnell.|Новая программа очень быстрая.|A2|das + Adjektiv im Nominativ: das neue (-e).|ADB
+Ich kenne den {neu|en} Kollegen noch nicht.|Я ещё не знаю нового коллегу.|B1|Akkusativ maskulin: den neuen (-en).|ADB
+Ich kenne die {neu|e} Kollegin schon.|Я уже знаю новую коллегу.|B1|Akkusativ feminin: die neue (-e, wie Nominativ).|ADB
+Wir testen das {neu|e} Programm.|Мы тестируем новую программу.|B1|Akkusativ neutral: das neue (-e, wie Nominativ).|ADB
+Ich spreche mit dem {neu|en} Kollegen.|Я говорю с новым коллегой.|B1|Dativ: immer -en (dem neuen).|ADB
+Ich spreche mit der {neu|en} Kollegin.|Я говорю с новой коллегой.|B1|Dativ: immer -en (der neuen).|ADB
+Die {neu|en} Kollegen sind sehr nett.|Новые коллеги очень милые.|B1|Plural mit die: immer -en (die neuen).|ADB
+Der Chef hat die {alt|en} Computer verkauft.|Начальник продал старые компьютеры.|B1|Plural mit die: -en (die alten).|ADB
+Wo ist der {rot|e} Ordner?|Где красная папка?|A2|der + Adjektiv im Nominativ: der rote (-e).|ADB
+Hast du den {rot|en} Ordner gesehen?|Ты видела красную папку?|B1|Akkusativ maskulin: den roten (-en).|ADB
+Die Kunden im {klein|en} Laden sind sehr freundlich.|Покупатели в маленьком магазине очень приветливы.|B1|Dativ (im = in dem): -en.|ADB
+Das ist die Adresse der {neu|en} Firma.|Это адрес новой фирмы.|B2|Genitiv: immer -en (der neuen Firma).|ADB
+Wegen des {schlecht|en} Wetters fällt der Ausflug aus.|Из-за плохой погоды экскурсия отменяется.|B2|Genitiv: -en (des schlechten Wetters).|ADB
+Die {frisch|e} Ware muss sofort in den Kühlraum.|Свежий товар нужно сразу отнести в холодильную камеру.|B1|die + Adjektiv im Nominativ: die frische (-e).|ADB
+Bitte bringen Sie den {schwer|en} Karton ins Lager.|Пожалуйста, отнесите тяжёлую коробку на склад.|B1|Akkusativ maskulin: den schweren (-en).|ADB
+Ich arbeite gern mit den {jung|en} Leuten zusammen.|Я охотно работаю с молодыми людьми.|B1|Dativ Plural: den jungen (-en).|ADB
+Die {letzt|e} Prüfung war schwer.|Последний экзамен был трудным.|A2|die + Adjektiv im Nominativ: die letzte (-e).|ADB
+Beim {nächst|en} Mal mache ich es besser.|В следующий раз я сделаю лучше.|B1|Dativ (beim = bei dem): -en.|ADB
+Das {klein|e} Kind spielt im Garten.|Маленький ребёнок играет в саду.|A2|das + Adjektiv im Nominativ: das kleine (-e).|ADB
+Wir wohnen in der {groß|en} Wohnung im dritten Stock.|Мы живём в большой квартире на четвёртом этаже.|B1|Dativ: -en (in der großen Wohnung).|ADB
+Mit dem {neu|en} Scanner geht es viel schneller.|С новым сканером получается гораздо быстрее.|B1|Dativ: -en (mit dem neuen Scanner).|ADB
+Der {freundlich|e} Verkäufer hat mir geholfen.|Приветливый продавец мне помог.|A2|der + Adjektiv im Nominativ: der freundliche (-e).|ADB
+Ich nehme das {blau|e} Kleid.|Я возьму синее платье.|A2|Akkusativ neutral: das blaue (-e).|ADB
+Die {deutsch|e} Sprache ist nicht leicht.|Немецкий язык нелёгкий.|A2|die + Adjektiv im Nominativ: die deutsche (-e).|ADB
+Kennst du die {neu|en} Regeln?|Ты знаешь новые правила?|B1|Plural mit die: -en (die neuen Regeln).|ADB
+Ich habe den {ganz|en} Tag gearbeitet.|Я работала весь день.|B1|Akkusativ maskulin: den ganzen (-en).|ADB
+Das Ende des {lang|en} Arbeitstages war schön.|Конец длинного рабочего дня был приятным.|B2|Genitiv: -en (des langen Arbeitstages).|ADB
+Dieser {neu|e} Drucker ist kaputt.|Этот новый принтер сломан.|B1|dieser wie der: dieser neue (-e).|ADB
+Mit diesem {alt|en} Computer kann man nicht arbeiten.|На этом старом компьютере невозможно работать.|B1|diesem wie dem (Dativ): -en.|ADB
+Jeder {neu|e} Mitarbeiter bekommt eine Einarbeitung.|Каждый новый сотрудник проходит ввод в должность.|B1|jeder wie der: jeder neue (-e).|ADB
+# --- ADU ---
+Ein {neu|er} Kollege fängt am Montag an.|В понедельник начинает новый коллега.|A2|ein + maskulin Nominativ: ein neuer (-er, weil „ein“ das Geschlecht nicht zeigt).|ADU
+Eine {neu|e} Kollegin fängt am Montag an.|В понедельник начинает новая коллега.|A2|eine + feminin Nominativ: eine neue (-e).|ADU
+Wir haben ein {neu|es} Auto gekauft.|Мы купили новую машину.|A2|ein + neutral (Nom./Akk.): ein neues (-es).|ADU
+Ich suche einen {günstig|en} Kühlschrank.|Я ищу недорогой холодильник.|B1|Akkusativ maskulin: einen günstigen (-en).|ADU
+Ich suche eine {günstig|e} Wohnung.|Я ищу недорогую квартиру.|A2|Akkusativ feminin: eine günstige (-e).|ADU
+Sie wohnt in einer {klein|en} Stadt.|Она живёт в маленьком городе.|B1|Dativ: immer -en (in einer kleinen Stadt).|ADU
+Er arbeitet bei einem {groß|en} Unternehmen.|Он работает в крупной компании.|B1|Dativ: -en (bei einem großen Unternehmen).|ADU
+Das ist ein {gut|er} Vorschlag.|Это хорошее предложение.|A2|ein + maskulin Nominativ: ein guter (-er).|ADU
+Das ist eine {gut|e} Idee!|Это хорошая идея!|A2|eine + feminin Nominativ: eine gute (-e).|ADU
+Das ist ein {gut|es} Angebot.|Это хорошее предложение (цена).|A2|ein + neutral Nominativ: ein gutes (-es).|ADU
+Mein {neu|er} Chef ist sehr freundlich.|Мой новый начальник очень приветливый.|A2|mein wie ein: mein neuer (-er).|ADU
+Meine {neu|e} Chefin ist sehr streng.|Моя новая начальница очень строгая.|A2|meine + feminin: meine neue (-e).|ADU
+Unser {neu|es} Büro ist sehr hell.|Наш новый офис очень светлый.|A2|unser + neutral: unser neues (-es).|ADU
+Ich habe keinen {gültig|en} Ausweis.|У меня нет действующего удостоверения.|B1|keinen + maskulin Akkusativ: keinen gültigen (-en).|ADU
+Wir haben keine {frisch|en} Brötchen mehr.|У нас больше нет свежих булочек.|B1|keine + Plural: keine frischen (-en).|ADU
+Mit meinem {alt|en} Handy kann ich keine Fotos schicken.|Со старого телефона я не могу отправлять фото.|B1|Dativ: -en (mit meinem alten Handy).|ADU
+Sie hat einen {schwer|en} Unfall gehabt.|Она попала в серьёзную аварию.|B1|Akkusativ maskulin: einen schweren (-en).|ADU
+Ich wünsche dir ein {schön|es} Wochenende!|Желаю тебе хороших выходных!|A2|ein + neutral Akkusativ: ein schönes (-es).|ADU
+Ich wünsche Ihnen einen {schön|en} Tag!|Желаю вам хорошего дня!|A2|einen + maskulin Akkusativ: einen schönen (-en).|ADU
+Wir wünschen dir eine {gut|e} Reise!|Желаем тебе хорошей поездки!|A2|eine + feminin Akkusativ: eine gute (-e).|ADU
+Das war ein {lang|er} Arbeitstag.|Это был длинный рабочий день.|B1|ein + maskulin Nominativ: ein langer (-er).|ADU
+Er hat einen {unbefristet|en} Vertrag bekommen.|Он получил бессрочный договор.|B2|Akkusativ maskulin: einen unbefristeten (-en).|ADU
+Ich habe eine {wichtig|e} Frage.|У меня важный вопрос.|A2|eine + feminin Akkusativ: eine wichtige (-e).|ADU
+Sie arbeitet in einem {klein|en} Team.|Она работает в небольшой команде.|B1|Dativ: -en (in einem kleinen Team).|ADU
+Mein {erst|er} Arbeitstag war aufregend.|Мой первый рабочий день был волнительным.|A2|mein + maskulin Nominativ: mein erster (-er).|ADU
+Ihr {neu|es} Kind ist gesund.|Её новорождённый ребёнок здоров.|B1|ihr + neutral Nominativ: ihr neues (-es).|ADU
+Ich brauche eine {neu|e} Brille.|Мне нужны новые очки.|A2|eine + feminin Akkusativ: eine neue (-e).|ADU
+Wegen eines {technisch|en} Problems ist die Seite nicht erreichbar.|Из-за технической проблемы сайт недоступен.|B2|Genitiv: -en (eines technischen Problems).|ADU
+Das ist kein {gut|er} Zeitpunkt.|Это неподходящий момент.|B1|kein + maskulin Nominativ: kein guter (-er).|ADU
+Das ist kein {gut|es} Zeichen.|Это нехороший знак.|B1|kein + neutral Nominativ: kein gutes (-es).|ADU
+Meine {deutsch|en} Kollegen sprechen sehr schnell.|Мои немецкие коллеги говорят очень быстро.|B1|meine + Plural: meine deutschen (-en).|ADU
+Er hat ein {klein|es} Problem mit dem Computer.|У него небольшая проблема с компьютером.|A2|ein + neutral Akkusativ: ein kleines (-es).|ADU
+# --- ADO ---
+Ich trinke morgens {schwarz|en} Tee.|По утрам я пью чёрный чай.|B1|ohne Artikel, maskulin Akkusativ: schwarzen (wie den).|ADO
+{Frisch|er} Kaffee riecht gut.|Свежий кофе хорошо пахнет.|B1|ohne Artikel, maskulin Nominativ: frischer (wie der).|ADO
+{Frisch|e} Milch muss in den Kühlschrank.|Свежее молоко нужно поставить в холодильник.|B1|ohne Artikel, feminin: frische (wie die).|ADO
+{Frisch|es} Brot schmeckt am besten.|Свежий хлеб вкуснее всего.|B1|ohne Artikel, neutral Nominativ: frisches (wie das).|ADO
+Ich esse gern Brot mit {frisch|er} Butter.|Я люблю хлеб со свежим маслом.|B2|ohne Artikel, Dativ feminin: frischer (wie der).|ADO
+Wir suchen Mitarbeiter mit {gut|en} Deutschkenntnissen.|Мы ищем сотрудников с хорошим знанием немецкого.|B1|ohne Artikel, Dativ Plural: guten (wie den).|ADO
+Wir suchen eine Fachkraft mit {lang|er} Berufserfahrung.|Мы ищем специалиста с большим опытом работы.|B2|ohne Artikel, Dativ feminin: langer (wie der).|ADO
+{Lieb|e} Grüße aus Dresden!|Сердечный привет из Дрездена!|A2|ohne Artikel, Plural: liebe (wie die).|ADO
+{Lieb|er} Herr Müller,|Дорогой господин Мюллер,|A2|Anrede maskulin: lieber (wie der).|ADO
+{Lieb|e} Frau Schmidt,|Дорогая госпожа Шмидт,|A2|Anrede feminin: liebe (wie die).|ADO
+{Sehr geehrt|er} Herr Wagner,|Уважаемый господин Вагнер,|A2|Anrede maskulin: sehr geehrter (wie der).|ADO
+{Sehr geehrt|e} Damen und Herren,|Уважаемые дамы и господа,|A2|Anrede Plural: sehr geehrte (wie die).|ADO
+Mit {freundlich|en} Grüßen|С уважением|A2|mit + Dativ Plural ohne Artikel: freundlichen (wie den).|ADO
+Ich wünsche dir {viel|} Erfolg!|Желаю тебе больших успехов!|B1|„viel“ vor Nomen ohne Artikel im Singular bleibt oft ohne Endung.|ADO
+Im Sommer gibt es {frisch|es} Obst vom Markt.|Летом есть свежие фрукты с рынка.|B1|ohne Artikel, neutral Akkusativ: frisches (wie das).|ADO
+Bei {schlecht|em} Wetter bleiben wir zu Hause.|В плохую погоду мы остаёмся дома.|B2|ohne Artikel, Dativ neutral: schlechtem (wie dem).|ADO
+Die Firma bietet {flexibl|e} Arbeitszeiten.|Фирма предлагает гибкий график.|B1|ohne Artikel, Plural Akkusativ: flexible (wie die).|ADO
+Wir verkaufen nur Produkte aus {regional|em} Anbau.|Мы продаём только продукты местного производства.|B2|ohne Artikel, Dativ maskulin: regionalem (wie dem).|ADO
+{Neu|e} Mitarbeiter bekommen eine Einarbeitung.|Новые сотрудники проходят ввод в работу.|B1|ohne Artikel, Plural Nominativ: neue (wie die).|ADO
+Er trinkt nur {kalt|es} Wasser.|Он пьёт только холодную воду.|B1|ohne Artikel, neutral Akkusativ: kaltes (wie das).|ADO
+Ich habe {groß|en} Hunger.|Я очень голодна.|B1|ohne Artikel, maskulin Akkusativ: großen (wie den).|ADO
+Sie spricht {fließend|es} Deutsch.|Она свободно говорит по-немецки.|B2|„Deutsch“ ohne Artikel, neutral Akkusativ: fließendes.|ADO
+Wir haben {gut|e} Erfahrungen mit der Firma gemacht.|У нас хороший опыт работы с этой фирмой.|B1|ohne Artikel, Plural Akkusativ: gute (wie die).|ADO
+Für {klein|e} Kinder ist der Eintritt frei.|Для маленьких детей вход бесплатный.|B1|ohne Artikel, Plural Akkusativ: kleine (wie die).|ADO

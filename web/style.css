@@ -220,3 +220,10 @@ body.has-player{padding-top:calc(96px + env(safe-area-inset-top,0px))}
 body.sim .ru,body.sim .rubox,body.sim #modeSeg,body.sim #tStart,body.sim #tm{display:none!important}
 body.has-player .simbar{top:calc(100px + env(safe-area-inset-top,0px))}
 body.sim .simhide{display:none!important}
+
+/* Endungen */
+.egap{display:inline-block;padding:0 6px;margin:0 2px;border-radius:8px;border:2px dashed var(--line);font-weight:700}
+.egap.cur{border-color:var(--accent);background:var(--accent-soft)}
+.egap.ok{border-style:solid;border-color:var(--ok);background:var(--ok-soft)}
+.egap.bad{border-style:solid;border-color:var(--bad);background:var(--bad-soft);text-decoration:line-through}
+.egap.fix{border-style:solid;border-color:var(--ok);color:var(--ok)}
