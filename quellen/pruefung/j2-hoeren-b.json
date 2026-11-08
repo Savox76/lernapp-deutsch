@@ -1,0 +1,1027 @@
+{
+ "hoeren": [
+  {
+   "id": "hb059",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch: Schichttausch",
+   "situation": "Sie hören ein Gespräch am Arbeitsplatz.",
+   "text": "– Dimitri, kannst du am Samstag meine Frühschicht übernehmen? Meine Schwester heiratet. – Samstag? Eigentlich wollte ich ausschlafen … Aber gut. Übernimmst du dafür meine Spätschicht am Donnerstag nächste Woche? – Ja, kein Problem. – Dann müssen wir das in die Tauschliste eintragen und Frau Berg muss unterschreiben. – Ich mache das heute noch. Danke dir!",
+   "fragen": [
+    {
+     "q": "Warum braucht die Kollegin den Samstag frei?",
+     "o": [
+      "Sie hat einen Arzttermin.",
+      "Ihre Schwester heiratet.",
+      "Sie zieht um."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was bekommt Dimitri dafür?",
+     "o": [
+      "Geld",
+      "Sie übernimmt seine Spätschicht.",
+      "einen freien Tag"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Frau Berg muss den Tausch genehmigen."
+    }
+   ]
+  },
+  {
+   "id": "hb060",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Durchsage: Stromausfall",
+   "situation": "Sie hören eine Durchsage.",
+   "text": "Achtung, wichtige Information: Am Samstag zwischen 8 und 14 Uhr wird im ganzen Gebäude der Strom abgeschaltet, weil die Elektrik erneuert wird. Bitte fahren Sie am Freitag vor dem Feierabend Ihre Computer herunter und ziehen Sie alle Stecker. Die Kühlschränke in den Teeküchen bitte leeren. Am Montag ist alles wieder normal.",
+   "fragen": [
+    {
+     "q": "Warum wird der Strom abgeschaltet?",
+     "o": [
+      "wegen eines Defekts",
+      "weil die Elektrik erneuert wird",
+      "um Energie zu sparen"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was soll man am Freitag tun?",
+     "o": [
+      "Computer herunterfahren und Stecker ziehen",
+      "länger arbeiten",
+      "eine Taschenlampe mitbringen"
+     ],
+     "r": 0
+    },
+    {
+     "rf": true,
+     "q": "Die Kühlschränke sollen leer sein."
+    }
+   ]
+  },
+  {
+   "id": "hb061",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Mailbox: Werkstatt",
+   "situation": "Sie hören eine Nachricht auf der Mailbox.",
+   "text": "Guten Tag, Herr Morozov, hier ist Autohaus Schmid, Werkstatt. Ihr Wagen ist fertig. Wir haben die Bremsen vorne erneuert und den Ölwechsel gemacht. Leider haben wir noch gesehen, dass die Reifen hinten sehr abgefahren sind. Die sollten Sie bald tauschen; wir können Ihnen ein Angebot machen. Sie können das Auto heute bis 18 Uhr abholen. Die Rechnung beträgt 486 Euro.",
+   "fragen": [
+    {
+     "q": "Was wurde am Auto repariert?",
+     "o": [
+      "die Reifen",
+      "die Bremsen vorne und Ölwechsel",
+      "die Klimaanlage"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was empfiehlt die Werkstatt?",
+     "o": [
+      "neue Reifen hinten",
+      "ein neues Auto",
+      "eine Inspektion"
+     ],
+     "r": 0
+    },
+    {
+     "rf": false,
+     "q": "Man kann das Auto heute bis 20 Uhr abholen."
+    }
+   ]
+  },
+  {
+   "id": "hb062",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch: Bestellung Büromaterial",
+   "situation": "Sie hören ein Gespräch am Arbeitsplatz.",
+   "text": "– Herr Wolf, wir haben fast kein Druckerpapier mehr. Soll ich bestellen? – Ja, bitte. Nehmen Sie gleich zehn Kartons, dann bekommen wir Rabatt. – Und Toner? – Für den Drucker im ersten Stock brauchen wir zwei Kartuschen. Aber nicht beim alten Händler, der war zu teuer. Bestellen Sie bitte im neuen Online-Shop. – Bis wann muss die Bestellung da sein? – Spätestens Mittwoch, da drucken wir die Kataloge.",
+   "fragen": [
+    {
+     "q": "Warum soll man zehn Kartons Papier bestellen?",
+     "o": [
+      "weil es Rabatt gibt",
+      "weil der Chef es sagt",
+      "weil der Händler schließt"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wo soll der Toner bestellt werden?",
+     "o": [
+      "beim alten Händler",
+      "im neuen Online-Shop",
+      "im Geschäft"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Die Bestellung muss bis Mittwoch da sein."
+    }
+   ]
+  },
+  {
+   "id": "hb063",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Radio: Pflegeberufe",
+   "situation": "Sie hören einen Beitrag im Radio.",
+   "text": "Pflegekräfte werden in Deutschland dringend gesucht. Nach Angaben der Bundesagentur für Arbeit gibt es derzeit deutlich mehr offene Stellen als Bewerber. Viele Kliniken werben deshalb Fachkräfte aus dem Ausland an. Wichtig für die Arbeit ist neben der Anerkennung des Abschlusses vor allem die Sprache: Meistens wird Deutsch auf Niveau B2 verlangt. Einige Kliniken bieten deshalb Sprachkurse während der Arbeitszeit an.",
+   "fragen": [
+    {
+     "q": "Wie ist die Situation in der Pflege?",
+     "o": [
+      "Es gibt zu viele Bewerber.",
+      "Es gibt mehr offene Stellen als Bewerber.",
+      "Viele Stellen werden gestrichen."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Welches Sprachniveau wird meistens verlangt?",
+     "o": [
+      "A2",
+      "B1",
+      "B2"
+     ],
+     "r": 2
+    },
+    {
+     "rf": true,
+     "q": "Einige Kliniken bieten Sprachkurse während der Arbeit an."
+    }
+   ]
+  },
+  {
+   "id": "hb064",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Durchsage: Flughafen",
+   "situation": "Sie hören eine Durchsage am Flughafen.",
+   "text": "Passagiere des Fluges LH 1342 nach Warschau: Ihr Flug startet heute nicht von Gate B12, sondern von Gate C4. Der Abflug verschiebt sich um 30 Minuten auf 14:15 Uhr. Das Boarding beginnt um 13:45 Uhr. Wir bitten um Entschuldigung.",
+   "fragen": [
+    {
+     "q": "Von welchem Gate startet der Flug?",
+     "o": [
+      "B12",
+      "C4",
+      "B4"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wann ist der Abflug jetzt?",
+     "o": [
+      "13:45 Uhr",
+      "14:15 Uhr",
+      "14:45 Uhr"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Der Flug hat 30 Minuten Verspätung."
+    }
+   ]
+  },
+  {
+   "id": "hb065",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch: Neuer Kollege",
+   "situation": "Sie hören ein Gespräch am Arbeitsplatz.",
+   "text": "– Darf ich vorstellen? Das ist Ahmed, er arbeitet ab heute bei uns im Versand. – Hallo Ahmed, ich bin Monika. Willkommen! – Danke. Ich habe vorher fünf Jahre bei einer Spedition gearbeitet. – Dann kennst du dich ja schon aus. Bei uns arbeiten wir mit dem Scanner, das zeige ich dir gleich. Und mittags gehen wir meistens zusammen in die Kantine, komm doch mit. – Gern!",
+   "fragen": [
+    {
+     "q": "Wo arbeitet Ahmed ab heute?",
+     "o": [
+      "im Versand",
+      "in der Kantine",
+      "im Büro"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wo hat er vorher gearbeitet?",
+     "o": [
+      "in einem Supermarkt",
+      "bei einer Spedition",
+      "in einer Fabrik"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Monika lädt Ahmed zum Mittagessen ein."
+    }
+   ]
+  },
+  {
+   "id": "hb066",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Mailbox: Jobcenter",
+   "situation": "Sie hören eine Nachricht auf der Mailbox.",
+   "text": "Guten Tag, Frau Kuznetsova, hier ist Frau Haller vom Jobcenter. Leider fehlen in Ihrem Antrag noch die Kontoauszüge der letzten drei Monate. Bitte schicken Sie diese bis zum 20. dieses Monats, sonst können wir den Antrag nicht weiter bearbeiten. Sie können die Unterlagen auch online hochladen. Wenn Sie Fragen haben, erreichen Sie mich dienstags und donnerstags von 8 bis 12 Uhr.",
+   "fragen": [
+    {
+     "q": "Was fehlt im Antrag?",
+     "o": [
+      "der Mietvertrag",
+      "die Kontoauszüge der letzten drei Monate",
+      "der Ausweis"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Bis wann soll Frau Kuznetsova die Unterlagen schicken?",
+     "o": [
+      "bis zum 12.",
+      "bis zum 20.",
+      "bis Ende des Monats"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Man kann die Unterlagen auch online hochladen."
+    }
+   ]
+  },
+  {
+   "id": "hb067",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch: Kundengespräch am Telefon",
+   "situation": "Sie hören ein Telefongespräch.",
+   "text": "– Firma Sanitär Bauer, Sie sprechen mit Elena Popescu. – Guten Tag, hier Weber. Bei uns tropft der Wasserhahn in der Küche, schon seit drei Tagen. – Das tut mir leid. Wir könnten morgen Vormittag einen Monteur schicken. – Morgen bin ich bis 14 Uhr bei der Arbeit. Geht es auch später? – Dann kommt er zwischen 15 und 17 Uhr. Die Anfahrt kostet 35 Euro, die Reparatur rechnen wir nach Aufwand ab. – In Ordnung.",
+   "fragen": [
+    {
+     "q": "Was ist das Problem?",
+     "o": [
+      "Die Heizung ist kalt.",
+      "Der Wasserhahn tropft.",
+      "Die Toilette ist verstopft."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wann kommt der Monteur?",
+     "o": [
+      "morgen Vormittag",
+      "morgen zwischen 15 und 17 Uhr",
+      "übermorgen"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Die Anfahrt ist kostenlos."
+    }
+   ]
+  },
+  {
+   "id": "hb068",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Durchsage: Kaufhaus",
+   "situation": "Sie hören eine Durchsage im Kaufhaus.",
+   "text": "Liebe Kunden, der kleine Leon, fünf Jahre alt, sucht seine Eltern. Er trägt eine rote Jacke und eine blaue Mütze. Leon wartet am Informationsstand im Erdgeschoss. Die Eltern werden gebeten, ihn dort abzuholen.",
+   "fragen": [
+    {
+     "q": "Wie alt ist Leon?",
+     "o": [
+      "drei Jahre",
+      "fünf Jahre",
+      "sieben Jahre"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wo wartet Leon?",
+     "o": [
+      "an der Kasse",
+      "am Informationsstand im Erdgeschoss",
+      "im Spielzeugladen"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Leon trägt eine blaue Jacke."
+    }
+   ]
+  },
+  {
+   "id": "hb069",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch: Fehler im Bericht",
+   "situation": "Sie hören ein Gespräch am Arbeitsplatz.",
+   "text": "– Sandra, ich habe deinen Monatsbericht gelesen. Er ist sehr gut, aber auf Seite 3 stimmen die Zahlen nicht. Da steht 1.200 Kunden, es waren aber 2.100. – Oh nein, da habe ich die Zahlen vertauscht. – Kein Problem, das passiert. Kannst du es bis heute Nachmittag korrigieren? Der Bericht geht morgen früh an die Geschäftsleitung. – Natürlich. Soll ich ihn dir danach noch mal schicken? – Ja, bitte.",
+   "fragen": [
+    {
+     "q": "Wie viele Kunden waren es wirklich?",
+     "o": [
+      "1.200",
+      "2.100",
+      "1.020"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Bis wann soll Sandra den Fehler korrigieren?",
+     "o": [
+      "bis morgen früh",
+      "bis heute Nachmittag",
+      "bis Ende der Woche"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Der Bericht geht an die Geschäftsleitung."
+    }
+   ]
+  },
+  {
+   "id": "hb070",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Radio: Tipps gegen Stress",
+   "situation": "Sie hören einen Beitrag im Radio.",
+   "text": "Stress bei der Arbeit kennt fast jeder. Experten raten: Planen Sie Ihren Tag am Morgen und beginnen Sie mit der wichtigsten Aufgabe. Schalten Sie E-Mail-Benachrichtigungen aus, wenn Sie konzentriert arbeiten müssen. Machen Sie regelmäßig kurze Pausen und gehen Sie mittags an die frische Luft. Und ganz wichtig: Nach Feierabend sollte das Diensthandy aus bleiben.",
+   "fragen": [
+    {
+     "q": "Womit soll man den Tag beginnen?",
+     "o": [
+      "mit E-Mails",
+      "mit der wichtigsten Aufgabe",
+      "mit einer Pause"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was soll man mittags tun?",
+     "o": [
+      "an die frische Luft gehen",
+      "am Schreibtisch essen",
+      "telefonieren"
+     ],
+     "r": 0
+    },
+    {
+     "rf": true,
+     "q": "Nach Feierabend soll man das Diensthandy ausschalten."
+    }
+   ]
+  },
+  {
+   "id": "hb071",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Mailbox: Fahrschule",
+   "situation": "Sie hören eine Nachricht auf der Mailbox.",
+   "text": "Hallo Herr Petrov, hier ist die Fahrschule Klar. Ihre praktische Prüfung ist am Mittwoch, den 9., um 7:30 Uhr. Treffpunkt ist vor der Fahrschule. Bitte bringen Sie Ihren Personalausweis mit, sonst dürfen Sie nicht fahren. Vorher haben Sie am Montag noch eine letzte Fahrstunde um 16 Uhr. Viel Glück!",
+   "fragen": [
+    {
+     "q": "Wann ist die Prüfung?",
+     "o": [
+      "Montag um 16 Uhr",
+      "Mittwoch um 7:30 Uhr",
+      "Mittwoch um 9 Uhr"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was muss Herr Petrov mitbringen?",
+     "o": [
+      "den Personalausweis",
+      "ein Foto",
+      "Geld"
+     ],
+     "r": 0
+    },
+    {
+     "rf": true,
+     "q": "Am Montag hat er noch eine Fahrstunde."
+    }
+   ]
+  },
+  {
+   "id": "hb072",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch: Zeugnis anfordern",
+   "situation": "Sie hören ein Gespräch am Arbeitsplatz.",
+   "text": "– Frau Ritter, ich habe gekündigt und höre Ende des Monats auf. Kann ich ein Arbeitszeugnis bekommen? – Natürlich. Möchten Sie ein einfaches oder ein qualifiziertes Zeugnis? – Was ist der Unterschied? – Das einfache beschreibt nur die Tätigkeit und die Dauer. Das qualifizierte bewertet auch Ihre Leistung und Ihr Verhalten. – Dann bitte das qualifizierte. – Gut. Sie bekommen es an Ihrem letzten Arbeitstag.",
+   "fragen": [
+    {
+     "q": "Warum braucht die Mitarbeiterin ein Zeugnis?",
+     "o": [
+      "Sie hat gekündigt.",
+      "Sie macht eine Weiterbildung.",
+      "Sie wechselt die Abteilung."
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was bewertet ein qualifiziertes Zeugnis zusätzlich?",
+     "o": [
+      "das Gehalt",
+      "Leistung und Verhalten",
+      "die Krankheitstage"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Sie bekommt das Zeugnis an ihrem letzten Arbeitstag."
+    }
+   ]
+  },
+  {
+   "id": "hb073",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Durchsage: Straßenbahn",
+   "situation": "Sie hören eine Durchsage in der Straßenbahn.",
+   "text": "Liebe Fahrgäste, wegen einer Veranstaltung in der Innenstadt fährt diese Bahn heute nur bis zur Haltestelle Rathaus. Von dort fahren Ersatzbusse zum Hauptbahnhof. Bitte beachten Sie die Schilder. Die Fahrkarten gelten auch in den Bussen.",
+   "fragen": [
+    {
+     "q": "Bis wohin fährt die Bahn heute?",
+     "o": [
+      "bis zum Hauptbahnhof",
+      "bis zum Rathaus",
+      "bis zur Innenstadt"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Warum?",
+     "o": [
+      "wegen einer Veranstaltung",
+      "wegen Bauarbeiten",
+      "wegen eines Unfalls"
+     ],
+     "r": 0
+    },
+    {
+     "rf": false,
+     "q": "Für den Bus braucht man eine neue Fahrkarte."
+    }
+   ]
+  },
+  {
+   "id": "hb074",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch: Beratung Bank",
+   "situation": "Sie hören ein Gespräch in einer Bank.",
+   "text": "– Guten Tag, ich möchte ein Konto eröffnen. Ich habe gerade eine neue Stelle in Deutschland. – Gern. Haben Sie Ihren Pass und Ihre Meldebescheinigung dabei? – Ja, hier. – Wir haben zwei Kontomodelle: Das Online-Konto ist kostenlos, beim Konto mit Filialservice zahlen Sie fünf Euro im Monat. – Ich mache fast alles online. – Dann empfehle ich das Online-Konto. Die Karte kommt in etwa einer Woche per Post.",
+   "fragen": [
+    {
+     "q": "Was braucht man für das Konto?",
+     "o": [
+      "Pass und Meldebescheinigung",
+      "nur den Arbeitsvertrag",
+      "einen Führerschein"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was kostet das Online-Konto?",
+     "o": [
+      "nichts",
+      "fünf Euro im Monat",
+      "zehn Euro im Jahr"
+     ],
+     "r": 0
+    },
+    {
+     "rf": false,
+     "q": "Die Karte bekommt man sofort."
+    }
+   ]
+  },
+  {
+   "id": "hb075",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Radio: Elektroautos",
+   "situation": "Sie hören einen Beitrag im Radio.",
+   "text": "Immer mehr Firmen stellen ihre Dienstwagen auf Elektroautos um. Für die Beschäftigten hat das einen Vorteil: Wer einen elektrischen Firmenwagen privat nutzt, zahlt deutlich weniger Steuern als bei einem Benziner. Viele Firmen bauen außerdem Ladestationen auf ihren Parkplätzen. Kritiker sagen aber, dass die Reichweite für lange Dienstreisen manchmal noch nicht reicht.",
+   "fragen": [
+    {
+     "q": "Was machen immer mehr Firmen?",
+     "o": [
+      "Sie verkaufen ihre Dienstwagen.",
+      "Sie stellen auf Elektroautos um.",
+      "Sie bezahlen Bahntickets."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was ist der Vorteil für Beschäftigte?",
+     "o": [
+      "weniger Steuern bei privater Nutzung",
+      "kostenloses Benzin",
+      "mehr Urlaub"
+     ],
+     "r": 0
+    },
+    {
+     "rf": true,
+     "q": "Kritiker finden die Reichweite für lange Reisen manchmal zu klein."
+    }
+   ]
+  },
+  {
+   "id": "hb076",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Mailbox: Kollege Urlaub",
+   "situation": "Sie hören eine Nachricht auf der Mailbox.",
+   "text": "Hallo, hier ist Jens. Ich bin ab morgen zwei Wochen im Urlaub und wollte dir noch schnell sagen: Der Kunde Hoffmann ruft wahrscheinlich wegen der Rechnung an. Die Gutschrift über 120 Euro ist schon fertig, sie liegt in meinem Fach. Bitte schick sie ihm per Post. Und die Präsentation für Freitag ist im Ordner Vertrieb gespeichert. Danke und bis bald!",
+   "fragen": [
+    {
+     "q": "Wie lange ist Jens im Urlaub?",
+     "o": [
+      "eine Woche",
+      "zwei Wochen",
+      "drei Wochen"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was soll die Kollegin mit der Gutschrift machen?",
+     "o": [
+      "per E-Mail schicken",
+      "per Post schicken",
+      "dem Chef geben"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Die Präsentation ist im Ordner Vertrieb."
+    }
+   ]
+  },
+  {
+   "id": "hb077",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch: Unterweisung Gefahrstoffe",
+   "situation": "Sie hören ein Gespräch am Arbeitsplatz.",
+   "text": "– Bevor Sie anfangen, muss ich Ihnen die Gefahrstoffe zeigen. Alle Behälter mit diesem orangefarbenen Zeichen sind gefährlich. Sie stehen im Schrank hier, und der ist immer abgeschlossen. – Wer hat den Schlüssel? – Nur die Schichtleitung. Wenn Sie etwas brauchen, fragen Sie. Und Sie arbeiten mit diesen Stoffen immer mit Handschuhen und Schutzbrille. – Und wenn etwas auf die Haut kommt? – Sofort mit viel Wasser spülen, die Augendusche ist neben der Tür.",
+   "fragen": [
+    {
+     "q": "Wo stehen die Gefahrstoffe?",
+     "o": [
+      "im Regal",
+      "in einem abgeschlossenen Schrank",
+      "im Lager draußen"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wer hat den Schlüssel?",
+     "o": [
+      "jeder Mitarbeiter",
+      "nur die Schichtleitung",
+      "der Hausmeister"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Die Augendusche ist neben der Tür."
+    }
+   ]
+  },
+  {
+   "id": "hb078",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Durchsage: Tag der offenen Tür",
+   "situation": "Sie hören eine Durchsage.",
+   "text": "Herzlich willkommen zum Tag der offenen Tür! Werksführungen starten jede halbe Stunde am Haupteingang, die letzte um 16 Uhr. Für Kinder gibt es in Halle 1 eine Bastelecke. Schülerinnen und Schüler, die sich für eine Ausbildung interessieren, können am Stand der Personalabteilung mit Azubis sprechen. Essen und Getränke gibt es im Zelt auf dem Parkplatz.",
+   "fragen": [
+    {
+     "q": "Wie oft beginnen Werksführungen?",
+     "o": [
+      "jede Stunde",
+      "jede halbe Stunde",
+      "nur um 16 Uhr"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wo ist die Bastelecke?",
+     "o": [
+      "im Zelt",
+      "in Halle 1",
+      "am Haupteingang"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Schüler können mit Azubis sprechen."
+    }
+   ]
+  },
+  {
+   "id": "hb079",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch: Arbeitszeit reduzieren",
+   "situation": "Sie hören ein Gespräch am Arbeitsplatz.",
+   "text": "– Herr Brandt, ich möchte ab Januar weniger arbeiten. Statt 40 nur noch 30 Stunden. – Darf ich fragen, warum? – Meine Mutter braucht Pflege, und ich möchte mich nachmittags um sie kümmern. – Das verstehe ich. Wie stellen Sie sich die Arbeitszeit vor? – Montag bis Freitag von 7 bis 13 Uhr. – Das sollte gehen. Stellen Sie bitte einen schriftlichen Antrag, spätestens drei Monate vorher.",
+   "fragen": [
+    {
+     "q": "Wie viele Stunden möchte der Mitarbeiter arbeiten?",
+     "o": [
+      "20",
+      "30",
+      "40"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Warum möchte er weniger arbeiten?",
+     "o": [
+      "Er macht eine Weiterbildung.",
+      "Seine Mutter braucht Pflege.",
+      "Er hat ein Kind bekommen."
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Der Antrag muss schriftlich sein."
+    }
+   ]
+  },
+  {
+   "id": "hb080",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Mailbox: Paketdienst",
+   "situation": "Sie hören eine Nachricht auf der Mailbox.",
+   "text": "Guten Tag, hier ist Ihr Paketdienst. Wir haben heute versucht, Ihnen ein Paket zu liefern, aber Sie waren nicht zu Hause. Ihr Paket liegt jetzt im Paketshop in der Bahnhofstraße 12, im Kiosk. Sie können es ab morgen 10 Uhr abholen. Bringen Sie bitte Ihren Ausweis mit. Das Paket bleibt sieben Tage dort.",
+   "fragen": [
+    {
+     "q": "Wo ist das Paket jetzt?",
+     "o": [
+      "beim Nachbarn",
+      "im Kiosk in der Bahnhofstraße",
+      "bei der Post"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Ab wann kann man es abholen?",
+     "o": [
+      "sofort",
+      "ab morgen 10 Uhr",
+      "ab nächster Woche"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Das Paket bleibt einen Monat dort."
+    }
+   ]
+  },
+  {
+   "id": "hb081",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch: Konflikt im Team",
+   "situation": "Sie hören ein Gespräch am Arbeitsplatz.",
+   "text": "– Katrin, kann ich dich kurz sprechen? Es geht um die Pausen. – Ja, was ist los? – Ich habe das Gefühl, dass ich immer als Letzte in die Pause gehe. Dann bin ich nachmittags total müde. – Das wusste ich nicht. Das ist nicht fair. Wollen wir einen Plan machen, wer wann Pause macht? – Ja, das wäre gut. Vielleicht wechseln wir jede Woche. – Gute Idee, ich spreche morgen im Team darüber.",
+   "fragen": [
+    {
+     "q": "Was ist das Problem?",
+     "o": [
+      "Die Kollegin geht immer als Letzte in die Pause.",
+      "Die Pausen sind zu kurz.",
+      "Es gibt keinen Pausenraum."
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was ist die Lösung?",
+     "o": [
+      "ein Plan, der jede Woche wechselt",
+      "längere Pausen",
+      "Pausen nur am Vormittag"
+     ],
+     "r": 0
+    },
+    {
+     "rf": true,
+     "q": "Katrin spricht morgen im Team darüber."
+    }
+   ]
+  },
+  {
+   "id": "hb082",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Radio: Wohnungsmarkt",
+   "situation": "Sie hören einen Beitrag im Radio.",
+   "text": "In vielen Großstädten ist es schwer, eine bezahlbare Wohnung zu finden. In München kostet ein Quadratmeter bei Neuvermietung durchschnittlich über 22 Euro. Manche Arbeitgeber reagieren darauf: Sie bauen eigene Wohnungen für ihre Beschäftigten, sogenannte Werkswohnungen. Die Miete liegt dort oft deutlich unter dem Marktpreis. Besonders Krankenhäuser und Verkehrsbetriebe nutzen dieses Modell, um Personal zu finden.",
+   "fragen": [
+    {
+     "q": "Wie viel kostet ein Quadratmeter in München durchschnittlich?",
+     "o": [
+      "etwa 12 Euro",
+      "über 22 Euro",
+      "etwa 32 Euro"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was sind Werkswohnungen?",
+     "o": [
+      "Wohnungen, die Firmen für Beschäftigte bauen",
+      "Wohnungen in Fabriken",
+      "Ferienwohnungen"
+     ],
+     "r": 0
+    },
+    {
+     "rf": true,
+     "q": "Die Miete in Werkswohnungen ist oft niedriger."
+    }
+   ]
+  },
+  {
+   "id": "hb083",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Durchsage: Krankenhaus",
+   "situation": "Sie hören eine Durchsage im Krankenhaus.",
+   "text": "Liebe Besucherinnen und Besucher, wir möchten Sie daran erinnern, dass die Besuchszeit um 19 Uhr endet. Auf der Intensivstation sind nur zwei Besucher gleichzeitig erlaubt. Bitte desinfizieren Sie beim Betreten und Verlassen der Station Ihre Hände. Blumen sind auf der Intensivstation nicht erlaubt.",
+   "fragen": [
+    {
+     "q": "Wann endet die Besuchszeit?",
+     "o": [
+      "um 17 Uhr",
+      "um 19 Uhr",
+      "um 20 Uhr"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wie viele Besucher dürfen auf die Intensivstation?",
+     "o": [
+      "einer",
+      "zwei gleichzeitig",
+      "beliebig viele"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Auf die Intensivstation darf man Blumen mitbringen."
+    }
+   ]
+  },
+  {
+   "id": "hb084",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch: Reklamation Kunde",
+   "situation": "Sie hören ein Gespräch im Geschäft.",
+   "text": "– Guten Tag, ich habe diesen Wasserkocher vor zwei Wochen gekauft, und jetzt funktioniert er nicht mehr. – Das tut mir leid. Haben Sie den Kassenbon? – Ja, hier. – Möchten Sie das Geld zurück oder einen neuen Wasserkocher? – Lieber einen neuen, aber ein anderes Modell. Der hier war mir zu laut. – Kein Problem. Das Modell daneben kostet fünf Euro mehr. – Das ist in Ordnung.",
+   "fragen": [
+    {
+     "q": "Wann hat die Kundin den Wasserkocher gekauft?",
+     "o": [
+      "vor zwei Tagen",
+      "vor zwei Wochen",
+      "vor zwei Monaten"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was möchte die Kundin?",
+     "o": [
+      "ihr Geld zurück",
+      "ein anderes Modell",
+      "eine Reparatur"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Das neue Modell ist billiger."
+    }
+   ]
+  },
+  {
+   "id": "hb085",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Mailbox: Schule",
+   "situation": "Sie hören eine Nachricht auf der Mailbox.",
+   "text": "Guten Tag, Frau Wagner, hier ist Herr Seidel, der Klassenlehrer von Max. Ich möchte Sie zu einem Gespräch einladen. Max ist ein netter Schüler, aber er hat in letzter Zeit oft seine Hausaufgaben vergessen. Ich würde gern mit Ihnen überlegen, wie wir ihn unterstützen können. Hätten Sie Donnerstag um 14 Uhr Zeit? Bitte rufen Sie im Sekretariat an.",
+   "fragen": [
+    {
+     "q": "Warum ruft Herr Seidel an?",
+     "o": [
+      "Max ist krank.",
+      "Max vergisst oft die Hausaufgaben.",
+      "Max hat sich gestritten."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wann möchte er sprechen?",
+     "o": [
+      "Dienstag um 14 Uhr",
+      "Donnerstag um 14 Uhr",
+      "Donnerstag um 16 Uhr"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Frau Wagner soll im Sekretariat anrufen."
+    }
+   ]
+  },
+  {
+   "id": "hb086",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch: Brandschutz",
+   "situation": "Sie hören ein Gespräch am Arbeitsplatz.",
+   "text": "– Martin, warum steht der Karton hier vor der Tür? – Ich wollte ihn nachher ins Lager bringen. – Das geht nicht. Das ist ein Notausgang, der muss immer frei sein. Wenn es brennt, kommt hier niemand raus. – Oh, entschuldige, daran habe ich nicht gedacht. – Bring ihn bitte gleich weg. Und kannst du auch schauen, ob der Feuerlöscher geprüft ist? Die Plakette muss von diesem Jahr sein. – Mach ich.",
+   "fragen": [
+    {
+     "q": "Wo steht der Karton?",
+     "o": [
+      "vor dem Notausgang",
+      "im Lager",
+      "vor dem Büro"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was soll Martin noch prüfen?",
+     "o": [
+      "die Brandmelder",
+      "die Plakette am Feuerlöscher",
+      "die Fluchtwegpläne"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Martin darf den Karton bis nachher stehen lassen."
+    }
+   ]
+  },
+  {
+   "id": "hb087",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Radio: Weiterbildung im Alter",
+   "situation": "Sie hören einen Beitrag im Radio.",
+   "text": "Lernen hört nie auf – das zeigt eine neue Studie. Immer mehr Menschen über 50 machen eine berufliche Weiterbildung. Besonders gefragt sind Computerkurse und Sprachkurse. Viele Arbeitgeber unterstützen das, weil erfahrene Fachkräfte fehlen. Die Arbeitsagentur fördert Weiterbildungen unter bestimmten Bedingungen auch für Beschäftigte, die schon lange im Beruf sind.",
+   "fragen": [
+    {
+     "q": "Wer macht immer öfter eine Weiterbildung?",
+     "o": [
+      "junge Menschen",
+      "Menschen über 50",
+      "Studenten"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Welche Kurse sind besonders gefragt?",
+     "o": [
+      "Kochkurse",
+      "Computer- und Sprachkurse",
+      "Sportkurse"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Die Arbeitsagentur kann solche Weiterbildungen fördern."
+    }
+   ]
+  },
+  {
+   "id": "hb088",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Durchsage: Hotel",
+   "situation": "Sie hören eine Durchsage in einem Hotel.",
+   "text": "Liebe Gäste, wegen Wartungsarbeiten ist unser Schwimmbad heute von 14 bis 17 Uhr geschlossen. Die Sauna bleibt geöffnet. Als kleine Entschuldigung bieten wir heute allen Gästen an der Bar ein Getränk gratis an. Zeigen Sie einfach Ihre Zimmerkarte.",
+   "fragen": [
+    {
+     "q": "Wann ist das Schwimmbad geschlossen?",
+     "o": [
+      "den ganzen Tag",
+      "von 14 bis 17 Uhr",
+      "am Abend"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was bekommen die Gäste an der Bar?",
+     "o": [
+      "ein Getränk gratis",
+      "ein Essen gratis",
+      "einen Gutschein"
+     ],
+     "r": 0
+    },
+    {
+     "rf": false,
+     "q": "Die Sauna ist auch geschlossen."
+    }
+   ]
+  },
+  {
+   "id": "hb089",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gespräch: Dienstreise",
+   "situation": "Sie hören ein Gespräch am Arbeitsplatz.",
+   "text": "– Frau Osman, Sie fahren nächste Woche nach Hamburg zur Messe. Haben Sie schon gebucht? – Den Zug ja, aber das Hotel noch nicht. – Bitte buchen Sie über unser Reisebüro, dann müssen Sie nichts vorstrecken. Das Hotel darf höchstens 120 Euro pro Nacht kosten. – Und das Essen? – Dafür gibt es die Tagespauschale. Heben Sie trotzdem alle Belege auf. Und schicken Sie mir nach der Messe einen kurzen Bericht.",
+   "fragen": [
+    {
+     "q": "Wohin fährt Frau Osman?",
+     "o": [
+      "nach Hamburg",
+      "nach Hannover",
+      "nach Berlin"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wie viel darf das Hotel höchstens kosten?",
+     "o": [
+      "100 Euro",
+      "120 Euro",
+      "150 Euro"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Nach der Messe soll sie einen Bericht schreiben."
+    }
+   ]
+  }
+ ]
+}
