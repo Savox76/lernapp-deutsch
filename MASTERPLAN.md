@@ -104,6 +104,31 @@ Mario hat 9 PDFs geschickt (DTB-Lesetraining, telc B2, „Mit Erfolg zu telc B2�
 
 **Fehler behoben (08.11.2026):** Seit dem Update „Aufgabenliste zum freien Auswählen“ hing im **Prüfungsmodus** jede Prüfungsaufgabe nach der ersten Antwort (die Protokoll-Funktion rief sich selbst endlos auf). Im Lernmodus trat der Fehler nicht auf. Ist behoben und im Browser getestet.
 
+## 2d. Inhalte für mindestens ein Jahr (Wunsch Mario, 09.11.2026)
+
+**Ziel:** Ein Deutschkurs dauert viele Monate, und die App wird später von vielen Lernenden genutzt. Deshalb soll es **mindestens ein Jahr** lang nicht langweilig werden: wöchentlich eine komplette Simulation und tägliches Training, ohne dass sich Aufgaben spürbar wiederholen.
+
+**Rechnung:** 52 Simulationen pro Jahr × Aufgaben pro Simulation = Zielmenge je Prüfungsteil. Stand nach L8: es fehlen **ca. 900 Prüfungsaufgaben**.
+
+**Schon eingebaut (09.11.2026):** Aufgaben, die länger als **6 Monate** nicht geübt wurden, gelten wieder als „neu“ (Training und Simulation). Ist ein Teil komplett geübt, nimmt die Simulation die am längsten nicht gesehenen Aufgaben. Damit gibt es nie einen „leeren“ Teil – die neuen Pakete sorgen dafür, dass Wiederholungen erst nach einem Jahr kommen.
+
+| # | Paket | Inhalt (Ziel = 52 Simulationen) | neue Aufgaben | Status |
+|---|---|---|---|---|
+| J1 | DTB Lesen | Teil 1 → 52, Teil 2 → 104, Teil 3 → 52, Teil 4 → 52 | ≈ 160 | ⬜ |
+| J2 | DTB Hören | 80 → 208 | ≈ 128 | ⬜ |
+| J3 | DTZ Hören | 80 → 208 | ≈ 128 | ⬜ |
+| J4 | DTZ Lesen | 79 → 208 (Wegweiser, Anzeigen, Presse, Briefe) | ≈ 129 | ⬜ |
+| J5 | Schreiben | DTB Sprachbausteine → 104, Forum → 52, Telefonnotiz → 52 · DTZ Brief-Lückentext → 52, Briefe → 104 | ≈ 165 | ⬜ |
+| J6 | Sprechen | Vortrag, Prüferfragen, Diskussion, Lösung finden (DTB) und Erzählen, Sich vorstellen, Gemeinsam planen (DTZ) je → 52 | ≈ 195 | ⬜ |
+| J7 | Training | Dialoge 60 → 150, Endungen 239 → 500, Schreibaufgaben 118 → 200 | ≈ 450 | ⬜ |
+
+Reihenfolge: J1–J4 zuerst (Lesen/Hören werden in jeder Simulation am meisten verbraucht), dann J5–J7. Pro Arbeitssitzung etwa ein Paket. Nach jedem Paket: Build, Browser-Test, Push, Zahlen hier aktualisieren.
+
+**Für viele Lernende (später):**
+- Varianten aus Vorlagen (z. B. Durchsagen, Wegweiser, Telefonnotizen mit wechselnden Namen, Zeiten, Orten) – vervielfacht einfache Aufgabentypen.
+- Mit dem Abo-Server (G4, Dialoge Stufe 3): neue Aufgaben auf Abruf durch KI, jeweils geprüft – damit wird der Vorrat praktisch unbegrenzt.
+- Qualitätssicherung bleibt: alle Aufgaben selbst geschrieben, nichts aus Lehrbüchern kopiert (Abschnitt 8).
+
 ## 2b. Ausblick: Phase 2 und 3 (Wunsch von Mario, 04.11.2026)
 
 Die App soll eine **reine Lernapp** werden: später auch C1/C2 und weitere Ausgangssprachen. Reihenfolge: erst Phase 1 abschließen, dann Phase 2, dann Phase 3. Vor jedem Umbau Mario fragen.

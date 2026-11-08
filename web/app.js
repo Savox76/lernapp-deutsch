@@ -1270,9 +1270,12 @@ function prTypesFor() { return Object.keys(PR_TYPES).filter(t => PR_TYPES[t].l[e
 function prList(typ) { return (BERUF[typ] || []).filter(x => !x.ex || x.ex.includes(exam())); }
 function prDone(typ, id) { return (P.beruf || {})[typ + ":" + id]; }
 function prMark(typ, id, ok) { P.beruf = P.beruf || {}; const k = typ + ":" + id; const x = P.beruf[k] || { n: 0, ok: 0 }; x.n++; if (ok) x.ok++; x.t = Date.now(); P.beruf[k] = x; saveP(); }
+/* Aufgaben, die länger als ein halbes Jahr nicht geübt wurden, gelten wieder als „neu“ (man erinnert sich kaum noch) */
+const PR_STALE = 180 * 864e5;
+function prFresh(typ, id) { const d = prDone(typ, id); return !d || Date.now() - (d.t || 0) > PR_STALE; }
 function prNext(typ, exclude) {
   const l = prList(typ).filter(x => x.id !== exclude); if (!l.length) return null;
-  const un = l.filter(x => !prDone(typ, x.id)); if (un.length) return un[0];
+  const un = l.filter(x => prFresh(typ, x.id)); if (un.length) return un[0];
   return l.slice().sort((a, b) => (prDone(typ, a.id).ok / prDone(typ, a.id).n) - (prDone(typ, b.id).ok / prDone(typ, b.id).n) || prDone(typ, a.id).t - prDone(typ, b.id).t)[0];
 }
 /* Timer */
@@ -1753,7 +1756,9 @@ const fmtT = sec => { const m = Math.floor(Math.abs(sec) / 60), x = Math.abs(sec
 function simPick(ex, typ, pre, used) {
   const l = (BERUF[typ] || []).filter(x => (!x.ex || x.ex.includes(ex)) && (!pre || x.id.startsWith(pre)) && !used.has(typ + ":" + x.id));
   if (!l.length) return null;
-  const fresh = l.filter(x => !prDone(typ, x.id)); return rnd(fresh.length ? fresh : l);
+  const fresh = l.filter(x => prFresh(typ, x.id)); if (fresh.length) return rnd(fresh);
+  /* alles schon geübt: die am längsten nicht mehr gesehenen Aufgaben zuerst */
+  const old = l.slice().sort((a, b) => (prDone(typ, a.id).t || 0) - (prDone(typ, b.id).t || 0)); return rnd(old.slice(0, Math.max(3, Math.ceil(old.length / 5))));
 }
 function simStart(ex, onlyK) {
   SET.exam = ex; saveSET();
