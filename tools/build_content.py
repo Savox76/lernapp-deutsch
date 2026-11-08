@@ -100,6 +100,53 @@ for path in sorted(glob.glob(os.path.join(SRC, "pruefung", "*.json"))):
             if it["id"] in have: print(f"{os.path.basename(path)}: doppelte id {typ}/{it['id']}"); sys.exit(1)
             have.add(it["id"])
         pr.setdefault(typ, []).extend(items)
+# Dialoge: quellen/dialoge/*.txt (einfaches Textformat, siehe README)
+def parse_dialoge(path):
+    out, cur, step = [], None, None
+    fn = os.path.basename(path)
+    for n, line in enumerate(open(path, encoding="utf8"), 1):
+        line = line.rstrip("\n").strip()
+        if not line or line.startswith("#"):
+            continue
+        if line.startswith("==="):
+            f = [x.strip() for x in line[3:].split("|")]
+            if len(f) < 5: errors.append(f"{fn}:{n}: Kopfzeile braucht id | ex | Titel | Partner | Situation | Russisch"); continue
+            cur = {"id": f[0], "ex": f[1].split("+"), "t": f[2], "partner": f[3], "situation": f[4], "schritte": []}
+            if len(f) > 5 and f[5]: cur["ru"] = f[5]
+            out.append(cur); step = None; continue
+        if cur is None: errors.append(f"{fn}:{n}: Zeile vor der ersten Kopfzeile"); continue
+        key, _, val = line.partition(":"); val = val.strip()
+        if key == "P":
+            step = {"p": val}; cur["schritte"].append(step)
+        elif key == "A":
+            if step is None or "a" in step: step = {}; cur["schritte"].append(step)
+            a, _, ar = val.partition("|"); step["a"] = a.strip()
+            if ar.strip(): step["ar"] = ar.strip()
+        elif key == "M":
+            parts = [x.strip() for x in val.split("||")]
+            if step is None: errors.append(f"{fn}:{n}: M ohne A"); continue
+            if any(t.count("*") not in (0, 2) for t in parts[0].split()): errors.append(f"{fn}:{n}: Sternchen falsch: {parts[0]}")
+            step["m"] = parts[0]
+            if len(parts) > 1: step["alt"] = parts[1:]
+        elif key == "K": step["k"] = [x.strip() for x in val.split(",") if x.strip()]
+        elif key == "R": step["r"] = val
+        elif key == "X": step["x"] = val
+        elif key == "ENDE": cur["ende"] = val
+        else: errors.append(f"{fn}:{n}: unbekannter Schlüssel {key}")
+    for d in out:
+        for k, st in enumerate(d["schritte"]):
+            if "a" not in st or "m" not in st: errors.append(f"{fn}: {d['id']} Schritt {k + 1} ohne A oder M")
+    return out
+dlg = []
+for path in sorted(glob.glob(os.path.join(SRC, "dialoge", "*.txt"))):
+    dlg.extend(parse_dialoge(path))
+if dlg:
+    ids = [d["id"] for d in dlg]
+    for x in set(ids):
+        if ids.count(x) > 1: errors.append(f"Dialog-id doppelt: {x}")
+    pr.setdefault("dialog", []).extend(dlg)
+if errors:
+    print("\n".join(errors)); sys.exit(1)
 json.dump(pr, open(os.path.join(OUT, "pruefung.json"), "w", encoding="utf8"), ensure_ascii=False, separators=(",", ":"))
 marked = sum(1 for s in sents if "*" in s["de"])
 manifest = {"version": int(time.time()), "woerter": len(words), "saetze": len(sents), "markiert": marked, "schreiben": len(tasks), "pruefung": {k: len(v) for k, v in pr.items()}}

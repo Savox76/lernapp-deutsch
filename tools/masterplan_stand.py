@@ -19,8 +19,8 @@ s = re.sub(r"\| Wortschatz \| [^|]*\|", f"| Wortschatz | {f(m['woerter'])} Wört
 s = re.sub(r"\| Satzbau \| [^|]*\|", f"| Satzbau | {f(m['saetze'])} Übungssätze ({f(m['markiert'])} mit markiertem Verb), alle 12 Grammatik-Themen auf A2–B2 |", s, count=1)
 s = re.sub(r"\| Schreibaufgaben \| [^|]*\|", f"| Schreibaufgaben | {m['schreiben']} (A2, B1, B2, DTZ und DTB; laufend mehr) |", s, count=1)
 g = lambda t, e: c.get(t, {}).get(e, 0)
-dtb = f"{g('lesen','DTB')} Leseaufgaben (Teil 1–4) · {g('mail','DTB')} E-Mails · {g('notiz','DTB')} Telefonnotizen · {g('forum','DTB')} Forumsbeiträge · {g('sb','DTB')} Sprachbausteine · {g('vortrag','DTB')} Vorträge · {g('fragen','DTB')} Fragerunden · {g('diskussion','DTB')} Diskussionen · {g('loesung','DTB')} Lösung finden · {g('hoeren','DTB')} Hörtexte"
-dtz = f"{g('brief','DTZ')} Briefe · {g('lesen','DTZ')} Leseaufgaben · {g('sb','DTZ')} Brief-Lückentexte · {g('vortrag','DTZ')} Erzählthemen · {g('fragen','DTZ')} Fragerunden · {g('loesung','DTZ')} Gemeinsam planen · {g('hoeren','DTZ')} Hörtexte"
+dtb = f"{g('lesen','DTB')} Leseaufgaben (Teil 1–4) · {g('mail','DTB')} E-Mails · {g('notiz','DTB')} Telefonnotizen · {g('forum','DTB')} Forumsbeiträge · {g('sb','DTB')} Sprachbausteine · {g('vortrag','DTB')} Vorträge · {g('fragen','DTB')} Fragerunden · {g('diskussion','DTB')} Diskussionen · {g('loesung','DTB')} Lösung finden · {g('hoeren','DTB')} Hörtexte · {g('dialog','DTB')} Dialoge"
+dtz = f"{g('brief','DTZ')} Briefe · {g('lesen','DTZ')} Leseaufgaben · {g('sb','DTZ')} Brief-Lückentexte · {g('vortrag','DTZ')} Erzählthemen · {g('fragen','DTZ')} Fragerunden · {g('loesung','DTZ')} Gemeinsam planen · {g('hoeren','DTZ')} Hörtexte · {g('dialog','DTZ')} Dialoge"
 s = re.sub(r"(\| \*\*Prüfung DTB\*\* \| )[^|]*\|", lambda x: x.group(1) + dtb + " |", s, count=1)
 s = re.sub(r"(\| \*\*Prüfung DTZ\*\* \| )[^|]*\|", lambda x: x.group(1) + dtz + " |", s, count=1)
 s = re.sub(r"\*\*Stand:\*\* [^\n]*", f"**Stand:** {done} von 17 Meilensteinen (Phase 1) fertig. Aktuell: {f(m['woerter'])} Wörter · {f(m['saetze'])} Sätze · {m['schreiben']} Schreibaufgaben · {tot} Prüfungsaufgaben.", s)

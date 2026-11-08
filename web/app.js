@@ -333,7 +333,7 @@ function pickCard0() {
 /* ================= Übungen =================
    Jede Übung: build(host, done) – ruft done(ok) genau einmal auf, wenn die Lernerin "Weiter" drückt. */
 const EX = {};
-const TYPE_NAMES = { mailfragen: "Prüfung: E-Mail verstehen", notiz: "Prüfung: Telefonnotiz", sb: "Prüfung: Sprachbausteine", sprechen: "Prüfung: Sprechen", loesung_wahl: "Prüfung: Lösung finden", diskussion_wahl: "Prüfung: Diskussion", hoeren_beruf: "Prüfung: Hören", lesen_pr: "Prüfung: Lesen", hoeren: "Hörtraining", karte: "Karteikarten", bauen: "Satz bauen", verb: "Wo steht das Verb?", rf: "Richtig oder falsch?", diktat: "Diktat", bedeutung: "Bedeutung", artikel: "der/die/das", luecke: "Lückentext", wortart: "Wortart", schreiben: "Schreiben" };
+const TYPE_NAMES = { mailfragen: "Prüfung: E-Mail verstehen", notiz: "Prüfung: Telefonnotiz", sb: "Prüfung: Sprachbausteine", sprechen: "Prüfung: Sprechen", loesung_wahl: "Prüfung: Lösung finden", diskussion_wahl: "Prüfung: Diskussion", hoeren_beruf: "Prüfung: Hören", lesen_pr: "Prüfung: Lesen", dialog: "Dialoge führen", hoeren: "Hörtraining", karte: "Karteikarten", bauen: "Satz bauen", verb: "Wo steht das Verb?", rf: "Richtig oder falsch?", diktat: "Diktat", bedeutung: "Bedeutung", artikel: "der/die/das", luecke: "Lückentext", wortart: "Wortart", schreiben: "Schreiben" };
 
 function nextBtn(host, done, ok) {
   const b = document.createElement("button"); b.className = "btn primary"; b.textContent = "Weiter →";
@@ -1168,7 +1168,8 @@ const PR_TYPES = {
   diskussion: { l: { DTB: "Diskussion (Teil 2)" }, g: "Sprechen", ic: "⇆", min: 5 },
   loesung: { l: { DTB: "Lösung finden (Teil 3)", DTZ: "Gemeinsam planen (Teil 3)" }, g: "Sprechen", ic: "✓", min: 5 },
   hoeren: { l: { DTB: "Hören im Beruf", DTZ: "Hören: Ansagen und Gespräche" }, g: "Hören", ic: "🔊", min: 2 },
-  lesen: { l: { DTB: "Lesen im Beruf (Teil 1–4)", DTZ: "Lesen: Anzeigen und Wegweiser" }, g: "Lesen", ic: "📄", min: 5 }
+  lesen: { l: { DTB: "Lesen im Beruf (Teil 1–4)", DTZ: "Lesen: Anzeigen und Wegweiser" }, g: "Lesen", ic: "📄", min: 5 },
+  dialog: { l: { DTB: "Dialoge führen", DTZ: "Dialoge führen" }, g: "Sprechen", ic: "🗨", min: 8 }
 };
 function exam() { return SET.exam || "DTB"; }
 function prLabel(t) { return PR_TYPES[t].l[exam()] || PR_TYPES[t].l.DTB || PR_TYPES[t].l.DTZ; }
@@ -1475,6 +1476,115 @@ VIEWS.pr = function () {
         plog(typ === "loesung" ? "loesung_wahl" : "diskussion_wahl", ok, null, { pr: typ, pid: item.id });
         i++; setTimeout(() => { if (i < steps.length) drawS(); else { $("#mo").hidden = false; $("#sr").hidden = false; bindRate("sprechen"); toast(right + " von " + steps.length + " Reaktionen passend"); } }, 900);
       }; ch.appendChild(b); });
+    };
+    drawS();
+  }
+  else if (typ === "dialog") {
+    /* Geführter Dialog: Partner spricht, Lernerin antwortet per Satz bauen, Auswählen oder Frei tippen */
+    const steps = item.schritte; let i = 0, right = 0;
+    const MODES = { bauen: "🧩 Satz bauen", waehlen: "☑ Auswählen", tippen: "⌨ Frei tippen" };
+    const mode = () => MODES[SET.dlgMode] ? SET.dlgMode : "bauen";
+    const norm = t => t.toLowerCase().replace(/[.,!?;:„“"–-]/g, " ").replace(/\s+/g, " ").trim();
+    app.innerHTML = `${head2}
+      <div class="card">${task("Führe das Gespräch. Hör zu, was die andere Person sagt, und antworte auf Deutsch.", "Веди разговор. Слушай собеседника и отвечай по-немецки.")}
+        <div class="row between"><h3>Situation</h3>${sayBtn(item.situation, "Situation vorlesen")}</div><div class="ex">${esc(item.situation)}</div>
+        ${item.ru ? `<div class="rubox">${esc(item.ru)}</div>` : ""}
+        <p class="hint small" style="margin-bottom:4px">So antwortest du: <span class="ru">Как отвечать:</span></p>
+        <div class="seg" id="dlgMode">${Object.entries(MODES).map(([k, l]) => `<button data-dm="${k}" aria-pressed="${mode() === k}">${l}</button>`).join("")}</div></div>
+      <div id="dlg" style="display:flex;flex-direction:column;gap:12px"></div>
+      <div id="dlgEnd" hidden class="card"></div>`;
+    app.querySelectorAll("#dlgMode button").forEach(b => b.onclick = () => { SET.dlgMode = b.dataset.dm; saveSET(); app.querySelectorAll("#dlgMode button").forEach(x => x.setAttribute("aria-pressed", x === b)); const cur = $("#dlg").lastElementChild; if (cur && cur.dataset.open === "1") { cur.remove(); drawS(); } });
+    const dlg = $("#dlg");
+    /* falsche Wortstellung erzeugen: Verb an eine falsche Stelle schieben */
+    const wrongOrder = de => {
+      const { toks, end, verbs } = tokens(de); if (!verbs.length || toks.length < 3) return null;
+      const v = verbs[0]; const t = toks.slice(); let [w] = t.splice(v, 1);
+      if (v === 0) { w = w.charAt(0).toLowerCase() + w.slice(1); t[0] = t[0].charAt(0).toUpperCase() + t[0].slice(1); }
+      if (v < t.length) t.push(w.replace(/,$/, "")); else t.splice(1, 0, w);
+      return t.join(" ") + end;
+    };
+    const finish = () => {
+      const n = steps.length; const ok = right >= Math.ceil(n * 0.8); prMk(typ, item.id, ok);
+      const all = steps.map(s => (s.p ? (item.partner || "Partner") + ": " + s.p + " " : "") + "Ich: " + plainSent(s.m)).join(" ") + (item.ende ? " " + (item.partner || "Partner") + ": " + item.ende : "");
+      const e = $("#dlgEnd"); e.hidden = false;
+      e.innerHTML = `<div class="feedback ${ok ? "ok" : "bad"}">${right} von ${n} Antworten richtig</div>
+        <div class="row between"><h3>Das ganze Gespräch</h3>${sayBtn(all, "Ganzes Gespräch vorlesen")}</div>
+        <div class="model">${steps.map(s => (s.p ? `<b>${esc(item.partner || "Partner")}:</b> ${esc(s.p)}\n` : "") + `<b>Ich:</b> ${esc(plainSent(s.m))}`).join("\n")}${item.ende ? `\n<b>${esc(item.partner || "Partner")}:</b> ${esc(item.ende)}` : ""}</div>
+        <p class="hint small">Tipp: Lies das Gespräch jetzt einmal laut – du sprichst deine Rolle. <span class="ru">Прочитай разговор вслух – свою роль.</span></p>${nextBtnHtml}`;
+      e.querySelector(".model").innerHTML = e.querySelector(".model").innerHTML.replace(/\n/g, "<br>");
+      bindNext(); if (item.ende) say(item.ende); e.scrollIntoView({ behavior: "smooth" });
+    };
+    const after = (box, ok, extra) => {
+      const s = steps[i]; if (ok) right++;
+      plog("dialog", ok, null, Object.assign({ pr: typ, pid: item.id, s: i }, extra || {}));
+      box.dataset.open = "0";
+      const r = box.querySelector(".dres"); r.innerHTML += `${s.r ? `<div class="rule"><b>Regel:</b> ${esc(s.r)}</div>` : ""}`;
+      const b = document.createElement("button"); b.className = "btn primary"; b.textContent = i < steps.length - 1 ? "Weiter im Gespräch →" : "Gespräch beenden";
+      b.onclick = () => { b.remove(); i++; if (i < steps.length) drawS(); else finish(); };
+      r.appendChild(b); say(plainSent(s.m));
+    };
+    const drawS = () => {
+      const s = steps[i]; const box = document.createElement("div"); box.className = "card"; box.dataset.open = "1";
+      const { toks, end } = tokens(s.m); const correct = toks.join(" ");
+      const alts = (s.alt || []).map(x => tokens(x).toks.join(" "));
+      box.innerHTML = `<p class="hint small">Schritt ${i + 1} von ${steps.length}</p>
+        ${s.p ? `<div class="row" style="flex-wrap:nowrap;align-items:flex-start"><b style="min-width:70px">${esc(item.partner || "Partner")}:</b><span style="flex:1">${esc(s.p)}</span>${sayBtn(s.p)}</div>` : ""}
+        <div class="panel" style="gap:4px"><div class="row between" style="flex-wrap:nowrap;align-items:flex-start"><span style="flex:1"><b>Du:</b> ${esc(s.a)}</span>${sayBtn(s.a, "Aufgabe vorlesen")}</div>${s.ar ? `<span class="ru small">${esc(s.ar)}</span>` : ""}</div>
+        <div class="dans"></div><div class="dres"></div>`;
+      dlg.appendChild(box); if (s.p) say(s.p);
+      const ans = box.querySelector(".dans"), res = box.querySelector(".dres"); const m = mode();
+      const showSol = ok => { res.innerHTML = `<div class="feedback ${ok ? "ok" : "bad"}" style="text-align:left">${ok ? "Richtig! <span class='ru'>Верно!</span>" : "So kannst du es sagen: <span class='ru'>Можно сказать так:</span>"}</div><div class="solution">${solutionHtml(s.m)}</div>${sayBtn(plainSent(s.m), "Antwort vorlesen")}`; };
+      if (m === "bauen") {
+        let pool = shuffle(toks.map((t, k) => ({ t, k }))), placed = [], checked = false;
+        ans.innerHTML = `<p class="hint small">Bau deine Antwort: <span class="ru">Собери ответ:</span></p><div class="zone"></div><div class="pool"></div><div class="row"><button class="btn" data-a="reset">Zurücksetzen</button><button class="btn primary" data-a="chk">Prüfen</button></div>`;
+        const zone = ans.querySelector(".zone"), pl = ans.querySelector(".pool");
+        const draw = () => {
+          zone.innerHTML = ""; pl.innerHTML = "";
+          placed.forEach((x, k) => { const b = document.createElement("button"); b.className = "tile" + (x.bad ? " wrongpos" : ""); b.textContent = x.t; b.onclick = () => { if (checked) return; placed.splice(k, 1); pool.push(x); draw(); }; zone.appendChild(b); });
+          pool.forEach((x, k) => { const b = document.createElement("button"); b.className = "tile"; b.textContent = x.t; b.onclick = () => { if (checked) return; if (SET.tapSay) say(x.t); pool.splice(k, 1); placed.push(x); draw(); }; pl.appendChild(b); });
+        };
+        draw();
+        ans.querySelector('[data-a="reset"]').onclick = () => { if (checked) return; pool = shuffle(pool.concat(placed)); placed = []; draw(); };
+        ans.querySelector('[data-a="chk"]').onclick = e => {
+          if (checked) return; if (pool.length) { toast("Erst alle Wörter einsetzen."); return; }
+          const mine = placed.map(x => x.t).join(" "); const ok = mine === correct || alts.includes(mine); checked = true;
+          if (!ok) placed.forEach((x, k) => { if (toks[k] !== x.t) x.bad = true; });
+          zone.className = "zone " + (ok ? "ok" : "bad"); draw(); e.target.parentElement.hidden = true;
+          showSol(ok); after(box, ok, ok ? null : { a: mine });
+        };
+      } else if (m === "waehlen") {
+        const opts = [plainSent(s.m)]; const wo = wrongOrder(s.m); if (wo && !alts.includes(tokens(wo).toks.join(" "))) opts.push(wo);
+        const other = s.x || (steps.filter((_, k) => k !== i).map(z => plainSent(z.m))[0]); if (other && !opts.includes(other)) opts.push(other);
+        const sh = shuffle(opts.slice());
+        ans.innerHTML = `<p class="hint small">Welche Antwort passt und ist richtig gebaut? <span class="ru">Какой ответ подходит и построен правильно?</span></p><div class="choices one"></div>`;
+        const ch = ans.querySelector(".choices"); let done = false;
+        sh.forEach(o => { const b = document.createElement("button"); b.className = "choice"; b.textContent = o; b.onclick = () => {
+          if (done) return; done = true; const ok = o === opts[0]; b.classList.add(ok ? "right" : "wrong"); if (!ok) [...ch.children].find(c => c.textContent === opts[0]).classList.add("right");
+          showSol(ok); if (!ok && o === wo) res.insertAdjacentHTML("afterbegin", `<div class="rule">Achtung: Die Wörter stimmen, aber das Verb steht an der falschen Stelle. <span class="ru">Глагол стоит не на своём месте.</span></div>`);
+          after(box, ok, ok ? null : { a: o });
+        }; ch.appendChild(b); });
+      } else {
+        ans.innerHTML = `<label>Deine Antwort <textarea class="dtx" rows="2" spellcheck="false"></textarea></label><div class="row"><button class="btn primary" data-a="chk">Prüfen</button></div>`;
+        ans.querySelector('[data-a="chk"]').onclick = e => {
+          const v = ans.querySelector(".dtx").value.trim(); if (!v) { toast("Schreib zuerst eine Antwort."); return; }
+          e.target.parentElement.hidden = true; ans.querySelector(".dtx").readOnly = true;
+          const nv = norm(v); const exact = [plainSent(s.m)].concat(s.alt || []).some(x => norm(x) === nv);
+          if (exact) { showSol(true); after(box, true); return; }
+          const keys = s.k || []; const miss = keys.filter(k => !nv.includes(k.toLowerCase()));
+          const { toks: mt, verbs } = tokens(s.m); const vt = verbs.length ? mt[verbs[0]].toLowerCase().replace(/[,]/g, "") : null;
+          const ut = nv.split(" "); const vpos = vt ? ut.indexOf(vt) : -1;
+          const notes = [];
+          if (keys.length) notes.push(miss.length ? `Diese wichtigen Wörter fehlen: <b>${miss.map(esc).join(", ")}</b>` : "Alle wichtigen Wörter sind da. 👍");
+          const okPos = [plainSent(s.m)].concat(s.alt || []).map(x => norm(x).split(" ").indexOf(vt));
+          if (vt) notes.push(vpos < 0 ? `Das Verb <b>${esc(vt)}</b> fehlt oder hat eine andere Form. Prüfe die Form. <span class="ru">Проверь форму глагола.</span>` : okPos.includes(vpos) ? `Das Verb <b>${esc(vt)}</b> steht an der richtigen Stelle. 👍` : `Das Verb <b>${esc(vt)}</b> steht an einer anderen Stelle als in der Musterantwort. Vergleiche (unterstrichen). <span class="ru">Глагол стоит не там – сравни.</span>`);
+          showSol(false); res.querySelector(".feedback").outerHTML = `<div class="panel" style="gap:4px">${notes.map(x => `<div>${x}</div>`).join("")}</div><p class="hint small">Musterantwort: <span class="ru">Образец:</span></p>`;
+          const rate = document.createElement("div"); rate.className = "row";
+          rate.innerHTML = `<button class="btn" data-ok="1">✓ Meine Antwort war richtig</button><button class="btn" data-ok="0">✗ Nicht ganz</button>`;
+          res.appendChild(rate);
+          rate.querySelectorAll("button").forEach(b => b.onclick = () => { rate.remove(); after(box, b.dataset.ok === "1", { a: v, self: 1 }); });
+        };
+      }
+      box.scrollIntoView({ behavior: "smooth", block: "start" });
     };
     drawS();
   }

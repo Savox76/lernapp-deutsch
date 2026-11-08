@@ -22,7 +22,7 @@ automatisch beim nächsten Öffnen. Die App muss nicht neu installiert werden.
 | Bereich | Inhalt |
 |---|---|
 | Heute | **Grundkurs von vorn** (13 Stufen von „Verb auf Platz 2“ bis Passiv, nächste Stufe ab 80 %), Tagesmix (20 Aufgaben gemischt), Tagesziel, Serie |
-| Prüfung | Umschaltbar **DTB B2** / **DTZ**. DTB: Lesen im Beruf (Teil 1–4), E-Mail beantworten, Telefonnotiz, Forumsbeitrag, Sprachbausteine, Vortrag, Prüferfragen, Diskussion, Lösung finden, Hören im Beruf. DTZ: Brief, Brief-Lückentext, Lesen (Wegweiser, Anzeigen), Sich vorstellen, Erzählen, Gemeinsam planen, Hören. Mit Timer, Redemitteln, Musterlösungen zum Anhören und **Punkterechner** (bestanden ja/nein). |
+| Prüfung | Umschaltbar **DTB B2** / **DTZ**. DTB: Lesen im Beruf (Teil 1–4), Dialoge führen, E-Mail beantworten, Telefonnotiz, Forumsbeitrag, Sprachbausteine, Vortrag, Prüferfragen, Diskussion, Lösung finden, Hören im Beruf. DTZ: Brief, Brief-Lückentext, Lesen (Wegweiser, Anzeigen), Sich vorstellen, Erzählen, Gemeinsam planen, Hören. Mit Timer, Redemitteln, Musterlösungen zum Anhören und **Punkterechner** (bestanden ja/nein). |
 | Wörter | Karteikasten mit Wiederholung nach 1, 3, 7, 14, 30 … Tagen, Quiz: Bedeutung, der/die/das, Lückentext, Wortart |
 | Satzbau | Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat (hören und bauen) |
 | Statistik | Aufgaben, richtig/falsch und Minuten pro Tag, Diagramm 14 Tage, Übungsarten, häufigste Fehler, **Bericht per WhatsApp senden** |
@@ -73,6 +73,21 @@ Typen und Felder:
 | `lesen` | `t, anweisung, ru?, texte[{k,text}], fragen[{q,o,r,e?}]` – `e` = Erklärung nach der Antwort (Schlüsselstelle im Text) |
 
 `r` ist die Nummer der richtigen Option (ab 0). Die App mischt die Optionen selbst.
+
+**Dialoge** (`quellen/dialoge/*.txt`): einfaches Textformat, eine Szene beginnt mit einer Kopfzeile.
+
+```
+=== dlg-b01 | DTB | Urlaub beantragen | Chefin | Situation auf Deutsch | Situation auf Russisch
+P: Frau Iwanowa, Sie wollten mich sprechen?
+A: Sag, dass du im August Urlaub nehmen möchtest. | Скажи, что хочешь взять отпуск в августе.
+M: Ja, ich *möchte* im August Urlaub nehmen. || Ja, im August möchte ich Urlaub nehmen.
+K: August, Urlaub
+R: Modalverb auf Platz 2, Infinitiv am Ende.
+ENDE: Gern. Schönen Urlaub!
+```
+
+`P` = Partner sagt (optional), `A` = Aufgabe | Russisch, `M` = Musterantwort mit `*Verb*` (weitere erlaubte Wortstellungen nach `||`),
+`K` = wichtige Wörter für „Frei tippen“, `R` = Regel (optional), `ENDE` = letzter Satz des Partners. Prüfung: `DTB`, `DTZ` oder `DTZ+DTB`.
 
 Nach dem Ändern: `python3 tools/build_content.py` ausführen (prüft die Dateien) und committen.
 Beim Push baut GitHub die Web-App automatisch neu.

@@ -1,0 +1,355 @@
+# Dialoge Beruf (DTB) – Teil 2
+
+=== dlg-b16 | DTB | Sich verspäten | Teamleiterin | Ihr Bus hat Verspätung. Sie rufen Ihre Teamleiterin an. | Ваш автобус опаздывает. Вы звоните руководительнице команды.
+P: Hoffmann.
+A: Sag, wer du bist, und dass du später kommst. | Скажи, кто ты, и что придёшь позже.
+M: Hallo Frau Hoffmann, hier *ist* Olga. Ich *komme* heute leider später.
+K: später
+P: Was ist passiert?
+A: Sag, dass der Bus eine halbe Stunde Verspätung hat. | Скажи, что автобус опаздывает на полчаса.
+M: Mein Bus *hat* eine halbe Stunde Verspätung.
+K: Bus, Verspätung
+P: Wann sind Sie denn da?
+A: Sag, dass du ungefähr um halb neun da bist. | Скажи, что будешь примерно в полдевятого.
+M: Ich *bin* ungefähr um halb neun da.
+K: halb neun
+P: Um neun haben wir die Teambesprechung.
+A: Sag, dass du bis dahin auf jeden Fall da bist. | Скажи, что к этому времени точно будешь.
+M: Bis dahin *bin* ich auf jeden Fall da.
+R: „Bis dahin“ auf Position 1 → Verb auf Platz 2.
+P: Gut. Die halbe Stunde arbeiten Sie dann nach?
+A: Sag ja, du bleibst heute bis 17 Uhr. | Скажи «да», сегодня останешься до 17 часов.
+M: Ja, ich *bleibe* heute bis 17 Uhr.
+K: 17 Uhr
+ENDE: In Ordnung. Bis gleich!
+
+=== dlg-b17 | DTB | Lieferung annehmen und reklamieren | Fahrer | Sie arbeiten in der Warenannahme. Ein Fahrer bringt eine Lieferung, aber eine Palette ist beschädigt. | Вы на приёмке товара. Водитель привёз поставку, но один поддон повреждён.
+P: Morgen! Ich habe hier acht Paletten für Sie. Können Sie bitte unterschreiben?
+A: Sag, dass du zuerst die Lieferung kontrollieren musst. | Скажи, что сначала должна проверить поставку.
+M: Moment, zuerst *muss* ich die Lieferung kontrollieren.
+K: kontrollieren
+R: „zuerst“ vor dem Verb → Subjekt danach.
+P: Klar, aber ich habe es eilig.
+A: Sag, dass auf dem Lieferschein zehn Paletten stehen. | Скажи, что в накладной указано десять поддонов.
+M: Auf dem Lieferschein *stehen* aber zehn Paletten.
+K: Lieferschein, zehn
+P: Oh, dann sind zwei noch im anderen Lkw. Die kommen heute Nachmittag.
+A: Sag, dass eine Palette beschädigt ist. | Скажи, что один поддон повреждён.
+M: Außerdem *ist* eine Palette beschädigt.
+K: beschädigt
+P: Das war schon so, als ich geladen habe.
+A: Sag, dass du die Ware unter Vorbehalt annimmst und ein Foto machst. | Скажи, что принимаешь товар с оговоркой и делаешь фото.
+M: Ich *nehme* die Ware unter Vorbehalt an und *mache* ein Foto.
+K: Vorbehalt, Foto
+R: annehmen: „an“ am Ende des ersten Teils.
+P: Okay. Schreiben Sie das auf den Lieferschein?
+A: Sag ja und dass er bitte auch unterschreibt. | Скажи «да» и что он тоже должен расписаться.
+M: Ja, und bitte *unterschreiben* Sie auch.
+ENDE: Mache ich. Hier, bitte.
+
+=== dlg-b18 | DTB | Gehaltsabrechnung nicht verstanden | Personalabteilung | Auf Ihrer Lohnabrechnung fehlen die Nachtzuschläge. Sie fragen in der Personalabteilung. | В расчётном листке не хватает ночных надбавок. Вы спрашиваете в отделе кадров.
+P: Personalabteilung, Wagner, was kann ich für Sie tun?
+A: Sag, dass du eine Frage zu deiner Lohnabrechnung hast. | Скажи, что у тебя вопрос по расчётному листку.
+M: Ich *habe* eine Frage zu meiner Lohnabrechnung.
+K: Lohnabrechnung
+P: Ja, worum geht es?
+A: Sag, dass im Oktober die Nachtzuschläge fehlen. | Скажи, что в октябре не хватает ночных надбавок.
+M: Im Oktober *fehlen* die Nachtzuschläge. || Die Nachtzuschläge fehlen im Oktober.
+K: Oktober, Nachtzuschläge
+P: Wie viele Nachtschichten hatten Sie denn?
+A: Sag, dass du sechs Nachtschichten gearbeitet hast. | Скажи, что отработала шесть ночных смен.
+M: Ich *habe* sechs Nachtschichten gearbeitet.
+K: sechs
+P: Einen Moment … Ja, ich sehe es. Da ist ein Fehler passiert.
+A: Frag, wann du das Geld bekommst. | Спроси, когда получишь деньги.
+M: Wann *bekomme* ich das Geld?
+P: Mit der nächsten Abrechnung im November.
+A: Bitte darum, das kurz per E-Mail zu bestätigen. | Попроси кратко подтвердить это по электронной почте.
+M: *Könnten* Sie mir das bitte kurz per E-Mail bestätigen?
+K: E-Mail, bestätigen
+R: Höfliche Bitte mit Konjunktiv II.
+ENDE: Natürlich, die E-Mail kommt heute noch.
+
+=== dlg-b19 | DTB | Neue Kollegin einarbeiten | Neue Kollegin | Eine neue Kollegin fängt heute an. Sie zeigen ihr die Station. | Сегодня начинает новая коллега. Вы показываете ей отделение.
+P: Hallo, ich bin Anna. Ich soll mich bei dir melden.
+A: Begrüße sie und stell dich vor. | Поприветствуй её и представься.
+M: Hallo Anna, herzlich willkommen! Ich *bin* Olga.
+P: Danke! Wo fange ich am besten an?
+A: Sag, dass du ihr zuerst die Station zeigst. | Скажи, что сначала покажешь ей отделение.
+M: Zuerst *zeige* ich dir die Station. || Ich zeige dir zuerst die Station.
+K: Station
+P: Wo finde ich die Handschuhe und das Desinfektionsmittel?
+A: Sag, dass alles im Raum neben dem Stationszimmer ist. | Скажи, что всё в комнате рядом с сестринской.
+M: Alles *ist* im Raum neben dem Stationszimmer.
+K: Stationszimmer
+P: Und wann ist die Übergabe?
+A: Sag, dass die Übergabe um 13:30 Uhr ist. | Скажи, что передача смены в 13:30.
+M: Die Übergabe *ist* um 13:30 Uhr.
+K: 13:30
+P: Muss ich dabei schon etwas sagen?
+A: Beruhige sie: Sie soll heute nur zuhören. | Успокой её: сегодня ей нужно только слушать.
+M: Nein, heute *hörst* du nur zu.
+R: zuhören: „zu“ am Ende.
+A: Sag, dass sie dich jederzeit fragen kann. | Скажи, что она может спрашивать в любое время.
+M: Du *kannst* mich jederzeit fragen.
+ENDE: Danke, das ist lieb. Dann bin ich schon viel ruhiger.
+
+=== dlg-b20 | DTB | Lösung finden: Urlaubsvertretung | Kollege | Sie und Ihr Kollege möchten beide in den Herbstferien Urlaub machen. Nur einer kann gehen. | Вы и коллега хотите в отпуск на осенних каникулах. Пойти может только один.
+P: Du, ich habe gesehen, du willst auch in den Herbstferien Urlaub nehmen.
+A: Sag ja, weil deine Tochter Ferien hat. | Скажи «да», потому что у дочери каникулы.
+M: Ja, weil meine Tochter dann Ferien *hat*.
+K: Tochter, Ferien
+R: weil-Satz: Verb am Ende.
+P: Ich habe aber schon eine Reise gebucht.
+A: Schlag vor, die zwei Wochen zu teilen. | Предложи разделить две недели.
+M: Wir *könnten* die zwei Wochen teilen.
+K: teilen
+P: Wie meinst du das?
+A: Erkläre: Er nimmt die erste Woche, du die zweite. | Объясни: он берёт первую неделю, ты — вторую.
+M: Du *nimmst* die erste Woche, und ich *nehme* die zweite.
+K: erste, zweite
+P: Meine Reise dauert aber zehn Tage.
+A: Schlag vor, dass er drei Tage länger bleibt und du drei Tage später gehst. | Предложи, чтобы он остался на три дня дольше, а ты ушла на три дня позже.
+M: Dann *bleibst* du drei Tage länger, und ich *gehe* drei Tage später.
+K: drei Tage
+P: Das ist fair. Und wer fragt die Chefin?
+A: Sag, dass ihr zusammen zu ihr geht. | Скажи, что вы пойдёте к ней вместе.
+M: Wir *gehen* am besten zusammen zu ihr.
+ENDE: Gute Idee. Gleich nach der Pause?
+
+=== dlg-b21 | DTB | Arbeitsunfall melden | Sicherheitsbeauftragter | Sie haben sich bei der Arbeit an der Hand verletzt. Sie melden den Unfall. | Вы поранили руку на работе. Вы сообщаете о несчастном случае.
+P: Was ist denn passiert?
+A: Sag, dass du dich beim Öffnen eines Kartons an der Hand geschnitten hast. | Скажи, что порезала руку, открывая коробку.
+M: Ich *habe* mich beim Öffnen eines Kartons an der Hand geschnitten.
+K: Hand, geschnitten
+P: Ist es schlimm?
+A: Sag, dass es stark geblutet hat, aber jetzt verbunden ist. | Скажи, что сильно кровило, но сейчас перевязано.
+M: Es *hat* stark geblutet, aber jetzt *ist* es verbunden.
+K: verbunden
+P: Haben Sie den Unfall ins Verbandbuch eingetragen?
+A: Sag, dass du das noch nicht gemacht hast. | Скажи, что ещё не сделала этого.
+M: Nein, das *habe* ich noch nicht gemacht.
+P: Das ist wichtig, falls es Probleme gibt. Wann ist es passiert?
+A: Sag: heute um 10:15 Uhr an Rampe 2. | Скажи: сегодня в 10:15 у рампы 2.
+M: Es *ist* heute um 10:15 Uhr an Rampe 2 passiert.
+K: 10:15, Rampe
+R: passieren: Perfekt mit „sein“.
+P: Und wer war dabei?
+A: Sag, dass dein Kollege Herr Novak dabei war. | Скажи, что был твой коллега господин Новак.
+M: Mein Kollege Herr Novak *war* dabei.
+K: Novak
+ENDE: Gut, ich trage alles ein. Wenn die Hand schlimmer wird, gehen Sie bitte zum Durchgangsarzt.
+
+=== dlg-b22 | DTB | Prüferfrage: Über den eigenen Beruf sprechen | Prüferin | In der Prüfung fragt die Prüferin nach Ihrem Beruf. | На экзамене экзаменатор спрашивает о вашей профессии.
+P: Was machen Sie beruflich?
+A: Sag, dass du als Pflegehelferin in einem Seniorenheim arbeitest. | Скажи, что работаешь помощницей по уходу в доме престарелых.
+M: Ich *arbeite* als Pflegehelferin in einem Seniorenheim.
+K: Pflegehelferin
+P: Wie sieht ein typischer Arbeitstag aus?
+A: Sag, dass du um sechs Uhr anfängst und den Bewohnern beim Waschen hilfst. | Скажи, что начинаешь в шесть и помогаешь жильцам умываться.
+M: Ich *fange* um sechs Uhr an und *helfe* den Bewohnern beim Waschen.
+K: sechs Uhr, Waschen
+P: Was gefällt Ihnen an Ihrer Arbeit?
+A: Sag, dass dir der Kontakt mit Menschen gefällt. | Скажи, что тебе нравится общение с людьми.
+M: Mir *gefällt* der Kontakt mit Menschen. || Der Kontakt mit Menschen gefällt mir.
+K: Kontakt
+P: Und was ist schwierig?
+A: Sag, dass die Arbeit körperlich anstrengend ist. | Скажи, что работа физически тяжёлая.
+M: Die Arbeit *ist* körperlich anstrengend.
+K: anstrengend
+P: Was möchten Sie in fünf Jahren machen?
+A: Sag, dass du eine Ausbildung als Pflegefachkraft machen möchtest. | Скажи, что хочешь получить образование специалиста по уходу.
+M: In fünf Jahren *möchte* ich eine Ausbildung als Pflegefachkraft machen.
+K: Pflegefachkraft
+R: Zeit auf Position 1 → Modalverb, Infinitiv am Ende.
+ENDE: Vielen Dank. Das war sehr gut.
+
+=== dlg-b23 | DTB | Bei der IT anrufen | IT-Support | Ihr Computer startet nicht. Sie rufen beim IT-Support an. | Ваш компьютер не запускается. Вы звоните в IT-поддержку.
+P: IT-Support, Kaiser, guten Morgen.
+A: Sag, dass dein Computer nicht startet. | Скажи, что твой компьютер не запускается.
+M: Guten Morgen, mein Computer *startet* nicht.
+K: Computer
+P: Was passiert, wenn Sie ihn einschalten?
+A: Sag, dass der Bildschirm schwarz bleibt. | Скажи, что экран остаётся чёрным.
+M: Der Bildschirm *bleibt* schwarz.
+K: Bildschirm, schwarz
+P: Leuchtet ein Licht am Computer?
+A: Sag, dass ein rotes Licht blinkt. | Скажи, что мигает красная лампочка.
+M: Ja, ein rotes Licht *blinkt*.
+K: rotes Licht
+P: Haben Sie schon das Stromkabel geprüft?
+A: Sag, dass das Kabel richtig steckt. | Скажи, что кабель вставлен правильно.
+M: Ja, das Kabel *steckt* richtig.
+P: Dann komme ich vorbei. Welche Raumnummer haben Sie?
+A: Sag: Raum 214, zweiter Stock. | Скажи: комната 214, третий этаж (второй по-немецки).
+M: Ich *sitze* in Raum 214 im zweiten Stock.
+K: 214
+A: Frag, ob du in der Zeit an einem anderen Computer arbeiten kannst. | Спроси, можно ли пока поработать за другим компьютером.
+M: *Kann* ich in der Zeit an einem anderen Computer arbeiten?
+K: anderen Computer
+ENDE: Ja, nehmen Sie den Rechner im Besprechungsraum. Ich bin in zehn Minuten da.
+
+=== dlg-b24 | DTB | Diskussion: Homeoffice ja oder nein? | Kollegin | In der Prüfung diskutieren Sie mit einer Partnerin über Homeoffice. | На экзамене вы обсуждаете с партнёршей работу из дома.
+P: Ich finde, alle sollten zwei Tage pro Woche im Homeoffice arbeiten dürfen. Was meinst du?
+A: Stimm teilweise zu. | Частично согласись.
+M: Da *hast* du teilweise recht.
+K: recht
+P: Man spart doch viel Zeit, weil man nicht fahren muss.
+A: Sag, dass das stimmt, aber der Kontakt zu den Kollegen fehlt. | Скажи, что это так, но не хватает контакта с коллегами.
+M: Das *stimmt*, aber der Kontakt zu den Kollegen *fehlt*.
+K: Kontakt, fehlt
+P: Den Kontakt kann man doch auch per Video haben.
+A: Widersprich: Ein Gespräch in der Kaffeeküche ist etwas anderes. | Возрази: разговор на кухне — это другое.
+M: Ein Gespräch in der Kaffeeküche *ist* aber etwas anderes.
+K: Kaffeeküche
+P: Und was ist mit Berufen, in denen Homeoffice gar nicht geht?
+A: Sag, dass das unfair sein kann, zum Beispiel in der Pflege. | Скажи, что это может быть несправедливо, например в сфере ухода.
+M: Das *kann* unfair sein, zum Beispiel in der Pflege.
+K: unfair, Pflege
+P: Hm, da hast du recht.
+A: Fasse zusammen: Homeoffice ist gut, aber nicht für alle. | Подведи итог: хоумофис хорош, но не для всех.
+M: Homeoffice *ist* also gut, aber nicht für alle Berufe möglich.
+K: nicht für alle
+ENDE: Einverstanden.
+
+=== dlg-b25 | DTB | Ware im Restaurant bestellen | Lieferant | Sie arbeiten in einer Restaurantküche und bestellen Gemüse beim Lieferanten. | Вы работаете на кухне ресторана и заказываете овощи у поставщика.
+P: Frischdienst Becker, guten Tag.
+A: Sag, dass du vom Restaurant Elbblick anrufst und etwas bestellen möchtest. | Скажи, что звонишь из ресторана «Эльбблик» и хочешь заказать.
+M: Guten Tag, hier *ist* das Restaurant Elbblick. Ich *möchte* etwas bestellen.
+K: Elbblick, bestellen
+P: Gerne. Was brauchen Sie?
+A: Bestelle zehn Kilo Kartoffeln und fünf Kilo Tomaten. | Закажи десять кило картофеля и пять кило помидоров.
+M: Wir *brauchen* zehn Kilo Kartoffeln und fünf Kilo Tomaten.
+K: Kartoffeln, Tomaten
+P: Tomaten habe ich im Moment nur aus Spanien.
+A: Frag, ob er auch Tomaten aus der Region hat. | Спроси, есть ли местные помидоры.
+M: *Haben* Sie keine Tomaten aus der Region?
+K: Region
+P: Leider nicht, erst wieder im Sommer.
+A: Sag, dass ihr dann die aus Spanien nehmt. | Скажи, что тогда возьмёте испанские.
+M: Dann *nehmen* wir die aus Spanien.
+P: Wann soll ich liefern?
+A: Sag: morgen früh vor neun Uhr. | Скажи: завтра утром до девяти.
+M: Bitte *liefern* Sie morgen früh vor neun Uhr.
+K: vor neun
+R: Imperativ (Sie-Form): Verb auf Position 1.
+P: Geht klar.
+A: Erinnere ihn: Letztes Mal fehlte die Rechnung. | Напомни: в прошлый раз не было счёта.
+M: Letztes Mal *fehlte* übrigens die Rechnung.
+K: Rechnung
+ENDE: Oh, Entschuldigung. Diesmal lege ich sie dazu.
+
+=== dlg-b26 | DTB | Eine Kundin am Telefon beraten | Kundin | Sie arbeiten im Kundenservice einer Sprachschule. Eine Kundin fragt nach einem Kurs. | Вы работаете в службе клиентов языковой школы. Клиентка спрашивает о курсе.
+P: Guten Tag, ich interessiere mich für einen Deutschkurs B1.
+A: Frag, ob sie vormittags oder abends lernen möchte. | Спроси, хочет ли она учиться утром или вечером.
+M: *Möchten* Sie vormittags oder abends lernen?
+K: vormittags, abends
+P: Abends, weil ich tagsüber arbeite.
+A: Sag, dass der nächste Abendkurs am 5. März beginnt. | Скажи, что следующий вечерний курс начинается 5 марта.
+M: Der nächste Abendkurs *beginnt* am 5. März.
+K: 5. März
+P: Wie oft ist der Unterricht?
+A: Sag: zweimal pro Woche, montags und mittwochs von 18 bis 21 Uhr. | Скажи: два раза в неделю, по понедельникам и средам с 18 до 21.
+M: Der Unterricht *ist* zweimal pro Woche, montags und mittwochs von 18 bis 21 Uhr.
+K: zweimal, montags
+P: Und was kostet der Kurs?
+A: Sag, dass er 390 Euro kostet und man in Raten zahlen kann. | Скажи, что он стоит 390 евро и можно платить частями.
+M: Er *kostet* 390 Euro, und man *kann* in Raten zahlen.
+K: 390, Raten
+P: Muss ich vorher einen Test machen?
+A: Sag ja, einen kurzen Einstufungstest online. | Скажи «да», короткий онлайн-тест на уровень.
+M: Ja, Sie *machen* vorher einen kurzen Einstufungstest online.
+K: Einstufungstest
+ENDE: Gut, dann melde ich mich gleich an.
+
+=== dlg-b27 | DTB | Konflikt im Team ansprechen | Kollege | Ein Kollege lässt seine Sachen immer im gemeinsamen Arbeitsbereich liegen. Sie sprechen ihn an. | Коллега постоянно оставляет свои вещи в общей рабочей зоне. Вы говорите с ним.
+P: Hey Olga, was ist los?
+A: Frag, ob du kurz etwas ansprechen darfst. | Спроси, можно ли кое-что обсудить.
+M: *Darf* ich kurz etwas ansprechen?
+P: Klar.
+A: Sag freundlich, dass seine Kisten oft im Gang stehen. | Вежливо скажи, что его ящики часто стоят в проходе.
+M: Mir *ist* aufgefallen, dass deine Kisten oft im Gang *stehen*.
+K: Kisten, Gang
+R: dass-Satz: Verb am Ende.
+P: Oh. Das ist mir gar nicht bewusst gewesen.
+A: Erkläre, dass das gefährlich ist, weil man stolpern kann. | Объясни, что это опасно, потому что можно споткнуться.
+M: Das *ist* gefährlich, weil man darüber stolpern *kann*.
+K: gefährlich, stolpern
+P: Stimmt. Aber ich weiß nicht, wohin damit.
+A: Schlag vor, ein Regal dafür zu benutzen. | Предложи использовать для этого стеллаж.
+M: Vielleicht *könntest* du das leere Regal hinten benutzen.
+K: Regal
+P: Gute Idee, das mache ich.
+A: Bedank dich. | Поблагодари.
+M: Danke, dass du das so gut *aufnimmst*.
+R: dass-Satz: trennbares Verb zusammen am Ende.
+ENDE: Kein Problem. Sag ruhig immer gleich Bescheid.
+
+=== dlg-b28 | DTB | Weiterbildung beim Chef vorschlagen | Chef | Sie möchten eine Weiterbildung machen und fragen Ihren Chef. | Вы хотите пройти обучение и спрашиваете начальника.
+P: Frau Iwanowa, was kann ich für Sie tun?
+A: Sag, dass du eine Weiterbildung machen möchtest. | Скажи, что хочешь пройти повышение квалификации.
+M: Ich *würde* gern eine Weiterbildung machen.
+K: Weiterbildung
+P: Interessant. Welche denn?
+A: Sag: einen Kurs „Fachdeutsch Pflege“. | Скажи: курс «Профессиональный немецкий для ухода».
+M: Ich *denke* an einen Kurs „Fachdeutsch Pflege“.
+K: Fachdeutsch
+P: Und warum ist das wichtig für Sie?
+A: Sag, dass du dann Pflegeberichte besser schreiben kannst. | Скажи, что тогда сможешь лучше писать отчёты.
+M: Dann *kann* ich Pflegeberichte besser schreiben.
+K: Pflegeberichte
+P: Wann findet der Kurs statt?
+A: Sag: samstags, zwölf Wochen lang. | Скажи: по субботам, двенадцать недель.
+M: Der Kurs *findet* samstags statt, zwölf Wochen lang.
+K: samstags
+R: stattfinden: „statt“ am Ende.
+P: Und die Kosten?
+A: Frag, ob die Firma einen Teil der Kosten übernehmen kann. | Спроси, может ли фирма взять на себя часть расходов.
+M: *Könnte* die Firma einen Teil der Kosten übernehmen?
+K: Kosten
+ENDE: Das prüfe ich. Schicken Sie mir bitte die Informationen per E-Mail.
+
+=== dlg-b29 | DTB | Telefonat: Termin verschieben | Kunde | Sie müssen einen Termin mit einem Kunden verschieben, weil Ihr Kollege krank ist. | Вам нужно перенести встречу с клиентом, потому что коллега болен.
+P: Hallo, Fischer hier.
+A: Stell dich vor und sag, dass du wegen des Termins morgen anrufst. | Представься и скажи, что звонишь по поводу завтрашней встречи.
+M: Guten Tag, Herr Fischer, hier *ist* Iwanowa von der Firma Elbtec. Ich *rufe* wegen des Termins morgen an.
+K: Termin
+P: Ja, morgen um zehn. Gibt es ein Problem?
+A: Sag, dass dein Kollege krank ist und der Termin verschoben werden muss. | Скажи, что коллега болен и встречу нужно перенести.
+M: Mein Kollege *ist* leider krank, deshalb *müssen* wir den Termin verschieben.
+K: krank, verschieben
+R: deshalb → Verb direkt danach.
+P: Schade. Wann geht es denn?
+A: Schlag Donnerstag um 14 Uhr vor. | Предложи четверг в 14 часов.
+M: *Würde* Ihnen Donnerstag um 14 Uhr passen?
+K: Donnerstag
+P: Donnerstag bin ich nicht da. Freitag Vormittag?
+A: Sag, dass Freitag um neun geht. | Скажи, что пятница в девять подходит.
+M: Freitag um neun Uhr *geht*.
+K: Freitag
+P: Gut, dann Freitag um neun.
+A: Entschuldige dich für die Änderung. | Извинись за изменение.
+M: Entschuldigen Sie bitte die Änderung.
+ENDE: Kein Problem, das kann passieren. Gute Besserung an Ihren Kollegen!
+
+=== dlg-b30 | DTB | Sicherheitsunterweisung | Sicherheitsbeauftragte | Sie bekommen eine Sicherheitsunterweisung und stellen Fragen. | Вы проходите инструктаж по технике безопасности и задаёте вопросы.
+P: So, das waren die wichtigsten Regeln. Haben Sie noch Fragen?
+A: Frag, wo die Feuerlöscher hängen. | Спроси, где висят огнетушители.
+M: Wo *hängen* die Feuerlöscher?
+K: Feuerlöscher
+P: Neben jedem Ausgang und an jeder Maschine.
+A: Frag, was du bei Feueralarm machen sollst. | Спроси, что нужно делать при пожарной тревоге.
+M: Was *soll* ich bei Feueralarm machen?
+K: Feueralarm
+P: Sie verlassen sofort die Halle über den nächsten Fluchtweg und gehen zum Sammelplatz.
+A: Wiederhole: Du gehst zum Sammelplatz. | Повтори: ты идёшь к месту сбора.
+M: Ich *verlasse* also die Halle und *gehe* zum Sammelplatz.
+K: Sammelplatz
+P: Genau. Und Sie nehmen nichts mit!
+A: Frag, ob du einen Gehörschutz tragen musst. | Спроси, нужно ли носить защиту для ушей.
+M: *Muss* ich auch einen Gehörschutz tragen?
+K: Gehörschutz
+P: Nur an den Maschinen mit dem blauen Schild.
+A: Sag, dass du alles verstanden hast und unterschreibst. | Скажи, что всё поняла и распишешься.
+M: Ich *habe* alles verstanden und *unterschreibe* jetzt.
+ENDE: Sehr gut. Willkommen im Team!

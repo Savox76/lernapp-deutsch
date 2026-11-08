@@ -2,7 +2,7 @@
 
 Stand: 08.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
 
-**Zuletzt komplett geprüft:** 08.11.2026 nach L5 (Lehrbuch-Auswertung) (Code, Inhalte und Veröffentlichung abgeglichen).
+**Zuletzt komplett geprüft:** 08.11.2026 nach Dialoge Stufe 1 (Code, Inhalte und Veröffentlichung abgeglichen).
 Zeichen: ✅ eingebaut/fertig · 🟡 teilweise · ⏳ in Arbeit · ⬜ offen · ❓ Entscheidung von Mario nötig
 Claude aktualisiert diesen Plan nach **jedem** Arbeitsschritt selbstständig.
 
@@ -30,7 +30,7 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ---
 
-## 2. Stand heute (geprüft am 08.11.2026 nach L5 (Lehrbuch-Auswertung))
+## 2. Stand heute (geprüft am 08.11.2026 nach Dialoge Stufe 1)
 
 | Bereich | Stand | |
 |---|---|---|
@@ -38,8 +38,8 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 | Satzbau | 4.129 Übungssätze (4.123 mit markiertem Verb), alle 12 Grammatik-Themen auf A2–B2 | ✅ |
 | Schreibaufgaben | 118 (A2, B1, B2, DTZ und DTB; laufend mehr) | ✅ |
 | **Grundkurs von vorn** | 13 Stufen von „Verb auf Platz 2“ bis „Passiv“ plus Abschluss; Freischaltung ab 80 %; A2-Sätze zuerst | ✅ |
-| **Prüfung DTB** | 42 Leseaufgaben (Teil 1–4) · 55 E-Mails · 42 Telefonnotizen · 34 Forumsbeiträge · 52 Sprachbausteine · 21 Vorträge · 10 Fragerunden · 26 Diskussionen · 15 Lösung finden · 53 Hörtexte | ✅ |
-| **Prüfung DTZ** | 38 Briefe · 30 Leseaufgaben · 33 Brief-Lückentexte · 26 Erzählthemen · 15 Fragerunden · 23 Gemeinsam planen · 54 Hörtexte | ✅ |
+| **Prüfung DTB** | 42 Leseaufgaben (Teil 1–4) · 55 E-Mails · 42 Telefonnotizen · 34 Forumsbeiträge · 52 Sprachbausteine · 21 Vorträge · 10 Fragerunden · 26 Diskussionen · 15 Lösung finden · 53 Hörtexte · 60 Dialoge | ✅ |
+| **Prüfung DTZ** | 38 Briefe · 30 Leseaufgaben · 33 Brief-Lückentexte · 26 Erzählthemen · 15 Fragerunden · 23 Gemeinsam planen · 54 Hörtexte · 30 Dialoge | ✅ |
 | Prüfungsrechner | Punkte eintragen → bestanden ja/nein nach DTB-Regel und neuer DTZ-Regel (ab 1.11.2026) | ✅ |
 | Übungen | Karteikarten, Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat, Hörtraining, Bedeutung, der/die/das, Lückentext, Wortart, Schreiben mit Checkliste und Timer · Wort markieren (lange drücken) → Erklärung, Formen, Beispiel, Vorlesen, Übersetzung auf Tipp (offline) | ✅ |
 | Tagesmix | 20 Aufgaben, jede zweite Satzbau-Aufgabe aus den schwächsten Grammatik-Themen | ✅ |
@@ -78,7 +78,7 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 | M16 | Wörter-Paket B | Restlücke bis ≈ 7.000 geschlossen: +1.029 Wörter (häufige Nomen/Verben B1/B2 und alle Wörter, die in Sätzen und Prüfungstexten der App vorkamen, aber im Wörterbuch fehlten) · +155 Sätze für die schwächsten Themen (Relativsatz/zu-Infinitiv/indirekte Frage A2, Konnektoren B1, Fragen B2) · neue Funktion „Wort markieren → Erklärung + Übersetzung“ | ✅ fertig |
 | M17 | Abschluss Phase 1 | Qualitätscheck bestanden: keine doppelten Wörter/Sätze/IDs, alle Felder gefüllt, 241 alte Sätze nachträglich mit Verb markiert (jetzt 3.900 von 3.905, Rest ohne Verb wie „Gute Besserung!“), Prüfungsaufgaben geprüft (Antworten, Lücken, DTB/DTZ-Zuordnung), Browser-Test aller Bereiche · dazu: Vorlesen mit Pause/Weiter/Stopp bei langen Texten, automatisches Vorlesen standardmäßig aus | ✅ fertig |
 
-**Stand:** 17 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 7.235 Wörter · 4.129 Sätze · 118 Schreibaufgaben · 569 Prüfungsaufgaben.
+**Stand:** 17 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 7.235 Wörter · 4.129 Sätze · 118 Schreibaufgaben · 629 Prüfungsaufgaben.
 
 
 **Phase 1 ist abgeschlossen (04.11.2026).** Danach am 08.11.2026: Ausbau aus Lehrbuch-Auswertung (Abschnitt 2c, L1–L5 fertig). Nächster Schritt nach Rücksprache mit Mario: M18 (Datenstruktur für mehrere Sprachen) oder zuerst die offenen ❓-Punkte aus Abschnitt 4 (z. B. Dialoge, Lesen DTB, Prüfungssimulation).
@@ -143,7 +143,7 @@ Hinweis: Jede neue Sprache bedeutet Übersetzungen für den gesamten Inhalt. Das
 | **Hören** | 4 Teile: Telefonate, Besprechungen, Durchsagen, Gespräche | ✅ **Hören im Beruf** (max. 2× hören, a/b/c und richtig/falsch) |
 | **Hören + Schreiben** | Telefonat hören und eine **Telefonnotiz** schreiben | ✅ **Telefonnotiz** (Anruf 2×, Felder werden automatisch geprüft) |
 | **Sprachbausteine + Schreiben** | 2 Lückentexte mit je 6 Lücken, dazu ein **Forumsbeitrag** | ✅ **Sprachbausteine** mit Erklärung je Lücke, **Forumsbeitrag** (mind. 120 Wörter) |
-| **Sprechen** | 1A Vortrag · 1B Fragen der Prüfer · 2 Diskussion · 3 gemeinsam eine Lösung finden | ✅ **Vortrag** (3-Min.-Timer), **Prüferfragen**, **Diskussion** und **Lösung finden** (die App spielt den Partner) |
+| **Sprechen** | 1A Vortrag · 1B Fragen der Prüfer · 2 Diskussion · 3 gemeinsam eine Lösung finden | ✅ **Dialoge führen** (60 Szenen, Antwort bauen/wählen/tippen) · **Vortrag** (3-Min.-Timer), **Prüferfragen**, **Diskussion** und **Lösung finden** (die App spielt den Partner) |
 
 **Bestehensregel:** Jeder Bereich (Lesen, Hören, Schreiben, Sprechen) bringt maximal **60 Punkte**, zusammen 240.
 B2 ist bestanden, wenn **mindestens 144 Punkte** erreicht sind, **mindestens drei Bereiche je 36 Punkte** haben und **kein Bereich unter 24 Punkten** liegt.
@@ -175,21 +175,21 @@ B2 ist bestanden, wenn **mindestens 144 Punkte** erreicht sind, **mindestens dre
 | Hören | Dialoge mit zwei Stimmen (braucht kleine APK-Änderung), Meinungen zuordnen | 2 | ⬜ |
 | Simulation | komplette Prüfung mit Zeitlimit und Punkteschätzung | 1 | ⬜ ❓ Rücksprache nötig |
 | Sprechen | sich selbst aufnehmen und anhören (braucht Mikrofon-Berechtigung, neue APK) | 3 | ⬜ |
-| **Dialoge führen** | Gespräche üben, in denen die Lernerin selbst antwortet (Vorschlag in 3 Stufen, siehe Abschnitt 4a) | 1 | ⬜ ❓ Entscheidung Mario |
+| **Dialoge führen** | Gespräche üben, in denen die Lernerin selbst antwortet | 1 | ✅ Stufe 1 fertig (60 Szenen, 08.11.2026) · Stufe 2 und 3 später (Abschnitt 4a) |
 | Grammatik | Drill zu Kasus nach Präpositionen und Adjektivendungen | 2 | 🟡 viele Übungssätze dazu (M7, M11, M12), aber kein eigener Übungstyp |
 | Wortschatz | Fachwortschatz je Branche (Pflege, Lager, Büro, Handel, Gastro, Handwerk) | 2 | ✅ M5, M11 (weiterer Ausbau in M15) |
 
 Neue Aufgabentypen werden erst nach Rücksprache mit Mario gebaut (siehe `CLAUDE.md`).
 
-### 4a. Vorschlag: Dialoge führen (04.11.2026, ❓ Entscheidung Mario)
+### 4a. Dialoge führen (Stufe 1 gebaut am 08.11.2026, Stufe 2 und 3 für später – Entscheidung Mario)
 
-| Stufe | Was | Technik | Aufwand | Kosten |
-|---|---|---|---|---|
-| 1 | **Geführte Dialoge**: Szenen mit 6–10 Wechseln (Arzt, Amt, Vermieter, Kollegin). Der Partner spricht (Vorlesen mit 2 Stimmen), die Lernerin **tippt oder spricht** ihre Antwort frei, die App prüft Schlüsselwörter und Verbposition und zeigt eine Musterantwort. Varianten je nach Antwort (verzweigt). | nur Web-App, neue Inhaltsdateien `quellen/dialoge/*.json` | mittel | keine |
-| 2 | **Antwort sprechen statt tippen**: Spracherkennung (Mikrofon). Im Browser (Chrome) direkt möglich, in der Android-App nur mit kleinem App-Update (Mikrofon-Berechtigung + Android-Spracherkennung über die vorhandene Brücke). | Web-App + **APK-Update** | klein–mittel | keine |
-| 3 | **Freies Gespräch mit KI-Partner**: Die Lernerin unterhält sich frei, die KI bleibt in der Rolle (z. B. Vermieterin), korrigiert danach Fehler und bewertet wie in der Prüfung. | braucht einen kleinen **Server** (API-Schlüssel darf nicht in die öffentliche App), passt zu Phase G4 (Konto/Server) | groß | laufend pro Gespräch (wenige Cent) |
+| Stufe | Was | Technik | Aufwand | Kosten | Status |
+|---|---|---|---|---|---|
+| 1 | **Geführte Dialoge** ✅: 60 Szenen (30 Beruf/DTB, 30 Alltag/DTZ, Alltag auch im DTB-Modus), je 5–8 Wechsel. Der Partner spricht, die Lernerin antwortet auf eine von drei Arten: 🧩 **Satz bauen** (Standard, trainiert die Wortstellung), ☑ **Auswählen** (richtige Antwort vs. falsche Verbstellung vs. unpassend), ⌨ **Frei tippen** (prüft wichtige Wörter und Stellung des Verbs, danach Selbsteinschätzung). Am Ende das ganze Gespräch zum Anhören und laut Lesen. Inhalte als einfache Textdateien in `quellen/dialoge/*.txt` (Format siehe README) – laufend erweiterbar. | nur Web-App | – | keine | ✅ fertig |
+| 2 | **Antwort sprechen statt tippen** (⬜ später, Mario 08.11.2026): Spracherkennung über das Mikrofon. Im Browser (Chrome) direkt möglich, in der Android-App nur mit App-Update (Mikrofon-Berechtigung + Android-Spracherkennung über die vorhandene Brücke). Die erkannte Antwort wird wie bei „Frei tippen“ geprüft. Dazu: eigene Antwort aufnehmen und mit der Musterantwort vergleichen. | Web-App + **APK-Update** (Lernerin muss einmal neu installieren) | klein–mittel | keine | ⬜ später |
+| 3 | **Freies Gespräch mit KI-Partner** (⬜ später, Mario 08.11.2026): Die Lernerin unterhält sich frei, die KI bleibt in der Rolle (z. B. Vermieterin, Prüferin), korrigiert danach Fehler (Wortstellung zuerst) und bewertet wie in der Prüfung. | braucht einen kleinen **Server** (API-Schlüssel darf nicht in die öffentliche App), passt zu G4 (Konto/Server) | groß | laufend pro Gespräch (wenige Cent) | ⬜ später |
 
-Empfehlung: Stufe 1 zuerst (sofort für alle nutzbar, offline, kostenlos), dann Stufe 2, Stufe 3 zusammen mit dem Abo-Server.
+Reihenfolge: Stufe 1 ✅ → Stufe 2, sobald Stufe 1 im Alltag gut läuft → Stufe 3 zusammen mit dem Abo-Server (G4).
 
 ---
 
