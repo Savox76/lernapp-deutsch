@@ -1,0 +1,486 @@
+{
+ "loesung": [
+  {
+   "id": "lb01",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Urlaubsplanung im Team",
+   "thema": "Im August wollen drei von fünf Kolleginnen gleichzeitig Urlaub machen.",
+   "situation": "Sie und Ihre Kollegin sollen einen Vorschlag für die Urlaubsplanung im August machen. Es dürfen höchstens zwei Personen gleichzeitig fehlen. Besprechen Sie: Wer geht wann? Nach welchen Regeln? Wer informiert die Chefin?",
+   "rm": [
+    "Wie wäre es, wenn …?",
+    "Ich schlage vor, dass …",
+    "Das finde ich fair, weil …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was meinst du, nach welcher Regel sollen wir entscheiden?",
+     "o": [
+      "Ich schlage vor, dass Kolleginnen mit Schulkindern zuerst wählen dürfen, weil sie an die Ferien gebunden sind.",
+      "Wer zuerst kommt, mahlt zuerst.",
+      "Das ist mir egal."
+     ],
+     "r": 0,
+     "e": "Faire Regel mit Begründung."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und wenn sich zwei nicht einigen können?",
+     "o": [
+      "Wie wäre es, wenn wir dann losen? Oder wer letztes Jahr zurückstecken musste, darf dieses Jahr zuerst.",
+      "Dann bekommt keiner Urlaub.",
+      "Dann soll die Chefin streiten."
+     ],
+     "r": 0,
+     "e": "Lösung für den Konflikt anbieten."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Gut. Wer sagt es der Chefin?",
+     "o": [
+      "Ich schreibe den Vorschlag auf und schicke ihn ihr bis Freitag. Kannst du vorher mit den Kolleginnen sprechen?",
+      "Du.",
+      "Niemand, sie merkt es schon."
+     ],
+     "r": 0,
+     "e": "Aufgaben verteilen und Termin nennen."
+    }
+   ],
+   "m": "Kolleginnen mit Schulkindern wählen zuerst, bei Streit wird gelost bzw. wer letztes Jahr verzichtet hat, hat Vorrang. Die Kollegin spricht mit dem Team, ich schicke den Vorschlag bis Freitag an die Chefin."
+  },
+  {
+   "id": "lb02",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Neuen Kollegen einarbeiten",
+   "thema": "Nächste Woche fängt ein neuer Kollege aus Syrien an. Er spricht Deutsch auf B1-Niveau.",
+   "situation": "Planen Sie mit Ihrer Kollegin die erste Woche des neuen Kollegen: Wer zeigt ihm was? Wie kann man bei der Sprache helfen? Was braucht er am ersten Tag?",
+   "rm": [
+    "Am ersten Tag sollten wir …",
+    "Es wäre hilfreich, wenn …",
+    "Ich kann gern …",
+    "Was hältst du davon?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was braucht er am ersten Tag?",
+     "o": [
+      "Am ersten Tag sollten wir ihm alles zeigen und ihm einen Spind, die Schutzkleidung und den Ausweis geben.",
+      "Er soll gleich anfangen zu arbeiten.",
+      "Eine Party."
+     ],
+     "r": 0,
+     "e": "Konkrete erste Schritte."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und wie helfen wir ihm mit der Sprache?",
+     "o": [
+      "Es wäre hilfreich, wenn wir eine Liste mit den wichtigsten Fachwörtern machen. Außerdem sollten wir langsam und deutlich sprechen.",
+      "Er muss halt schnell Deutsch lernen.",
+      "Wir sprechen Englisch mit ihm."
+     ],
+     "r": 0,
+     "e": "Praktische Sprachhilfe vorschlagen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Wer ist sein Pate?",
+     "o": [
+      "Ich kann das gern übernehmen, ich habe schon zwei Azubis eingearbeitet. Kannst du die Fachwortliste schreiben?",
+      "Der Chef.",
+      "Keiner, das braucht er nicht."
+     ],
+     "r": 0,
+     "e": "Verantwortung übernehmen und verteilen."
+    }
+   ],
+   "m": "Erster Tag: Rundgang, Spind, Schutzkleidung, Ausweis. Fachwortliste und deutliches Sprechen. Ich bin Patin, die Kollegin schreibt die Wortliste."
+  },
+  {
+   "id": "lb03",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kundenbeschwerden reduzieren",
+   "thema": "In Ihrem Geschäft gibt es viele Beschwerden über lange Wartezeiten an der Kasse.",
+   "situation": "Überlegen Sie mit Ihrem Kollegen, wie man die Wartezeiten verkürzen kann. Besprechen Sie mögliche Lösungen, Kosten und wer was macht.",
+   "rm": [
+    "Eine Möglichkeit wäre …",
+    "Das Problem dabei ist …",
+    "Was hältst du davon, wenn …?",
+    "Dann machen wir es so: …"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was können wir gegen die langen Schlangen tun?",
+     "o": [
+      "Eine Möglichkeit wäre, zu den Stoßzeiten eine zweite Kasse zu öffnen. Mittags und nach 17 Uhr ist es am vollsten.",
+      "Die Kunden sollen später kommen.",
+      "Nichts, das ist normal."
+     ],
+     "r": 0,
+     "e": "Konkrete Lösung mit Zeitangabe."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Aber dafür haben wir nicht genug Personal.",
+     "o": [
+      "Was hältst du davon, wenn jemand aus dem Lager zu diesen Zeiten an der Kasse hilft? Wir könnten zwei Kollegen einarbeiten.",
+      "Dann geht es eben nicht.",
+      "Der Chef soll an die Kasse."
+     ],
+     "r": 0,
+     "e": "Auf den Einwand eingehen und Alternative anbieten."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Gute Idee. Wie fangen wir an?",
+     "o": [
+      "Dann machen wir es so: Ich frage die Lagerleitung, wer Interesse hat, und du sprichst mit der Filialleitung über die Schichtpläne.",
+      "Morgen sofort.",
+      "Weiß nicht."
+     ],
+     "r": 0,
+     "e": "Nächste Schritte verteilen."
+    }
+   ],
+   "m": "Zu Stoßzeiten zweite Kasse öffnen, zwei Lagerkollegen werden für die Kasse eingearbeitet. Ich frage im Lager, der Kollege spricht mit der Filialleitung."
+  },
+  {
+   "id": "lb04",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Betriebsausflug organisieren",
+   "thema": "Ihre Abteilung macht im Juni einen Betriebsausflug. Es gibt 40 Euro pro Person.",
+   "situation": "Planen Sie mit Ihrer Kollegin den Ausflug: Wohin? Was machen Sie? Wie kommen alle hin? Denken Sie auch an Kolleginnen, die nicht gut laufen können.",
+   "rm": [
+    "Ich fände es schön, wenn …",
+    "Wir müssen auch an … denken.",
+    "Das kostet ungefähr …",
+    "Einverstanden."
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Hast du eine Idee, wohin wir fahren?",
+     "o": [
+      "Ich fände es schön, wenn wir mit dem Schiff auf der Elbe fahren und danach zusammen essen.",
+      "In ein anderes Land.",
+      "Ins Büro."
+     ],
+     "r": 0,
+     "e": "Passenden Vorschlag machen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und Frau Becker kann nach ihrer Operation nicht weit laufen.",
+     "o": [
+      "Wir müssen auch an sie denken. Beim Schiff muss man kaum laufen, und das Restaurant sollte direkt am Anleger sein.",
+      "Dann bleibt sie zu Hause.",
+      "Sie soll sich nicht so anstellen."
+     ],
+     "r": 0,
+     "e": "Rücksicht nehmen und Lösung anpassen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Reichen 40 Euro?",
+     "o": [
+      "Die Schifffahrt kostet etwa 15 Euro, für das Essen bleiben dann 25 Euro. Das reicht, wenn wir ein Menü vorbestellen.",
+      "Nein, jeder zahlt selbst.",
+      "Bestimmt."
+     ],
+     "r": 0,
+     "e": "Kosten durchrechnen."
+    }
+   ],
+   "m": "Schifffahrt auf der Elbe (ca. 15 €) und Essen in einem Restaurant am Anleger mit vorbestelltem Menü (ca. 25 €). Kaum Laufwege, damit alle mitkommen können."
+  },
+  {
+   "id": "lb05",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Ordnung im Lager",
+   "thema": "Im Lager herrscht Chaos: Ware steht im Gang, Werkzeug fehlt oft.",
+   "situation": "Überlegen Sie mit Ihrem Kollegen, wie Sie wieder Ordnung ins Lager bringen. Was ist das Problem? Welche Regeln brauchen Sie? Wer kontrolliert?",
+   "rm": [
+    "Das größte Problem ist …",
+    "Wir könnten eine Regel einführen, dass …",
+    "Wie wäre es mit …?",
+    "Das sollten wir mit dem Team besprechen."
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was ist für dich das größte Problem?",
+     "o": [
+      "Das größte Problem ist, dass niemand weiß, wo die Ware hingehört. Deshalb bleibt sie im Gang stehen.",
+      "Die Kollegen sind faul.",
+      "Es gibt kein Problem."
+     ],
+     "r": 0,
+     "e": "Problem sachlich beschreiben."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und was machen wir?",
+     "o": [
+      "Wir könnten jedes Regal beschriften und eine Regel einführen, dass am Ende jeder Schicht die Gänge frei sein müssen.",
+      "Wir kaufen neue Regale.",
+      "Der Chef soll aufräumen."
+     ],
+     "r": 0,
+     "e": "Konkrete Regel vorschlagen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und das Werkzeug?",
+     "o": [
+      "Wie wäre es mit einer Werkzeugwand mit Umrissen? Dann sieht man sofort, was fehlt. Das sollten wir in der Teambesprechung vorstellen.",
+      "Jeder kauft sein eigenes.",
+      "Das ist egal."
+     ],
+     "r": 0,
+     "e": "Lösung und Einbindung des Teams."
+    }
+   ],
+   "m": "Regale beschriften, am Schichtende Gänge frei, Werkzeugwand mit Umrissen. Vorschlag in der nächsten Teambesprechung."
+  },
+  {
+   "id": "lb06",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Sprachkurs im Betrieb",
+   "thema": "Viele Kolleginnen und Kollegen haben Probleme mit der deutschen Fachsprache.",
+   "situation": "Ihr Chef ist bereit, einen Deutschkurs im Betrieb zu bezahlen. Planen Sie mit Ihrer Kollegin: Wann findet der Kurs statt? Wer nimmt teil? Was soll gelernt werden?",
+   "rm": [
+    "Am besten wäre …",
+    "Ich glaube, viele brauchen …",
+    "Was meinst du dazu?",
+    "Gut, dann schlagen wir vor …"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Wann sollte der Kurs stattfinden?",
+     "o": [
+      "Am besten wäre direkt nach der Frühschicht, dann können die meisten teilnehmen, und niemand muss extra kommen.",
+      "Am Sonntag.",
+      "Um 5 Uhr morgens."
+     ],
+     "r": 0,
+     "e": "Praktische Zeit mit Begründung."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Was sollen die Leute lernen?",
+     "o": [
+      "Ich glaube, viele brauchen vor allem Fachwörter und das Telefonieren. Auch Berichte schreiben ist schwierig.",
+      "Grammatik aus dem Buch.",
+      "Englisch."
+     ],
+     "r": 0,
+     "e": "Inhalt am Bedarf orientieren."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und wie finden wir heraus, wer teilnehmen will?",
+     "o": [
+      "Gut, dann schlagen wir vor, eine Liste im Pausenraum aufzuhängen. Ich kümmere mich darum und du sprichst mit dem Chef über die Kosten.",
+      "Alle müssen kommen.",
+      "Gar nicht."
+     ],
+     "r": 0,
+     "e": "Vorgehen und Aufgaben festlegen."
+    }
+   ],
+   "m": "Kurs direkt nach der Frühschicht, Schwerpunkt Fachwörter, Telefonieren und Berichte. Liste im Pausenraum (ich), Gespräch mit dem Chef über Kosten (Kollegin)."
+  }
+ ],
+ "fragen": [
+  {
+   "id": "qz20",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum Wohnort",
+   "fragen": [
+    {
+     "q": "Wo wohnen Sie?",
+     "m": "Ich wohne in Dresden, im Stadtteil Johannstadt.",
+     "ru": "Где вы живёте?"
+    },
+    {
+     "q": "Wie lange wohnen Sie schon dort?",
+     "m": "Seit zwei Jahren. Vorher haben wir in einem Wohnheim gewohnt.",
+     "ru": "Как долго вы там живёте?"
+    },
+    {
+     "q": "Was gefällt Ihnen an Ihrem Stadtteil?",
+     "m": "Es gibt viele Parks und die Straßenbahn ist direkt vor der Tür.",
+     "ru": "Что вам нравится в вашем районе?"
+    },
+    {
+     "q": "Was gefällt Ihnen nicht so gut?",
+     "m": "Die Mieten sind in den letzten Jahren sehr gestiegen.",
+     "ru": "Что вам не очень нравится?"
+    }
+   ]
+  },
+  {
+   "id": "qz21",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum Beruf",
+   "fragen": [
+    {
+     "q": "Was haben Sie in Ihrem Heimatland gearbeitet?",
+     "m": "Ich war Krankenschwester in einem großen Krankenhaus.",
+     "ru": "Кем вы работали на родине?"
+    },
+    {
+     "q": "Was machen Sie jetzt?",
+     "m": "Jetzt arbeite ich als Pflegehelferin in einem Seniorenheim.",
+     "ru": "Чем вы занимаетесь сейчас?"
+    },
+    {
+     "q": "Wie kommen Sie zur Arbeit?",
+     "m": "Mit dem Bus, das dauert etwa zwanzig Minuten.",
+     "ru": "Как вы добираетесь до работы?"
+    },
+    {
+     "q": "Möchten Sie später etwas anderes machen?",
+     "m": "Ja, ich möchte wieder als Krankenschwester arbeiten, wenn meine Ausbildung anerkannt ist.",
+     "ru": "Хотите ли вы потом заниматься чем-то другим?"
+    }
+   ]
+  },
+  {
+   "id": "qz22",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum Wochenende",
+   "fragen": [
+    {
+     "q": "Was machen Sie am Wochenende?",
+     "m": "Am Samstag kaufe ich ein, und am Sonntag gehen wir oft spazieren.",
+     "ru": "Что вы делаете на выходных?"
+    },
+    {
+     "q": "Treffen Sie sich mit Freunden?",
+     "m": "Ja, manchmal kochen wir zusammen oder grillen im Sommer.",
+     "ru": "Вы встречаетесь с друзьями?"
+    },
+    {
+     "q": "Was haben Sie letztes Wochenende gemacht?",
+     "m": "Letztes Wochenende waren wir im Zoo, weil mein Sohn Geburtstag hatte.",
+     "ru": "Что вы делали в прошлые выходные?"
+    },
+    {
+     "q": "Arbeiten Sie manchmal am Wochenende?",
+     "m": "Ja, jedes zweite Wochenende habe ich Dienst.",
+     "ru": "Вы иногда работаете на выходных?"
+    }
+   ]
+  },
+  {
+   "id": "qz23",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum Deutschkurs",
+   "fragen": [
+    {
+     "q": "Seit wann lernen Sie Deutsch?",
+     "m": "Ich lerne seit drei Jahren Deutsch, zuerst im Integrationskurs.",
+     "ru": "С какого времени вы учите немецкий?"
+    },
+    {
+     "q": "Was ist für Sie am schwierigsten?",
+     "m": "Am schwierigsten ist für mich die Wortstellung im Satz.",
+     "ru": "Что для вас самое трудное?"
+    },
+    {
+     "q": "Wie lernen Sie zu Hause?",
+     "m": "Ich lerne jeden Tag mit einer App und höre deutsches Radio.",
+     "ru": "Как вы учитесь дома?"
+    },
+    {
+     "q": "Wo sprechen Sie Deutsch?",
+     "m": "Bei der Arbeit, beim Arzt und mit meinen Nachbarn.",
+     "ru": "Где вы говорите по-немецки?"
+    }
+   ]
+  },
+  {
+   "id": "qz24",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum Einkaufen",
+   "fragen": [
+    {
+     "q": "Wo kaufen Sie meistens ein?",
+     "m": "Meistens im Supermarkt in der Nähe, manchmal auf dem Markt.",
+     "ru": "Где вы обычно делаете покупки?"
+    },
+    {
+     "q": "Kaufen Sie auch im Internet ein?",
+     "m": "Ja, Kleidung und Schuhe bestelle ich oft online.",
+     "ru": "Вы покупаете и в интернете?"
+    },
+    {
+     "q": "Was kochen Sie gern?",
+     "m": "Ich koche gern Suppen und russische Gerichte wie Pelmeni.",
+     "ru": "Что вы любите готовить?"
+    },
+    {
+     "q": "Was ist in Deutschland anders als in Ihrem Land?",
+     "m": "Die Geschäfte sind am Sonntag geschlossen. Das war am Anfang ungewohnt.",
+     "ru": "Что в Германии иначе, чем в вашей стране?"
+    }
+   ]
+  },
+  {
+   "id": "qz25",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Gesundheit",
+   "fragen": [
+    {
+     "q": "Wie geht es Ihnen?",
+     "m": "Danke, gut. Nur im Winter bin ich oft erkältet.",
+     "ru": "Как у вас дела?"
+    },
+    {
+     "q": "Was tun Sie für Ihre Gesundheit?",
+     "m": "Ich gehe zweimal pro Woche schwimmen und esse viel Gemüse.",
+     "ru": "Что вы делаете для своего здоровья?"
+    },
+    {
+     "q": "Haben Sie einen Hausarzt?",
+     "m": "Ja, meine Hausärztin ist ganz in der Nähe.",
+     "ru": "У вас есть семейный врач?"
+    },
+    {
+     "q": "Was machen Sie, wenn Sie krank sind?",
+     "m": "Ich rufe bei der Arbeit an und gehe zur Ärztin.",
+     "ru": "Что вы делаете, когда болеете?"
+    }
+   ]
+  }
+ ]
+}

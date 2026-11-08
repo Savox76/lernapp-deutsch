@@ -2,7 +2,7 @@
 
 Stand: 08.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
 
-**Zuletzt komplett geprüft:** 08.11.2026 nach L7 (Endungen) (Code, Inhalte und Veröffentlichung abgeglichen).
+**Zuletzt komplett geprüft:** 08.11.2026 nach L8 (Simulation erweitert) (Code, Inhalte und Veröffentlichung abgeglichen).
 Zeichen: ✅ eingebaut/fertig · 🟡 teilweise · ⏳ in Arbeit · ⬜ offen · ❓ Entscheidung von Mario nötig
 Claude aktualisiert diesen Plan nach **jedem** Arbeitsschritt selbstständig.
 
@@ -30,7 +30,7 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ---
 
-## 2. Stand heute (geprüft am 08.11.2026 nach L7 (Endungen))
+## 2. Stand heute (geprüft am 08.11.2026 nach L8 (Simulation erweitert))
 
 | Bereich | Stand | |
 |---|---|---|
@@ -38,8 +38,8 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 | Satzbau | 4.129 Übungssätze (4.123 mit markiertem Verb), alle 12 Grammatik-Themen auf A2–B2 | ✅ |
 | Schreibaufgaben | 118 (A2, B1, B2, DTZ und DTB; laufend mehr) | ✅ |
 | **Grundkurs von vorn** | 13 Stufen von „Verb auf Platz 2“ bis „Passiv“ plus Abschluss; Freischaltung ab 80 %; A2-Sätze zuerst | ✅ |
-| **Prüfung DTB** | 50 Leseaufgaben (Teil 1–4) · 55 E-Mails · 42 Telefonnotizen · 34 Forumsbeiträge · 52 Sprachbausteine · 21 Vorträge · 30 Fragerunden · 26 Diskussionen · 15 Lösung finden · 53 Hörtexte · 60 Dialoge | ✅ |
-| **Prüfung DTZ** | 38 Briefe · 30 Leseaufgaben · 33 Brief-Lückentexte · 26 Erzählthemen · 15 Fragerunden · 23 Gemeinsam planen · 54 Hörtexte · 30 Dialoge | ✅ |
+| **Prüfung DTB** | 100 Leseaufgaben (Teil 1–4) · 55 E-Mails · 42 Telefonnotizen · 34 Forumsbeiträge · 52 Sprachbausteine · 21 Vorträge · 30 Fragerunden · 26 Diskussionen · 21 Lösung finden · 80 Hörtexte · 60 Dialoge | ✅ |
+| **Prüfung DTZ** | 38 Briefe · 79 Leseaufgaben · 33 Brief-Lückentexte · 26 Erzählthemen · 21 Fragerunden · 23 Gemeinsam planen · 80 Hörtexte · 30 Dialoge | ✅ |
 | Prüfungsrechner | Punkte eintragen → bestanden ja/nein nach DTB-Regel und neuer DTZ-Regel (ab 1.11.2026) | ✅ |
 | Übungen | Karteikarten, Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat, **Endungen (Kasus/Adjektive, 239 Sätze)**, Hörtraining, Bedeutung, der/die/das, Lückentext, Wortart, Schreiben mit Checkliste und Timer · Wort markieren (lange drücken) → Erklärung, Formen, Beispiel, Vorlesen, Übersetzung auf Tipp (offline) | ✅ |
 | Tagesmix | 20 Aufgaben, jede zweite Satzbau-Aufgabe aus den schwächsten Grammatik-Themen | ✅ |
@@ -78,7 +78,7 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 | M16 | Wörter-Paket B | Restlücke bis ≈ 7.000 geschlossen: +1.029 Wörter (häufige Nomen/Verben B1/B2 und alle Wörter, die in Sätzen und Prüfungstexten der App vorkamen, aber im Wörterbuch fehlten) · +155 Sätze für die schwächsten Themen (Relativsatz/zu-Infinitiv/indirekte Frage A2, Konnektoren B1, Fragen B2) · neue Funktion „Wort markieren → Erklärung + Übersetzung“ | ✅ fertig |
 | M17 | Abschluss Phase 1 | Qualitätscheck bestanden: keine doppelten Wörter/Sätze/IDs, alle Felder gefüllt, 241 alte Sätze nachträglich mit Verb markiert (jetzt 3.900 von 3.905, Rest ohne Verb wie „Gute Besserung!“), Prüfungsaufgaben geprüft (Antworten, Lücken, DTB/DTZ-Zuordnung), Browser-Test aller Bereiche · dazu: Vorlesen mit Pause/Weiter/Stopp bei langen Texten, automatisches Vorlesen standardmäßig aus | ✅ fertig |
 
-**Stand:** 17 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 7.235 Wörter · 4.129 Sätze · 118 Schreibaufgaben · 657 Prüfungsaufgaben.
+**Stand:** 17 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 7.235 Wörter · 4.129 Sätze · 118 Schreibaufgaben · 821 Prüfungsaufgaben.
 
 
 **Phase 1 ist abgeschlossen (04.11.2026).** Danach am 08.11.2026: Ausbau aus Lehrbuch-Auswertung (Abschnitt 2c, L1–L5 fertig). Nächster Schritt nach Rücksprache mit Mario: M18 (Datenstruktur für mehrere Sprachen) oder zuerst die offenen ❓-Punkte aus Abschnitt 4 (z. B. Dialoge, Lesen DTB, Prüfungssimulation).
@@ -100,6 +100,7 @@ Mario hat 9 PDFs geschickt (DTB-Lesetraining, telc B2, „Mit Erfolg zu telc B2�
 | L5 | **Weitere Lesesets + Grammatik aus „Sicher! B2.1“** | 16 weitere DTB-Leseaufgaben (je 4 pro Teil: Gastronomie, neue Medien, internationale Fachkräfte, Handel, Hygiene, Großraumbüro, IT-Regeln, Betriebsausflug, Teilzeit/Familie, Arbeitsvertrag, Technik im Betrieb, Bau, Pflegedienst) · 47 Sätze (zweiteilige Konnektoren, Mittelfeld, kausale Präpositionen, verkürzte wenn-Sätze, darauf/darüber + dass/zu, Partizip als Adjektiv) · 60 neue Wörter · 6 Schreibaufgaben (Antwort auf Reklamation, Fehlermeldung an die IT, Verbesserungsvorschlag, Vorstellung im Team, Leserbrief, Fragen zum Arbeitsvertrag) | ✅ fertig |
 | L6 | DTB C1 | Prüfung-Express-C1 ausgewertet (Format bekannt) → gehört zu Phase 3 (M26) | ⬜ später |
 | L7 | **Endungen, Prüferfragen, Lesen Teil 2** (08.11.2026) | Neuer Übungstyp **Endungen** unter Satzbau (auch „meine Schwächen“ und 2× im Tagesmix): Lücken wie „mit d… neu… Kollegen“, Auswahl aus 4 Formen, sofortige Korrektur, Regel + Russisch. 239 Sätze in 8 Bereichen (Akkusativ, Dativ, Genitiv nach Präpositionen, Wechselpräpositionen wo?/wohin?, Kasus nach Verben, Adjektiv nach der/die/das, nach ein/kein/mein, ohne Artikel). Fehleranalyse und „Auswertung teilen“ zeigen die schwächsten Endungs-Bereiche. Quelle: `quellen/endungen-*.txt`. · **Prüferfragen DTB** 10 → 30 (zu allen Vortragsthemen) · **Lesen Teil 2** 12 → 20 | ✅ fertig |
+| L8 | **Mehr Aufgaben für die Simulation** (08.11.2026) | Ziel: jeder Teil reicht für ca. 20 Simulationen ohne Wiederholung. DTB Lesen Teil 1/3/4 je 10 → 20, Teil 2 20 → 40 · DTZ Lesen 30 → 79 · Hören DTB 53 → 80, DTZ 54 → 80 · Lösung finden (DTB) 15 → 21 · Sich vorstellen (DTZ) 15 → 21. Erzeugt mit kleinen Skripten (Inhalte in Python-Listen → JSON in `quellen/pruefung/`). | ✅ fertig |
 
 **Fehler behoben (08.11.2026):** Seit dem Update „Aufgabenliste zum freien Auswählen“ hing im **Prüfungsmodus** jede Prüfungsaufgabe nach der ersten Antwort (die Protokoll-Funktion rief sich selbst endlos auf). Im Lernmodus trat der Fehler nicht auf. Ist behoben und im Browser getestet.
 
@@ -218,6 +219,7 @@ Unter **Prüfung → Prüfungssimulation** für DTB B2 und DTZ. Ablauf und Zeite
 - **Während der Simulation:** nur Deutsch, kein Lernmodus, Zeitbalken pro Teil, bei Zeitablauf weiter zum nächsten Teil (offene Aufgaben = 0 Punkte). Unterbrechen und Fortsetzen möglich, die Zeit läuft nur bei offener Aufgabe. Es werden bevorzugt noch nicht geübte Aufgaben gewählt. Einzelne Teile können auch allein geübt werden.
 - **Auswertung:** Lesen/Hören genau gezählt; Schreiben aus Checkliste, Wortzahl und (DTB) Sprachbausteinen geschätzt; Sprechen aus der Selbsteinschätzung („teilweise“ reicht absichtlich nicht für 36 Punkte bzw. B1). Danach Bestehensregel DTB bzw. neue DTZ-Regel, schwache Aufgaben, „Ergebnis teilen“ (WhatsApp an Mario) und Übernahme in den Punkte-Rechner. Die letzten Ergebnisse werden gespeichert.
 - **Statistik (Wunsch Mario, 08.11.2026):** Jede Simulation wird gespeichert – fertige mit Punkten und „bestanden?“, **abgebrochene** mit dem Teil, in dem abgebrochen wurde, der Zahl der bearbeiteten Aufgaben und den Punkten bis dahin, laufende als „läuft gerade“. Zu sehen unter Statistik → Prüfungssimulationen und auf der Startseite der Simulation; der WhatsApp-Bericht enthält die Simulationen der letzten 30 Tage.
+- **Reichweite (Stand 08.11.2026, nach L8):** DTB: Lesen je Teil 20, Hören 20, Lösung finden 21, Vortrag 21, alle anderen Teile 26–55 Simulationen ohne Wiederholung · DTZ: Hören 20, Lesen 19, Briefe 19, Sich vorstellen 21, Rest 23–33. Danach wiederholen sich Aufgaben (zufällig). Bei Bedarf weitere Aufgaben für die knappsten Teile ergänzen.
 - **Später:** Schreiben und Sprechen durch KI bewerten lassen (zusammen mit Dialoge Stufe 3, braucht Server).
 
 ## 5. Lernplan
