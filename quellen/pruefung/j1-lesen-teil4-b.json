@@ -1,0 +1,1076 @@
+{
+ "lesen": [
+  {
+   "id": "dtbl4-37",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Bericht – Ein Jahr Viertagewoche",
+   "anweisung": "Sie lesen einen Bericht in der Mitarbeiterzeitung. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Ein Jahr Viertagewoche – eine Bilanz",
+     "text": "Seit einem Jahr arbeiten die Beschäftigten in unserer Verwaltung an vier Tagen pro Woche. Die Wochenarbeitszeit wurde dabei von 40 auf 38 Stunden gesenkt, das Gehalt blieb gleich. Jeder Arbeitstag dauert jetzt neuneinhalb Stunden.\n\nDie Ergebnisse einer Umfrage sind positiv: 82 Prozent der Beschäftigten sind zufriedener als vorher. Viele nutzen den freien Tag für die Familie, für Arzttermine oder für Sport. Die Zahl der Krankheitstage ist um ein Fünftel gesunken.\n\nEs gibt aber auch Kritik. Einige Kolleginnen mit kleinen Kindern finden die langen Tage anstrengend. Für sie gibt es seit Herbst die Möglichkeit, an fünf kürzeren Tagen zu arbeiten. Auch Kunden haben sich am Anfang beschwert, dass sie freitags niemanden erreichen. Deshalb wechseln sich die Teams jetzt ab: Jede Abteilung ist an allen fünf Tagen erreichbar.\n\nDie Geschäftsführung hat beschlossen, das Modell weiterzuführen. Ab nächstem Jahr soll es auch in der Produktion getestet werden."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viele Stunden arbeitet man jetzt pro Woche?",
+     "o": [
+      "40",
+      "38",
+      "32"
+     ],
+     "r": 1,
+     "e": "„… von 40 auf 38 Stunden gesenkt …“"
+    },
+    {
+     "q": "Was ist mit den Krankheitstagen passiert?",
+     "o": [
+      "Sie sind gestiegen.",
+      "Sie sind um ein Fünftel gesunken.",
+      "Sie sind gleich geblieben."
+     ],
+     "r": 1,
+     "e": "„… um ein Fünftel gesunken.“"
+    },
+    {
+     "q": "Was können Eltern mit kleinen Kindern seit Herbst machen?",
+     "o": [
+      "im Homeoffice arbeiten",
+      "an fünf kürzeren Tagen arbeiten",
+      "weniger Stunden arbeiten"
+     ],
+     "r": 1,
+     "e": "Fünf kürzere Tage."
+    },
+    {
+     "q": "Wie wurde das Problem mit den Kunden gelöst?",
+     "o": [
+      "Freitags gibt es eine Hotline.",
+      "Die Teams wechseln sich ab.",
+      "Kunden schreiben E-Mails."
+     ],
+     "r": 1,
+     "e": "„… wechseln sich die Teams jetzt ab …“"
+    },
+    {
+     "q": "Was ist für nächstes Jahr geplant?",
+     "o": [
+      "Das Modell wird beendet.",
+      "Ein Test in der Produktion.",
+      "Eine Dreitagewoche."
+     ],
+     "r": 1,
+     "e": "„… in der Produktion getestet werden.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-38",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Bericht – Neue Azubis",
+   "anweisung": "Sie lesen einen Bericht in der Mitarbeiterzeitung. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Willkommen, neue Auszubildende!",
+     "text": "Am 1. September haben 14 junge Menschen ihre Ausbildung bei uns begonnen: sechs als Mechatroniker, vier als Industriekaufleute, drei als Fachkräfte für Lagerlogistik und eine als Fachinformatikerin. Die Jüngste ist 16, der Älteste 31 Jahre alt.\n\nDie erste Woche war eine Einführungswoche. Die Azubis haben alle Abteilungen kennengelernt und einen Erste-Hilfe-Kurs gemacht. Am Mittwoch gab es einen Ausflug in den Kletterpark – das hat die Gruppe zusammengebracht.\n\nNeu ist in diesem Jahr das Patenprogramm: Jede neue Auszubildende und jeder neue Azubi bekommt eine Patin oder einen Paten aus dem zweiten oder dritten Lehrjahr. Die Paten helfen bei Fragen zur Berufsschule, zu Prüfungen oder einfach im Alltag.\n\nAuch das Thema Sprache spielt eine Rolle: Drei der neuen Azubis sind erst seit wenigen Jahren in Deutschland. Sie besuchen einmal pro Woche einen Deutschkurs für Fachsprache, den die Firma bezahlt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viele Azubis haben im September angefangen?",
+     "o": [
+      "drei",
+      "14",
+      "31"
+     ],
+     "r": 1,
+     "e": "„… haben 14 junge Menschen …“"
+    },
+    {
+     "q": "Was haben die Azubis in der ersten Woche gemacht?",
+     "o": [
+      "einen Erste-Hilfe-Kurs",
+      "eine Prüfung",
+      "ein Praktikum im Ausland"
+     ],
+     "r": 0,
+     "e": "Erste-Hilfe-Kurs in der Einführungswoche."
+    },
+    {
+     "q": "Wozu war der Ausflug in den Kletterpark?",
+     "o": [
+      "als Sporttest",
+      "Er hat die Gruppe zusammengebracht.",
+      "als Belohnung"
+     ],
+     "r": 1,
+     "e": "„… das hat die Gruppe zusammengebracht.“"
+    },
+    {
+     "q": "Wer sind die Paten?",
+     "o": [
+      "Ausbilder",
+      "Azubis aus dem zweiten oder dritten Lehrjahr",
+      "Eltern"
+     ],
+     "r": 1,
+     "e": "Paten aus dem 2./3. Lehrjahr."
+    },
+    {
+     "q": "Was bekommen drei Azubis zusätzlich?",
+     "o": [
+      "mehr Gehalt",
+      "einen Deutschkurs für Fachsprache",
+      "eine Wohnung"
+     ],
+     "r": 1,
+     "e": "Deutschkurs, den die Firma bezahlt."
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-39",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Restaurant",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Teambesprechung Restaurant Linde, 06.04.",
+     "text": "Anwesend: F. Gärtner (Inhaber, FG), O. Kravets (OK), M. Rossi (MR), L. Fink (LF, Protokoll)\nEntschuldigt: D. Albers\n\nTOP 1: Terrasse\nDie Terrasse öffnet am 1. Mai. Wegen der vielen Gäste wird eine zusätzliche Servicekraft am Wochenende eingestellt. OK kümmert sich um die Anzeige.\n\nTOP 2: Trinkgeld\nBisher hat jede Servicekraft ihr Trinkgeld behalten. MR schlägt vor, das Trinkgeld zu teilen, damit auch die Küche etwas bekommt. Es wird beschlossen, das ab Mai zwei Monate zu testen.\n\nTOP 3: Reservierungen\nGäste reservieren immer öfter online. Wer mehr als 15 Minuten zu spät kommt, verliert die Reservierung. LF schreibt das auf die Website.\n\nTOP 4: Verschiedenes\nDer Gesundheitsausweis von zwei Aushilfen läuft ab; sie müssen eine neue Belehrung beim Gesundheitsamt machen.\n\nNächste Besprechung: 4. Mai, 10 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wer kümmert sich um die Stellenanzeige?",
+     "o": [
+      "FG",
+      "OK",
+      "MR"
+     ],
+     "r": 1,
+     "e": "„OK kümmert sich um die Anzeige.“"
+    },
+    {
+     "q": "Was wurde zum Trinkgeld beschlossen?",
+     "o": [
+      "Es bleibt wie bisher.",
+      "Ab Mai wird das Teilen zwei Monate getestet.",
+      "Die Küche bekommt alles."
+     ],
+     "r": 1,
+     "e": "Zwei Monate Test."
+    },
+    {
+     "q": "Wann verliert ein Gast seine Reservierung?",
+     "o": [
+      "nach 5 Minuten",
+      "nach mehr als 15 Minuten Verspätung",
+      "nie"
+     ],
+     "r": 1,
+     "e": "„… mehr als 15 Minuten zu spät …“"
+    },
+    {
+     "q": "Wer schreibt die Regel auf die Website?",
+     "o": [
+      "LF",
+      "FG",
+      "OK"
+     ],
+     "r": 0,
+     "e": "„LF schreibt das auf die Website.“"
+    },
+    {
+     "q": "Was müssen zwei Aushilfen tun?",
+     "o": [
+      "einen Kurs im Service machen",
+      "eine neue Belehrung beim Gesundheitsamt machen",
+      "kündigen"
+     ],
+     "r": 1,
+     "e": "Neue Belehrung beim Gesundheitsamt."
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-40",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Bericht – Energiesparen",
+   "anweisung": "Sie lesen einen Bericht in der Mitarbeiterzeitung. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "So sparen wir Energie",
+     "text": "Im letzten Jahr hat unser Werk 12 Prozent weniger Strom verbraucht als im Jahr davor. Das ist das Ergebnis vieler kleiner Maßnahmen.\n\nIn allen Hallen wurden alte Lampen durch LED-Lampen ersetzt. Sie gehen jetzt automatisch aus, wenn niemand in der Nähe ist. Allein das spart jedes Jahr etwa 40.000 Euro.\n\nAuf dem Dach der Halle 3 liefert seit Mai eine Solaranlage Strom. An sonnigen Tagen deckt sie fast den ganzen Bedarf der Verwaltung.\n\nAuch die Beschäftigten haben mitgemacht: Bei einem Wettbewerb wurden über 200 Ideen eingereicht. Die beste Idee kam von einem Kollegen aus der Instandhaltung. Er hat vorgeschlagen, Druckluftleitungen regelmäßig auf Lecks zu prüfen – ein unsichtbares, aber großes Problem. Er hat dafür eine Prämie von 2.000 Euro bekommen.\n\nIm nächsten Jahr sollen alle Firmenwagen schrittweise durch Elektroautos ersetzt werden. Ladestationen für Beschäftigte sind ebenfalls geplant."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viel weniger Strom hat das Werk verbraucht?",
+     "o": [
+      "4 Prozent",
+      "12 Prozent",
+      "40 Prozent"
+     ],
+     "r": 1,
+     "e": "„12 Prozent weniger Strom …“"
+    },
+    {
+     "q": "Was passiert mit den LED-Lampen, wenn niemand da ist?",
+     "o": [
+      "Sie werden dunkler.",
+      "Sie gehen automatisch aus.",
+      "Sie blinken."
+     ],
+     "r": 1,
+     "e": "„… gehen jetzt automatisch aus …“"
+    },
+    {
+     "q": "Wofür reicht der Strom der Solaranlage an sonnigen Tagen fast?",
+     "o": [
+      "für das ganze Werk",
+      "für die Verwaltung",
+      "für Halle 3"
+     ],
+     "r": 1,
+     "e": "„… fast den ganzen Bedarf der Verwaltung.“"
+    },
+    {
+     "q": "Was war die beste Idee?",
+     "o": [
+      "Fenster schließen",
+      "Druckluftleitungen auf Lecks prüfen",
+      "Computer ausschalten"
+     ],
+     "r": 1,
+     "e": "Druckluftleitungen prüfen."
+    },
+    {
+     "q": "Was ist für nächstes Jahr geplant?",
+     "o": [
+      "eine zweite Solaranlage",
+      "Elektroautos statt der Firmenwagen",
+      "neue Hallen"
+     ],
+     "r": 1,
+     "e": "Firmenwagen durch E-Autos ersetzen."
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-41",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Ambulanter Pflegedienst",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Sitzung Leitungsteam Pflegedienst Mobil, 21.05.",
+     "text": "Anwesend: R. Lenz (Pflegedienstleitung, RL), I. Gerasimova (IG), P. Baum (PB), T. Kühne (TK, Protokoll)\nEntschuldigt: S. Ernst\n\nTOP 1: Touren\nDurch zwei neue Patienten im Stadtteil Nord werden die Frühtouren länger. RL schlägt vor, eine dritte Frühtour einzurichten. IG übernimmt diese Tour ab Juni.\n\nTOP 2: Dienstautos\nZwei Dienstautos sind älter als zehn Jahre und oft in der Werkstatt. PB holt Angebote für Leasing-Fahrzeuge ein.\n\nTOP 3: Dokumentation\nDie Pflegedokumentation wird ab Juli nur noch auf dem Tablet gemacht. Es gibt am 18. und 25. Juni Schulungen, jeweils nach der Frühtour.\n\nTOP 4: Verschiedenes\nIm Sommer sollen alle Patienten auf ausreichendes Trinken hingewiesen werden. TK erstellt ein Merkblatt.\n\nNächste Besprechung: 18. Juni, 14 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Warum werden die Frühtouren länger?",
+     "o": [
+      "wegen Baustellen",
+      "wegen zwei neuer Patienten",
+      "weil Personal fehlt"
+     ],
+     "r": 1,
+     "e": "Zwei neue Patienten im Norden."
+    },
+    {
+     "q": "Was übernimmt IG ab Juni?",
+     "o": [
+      "die Leitung",
+      "eine dritte Frühtour",
+      "die Schulungen"
+     ],
+     "r": 1,
+     "e": "IG übernimmt die dritte Frühtour."
+    },
+    {
+     "q": "Was macht PB?",
+     "o": [
+      "neue Autos kaufen",
+      "Angebote für Leasing-Fahrzeuge einholen",
+      "die Autos reparieren"
+     ],
+     "r": 1,
+     "e": "Leasing-Angebote."
+    },
+    {
+     "q": "Wann finden die Schulungen statt?",
+     "o": [
+      "nach der Frühtour",
+      "am Wochenende",
+      "abends"
+     ],
+     "r": 0,
+     "e": "„… jeweils nach der Frühtour.“"
+    },
+    {
+     "q": "Worüber informiert das Merkblatt?",
+     "o": [
+      "über Medikamente",
+      "über ausreichendes Trinken",
+      "über neue Touren"
+     ],
+     "r": 1,
+     "e": "Ausreichendes Trinken im Sommer."
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-42",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Bericht – Kollegin im Porträt",
+   "anweisung": "Sie lesen einen Bericht in der Mitarbeiterzeitung. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Wir stellen vor: Unsere Kollegin aus der Logistik",
+     "text": "Swetlana Petrenko arbeitet seit fünf Jahren in unserem Lager. Sie kam 2019 aus Charkiw nach Deutschland. In der Ukraine war sie Buchhalterin, aber ihr Abschluss wurde hier zuerst nicht anerkannt.\n\n„Am Anfang habe ich im Lager Kartons gepackt“, erzählt sie. „Mein Deutsch war noch schlecht, aber die Kollegen haben mir viel geholfen.“ Abends besuchte sie einen Deutschkurs und machte nach zwei Jahren die Prüfung B2.\n\nDanach bewarb sie sich auf eine Stelle in der Lagerverwaltung. Heute plant sie die Bestellungen und arbeitet eng mit dem Einkauf zusammen. Nebenbei macht sie eine Weiterbildung zur Fachwirtin für Logistik, die die Firma zur Hälfte bezahlt.\n\nIhr Tipp für neue Kolleginnen und Kollegen: „Habt keine Angst, Fehler zu machen, und fragt immer nach. Niemand erwartet, dass man am Anfang alles weiß.“"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was war Frau Petrenko in der Ukraine von Beruf?",
+     "o": [
+      "Lageristin",
+      "Buchhalterin",
+      "Lehrerin"
+     ],
+     "r": 1,
+     "e": "„In der Ukraine war sie Buchhalterin …“"
+    },
+    {
+     "q": "Was hat sie am Anfang in Deutschland gemacht?",
+     "o": [
+      "Kartons gepackt",
+      "in der Buchhaltung gearbeitet",
+      "studiert"
+     ],
+     "r": 0,
+     "e": "„… im Lager Kartons gepackt.“"
+    },
+    {
+     "q": "Wann hat sie die B2-Prüfung gemacht?",
+     "o": [
+      "sofort",
+      "nach zwei Jahren",
+      "nach fünf Jahren"
+     ],
+     "r": 1,
+     "e": "„… nach zwei Jahren die Prüfung B2.“"
+    },
+    {
+     "q": "Was macht sie heute?",
+     "o": [
+      "Sie plant die Bestellungen.",
+      "Sie leitet das Lager.",
+      "Sie arbeitet im Verkauf."
+     ],
+     "r": 0,
+     "e": "„Heute plant sie die Bestellungen …“"
+    },
+    {
+     "q": "Wer bezahlt ihre Weiterbildung?",
+     "o": [
+      "sie allein",
+      "die Firma zur Hälfte",
+      "die Arbeitsagentur"
+     ],
+     "r": 1,
+     "e": "„… die die Firma zur Hälfte bezahlt.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-43",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Bauleitung",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Baubesprechung Schule Lindenweg, 30.06.",
+     "text": "Anwesend: H. Möller (Bauleitung, HM), A. Sidorenko (AS), K. Fischer (Architektin, KF), N. Roth (NR, Protokoll)\nEntschuldigt: Elektrofirma Brandt\n\nTOP 1: Zeitplan\nDer Rohbau ist zwei Wochen hinter dem Plan, weil im Mai viel geregnet hat. HM schlägt vor, im Juli auch samstags zu arbeiten. Die Bauherrin ist einverstanden.\n\nTOP 2: Fenster\nDie Fenster werden nicht wie geplant im August, sondern erst Mitte September geliefert. KF klärt, ob ein anderer Hersteller schneller liefern kann.\n\nTOP 3: Sicherheit\nBei einer Begehung wurde festgestellt, dass ein Gerüst nicht richtig gesichert war. AS hat das sofort korrigiert. Ab sofort wird jedes Gerüst täglich vor Arbeitsbeginn kontrolliert.\n\nTOP 4: Verschiedenes\nDie Elektrofirma war nicht anwesend. NR schickt ihr das Protokoll und bittet um einen Rückruf.\n\nNächste Besprechung: 14. Juli, 8 Uhr, Baucontainer"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Warum ist der Rohbau hinter dem Plan?",
+     "o": [
+      "wegen Personalmangel",
+      "wegen viel Regen im Mai",
+      "wegen fehlenden Materials"
+     ],
+     "r": 1,
+     "e": "„… weil im Mai viel geregnet hat.“"
+    },
+    {
+     "q": "Was wurde für Juli vereinbart?",
+     "o": [
+      "Arbeit auch samstags",
+      "Nachtarbeit",
+      "eine Pause"
+     ],
+     "r": 0,
+     "e": "Samstagsarbeit im Juli."
+    },
+    {
+     "q": "Was macht die Architektin wegen der Fenster?",
+     "o": [
+      "Sie storniert die Bestellung.",
+      "Sie fragt nach einem schnelleren Hersteller.",
+      "Sie wartet bis September."
+     ],
+     "r": 1,
+     "e": "KF klärt einen anderen Hersteller."
+    },
+    {
+     "q": "Was wird ab sofort täglich gemacht?",
+     "o": [
+      "eine Besprechung",
+      "eine Kontrolle der Gerüste",
+      "eine Reinigung"
+     ],
+     "r": 1,
+     "e": "Gerüste täglich kontrollieren."
+    },
+    {
+     "q": "Warum bekommt die Elektrofirma das Protokoll?",
+     "o": [
+      "Sie war nicht da.",
+      "Sie hat es bestellt.",
+      "Sie muss es unterschreiben."
+     ],
+     "r": 0,
+     "e": "„Die Elektrofirma war nicht anwesend.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-44",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Bericht – Betriebsausflug",
+   "anweisung": "Sie lesen einen Bericht in der Mitarbeiterzeitung. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Rückblick: Unser Betriebsausflug an den Bodensee",
+     "text": "Am 12. September sind 85 Kolleginnen und Kollegen mit zwei Bussen an den Bodensee gefahren. Die Busse fuhren um 7 Uhr vom Werk ab; einige Kollegen aus der Nachtschicht kamen direkt nach der Arbeit mit.\n\nAm Vormittag gab es eine Schifffahrt nach Lindau. Das Wetter war zuerst neblig, aber gegen Mittag kam die Sonne heraus. Nach dem Mittagessen in einem Restaurant am Hafen konnten alle zwischen drei Angeboten wählen: einer Stadtführung, einer Radtour oder einem Besuch im Museum. Die Radtour war am beliebtesten.\n\nWer nicht mitfahren konnte, bekommt als kleinen Ausgleich einen Gutschein für die Kantine. Die Kosten für den Ausflug hat komplett die Firma bezahlt; nur die Getränke am Abend mussten selbst bezahlt werden.\n\nDer Betriebsrat sammelt jetzt Vorschläge für das nächste Jahr. Zur Auswahl stehen eine Wanderung im Schwarzwald und ein Besuch in einem Freizeitpark."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viele Personen sind mitgefahren?",
+     "o": [
+      "12",
+      "85",
+      "über 100"
+     ],
+     "r": 1,
+     "e": "„… 85 Kolleginnen und Kollegen …“"
+    },
+    {
+     "q": "Wie war das Wetter am Vormittag?",
+     "o": [
+      "sonnig",
+      "neblig",
+      "regnerisch"
+     ],
+     "r": 1,
+     "e": "„… zuerst neblig …“"
+    },
+    {
+     "q": "Welches Angebot am Nachmittag war am beliebtesten?",
+     "o": [
+      "die Stadtführung",
+      "die Radtour",
+      "das Museum"
+     ],
+     "r": 1,
+     "e": "„Die Radtour war am beliebtesten.“"
+    },
+    {
+     "q": "Was mussten die Teilnehmer selbst bezahlen?",
+     "o": [
+      "den Bus",
+      "das Mittagessen",
+      "die Getränke am Abend"
+     ],
+     "r": 2,
+     "e": "„… nur die Getränke am Abend …“"
+    },
+    {
+     "q": "Was bekommen Kollegen, die nicht mitfahren konnten?",
+     "o": [
+      "einen freien Tag",
+      "einen Gutschein für die Kantine",
+      "Geld"
+     ],
+     "r": 1,
+     "e": "Gutschein für die Kantine."
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-45",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Callcenter Qualität",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Qualitätsrunde Callcenter, 10.10.",
+     "text": "Anwesend: B. Wolff (Leitung, BW), E. Mamedova (EM), J. Krug (JK), S. Paul (SP, Protokoll)\nEntschuldigt: A. Dorn\n\nTOP 1: Kundenbefragung\nIn der letzten Befragung waren 74 Prozent der Kunden zufrieden. Kritisiert wurde vor allem, dass man oft mehrmals verbunden wird. EM schlägt vor, dass Mitarbeitende einfache Fragen aus anderen Bereichen selbst beantworten dürfen. Dafür wird eine Liste mit Standardantworten erstellt. Verantwortlich: EM.\n\nTOP 2: Neue Kollegen\nIm November beginnen fünf neue Mitarbeitende. JK übernimmt die Einarbeitung in der ersten Woche.\n\nTOP 3: Pausenregelung\nNach jeder Stunde am Telefon gibt es ab sofort fünf Minuten Bildschirmpause zusätzlich zur Mittagspause.\n\nTOP 4: Verschiedenes\nDie Headsets werden im Dezember ersetzt. Jede Person bekommt ein eigenes Headset.\n\nNächste Besprechung: 7. November, 15 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was haben Kunden kritisiert?",
+     "o": [
+      "zu lange Wartezeiten",
+      "dass sie oft mehrmals verbunden werden",
+      "unfreundliches Personal"
+     ],
+     "r": 1,
+     "e": "Mehrmals verbunden."
+    },
+    {
+     "q": "Was soll eine Liste mit Standardantworten ermöglichen?",
+     "o": [
+      "schnellere Gespräche",
+      "dass man einfache Fragen selbst beantwortet",
+      "weniger Personal"
+     ],
+     "r": 1,
+     "e": "Einfache Fragen selbst beantworten."
+    },
+    {
+     "q": "Wer arbeitet die neuen Kollegen ein?",
+     "o": [
+      "BW",
+      "JK",
+      "EM"
+     ],
+     "r": 1,
+     "e": "„JK übernimmt die Einarbeitung …“"
+    },
+    {
+     "q": "Was gibt es ab sofort nach jeder Stunde am Telefon?",
+     "o": [
+      "fünf Minuten Bildschirmpause",
+      "einen Kaffee",
+      "eine Besprechung"
+     ],
+     "r": 0,
+     "e": "Fünf Minuten Bildschirmpause."
+    },
+    {
+     "q": "Was ändert sich bei den Headsets?",
+     "o": [
+      "Sie werden repariert.",
+      "Jeder bekommt ein eigenes.",
+      "Sie werden abgeschafft."
+     ],
+     "r": 1,
+     "e": "„Jede Person bekommt ein eigenes Headset.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-46",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Bericht – Gesundheitsquote",
+   "anweisung": "Sie lesen einen Bericht in der Mitarbeiterzeitung. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Gesund bei der Arbeit – Ergebnisse der Mitarbeiterbefragung",
+     "text": "An der Befragung zur Gesundheit am Arbeitsplatz haben 61 Prozent der Beschäftigten teilgenommen. Die wichtigsten Ergebnisse: Viele fühlen sich durch Zeitdruck belastet, besonders im Vertrieb. In der Produktion klagen viele über Lärm und Rückenschmerzen.\n\nPositiv bewertet wurden das Betriebsklima und die Unterstützung durch Kolleginnen und Kollegen. Auch mit den flexiblen Arbeitszeiten sind die meisten zufrieden.\n\nAus den Ergebnissen hat eine Arbeitsgruppe Maßnahmen entwickelt. Im Vertrieb werden die Ziele für das nächste Jahr realistischer geplant. In der Produktion werden Hebehilfen angeschafft, und eine Physiotherapeutin bietet einmal pro Woche eine Sprechstunde an. Außerdem gibt es ab Januar für alle einen Kurs zum Thema Stress, den man während der Arbeitszeit besuchen kann.\n\nDie nächste Befragung findet in zwei Jahren statt. Dann wird geprüft, ob die Maßnahmen geholfen haben."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viele Beschäftigte haben an der Befragung teilgenommen?",
+     "o": [
+      "16 Prozent",
+      "61 Prozent",
+      "alle"
+     ],
+     "r": 1,
+     "e": "„… 61 Prozent …“"
+    },
+    {
+     "q": "Worüber klagt man in der Produktion?",
+     "o": [
+      "über Zeitdruck",
+      "über Lärm und Rückenschmerzen",
+      "über das Betriebsklima"
+     ],
+     "r": 1,
+     "e": "Lärm und Rückenschmerzen."
+    },
+    {
+     "q": "Was wurde positiv bewertet?",
+     "o": [
+      "die Kantine",
+      "das Betriebsklima",
+      "die Bezahlung"
+     ],
+     "r": 1,
+     "e": "Betriebsklima und Unterstützung."
+    },
+    {
+     "q": "Was gibt es in der Produktion neu?",
+     "o": [
+      "längere Pausen",
+      "Hebehilfen und eine Physiotherapie-Sprechstunde",
+      "neue Maschinen"
+     ],
+     "r": 1,
+     "e": "Hebehilfen und Physiotherapeutin."
+    },
+    {
+     "q": "Wann ist die nächste Befragung?",
+     "o": [
+      "in einem Jahr",
+      "in zwei Jahren",
+      "im Januar"
+     ],
+     "r": 1,
+     "e": "„… in zwei Jahren …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-47",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Apotheke",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Teambesprechung Linden-Apotheke, 08.01.",
+     "text": "Anwesend: Dr. M. Brenner (Inhaberin, MB), A. Kuzmina (AK), F. Busch (FB), C. Ernst (CE, Protokoll)\nEntschuldigt: keine\n\nTOP 1: E-Rezept\nFast alle Rezepte kommen inzwischen als E-Rezept. Ältere Kunden haben oft Fragen dazu. AK gestaltet ein einfaches Informationsblatt, das an der Kasse ausliegt.\n\nTOP 2: Lieferdienst\nDie Apotheke liefert ab Februar Medikamente auch nach Hause, montags bis freitags zwischen 16 und 19 Uhr. FB übernimmt die Fahrten mit dem E-Lastenrad.\n\nTOP 3: Notdienst\nIm ersten Quartal hat die Apotheke fünf Nachtdienste. MB verteilt sie auf die Apothekerinnen; AK hat zwei Dienste.\n\nTOP 4: Verschiedenes\nDie Inventur im Dezember hat einen Fehlbestand von 0,3 Prozent ergeben. Das ist weniger als im Vorjahr.\n\nNächste Besprechung: 5. Februar, 13 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wofür gestaltet AK ein Informationsblatt?",
+     "o": [
+      "für den Lieferdienst",
+      "für das E-Rezept",
+      "für den Notdienst"
+     ],
+     "r": 1,
+     "e": "Info zum E-Rezept."
+    },
+    {
+     "q": "Wann liefert die Apotheke nach Hause?",
+     "o": [
+      "am Wochenende",
+      "montags bis freitags von 16 bis 19 Uhr",
+      "nur nachts"
+     ],
+     "r": 1,
+     "e": "16 bis 19 Uhr unter der Woche."
+    },
+    {
+     "q": "Womit werden die Medikamente geliefert?",
+     "o": [
+      "mit dem Auto",
+      "mit dem E-Lastenrad",
+      "mit der Post"
+     ],
+     "r": 1,
+     "e": "„… mit dem E-Lastenrad.“"
+    },
+    {
+     "q": "Wie viele Nachtdienste hat AK?",
+     "o": [
+      "einen",
+      "zwei",
+      "fünf"
+     ],
+     "r": 1,
+     "e": "„AK hat zwei Dienste.“"
+    },
+    {
+     "q": "Was hat die Inventur ergeben?",
+     "o": [
+      "mehr Fehlbestand als im Vorjahr",
+      "weniger Fehlbestand als im Vorjahr",
+      "keinen Fehlbestand"
+     ],
+     "r": 1,
+     "e": "Weniger als im Vorjahr."
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-48",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Bericht – Integration im Betrieb",
+   "anweisung": "Sie lesen einen Bericht in der Mitarbeiterzeitung. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Viele Sprachen, ein Team",
+     "text": "In unserem Werk arbeiten Menschen aus 34 Ländern. Damit die Zusammenarbeit gut klappt, gibt es seit zwei Jahren das Projekt „Gemeinsam“.\n\nZu dem Projekt gehören Sprachpaten: Erfahrene Kollegen helfen neuen Mitarbeitenden, die noch wenig Deutsch sprechen, im Arbeitsalltag. Sie erklären Fachwörter, lesen gemeinsam Arbeitsanweisungen und üben schwierige Situationen, zum Beispiel ein Gespräch mit der Schichtleitung.\n\nAußerdem wurden alle wichtigen Sicherheitsanweisungen mit Bildern versehen. So versteht man sie auch mit wenig Deutsch. Die wichtigsten Schilder gibt es zusätzlich in Englisch, Arabisch, Russisch und Türkisch.\n\nEinmal im Monat findet ein internationaler Mittagstisch statt. Dann kochen Kollegen Gerichte aus ihrer Heimat für die Kantine. Der Erlös geht an ein Hilfsprojekt.\n\nDas Projekt wurde im Frühjahr mit einem Preis der Industrie- und Handelskammer ausgezeichnet."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Aus wie vielen Ländern kommen die Beschäftigten?",
+     "o": [
+      "24",
+      "34",
+      "43"
+     ],
+     "r": 1,
+     "e": "„… aus 34 Ländern.“"
+    },
+    {
+     "q": "Was machen die Sprachpaten?",
+     "o": [
+      "Sie geben Deutschunterricht in der Schule.",
+      "Sie helfen neuen Kollegen im Arbeitsalltag.",
+      "Sie übersetzen Verträge."
+     ],
+     "r": 1,
+     "e": "Hilfe im Arbeitsalltag."
+    },
+    {
+     "q": "Warum wurden Sicherheitsanweisungen mit Bildern versehen?",
+     "o": [
+      "damit man sie auch mit wenig Deutsch versteht",
+      "weil sie schöner aussehen",
+      "wegen eines Gesetzes"
+     ],
+     "r": 0,
+     "e": "„So versteht man sie auch mit wenig Deutsch.“"
+    },
+    {
+     "q": "Was passiert beim internationalen Mittagstisch?",
+     "o": [
+      "Kollegen kochen Gerichte aus ihrer Heimat.",
+      "Man isst in einem Restaurant.",
+      "Es gibt einen Kochkurs."
+     ],
+     "r": 0,
+     "e": "Kollegen kochen für die Kantine."
+    },
+    {
+     "q": "Wer hat das Projekt ausgezeichnet?",
+     "o": [
+      "die Stadt",
+      "die Industrie- und Handelskammer",
+      "der Betriebsrat"
+     ],
+     "r": 1,
+     "e": "Preis der IHK."
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-49",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Möbelhaus",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Abteilungsbesprechung Möbelhaus, 19.02.",
+     "text": "Anwesend: T. Hauser (Abteilungsleitung, TH), N. Bykova (NB), L. Graf (LG), O. Sommer (OS, Protokoll)\nEntschuldigt: J. Ritter\n\nTOP 1: Lieferzeiten\nKunden beschweren sich über lange Lieferzeiten bei Sofas, bis zu zwölf Wochen. TH bittet, Kunden die Lieferzeit schon beim Verkauf klar zu sagen und schriftlich festzuhalten.\n\nTOP 2: Montageservice\nAb März bieten wir die Montage von Küchen auch samstags an, gegen einen Aufpreis von 80 Euro. NB erstellt dafür einen Plan für die Monteure.\n\nTOP 3: Ausstellung\nDie Ausstellung im ersten Stock wird im April umgebaut. Während des Umbaus ist der Bereich Schlafzimmer geschlossen. LG informiert die Stammkunden.\n\nTOP 4: Verschiedenes\nDie Verkaufsprämie für das erste Quartal wird mit dem Aprilgehalt ausgezahlt.\n\nNächste Besprechung: 18. März, 9:30 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie lange dauert die Lieferung von Sofas bis zu?",
+     "o": [
+      "zwei Wochen",
+      "zwölf Wochen",
+      "sechs Monate"
+     ],
+     "r": 1,
+     "e": "„… bis zu zwölf Wochen.“"
+    },
+    {
+     "q": "Was sollen die Verkäufer tun?",
+     "o": [
+      "schnellere Lieferung versprechen",
+      "die Lieferzeit klar sagen und aufschreiben",
+      "Rabatt geben"
+     ],
+     "r": 1,
+     "e": "Klar sagen und schriftlich festhalten."
+    },
+    {
+     "q": "Was kostet die Küchenmontage am Samstag extra?",
+     "o": [
+      "nichts",
+      "80 Euro",
+      "180 Euro"
+     ],
+     "r": 1,
+     "e": "Aufpreis von 80 Euro."
+    },
+    {
+     "q": "Welcher Bereich ist während des Umbaus geschlossen?",
+     "o": [
+      "Küchen",
+      "Schlafzimmer",
+      "Kinderzimmer"
+     ],
+     "r": 1,
+     "e": "„… der Bereich Schlafzimmer …“"
+    },
+    {
+     "q": "Wann wird die Verkaufsprämie ausgezahlt?",
+     "o": [
+      "mit dem Märzgehalt",
+      "mit dem Aprilgehalt",
+      "am Jahresende"
+     ],
+     "r": 1,
+     "e": "„… mit dem Aprilgehalt …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-50",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Bericht – Digitalisierung im Lager",
+   "anweisung": "Sie lesen einen Bericht in der Mitarbeiterzeitung. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Das Lager wird digital",
+     "text": "Seit März arbeitet unser Lager mit einem neuen Lagerverwaltungssystem. Früher mussten die Kolleginnen und Kollegen die Waren auf Papierlisten suchen. Heute zeigt ein Scanner am Handgelenk an, wo das Produkt liegt und welcher Weg am kürzesten ist.\n\nDie Umstellung war nicht einfach. In den ersten Wochen gab es technische Probleme, und manche Bestellungen wurden zu spät verschickt. Inzwischen läuft das System stabil. Die Fehlerquote beim Kommissionieren ist von 1,5 auf 0,4 Prozent gesunken.\n\nViele Beschäftigte waren am Anfang skeptisch. „Ich hatte Angst, dass ich mit der Technik nicht klarkomme“, sagt ein Kollege, der seit 22 Jahren im Lager arbeitet. Nach einer Schulung und mit Hilfe jüngerer Kollegen fühlt er sich jetzt sicher.\n\nArbeitsplätze wurden durch das System nicht abgebaut. Die gesparte Zeit wird für eine bessere Kontrolle der Ware genutzt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie haben die Kollegen früher Waren gesucht?",
+     "o": [
+      "mit dem Handy",
+      "mit Papierlisten",
+      "mit einem Scanner"
+     ],
+     "r": 1,
+     "e": "„… auf Papierlisten suchen.“"
+    },
+    {
+     "q": "Was zeigt der Scanner an?",
+     "o": [
+      "die Arbeitszeit",
+      "wo das Produkt liegt und den kürzesten Weg",
+      "den Preis"
+     ],
+     "r": 1,
+     "e": "Ort und kürzester Weg."
+    },
+    {
+     "q": "Was ist in den ersten Wochen passiert?",
+     "o": [
+      "Es gab technische Probleme.",
+      "Alles lief perfekt.",
+      "Das Lager war geschlossen."
+     ],
+     "r": 0,
+     "e": "„… gab es technische Probleme …“"
+    },
+    {
+     "q": "Wie hat sich die Fehlerquote entwickelt?",
+     "o": [
+      "Sie ist gestiegen.",
+      "Sie ist von 1,5 auf 0,4 Prozent gesunken.",
+      "Sie ist gleich geblieben."
+     ],
+     "r": 1,
+     "e": "Von 1,5 auf 0,4 Prozent."
+    },
+    {
+     "q": "Was passiert mit der gesparten Zeit?",
+     "o": [
+      "Es werden Stellen abgebaut.",
+      "Sie wird für bessere Kontrolle genutzt.",
+      "Die Beschäftigten gehen früher nach Hause."
+     ],
+     "r": 1,
+     "e": "Bessere Kontrolle der Ware."
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-51",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Hotelrezeption",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Rezeptionsteam Hotel am Park, 25.03.",
+     "text": "Anwesend: S. Krämer (Front Office Manager, SK), Y. Lebedeva (YL), M. Aydin (MA), P. Wendt (PW, Protokoll)\nEntschuldigt: R. Behrens\n\nTOP 1: Check-in online\nSeit Februar können Gäste online einchecken. 40 Prozent nutzen das Angebot schon. Gäste mit Online-Check-in holen ihre Zimmerkarte an einem eigenen Schalter ab.\n\nTOP 2: Beschwerden\nMehrere Gäste haben sich über Lärm aus der Bar beschwert. SK spricht mit der Barleitung. Zimmer über der Bar werden vorerst nur vergeben, wenn das Hotel voll ist.\n\nTOP 3: Fremdsprachen\nViele Gäste kommen aus Polen und Tschechien. YL spricht Polnisch und übernimmt bei Bedarf. MA erstellt ein kleines Wörterbuch mit wichtigen Sätzen für das Team.\n\nTOP 4: Verschiedenes\nDie Uniformen für den Sommer werden im Mai ausgegeben.\n\nNächste Besprechung: 22. April, 14 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viele Gäste checken schon online ein?",
+     "o": [
+      "14 Prozent",
+      "40 Prozent",
+      "alle"
+     ],
+     "r": 1,
+     "e": "„40 Prozent …“"
+    },
+    {
+     "q": "Wo holen Online-Gäste ihre Zimmerkarte?",
+     "o": [
+      "an einem eigenen Schalter",
+      "an der Bar",
+      "im Zimmer"
+     ],
+     "r": 0,
+     "e": "„… an einem eigenen Schalter …“"
+    },
+    {
+     "q": "Wann werden die Zimmer über der Bar vergeben?",
+     "o": [
+      "immer",
+      "nur wenn das Hotel voll ist",
+      "nie mehr"
+     ],
+     "r": 1,
+     "e": "Nur wenn das Hotel voll ist."
+    },
+    {
+     "q": "Wer hilft bei polnischen Gästen?",
+     "o": [
+      "YL",
+      "MA",
+      "SK"
+     ],
+     "r": 0,
+     "e": "„YL spricht Polnisch …“"
+    },
+    {
+     "q": "Was macht MA für das Team?",
+     "o": [
+      "einen Sprachkurs",
+      "ein kleines Wörterbuch mit wichtigen Sätzen",
+      "einen neuen Dienstplan"
+     ],
+     "r": 1,
+     "e": "Wörterbuch mit Sätzen."
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-52",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Bericht – Neue Kantine",
+   "anweisung": "Sie lesen einen Bericht in der Mitarbeiterzeitung. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Unsere neue Kantine ist eröffnet",
+     "text": "Nach acht Monaten Umbau ist unsere Kantine seit dem 1. Oktober wieder geöffnet. Sie ist größer und heller als vorher und hat jetzt 220 statt 150 Plätze. Im Sommer kann man auch auf der neuen Terrasse essen.\n\nDas Essen wird jetzt jeden Tag frisch vor Ort gekocht. Früher wurde es von einem Caterer geliefert und nur aufgewärmt. Es gibt täglich vier Gerichte, darunter immer ein veganes. Eine Salatbar und eine Suppe kommen dazu.\n\nDie Preise sind leicht gestiegen: Ein Hauptgericht kostet für Beschäftigte jetzt 4,50 Euro statt 4 Euro. Die Firma zahlt weiterhin einen Zuschuss von 3 Euro pro Essen. Auszubildende bezahlen nur die Hälfte.\n\nWährend des Umbaus gab es Essen in einem Zelt auf dem Parkplatz. Die Kantinenleitung bedankt sich bei allen für ihre Geduld. Zur Eröffnung gibt es in der ersten Woche zu jedem Essen ein kostenloses Dessert."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viele Plätze hat die Kantine jetzt?",
+     "o": [
+      "150",
+      "220",
+      "320"
+     ],
+     "r": 1,
+     "e": "„… jetzt 220 statt 150 Plätze.“"
+    },
+    {
+     "q": "Was ist neu beim Essen?",
+     "o": [
+      "Es wird frisch vor Ort gekocht.",
+      "Es kommt von einem Caterer.",
+      "Es gibt nur noch vegane Gerichte."
+     ],
+     "r": 0,
+     "e": "„… jeden Tag frisch vor Ort gekocht.“"
+    },
+    {
+     "q": "Was kostet ein Hauptgericht jetzt?",
+     "o": [
+      "3 Euro",
+      "4 Euro",
+      "4,50 Euro"
+     ],
+     "r": 2,
+     "e": "„… jetzt 4,50 Euro …“"
+    },
+    {
+     "q": "Wer zahlt weniger?",
+     "o": [
+      "Auszubildende",
+      "Führungskräfte",
+      "Besucher"
+     ],
+     "r": 0,
+     "e": "„Auszubildende bezahlen nur die Hälfte.“"
+    },
+    {
+     "q": "Was gibt es in der ersten Woche gratis?",
+     "o": [
+      "ein Getränk",
+      "ein Dessert",
+      "einen Salat"
+     ],
+     "r": 1,
+     "e": "„… ein kostenloses Dessert.“"
+    }
+   ]
+  }
+ ]
+}

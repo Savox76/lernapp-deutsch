@@ -1,0 +1,1076 @@
+{
+ "lesen": [
+  {
+   "id": "dtbl4-21",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Pflegestation",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Stationsbesprechung 4B, 03.02.",
+     "text": "Anwesend: B. Hahn (Stationsleitung, BH), A. Petrova (AP), L. Schulz (LS), D. Kaya (DK, Protokoll)\nEntschuldigt: M. Wolf\n\nTOP 1: Dienstplan März\nBH stellt den Entwurf vor. Wegen zwei Krankheitsfällen fehlen im März Nachtdienste. AP erklärt sich bereit, zwei zusätzliche Nächte zu übernehmen. Für die restlichen Lücken fragt BH beim Springerpool an.\n\nTOP 2: Sturzprotokolle\nLS berichtet, dass im Januar drei Patienten gestürzt sind, alle nachts auf dem Weg zur Toilette. Beschlossen wird, dass bei Risikopatienten ab sofort ein Nachtlicht eingeschaltet bleibt. Verantwortlich: LS.\n\nTOP 3: Fortbildung Wundversorgung\nDie Fortbildung am 20. Februar ist Pflicht für alle examinierten Pflegekräfte. Wer im Dienst ist, wird dafür freigestellt.\n\nTOP 4: Verschiedenes\nDer neue Medikamentenwagen wird am 10. Februar geliefert. DK übernimmt die Einweisung.\n\nNächste Besprechung: 3. März, 13:30 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wer hilft bei den fehlenden Nachtdiensten?",
+     "o": [
+      "DK und LS",
+      "AP und der Springerpool",
+      "nur die Stationsleitung"
+     ],
+     "r": 1,
+     "e": "AP übernimmt zwei Nächte, Rest über Springerpool."
+    },
+    {
+     "q": "Wann sind die Patienten gestürzt?",
+     "o": [
+      "beim Essen",
+      "nachts auf dem Weg zur Toilette",
+      "bei der Therapie"
+     ],
+     "r": 1,
+     "e": "„… alle nachts auf dem Weg zur Toilette.“"
+    },
+    {
+     "q": "Was wurde wegen der Stürze beschlossen?",
+     "o": [
+      "Bettgitter für alle",
+      "ein Nachtlicht bei Risikopatienten",
+      "mehr Personal in der Nacht"
+     ],
+     "r": 1,
+     "e": "„… ein Nachtlicht eingeschaltet bleibt.“"
+    },
+    {
+     "q": "Die Fortbildung Wundversorgung …",
+     "o": [
+      "ist freiwillig.",
+      "ist Pflicht für examinierte Pflegekräfte.",
+      "findet am 10. Februar statt."
+     ],
+     "r": 1,
+     "e": "„… Pflicht für alle examinierten Pflegekräfte.“"
+    },
+    {
+     "q": "Wer erklärt den neuen Medikamentenwagen?",
+     "o": [
+      "BH",
+      "DK",
+      "der Lieferant"
+     ],
+     "r": 1,
+     "e": "„DK übernimmt die Einweisung.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-22",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Kundenservice",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Teamrunde Kundenservice, 18.03.",
+     "text": "Anwesend: J. Neumann (Teamleitung, JN), S. Bauer (SB), O. Melnyk (OM), R. Yilmaz (RY, Protokoll)\nEntschuldigt: keine\n\nTOP 1: Wartezeiten am Telefon\nJN berichtet, dass Kunden im Februar durchschnittlich sieben Minuten warten mussten. Ziel sind drei Minuten. OM schlägt vor, häufige Fragen auf der Website besser zu erklären. Der Vorschlag wird angenommen; OM sammelt bis Ende März die zehn häufigsten Fragen.\n\nTOP 2: Neues Ticketsystem\nDas neue System startet am 1. Mai. SB nimmt an der Schulung beim Anbieter teil und gibt danach das Wissen an das Team weiter.\n\nTOP 3: Mittagspausen\nEs gab Beschwerden, dass zwischen 12 und 13 Uhr zu wenige Kollegen erreichbar sind. Ab April gibt es zwei Pausengruppen: 11:30–12:15 und 12:45–13:30 Uhr.\n\nTOP 4: Verschiedenes\nRY verlässt das Team Ende April und wechselt in den Vertrieb. Eine Stelle wird ausgeschrieben.\n\nNächste Besprechung: 15. April, 10 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie lange mussten Kunden im Februar warten?",
+     "o": [
+      "drei Minuten",
+      "sieben Minuten",
+      "zehn Minuten"
+     ],
+     "r": 1,
+     "e": "„… durchschnittlich sieben Minuten …“"
+    },
+    {
+     "q": "Was macht OM bis Ende März?",
+     "o": [
+      "Er schreibt die Website neu.",
+      "Er sammelt die häufigsten Fragen.",
+      "Er macht eine Schulung."
+     ],
+     "r": 1,
+     "e": "„… sammelt … die zehn häufigsten Fragen.“"
+    },
+    {
+     "q": "Wer lernt das neue Ticketsystem zuerst?",
+     "o": [
+      "JN",
+      "SB",
+      "alle zusammen"
+     ],
+     "r": 1,
+     "e": "SB nimmt an der Schulung teil."
+    },
+    {
+     "q": "Was ändert sich bei den Mittagspausen?",
+     "o": [
+      "Sie werden kürzer.",
+      "Es gibt zwei Pausengruppen.",
+      "Alle machen um 12 Uhr Pause."
+     ],
+     "r": 1,
+     "e": "Zwei Pausengruppen ab April."
+    },
+    {
+     "q": "Warum wird eine Stelle ausgeschrieben?",
+     "o": [
+      "Das Team wird größer.",
+      "RY wechselt in den Vertrieb.",
+      "SB geht in Rente."
+     ],
+     "r": 1,
+     "e": "„RY verlässt das Team Ende April …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-23",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Hotelküche",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Küchenbesprechung Hotel Seeblick, 07.05.",
+     "text": "Anwesend: P. Lang (Küchenchef, PL), N. Wójcik (NW), H. Celik (HC), E. Braun (EB, Protokoll)\nEntschuldigt: T. Maier\n\nTOP 1: Sommerkarte\nPL stellt die neue Sommerkarte vor. Sie gilt ab 1. Juni und hat mehr vegetarische Gerichte. NW kritisiert, dass zwei Gerichte sehr viel Vorbereitung brauchen. Es wird beschlossen, diese Gerichte nur abends anzubieten.\n\nTOP 2: Hygienekontrolle\nBei der Kontrolle im April gab es keine größeren Mängel. Nur die Temperaturlisten für den Kühlraum waren nicht vollständig. HC achtet ab sofort jeden Morgen darauf.\n\nTOP 3: Personal\nFür die Hochsaison werden zwei Aushilfen eingestellt. PL führt die Gespräche in der nächsten Woche.\n\nTOP 4: Verschiedenes\nDie Spülmaschine macht seit Tagen laute Geräusche. Der Techniker kommt am Freitag.\n\nNächste Besprechung: 4. Juni, 15 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was ist neu an der Sommerkarte?",
+     "o": [
+      "Sie ist billiger.",
+      "Sie hat mehr vegetarische Gerichte.",
+      "Sie gilt nur am Wochenende."
+     ],
+     "r": 1,
+     "e": "„… mehr vegetarische Gerichte.“"
+    },
+    {
+     "q": "Was passiert mit den zwei aufwendigen Gerichten?",
+     "o": [
+      "Sie werden gestrichen.",
+      "Es gibt sie nur abends.",
+      "NW kocht sie allein."
+     ],
+     "r": 1,
+     "e": "„… nur abends anzubieten.“"
+    },
+    {
+     "q": "Was war bei der Hygienekontrolle nicht in Ordnung?",
+     "o": [
+      "Der Kühlraum war schmutzig.",
+      "Die Temperaturlisten waren unvollständig.",
+      "Es gab keine Seife."
+     ],
+     "r": 1,
+     "e": "Temperaturlisten nicht vollständig."
+    },
+    {
+     "q": "Wer kontrolliert jetzt die Listen?",
+     "o": [
+      "PL",
+      "HC",
+      "EB"
+     ],
+     "r": 1,
+     "e": "„HC achtet ab sofort … darauf.“"
+    },
+    {
+     "q": "Wann kommt der Techniker?",
+     "o": [
+      "am Montag",
+      "am Freitag",
+      "in der nächsten Besprechung"
+     ],
+     "r": 1,
+     "e": "„Der Techniker kommt am Freitag.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-24",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Kita-Team",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Teamsitzung Kita Regenbogen, 12.09.",
+     "text": "Anwesend: C. Fuchs (Leitung, CF), M. Iwanowa (MI), T. Becker (TB), A. Kaiser (AK, Protokoll)\nEntschuldigt: S. Roth\n\nTOP 1: Eingewöhnung\nIm September kommen sechs neue Kinder. MI und TB übernehmen die Eingewöhnung. Eltern bleiben in der ersten Woche jeden Tag eine Stunde in der Gruppe.\n\nTOP 2: Elternabend\nDer Elternabend findet am 2. Oktober um 19 Uhr statt. Themen: neue Öffnungszeiten und das Sommerfest. AK schreibt die Einladung bis Freitag.\n\nTOP 3: Öffnungszeiten\nWegen Personalmangel schließt die Kita ab November schon um 16:30 Uhr statt um 17 Uhr. CF informiert vorher den Träger.\n\nTOP 4: Verschiedenes\nIm Garten muss der Sandkasten neu befüllt werden. TB fragt beim Hausmeister nach.\n\nNächste Besprechung: 10. Oktober, 14 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wer kümmert sich um die neuen Kinder?",
+     "o": [
+      "CF und AK",
+      "MI und TB",
+      "alle Erzieherinnen"
+     ],
+     "r": 1,
+     "e": "„MI und TB übernehmen die Eingewöhnung.“"
+    },
+    {
+     "q": "Wie lange bleiben Eltern in der ersten Woche?",
+     "o": [
+      "den ganzen Tag",
+      "eine Stunde täglich",
+      "gar nicht"
+     ],
+     "r": 1,
+     "e": "„… jeden Tag eine Stunde …“"
+    },
+    {
+     "q": "Wer schreibt die Einladung zum Elternabend?",
+     "o": [
+      "AK",
+      "CF",
+      "die Eltern"
+     ],
+     "r": 0,
+     "e": "„AK schreibt die Einladung …“"
+    },
+    {
+     "q": "Warum schließt die Kita ab November früher?",
+     "o": [
+      "wegen der Kosten",
+      "wegen Personalmangel",
+      "auf Wunsch der Eltern"
+     ],
+     "r": 1,
+     "e": "„Wegen Personalmangel …“"
+    },
+    {
+     "q": "Was soll TB tun?",
+     "o": [
+      "den Garten neu gestalten",
+      "beim Hausmeister wegen des Sandkastens fragen",
+      "Sand kaufen"
+     ],
+     "r": 1,
+     "e": "„TB fragt beim Hausmeister nach.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-25",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – IT-Abteilung",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll IT-Besprechung, 22.01.",
+     "text": "Anwesend: F. Schröder (IT-Leitung, FS), K. Nowak (KN), Y. Demir (YD), L. Vogel (LV, Protokoll)\nEntschuldigt: P. Hartmann\n\nTOP 1: Phishing-Test\nIm Dezember wurde eine Test-E-Mail an alle Beschäftigten geschickt. 18 Prozent haben auf den Link geklickt. FS schlägt eine Pflichtschulung vor. Beschlossen: Alle Beschäftigten machen bis Ende März eine Online-Schulung von 30 Minuten.\n\nTOP 2: Windows-Update\nDas große Update wird am Wochenende 8./9. Februar installiert. Am Montag danach ist die Hotline ab 6:30 Uhr besetzt. Verantwortlich: KN.\n\nTOP 3: Neue Mitarbeitende\nYD übernimmt ab Februar die Einrichtung der Arbeitsplätze für neue Kolleginnen und Kollegen. Bisher hat das KN gemacht.\n\nTOP 4: Verschiedenes\nDer Serverraum wird im März klimatisiert. Die Kosten wurden genehmigt.\n\nNächste Besprechung: 19. Februar, 9 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viele Beschäftigte haben beim Test auf den Link geklickt?",
+     "o": [
+      "8 Prozent",
+      "18 Prozent",
+      "30 Prozent"
+     ],
+     "r": 1,
+     "e": "„18 Prozent …“"
+    },
+    {
+     "q": "Was müssen alle Beschäftigten bis Ende März tun?",
+     "o": [
+      "ihr Passwort ändern",
+      "eine Online-Schulung machen",
+      "einen Test schreiben"
+     ],
+     "r": 1,
+     "e": "Online-Schulung von 30 Minuten."
+    },
+    {
+     "q": "Wann wird das Update installiert?",
+     "o": [
+      "an einem Montag",
+      "an einem Wochenende im Februar",
+      "im März"
+     ],
+     "r": 1,
+     "e": "8./9. Februar, Wochenende."
+    },
+    {
+     "q": "Was ändert sich für YD?",
+     "o": [
+      "YD richtet die Arbeitsplätze für Neue ein.",
+      "YD leitet die Hotline.",
+      "YD verlässt die Abteilung."
+     ],
+     "r": 0,
+     "e": "YD übernimmt die Einrichtung."
+    },
+    {
+     "q": "Was passiert im Serverraum?",
+     "o": [
+      "Er wird verlegt.",
+      "Er bekommt eine Klimaanlage.",
+      "Er wird geschlossen."
+     ],
+     "r": 1,
+     "e": "„… wird im März klimatisiert.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-26",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Autowerkstatt",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Werkstattbesprechung, 04.10.",
+     "text": "Anwesend: G. Krüger (Meister, GK), V. Popov (VP), J. Arslan (JA), M. Weber (MW, Protokoll)\nEntschuldigt: B. Seidel\n\nTOP 1: Reifenwechsel-Saison\nAb Mitte Oktober kommen sehr viele Kunden zum Reifenwechsel. GK schlägt vor, samstags von 8 bis 13 Uhr zu öffnen. VP und JA sind einverstanden, wenn sie dafür am Montag frei haben. Das wird so beschlossen.\n\nTOP 2: Neue Hebebühne\nDie neue Hebebühne wird am 15. Oktober aufgebaut. Bis dahin werden größere Reparaturen nur nach Termin angenommen.\n\nTOP 3: Kundenbeschwerde\nEin Kunde hat sich beschwert, dass sein Auto nach der Reparatur schmutzig war. Ab sofort werden Sitzschoner und Fußmatten aus Papier benutzt. Verantwortlich: JA.\n\nTOP 4: Verschiedenes\nMW macht im November die Prüfung zum Kfz-Meister und ist dafür zwei Wochen nicht da.\n\nNächste Besprechung: 1. November, 7:30 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was wurde für die Reifensaison beschlossen?",
+     "o": [
+      "längere Öffnungszeiten am Abend",
+      "Samstagsöffnung mit freiem Montag",
+      "mehr Personal"
+     ],
+     "r": 1,
+     "e": "Samstag öffnen, dafür Montag frei."
+    },
+    {
+     "q": "Bis zum 15. Oktober …",
+     "o": [
+      "ist die Werkstatt geschlossen.",
+      "werden größere Reparaturen nur nach Termin angenommen.",
+      "gibt es keinen Reifenwechsel."
+     ],
+     "r": 1,
+     "e": "„… nur nach Termin angenommen.“"
+    },
+    {
+     "q": "Worüber hat sich ein Kunde beschwert?",
+     "o": [
+      "über den Preis",
+      "über ein schmutziges Auto",
+      "über die Wartezeit"
+     ],
+     "r": 1,
+     "e": "„… Auto nach der Reparatur schmutzig war.“"
+    },
+    {
+     "q": "Wer ist für die Sitzschoner verantwortlich?",
+     "o": [
+      "GK",
+      "JA",
+      "VP"
+     ],
+     "r": 1,
+     "e": "Verantwortlich: JA."
+    },
+    {
+     "q": "Warum fehlt MW im November?",
+     "o": [
+      "wegen Urlaub",
+      "wegen einer Prüfung",
+      "wegen Krankheit"
+     ],
+     "r": 1,
+     "e": "Prüfung zum Kfz-Meister."
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-27",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Supermarkt",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Filialbesprechung, 15.11.",
+     "text": "Anwesend: H. Brandt (Marktleitung, HB), D. Sokolova (DS), K. Lehmann (KL), I. Simon (IS, Protokoll)\nEntschuldigt: U. Frank\n\nTOP 1: Weihnachtsgeschäft\nVom 1. bis 23. Dezember ist der Markt bis 22 Uhr geöffnet. Jede Person arbeitet höchstens zwei Spätschichten pro Woche. Den Plan erstellt DS bis zum 20. November.\n\nTOP 2: Inventur\nDie Inventur findet am 30. Dezember nach Ladenschluss statt. Alle Vollzeitkräfte müssen teilnehmen. Es gibt Pizza und einen Zuschlag.\n\nTOP 3: Diebstähle\nKL berichtet, dass in den letzten Wochen viel Kosmetik gestohlen wurde. Beschlossen: Teure Produkte werden in einem abschließbaren Regal an der Kasse angeboten.\n\nTOP 4: Verschiedenes\nDie Weihnachtsfeier für das Team ist am 10. Januar.\n\nNächste Besprechung: 13. Dezember, 8 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Bis wann ist der Markt im Dezember geöffnet?",
+     "o": [
+      "bis 20 Uhr",
+      "bis 22 Uhr",
+      "bis Mitternacht"
+     ],
+     "r": 1,
+     "e": "„… bis 22 Uhr geöffnet.“"
+    },
+    {
+     "q": "Wie viele Spätschichten pro Woche darf man höchstens haben?",
+     "o": [
+      "eine",
+      "zwei",
+      "drei"
+     ],
+     "r": 1,
+     "e": "„… höchstens zwei Spätschichten pro Woche.“"
+    },
+    {
+     "q": "Wer muss bei der Inventur dabei sein?",
+     "o": [
+      "alle Vollzeitkräfte",
+      "nur die Marktleitung",
+      "Aushilfen"
+     ],
+     "r": 0,
+     "e": "„Alle Vollzeitkräfte müssen teilnehmen.“"
+    },
+    {
+     "q": "Was passiert mit teurer Kosmetik?",
+     "o": [
+      "Sie wird nicht mehr verkauft.",
+      "Sie kommt in ein abschließbares Regal an der Kasse.",
+      "Es gibt eine Kamera."
+     ],
+     "r": 1,
+     "e": "Abschließbares Regal an der Kasse."
+    },
+    {
+     "q": "Wann ist die Weihnachtsfeier?",
+     "o": [
+      "am 23. Dezember",
+      "am 30. Dezember",
+      "am 10. Januar"
+     ],
+     "r": 2,
+     "e": "„… am 10. Januar.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-28",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Personalabteilung",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Besprechung Personal, 09.06.",
+     "text": "Anwesend: R. Engel (Leitung, RE), S. Gromova (SG), P. Kühn (PK), A. Wagner (AW, Protokoll)\nEntschuldigt: keine\n\nTOP 1: Azubi-Auswahl\nFür das neue Ausbildungsjahr gab es 64 Bewerbungen für acht Plätze. Die Vorstellungsgespräche finden am 23. und 24. Juni statt. SG und PK führen die Gespräche zusammen mit den Fachabteilungen.\n\nTOP 2: Digitale Personalakte\nAb Oktober werden alle Personalakten digital geführt. Die Papierakten werden eingescannt und danach sicher vernichtet. AW plant den Ablauf.\n\nTOP 3: Krankenstand\nRE berichtet, dass der Krankenstand im Frühjahr höher war als im Vorjahr, vor allem in der Logistik. Es wird beschlossen, mit dem Betriebsarzt einen Gesundheitstag in der Logistik zu organisieren.\n\nTOP 4: Verschiedenes\nDie Sommerfeier ist am 4. Juli. Die Einladungen gehen nächste Woche raus.\n\nNächste Besprechung: 7. Juli, 10 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viele Ausbildungsplätze gibt es?",
+     "o": [
+      "acht",
+      "24",
+      "64"
+     ],
+     "r": 0,
+     "e": "„… für acht Plätze.“"
+    },
+    {
+     "q": "Wer führt die Vorstellungsgespräche?",
+     "o": [
+      "nur RE",
+      "SG und PK mit den Fachabteilungen",
+      "die Ausbilder allein"
+     ],
+     "r": 1,
+     "e": "SG und PK mit Fachabteilungen."
+    },
+    {
+     "q": "Was passiert mit den Papierakten?",
+     "o": [
+      "Sie werden archiviert.",
+      "Sie werden eingescannt und vernichtet.",
+      "Sie gehen an die Beschäftigten."
+     ],
+     "r": 1,
+     "e": "Eingescannt und vernichtet."
+    },
+    {
+     "q": "Wo war der Krankenstand besonders hoch?",
+     "o": [
+      "in der Verwaltung",
+      "in der Logistik",
+      "in der Produktion"
+     ],
+     "r": 1,
+     "e": "„… vor allem in der Logistik.“"
+    },
+    {
+     "q": "Was ist für die Logistik geplant?",
+     "o": [
+      "mehr Personal",
+      "ein Gesundheitstag",
+      "neue Arbeitszeiten"
+     ],
+     "r": 1,
+     "e": "Gesundheitstag mit dem Betriebsarzt."
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-29",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Bäckerei",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Teambesprechung Bäckerei Korn, 26.02.",
+     "text": "Anwesend: W. Korn (Inhaber, WK), L. Hoffmann (LH), Z. Ahmadi (ZA), E. Frolova (EF, Protokoll)\nEntschuldigt: N. Jung\n\nTOP 1: Neue Filiale\nIm Mai eröffnet eine zweite Filiale am Bahnhof. LH übernimmt dort die Leitung. Für die Filiale werden zwei Verkäuferinnen gesucht.\n\nTOP 2: Öffnungszeiten am Sonntag\nDie Bäckerei öffnet ab März sonntags von 7 bis 11 Uhr. Die Sonntagsdienste werden rotierend verteilt; wer sonntags arbeitet, bekommt einen Zuschlag von 50 Prozent.\n\nTOP 3: Lebensmittelreste\nAm Abend bleiben zu viele Brote übrig. ZA schlägt vor, ab 17 Uhr Brot zum halben Preis zu verkaufen und den Rest an die Tafel zu geben. Beide Vorschläge werden angenommen.\n\nTOP 4: Verschiedenes\nDer neue Ofen hat sich bewährt; der Stromverbrauch ist um 20 Prozent gesunken.\n\nNächste Besprechung: 26. März, 14 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wer leitet die neue Filiale?",
+     "o": [
+      "WK",
+      "LH",
+      "ZA"
+     ],
+     "r": 1,
+     "e": "„LH übernimmt dort die Leitung.“"
+    },
+    {
+     "q": "Wie werden die Sonntagsdienste verteilt?",
+     "o": [
+      "Nur Aushilfen arbeiten sonntags.",
+      "Sie werden rotierend verteilt.",
+      "Jeder arbeitet jeden Sonntag."
+     ],
+     "r": 1,
+     "e": "„… rotierend verteilt …“"
+    },
+    {
+     "q": "Was bekommt man für Sonntagsarbeit?",
+     "o": [
+      "einen freien Tag",
+      "einen Zuschlag von 50 Prozent",
+      "nichts extra"
+     ],
+     "r": 1,
+     "e": "Zuschlag von 50 Prozent."
+    },
+    {
+     "q": "Was passiert mit dem übrigen Brot?",
+     "o": [
+      "Es wird weggeworfen.",
+      "Halber Preis ab 17 Uhr, Rest an die Tafel.",
+      "Die Mitarbeiter nehmen es mit."
+     ],
+     "r": 1,
+     "e": "Beide Vorschläge angenommen."
+    },
+    {
+     "q": "Was wird über den neuen Ofen gesagt?",
+     "o": [
+      "Er ist kaputt.",
+      "Er braucht weniger Strom.",
+      "Er ist zu klein."
+     ],
+     "r": 1,
+     "e": "Stromverbrauch 20 Prozent weniger."
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-30",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Spedition",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Disposition, 11.08.",
+     "text": "Anwesend: M. Albrecht (Leitung Disposition, MA), O. Bondar (OB), C. Graf (CG), T. Ünal (TÜ, Protokoll)\nEntschuldigt: H. Busch\n\nTOP 1: Lenkzeiten\nBei einer Kontrolle wurde festgestellt, dass zwei Fahrer die Lenkzeiten überschritten haben. MA betont, dass die Touren so geplant werden müssen, dass die Pausen eingehalten werden können. OB überprüft ab sofort alle langen Touren vor der Freigabe.\n\nTOP 2: Neue Kunden\nAb September beliefern wir einen Möbelhändler in Leipzig. Dafür wird ein zusätzlicher Lkw gemietet.\n\nTOP 3: Fahrer-App\nDie neue App für Lieferscheine funktioniert gut. CG berichtet, dass ältere Fahrer noch Probleme haben. CG bietet eine Sprechstunde jeden Donnerstag von 15 bis 16 Uhr an.\n\nTOP 4: Verschiedenes\nDer Parkplatz für die Lkw wird im Oktober neu asphaltiert. In dieser Woche parken die Lkw auf dem Gelände der Nachbarfirma.\n\nNächste Besprechung: 8. September, 8 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was wurde bei der Kontrolle festgestellt?",
+     "o": [
+      "Die Lkw waren zu schwer.",
+      "Fahrer haben zu lange ohne Pause gelenkt.",
+      "Papiere fehlten."
+     ],
+     "r": 1,
+     "e": "Lenkzeiten überschritten."
+    },
+    {
+     "q": "Was macht OB jetzt?",
+     "o": [
+      "Er fährt selbst die langen Touren.",
+      "Er prüft lange Touren vor der Freigabe.",
+      "Er schult die Fahrer."
+     ],
+     "r": 1,
+     "e": "„OB überprüft … alle langen Touren …“"
+    },
+    {
+     "q": "Warum wird ein Lkw gemietet?",
+     "o": [
+      "weil einer kaputt ist",
+      "für einen neuen Kunden",
+      "für den Urlaub"
+     ],
+     "r": 1,
+     "e": "Neuer Kunde in Leipzig."
+    },
+    {
+     "q": "Wann gibt es Hilfe zur App?",
+     "o": [
+      "jeden Montag",
+      "jeden Donnerstag von 15 bis 16 Uhr",
+      "nur im September"
+     ],
+     "r": 1,
+     "e": "Sprechstunde donnerstags."
+    },
+    {
+     "q": "Wo parken die Lkw während der Bauarbeiten?",
+     "o": [
+      "auf der Straße",
+      "bei der Nachbarfirma",
+      "in Leipzig"
+     ],
+     "r": 1,
+     "e": "Auf dem Gelände der Nachbarfirma."
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-31",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Arztpraxis",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Praxisbesprechung, 05.03.",
+     "text": "Anwesend: Dr. A. Wagner (AW), K. Ziegler (KZ), N. Sidorova (NS), J. Pohl (JP, Protokoll)\nEntschuldigt: keine\n\nTOP 1: Online-Termine\nSeit Januar können Patienten Termine online buchen. Das funktioniert gut, aber viele Patienten kommen nicht und sagen nicht ab. Beschlossen: Patienten bekommen einen Tag vorher eine Erinnerung per SMS.\n\nTOP 2: Grippesaison\nDie Grippewelle ist fast vorbei. Die offene Sprechstunde am Morgen wird ab April wieder auf eine Stunde verkürzt.\n\nTOP 3: Urlaub\nDie Praxis ist vom 14. bis 25. April geschlossen. Die Vertretung übernimmt die Praxis Dr. Klein in der Hauptstraße. NS hängt einen Hinweis an die Tür und aktualisiert die Website.\n\nTOP 4: Verschiedenes\nKZ beginnt im Mai eine Weiterbildung zur Praxismanagerin, jeweils freitags.\n\nNächste Besprechung: 2. April, 12:30 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Welches Problem gibt es mit den Online-Terminen?",
+     "o": [
+      "Die Website funktioniert nicht.",
+      "Patienten kommen nicht und sagen nicht ab.",
+      "Es gibt zu wenige Termine."
+     ],
+     "r": 1,
+     "e": "Patienten kommen nicht und sagen nicht ab."
+    },
+    {
+     "q": "Was wurde beschlossen?",
+     "o": [
+      "eine Gebühr für vergessene Termine",
+      "eine Erinnerung per SMS",
+      "keine Online-Termine mehr"
+     ],
+     "r": 1,
+     "e": "SMS-Erinnerung einen Tag vorher."
+    },
+    {
+     "q": "Was ändert sich ab April an der offenen Sprechstunde?",
+     "o": [
+      "Sie fällt weg.",
+      "Sie wird kürzer.",
+      "Sie ist am Nachmittag."
+     ],
+     "r": 1,
+     "e": "„… auf eine Stunde verkürzt.“"
+    },
+    {
+     "q": "Wohin gehen Patienten während des Urlaubs?",
+     "o": [
+      "ins Krankenhaus",
+      "zur Praxis Dr. Klein",
+      "zum Notdienst"
+     ],
+     "r": 1,
+     "e": "Vertretung: Praxis Dr. Klein."
+    },
+    {
+     "q": "Was macht KZ ab Mai?",
+     "o": [
+      "Sie arbeitet nur noch freitags.",
+      "Sie macht eine Weiterbildung.",
+      "Sie verlässt die Praxis."
+     ],
+     "r": 1,
+     "e": "Weiterbildung zur Praxismanagerin."
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-32",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Hausverwaltung",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Teamsitzung Hausverwaltung, 17.10.",
+     "text": "Anwesend: S. Hartwig (Leitung, SH), A. Orlov (AO), B. Klein (BK), F. Rose (FR, Protokoll)\nEntschuldigt: G. Maas\n\nTOP 1: Heizkostenabrechnung\nDie Abrechnungen für das letzte Jahr müssen bis 31. Dezember an die Mieter gehen. AO meldet, dass bei drei Häusern die Zählerdaten noch fehlen. BK ruft die Messfirma an.\n\nTOP 2: Beschwerden Lärm\nAus der Gartenstraße 12 gab es mehrere Beschwerden über Lärm in der Nacht. SH schreibt dem Mieter einen Brief und bittet um ein Gespräch.\n\nTOP 3: Hausmeisterdienst\nDer Vertrag mit dem Hausmeisterdienst endet im März. SH holt bis Ende November drei neue Angebote ein.\n\nTOP 4: Verschiedenes\nDas Büro ist am 31. Oktober wegen eines Betriebsausflugs geschlossen. FR informiert die Mieter per E-Mail und auf der Website.\n\nNächste Besprechung: 14. November, 9 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Bis wann müssen die Heizkostenabrechnungen verschickt werden?",
+     "o": [
+      "bis Ende Oktober",
+      "bis 31. Dezember",
+      "bis März"
+     ],
+     "r": 1,
+     "e": "„… bis 31. Dezember …“"
+    },
+    {
+     "q": "Warum ruft BK die Messfirma an?",
+     "o": [
+      "Zählerdaten fehlen.",
+      "Die Heizung ist kaputt.",
+      "Die Rechnung ist zu hoch."
+     ],
+     "r": 0,
+     "e": "Zählerdaten fehlen."
+    },
+    {
+     "q": "Was macht SH wegen des Lärms?",
+     "o": [
+      "Sie kündigt dem Mieter.",
+      "Sie schreibt einen Brief und bittet um ein Gespräch.",
+      "Sie ruft die Polizei."
+     ],
+     "r": 1,
+     "e": "Brief und Bitte um ein Gespräch."
+    },
+    {
+     "q": "Wie viele Angebote für den Hausmeisterdienst holt SH ein?",
+     "o": [
+      "eins",
+      "zwei",
+      "drei"
+     ],
+     "r": 2,
+     "e": "„… drei neue Angebote …“"
+    },
+    {
+     "q": "Warum ist das Büro am 31. Oktober geschlossen?",
+     "o": [
+      "wegen eines Feiertags",
+      "wegen eines Betriebsausflugs",
+      "wegen Umbau"
+     ],
+     "r": 1,
+     "e": "„… wegen eines Betriebsausflugs …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-33",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Schule Sekretariat",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Verwaltungsbesprechung Gesamtschule, 28.08.",
+     "text": "Anwesend: U. Dietrich (Schulleitung, UD), M. Kowalski (MK), R. Hassan (RH), E. Lorenz (EL, Protokoll)\nEntschuldigt: P. Stein\n\nTOP 1: Schuljahresbeginn\nEs gibt 112 neue Schülerinnen und Schüler in Klasse 5. Die Schülerausweise werden in der zweiten Schulwoche ausgegeben. MK organisiert den Fototermin.\n\nTOP 2: Krankmeldungen\nEltern sollen Krankmeldungen ab sofort über die Schul-App schicken, nicht mehr per Telefon. RH informiert alle Eltern in einem Brief.\n\nTOP 3: Mensa\nDer Caterer erhöht den Preis für ein Mittagessen von 4,20 auf 4,60 Euro. Familien mit Bildungs- und Teilhabeleistungen zahlen weiterhin nichts.\n\nTOP 4: Verschiedenes\nDie Kopierer im Lehrerzimmer werden im September ausgetauscht.\n\nNächste Besprechung: 25. September, 13 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viele neue Schüler gibt es in Klasse 5?",
+     "o": [
+      "12",
+      "112",
+      "120"
+     ],
+     "r": 1,
+     "e": "„Es gibt 112 neue Schülerinnen und Schüler …“"
+    },
+    {
+     "q": "Wer organisiert den Fototermin?",
+     "o": [
+      "UD",
+      "MK",
+      "RH"
+     ],
+     "r": 1,
+     "e": "„MK organisiert den Fototermin.“"
+    },
+    {
+     "q": "Wie sollen Eltern ihre Kinder krankmelden?",
+     "o": [
+      "per Telefon",
+      "über die Schul-App",
+      "per Brief"
+     ],
+     "r": 1,
+     "e": "„… über die Schul-App …“"
+    },
+    {
+     "q": "Wie viel kostet das Mittagessen jetzt?",
+     "o": [
+      "4,20 Euro",
+      "4,60 Euro",
+      "nichts"
+     ],
+     "r": 1,
+     "e": "Erhöhung auf 4,60 Euro."
+    },
+    {
+     "q": "Wer bezahlt weiterhin nichts für das Essen?",
+     "o": [
+      "alle Schüler",
+      "Familien mit Bildungs- und Teilhabeleistungen",
+      "Lehrer"
+     ],
+     "r": 1,
+     "e": "Familien mit BuT-Leistungen."
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-34",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Produktion",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Schichtleiterrunde, 14.04.",
+     "text": "Anwesend: D. Berger (Produktionsleitung, DB), I. Volkov (IV), S. Kraus (SK), H. Yıldız (HY, Protokoll)\nEntschuldigt: M. Pfeiffer\n\nTOP 1: Ausschuss\nDer Anteil fehlerhafter Teile an Linie 3 ist von 2 auf 5 Prozent gestiegen. IV vermutet, dass das neue Material die Ursache ist. Beschlossen: Bis zur Klärung wird wieder das alte Material verwendet. Der Einkauf wird informiert. Verantwortlich: IV.\n\nTOP 2: Wartung\nLinie 1 wird am 26. April für eine Wartung den ganzen Tag gestoppt. Die Mitarbeitenden dieser Linie helfen an diesem Tag im Lager.\n\nTOP 3: Arbeitsschutz\nSK erinnert daran, dass an allen Maschinen Gehörschutz Pflicht ist. Bei Kontrollen wurde mehrfach festgestellt, dass er fehlt. Ab Mai gibt es bei Verstößen eine Ermahnung.\n\nTOP 4: Verschiedenes\nDie neuen Spinde in der Umkleide werden nächste Woche aufgebaut.\n\nNächste Besprechung: 12. Mai, 6:30 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was ist an Linie 3 passiert?",
+     "o": [
+      "Sie ist ausgefallen.",
+      "Es gibt mehr fehlerhafte Teile.",
+      "Sie produziert schneller."
+     ],
+     "r": 1,
+     "e": "Ausschuss von 2 auf 5 Prozent."
+    },
+    {
+     "q": "Was ist die vermutete Ursache?",
+     "o": [
+      "das neue Material",
+      "neue Mitarbeiter",
+      "eine alte Maschine"
+     ],
+     "r": 0,
+     "e": "IV vermutet das neue Material."
+    },
+    {
+     "q": "Was machen die Mitarbeitenden von Linie 1 am 26. April?",
+     "o": [
+      "Sie haben frei.",
+      "Sie helfen im Lager.",
+      "Sie machen die Wartung."
+     ],
+     "r": 1,
+     "e": "„… helfen an diesem Tag im Lager.“"
+    },
+    {
+     "q": "Was wurde bei Kontrollen festgestellt?",
+     "o": [
+      "Gehörschutz fehlte mehrfach.",
+      "Maschinen waren schmutzig.",
+      "Pausen wurden zu lang."
+     ],
+     "r": 0,
+     "e": "Gehörschutz fehlte."
+    },
+    {
+     "q": "Was passiert ab Mai bei Verstößen?",
+     "o": [
+      "eine Kündigung",
+      "eine Ermahnung",
+      "eine Geldstrafe"
+     ],
+     "r": 1,
+     "e": "„… gibt es bei Verstößen eine Ermahnung.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-35",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Marketing",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Marketing-Meeting, 02.12.",
+     "text": "Anwesend: K. Roth (Leitung, KR), A. Svoboda (AS), N. Peters (NP), V. Lindner (VL, Protokoll)\nEntschuldigt: T. Groß\n\nTOP 1: Social Media\nDie Zahl der Follower ist im Herbst um 15 Prozent gestiegen. Videos funktionieren besser als Fotos. NP produziert ab Januar jede Woche ein kurzes Video.\n\nTOP 2: Messe\nWir nehmen im März an der Fachmesse in Nürnberg teil. AS bucht bis Mitte Dezember das Hotel. Der Stand wird von einer externen Firma gebaut.\n\nTOP 3: Budget\nDas Budget für das nächste Jahr wurde um zehn Prozent gekürzt. KR schlägt vor, weniger Anzeigen in Zeitungen zu schalten. Das wird angenommen.\n\nTOP 4: Verschiedenes\nDie Weihnachtskarten für Kunden werden dieses Jahr digital verschickt.\n\nNächste Besprechung: 13. Januar, 10 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was funktioniert auf Social Media besonders gut?",
+     "o": [
+      "Fotos",
+      "Videos",
+      "lange Texte"
+     ],
+     "r": 1,
+     "e": "„Videos funktionieren besser …“"
+    },
+    {
+     "q": "Was macht NP ab Januar?",
+     "o": [
+      "jeden Tag ein Foto",
+      "jede Woche ein kurzes Video",
+      "die Messe"
+     ],
+     "r": 1,
+     "e": "Jede Woche ein Video."
+    },
+    {
+     "q": "Wer baut den Messestand?",
+     "o": [
+      "AS",
+      "eine externe Firma",
+      "das ganze Team"
+     ],
+     "r": 1,
+     "e": "„… von einer externen Firma gebaut.“"
+    },
+    {
+     "q": "Wo wird wegen des kleineren Budgets gespart?",
+     "o": [
+      "bei der Messe",
+      "bei Zeitungsanzeigen",
+      "bei Social Media"
+     ],
+     "r": 1,
+     "e": "Weniger Anzeigen in Zeitungen."
+    },
+    {
+     "q": "Wie werden die Weihnachtskarten verschickt?",
+     "o": [
+      "per Post",
+      "digital",
+      "gar nicht"
+     ],
+     "r": 1,
+     "e": "„… digital verschickt.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl4-36",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 4: Protokoll – Reinigungsfirma",
+   "anweisung": "Sie waren bei einer Besprechung nicht dabei und lesen das Protokoll. Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте протокол или отчёт. Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Protokoll Objektleiterbesprechung, 20.01.",
+     "text": "Anwesend: E. Schulte (Geschäftsführung, ES), L. Morozova (LM), A. Haas (AH), R. Dogan (RD, Protokoll)\nEntschuldigt: keine\n\nTOP 1: Neuer Großkunde\nAb Februar reinigen wir das Bürogebäude der Stadtwerke. Gereinigt wird abends von 18 bis 22 Uhr. LM leitet das Objekt und stellt ein Team von sechs Personen zusammen.\n\nTOP 2: Reinigungsmittel\nWir stellen auf umweltfreundliche Mittel um. AH organisiert eine Schulung, weil die Mittel anders dosiert werden müssen.\n\nTOP 3: Arbeitskleidung\nMehrere Beschäftigte haben sich beschwert, dass die Jacken im Winter zu dünn sind. ES bestellt warme Winterjacken für alle, die draußen arbeiten.\n\nTOP 4: Verschiedenes\nDie Löhne steigen ab 1. Januar nach dem neuen Tarifvertrag. Die Erhöhung kommt mit der Januarabrechnung.\n\nNächste Besprechung: 17. Februar, 16 Uhr"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wann wird bei den Stadtwerken gereinigt?",
+     "o": [
+      "morgens",
+      "abends von 18 bis 22 Uhr",
+      "am Wochenende"
+     ],
+     "r": 1,
+     "e": "„… abends von 18 bis 22 Uhr.“"
+    },
+    {
+     "q": "Wie viele Personen arbeiten im neuen Objekt?",
+     "o": [
+      "vier",
+      "sechs",
+      "acht"
+     ],
+     "r": 1,
+     "e": "Team von sechs Personen."
+    },
+    {
+     "q": "Warum gibt es eine Schulung?",
+     "o": [
+      "Die neuen Mittel werden anders dosiert.",
+      "Es gibt neue Maschinen.",
+      "Neue Kollegen kommen."
+     ],
+     "r": 0,
+     "e": "Andere Dosierung."
+    },
+    {
+     "q": "Wer bekommt Winterjacken?",
+     "o": [
+      "alle Beschäftigten",
+      "alle, die draußen arbeiten",
+      "nur die Objektleiter"
+     ],
+     "r": 1,
+     "e": "„… für alle, die draußen arbeiten.“"
+    },
+    {
+     "q": "Wann kommt die Lohnerhöhung aufs Konto?",
+     "o": [
+      "im Februar",
+      "mit der Januarabrechnung",
+      "im Sommer"
+     ],
+     "r": 1,
+     "e": "„… mit der Januarabrechnung.“"
+    }
+   ]
+  }
+ ]
+}
