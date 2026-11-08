@@ -1,0 +1,1620 @@
+{
+ "lesen": [
+  {
+   "id": "dtbl3-37",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Wohnung und Arbeit",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Brigitte",
+     "text": "Wenn du wegen eines neuen Jobs umziehst, kannst du die Umzugskosten in der Steuererklärung angeben. Heb alle Rechnungen auf."
+    },
+    {
+     "k": "B – Arman",
+     "text": "Manche Firmen helfen bei der Wohnungssuche, besonders in teuren Städten. Frag im Vorstellungsgespräch danach."
+    },
+    {
+     "k": "C – Tanja",
+     "text": "Ich wohne direkt neben meiner Arbeit. Das ist super, ich schlafe jeden Morgen länger."
+    },
+    {
+     "k": "D – Lukas",
+     "text": "Eine Zweitwohnung am Arbeitsort kann man unter bestimmten Bedingungen auch von der Steuer absetzen. Das nennt sich doppelte Haushaltsführung."
+    },
+    {
+     "k": "E – Rita",
+     "text": "Bei Mietverträgen brauchst du oft eine Bescheinigung vom Arbeitgeber über dein Einkommen. Die Personalabteilung stellt sie aus."
+    },
+    {
+     "k": "F – Okan",
+     "text": "Die Kaution darf höchstens drei Monatsmieten ohne Nebenkosten betragen. Du kannst sie in drei Raten zahlen."
+    },
+    {
+     "k": "G – Jelena",
+     "text": "WG-Zimmer sind am Anfang eine gute Lösung. So lernt man auch schnell Leute kennen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Wladimir: Der Vermieter will eine Gehaltsbescheinigung. Woher bekomme ich die?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: Personalabteilung."
+    },
+    {
+     "q": "2 – Anke: Der Vermieter verlangt fünf Monatsmieten Kaution. Ist das erlaubt?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 5,
+     "e": "F: Höchstens drei Monatsmieten."
+    },
+    {
+     "q": "3 – Ruben: Ich ziehe für meinen neuen Job von Leipzig nach Köln. Der Umzug ist teuer.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 0,
+     "e": "A: Umzugskosten von der Steuer absetzen."
+    },
+    {
+     "q": "4 – Galina: Ich arbeite unter der Woche in München und meine Familie lebt in Dresden. Kann ich die Wohnung in München steuerlich angeben?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 3,
+     "e": "D: Doppelte Haushaltsführung."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-38",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Digitale Arbeit",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Kerstin",
+     "text": "Für Videokonferenzen: Kamera auf Augenhöhe, Licht von vorne und ein ruhiger Hintergrund. Teste vorher Ton und Mikrofon."
+    },
+    {
+     "k": "B – Wadim",
+     "text": "Ein Passwortmanager hilft, für jedes Konto ein anderes, sicheres Passwort zu haben. Frag deine IT, welcher erlaubt ist."
+    },
+    {
+     "k": "C – Lars",
+     "text": "Ich finde Videokonferenzen anstrengender als normale Besprechungen."
+    },
+    {
+     "k": "D – Nesrin",
+     "text": "Schalte das Mikrofon aus, wenn du nicht sprichst. So hört niemand deinen Hund oder die Spülmaschine."
+    },
+    {
+     "k": "E – Bodo",
+     "text": "Die Zwei-Faktor-Anmeldung nervt am Anfang, schützt aber sehr gut. Ohne den Code auf dem Handy kommt niemand in dein Konto."
+    },
+    {
+     "k": "F – Polina",
+     "text": "Viele Programme haben gute Online-Schulungen. Bei uns kann man sie während der Arbeitszeit machen."
+    },
+    {
+     "k": "G – Henning",
+     "text": "Speichere Dateien nicht auf dem Desktop, sondern im Firmenlaufwerk. Dort werden sie jede Nacht gesichert."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Swetlana: Ich habe letzte Woche eine wichtige Datei verloren, weil mein Laptop kaputt war.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 6,
+     "e": "G: Im Firmenlaufwerk speichern."
+    },
+    {
+     "q": "2 – Matthias: Ich habe morgen meine erste Videokonferenz mit Kunden. Wie sehe ich professionell aus?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 0,
+     "e": "A: Kamera, Licht, Hintergrund."
+    },
+    {
+     "q": "3 – Darja: Ich kann mir die vielen Passwörter nicht merken.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 1,
+     "e": "B: Passwortmanager."
+    },
+    {
+     "q": "4 – Ingo: Welchen Laptop soll ich mir privat kaufen?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 7,
+     "e": "X: Keine Antwort berät beim Kauf."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-39",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Ausbildung",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Gerda",
+     "text": "Eine Ausbildung dauert meistens drei Jahre. Mit Abitur oder guten Noten kann man sie oft auf zweieinhalb Jahre verkürzen."
+    },
+    {
+     "k": "B – Rahim",
+     "text": "Auszubildende bekommen eine Vergütung. Es gibt eine gesetzliche Mindestvergütung, die jedes Jahr steigt."
+    },
+    {
+     "k": "C – Sina",
+     "text": "Ich habe meine Ausbildung mit 28 angefangen. In meiner Klasse war ich nicht die Älteste."
+    },
+    {
+     "k": "D – Jörg",
+     "text": "Wer sich die Ausbildung ohne Hilfe nicht leisten kann, kann Berufsausbildungsbeihilfe bei der Arbeitsagentur beantragen."
+    },
+    {
+     "k": "E – Larissa",
+     "text": "In der Probezeit der Ausbildung, also maximal vier Monate, kann man ohne Frist kündigen."
+    },
+    {
+     "k": "F – Mustafa",
+     "text": "Wenn du Probleme mit dem Ausbilder hast, kannst du dich an die Kammer wenden. Dort gibt es Ausbildungsberater."
+    },
+    {
+     "k": "G – Christa",
+     "text": "Die Berufsschule ist Pflicht. Die Zeit dort zählt als Arbeitszeit."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Alina: Ich wohne allein und das Geld aus der Ausbildung reicht nicht für die Miete.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 3,
+     "e": "D: Berufsausbildungsbeihilfe."
+    },
+    {
+     "q": "2 – Timo: Mein Chef sagt, ich soll nach der Berufsschule noch drei Stunden arbeiten. Muss ich?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 6,
+     "e": "G: Berufsschulzeit ist Arbeitszeit."
+    },
+    {
+     "q": "3 – Lejla: Ich habe Abitur. Muss die Ausbildung trotzdem drei Jahre dauern?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 0,
+     "e": "A: Verkürzung möglich."
+    },
+    {
+     "q": "4 – Noah: Mein Ausbilder erklärt mir nichts und lässt mich nur putzen. Wo bekomme ich Hilfe?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 5,
+     "e": "F: Ausbildungsberater der Kammer."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-40",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Rente und Vorsorge",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Dagmar",
+     "text": "Schau dir deine Renteninformation an. Die Rentenversicherung schickt sie ab 27 Jahren jedes Jahr per Post."
+    },
+    {
+     "k": "B – Ilya",
+     "text": "Auch Arbeitsjahre im Ausland können für die deutsche Rente zählen, wenn es ein Abkommen mit dem Land gibt. Lass dich beraten."
+    },
+    {
+     "k": "C – Moni",
+     "text": "Ich habe früh angefangen zu sparen. Jetzt bin ich froh darüber."
+    },
+    {
+     "k": "D – Karl",
+     "text": "Die Beratung bei der Deutschen Rentenversicherung ist kostenlos. Termine kann man online oder am Telefon machen."
+    },
+    {
+     "k": "E – Swenja",
+     "text": "Mit Kindern bekommst du für jedes Kind Erziehungszeiten auf dem Rentenkonto, auch wenn du nicht gearbeitet hast."
+    },
+    {
+     "k": "F – Bülent",
+     "text": "Einen Minijob in die Rentenversicherung einzahlen lohnt sich oft, weil die Zeiten zählen."
+    },
+    {
+     "k": "G – Waltraud",
+     "text": "Wer früher in Rente geht, bekommt meistens weniger Geld – für jeden Monat früher ein kleines Stück weniger."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Nadja: Ich war fünf Jahre zu Hause bei den Kindern. Zählt das für die Rente?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: Erziehungszeiten."
+    },
+    {
+     "q": "2 – Anatolij: Ich habe zwanzig Jahre in Polen gearbeitet. Ist das jetzt verloren?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 1,
+     "e": "B: Abkommen mit dem Land."
+    },
+    {
+     "q": "3 – Ute: Wo kann ich mich zur Rente beraten lassen, ohne zu bezahlen?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 3,
+     "e": "D: Deutsche Rentenversicherung, kostenlos."
+    },
+    {
+     "q": "4 – Gerd: Ich möchte mit 63 aufhören. Was bedeutet das für mich?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 6,
+     "e": "G: Früher in Rente = weniger Geld."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-41",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Teamarbeit",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Annika",
+     "text": "Klare Absprachen helfen: Wer macht was bis wann? Schreibt es auf, zum Beispiel in einer gemeinsamen Liste."
+    },
+    {
+     "k": "B – Oleg",
+     "text": "In unserem Team gibt es jeden Montag zehn Minuten Stand-up. Jeder sagt kurz, woran er arbeitet und wo er Hilfe braucht."
+    },
+    {
+     "k": "C – Marion",
+     "text": "Ich arbeite lieber allein. Dann kann ich mich besser konzentrieren."
+    },
+    {
+     "k": "D – Deniz",
+     "text": "Wenn ein Kollege ständig seine Aufgaben nicht macht, sprich zuerst mit ihm selbst. Erst wenn das nicht hilft, gehst du zur Teamleitung."
+    },
+    {
+     "k": "E – Luise",
+     "text": "Lob ist wichtig. Sag deinen Kollegen auch mal, wenn sie etwas gut gemacht haben."
+    },
+    {
+     "k": "F – Felix",
+     "text": "Wenn im Team mehrere Sprachen gesprochen werden, einigt euch in Besprechungen auf Deutsch. So versteht jeder alles."
+    },
+    {
+     "k": "G – Raissa",
+     "text": "Kritik sollte man nie vor allen anderen äußern, sondern unter vier Augen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Jana: Ein Kollege macht seine Aufgaben nicht und ich muss alles nacharbeiten.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 3,
+     "e": "D: Erst mit ihm sprechen, dann Teamleitung."
+    },
+    {
+     "q": "2 – Sergej: In unserem Team weiß niemand, wer welche Aufgabe hat.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 0,
+     "e": "A: Klare Absprachen aufschreiben."
+    },
+    {
+     "q": "3 – Mia: Ich möchte einer Kollegin sagen, dass ihr Bericht Fehler hat. Wie mache ich das am besten?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 6,
+     "e": "G: Unter vier Augen."
+    },
+    {
+     "q": "4 – Arthur: In unserem Team sprechen manche Russisch, manche Türkisch. Ich verstehe in Besprechungen nicht alles.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 5,
+     "e": "F: Auf Deutsch einigen."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-42",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Urlaub und Reisen",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Holger",
+     "text": "Wenn du im Urlaub krank wirst, lass dir eine Krankschreibung geben. Die Tage bekommst du als Urlaub zurück."
+    },
+    {
+     "k": "B – Ksenia",
+     "text": "Ich buche meinen Urlaub immer erst, wenn er genehmigt ist. Sonst gibt es Stress."
+    },
+    {
+     "k": "C – Florian",
+     "text": "Im Ausland brauchst du die Europäische Krankenversicherungskarte. Sie ist auf der Rückseite deiner Gesundheitskarte."
+    },
+    {
+     "k": "D – Melanie",
+     "text": "Dein Arbeitgeber darf dich im Urlaub normalerweise nicht zurückrufen. Nur in echten Notfällen."
+    },
+    {
+     "k": "E – Rinat",
+     "text": "Mein Lieblingsland ist Portugal. Das Essen ist toll und die Menschen sind freundlich."
+    },
+    {
+     "k": "F – Tina",
+     "text": "Bei Urlaub außerhalb der EU lohnt sich eine Auslandskrankenversicherung. Sie kostet nur etwa 10 bis 20 Euro im Jahr."
+    },
+    {
+     "k": "G – Wolfram",
+     "text": "Den Urlaubsantrag musst du schriftlich stellen. Erst wenn er unterschrieben ist, gilt er."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Lilia: Ich fliege nach Spanien. Was brauche ich, wenn ich dort zum Arzt muss?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 2,
+     "e": "C: Europäische Krankenversicherungskarte."
+    },
+    {
+     "q": "2 – Viktor: Meine Chefin will, dass ich im Urlaub zwei Tage früher zurückkomme. Muss ich?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 3,
+     "e": "D: Nur in echten Notfällen."
+    },
+    {
+     "q": "3 – Ali: Ich reise nach Thailand. Reicht meine normale Krankenkasse?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 5,
+     "e": "F: Auslandskrankenversicherung."
+    },
+    {
+     "q": "4 – Svenja: Kann ich meinen Urlaub mündlich beantragen?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 6,
+     "e": "G: Schriftlich, erst unterschrieben gilt er."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-43",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Arbeitslos",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Rüdiger",
+     "text": "Melde dich spätestens drei Monate vor dem Ende deines Vertrags arbeitsuchend. Wenn du es später erfährst, innerhalb von drei Tagen."
+    },
+    {
+     "k": "B – Tamara",
+     "text": "Arbeitslosengeld bekommst du, wenn du in den letzten 30 Monaten mindestens zwölf Monate versichert gearbeitet hast."
+    },
+    {
+     "k": "C – Konstantin",
+     "text": "Die Zeit der Arbeitslosigkeit war für mich schwer. Aber jetzt habe ich einen besseren Job."
+    },
+    {
+     "k": "D – Heidi",
+     "text": "Das Arbeitslosengeld beträgt etwa 60 Prozent deines letzten Nettogehalts, mit Kind 67 Prozent."
+    },
+    {
+     "k": "E – Ramazan",
+     "text": "Wenn du nach dem Arbeitslosengeld noch keinen Job hast, kannst du Bürgergeld beim Jobcenter beantragen."
+    },
+    {
+     "k": "F – Marlies",
+     "text": "Während du Arbeitslosengeld bekommst, darfst du bis zu 15 Stunden pro Woche arbeiten. Ein Teil des Verdienstes wird angerechnet."
+    },
+    {
+     "k": "G – Ewelina",
+     "text": "Die Arbeitsagentur bezahlt manchmal Weiterbildungen. Frag nach einem Bildungsgutschein."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Dmitrij: Mein Vertrag endet in vier Monaten. Wann muss ich zur Arbeitsagentur?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 0,
+     "e": "A: Drei Monate vorher arbeitsuchend melden."
+    },
+    {
+     "q": "2 – Sabrina: Wie viel Arbeitslosengeld bekomme ich? Ich habe zwei Kinder.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 3,
+     "e": "D: 67 Prozent mit Kind."
+    },
+    {
+     "q": "3 – Yusuf: Darf ich nebenbei etwas arbeiten, während ich Arbeitslosengeld bekomme?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 5,
+     "e": "F: Bis 15 Stunden pro Woche."
+    },
+    {
+     "q": "4 – Karina: Ich habe nur acht Monate gearbeitet. Bekomme ich trotzdem Arbeitslosengeld?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 1,
+     "e": "B: Mindestens zwölf Monate nötig."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-44",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Sprache im Beruf",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Edith",
+     "text": "Fachwörter lernst du am besten mit kleinen Karten. Auf die Vorderseite das Wort, auf die Rückseite einen Satz aus deiner Arbeit."
+    },
+    {
+     "k": "B – Nikolai",
+     "text": "Hör jeden Tag zehn Minuten deutsche Nachrichten in einfacher Sprache. Es gibt sie kostenlos im Internet."
+    },
+    {
+     "k": "C – Pia",
+     "text": "Meine Kollegen sprechen Dialekt. Am Anfang habe ich nichts verstanden, jetzt finde ich es lustig."
+    },
+    {
+     "k": "D – Arif",
+     "text": "Bitte deine Kollegen, dich zu korrigieren. Die meisten machen das gern, wenn man sie fragt."
+    },
+    {
+     "k": "E – Larisa",
+     "text": "Für den Beruf gibt es spezielle Prüfungen, zum Beispiel den Deutsch-Test für den Beruf. Viele Arbeitgeber akzeptieren das Zertifikat."
+    },
+    {
+     "k": "F – Benno",
+     "text": "Schreib wichtige E-Mails zuerst als Entwurf und lies sie am nächsten Morgen noch einmal. Dann findest du mehr Fehler."
+    },
+    {
+     "k": "G – Olesja",
+     "text": "Ich habe einen Tandempartner, mit dem ich jede Woche Russisch gegen Deutsch tausche."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Marina: Ich mache viele Fehler in E-Mails an Kunden.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 5,
+     "e": "F: Entwurf, am nächsten Morgen lesen."
+    },
+    {
+     "q": "2 – Tim: Ich vergesse die neuen Fachwörter immer wieder.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 0,
+     "e": "A: Lernkarten mit Sätzen aus der Arbeit."
+    },
+    {
+     "q": "3 – Aida: Ich brauche ein Zertifikat für meinen Arbeitgeber.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: Deutsch-Test für den Beruf."
+    },
+    {
+     "q": "4 – Bogdan: Meine Kollegen korrigieren mich nie, obwohl ich Fehler mache.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 3,
+     "e": "D: Bitte sie darum."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-45",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Arbeitszeit",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Ralf",
+     "text": "Mehr als zehn Stunden am Tag darf man in Deutschland normalerweise nicht arbeiten. Durchschnittlich sind acht Stunden erlaubt."
+    },
+    {
+     "k": "B – Ludmila",
+     "text": "Nach sechs Stunden Arbeit hast du Anspruch auf mindestens 30 Minuten Pause, nach neun Stunden 45 Minuten."
+    },
+    {
+     "k": "C – Moritz",
+     "text": "Ich arbeite gern früh. Um 15 Uhr habe ich Feierabend und kann noch etwas unternehmen."
+    },
+    {
+     "k": "D – Fatima",
+     "text": "An Sonn- und Feiertagen darf nur in bestimmten Branchen gearbeitet werden, zum Beispiel im Krankenhaus oder in der Gastronomie."
+    },
+    {
+     "k": "E – Jens",
+     "text": "Bei Vertrauensarbeitszeit kontrolliert niemand deine Stunden. Trotzdem gelten die Regeln für Pausen und Ruhezeiten."
+    },
+    {
+     "k": "F – Elvira",
+     "text": "Zwischen Feierabend und Arbeitsbeginn müssen mindestens elf Stunden liegen."
+    },
+    {
+     "k": "G – Paul",
+     "text": "Wenn du Teilzeit arbeitest, darfst du nicht schlechter behandelt werden als Kollegen in Vollzeit."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Nastja: Ich arbeite bis 23 Uhr und soll am nächsten Morgen um 7 Uhr wieder anfangen.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 5,
+     "e": "F: Elf Stunden Ruhezeit."
+    },
+    {
+     "q": "2 – Robert: Mein Chef sagt, ich soll ohne Pause sieben Stunden arbeiten.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 1,
+     "e": "B: Nach sechs Stunden 30 Minuten Pause."
+    },
+    {
+     "q": "3 – Ina: Ich arbeite 20 Stunden und bekomme kein Weihnachtsgeld, die Vollzeitkollegen schon.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 6,
+     "e": "G: Teilzeit darf nicht benachteiligt werden."
+    },
+    {
+     "q": "4 – Erwin: Wie viele Urlaubstage habe ich bei einer Viertagewoche?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 7,
+     "e": "X: Keine Antwort spricht über Urlaub."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-46",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Elterngeld",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Sandra",
+     "text": "Den Antrag auf Elterngeld stellst du nach der Geburt bei der Elterngeldstelle. Rückwirkend zahlen sie nur drei Monate, also nicht zu lange warten."
+    },
+    {
+     "k": "B – Mikhail",
+     "text": "Basiselterngeld gibt es bis zu 14 Monate, wenn beide Eltern Elternzeit nehmen. Ein Elternteil allein bekommt höchstens zwölf Monate."
+    },
+    {
+     "k": "C – Andrea",
+     "text": "Unsere Tochter ist jetzt zwei. Die Zeit vergeht so schnell."
+    },
+    {
+     "k": "D – Kemal",
+     "text": "Mit ElterngeldPlus bekommst du weniger Geld im Monat, aber doppelt so lange. Das ist gut, wenn du in Teilzeit arbeitest."
+    },
+    {
+     "k": "E – Inga",
+     "text": "Das Elterngeld beträgt zwischen 65 und 67 Prozent deines Nettoeinkommens, mindestens 300 Euro."
+    },
+    {
+     "k": "F – Ole",
+     "text": "Mein Mann hat zwei Monate Elternzeit genommen. Das war für die ganze Familie toll."
+    },
+    {
+     "k": "G – Gulnara",
+     "text": "Für den Antrag brauchst du die Geburtsurkunde und Nachweise über dein Einkommen der letzten zwölf Monate."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Tatiana: Mein Baby ist fünf Monate alt und ich habe noch kein Elterngeld beantragt.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 0,
+     "e": "A: Rückwirkend nur drei Monate – schnell beantragen."
+    },
+    {
+     "q": "2 – Jonas: Ich habe nicht gearbeitet. Bekomme ich trotzdem Elterngeld?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: Mindestens 300 Euro."
+    },
+    {
+     "q": "3 – Leyla: Welche Unterlagen brauche ich für den Antrag?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 6,
+     "e": "G: Geburtsurkunde und Einkommensnachweise."
+    },
+    {
+     "q": "4 – Maxim: Ich möchte nach drei Monaten wieder halbtags arbeiten. Welches Elterngeld passt?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 3,
+     "e": "D: ElterngeldPlus bei Teilzeit."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-47",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Gewerkschaft und Betriebsrat",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Harald",
+     "text": "In der Gewerkschaft zahlst du meistens ein Prozent deines Bruttogehalts als Beitrag. Dafür bekommst du kostenlose Rechtsberatung."
+    },
+    {
+     "k": "B – Swetlana",
+     "text": "Einen Betriebsrat kann man in Firmen ab fünf Beschäftigten wählen. Der Arbeitgeber darf die Wahl nicht verhindern."
+    },
+    {
+     "k": "C – Uwe",
+     "text": "Ich bin seit 30 Jahren in der Gewerkschaft. Wir haben viel erreicht."
+    },
+    {
+     "k": "D – Melis",
+     "text": "Betriebsratsmitglieder haben einen besonderen Kündigungsschutz. Man kann ihnen nur in seltenen Fällen kündigen."
+    },
+    {
+     "k": "E – Frank",
+     "text": "Vor jeder Kündigung muss der Arbeitgeber den Betriebsrat anhören. Sonst ist die Kündigung unwirksam."
+    },
+    {
+     "k": "F – Natali",
+     "text": "Ein Tarifvertrag regelt Lohn, Urlaub und Arbeitszeit für eine ganze Branche. Oft gibt es dadurch mehr Geld als ohne Vertrag."
+    },
+    {
+     "k": "G – Björn",
+     "text": "Bei einem Streik bekommen Gewerkschaftsmitglieder Streikgeld von der Gewerkschaft, weil der Arbeitgeber keinen Lohn zahlt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Olga: Meine Firma hat 12 Mitarbeiter und keinen Betriebsrat. Können wir einen gründen?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 1,
+     "e": "B: Ab fünf Beschäftigten."
+    },
+    {
+     "q": "2 – Lukas: Wenn ich streike, bekomme ich dann gar kein Geld?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 6,
+     "e": "G: Streikgeld von der Gewerkschaft."
+    },
+    {
+     "q": "3 – Elena: Meine Kündigung kam, ohne dass der Betriebsrat etwas wusste.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: Ohne Anhörung unwirksam."
+    },
+    {
+     "q": "4 – Peter: Wie viel kostet die Mitgliedschaft in der Gewerkschaft?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 0,
+     "e": "A: Etwa ein Prozent vom Brutto."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-48",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Kantine und Essen",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Bettina",
+     "text": "Ich nehme mein Essen immer von zu Hause mit. Das ist gesünder und billiger."
+    },
+    {
+     "k": "B – Kirill",
+     "text": "Viele Firmen geben Essensgutscheine oder einen Zuschuss für das Mittagessen. Das ist steuerlich günstig für beide Seiten."
+    },
+    {
+     "k": "C – Jasmin",
+     "text": "Wenn du Allergien hast, frag in der Kantine nach dem Allergenplan. Die Kantine muss angeben, was in den Gerichten ist."
+    },
+    {
+     "k": "D – Torsten",
+     "text": "In unserer Kantine gibt es jeden Tag ein veganes Gericht."
+    },
+    {
+     "k": "E – Larissa",
+     "text": "Die Mittagspause gehört nicht zur Arbeitszeit, außer es steht anders im Vertrag."
+    },
+    {
+     "k": "F – Dennis",
+     "text": "Esst nicht am Schreibtisch. Eine richtige Pause hilft dem Kopf."
+    },
+    {
+     "k": "G – Ludwig",
+     "text": "Mikrowelle und Kühlschrank im Büro sind für alle da. Bitte macht sie sauber, wenn ihr sie benutzt habt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Anastasia: Ich habe eine Nussallergie. Wie weiß ich, was ich in der Kantine essen kann?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 2,
+     "e": "C: Allergenplan."
+    },
+    {
+     "q": "2 – Michael: Wird meine Mittagspause bezahlt?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: Normalerweise keine Arbeitszeit."
+    },
+    {
+     "q": "3 – Polina: Meine Firma hat keine Kantine. Bekomme ich trotzdem Unterstützung fürs Essen?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 1,
+     "e": "B: Essensgutscheine oder Zuschuss."
+    },
+    {
+     "q": "4 – Hans: Wo kann ich in der Nähe günstig essen gehen?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 7,
+     "e": "X: Keine Antwort nennt Restaurants."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-49",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Führerschein und Auto",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Gisela",
+     "text": "Einen ausländischen Führerschein aus einem Nicht-EU-Land kannst du in Deutschland sechs Monate benutzen. Danach musst du ihn umschreiben lassen."
+    },
+    {
+     "k": "B – Rustam",
+     "text": "Für das Umschreiben brauchst du oft eine theoretische und praktische Prüfung, je nachdem, aus welchem Land du kommst."
+    },
+    {
+     "k": "C – Mareike",
+     "text": "Ich fahre kein Auto. In der Stadt brauche ich es nicht."
+    },
+    {
+     "k": "D – Ben",
+     "text": "Wenn du einen Firmenwagen auch privat nutzt, musst du monatlich ein Prozent des Listenpreises versteuern. Bei Elektroautos ist es weniger."
+    },
+    {
+     "k": "E – Yana",
+     "text": "Einen EU-Führerschein musst du nicht umschreiben. Er gilt in Deutschland unbegrenzt."
+    },
+    {
+     "k": "F – Wolfgang",
+     "text": "Der Führerschein für Lkw ist teuer, aber die Arbeitsagentur bezahlt ihn manchmal, wenn du danach als Fahrer arbeitest."
+    },
+    {
+     "k": "G – Diana",
+     "text": "Fahrschulen kosten in Deutschland oft 3.000 Euro oder mehr. Vergleiche die Preise."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Oleksandr: Ich habe einen Führerschein aus der Ukraine und lebe seit drei Monaten hier. Darf ich fahren?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 0,
+     "e": "A: Sechs Monate erlaubt, dann umschreiben."
+    },
+    {
+     "q": "2 – Sevgi: Ich möchte Lkw-Fahrerin werden, aber der Führerschein ist sehr teuer.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 5,
+     "e": "F: Arbeitsagentur bezahlt manchmal."
+    },
+    {
+     "q": "3 – Paulina: Ich komme aus Polen. Muss ich meinen Führerschein umschreiben?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: EU-Führerschein gilt unbegrenzt."
+    },
+    {
+     "q": "4 – Armin: Ich bekomme einen Dienstwagen und darf ihn auch privat fahren. Kostet mich das etwas?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 3,
+     "e": "D: Ein-Prozent-Regel."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-50",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Feiertage und Sonderurlaub",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Rosi",
+     "text": "Bei der eigenen Hochzeit gibt es oft einen Tag Sonderurlaub. Das steht im Tarifvertrag oder im Arbeitsvertrag."
+    },
+    {
+     "k": "B – Aleksej",
+     "text": "Wenn ein Feiertag auf einen Werktag fällt, bekommst du für diesen Tag normal dein Gehalt, auch wenn du nicht arbeitest."
+    },
+    {
+     "k": "C – Marion",
+     "text": "Ich liebe die Weihnachtszeit. Dann ist das Büro so schön geschmückt."
+    },
+    {
+     "k": "D – Kenan",
+     "text": "Feiertage sind in den Bundesländern verschieden. In Bayern gibt es mehr als in Berlin."
+    },
+    {
+     "k": "E – Laura",
+     "text": "Für religiöse Feiertage anderer Religionen gibt es keinen gesetzlichen Anspruch auf frei. Man kann aber Urlaub nehmen, und viele Chefs sind verständnisvoll."
+    },
+    {
+     "k": "F – Heinz",
+     "text": "Wer an einem Feiertag arbeitet, bekommt in vielen Firmen einen Zuschlag."
+    },
+    {
+     "k": "G – Svetla",
+     "text": "Beim Tod eines nahen Angehörigen gibt es oft zwei Tage Sonderurlaub."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Rania: Ich möchte am Zuckerfest frei haben. Habe ich ein Recht darauf?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: Kein gesetzlicher Anspruch, Urlaub nehmen."
+    },
+    {
+     "q": "2 – Igor: Ich heirate im Mai. Muss ich dafür Urlaub nehmen?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 0,
+     "e": "A: Oft ein Tag Sonderurlaub."
+    },
+    {
+     "q": "3 – Petra: Ich ziehe von Berlin nach München. Habe ich dann andere Feiertage?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 3,
+     "e": "D: Je nach Bundesland verschieden."
+    },
+    {
+     "q": "4 – Wiktor: Muss ich am Ostermontag arbeiten, wenn mein Chef das will?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 7,
+     "e": "X: Keine Antwort beantwortet genau das."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-51",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Probleme mit dem Chef",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Erika",
+     "text": "Bitte um ein Gespräch zu einer ruhigen Zeit und bereite dich vor. Schreib dir die wichtigsten Punkte auf."
+    },
+    {
+     "k": "B – Waldemar",
+     "text": "Wenn dein Chef dir eine Abmahnung gibt, kannst du eine Gegendarstellung schreiben. Sie kommt dann mit in deine Personalakte."
+    },
+    {
+     "k": "C – Lisa",
+     "text": "Mein Chef ist super. Er hat immer ein offenes Ohr."
+    },
+    {
+     "k": "D – Ilker",
+     "text": "Du hast das Recht, deine Personalakte anzusehen. Frag bei der Personalabteilung nach einem Termin."
+    },
+    {
+     "k": "E – Beate",
+     "text": "Dein Chef darf dir Aufgaben geben, die zu deinem Vertrag passen. Ganz andere Arbeiten musst du nicht machen."
+    },
+    {
+     "k": "F – Daniil",
+     "text": "Manchmal hilft ein Wechsel in eine andere Abteilung mehr als ein langer Streit."
+    },
+    {
+     "k": "G – Hanne",
+     "text": "Private Fragen zu Schwangerschaft oder Religion muss man dem Chef nicht beantworten."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Natalja: Ich habe eine Abmahnung bekommen, finde sie aber ungerecht.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 1,
+     "e": "B: Gegendarstellung schreiben."
+    },
+    {
+     "q": "2 – Jörg: Ich möchte wissen, was über mich in den Unterlagen der Firma steht.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 3,
+     "e": "D: Personalakte ansehen."
+    },
+    {
+     "q": "3 – Aigerim: Ich bin als Buchhalterin eingestellt, soll aber jetzt die Lagerhalle putzen.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: Nur Aufgaben passend zum Vertrag."
+    },
+    {
+     "q": "4 – Kevin: Mein Chef fragt mich, ob ich bald Kinder haben möchte.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 6,
+     "e": "G: Muss man nicht beantworten."
+    }
+   ]
+  },
+  {
+   "id": "dtbl3-52",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 3: Forum – Gesund essen bei Schichtarbeit",
+   "anweisung": "Sie lesen in einem Forum Fragen (1–4) und Antworten (A–G). Welche Antwort passt zu welcher Frage? Wenn keine Antwort passt, wählen Sie X.",
+   "ru": "Прочитайте вопросы (1–4) и ответы (A–G) на форуме. Какой ответ подходит? Если ни один не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "A – Gaby",
+     "text": "Plane deine Mahlzeiten wie an normalen Tagen: drei Hauptmahlzeiten, nur zu anderen Zeiten."
+    },
+    {
+     "k": "B – Arsen",
+     "text": "Kaffee hilft in der Nacht, aber trink ab vier Uhr morgens keinen mehr, sonst schläfst du am Tag schlecht."
+    },
+    {
+     "k": "C – Doris",
+     "text": "Ich koche am Wochenende vor und friere Portionen ein. So habe ich immer etwas Gesundes."
+    },
+    {
+     "k": "D – Mischa",
+     "text": "Ich arbeite seit fünf Jahren im Schichtdienst und habe mich daran gewöhnt."
+    },
+    {
+     "k": "E – Nora",
+     "text": "Nüsse, Obst und Gemüsesticks sind gute Snacks für die Pause. Schokolade macht nur kurz wach."
+    },
+    {
+     "k": "F – Rainer",
+     "text": "Viel Wasser trinken! Wer zu wenig trinkt, wird schneller müde und bekommt Kopfschmerzen."
+    },
+    {
+     "k": "G – Tamila",
+     "text": "Nach der Nachtschicht iss nur eine Kleinigkeit, bevor du schlafen gehst."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "1 – Wiktoria: In der Nachtschicht trinke ich viel Kaffee, und danach kann ich nicht schlafen.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 1,
+     "e": "B: Ab vier Uhr keinen Kaffee mehr."
+    },
+    {
+     "q": "2 – Ulrich: Ich habe nach der Arbeit keine Zeit zum Kochen.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 2,
+     "e": "C: Am Wochenende vorkochen."
+    },
+    {
+     "q": "3 – Sabina: Ich bekomme oft Kopfschmerzen in der Schicht.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 5,
+     "e": "F: Mehr Wasser trinken."
+    },
+    {
+     "q": "4 – Lena: Was ist ein guter Snack für die Pause?",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "X"
+     ],
+     "r": 4,
+     "e": "E: Nüsse, Obst, Gemüse."
+    }
+   ]
+  }
+ ]
+}
