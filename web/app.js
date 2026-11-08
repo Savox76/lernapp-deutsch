@@ -1281,6 +1281,13 @@ VIEWS.pruefung = function () {
   if (SIMCFG) { const sg = document.createElement("button"); sg.className = "btn"; sg.id = "simGo"; const run = P.sim && !P.sim.done;
     sg.innerHTML = run ? "📝 Prüfungssimulation fortsetzen ▶" : "📝 Prüfungssimulation – ganze Prüfung wie am echten Tag";
     const ex = $("#exSeg"); ex.parentNode.insertBefore(sg, ex.nextSibling); sg.onclick = () => go("sim"); }
+  /* Lernmodus (ohne Bewertung) oder Prüfungsmodus – gilt für alle einzelnen Aufgaben */
+  { const lm = !!SET.lern; const box = document.createElement("div"); box.className = "card";
+    box.innerHTML = `<h3 style="margin:0">So übst du die einzelnen Aufgaben</h3><div class="seg" id="ovMode"><button data-mode="lern" aria-pressed="${lm}">🎓 Lernmodus – ohne Bewertung</button><button data-mode="pr" aria-pressed="${!lm}">📝 Prüfungsmodus – mit Zeit und Bewertung</button></div>
+      <p class="hint small">${lm ? "Lernmodus: so oft hören, wie du willst, Text anzeigen, Wörter markieren. Nichts wird bewertet." : "Prüfungsmodus: Hörtexte nur 2×, Zeit läuft, die Antworten zählen in der Statistik."} <span class="ru">${lm ? "Режим учёбы: без оценки." : "Режим экзамена: с оценкой."}</span></p>`;
+    const h = [...app.querySelectorAll("h2")].find(x => x.textContent === "Einzelne Aufgaben üben");
+    if (h) h.after(box); else app.appendChild(box);
+    box.querySelectorAll("#ovMode button").forEach(b => b.onclick = () => { SET.lern = b.dataset.mode === "lern"; saveSET(); render(); }); }
   if ($("#zSave")) $("#zSave").onclick = () => { SET.dtz = { hl: $("#zhl").value, s: $("#zs").value, sp: $("#zsp").value }; saveSET(); render(); };
   if ($("#dSave")) $("#dSave").onclick = () => { SET.dtb = { l: $("#dl").value.replace(",", "."), h: $("#dh").value.replace(",", "."), s: $("#ds").value.replace(",", "."), sp: $("#dsp").value.replace(",", ".") }; saveSET(); render(); };
   app.querySelectorAll("[data-pt]").forEach(b => b.onclick = () => go("prliste", { typ: b.dataset.pt }));
