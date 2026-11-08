@@ -1,0 +1,740 @@
+{
+ "lesen": [
+  {
+   "id": "dtbl2-41",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln für den Pausenraum",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Pausenraum – bitte beachten",
+     "text": "Der Pausenraum ist für alle da. Bitte räumen Sie nach dem Essen Ihren Platz auf und stellen Sie Geschirr in die Spülmaschine. Der Kühlschrank wird jeden Freitag um 14 Uhr geleert. Lebensmittel bitte mit Namen beschriften. Rauchen ist im ganzen Gebäude verboten, auch im Pausenraum. Der Raucherbereich befindet sich im Hof neben dem Fahrradständer. Die Kaffeemaschine wird von der Firma bezahlt, Milch und Zucker bringt jeder selbst mit."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Der Kaffee ist kostenlos.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0,
+     "e": "Richtig: „Die Kaffeemaschine wird von der Firma bezahlt.“"
+    },
+    {
+     "q": "Was passiert am Freitag?",
+     "o": [
+      "Der Kühlschrank wird geleert.",
+      "Es gibt Kuchen.",
+      "Der Pausenraum ist geschlossen."
+     ],
+     "r": 0,
+     "e": "„Der Kühlschrank wird jeden Freitag um 14 Uhr geleert.“"
+    },
+    {
+     "q": "Wo darf man rauchen?",
+     "o": [
+      "im Pausenraum",
+      "im Hof neben dem Fahrradständer",
+      "nirgends auf dem Gelände"
+     ],
+     "r": 1,
+     "e": "„Der Raucherbereich befindet sich im Hof …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-42",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Neue Arbeitskleidung",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Neue Arbeitskleidung ab März",
+     "text": "Ab dem 1. März tragen alle Beschäftigten in der Produktion neue Arbeitskleidung in Dunkelblau. Jede Person bekommt drei Hosen, drei Jacken und ein Paar Sicherheitsschuhe. Die Kleidung wird in der Woche vom 20. bis 24. Februar in der Kleiderkammer ausgegeben, jeweils von 7 bis 9 Uhr. Bitte probieren Sie die Größen vor Ort an. Die alte Kleidung geben Sie bis Ende März zurück. Die Reinigung übernimmt weiterhin eine Wäscherei."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die alte Kleidung darf man behalten.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: „Die alte Kleidung geben Sie bis Ende März zurück.“"
+    },
+    {
+     "q": "Wann bekommt man die neue Kleidung?",
+     "o": [
+      "ab 1. März",
+      "vom 20. bis 24. Februar",
+      "Ende März"
+     ],
+     "r": 1,
+     "e": "Ausgabe vom 20. bis 24. Februar."
+    },
+    {
+     "q": "Wer wäscht die Kleidung?",
+     "o": [
+      "jeder selbst",
+      "eine Wäscherei",
+      "die Kleiderkammer"
+     ],
+     "r": 1,
+     "e": "„Die Reinigung übernimmt weiterhin eine Wäscherei.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-43",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information zum Betriebsrat",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Wahl des Betriebsrats",
+     "text": "Im April wird ein neuer Betriebsrat gewählt. Wählen dürfen alle Beschäftigten ab 16 Jahren, auch Auszubildende und Teilzeitkräfte. Wer selbst kandidieren möchte, muss mindestens sechs Monate im Betrieb sein und braucht die Unterschriften von 20 Kolleginnen oder Kollegen. Die Liste der Kandidaten hängt ab dem 1. April am Schwarzen Brett aus. Gewählt wird am 24. April von 6 bis 18 Uhr in der Kantine. Wer an diesem Tag nicht da ist, kann per Brief wählen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Auszubildende dürfen nicht wählen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Wählen dürfen alle ab 16, „auch Auszubildende“."
+    },
+    {
+     "q": "Was braucht man, um zu kandidieren?",
+     "o": [
+      "20 Unterschriften und sechs Monate im Betrieb",
+      "eine Ausbildung",
+      "die Erlaubnis der Geschäftsleitung"
+     ],
+     "r": 0,
+     "e": "Sechs Monate im Betrieb und 20 Unterschriften."
+    },
+    {
+     "q": "Wer am Wahltag Urlaub hat, …",
+     "o": [
+      "kann nicht wählen.",
+      "kann per Brief wählen.",
+      "wählt am nächsten Tag."
+     ],
+     "r": 1,
+     "e": "„… kann per Brief wählen.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-44",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln im Kundenservice",
+   "anweisung": "Sie arbeiten im Kundenservice und lesen eine Anweisung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Reklamationen bearbeiten",
+     "text": "Jede Reklamation wird am selben Tag im System erfasst. Bitte notieren Sie Kundennummer, Produkt, Problem und den Wunsch des Kunden. Bei Beträgen bis 50 Euro dürfen Sie selbst entscheiden und das Geld erstatten. Bei höheren Beträgen entscheidet die Teamleitung innerhalb von zwei Tagen. Der Kunde bekommt immer innerhalb von 24 Stunden eine erste Antwort, auch wenn die Entscheidung noch nicht feststeht. Beschwerden über Mitarbeiter leiten Sie direkt an die Abteilungsleitung weiter."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Bei einer Reklamation über 30 Euro muss man die Teamleitung fragen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Bis 50 Euro darf man selbst entscheiden."
+    },
+    {
+     "q": "Innerhalb von 24 Stunden …",
+     "o": [
+      "muss das Geld zurück sein.",
+      "bekommt der Kunde eine erste Antwort.",
+      "entscheidet die Teamleitung."
+     ],
+     "r": 1,
+     "e": "„… immer innerhalb von 24 Stunden eine erste Antwort …“"
+    },
+    {
+     "q": "Eine Beschwerde über eine Kollegin …",
+     "o": [
+      "bearbeitet man selbst.",
+      "geht an die Abteilungsleitung.",
+      "ignoriert man."
+     ],
+     "r": 1,
+     "e": "„… direkt an die Abteilungsleitung weiter.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-45",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Willkommensmappe – Zeiterfassung",
+   "anweisung": "Sie lesen die Willkommensmappe Ihrer neuen Firma. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "So erfassen Sie Ihre Arbeitszeit",
+     "text": "Ihre Arbeitszeit erfassen Sie mit der App „ZeitPlus“ auf Ihrem Diensthandy. Bitte buchen Sie Beginn, Pausen und Ende. Wer im Außendienst arbeitet, bucht die Zeit beim ersten Kunden. Fehlbuchungen korrigieren Sie selbst in der App bis zum Ende der Woche. Danach kann nur noch die Personalabteilung Änderungen machen. Am Monatsende prüft Ihre Teamleitung die Zeiten und gibt sie frei."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wer im Außendienst arbeitet, bucht die Zeit im Büro.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Man bucht „beim ersten Kunden“."
+    },
+    {
+     "q": "Einen Fehler aus der letzten Woche …",
+     "o": [
+      "korrigiert man selbst.",
+      "kann nur noch die Personalabteilung ändern.",
+      "bleibt im System."
+     ],
+     "r": 1,
+     "e": "Nach Ende der Woche ändert nur die Personalabteilung."
+    },
+    {
+     "q": "Wer gibt die Zeiten am Monatsende frei?",
+     "o": [
+      "die Teamleitung",
+      "die Personalabteilung",
+      "jeder selbst"
+     ],
+     "r": 0,
+     "e": "„… prüft Ihre Teamleitung die Zeiten und gibt sie frei.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-46",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Grippeimpfung",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Grippeimpfung im Betrieb",
+     "text": "Auch in diesem Jahr bietet unser Betriebsarzt eine kostenlose Grippeimpfung an. Die Impfung findet am 14. und 15. Oktober von 8 bis 12 Uhr im Raum 012 statt. Eine Anmeldung ist nicht nötig. Bringen Sie bitte Ihren Impfpass mit, falls vorhanden. Die Zeit für die Impfung zählt als Arbeitszeit. Wer an diesen Tagen krank ist oder Urlaub hat, kann sich bei der Hausärztin impfen lassen – die Krankenkasse bezahlt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Für die Impfung muss man sich vorher anmelden.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: „Eine Anmeldung ist nicht nötig.“"
+    },
+    {
+     "q": "Die Zeit für die Impfung …",
+     "o": [
+      "muss man nacharbeiten.",
+      "zählt als Arbeitszeit.",
+      "nimmt man als Urlaub."
+     ],
+     "r": 1,
+     "e": "„… zählt als Arbeitszeit.“"
+    },
+    {
+     "q": "Wer am 14. und 15. Oktober Urlaub hat, …",
+     "o": [
+      "bekommt keine Impfung.",
+      "kann zur Hausärztin gehen.",
+      "muss im November kommen."
+     ],
+     "r": 1,
+     "e": "„… kann sich bei der Hausärztin impfen lassen.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-47",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – Diensthandy",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Nutzung der Diensthandys",
+     "text": "Diensthandys dürfen grundsätzlich nur für die Arbeit genutzt werden. Kurze private Gespräche in Notfällen sind erlaubt. Installieren Sie keine privaten Apps. Bei Verlust oder Diebstahl melden Sie dies sofort der IT unter der Nummer 444, damit das Gerät gesperrt werden kann. Im Ausland ist die Nutzung nur nach Absprache mit der Teamleitung erlaubt, weil hohe Kosten entstehen können. Wenn Sie die Firma verlassen, geben Sie das Handy mit Ladegerät zurück."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Private Apps darf man installieren.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: „Installieren Sie keine privaten Apps.“"
+    },
+    {
+     "q": "Wenn das Handy gestohlen wird, …",
+     "o": [
+      "kauft man ein neues.",
+      "ruft man sofort die IT an.",
+      "wartet man bis zum nächsten Tag."
+     ],
+     "r": 1,
+     "e": "„… melden Sie dies sofort der IT …“"
+    },
+    {
+     "q": "Im Ausland darf man das Handy nutzen, …",
+     "o": [
+      "immer.",
+      "nach Absprache mit der Teamleitung.",
+      "nur für SMS."
+     ],
+     "r": 1,
+     "e": "„… nur nach Absprache mit der Teamleitung …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-48",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Sommerfest",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Einladung zum Sommerfest",
+     "text": "Am Samstag, 28. Juni, feiern wir ab 14 Uhr unser Sommerfest auf dem Firmengelände. Familien sind herzlich willkommen. Für Kinder gibt es eine Hüpfburg und Kinderschminken. Essen und Getränke sind kostenlos. Wer möchte, kann einen Salat oder Kuchen für das Buffet mitbringen – bitte tragen Sie sich dafür in die Liste in der Kantine ein. Wir suchen außerdem Helfer für den Aufbau am Freitagnachmittag. Die Zeit wird als Arbeitszeit angerechnet."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Man muss etwas zu essen mitbringen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Es ist freiwillig („Wer möchte …“)."
+    },
+    {
+     "q": "Was gibt es für Kinder?",
+     "o": [
+      "eine Hüpfburg und Kinderschminken",
+      "einen Zauberer",
+      "einen Fußballplatz"
+     ],
+     "r": 0,
+     "e": "„… eine Hüpfburg und Kinderschminken.“"
+    },
+    {
+     "q": "Wer beim Aufbau hilft, …",
+     "o": [
+      "bekommt einen Gutschein.",
+      "bekommt die Zeit als Arbeitszeit angerechnet.",
+      "hat am Montag frei."
+     ],
+     "r": 1,
+     "e": "„Die Zeit wird als Arbeitszeit angerechnet.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-49",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Wareneingang Apotheke",
+   "anweisung": "Sie arbeiten in einer Apotheke und lesen eine Anweisung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Wareneingang",
+     "text": "Die Lieferungen des Großhändlers kommen zweimal täglich, um 9 und um 15 Uhr. Kontrollieren Sie bei jeder Lieferung, ob alle Artikel auf dem Lieferschein vorhanden sind. Kühlpflichtige Medikamente erkennen Sie am blauen Aufkleber. Sie müssen sofort in den Kühlschrank. Betäubungsmittel werden nur von der Apothekerin angenommen und im Tresor gelagert. Fehlende Artikel melden Sie noch am selben Tag dem Großhändler."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Betäubungsmittel darf jede Mitarbeiterin annehmen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Nur die Apothekerin nimmt sie an."
+    },
+    {
+     "q": "Woran erkennt man Medikamente, die kalt bleiben müssen?",
+     "o": [
+      "am roten Aufkleber",
+      "am blauen Aufkleber",
+      "an der Verpackung"
+     ],
+     "r": 1,
+     "e": "„… am blauen Aufkleber.“"
+    },
+    {
+     "q": "Wenn ein Artikel fehlt, …",
+     "o": [
+      "meldet man es am selben Tag dem Großhändler.",
+      "bestellt man ihn am nächsten Tag neu.",
+      "sagt man es dem Kunden."
+     ],
+     "r": 0,
+     "e": "„Fehlende Artikel melden Sie noch am selben Tag …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-50",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Parkhaus Krankenhaus",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Parken für Mitarbeitende",
+     "text": "Beschäftigte des Klinikums parken im Parkhaus P3. Die Parkkarte kostet 25 Euro im Monat und wird direkt vom Gehalt abgezogen. Wer im Nachtdienst arbeitet, darf zwischen 20 und 7 Uhr auch auf dem Besucherparkplatz vor dem Haupteingang parken. Für Fahrräder gibt es abschließbare Boxen, die man für 5 Euro im Monat mieten kann. Anträge für Parkkarte und Fahrradbox gibt es in der Personalabteilung."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die Parkkarte ist für Beschäftigte kostenlos.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Sie kostet 25 Euro im Monat."
+    },
+    {
+     "q": "Wer im Nachtdienst arbeitet, …",
+     "o": [
+      "parkt kostenlos in P3.",
+      "darf nachts auf dem Besucherparkplatz parken.",
+      "bekommt einen Taxigutschein."
+     ],
+     "r": 1,
+     "e": "„… zwischen 20 und 7 Uhr auch auf dem Besucherparkplatz …“"
+    },
+    {
+     "q": "Eine Fahrradbox …",
+     "o": [
+      "kostet 5 Euro im Monat.",
+      "ist kostenlos.",
+      "gibt es nur für Ärzte."
+     ],
+     "r": 0,
+     "e": "„… für 5 Euro im Monat mieten …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-51",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – Arbeit an der Kasse",
+   "anweisung": "Sie arbeiten an der Kasse und lesen eine Anweisung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Kassenregeln",
+     "text": "Bei Beträgen über 200 Euro in bar prüfen Sie die Geldscheine mit dem Prüfgerät. Gutscheine dürfen nur bis zum aufgedruckten Datum angenommen werden. Wenn ein Kunde ein Produkt zurückgeben möchte, brauchen Sie den Kassenbon und die Unterschrift der Schichtleitung. Verlassen Sie die Kasse nie, ohne sie abzuschließen. Bei einem Überfall: Ruhe bewahren, dem Täter das Geld geben und nicht den Helden spielen. Danach sofort die Polizei rufen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Für eine Rückgabe braucht man den Kassenbon.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 0,
+     "e": "Richtig: „… brauchen Sie den Kassenbon und die Unterschrift der Schichtleitung.“"
+    },
+    {
+     "q": "Wann prüft man Geldscheine mit dem Gerät?",
+     "o": [
+      "immer",
+      "bei Beträgen über 200 Euro in bar",
+      "nur bei 500-Euro-Scheinen"
+     ],
+     "r": 1,
+     "e": "„Bei Beträgen über 200 Euro in bar …“"
+    },
+    {
+     "q": "Bei einem Überfall soll man …",
+     "o": [
+      "den Täter festhalten.",
+      "das Geld geben und ruhig bleiben.",
+      "die Kasse abschließen."
+     ],
+     "r": 1,
+     "e": "„Ruhe bewahren, dem Täter das Geld geben …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-52",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Zuschuss zur Kinderbetreuung",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Zuschuss für Kita und Hort",
+     "text": "Unser Unternehmen unterstützt berufstätige Eltern: Für jedes Kind, das eine Kita oder einen Hort besucht, zahlen wir einen monatlichen Zuschuss von bis zu 100 Euro. Der Zuschuss ist steuerfrei und wird mit dem Gehalt überwiesen. Sie bekommen ihn, bis das Kind in die Schule kommt. Für Hortkinder gilt der Zuschuss bis zum Ende der vierten Klasse. Reichen Sie einmal im Jahr die Rechnung der Kita in der Personalabteilung ein."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Der Zuschuss muss versteuert werden.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Er ist steuerfrei."
+    },
+    {
+     "q": "Für Kinder im Hort zahlt die Firma …",
+     "o": [
+      "bis zur vierten Klasse.",
+      "nur bis zur Einschulung.",
+      "bis zum 14. Geburtstag."
+     ],
+     "r": 0,
+     "e": "„… bis zum Ende der vierten Klasse.“"
+    },
+    {
+     "q": "Was muss man einmal im Jahr tun?",
+     "o": [
+      "die Rechnung der Kita abgeben",
+      "einen neuen Antrag stellen",
+      "das Kind vorstellen"
+     ],
+     "r": 0,
+     "e": "„Reichen Sie einmal im Jahr die Rechnung … ein.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-53",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Anweisung – Medikamente stellen",
+   "anweisung": "Sie arbeiten im Pflegeheim und lesen eine Anweisung. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Medikamente richtig vorbereiten",
+     "text": "Die Medikamente für die Bewohner werden einmal pro Woche für sieben Tage gestellt. Dafür ist nur Fachpersonal zuständig. Pflegehelferinnen dürfen die vorbereiteten Medikamente verteilen, aber nicht selbst stellen. Prüfen Sie vor jeder Gabe Name, Medikament, Dosis und Uhrzeit. Wenn ein Bewohner ein Medikament ablehnt, dokumentieren Sie das und informieren Sie die Schichtleitung. Zwingen Sie niemanden, ein Medikament zu nehmen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Pflegehelferinnen dürfen Medikamente stellen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Sie dürfen sie nur verteilen."
+    },
+    {
+     "q": "Wie oft werden die Medikamente gestellt?",
+     "o": [
+      "jeden Tag",
+      "einmal pro Woche",
+      "einmal im Monat"
+     ],
+     "r": 1,
+     "e": "„… einmal pro Woche für sieben Tage …“"
+    },
+    {
+     "q": "Wenn ein Bewohner eine Tablette nicht nehmen will, …",
+     "o": [
+      "gibt man sie ihm im Essen.",
+      "dokumentiert man es und informiert die Schichtleitung.",
+      "ruft man die Familie an."
+     ],
+     "r": 1,
+     "e": "„… dokumentieren Sie das und informieren Sie die Schichtleitung.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-54",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Laptop-Ausgabe",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Neue Laptops für alle",
+     "text": "In den nächsten Wochen bekommen alle Beschäftigten im Büro einen neuen Laptop. Ihren Termin für den Austausch erhalten Sie per E-Mail. Bitte speichern Sie vorher alle wichtigen Dateien auf dem Firmenlaufwerk, denn die alten Geräte werden vollständig gelöscht. Der Austausch dauert etwa eine Stunde. In dieser Zeit können Sie nicht arbeiten. Wer im Homeoffice ist, bringt den alten Laptop an seinem Termin ins Büro."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Die Daten auf dem alten Laptop werden automatisch übertragen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Die alten Geräte werden gelöscht – man muss selbst speichern."
+    },
+    {
+     "q": "Woher weiß man den Termin?",
+     "o": [
+      "aus dem Intranet",
+      "per E-Mail",
+      "von der Teamleitung"
+     ],
+     "r": 1,
+     "e": "„Ihren Termin … erhalten Sie per E-Mail.“"
+    },
+    {
+     "q": "Wer im Homeoffice arbeitet, …",
+     "o": [
+      "bekommt den Laptop per Post.",
+      "bringt den alten Laptop ins Büro.",
+      "muss nicht tauschen."
+     ],
+     "r": 1,
+     "e": "„… bringt den alten Laptop an seinem Termin ins Büro.“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-55",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Regeln – Lieferverkehr",
+   "anweisung": "Sie arbeiten an der Warenannahme und lesen die Regeln. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Regeln für Lieferanten",
+     "text": "Lieferanten melden sich bei Ankunft am Pförtner und bekommen eine Rampennummer. Auf dem Gelände gilt Tempo 10. Fahrer dürfen die Halle nur mit Warnweste und Sicherheitsschuhen betreten. Das Abladen übernimmt unser Personal mit Staplern; Fahrer dürfen unsere Stapler nicht benutzen. Wartezeiten von mehr als 30 Minuten werden notiert. Lieferungen nach 15 Uhr werden nur nach vorheriger Anmeldung angenommen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Fahrer dürfen beim Abladen die Stapler der Firma benutzen.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Fahrer dürfen die Stapler nicht benutzen."
+    },
+    {
+     "q": "Wo melden sich Lieferanten zuerst?",
+     "o": [
+      "an der Rampe",
+      "beim Pförtner",
+      "im Büro"
+     ],
+     "r": 1,
+     "e": "„… melden sich bei Ankunft am Pförtner …“"
+    },
+    {
+     "q": "Eine Lieferung um 16 Uhr …",
+     "o": [
+      "wird immer angenommen.",
+      "wird nur nach Anmeldung angenommen.",
+      "wird nie angenommen."
+     ],
+     "r": 1,
+     "e": "„… nach 15 Uhr … nur nach vorheriger Anmeldung …“"
+    }
+   ]
+  },
+  {
+   "id": "dtbl2-56",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 2: Information – Jubiläum",
+   "anweisung": "Sie lesen eine Information für Beschäftigte. Ist die Aussage richtig oder falsch? Welche Antwort (a, b oder c) passt?",
+   "ru": "Прочитайте текст. Утверждение верно или неверно? Какой ответ (a, b или c) подходит?",
+   "texte": [
+    {
+     "k": "Ehrung langjähriger Mitarbeiter",
+     "text": "Wer 10, 25 oder 40 Jahre bei uns arbeitet, wird bei unserer Jubiläumsfeier im Dezember geehrt. Zum 10-jährigen Jubiläum gibt es einen zusätzlichen Urlaubstag, zum 25-jährigen zwei Tage und eine Prämie von 500 Euro. Zum 40-jährigen Jubiläum erhalten Sie drei Tage und 1.000 Euro. Die Prämie wird mit dem Dezembergehalt ausgezahlt. Die Einladung zur Feier kommt im November per Post."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Zum 10-jährigen Jubiläum gibt es eine Prämie.",
+     "o": [
+      "richtig",
+      "falsch"
+     ],
+     "r": 1,
+     "e": "Falsch: Es gibt nur einen zusätzlichen Urlaubstag."
+    },
+    {
+     "q": "Was bekommt man nach 25 Jahren?",
+     "o": [
+      "einen Tag Urlaub",
+      "zwei Tage Urlaub und 500 Euro",
+      "drei Tage und 1.000 Euro"
+     ],
+     "r": 1,
+     "e": "Zwei Tage und 500 Euro."
+    },
+    {
+     "q": "Wann wird die Prämie bezahlt?",
+     "o": [
+      "mit dem Dezembergehalt",
+      "bei der Feier in bar",
+      "im Januar"
+     ],
+     "r": 0,
+     "e": "„… mit dem Dezembergehalt ausgezahlt.“"
+    }
+   ]
+  }
+ ]
+}
