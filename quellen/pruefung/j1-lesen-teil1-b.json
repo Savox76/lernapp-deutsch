@@ -1,0 +1,1924 @@
+{
+ "lesen": [
+  {
+   "id": "dtbl1-37",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Landwirtschaft und Gartenbau",
+   "anweisung": "Sie lesen in einer Fachzeitschrift für grüne Berufe kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Erntehelfer gesucht. Im Sommer suchen Obstbauern Helfer für die Ernte. Unterkunft wird gestellt."
+    },
+    {
+     "k": "b",
+     "text": "Gärtner werden. Die Ausbildung dauert drei Jahre, Schwerpunkte sind zum Beispiel Zierpflanzen oder Gemüse."
+    },
+    {
+     "k": "c",
+     "text": "Sonnenschutz bei der Feldarbeit. Langärmlige Kleidung und Hut schützen vor Hautkrebs."
+    },
+    {
+     "k": "d",
+     "text": "Traktorführerschein. Für große Traktoren braucht man den Führerschein Klasse T."
+    },
+    {
+     "k": "e",
+     "text": "Bio-Landwirtschaft. Immer mehr Betriebe stellen um. Ein Kurs erklärt die wichtigsten Regeln."
+    },
+    {
+     "k": "f",
+     "text": "Zecken im Wald. Nach der Arbeit im Grünen sollte man den Körper absuchen und Zecken schnell entfernen."
+    },
+    {
+     "k": "g",
+     "text": "Pflanzenschutzmittel. Wer sie benutzt, braucht einen Sachkundenachweis."
+    },
+    {
+     "k": "h",
+     "text": "Hofladen eröffnen. Viele Bauern verkaufen direkt – das bringt mehr Geld als der Großhandel."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ein Landwirt möchte seine Kartoffeln selbst an Kunden verkaufen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 7,
+     "e": "h: Hofladen eröffnen."
+    },
+    {
+     "q": "Tomasz arbeitet im Wald und hat am Abend ein kleines schwarzes Tier auf der Haut gefunden.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Zecken entfernen."
+    },
+    {
+     "q": "Swetlana möchte im Sommer bei der Apfelernte helfen und braucht eine Wohnung.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 0,
+     "e": "a: Erntehelfer mit Unterkunft."
+    },
+    {
+     "q": "Herr Kaya soll auf dem Hof einen großen Traktor fahren.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Führerschein Klasse T."
+    },
+    {
+     "q": "Ein Gartenbaubetrieb will Unkraut mit Chemie bekämpfen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Sachkundenachweis für Pflanzenschutzmittel."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-38",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Sicherheit und Bewachung",
+   "anweisung": "Sie lesen in einem Branchenmagazin kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Sachkundeprüfung. Wer im Sicherheitsdienst arbeiten will, muss bei der IHK eine Prüfung ablegen."
+    },
+    {
+     "k": "b",
+     "text": "Nachtwachen. Kurze Rundgänge und viel Licht helfen gegen Müdigkeit."
+    },
+    {
+     "k": "c",
+     "text": "Deeskalation. Ruhig sprechen und Abstand halten – so beruhigt man aufgeregte Personen."
+    },
+    {
+     "k": "d",
+     "text": "Erste Hilfe für Sicherheitskräfte. Ein Kurs alle zwei Jahre ist in vielen Firmen Pflicht."
+    },
+    {
+     "k": "e",
+     "text": "Arbeit am Flughafen. Für die Kontrolle von Passagieren braucht man eine besondere Ausbildung."
+    },
+    {
+     "k": "f",
+     "text": "Veranstaltungsschutz. Bei Konzerten werden viele Aushilfen gesucht, oft nur für einen Abend."
+    },
+    {
+     "k": "g",
+     "text": "Kameras richtig nutzen. Videoaufnahmen dürfen nur für einen bestimmten Zweck gespeichert werden."
+    },
+    {
+     "k": "h",
+     "text": "Funkgeräte. Kurze, klare Sätze sind beim Funken besonders wichtig."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Herr Ibrahim möchte als Wachmann arbeiten, hat aber noch keine Prüfung gemacht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 0,
+     "e": "a: Sachkundeprüfung bei der IHK."
+    },
+    {
+     "q": "Ein Student sucht einen Job nur für einzelne Abende.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Veranstaltungsschutz bei Konzerten."
+    },
+    {
+     "q": "Olga arbeitet nachts im Wachdienst und wird gegen drei Uhr sehr müde.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Nachtwachen – Rundgänge und Licht."
+    },
+    {
+     "q": "Herr Lange möchte Passagiere am Flughafen kontrollieren.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Besondere Ausbildung für den Flughafen."
+    },
+    {
+     "q": "Ein betrunkener Gast schreit vor dem Eingang. Der Sicherheitsmann weiß nicht, wie er reagieren soll.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Deeskalation."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-39",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Berufe im Gesundheitswesen",
+   "anweisung": "Sie lesen in dem Karriereteil einer Zeitung kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Medizinische Fachangestellte. Sie arbeiten an der Anmeldung, nehmen Blut ab und organisieren die Praxis."
+    },
+    {
+     "k": "b",
+     "text": "Notfallsanitäter. Die Ausbildung dauert drei Jahre. Man arbeitet im Schichtdienst auf dem Rettungswagen."
+    },
+    {
+     "k": "c",
+     "text": "Anerkennung für Ärzte. Wer im Ausland Medizin studiert hat, muss eine Kenntnisprüfung machen."
+    },
+    {
+     "k": "d",
+     "text": "Zahnmedizinische Fachangestellte. Assistenz am Behandlungsstuhl und Abrechnung gehören zu den Aufgaben."
+    },
+    {
+     "k": "e",
+     "text": "Physiotherapie. Die Ausbildung kostet an manchen Schulen Schulgeld. Einige Bundesländer übernehmen die Kosten."
+    },
+    {
+     "k": "f",
+     "text": "Pflege von Kindern. In der Kinderkrankenpflege braucht man viel Geduld – mit Kindern und Eltern."
+    },
+    {
+     "k": "g",
+     "text": "Apothekenhelfer. Wer gern berät und genau arbeitet, kann in der Apotheke eine Ausbildung machen."
+    },
+    {
+     "k": "h",
+     "text": "Sprachniveau. Für die Anerkennung in Gesundheitsberufen wird meist B2 und eine Fachsprachprüfung verlangt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Dr. Hassan hat in Syrien Medizin studiert und möchte in Deutschland als Arzt arbeiten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Kenntnisprüfung für Ärzte."
+    },
+    {
+     "q": "Lena möchte Menschen in Notsituationen helfen und hat keine Angst vor Schichtarbeit.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Notfallsanitäter."
+    },
+    {
+     "q": "Irina fragt, welches Deutschniveau sie für die Anerkennung als Krankenschwester braucht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 7,
+     "e": "h: B2 und Fachsprachprüfung."
+    },
+    {
+     "q": "Paul interessiert sich für Physiotherapie, hat aber Angst vor hohen Kosten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Schulgeld – manche Länder übernehmen die Kosten."
+    },
+    {
+     "q": "Mia möchte in einer Arztpraxis arbeiten und Patienten an der Anmeldung empfangen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 0,
+     "e": "a: Medizinische Fachangestellte."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-40",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Selbstständig arbeiten",
+   "anweisung": "Sie lesen in einem Gründermagazin kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Gewerbe anmelden. Das geht beim Gewerbeamt der Stadt und kostet zwischen 20 und 60 Euro."
+    },
+    {
+     "k": "b",
+     "text": "Freiberufler. Übersetzer, Ärzte oder Designer brauchen kein Gewerbe, sondern melden sich beim Finanzamt."
+    },
+    {
+     "k": "c",
+     "text": "Krankenversicherung. Selbstständige müssen sich selbst versichern – gesetzlich oder privat."
+    },
+    {
+     "k": "d",
+     "text": "Buchhaltung. Alle Belege zehn Jahre aufbewahren! Ein einfaches Programm hilft beim Überblick."
+    },
+    {
+     "k": "e",
+     "text": "Webseite und Impressum. Jede geschäftliche Webseite braucht ein Impressum mit Name und Adresse."
+    },
+    {
+     "k": "f",
+     "text": "Gründerkredit. Die KfW-Bank bietet günstige Kredite für Existenzgründer."
+    },
+    {
+     "k": "g",
+     "text": "Preise kalkulieren. Viele Gründer verlangen zu wenig. Steuern, Versicherung und Urlaub müssen eingerechnet sein."
+    },
+    {
+     "k": "h",
+     "text": "Netzwerke. Gründerstammtische helfen, Kontakte zu knüpfen und Erfahrungen auszutauschen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Frau Petrova will als Übersetzerin selbstständig arbeiten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Freiberufler – Finanzamt statt Gewerbe."
+    },
+    {
+     "q": "Herr Kaya möchte einen kleinen Imbiss eröffnen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 0,
+     "e": "a: Gewerbe anmelden."
+    },
+    {
+     "q": "Ali braucht Geld, um Maschinen für seine neue Werkstatt zu kaufen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Gründerkredit der KfW."
+    },
+    {
+     "q": "Olga verdient als Selbstständige zu wenig, obwohl sie viele Kunden hat.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Preise richtig kalkulieren."
+    },
+    {
+     "q": "Herr Lange hat eine Webseite für seinen Malerbetrieb erstellt.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Impressum."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-41",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Ausbildung in Deutschland",
+   "anweisung": "Sie lesen in einem Infoportal für Zugewanderte kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Ausbildungsvergütung. Azubis bekommen jeden Monat Geld – im ersten Jahr gibt es eine gesetzliche Mindestvergütung."
+    },
+    {
+     "k": "b",
+     "text": "Berufsschule. An ein bis zwei Tagen pro Woche lernen Azubis die Theorie."
+    },
+    {
+     "k": "c",
+     "text": "Ausbildungsduldung. Unter bestimmten Bedingungen darf man während der Ausbildung in Deutschland bleiben."
+    },
+    {
+     "k": "d",
+     "text": "Ausbildung abbrechen. Vorher mit der Kammer sprechen – oft gibt es eine Lösung, etwa einen Betriebswechsel."
+    },
+    {
+     "k": "e",
+     "text": "Ausbildungsplatz finden. Die Arbeitsagentur hat eine Börse mit freien Plätzen."
+    },
+    {
+     "k": "f",
+     "text": "Teilzeit-Ausbildung. Für Eltern oder Menschen, die Angehörige pflegen, ist auch eine Ausbildung in Teilzeit möglich."
+    },
+    {
+     "k": "g",
+     "text": "Assistierte Ausbildung. Wer Unterstützung beim Lernen oder mit der Sprache braucht, bekommt kostenlos Hilfe."
+    },
+    {
+     "k": "h",
+     "text": "Prüfungsangst. Viele Kammern bieten Vorbereitungskurse auf die Abschlussprüfung an."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Hamid hat einen Ausbildungsplatz, versteht aber viele Wörter in der Berufsschule nicht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Assistierte Ausbildung."
+    },
+    {
+     "q": "Frau Kim pflegt ihre kranke Mutter und möchte trotzdem eine Ausbildung machen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Teilzeit-Ausbildung."
+    },
+    {
+     "q": "Dmitri sucht einen Ausbildungsplatz als Mechatroniker.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Ausbildungsplatzbörse der Arbeitsagentur."
+    },
+    {
+     "q": "Lisa versteht sich nicht mit ihrem Ausbilder und denkt ans Aufhören.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Ausbildung abbrechen? Erst mit der Kammer sprechen."
+    },
+    {
+     "q": "Ein Azubi fragt, ob er im ersten Jahr schon Geld bekommt.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 0,
+     "e": "a: Ausbildungsvergütung."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-42",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Kommunikation im Team",
+   "anweisung": "Sie lesen in einer Zeitschrift für Führungskräfte kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Feedback geben. Konkret, freundlich und zeitnah – so wird Kritik angenommen."
+    },
+    {
+     "k": "b",
+     "text": "Kurze Besprechungen. Ein Stehmeeting von zehn Minuten am Morgen reicht oft für die Planung."
+    },
+    {
+     "k": "c",
+     "text": "Konflikte lösen. Ein neutraler Moderator hilft, wenn zwei Kollegen nicht mehr miteinander sprechen."
+    },
+    {
+     "k": "d",
+     "text": "Neue Kollegen integrieren. Ein gemeinsames Mittagessen in der ersten Woche erleichtert den Start."
+    },
+    {
+     "k": "e",
+     "text": "Gerüchte im Büro. Offene Informationen der Leitung verhindern, dass Gerüchte entstehen."
+    },
+    {
+     "k": "f",
+     "text": "Lob ist wichtig. Viele Beschäftigte wünschen sich mehr Anerkennung für gute Arbeit."
+    },
+    {
+     "k": "g",
+     "text": "Verschiedene Kulturen im Team. Missverständnisse entstehen oft durch unterschiedliche Höflichkeitsregeln."
+    },
+    {
+     "k": "h",
+     "text": "Homeoffice-Teams. Ein fester Bürotag pro Woche stärkt den Zusammenhalt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "In Frau Langes Team arbeiten Menschen aus sechs Ländern, und es gibt oft Missverständnisse.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Verschiedene Kulturen im Team."
+    },
+    {
+     "q": "Die Morgenbesprechung von Herrn Ali dauert jeden Tag eine Stunde.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Stehmeeting von zehn Minuten."
+    },
+    {
+     "q": "Zwei Kolleginnen haben sich gestritten und sprechen seit Wochen nicht mehr miteinander.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Neutraler Moderator."
+    },
+    {
+     "q": "Im Betrieb wird erzählt, dass bald Leute entlassen werden. Niemand weiß, ob das stimmt.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Gerüchte – offene Information."
+    },
+    {
+     "q": "Teamleiter Paul hat bemerkt, dass sein Team nur noch selten zusammen im Büro ist.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 7,
+     "e": "h: Fester Bürotag."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-43",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Wohnen in der Stadt",
+   "anweisung": "Sie lesen in dem Stadtmagazin kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Wohnberechtigungsschein. Mit dem WBS bekommt man eine günstige Sozialwohnung. Der Antrag läuft über die Stadt."
+    },
+    {
+     "k": "b",
+     "text": "Mietpreisbremse. In vielen Städten darf die Miete bei neuen Verträgen nur begrenzt steigen."
+    },
+    {
+     "k": "c",
+     "text": "Kaution. Sie darf höchstens drei Monatsmieten ohne Nebenkosten betragen."
+    },
+    {
+     "k": "d",
+     "text": "Schimmel vermeiden. Mehrmals am Tag kurz und kräftig lüften, besonders im Bad."
+    },
+    {
+     "k": "e",
+     "text": "Nachbarschaftshilfe. Eine App verbindet Nachbarn, die sich gegenseitig helfen möchten."
+    },
+    {
+     "k": "f",
+     "text": "Umzug planen. Eine Checkliste hilft: Ummelden, Strom anmelden, Adresse ändern."
+    },
+    {
+     "k": "g",
+     "text": "Untermiete. Wer ein Zimmer untervermieten möchte, braucht die Erlaubnis des Vermieters."
+    },
+    {
+     "k": "h",
+     "text": "Hausrat versichern. Eine Hausratversicherung zahlt bei Einbruch, Feuer und Wasserschäden."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Familie Ahmadi verdient wenig und sucht eine günstige Wohnung.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 0,
+     "e": "a: Wohnberechtigungsschein."
+    },
+    {
+     "q": "Der neue Vermieter von Olga verlangt fünf Monatsmieten als Kaution.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Höchstens drei Monatsmieten."
+    },
+    {
+     "q": "Im Badezimmer von Herrn Kaya sind schwarze Flecken an der Wand.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Schimmel vermeiden."
+    },
+    {
+     "q": "Lisa möchte ihr freies Zimmer an eine Studentin vermieten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Untermiete braucht Erlaubnis."
+    },
+    {
+     "q": "Bei Familie Novak wurde eingebrochen. Laptop und Schmuck sind weg.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 7,
+     "e": "h: Hausratversicherung."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-44",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Medien und Freizeit",
+   "anweisung": "Sie lesen in einer Wochenzeitung kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Bibliothek digital. Mit dem Ausweis der Stadtbibliothek kann man E-Books und Filme kostenlos ausleihen."
+    },
+    {
+     "k": "b",
+     "text": "Deutsch mit Serien. Deutsche Serien mit Untertiteln helfen beim Hörverstehen."
+    },
+    {
+     "k": "c",
+     "text": "Rundfunkbeitrag. Jeder Haushalt zahlt eine Gebühr – auch ohne Fernseher. Mit Bürgergeld kann man sich befreien lassen."
+    },
+    {
+     "k": "d",
+     "text": "Handyverträge vergleichen. Viele zahlen zu viel. Ein Vergleich im Internet lohnt sich."
+    },
+    {
+     "k": "e",
+     "text": "Vereine in Deutschland. Im Sportverein lernt man schnell Leute kennen und übt Deutsch."
+    },
+    {
+     "k": "f",
+     "text": "Nachrichten in einfacher Sprache. Einige Sender bieten Nachrichten in leichtem Deutsch an."
+    },
+    {
+     "k": "g",
+     "text": "Kinder und Medien. Feste Bildschirmzeiten helfen Familien, Streit zu vermeiden."
+    },
+    {
+     "k": "h",
+     "text": "Musikschule. Kinder aus Familien mit wenig Geld bekommen oft eine Ermäßigung."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Frau Ivanova bekommt Bürgergeld und hat einen Brief wegen des Rundfunkbeitrags bekommen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Befreiung mit Bürgergeld."
+    },
+    {
+     "q": "Herr Ali versteht die Nachrichten im Fernsehen noch nicht gut.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Nachrichten in einfacher Sprache."
+    },
+    {
+     "q": "Die Tochter von Familie Kaya möchte Klavier lernen, aber die Familie hat wenig Geld.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 7,
+     "e": "h: Musikschule mit Ermäßigung."
+    },
+    {
+     "q": "Olga möchte neue Leute kennenlernen und gleichzeitig Sport machen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Sportverein."
+    },
+    {
+     "q": "Paul zahlt 50 Euro im Monat für sein Handy und findet das zu teuer.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Handyverträge vergleichen."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-45",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Behörden und Formulare",
+   "anweisung": "Sie lesen in einem Ratgeber für Neuankömmlinge kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Anmeldung der Wohnung. Innerhalb von zwei Wochen nach dem Einzug muss man sich beim Bürgeramt anmelden."
+    },
+    {
+     "k": "b",
+     "text": "Steuer-ID. Nach der Anmeldung kommt die Steuer-Identifikationsnummer automatisch per Post."
+    },
+    {
+     "k": "c",
+     "text": "Aufenthaltstitel verlängern. Rechtzeitig vor Ablauf einen Termin bei der Ausländerbehörde machen."
+    },
+    {
+     "k": "d",
+     "text": "Beglaubigte Kopien. Viele Ämter wollen keine einfachen Kopien. Beglaubigungen macht zum Beispiel das Bürgeramt."
+    },
+    {
+     "k": "e",
+     "text": "Rentenversicherungsnummer. Sie bekommt man automatisch mit der ersten Anmeldung durch den Arbeitgeber."
+    },
+    {
+     "k": "f",
+     "text": "Kindergeld beantragen. Der Antrag geht an die Familienkasse, auch online."
+    },
+    {
+     "k": "g",
+     "text": "Fristen beachten. Briefe von Behörden haben oft Fristen. Wer sie verpasst, kann Nachteile haben."
+    },
+    {
+     "k": "h",
+     "text": "Hilfe beim Ausfüllen. Migrationsberatungsstellen helfen kostenlos bei Anträgen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Frau Rahimi ist vor zehn Tagen in eine neue Wohnung gezogen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 0,
+     "e": "a: Innerhalb von zwei Wochen anmelden."
+    },
+    {
+     "q": "Herr Novak versteht ein Formular vom Jobcenter nicht und braucht Hilfe.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 7,
+     "e": "h: Migrationsberatung."
+    },
+    {
+     "q": "Olgas Aufenthaltserlaubnis läuft in zwei Monaten ab.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Aufenthaltstitel verlängern."
+    },
+    {
+     "q": "Ein Amt möchte eine Kopie von Pauls Zeugnis mit Stempel.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Beglaubigte Kopien."
+    },
+    {
+     "q": "Lisa hat einen Brief von der Krankenkasse bekommen: Sie soll bis zum 15. antworten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Fristen beachten."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-46",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Energie sparen",
+   "anweisung": "Sie lesen in dem Kundenmagazin der Stadtwerke kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Richtig heizen. Jedes Grad weniger spart etwa sechs Prozent Heizkosten."
+    },
+    {
+     "k": "b",
+     "text": "Stand-by vermeiden. Geräte ganz ausschalten – eine Steckdosenleiste mit Schalter hilft."
+    },
+    {
+     "k": "c",
+     "text": "Warmwasser sparen. Duschen statt baden spart viel Energie und Wasser."
+    },
+    {
+     "k": "d",
+     "text": "Stromanbieter wechseln. Der Wechsel ist einfach und kostenlos. Der Strom fließt ohne Unterbrechung weiter."
+    },
+    {
+     "k": "e",
+     "text": "Energieberatung. Die Verbraucherzentrale berät Mieter und Hausbesitzer kostenlos oder sehr günstig."
+    },
+    {
+     "k": "f",
+     "text": "Kühlschrank richtig einstellen. Sieben Grad reichen. Ein vereistes Gefrierfach braucht mehr Strom."
+    },
+    {
+     "k": "g",
+     "text": "Wäsche an der Luft trocknen. Ein Trockner verbraucht viel Strom."
+    },
+    {
+     "k": "h",
+     "text": "Nachzahlung vermeiden. Wer den Abschlag anpasst, bekommt am Jahresende keine hohe Rechnung."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Familie Weber hat eine hohe Nachzahlung für Strom bekommen und möchte das nächstes Jahr vermeiden.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 7,
+     "e": "h: Abschlag anpassen."
+    },
+    {
+     "q": "Herr Kaya findet seinen Strompreis zu hoch und möchte zu einer anderen Firma.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Stromanbieter wechseln."
+    },
+    {
+     "q": "Frau Lange weiß nicht, wo sie in ihrer Wohnung am meisten Energie sparen kann, und möchte sich beraten lassen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Energieberatung."
+    },
+    {
+     "q": "Im Gefrierfach von Olga ist eine dicke Eisschicht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Kühlschrank richtig einstellen."
+    },
+    {
+     "q": "Ali badet jeden Abend eine Stunde.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Duschen statt baden."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-47",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Arbeit im Alter",
+   "anweisung": "Sie lesen in einem Seniorenmagazin kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Rente beantragen. Der Antrag sollte drei Monate vor Rentenbeginn bei der Rentenversicherung gestellt werden."
+    },
+    {
+     "k": "b",
+     "text": "Arbeiten neben der Rente. Seit 2023 darf man zur Altersrente unbegrenzt hinzuverdienen."
+    },
+    {
+     "k": "c",
+     "text": "Ehrenamt. Viele Senioren helfen in Vereinen oder bei der Tafel – das hält fit."
+    },
+    {
+     "k": "d",
+     "text": "Grundrente. Wer lange gearbeitet, aber wenig verdient hat, bekommt einen Zuschlag."
+    },
+    {
+     "k": "e",
+     "text": "Altersteilzeit. In den letzten Jahren vor der Rente die Arbeitszeit verringern – mit Vereinbarung des Arbeitgebers."
+    },
+    {
+     "k": "f",
+     "text": "Rente aus dem Ausland. Zeiten aus anderen Ländern können mitzählen, wenn es ein Abkommen gibt."
+    },
+    {
+     "k": "g",
+     "text": "Weiterbildung mit 60. Auch ältere Beschäftigte haben ein Recht auf Fortbildung."
+    },
+    {
+     "k": "h",
+     "text": "Erwerbsminderungsrente. Wer aus Gesundheitsgründen nicht mehr arbeiten kann, kann eine Rente beantragen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Herr Brandt ist 66, bekommt Rente und möchte trotzdem noch als Hausmeister arbeiten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Unbegrenzt hinzuverdienen."
+    },
+    {
+     "q": "Frau Klein kann nach einer schweren Krankheit nicht mehr arbeiten. Sie ist 52.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 7,
+     "e": "h: Erwerbsminderungsrente."
+    },
+    {
+     "q": "Herr Ivanov hat 20 Jahre in Russland gearbeitet und fragt, ob das für die deutsche Rente zählt.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Rente aus dem Ausland."
+    },
+    {
+     "q": "Frau Schulz geht im Juli in Rente und hat noch nichts beantragt.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 0,
+     "e": "a: Drei Monate vorher beantragen."
+    },
+    {
+     "q": "Herr Lange ist 61 und möchte nur noch halbtags arbeiten bis zur Rente.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Altersteilzeit."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-48",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Sprachen lernen",
+   "anweisung": "Sie lesen in einem Magazin für Erwachsenenbildung kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Integrationskurs. Er besteht aus Sprachkurs und Orientierungskurs und endet mit dem DTZ."
+    },
+    {
+     "k": "b",
+     "text": "Berufssprachkurse. Sie bereiten auf die Sprache im Beruf vor, zum Beispiel bis B2 oder C1."
+    },
+    {
+     "k": "c",
+     "text": "Tandem. Zwei Menschen mit verschiedenen Muttersprachen helfen sich gegenseitig beim Lernen."
+    },
+    {
+     "k": "d",
+     "text": "Lern-Apps. Fünf bis zehn Minuten am Tag sind besser als einmal pro Woche zwei Stunden."
+    },
+    {
+     "k": "e",
+     "text": "Prüfungsgebühren. Für viele Prüfungen gibt es eine Kostenübernahme, wenn man einen Kurs besucht hat."
+    },
+    {
+     "k": "f",
+     "text": "Aussprache trainieren. Laut lesen und sich selbst aufnehmen hilft, Fehler zu hören."
+    },
+    {
+     "k": "g",
+     "text": "Kinderbetreuung im Kurs. Manche Integrationskurse bieten Betreuung für kleine Kinder an."
+    },
+    {
+     "k": "h",
+     "text": "Lesen für Anfänger. Bücher in einfacher Sprache machen Spaß und erweitern den Wortschatz."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Frau Ahmadi hat ein Baby und möchte einen Deutschkurs besuchen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Kinderbetreuung im Kurs."
+    },
+    {
+     "q": "Herr Kim spricht Deutsch auf B1 und braucht für seinen Beruf B2.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Berufssprachkurse."
+    },
+    {
+     "q": "Olga hat abends wenig Zeit, möchte aber jeden Tag ein bisschen lernen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Lern-Apps, täglich kurz."
+    },
+    {
+     "q": "Ali möchte mit einem Deutschen Arabisch gegen Deutsch tauschen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Tandem."
+    },
+    {
+     "q": "Lisas Kollegen verstehen sie manchmal nicht, weil sie einige Laute falsch ausspricht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Aussprache trainieren."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-49",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Umwelt am Arbeitsplatz",
+   "anweisung": "Sie lesen in der Mitarbeiterzeitung eines Großbetriebs kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Papier sparen. Doppelseitig drucken und nur das Nötigste ausdrucken."
+    },
+    {
+     "k": "b",
+     "text": "Mülltrennung im Büro. Neue Behälter für Papier, Plastik und Restmüll stehen in jeder Teeküche."
+    },
+    {
+     "k": "c",
+     "text": "Mit dem Rad zur Arbeit. Duschen und Fahrradkeller stehen allen zur Verfügung."
+    },
+    {
+     "k": "d",
+     "text": "Dienstreisen. Für Strecken unter 500 Kilometern fahren wir mit der Bahn statt zu fliegen."
+    },
+    {
+     "k": "e",
+     "text": "Mehrwegbecher. In der Kantine gibt es Kaffee nur noch in Bechern zum Ausleihen."
+    },
+    {
+     "k": "f",
+     "text": "Licht aus. Bewegungsmelder schalten das Licht in leeren Räumen automatisch ab."
+    },
+    {
+     "k": "g",
+     "text": "Elektroautos. Auf dem Parkplatz gibt es zehn Ladestationen für Beschäftigte."
+    },
+    {
+     "k": "h",
+     "text": "Ideenwettbewerb. Wer eine gute Idee zum Umweltschutz hat, kann 500 Euro gewinnen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Herr Weber hat eine Idee, wie die Firma Wasser sparen kann.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 7,
+     "e": "h: Ideenwettbewerb."
+    },
+    {
+     "q": "Frau Kim muss für ein Meeting nach Hamburg und fragt, ob sie fliegen darf.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Unter 500 km Bahn statt Flugzeug."
+    },
+    {
+     "q": "Paul fährt mit dem Fahrrad zur Arbeit und kommt verschwitzt an.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Duschen für Radfahrer."
+    },
+    {
+     "q": "Olga hat sich ein Elektroauto gekauft und weiß nicht, wo sie es laden kann.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Ladestationen auf dem Parkplatz."
+    },
+    {
+     "q": "Ein neuer Kollege weiß nicht, wohin mit seinem Joghurtbecher.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Mülltrennung im Büro."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-50",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Familie und Beruf",
+   "anweisung": "Sie lesen in einem Familienratgeber kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Kinderkrankentage. Pro Kind gibt es jedes Jahr eine bestimmte Zahl von Tagen mit Kinderkrankengeld."
+    },
+    {
+     "k": "b",
+     "text": "Elterngeld Plus. Wer in Teilzeit arbeitet, kann länger Elterngeld bekommen."
+    },
+    {
+     "k": "c",
+     "text": "Hort für Schulkinder. Nach der Schule werden Kinder bis 16 Uhr betreut – oft mit Hausaufgabenhilfe."
+    },
+    {
+     "k": "d",
+     "text": "Tagesmutter. Für Kinder unter drei Jahren ist die Betreuung bei einer Tagesmutter eine Alternative zur Kita."
+    },
+    {
+     "k": "e",
+     "text": "Familienzentrum. Hier gibt es Beratung, Kurse und Treffpunkte für Eltern."
+    },
+    {
+     "k": "f",
+     "text": "Mutterschutz. Schwangere dürfen keine schweren Lasten tragen und nicht nachts arbeiten."
+    },
+    {
+     "k": "g",
+     "text": "Pflegezeit. Wer Angehörige pflegt, kann bis zu sechs Monate freigestellt werden."
+    },
+    {
+     "k": "h",
+     "text": "Kita-Gebühren. In vielen Bundesländern ist das letzte Kita-Jahr kostenlos."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Frau Novak ist schwanger und arbeitet im Lager mit schweren Kisten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Mutterschutz."
+    },
+    {
+     "q": "Herr Kaya findet keinen Kita-Platz für seinen einjährigen Sohn.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Tagesmutter."
+    },
+    {
+     "q": "Ein Vater möchte nach der Geburt in Teilzeit arbeiten und trotzdem Elterngeld bekommen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Elterngeld Plus."
+    },
+    {
+     "q": "Lisa arbeitet bis 16 Uhr, ihre Tochter hat aber um 12 Uhr Schule aus.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Hort für Schulkinder."
+    },
+    {
+     "q": "Olga sucht einen Ort, an dem sie andere Eltern trifft und Beratung bekommt.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Familienzentrum."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-51",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Kunden am Telefon",
+   "anweisung": "Sie lesen in einem Trainingsheft für Callcenter kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Begrüßung. Firma, Vorname, Frage: „Was kann ich für Sie tun?“ – in dieser Reihenfolge."
+    },
+    {
+     "k": "b",
+     "text": "Schwierige Anrufer. Nicht unterbrechen, ruhig bleiben und am Ende eine Lösung zusammenfassen."
+    },
+    {
+     "k": "c",
+     "text": "Daten prüfen. Vor jeder Auskunft Kundennummer und Geburtsdatum abfragen."
+    },
+    {
+     "k": "d",
+     "text": "Weiterverbinden. Kündigen Sie an, wohin Sie verbinden, und nennen Sie den Namen des Kollegen."
+    },
+    {
+     "k": "e",
+     "text": "Notizen. Wichtige Informationen sofort im System eintragen, nicht auf Zetteln."
+    },
+    {
+     "k": "f",
+     "text": "Stimme schonen. Viel Wasser trinken und in den Pausen nicht sprechen."
+    },
+    {
+     "k": "g",
+     "text": "Pausen im Callcenter. Nach zwei Stunden am Telefon sollte man eine kurze Pause machen."
+    },
+    {
+     "k": "h",
+     "text": "Mehrsprachiger Service. Wer andere Sprachen spricht, kann Kunden in ihrer Muttersprache helfen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Olga ist nach einem langen Tag am Telefon heiser.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Stimme schonen."
+    },
+    {
+     "q": "Ein Kunde schreit am Telefon. Der neue Kollege weiß nicht, was er tun soll.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Schwierige Anrufer."
+    },
+    {
+     "q": "Herr Kim kann eine Frage nicht beantworten und möchte den Kunden zur Buchhaltung durchstellen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 3,
+     "e": "d: Weiterverbinden."
+    },
+    {
+     "q": "Frau Petrova spricht Russisch und Ukrainisch und möchte das im Job nutzen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 7,
+     "e": "h: Mehrsprachiger Service."
+    },
+    {
+     "q": "Ein Anrufer möchte wissen, wann sein Vertrag endet.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 2,
+     "e": "c: Vorher Kundennummer und Geburtsdatum prüfen."
+    }
+   ]
+  },
+  {
+   "id": "dtbl1-52",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teil 1: Freiwillig engagieren",
+   "anweisung": "Sie lesen in dem Newsletter einer Freiwilligenagentur kurze Texte. Welcher Text (a–h) passt zu welcher Person (1–5)? Jeden Text können Sie nur einmal wählen. Drei Texte bleiben übrig.",
+   "ru": "Прочитайте короткие тексты. Какой текст (a–h) подходит какому человеку (1–5)? Каждый текст можно выбрать только один раз, три текста лишние.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Tafel. Bei der Tafel sortiert man gespendete Lebensmittel und gibt sie an Menschen mit wenig Geld weiter."
+    },
+    {
+     "k": "b",
+     "text": "Lesepaten. Ehrenamtliche lesen in Grundschulen mit Kindern, die beim Lesen Hilfe brauchen."
+    },
+    {
+     "k": "c",
+     "text": "Besuchsdienst. Freiwillige besuchen einsame ältere Menschen und gehen mit ihnen spazieren."
+    },
+    {
+     "k": "d",
+     "text": "Freiwillige Feuerwehr. Sie sucht Helfer, die im Notfall schnell vor Ort sind. Eine Ausbildung gibt es kostenlos."
+    },
+    {
+     "k": "e",
+     "text": "Sprachpaten. Wer gut Deutsch spricht, kann neuen Nachbarn beim Lernen helfen."
+    },
+    {
+     "k": "f",
+     "text": "Tierheim. Hunde brauchen Menschen, die mit ihnen Gassi gehen – auch nur einmal pro Woche."
+    },
+    {
+     "k": "g",
+     "text": "Repair-Café. Hier reparieren Freiwillige zusammen mit Besuchern kaputte Geräte."
+    },
+    {
+     "k": "h",
+     "text": "Bundesfreiwilligendienst. Ein Jahr Engagement in einer sozialen Einrichtung, mit Taschengeld."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Herr Brandt war Elektriker und repariert gern Dinge.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 6,
+     "e": "g: Repair-Café."
+    },
+    {
+     "q": "Olga liebt Tiere, hat aber keinen eigenen Hund.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 5,
+     "e": "f: Tierheim – Gassi gehen."
+    },
+    {
+     "q": "Frau Klein ist pensionierte Lehrerin und möchte Kindern helfen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 1,
+     "e": "b: Lesepaten."
+    },
+    {
+     "q": "Paul ist nach der Schule unsicher, was er machen will, und möchte ein Jahr im sozialen Bereich arbeiten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 7,
+     "e": "h: Bundesfreiwilligendienst."
+    },
+    {
+     "q": "Ali spricht inzwischen sehr gut Deutsch und möchte anderen Zugewanderten helfen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+     ],
+     "r": 4,
+     "e": "e: Sprachpaten."
+    }
+   ]
+  }
+ ]
+}
