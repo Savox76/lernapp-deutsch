@@ -1,0 +1,1124 @@
+{
+ "loesung": [
+  {
+   "id": "lzj01",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Geburtstagsfeier für eine Kursteilnehmerin",
+   "thema": "Eine Teilnehmerin aus dem Deutschkurs hat Geburtstag.",
+   "situation": "Planen Sie zusammen eine kleine Überraschung: Wann? Was schenken? Wer bringt was mit?",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wann wollen wir feiern?",
+     "o": [
+      "Wir könnten am Freitag in der Pause feiern. Dann sind alle im Kurs da.",
+      "Am Sonntag um 6 Uhr.",
+      "Nie."
+     ],
+     "r": 0,
+     "e": "Passenden Termin vorschlagen."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Und was schenken wir ihr?",
+     "o": [
+      "Sie liest gern. Wir könnten ein Buch auf Deutsch kaufen. Ich sammle das Geld, und du kaufst den Kuchen?",
+      "Nichts.",
+      "Geld."
+     ],
+     "r": 0,
+     "e": "Geschenk + Aufgaben verteilen."
+    }
+   ],
+   "m": "Feier am Freitag in der Pause, Buch als Geschenk. Ich sammle Geld, du kaufst Kuchen."
+  },
+  {
+   "id": "lzj02",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Picknick im Park",
+   "thema": "Sie möchten mit Freunden ein Picknick machen.",
+   "situation": "Planen Sie zusammen: Wann? Wo? Was nehmen Sie mit?",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wann und wo machen wir das Picknick?",
+     "o": [
+      "Wir könnten am Sonntag um 12 Uhr im Großen Garten picknicken. Dort gibt es viel Platz und einen Spielplatz für die Kinder.",
+      "Im Keller.",
+      "Irgendwann."
+     ],
+     "r": 0,
+     "e": "Ort und Zeit mit Grund."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Was nehmen wir mit?",
+     "o": [
+      "Ich mache Salat und belegte Brote. Kannst du Getränke und eine Decke mitbringen?",
+      "Gar nichts.",
+      "Du bringst alles."
+     ],
+     "r": 0,
+     "e": "Aufgaben teilen."
+    }
+   ],
+   "m": "Sonntag 12 Uhr im Großen Garten. Ich bringe Salat und Brote, du Getränke und Decke."
+  },
+  {
+   "id": "lzj03",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachbarin helfen",
+   "thema": "Ihre ältere Nachbarin ist krank und kann nicht einkaufen.",
+   "situation": "Planen Sie zusammen, wie Sie ihr helfen.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wie können wir ihr helfen?",
+     "o": [
+      "Wir könnten für sie einkaufen gehen. Ich frage sie heute, was sie braucht.",
+      "Sie soll selbst gehen.",
+      "Gar nicht."
+     ],
+     "r": 0,
+     "e": "Hilfe anbieten."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Und wer macht das wann?",
+     "o": [
+      "Ich gehe am Montag und Mittwoch, und du gehst am Freitag. Hast du Zeit?",
+      "Niemand.",
+      "Der Hausmeister."
+     ],
+     "r": 0,
+     "e": "Plan und Aufgaben."
+    }
+   ],
+   "m": "Einkaufen für die Nachbarin: ich Montag und Mittwoch, du Freitag. Ich frage sie heute, was sie braucht."
+  },
+  {
+   "id": "lzj04",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ausflug mit dem Deutschkurs",
+   "thema": "Der Deutschkurs möchte einen Ausflug machen.",
+   "situation": "Planen Sie zusammen: Wohin? Wann? Was kostet das?",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wohin sollen wir fahren?",
+     "o": [
+      "Ich schlage die Sächsische Schweiz vor. Wir können wandern und mit dem Schiff zurückfahren.",
+      "Nach Paris.",
+      "Ins Kino."
+     ],
+     "r": 0,
+     "e": "Ziel vorschlagen."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Und wie kommen wir hin?",
+     "o": [
+      "Mit der S-Bahn, das ist mit dem Deutschlandticket kostenlos. Wer kein Ticket hat, kauft ein Gruppenticket. Ich frage die Lehrerin, wann es passt.",
+      "Zu Fuß.",
+      "Mit dem Taxi."
+     ],
+     "r": 0,
+     "e": "Transport + Aufgaben."
+    }
+   ],
+   "m": "Wanderung in der Sächsischen Schweiz, S-Bahn, Schiff zurück. Ich frage die Lehrerin nach einem Termin."
+  },
+  {
+   "id": "lzj05",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Umzug eines Freundes",
+   "thema": "Ein Freund zieht am Samstag um.",
+   "situation": "Planen Sie zusammen, wie Sie helfen.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Was müssen wir am Samstag machen?",
+     "o": [
+      "Wir müssen die Kisten und Möbel in den Transporter tragen. Ich komme um 8 Uhr.",
+      "Nichts.",
+      "Zuschauen."
+     ],
+     "r": 0,
+     "e": "Aufgabe benennen."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Und was ist mit dem Essen?",
+     "o": [
+      "Ich bringe Brötchen für das Frühstück mit. Mittags können wir Pizza bestellen. Kannst du Getränke kaufen?",
+      "Kein Essen.",
+      "Er soll kochen."
+     ],
+     "r": 0,
+     "e": "Essen organisieren + Aufgabe."
+    }
+   ],
+   "m": "Um 8 Uhr da sein, Möbel tragen; ich bringe Brötchen, mittags Pizza, du kaufst Getränke."
+  },
+  {
+   "id": "lzj06",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kindergeburtstag",
+   "thema": "Das Kind einer Freundin hat Geburtstag.",
+   "situation": "Planen Sie zusammen mit Ihrer Freundin die Feier.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Was machen wir mit den Kindern?",
+     "o": [
+      "Wir könnten Spiele spielen, zum Beispiel Topfschlagen und Schatzsuche. Das macht Kindern viel Spaß.",
+      "Fernsehen.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Programm vorschlagen."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Und was gibt es zu essen?",
+     "o": [
+      "Ich backe einen Schokoladenkuchen, und du machst Würstchen und Obst? Wir brauchen auch kleine Geschenke für die Gäste.",
+      "Nur Chips.",
+      "Weiß nicht."
+     ],
+     "r": 0,
+     "e": "Essen + Aufgaben."
+    }
+   ],
+   "m": "Topfschlagen und Schatzsuche; ich backe Kuchen, Freundin macht Würstchen und Obst, kleine Gastgeschenke."
+  },
+  {
+   "id": "lzj07",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Deutsch lernen zusammen",
+   "thema": "Sie und ein Bekannter möchten zusammen für die Prüfung lernen.",
+   "situation": "Planen Sie zusammen: Wann? Wo? Was üben Sie?",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wann können wir lernen?",
+     "o": [
+      "Ich habe dienstags und donnerstags nach 17 Uhr Zeit. Passt dir das?",
+      "Nachts.",
+      "Ich habe nie Zeit."
+     ],
+     "r": 0,
+     "e": "Zeit vorschlagen."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Und was wollen wir üben?",
+     "o": [
+      "Wir sollten vor allem das Sprechen üben, zum Beispiel uns vorstellen und zusammen etwas planen. Treffen wir uns in der Bibliothek?",
+      "Nichts.",
+      "Nur Grammatik."
+     ],
+     "r": 0,
+     "e": "Inhalt und Ort."
+    }
+   ],
+   "m": "Dienstags und donnerstags nach 17 Uhr in der Bibliothek, vor allem Sprechen üben."
+  },
+  {
+   "id": "lzj08",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fest im Hof",
+   "thema": "Die Hausbewohner möchten ein Hoffest machen.",
+   "situation": "Planen Sie zusammen mit einem Nachbarn.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wann sollen wir feiern?",
+     "o": [
+      "Wir könnten am Samstag, dem 20. Juni, ab 15 Uhr feiern. Dann ist es warm und hell.",
+      "Im Winter.",
+      "Weiß nicht."
+     ],
+     "r": 0,
+     "e": "Termin mit Grund."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Wer bringt was mit?",
+     "o": [
+      "Jede Familie bringt etwas zu essen mit. Ich frage Herrn Klein wegen des Grills, und du schreibst einen Zettel für alle Nachbarn?",
+      "Du alles.",
+      "Keiner."
+     ],
+     "r": 0,
+     "e": "Aufgaben verteilen."
+    }
+   ],
+   "m": "Samstag 20. Juni ab 15 Uhr; jede Familie bringt Essen, ich frage nach dem Grill, Nachbar schreibt den Aushang."
+  },
+  {
+   "id": "lzj09",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Besuch aus der Heimat",
+   "thema": "Ihre Eltern kommen zu Besuch.",
+   "situation": "Planen Sie mit Ihrem Partner das Programm.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Was zeigen wir meinen Eltern?",
+     "o": [
+      "Wir könnten mit ihnen in die Altstadt gehen und eine Schifffahrt auf der Elbe machen.",
+      "Nur die Wohnung.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Programm vorschlagen."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Und wo schlafen sie?",
+     "o": [
+      "Sie können im Kinderzimmer schlafen, die Kinder schlafen bei uns. Ich kaufe noch eine Matratze. Holst du sie vom Bahnhof ab?",
+      "Im Hotel, teuer.",
+      "Auf dem Balkon."
+     ],
+     "r": 0,
+     "e": "Lösung + Aufgaben."
+    }
+   ],
+   "m": "Altstadt und Schifffahrt; Eltern schlafen im Kinderzimmer, ich kaufe eine Matratze, Partner holt sie vom Bahnhof ab."
+  },
+  {
+   "id": "lzj10",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Sportgruppe gründen",
+   "thema": "Sie möchten mit Bekannten zusammen Sport machen.",
+   "situation": "Planen Sie zusammen: Welcher Sport? Wann? Wo?",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Was für Sport sollen wir machen?",
+     "o": [
+      "Wir könnten zusammen joggen. Das kostet nichts, und jeder kann mitmachen.",
+      "Golf.",
+      "Keinen."
+     ],
+     "r": 0,
+     "e": "Sportart mit Grund."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Wann und wo treffen wir uns?",
+     "o": [
+      "Am Samstagmorgen um 9 Uhr an der Elbe. Ich mache eine WhatsApp-Gruppe, und du fragst noch andere Leute?",
+      "Nachts.",
+      "Irgendwo."
+     ],
+     "r": 0,
+     "e": "Ort, Zeit, Aufgaben."
+    }
+   ],
+   "m": "Joggen am Samstag um 9 Uhr an der Elbe; ich mache eine Gruppe, Bekannter fragt weitere Leute."
+  },
+  {
+   "id": "lzj11",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Abschied von der Lehrerin",
+   "thema": "Ihre Deutschlehrerin geht in Rente.",
+   "situation": "Planen Sie zusammen ein Abschiedsgeschenk.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Was können wir ihr schenken?",
+     "o": [
+      "Wir könnten ein Fotobuch mit Bildern vom Kurs machen und jeder schreibt einen kleinen Text dazu.",
+      "Nichts.",
+      "Geld."
+     ],
+     "r": 0,
+     "e": "Persönliches Geschenk."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Und wer macht was?",
+     "o": [
+      "Ich sammle die Fotos, und du sammelst die Texte von allen. Das Geld für das Buch teilen wir.",
+      "Du alles.",
+      "Die Lehrerin selbst."
+     ],
+     "r": 0,
+     "e": "Aufgaben verteilen."
+    }
+   ],
+   "m": "Fotobuch mit Texten aller Teilnehmer; ich sammle Fotos, Bekannter die Texte, Kosten werden geteilt."
+  },
+  {
+   "id": "lzj12",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kinder abholen organisieren",
+   "thema": "Sie und eine Bekannte haben Kinder in der gleichen Kita.",
+   "situation": "Planen Sie, wie Sie sich beim Abholen abwechseln.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wie können wir uns abwechseln?",
+     "o": [
+      "Ich kann montags, mittwochs und freitags abholen. Kannst du dienstags und donnerstags?",
+      "Gar nicht.",
+      "Die Kita soll sie bringen."
+     ],
+     "r": 0,
+     "e": "Plan vorschlagen."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Was müssen wir der Kita sagen?",
+     "o": [
+      "Wir müssen der Kita schriftlich sagen, dass wir beide die Kinder abholen dürfen. Ich frage die Erzieherin nach dem Formular.",
+      "Nichts.",
+      "Weiß nicht."
+     ],
+     "r": 0,
+     "e": "Formales klären."
+    }
+   ],
+   "m": "Ich hole Mo, Mi, Fr ab, Bekannte Di, Do; schriftliche Erlaubnis für die Kita, ich frage nach dem Formular."
+  },
+  {
+   "id": "lzj13",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wohnung streichen",
+   "thema": "Ein Bekannter möchte seine Wohnung streichen.",
+   "situation": "Planen Sie zusammen, wie Sie es machen.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Was brauchen wir alles?",
+     "o": [
+      "Wir brauchen Farbe, Pinsel, Rollen und Folie für den Boden. Das gibt es im Baumarkt.",
+      "Nur Wasser.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Material auflisten."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Und wann machen wir das?",
+     "o": [
+      "Am Samstag den ganzen Tag. Ich kaufe am Freitag die Farbe, und du räumst vorher die Möbel in die Mitte?",
+      "Nie.",
+      "In einem Monat."
+     ],
+     "r": 0,
+     "e": "Termin + Aufgaben."
+    }
+   ],
+   "m": "Material aus dem Baumarkt; Samstag streichen, ich kaufe Farbe, Bekannter räumt Möbel weg."
+  },
+  {
+   "id": "lzj14",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Weihnachtsessen",
+   "thema": "Sie möchten mit Freunden Weihnachten feiern.",
+   "situation": "Planen Sie zusammen das Essen.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Was kochen wir?",
+     "o": [
+      "Ich schlage vor, dass jeder ein Gericht aus seiner Heimat mitbringt. Dann haben wir ein internationales Buffet.",
+      "Nur Pizza.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Idee vorschlagen."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Und wo feiern wir?",
+     "o": [
+      "Bei mir, meine Wohnung ist groß genug. Kannst du Stühle von deinem Nachbarn leihen?",
+      "Draußen.",
+      "Weiß nicht."
+     ],
+     "r": 0,
+     "e": "Ort + Aufgabe."
+    }
+   ],
+   "m": "Internationales Buffet, jeder bringt ein Gericht aus der Heimat; Feier bei mir, Bekannter leiht Stühle."
+  },
+  {
+   "id": "lzj15",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Flohmarkt",
+   "thema": "Sie möchten zusammen auf dem Flohmarkt verkaufen.",
+   "situation": "Planen Sie zusammen.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Was wollen wir verkaufen?",
+     "o": [
+      "Ich habe Kinderkleidung und Spielzeug. Du hast doch auch Bücher, die du nicht mehr brauchst?",
+      "Das Auto.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Waren benennen."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Und wie kommen wir mit den Sachen hin?",
+     "o": [
+      "Du hast ein Auto, kannst du mich abholen? Ich bringe einen Tisch und ein Tuch mit.",
+      "Zu Fuß mit allem.",
+      "Mit dem Bus und 10 Kisten."
+     ],
+     "r": 0,
+     "e": "Transport + Aufgaben."
+    }
+   ],
+   "m": "Kinderkleidung, Spielzeug, Bücher; Bekannter fährt mit dem Auto, ich bringe Tisch und Tuch."
+  },
+  {
+   "id": "lzj16",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Neue Nachbarn begrüßen",
+   "thema": "Neue Nachbarn sind eingezogen.",
+   "situation": "Planen Sie zusammen, wie Sie sie begrüßen.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wie können wir sie begrüßen?",
+     "o": [
+      "Wir könnten ihnen einen Kuchen bringen und sie zum Kaffee einladen.",
+      "Gar nicht.",
+      "Laut klingeln."
+     ],
+     "r": 0,
+     "e": "Idee vorschlagen."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Wann gehen wir hin?",
+     "o": [
+      "Am Samstagnachmittag, dann haben sie vielleicht schon ausgepackt. Ich backe, und du schreibst eine kleine Karte?",
+      "Um 6 Uhr morgens.",
+      "Weiß nicht."
+     ],
+     "r": 0,
+     "e": "Zeit + Aufgaben."
+    }
+   ],
+   "m": "Kuchen und Einladung zum Kaffee am Samstagnachmittag; ich backe, Bekannter schreibt eine Karte."
+  },
+  {
+   "id": "lzj17",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fahrradtour",
+   "thema": "Sie möchten mit der Familie eine Fahrradtour machen.",
+   "situation": "Planen Sie mit Ihrem Partner.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wohin fahren wir?",
+     "o": [
+      "Wir könnten den Elberadweg nach Meißen fahren. Der ist flach und auch für die Kinder gut.",
+      "Auf den Berg.",
+      "Auf die Autobahn."
+     ],
+     "r": 0,
+     "e": "Strecke mit Grund."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Was müssen wir vorbereiten?",
+     "o": [
+      "Wir müssen die Fahrräder prüfen und Essen einpacken. Zurück fahren wir mit der S-Bahn. Ich packe das Essen, du prüfst die Räder?",
+      "Nichts.",
+      "Neue Räder kaufen."
+     ],
+     "r": 0,
+     "e": "Vorbereitung + Aufgaben."
+    }
+   ],
+   "m": "Elberadweg nach Meißen, zurück mit der S-Bahn; ich packe Essen, Partner prüft die Räder."
+  },
+  {
+   "id": "lzj18",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Spielplatz sauber machen",
+   "thema": "Der Spielplatz im Hof ist schmutzig.",
+   "situation": "Planen Sie mit einem Nachbarn eine Aufräumaktion.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Was müssen wir machen?",
+     "o": [
+      "Wir müssen den Müll aufsammeln und den Sand im Sandkasten erneuern. Neuen Sand bezahlt vielleicht die Hausverwaltung.",
+      "Nichts.",
+      "Die Kinder sollen das machen."
+     ],
+     "r": 0,
+     "e": "Aufgaben benennen."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Wie bekommen wir Hilfe?",
+     "o": [
+      "Ich schreibe einen Aushang für alle Nachbarn, und du rufst die Hausverwaltung wegen des Sandes an?",
+      "Allein machen.",
+      "Nicht nötig."
+     ],
+     "r": 0,
+     "e": "Hilfe organisieren."
+    }
+   ],
+   "m": "Müll sammeln, Sand erneuern; ich schreibe den Aushang, Nachbar ruft die Hausverwaltung an."
+  },
+  {
+   "id": "lzj19",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kochabend",
+   "thema": "Sie möchten mit Freunden einen Kochabend machen.",
+   "situation": "Planen Sie zusammen.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Was wollen wir kochen?",
+     "o": [
+      "Wir könnten zusammen ukrainischen Borschtsch und deutschen Apfelkuchen machen. So lernen wir beide Küchen kennen.",
+      "Tiefkühlpizza.",
+      "Gar nichts."
+     ],
+     "r": 0,
+     "e": "Vorschlag mit Grund."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Wer kauft ein?",
+     "o": [
+      "Ich kaufe das Gemüse für den Borschtsch, und du kaufst die Zutaten für den Kuchen. Wir treffen uns am Freitag um 18 Uhr bei dir?",
+      "Niemand.",
+      "Du alles."
+     ],
+     "r": 0,
+     "e": "Aufgaben, Ort, Zeit."
+    }
+   ],
+   "m": "Borschtsch und Apfelkuchen; ich kaufe Gemüse, Freund kauft Kuchenzutaten; Freitag 18 Uhr."
+  },
+  {
+   "id": "lzj20",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Hilfe für Neuankömmlinge",
+   "thema": "Eine Familie ist neu aus dem Ausland gekommen.",
+   "situation": "Planen Sie zusammen, wie Sie helfen.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wobei brauchen sie Hilfe?",
+     "o": [
+      "Sie brauchen bestimmt Hilfe beim Bürgeramt und bei der Anmeldung in Kita und Schule.",
+      "Bei nichts.",
+      "Beim Fernsehen."
+     ],
+     "r": 0,
+     "e": "Bedarf erkennen."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Wer macht was?",
+     "o": [
+      "Ich gehe mit ihnen zum Bürgeramt, und du zeigst ihnen die Geschäfte und die Haltestellen in der Nähe?",
+      "Sie sollen allein gehen.",
+      "Keiner."
+     ],
+     "r": 0,
+     "e": "Aufgaben teilen."
+    }
+   ],
+   "m": "Hilfe bei Bürgeramt, Kita und Schule; ich begleite zum Amt, Bekannter zeigt Geschäfte und Haltestellen."
+  },
+  {
+   "id": "lzj21",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kinobesuch",
+   "thema": "Sie möchten mit Bekannten ins Kino gehen.",
+   "situation": "Planen Sie zusammen.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Welchen Film wollen wir sehen?",
+     "o": [
+      "Ich würde gern die neue Komödie sehen. Sie läuft auch mit deutschen Untertiteln, das ist gut zum Lernen.",
+      "Einen Horrorfilm mit Kindern.",
+      "Egal."
+     ],
+     "r": 0,
+     "e": "Film mit Grund."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Wann gehen wir?",
+     "o": [
+      "Am Dienstag ist Kinotag, dann kostet es nur sechs Euro. Ich kaufe die Karten online, und wir treffen uns um 19:30 Uhr vor dem Kino?",
+      "Irgendwann.",
+      "Am Sonntag um 8 Uhr."
+     ],
+     "r": 0,
+     "e": "Termin + Aufgabe."
+    }
+   ],
+   "m": "Komödie mit Untertiteln am Kinotag Dienstag; ich kaufe Karten, Treffen 19:30 Uhr vor dem Kino."
+  },
+  {
+   "id": "lzj22",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Schwimmbad mit Kindern",
+   "thema": "Sie möchten mit einer Freundin und den Kindern ins Schwimmbad.",
+   "situation": "Planen Sie zusammen.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wann gehen wir?",
+     "o": [
+      "Am Mittwochnachmittag, dann ist es nicht so voll wie am Wochenende.",
+      "Nachts.",
+      "Weiß nicht."
+     ],
+     "r": 0,
+     "e": "Zeit mit Grund."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Was müssen wir mitnehmen?",
+     "o": [
+      "Handtücher, Badesachen und etwas zu essen. Ich nehme Obst mit, kannst du Brote machen? Und denk an die Schwimmflügel für die Kleinen.",
+      "Nichts.",
+      "Nur Geld."
+     ],
+     "r": 0,
+     "e": "Liste + Aufgaben."
+    }
+   ],
+   "m": "Mittwochnachmittag; Handtücher, Badesachen, Schwimmflügel; ich bringe Obst, Freundin Brote."
+  },
+  {
+   "id": "lzj23",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Elternabend organisieren",
+   "thema": "Sie sind Elternvertreter und möchten ein Treffen der Eltern organisieren.",
+   "situation": "Planen Sie zusammen mit einem anderen Elternvertreter.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wo treffen wir uns?",
+     "o": [
+      "Wir könnten in der Schule im Klassenraum treffen. Ich frage die Lehrerin, ob das geht.",
+      "Bei mir zu Hause, 25 Leute.",
+      "Draußen im Winter."
+     ],
+     "r": 0,
+     "e": "Ort vorschlagen."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Und wie laden wir die Eltern ein?",
+     "o": [
+      "Wir schreiben eine Nachricht in die Elterngruppe und geben den Kindern einen Zettel mit. Ich schreibe den Text, du übersetzt ihn auch ins Arabische?",
+      "Gar nicht.",
+      "Jeden anrufen."
+     ],
+     "r": 0,
+     "e": "Einladung + Aufgaben."
+    }
+   ],
+   "m": "Treffen im Klassenraum; Einladung per Elterngruppe und Zettel, ich schreibe den Text, Partner übersetzt ins Arabische."
+  },
+  {
+   "id": "lzj24",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Hilfe beim Lernen für Kinder",
+   "thema": "Ihre Kinder brauchen Hilfe bei den Hausaufgaben.",
+   "situation": "Planen Sie mit einer Bekannten eine Lerngruppe.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wann treffen sich die Kinder?",
+     "o": [
+      "Montags und donnerstags von 15 bis 16:30 Uhr, abwechselnd bei mir und bei dir.",
+      "Am Wochenende den ganzen Tag.",
+      "Nie."
+     ],
+     "r": 0,
+     "e": "Zeit und Ort."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Wer hilft bei welchem Fach?",
+     "o": [
+      "Ich kann gut Mathe, du hilfst bei Deutsch? Und vielleicht kann eine Studentin einmal pro Woche kommen.",
+      "Keiner.",
+      "Die Kinder allein."
+     ],
+     "r": 0,
+     "e": "Aufgaben nach Stärken."
+    }
+   ],
+   "m": "Mo und Do 15–16:30 Uhr abwechselnd; ich helfe in Mathe, Bekannte in Deutsch, eventuell eine Studentin."
+  },
+  {
+   "id": "lzj25",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Garten für den Sommer",
+   "thema": "Sie und eine Freundin möchten einen kleinen Garten mieten.",
+   "situation": "Planen Sie zusammen.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Was wollen wir im Garten pflanzen?",
+     "o": [
+      "Ich möchte Tomaten, Gurken und Kräuter pflanzen. Und für die Kinder Erdbeeren.",
+      "Nichts.",
+      "Nur Rasen."
+     ],
+     "r": 0,
+     "e": "Pläne nennen."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Wie teilen wir die Arbeit?",
+     "o": [
+      "Jede gießt an drei Tagen in der Woche. Die Kosten teilen wir. Ich rufe beim Gartenverein an, und du kaufst die Pflanzen?",
+      "Du machst alles.",
+      "Keiner gießt."
+     ],
+     "r": 0,
+     "e": "Aufgaben + Kosten teilen."
+    }
+   ],
+   "m": "Tomaten, Gurken, Kräuter, Erdbeeren; abwechselnd gießen, Kosten teilen; ich rufe den Verein an, Freundin kauft Pflanzen."
+  },
+  {
+   "id": "lzj26",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Weihnachtsmarkt besuchen",
+   "thema": "Sie möchten mit Kursteilnehmern auf den Weihnachtsmarkt gehen.",
+   "situation": "Planen Sie zusammen.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wann sollen wir gehen?",
+     "o": [
+      "Am Freitag nach dem Kurs, so um 17 Uhr. Dann ist es schon dunkel und die Lichter sind schön.",
+      "Im Juli.",
+      "Morgens um 7."
+     ],
+     "r": 0,
+     "e": "Zeit mit Grund."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Wo treffen wir uns?",
+     "o": [
+      "Am Eingang vom Striezelmarkt am Altmarkt. Ich schreibe es allen in die Kursgruppe.",
+      "Irgendwo.",
+      "Weiß nicht."
+     ],
+     "r": 0,
+     "e": "Treffpunkt + Aufgabe."
+    }
+   ],
+   "m": "Freitag 17 Uhr, Treffpunkt Eingang Striezelmarkt; ich informiere die Kursgruppe."
+  },
+  {
+   "id": "lzj27",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wohnungssuche helfen",
+   "thema": "Ein Bekannter sucht eine Wohnung.",
+   "situation": "Planen Sie zusammen, wie Sie ihm helfen.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wo können wir suchen?",
+     "o": [
+      "Im Internet auf Wohnungsportalen und bei den Wohnungsgenossenschaften. Ich zeige ihm die Seiten.",
+      "Nirgends.",
+      "Nur in der Zeitung von 1990."
+     ],
+     "r": 0,
+     "e": "Suchwege nennen."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Was braucht er für die Bewerbung?",
+     "o": [
+      "Er braucht eine Schufa-Auskunft, Gehaltsnachweise und eine Kopie vom Ausweis. Hilfst du ihm, die Mappe zu machen?",
+      "Nichts.",
+      "Nur Geld."
+     ],
+     "r": 0,
+     "e": "Unterlagen + Aufgabe."
+    }
+   ],
+   "m": "Suche online und bei Genossenschaften; Mappe mit Schufa, Gehaltsnachweisen und Ausweiskopie."
+  },
+  {
+   "id": "lzj28",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Spieleabend",
+   "thema": "Sie möchten mit Nachbarn einen Spieleabend machen.",
+   "situation": "Planen Sie zusammen.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Welche Spiele spielen wir?",
+     "o": [
+      "Wir könnten Brettspiele wie „Mensch ärgere dich nicht“ und Kartenspiele spielen. Dabei lernt man auch Deutsch.",
+      "Videospiele allein.",
+      "Keine."
+     ],
+     "r": 0,
+     "e": "Vorschlag mit Grund."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Wer bringt was mit?",
+     "o": [
+      "Ich bringe Spiele und Knabbereien mit, und du kümmerst dich um die Getränke? Wir treffen uns am Samstag um 19 Uhr bei mir.",
+      "Keiner.",
+      "Du alles."
+     ],
+     "r": 0,
+     "e": "Aufgaben, Ort, Zeit."
+    }
+   ],
+   "m": "Brett- und Kartenspiele; ich bringe Spiele und Snacks, Nachbar Getränke; Samstag 19 Uhr bei mir."
+  }
+ ]
+}

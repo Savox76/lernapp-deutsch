@@ -1,0 +1,44 @@
+{
+ "loesung": [
+  {
+   "id": "lzj29",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Besuch im Krankenhaus",
+   "thema": "Eine Freundin liegt im Krankenhaus.",
+   "situation": "Planen Sie zusammen den Besuch.",
+   "rm": [
+    "Wir könnten …",
+    "Hast du Zeit am …?",
+    "Ich kann … mitbringen.",
+    "Wer macht …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Bekannter",
+     "sagt": "Wann besuchen wir sie?",
+     "o": [
+      "Am Samstagnachmittag, dann ist Besuchszeit von 14 bis 18 Uhr. Ich frage vorher, ob sie Besuch möchte.",
+      "Nachts.",
+      "Gar nicht."
+     ],
+     "r": 0,
+     "e": "Zeit mit Grund."
+    },
+    {
+     "wer": "Bekannter",
+     "sagt": "Was bringen wir mit?",
+     "o": [
+      "Etwas Obst und eine Zeitschrift. Blumen sind auf ihrer Station nicht erlaubt. Ich kaufe das Obst, kannst du die Zeitschrift besorgen?",
+      "Einen Kuchen mit Sahne.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Passendes Geschenk + Aufgaben."
+    }
+   ],
+   "m": "Samstagnachmittag zur Besuchszeit; Obst und Zeitschrift (keine Blumen). Ich kaufe Obst, Bekannter besorgt die Zeitschrift."
+  }
+ ]
+}

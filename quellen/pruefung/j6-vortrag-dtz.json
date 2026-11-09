@@ -1,0 +1,602 @@
+{
+ "vortrag": [
+  {
+   "id": "vzj01",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Mein schönster Urlaub",
+   "thema": "Erzählen Sie von Ihrem schönsten Urlaub.",
+   "stichpunkte": [
+    "Wohin sind Sie gefahren?",
+    "Mit wem?",
+    "Was haben Sie gemacht?",
+    "Wie ist Urlaub in Ihrer Heimat?"
+   ],
+   "ru": "Расскажите о самом лучшем отпуске: куда, с кем, что делали, какой отпуск на родине.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Mein schönster Urlaub war vor zwei Jahren an der Ostsee.\n\nIch bin mit meinem Mann und meinen Kindern mit dem Zug nach Rostock gefahren.\n\nWir haben jeden Tag am Strand gespielt, sind geschwommen und haben Fisch gegessen. Einmal haben wir eine Schifffahrt gemacht.\n\nIn meiner Heimat fahren viele Familien im Sommer zu den Großeltern aufs Land. Dort arbeitet man im Garten und geht im Fluss baden.\n\nDer Urlaub an der Ostsee war wunderschön, und ich möchte bald wieder hinfahren."
+  },
+  {
+   "id": "vzj02",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ein Fest in meiner Heimat",
+   "thema": "Erzählen Sie von einem Fest in Ihrer Heimat.",
+   "stichpunkte": [
+    "Welches Fest?",
+    "Wann feiert man es?",
+    "Was macht man?",
+    "Feiern Sie es auch in Deutschland?"
+   ],
+   "ru": "Расскажите о празднике на родине: какой, когда, что делают, празднуете ли вы его в Германии.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Ich möchte von Neujahr erzählen. Das ist das wichtigste Fest in meiner Heimat.\n\nMan feiert es in der Nacht vom 31. Dezember auf den 1. Januar.\n\nDie ganze Familie kommt zusammen. Wir kochen viele Salate, zum Beispiel Olivier-Salat, und um Mitternacht trinken wir Sekt. Die Kinder bekommen Geschenke von Väterchen Frost.\n\nIn Deutschland feiere ich Neujahr auch, aber mit Freunden, weil meine Familie weit weg ist. Hier ist Weihnachten wichtiger, und das feiern wir jetzt auch."
+  },
+  {
+   "id": "vzj03",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Mein Arbeitstag",
+   "thema": "Erzählen Sie von einem typischen Arbeitstag.",
+   "stichpunkte": [
+    "Wann beginnt Ihr Tag?",
+    "Was machen Sie bei der Arbeit?",
+    "Was gefällt Ihnen, was nicht?",
+    "Wie war die Arbeit in Ihrer Heimat?"
+   ],
+   "ru": "Расскажите о типичном рабочем дне: когда начинается, что делаете, что нравится и нет, какой была работа на родине.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Ich erzähle von meinem Arbeitstag.\n\nIch stehe um 5 Uhr auf und fahre mit der Straßenbahn zur Arbeit. Um 6 Uhr beginnt meine Schicht in der Bäckerei.\n\nZuerst räume ich das Brot in die Regale, dann verkaufe ich an der Theke. Um 10 Uhr mache ich eine Pause.\n\nMir gefällt, dass ich viel mit Kunden spreche. Nicht so schön ist, dass ich so früh aufstehen muss.\n\nIn meiner Heimat habe ich im Büro gearbeitet, von 9 bis 18 Uhr. Das war ganz anders."
+  },
+  {
+   "id": "vzj04",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Mein Lieblingsessen",
+   "thema": "Erzählen Sie von Ihrem Lieblingsessen.",
+   "stichpunkte": [
+    "Was ist es?",
+    "Wer hat es früher gekocht?",
+    "Wie macht man es?",
+    "Kochen Sie es auch in Deutschland?"
+   ],
+   "ru": "Расскажите о любимом блюде: что это, кто готовил, как делать, готовите ли вы его в Германии.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Mein Lieblingsessen sind Pelmeni, kleine Teigtaschen mit Fleisch.\n\nFrüher hat meine Oma sie gekocht. Wir haben am Wochenende alle zusammen in der Küche gesessen und Pelmeni gemacht.\n\nMan macht einen Teig aus Mehl, Wasser und Ei. Dann füllt man ihn mit Hackfleisch und Zwiebeln. Danach kocht man die Pelmeni in Salzwasser.\n\nIn Deutschland koche ich sie auch, meistens am Sonntag. Meine Kinder helfen mir dabei, so wie ich früher meiner Oma geholfen habe."
+  },
+  {
+   "id": "vzj05",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ein Problem beim Amt",
+   "thema": "Erzählen Sie von einer schwierigen Situation bei einem Amt.",
+   "stichpunkte": [
+    "Wo war das?",
+    "Was war das Problem?",
+    "Was haben Sie gemacht?",
+    "Wie ist es ausgegangen?"
+   ],
+   "ru": "Расскажите о трудной ситуации в учреждении: где, в чём проблема, что вы сделали, чем закончилось.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Ich möchte von einer Situation beim Bürgeramt erzählen.\n\nIch wollte mich ummelden, aber ich hatte die Bestätigung vom Vermieter vergessen.\n\nDie Mitarbeiterin hat gesagt, dass ich ohne das Formular nicht ummelden kann. Ich habe sofort meinen Vermieter angerufen. Er hat mir das Formular per E-Mail geschickt, und ich habe es im Copyshop ausgedruckt.\n\nNach einer Stunde war ich wieder da, und es hat geklappt. Seitdem prüfe ich immer zu Hause, ob ich alle Unterlagen dabei habe."
+  },
+  {
+   "id": "vzj06",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Mein erster Deutschkurs",
+   "thema": "Erzählen Sie von Ihrem ersten Deutschkurs.",
+   "stichpunkte": [
+    "Wann und wo?",
+    "Wie war die Gruppe?",
+    "Was war schwer?",
+    "Wie lernen Sie heute?"
+   ],
+   "ru": "Расскажите о первом курсе немецкого: когда и где, какая была группа, что было трудно, как учите сейчас.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Meinen ersten Deutschkurs habe ich vor zwei Jahren an der Volkshochschule gemacht.\n\nIn der Gruppe waren 15 Personen aus zehn Ländern. Wir haben am Anfang mit Händen und Füßen gesprochen.\n\nAm schwierigsten waren für mich die Artikel und die Aussprache von „ü“ und „ö“.\n\nHeute lerne ich jeden Tag mit einer App, höre Podcasts und spreche bei der Arbeit Deutsch. Ich bereite mich jetzt auf den DTZ vor."
+  },
+  {
+   "id": "vzj07",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ein Besuch beim Arzt",
+   "thema": "Erzählen Sie von einem Arztbesuch in Deutschland.",
+   "stichpunkte": [
+    "Warum sind Sie zum Arzt gegangen?",
+    "Wie haben Sie einen Termin bekommen?",
+    "Was hat der Arzt gemacht?",
+    "Was ist anders als in Ihrer Heimat?"
+   ],
+   "ru": "Расскажите о визите к врачу в Германии: почему, как записались, что сделал врач, что отличается от родины.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Letzten Winter hatte ich eine starke Erkältung mit Fieber.\n\nIch habe morgens in der Praxis angerufen und am gleichen Tag einen Termin bekommen.\n\nDie Ärztin hat mich untersucht, in den Hals geschaut und die Lunge abgehört. Sie hat mir Tabletten verschrieben und mich für fünf Tage krankgeschrieben.\n\nIn meiner Heimat geht man oft direkt in eine Poliklinik, wo viele Ärzte zusammen arbeiten. Hier hat man einen Hausarzt, der einen dann zum Facharzt schickt."
+  },
+  {
+   "id": "vzj08",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Mein Wochenende",
+   "thema": "Erzählen Sie, was Sie am letzten Wochenende gemacht haben.",
+   "stichpunkte": [
+    "Was haben Sie am Samstag gemacht?",
+    "Was haben Sie am Sonntag gemacht?",
+    "Mit wem?",
+    "Was war besonders schön?"
+   ],
+   "ru": "Расскажите, что вы делали в прошлые выходные: суббота, воскресенье, с кем, что было особенно хорошо.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Am letzten Wochenende hatte ich viel vor.\n\nAm Samstag habe ich zuerst eingekauft und die Wohnung geputzt. Am Nachmittag war ich mit meiner Tochter beim Kinderturnen.\n\nAm Sonntag sind wir mit Freunden in den Großen Garten gegangen. Wir haben ein Picknick gemacht und Fußball gespielt.\n\nBesonders schön war, dass das Wetter so gut war. Am Abend haben wir noch zusammen gegrillt."
+  },
+  {
+   "id": "vzj09",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Umzug in eine neue Wohnung",
+   "thema": "Erzählen Sie von einem Umzug.",
+   "stichpunkte": [
+    "Warum sind Sie umgezogen?",
+    "Wer hat geholfen?",
+    "Was war schwierig?",
+    "Wie gefällt Ihnen die neue Wohnung?"
+   ],
+   "ru": "Расскажите о переезде: почему переехали, кто помогал, что было трудно, как вам новая квартира.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Letztes Jahr sind wir umgezogen, weil unsere alte Wohnung zu klein war. Wir haben ein zweites Kind bekommen.\n\nMeine Freunde und mein Bruder haben geholfen. Wir haben einen Transporter gemietet.\n\nSchwierig war, dass die neue Wohnung im vierten Stock ist und es keinen Aufzug gibt. Den Schrank zu tragen war sehr anstrengend.\n\nJetzt gefällt mir die Wohnung sehr gut. Die Kinder haben ein eigenes Zimmer, und wir haben einen großen Balkon."
+  },
+  {
+   "id": "vzj10",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Eine wichtige Person",
+   "thema": "Erzählen Sie von einer Person, die für Sie wichtig ist.",
+   "stichpunkte": [
+    "Wer ist die Person?",
+    "Woher kennen Sie sie?",
+    "Was machen Sie zusammen?",
+    "Warum ist sie wichtig für Sie?"
+   ],
+   "ru": "Расскажите о важном для вас человеке: кто это, откуда знаете, что делаете вместе, почему важен.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Ich möchte von meiner Großmutter erzählen.\n\nSie lebt in meiner Heimat in einem kleinen Dorf. Als ich ein Kind war, habe ich jeden Sommer bei ihr verbracht.\n\nWir haben zusammen im Garten gearbeitet, Marmelade gekocht und abends Geschichten erzählt. Heute telefonieren wir jede Woche per Video.\n\nSie ist wichtig für mich, weil sie mir gezeigt hat, dass man auch in schwierigen Zeiten fröhlich bleiben kann."
+  },
+  {
+   "id": "vzj11",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Einkaufen in Deutschland",
+   "thema": "Erzählen Sie, wie Sie in Deutschland einkaufen.",
+   "stichpunkte": [
+    "Wo kaufen Sie ein?",
+    "Was kaufen Sie?",
+    "Was war am Anfang neu für Sie?",
+    "Was ist in Ihrer Heimat anders?"
+   ],
+   "ru": "Расскажите, как вы делаете покупки в Германии: где, что, что было ново, что иначе на родине.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Ich kaufe meistens im Supermarkt in der Nähe ein, und samstags gehe ich auf den Wochenmarkt.\n\nIm Supermarkt kaufe ich Brot, Milchprodukte und Nudeln. Auf dem Markt kaufe ich frisches Obst und Gemüse.\n\nAm Anfang war neu für mich, dass man die Waren an der Kasse selbst schnell einpacken muss und dass es Pfand auf Flaschen gibt.\n\nIn meiner Heimat sind viele Geschäfte jeden Tag geöffnet, auch am Sonntag. Hier ist am Sonntag alles geschlossen."
+  },
+  {
+   "id": "vzj12",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ein Ausflug mit Kindern",
+   "thema": "Erzählen Sie von einem Ausflug mit Ihren Kindern.",
+   "stichpunkte": [
+    "Wohin?",
+    "Wie sind Sie dorthin gekommen?",
+    "Was haben Sie erlebt?",
+    "Würden Sie wieder hinfahren?"
+   ],
+   "ru": "Расскажите о поездке с детьми: куда, как добирались, что пережили, поехали бы снова.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Im Frühling waren wir mit den Kindern im Zoo.\n\nWir sind mit der Straßenbahn gefahren, das hat 20 Minuten gedauert.\n\nDie Kinder haben sich am meisten über die Elefanten und die Pinguine gefreut. Im Streichelzoo durften sie Ziegen füttern. Mittags haben wir ein Picknick gemacht.\n\nJa, wir möchten wieder hinfahren, vielleicht im Herbst. Mit einer Jahreskarte ist es auch nicht so teuer."
+  },
+  {
+   "id": "vzj13",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Meine erste Arbeit in Deutschland",
+   "thema": "Erzählen Sie von Ihrer ersten Arbeit in Deutschland.",
+   "stichpunkte": [
+    "Wo haben Sie gearbeitet?",
+    "Wie haben Sie die Stelle gefunden?",
+    "Wie war der erste Tag?",
+    "Was haben Sie gelernt?"
+   ],
+   "ru": "Расскажите о первой работе в Германии: где, как нашли, каким был первый день, чему научились.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Meine erste Arbeit in Deutschland war in einem Hotel. Ich habe die Zimmer geputzt.\n\nDie Stelle habe ich über eine Bekannte gefunden, die dort schon gearbeitet hat.\n\nAm ersten Tag war ich sehr nervös. Ich habe nicht alles verstanden, aber meine Kollegin hat mir alles gezeigt.\n\nIch habe viele neue Wörter gelernt und gemerkt, wie wichtig Pünktlichkeit in Deutschland ist. Heute arbeite ich an der Rezeption."
+  },
+  {
+   "id": "vzj14",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ein Tag in meiner Heimatstadt",
+   "thema": "Erzählen Sie von Ihrer Heimatstadt.",
+   "stichpunkte": [
+    "Wie heißt die Stadt?",
+    "Was gibt es dort?",
+    "Was haben Sie dort gern gemacht?",
+    "Was ist anders als in Ihrer jetzigen Stadt?"
+   ],
+   "ru": "Расскажите о родном городе: как называется, что там есть, что вы любили делать, что иначе, чем здесь.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Meine Heimatstadt heißt Saratow und liegt an der Wolga.\n\nEs gibt dort einen schönen Park am Fluss, viele Theater und einen großen Markt.\n\nIm Sommer bin ich gern mit Freunden am Fluss spazieren gegangen, und im Winter waren wir Schlittschuh laufen.\n\nDresden ist kleiner, aber auch an einem Fluss, der Elbe. Hier fahren mehr Menschen Fahrrad, und die Altstadt ist sehr alt."
+  },
+  {
+   "id": "vzj15",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ein Missverständnis",
+   "thema": "Erzählen Sie von einem Missverständnis wegen der Sprache.",
+   "stichpunkte": [
+    "Wo war das?",
+    "Was ist passiert?",
+    "Wie haben Sie reagiert?",
+    "Was haben Sie gelernt?"
+   ],
+   "ru": "Расскажите о недоразумении из-за языка: где, что случилось, как отреагировали, чему научились.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Ich möchte von einem lustigen Missverständnis beim Bäcker erzählen.\n\nIch wollte „zwei Brötchen“ kaufen, habe aber „zwei Brötchen bitte warm“ gesagt. Die Verkäuferin hat mir dann aufgebackene Brötchen gegeben, die ich gar nicht wollte.\n\nZuerst war es mir peinlich, aber dann haben wir beide gelacht.\n\nIch habe gelernt, dass man ruhig nachfragen kann, wenn man unsicher ist. Die meisten Menschen sind geduldig."
+  },
+  {
+   "id": "vzj16",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Sport in meinem Leben",
+   "thema": "Erzählen Sie, welche Rolle Sport in Ihrem Leben spielt.",
+   "stichpunkte": [
+    "Welchen Sport machen Sie?",
+    "Seit wann?",
+    "Wo und mit wem?",
+    "Wie war das in Ihrer Heimat?"
+   ],
+   "ru": "Расскажите о спорте в вашей жизни: какой, с какого времени, где и с кем, как было на родине.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Sport ist mir sehr wichtig. Ich gehe zweimal pro Woche schwimmen.\n\nIch schwimme seit meiner Kindheit, aber in Deutschland habe ich vor einem Jahr wieder angefangen.\n\nIch gehe in das Hallenbad in meinem Stadtteil, meistens mit einer Freundin aus dem Deutschkurs.\n\nIn meiner Heimat habe ich als Jugendliche in einem Verein Volleyball gespielt. Vielleicht suche ich mir hier auch einen Verein."
+  },
+  {
+   "id": "vzj17",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Hilfe von anderen",
+   "thema": "Erzählen Sie, wie Ihnen jemand in Deutschland geholfen hat.",
+   "stichpunkte": [
+    "Wer hat geholfen?",
+    "Wobei?",
+    "Wie haben Sie sich gefühlt?",
+    "Helfen Sie jetzt auch anderen?"
+   ],
+   "ru": "Расскажите, как вам помогли в Германии: кто, с чем, как вы себя чувствовали, помогаете ли вы теперь другим.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Als ich nach Deutschland gekommen bin, hat mir meine Nachbarin Frau Weber sehr geholfen.\n\nSie hat mir erklärt, wie man den Müll trennt, und ist mit mir zum Bürgeramt gegangen. Außerdem hat sie mir bei vielen Briefen geholfen.\n\nIch war sehr dankbar, weil ich mich am Anfang allein gefühlt habe.\n\nJetzt helfe ich auch anderen. Einmal pro Woche übersetze ich bei der Migrationsberatung für Menschen, die Russisch sprechen."
+  },
+  {
+   "id": "vzj18",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ein Geburtstag",
+   "thema": "Erzählen Sie von einem Geburtstag, den Sie gefeiert haben.",
+   "stichpunkte": [
+    "Wessen Geburtstag?",
+    "Wo und mit wem?",
+    "Was gab es zu essen?",
+    "Was war das schönste Geschenk?"
+   ],
+   "ru": "Расскажите о дне рождения: чей, где и с кем, что ели, какой подарок был лучшим.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Ich möchte vom 10. Geburtstag meines Sohnes erzählen.\n\nWir haben zu Hause gefeiert, mit acht Freunden aus seiner Klasse und mit der Familie.\n\nIch habe eine große Schokoladentorte gebacken, und es gab Pizza und Würstchen.\n\nDas schönste Geschenk war ein Fahrrad von uns. Er hat sich so sehr gefreut, dass er sofort damit fahren wollte, obwohl es schon dunkel war."
+  },
+  {
+   "id": "vzj19",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wohnen in meiner Heimat",
+   "thema": "Erzählen Sie, wie Sie in Ihrer Heimat gewohnt haben.",
+   "stichpunkte": [
+    "Wo haben Sie gewohnt?",
+    "Wie war die Wohnung?",
+    "Wer hat dort gewohnt?",
+    "Was ist hier anders?"
+   ],
+   "ru": "Расскажите, как вы жили на родине: где, какая была квартира, кто жил, что здесь иначе.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "In meiner Heimat habe ich in einer Wohnung in einem großen Hochhaus gewohnt, im neunten Stock.\n\nDie Wohnung hatte zwei Zimmer, eine kleine Küche und einen Balkon mit Blick auf die Stadt.\n\nIch habe dort mit meinem Mann und meiner Schwiegermutter gewohnt. Das war manchmal eng.\n\nHier in Deutschland haben wir mehr Platz. Anders ist auch, dass man hier die Hausordnung beachten muss, zum Beispiel die Ruhezeiten."
+  },
+  {
+   "id": "vzj20",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ein besonderer Tag",
+   "thema": "Erzählen Sie von einem besonderen Tag in Ihrem Leben.",
+   "stichpunkte": [
+    "Welcher Tag war das?",
+    "Was ist passiert?",
+    "Wer war dabei?",
+    "Warum war er besonders?"
+   ],
+   "ru": "Расскажите об особенном дне в вашей жизни: какой день, что случилось, кто был рядом, почему особенный.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Ein besonderer Tag war der Tag, als ich meine A2-Prüfung bestanden habe.\n\nIch hatte viel gelernt und war sehr aufgeregt. Nach drei Wochen kam der Brief mit dem Ergebnis.\n\nMein Mann und meine Kinder waren zu Hause, als ich den Brief geöffnet habe. Wir haben uns alle sehr gefreut und abends ein Eis gegessen.\n\nDer Tag war besonders, weil ich gemerkt habe, dass sich das Lernen lohnt. Jetzt möchte ich auch den DTZ schaffen."
+  },
+  {
+   "id": "vzj21",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Mit dem Zug unterwegs",
+   "thema": "Erzählen Sie von einer Reise mit dem Zug.",
+   "stichpunkte": [
+    "Wohin sind Sie gefahren?",
+    "Wie war die Fahrt?",
+    "Gab es Probleme?",
+    "Wie reisen Sie am liebsten?"
+   ],
+   "ru": "Расскажите о поездке на поезде: куда, какой была поездка, были ли проблемы, как вы любите путешествовать.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Letzten Sommer bin ich mit dem Zug nach Berlin gefahren, um eine Freundin zu besuchen.\n\nDie Fahrt hat etwa zwei Stunden gedauert. Ich habe aus dem Fenster geschaut und ein Buch gelesen.\n\nAuf dem Rückweg hatte der Zug eine Stunde Verspätung, weil es eine Störung gab. Ich habe meine Freundin angerufen und mit anderen Fahrgästen gesprochen.\n\nTrotzdem reise ich am liebsten mit dem Zug, weil es entspannter ist als mit dem Auto."
+  },
+  {
+   "id": "vzj22",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kinder in Deutschland",
+   "thema": "Erzählen Sie, wie Ihre Kinder sich in Deutschland eingelebt haben.",
+   "stichpunkte": [
+    "Wie alt waren sie?",
+    "Was war am Anfang schwierig?",
+    "Wer hat geholfen?",
+    "Wie geht es ihnen heute?"
+   ],
+   "ru": "Расскажите, как ваши дети освоились в Германии: возраст, что было трудно, кто помог, как сейчас.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Als wir nach Deutschland gekommen sind, war mein Sohn acht und meine Tochter vier Jahre alt.\n\nAm Anfang war die Sprache das größte Problem. Mein Sohn hat in der Schule kaum etwas verstanden und war oft traurig.\n\nSeine Lehrerin war sehr geduldig, und er hatte zusätzlichen Deutschunterricht. Meine Tochter hat in der Kita schnell Freunde gefunden.\n\nHeute sprechen beide sehr gut Deutsch, besser als ich! Sie fühlen sich hier wohl."
+  },
+  {
+   "id": "vzj23",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ein schwieriger Moment",
+   "thema": "Erzählen Sie von einem schwierigen Moment und wie Sie ihn gelöst haben.",
+   "stichpunkte": [
+    "Was ist passiert?",
+    "Wie haben Sie sich gefühlt?",
+    "Was haben Sie gemacht?",
+    "Was haben Sie daraus gelernt?"
+   ],
+   "ru": "Расскажите о трудном моменте и как вы с ним справились: что случилось, как себя чувствовали, что сделали, чему научились.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Einmal habe ich meine Geldbörse mit allen Karten und dem Ausweis im Bus verloren.\n\nIch hatte große Angst, weil ich nicht wusste, was ich tun soll.\n\nZuerst habe ich die Bank angerufen und die Karte sperren lassen. Danach bin ich zum Fundbüro gegangen. Zwei Tage später hat jemand die Geldbörse dort abgegeben – mit allem!\n\nIch habe gelernt, dass man ruhig bleiben muss. Und ich habe jetzt die Sperrnummer in meinem Handy gespeichert."
+  },
+  {
+   "id": "vzj24",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Meine Nachbarschaft",
+   "thema": "Erzählen Sie von Ihrer Nachbarschaft.",
+   "stichpunkte": [
+    "Wo wohnen Sie?",
+    "Wie sind die Nachbarn?",
+    "Was machen Sie zusammen?",
+    "Wie war die Nachbarschaft in Ihrer Heimat?"
+   ],
+   "ru": "Расскажите о соседях: где живёте, какие соседи, что делаете вместе, как было на родине.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Ich wohne in einem Haus mit zwölf Wohnungen im Stadtteil Löbtau.\n\nDie meisten Nachbarn sind freundlich. Eine ältere Frau unter uns gibt meinen Kindern manchmal Süßigkeiten.\n\nIm Sommer gibt es ein Hoffest, und wir grillen zusammen. Wenn jemand verreist, gießen wir die Blumen.\n\nIn meiner Heimat kannte jeder jeden im Haus, und man hat sich oft besucht. Hier ist es ruhiger, aber trotzdem nett."
+  },
+  {
+   "id": "vzj25",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ein Kurs, den ich gemacht habe",
+   "thema": "Erzählen Sie von einem Kurs, den Sie in Deutschland gemacht haben (nicht Deutsch).",
+   "stichpunkte": [
+    "Welcher Kurs?",
+    "Warum haben Sie ihn gemacht?",
+    "Wie war der Kurs?",
+    "Was hat er Ihnen gebracht?"
+   ],
+   "ru": "Расскажите о курсе (не немецкого), который вы прошли в Германии: какой, почему, каким был, что дал.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Ich habe letztes Jahr einen Computerkurs an der Volkshochschule gemacht.\n\nIch wollte lernen, wie man Bewerbungen am Computer schreibt und Formulare online ausfüllt.\n\nDer Kurs war zweimal pro Woche am Abend. Die Lehrerin hat alles langsam erklärt, und wir haben viel geübt.\n\nJetzt kann ich meine Termine online buchen und habe meinen Lebenslauf selbst geschrieben. Das hat mir bei der Arbeitssuche sehr geholfen."
+  },
+  {
+   "id": "vzj26",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Winter in Deutschland",
+   "thema": "Erzählen Sie, wie Sie den Winter in Deutschland erleben.",
+   "stichpunkte": [
+    "Wie ist das Wetter?",
+    "Was machen Sie im Winter?",
+    "Was gefällt Ihnen besonders?",
+    "Wie ist der Winter in Ihrer Heimat?"
+   ],
+   "ru": "Расскажите, как вы проводите зиму в Германии: погода, что делаете, что особенно нравится, какая зима на родине.",
+   "rm": [
+    "Ich möchte erzählen, wie …",
+    "Zuerst …, dann …, danach …",
+    "Am schönsten / Am schwierigsten war …",
+    "In meinem Heimatland …",
+    "Heute …"
+   ],
+   "m": "Der Winter in Deutschland ist meistens grau und regnerisch, Schnee gibt es nur selten.\n\nIm Winter gehe ich mit den Kindern zum Schlittschuhlaufen auf dem Altmarkt und wir backen Plätzchen.\n\nBesonders gefallen mir die Weihnachtsmärkte. Der Striezelmarkt in Dresden ist wunderschön, mit Lichtern und Glühwein.\n\nIn meiner Heimat ist der Winter viel kälter, oft minus 20 Grad, aber dafür gibt es viel Schnee und die Sonne scheint."
+  }
+ ]
+}

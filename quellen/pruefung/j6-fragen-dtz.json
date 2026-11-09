@@ -1,0 +1,1024 @@
+{
+ "fragen": [
+  {
+   "id": "qzj01",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zur Person",
+   "fragen": [
+    {
+     "q": "Wie heißen Sie und woher kommen Sie?",
+     "m": "Ich heiße Olga Iwanowa und komme aus Russland, aus der Stadt Samara.",
+     "ru": "Как вас зовут и откуда вы?"
+    },
+    {
+     "q": "Seit wann leben Sie in Deutschland?",
+     "m": "Ich lebe seit zwei Jahren in Deutschland, in Dresden.",
+     "ru": "С какого времени вы живёте в Германии?"
+    },
+    {
+     "q": "Warum sind Sie nach Deutschland gekommen?",
+     "m": "Ich bin wegen meiner Familie gekommen. Mein Mann arbeitet hier.",
+     "ru": "Почему вы приехали в Германию?"
+    },
+    {
+     "q": "Wie gefällt Ihnen Dresden?",
+     "m": "Sehr gut. Die Stadt ist schön, und es gibt viele Parks.",
+     "ru": "Как вам Дрезден?"
+    },
+    {
+     "q": "Was möchten Sie in Zukunft machen?",
+     "m": "Ich möchte gut Deutsch lernen und als Krankenschwester arbeiten.",
+     "ru": "Чем вы хотите заниматься в будущем?"
+    }
+   ]
+  },
+  {
+   "id": "qzj02",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zur Wohnung",
+   "fragen": [
+    {
+     "q": "Wo wohnen Sie?",
+     "m": "Ich wohne in einer Dreizimmerwohnung im Stadtteil Gorbitz.",
+     "ru": "Где вы живёте?"
+    },
+    {
+     "q": "Wie groß ist Ihre Wohnung?",
+     "m": "Sie hat 70 Quadratmeter, drei Zimmer, eine Küche und einen Balkon.",
+     "ru": "Какая у вас квартира?"
+    },
+    {
+     "q": "Wie sind Ihre Nachbarn?",
+     "m": "Meine Nachbarn sind sehr freundlich. Eine Nachbarin hilft mir manchmal mit Briefen.",
+     "ru": "Какие у вас соседи?"
+    },
+    {
+     "q": "Was gefällt Ihnen an Ihrer Wohnung nicht?",
+     "m": "Es gibt keinen Aufzug, und wir wohnen im vierten Stock. Mit dem Kinderwagen ist das schwer.",
+     "ru": "Что вам не нравится в квартире?"
+    },
+    {
+     "q": "Wie haben Sie die Wohnung gefunden?",
+     "m": "Über eine Anzeige im Internet. Wir haben lange gesucht.",
+     "ru": "Как вы нашли квартиру?"
+    }
+   ]
+  },
+  {
+   "id": "qzj03",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zur Arbeit",
+   "fragen": [
+    {
+     "q": "Was sind Sie von Beruf?",
+     "m": "Ich bin Verkäuferin. Ich arbeite in einem Supermarkt.",
+     "ru": "Кто вы по профессии?"
+    },
+    {
+     "q": "Wie lange arbeiten Sie schon dort?",
+     "m": "Ich arbeite seit einem Jahr dort, zuerst als Aushilfe, jetzt in Teilzeit.",
+     "ru": "Как долго вы там работаете?"
+    },
+    {
+     "q": "Was machen Sie bei der Arbeit?",
+     "m": "Ich sitze an der Kasse und räume die Regale ein.",
+     "ru": "Что вы делаете на работе?"
+    },
+    {
+     "q": "Was gefällt Ihnen an Ihrer Arbeit?",
+     "m": "Meine Kollegen sind nett, und ich spreche jeden Tag Deutsch mit Kunden.",
+     "ru": "Что вам нравится в работе?"
+    },
+    {
+     "q": "Was haben Sie in Ihrer Heimat gearbeitet?",
+     "m": "In meiner Heimat war ich Buchhalterin in einer kleinen Firma.",
+     "ru": "Кем вы работали на родине?"
+    }
+   ]
+  },
+  {
+   "id": "qzj04",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zur Freizeit",
+   "fragen": [
+    {
+     "q": "Was machen Sie gern in Ihrer Freizeit?",
+     "m": "Ich lese gern, und am Wochenende gehe ich mit meinen Kindern spazieren.",
+     "ru": "Что вы любите делать в свободное время?"
+    },
+    {
+     "q": "Treiben Sie Sport?",
+     "m": "Ja, ich gehe zweimal pro Woche schwimmen.",
+     "ru": "Занимаетесь ли вы спортом?"
+    },
+    {
+     "q": "Was machen Sie am Wochenende?",
+     "m": "Wir besuchen Freunde oder fahren in die Natur, zum Beispiel an die Elbe.",
+     "ru": "Что вы делаете на выходных?"
+    },
+    {
+     "q": "Haben Sie ein Hobby?",
+     "m": "Ja, ich koche sehr gern und probiere neue Rezepte aus.",
+     "ru": "У вас есть хобби?"
+    },
+    {
+     "q": "Was machen Sie am Abend nach der Arbeit?",
+     "m": "Ich koche, helfe den Kindern bei den Hausaufgaben und lerne ein bisschen Deutsch.",
+     "ru": "Что вы делаете вечером после работы?"
+    }
+   ]
+  },
+  {
+   "id": "qzj05",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum Deutschlernen",
+   "fragen": [
+    {
+     "q": "Wie lange lernen Sie schon Deutsch?",
+     "m": "Ich lerne seit eineinhalb Jahren Deutsch.",
+     "ru": "Как долго вы учите немецкий?"
+    },
+    {
+     "q": "Wo lernen Sie Deutsch?",
+     "m": "Im Integrationskurs an der Volkshochschule und zu Hause mit einer App.",
+     "ru": "Где вы учите немецкий?"
+    },
+    {
+     "q": "Was ist für Sie schwierig?",
+     "m": "Die Artikel der, die, das und das Sprechen am Telefon.",
+     "ru": "Что для вас трудно?"
+    },
+    {
+     "q": "Wie üben Sie zu Hause?",
+     "m": "Ich höre Radio, schaue Nachrichten auf Deutsch und lese einfache Bücher.",
+     "ru": "Как вы тренируетесь дома?"
+    },
+    {
+     "q": "Warum ist Deutsch für Sie wichtig?",
+     "m": "Ohne Deutsch finde ich keine gute Arbeit, und ich möchte meinen Kindern bei der Schule helfen.",
+     "ru": "Почему немецкий важен для вас?"
+    }
+   ]
+  },
+  {
+   "id": "qzj06",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum Einkaufen",
+   "fragen": [
+    {
+     "q": "Wo kaufen Sie meistens ein?",
+     "m": "Meistens im Supermarkt in der Nähe und am Samstag auf dem Markt.",
+     "ru": "Где вы обычно делаете покупки?"
+    },
+    {
+     "q": "Was kaufen Sie auf dem Markt?",
+     "m": "Frisches Obst, Gemüse und manchmal Käse.",
+     "ru": "Что вы покупаете на рынке?"
+    },
+    {
+     "q": "Kaufen Sie auch im Internet?",
+     "m": "Ja, Kleidung für die Kinder und manchmal Bücher.",
+     "ru": "Покупаете ли вы в интернете?"
+    },
+    {
+     "q": "Gibt es Lebensmittel aus Ihrer Heimat?",
+     "m": "Ja, in einem russischen Laden in der Stadt. Dort kaufe ich Buchweizen und Kefir.",
+     "ru": "Есть ли продукты с вашей родины?"
+    },
+    {
+     "q": "Was ist anders als in Ihrer Heimat?",
+     "m": "Die Geschäfte sind sonntags geschlossen. Das war am Anfang ungewohnt.",
+     "ru": "Что отличается от вашей родины?"
+    }
+   ]
+  },
+  {
+   "id": "qzj07",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum Wetter und zu Jahreszeiten",
+   "fragen": [
+    {
+     "q": "Welche Jahreszeit mögen Sie am liebsten?",
+     "m": "Ich mag den Frühling am liebsten, wenn alles grün wird.",
+     "ru": "Какое время года вы любите больше всего?"
+    },
+    {
+     "q": "Wie ist das Wetter in Ihrer Heimat?",
+     "m": "Im Winter ist es sehr kalt, bis minus 30 Grad, und im Sommer heiß.",
+     "ru": "Какая погода на вашей родине?"
+    },
+    {
+     "q": "Was machen Sie im Sommer?",
+     "m": "Wir gehen ins Freibad oder machen ein Picknick im Park.",
+     "ru": "Что вы делаете летом?"
+    },
+    {
+     "q": "Wie finden Sie das Wetter in Deutschland?",
+     "m": "Es regnet oft, aber der Winter ist nicht so kalt wie bei uns.",
+     "ru": "Как вам погода в Германии?"
+    },
+    {
+     "q": "Was machen Sie, wenn es regnet?",
+     "m": "Ich bleibe zu Hause, backe einen Kuchen oder gehe mit den Kindern ins Museum.",
+     "ru": "Что вы делаете, когда идёт дождь?"
+    }
+   ]
+  },
+  {
+   "id": "qzj08",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zur Gesundheit",
+   "fragen": [
+    {
+     "q": "Wie oft gehen Sie zum Arzt?",
+     "m": "Nur wenn ich krank bin und einmal im Jahr zur Vorsorge.",
+     "ru": "Как часто вы ходите к врачу?"
+    },
+    {
+     "q": "Haben Sie einen Hausarzt?",
+     "m": "Ja, eine Hausärztin in der Nähe. Sie ist sehr nett.",
+     "ru": "Есть ли у вас семейный врач?"
+    },
+    {
+     "q": "Was machen Sie, wenn Sie erkältet sind?",
+     "m": "Ich trinke viel Tee mit Honig und bleibe zu Hause.",
+     "ru": "Что вы делаете при простуде?"
+    },
+    {
+     "q": "Was tun Sie für Ihre Gesundheit?",
+     "m": "Ich esse viel Obst und Gemüse und fahre jeden Tag Fahrrad.",
+     "ru": "Что вы делаете для здоровья?"
+    },
+    {
+     "q": "War es schwer, in Deutschland einen Arzt zu finden?",
+     "m": "Ja, am Anfang. Viele Praxen nehmen keine neuen Patienten. Eine Bekannte hat mir geholfen.",
+     "ru": "Было ли трудно найти врача?"
+    }
+   ]
+  },
+  {
+   "id": "qzj09",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Verkehr und Wegen",
+   "fragen": [
+    {
+     "q": "Wie kommen Sie zum Deutschkurs?",
+     "m": "Mit der Straßenbahn, das dauert 20 Minuten.",
+     "ru": "Как вы добираетесь до курса?"
+    },
+    {
+     "q": "Haben Sie ein Auto?",
+     "m": "Nein, wir haben kein Auto. Wir fahren mit Bus, Bahn und Fahrrad.",
+     "ru": "У вас есть машина?"
+    },
+    {
+     "q": "Haben Sie einen Führerschein?",
+     "m": "Ja, aus meiner Heimat. Ich muss ihn noch umschreiben lassen.",
+     "ru": "У вас есть права?"
+    },
+    {
+     "q": "Fahren Sie gern Fahrrad?",
+     "m": "Ja, sehr gern. Im Sommer fahre ich fast überall mit dem Fahrrad hin.",
+     "ru": "Любите ли вы ездить на велосипеде?"
+    },
+    {
+     "q": "Was kostet ein Ticket?",
+     "m": "Ich habe das Deutschlandticket, das kostet 63 Euro im Monat.",
+     "ru": "Сколько стоит билет?"
+    }
+   ]
+  },
+  {
+   "id": "qzj10",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Kindern und Schule",
+   "fragen": [
+    {
+     "q": "Wie alt sind Ihre Kinder?",
+     "m": "Mein Sohn ist zehn und meine Tochter sechs Jahre alt.",
+     "ru": "Сколько лет вашим детям?"
+    },
+    {
+     "q": "In welche Schule gehen sie?",
+     "m": "Mein Sohn geht in die vierte Klasse der Grundschule, meine Tochter ist noch in der Kita.",
+     "ru": "В какую школу они ходят?"
+    },
+    {
+     "q": "Wie finden die Kinder die Schule?",
+     "m": "Mein Sohn geht sehr gern hin, er hat viele Freunde.",
+     "ru": "Как детям нравится школа?"
+    },
+    {
+     "q": "Sprechen Ihre Kinder gut Deutsch?",
+     "m": "Ja, besser als ich! Sie korrigieren mich manchmal.",
+     "ru": "Хорошо ли говорят дети по-немецки?"
+    },
+    {
+     "q": "Was machen die Kinder nach der Schule?",
+     "m": "Mein Sohn spielt Fußball, und meine Tochter geht zum Tanzen.",
+     "ru": "Что делают дети после школы?"
+    }
+   ]
+  },
+  {
+   "id": "qzj11",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Festen",
+   "fragen": [
+    {
+     "q": "Welche Feste feiern Sie?",
+     "m": "Wir feiern Neujahr und Weihnachten, und auch die Geburtstage in der Familie.",
+     "ru": "Какие праздники вы празднуете?"
+    },
+    {
+     "q": "Wie feiern Sie Neujahr?",
+     "m": "Mit der ganzen Familie, wir essen viel und machen um Mitternacht ein Feuerwerk.",
+     "ru": "Как вы празднуете Новый год?"
+    },
+    {
+     "q": "Kennen Sie deutsche Feste?",
+     "m": "Ja, Ostern und den Weihnachtsmarkt. Den Striezelmarkt finde ich wunderschön.",
+     "ru": "Знаете ли вы немецкие праздники?"
+    },
+    {
+     "q": "Wie feiern Sie Geburtstag?",
+     "m": "Ich lade Freunde ein und koche typische Gerichte aus meiner Heimat.",
+     "ru": "Как вы празднуете день рождения?"
+    },
+    {
+     "q": "Was ist anders als in Ihrer Heimat?",
+     "m": "Hier bringt das Geburtstagskind selbst Kuchen zur Arbeit mit. Das kannte ich nicht.",
+     "ru": "Что отличается от вашей родины?"
+    }
+   ]
+  },
+  {
+   "id": "qzj12",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum Essen",
+   "fragen": [
+    {
+     "q": "Was essen Sie gern?",
+     "m": "Ich esse gern Fisch, Salat und Suppen.",
+     "ru": "Что вы любите есть?"
+    },
+    {
+     "q": "Was ist ein typisches Gericht aus Ihrer Heimat?",
+     "m": "Borschtsch, eine Suppe mit Roter Bete, und Pelmeni.",
+     "ru": "Какое блюдо типично для вашей родины?"
+    },
+    {
+     "q": "Kochen Sie jeden Tag?",
+     "m": "Ja, meistens am Abend, wenn die ganze Familie zu Hause ist.",
+     "ru": "Готовите ли вы каждый день?"
+    },
+    {
+     "q": "Mögen Sie das deutsche Essen?",
+     "m": "Ja, besonders Brot. Es gibt so viele verschiedene Sorten.",
+     "ru": "Нравится ли вам немецкая еда?"
+    },
+    {
+     "q": "Gehen Sie oft ins Restaurant?",
+     "m": "Nein, nur selten, zu besonderen Anlässen. Es ist ziemlich teuer.",
+     "ru": "Часто ли вы ходите в ресторан?"
+    }
+   ]
+  },
+  {
+   "id": "qzj13",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Urlaub und Reisen",
+   "fragen": [
+    {
+     "q": "Wohin fahren Sie gern im Urlaub?",
+     "m": "Ich fahre gern ans Meer, zum Beispiel an die Ostsee.",
+     "ru": "Куда вы любите ездить в отпуск?"
+    },
+    {
+     "q": "Fahren Sie manchmal in Ihre Heimat?",
+     "m": "Ja, einmal im Jahr besuchen wir meine Eltern.",
+     "ru": "Ездите ли вы на родину?"
+    },
+    {
+     "q": "Welche Stadt in Deutschland möchten Sie sehen?",
+     "m": "Ich möchte gern nach Hamburg fahren und den Hafen sehen.",
+     "ru": "Какой город в Германии вы хотите увидеть?"
+    },
+    {
+     "q": "Wie reisen Sie am liebsten?",
+     "m": "Mit dem Zug, weil man aus dem Fenster schauen und sich entspannen kann.",
+     "ru": "Как вы предпочитаете путешествовать?"
+    },
+    {
+     "q": "Was war Ihre schönste Reise?",
+     "m": "Eine Reise nach Prag. Die Stadt ist wunderschön und nicht weit von Dresden.",
+     "ru": "Какое было ваше лучшее путешествие?"
+    }
+   ]
+  },
+  {
+   "id": "qzj14",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zur Familie in der Heimat",
+   "fragen": [
+    {
+     "q": "Wo wohnt Ihre Familie?",
+     "m": "Meine Eltern und mein Bruder wohnen noch in meiner Heimatstadt.",
+     "ru": "Где живёт ваша семья?"
+    },
+    {
+     "q": "Wie oft sprechen Sie mit ihnen?",
+     "m": "Wir telefonieren fast jeden Tag per Video.",
+     "ru": "Как часто вы с ними говорите?"
+    },
+    {
+     "q": "Vermissen Sie Ihre Familie?",
+     "m": "Ja, sehr, besonders an Feiertagen.",
+     "ru": "Скучаете ли вы по семье?"
+    },
+    {
+     "q": "Besucht Ihre Familie Sie in Deutschland?",
+     "m": "Meine Mutter war letzten Sommer für drei Wochen bei uns.",
+     "ru": "Навещает ли вас семья в Германии?"
+    },
+    {
+     "q": "Was erzählen Sie Ihrer Familie über Deutschland?",
+     "m": "Dass hier alles gut organisiert ist und die Menschen pünktlich sind.",
+     "ru": "Что вы рассказываете семье о Германии?"
+    }
+   ]
+  },
+  {
+   "id": "qzj15",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Behörden",
+   "fragen": [
+    {
+     "q": "Bei welchen Ämtern waren Sie schon?",
+     "m": "Beim Bürgeramt, bei der Ausländerbehörde und beim Jobcenter.",
+     "ru": "В каких учреждениях вы уже были?"
+    },
+    {
+     "q": "Was war schwierig?",
+     "m": "Die Formulare und die langen Wartezeiten für einen Termin.",
+     "ru": "Что было трудно?"
+    },
+    {
+     "q": "Wer hilft Ihnen bei Briefen?",
+     "m": "Die Migrationsberatung und manchmal meine Nachbarin.",
+     "ru": "Кто помогает вам с письмами?"
+    },
+    {
+     "q": "Machen Sie Termine online?",
+     "m": "Ja, beim Bürgeramt geht das gut. Bei anderen Ämtern rufe ich an.",
+     "ru": "Записываетесь ли вы онлайн?"
+    },
+    {
+     "q": "Was haben Sie zuletzt beantragt?",
+     "m": "Kindergeld für meine Tochter. Es hat zwei Monate gedauert.",
+     "ru": "Что вы последнее оформляли?"
+    }
+   ]
+  },
+  {
+   "id": "qzj16",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum Tagesablauf",
+   "fragen": [
+    {
+     "q": "Wann stehen Sie morgens auf?",
+     "m": "Ich stehe um 6 Uhr auf, weil die Kinder um 7:30 Uhr zur Schule müssen.",
+     "ru": "Когда вы встаёте утром?"
+    },
+    {
+     "q": "Was machen Sie am Vormittag?",
+     "m": "Am Vormittag habe ich meinen Deutschkurs von 8:30 bis 12:45 Uhr.",
+     "ru": "Что вы делаете до обеда?"
+    },
+    {
+     "q": "Wann essen Sie zu Mittag?",
+     "m": "Ungefähr um 13 Uhr, wenn ich vom Kurs nach Hause komme.",
+     "ru": "Когда вы обедаете?"
+    },
+    {
+     "q": "Was machen Sie am Nachmittag?",
+     "m": "Ich hole meine Tochter von der Kita ab, und wir gehen auf den Spielplatz.",
+     "ru": "Что вы делаете после обеда?"
+    },
+    {
+     "q": "Wann gehen Sie schlafen?",
+     "m": "Meistens um 22:30 Uhr, nachdem ich noch etwas gelernt habe.",
+     "ru": "Когда вы ложитесь спать?"
+    }
+   ]
+  },
+  {
+   "id": "qzj17",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Freunden",
+   "fragen": [
+    {
+     "q": "Haben Sie Freunde in Deutschland?",
+     "m": "Ja, ich habe Freunde aus dem Deutschkurs und eine deutsche Nachbarin.",
+     "ru": "Есть ли у вас друзья в Германии?"
+    },
+    {
+     "q": "Wie haben Sie sie kennengelernt?",
+     "m": "Im Kurs, auf dem Spielplatz und bei der Arbeit.",
+     "ru": "Как вы познакомились?"
+    },
+    {
+     "q": "Was machen Sie zusammen?",
+     "m": "Wir trinken Kaffee, kochen zusammen oder gehen spazieren.",
+     "ru": "Что вы делаете вместе?"
+    },
+    {
+     "q": "Welche Sprache sprechen Sie mit Ihren Freunden?",
+     "m": "Mit den meisten Deutsch, mit zwei Freundinnen auch Russisch.",
+     "ru": "На каком языке вы говорите с друзьями?"
+    },
+    {
+     "q": "Ist es leicht, in Deutschland Freunde zu finden?",
+     "m": "Nicht so leicht. Die Menschen sind freundlich, aber es dauert, bis man sich gut kennt.",
+     "ru": "Легко ли найти друзей в Германии?"
+    }
+   ]
+  },
+  {
+   "id": "qzj18",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Medien",
+   "fragen": [
+    {
+     "q": "Lesen Sie Zeitung?",
+     "m": "Ja, die Lokalzeitung im Internet, manchmal auch Nachrichten in einfacher Sprache.",
+     "ru": "Читаете ли вы газету?"
+    },
+    {
+     "q": "Was schauen Sie im Fernsehen?",
+     "m": "Nachrichten und Kochsendungen, manchmal einen Film.",
+     "ru": "Что вы смотрите по телевизору?"
+    },
+    {
+     "q": "Wie lange benutzen Sie jeden Tag das Handy?",
+     "m": "Ungefähr zwei Stunden, vor allem für Nachrichten und Telefonate mit der Familie.",
+     "ru": "Сколько вы пользуетесь телефоном?"
+    },
+    {
+     "q": "Hören Sie Musik?",
+     "m": "Ja, im Auto und beim Kochen, am liebsten Popmusik.",
+     "ru": "Слушаете ли вы музыку?"
+    },
+    {
+     "q": "Benutzen Sie soziale Medien?",
+     "m": "Ja, ich habe WhatsApp und Instagram, um Kontakt mit Freunden zu halten.",
+     "ru": "Пользуетесь ли вы соцсетями?"
+    }
+   ]
+  },
+  {
+   "id": "qzj19",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zur Ausbildung",
+   "fragen": [
+    {
+     "q": "Welche Schule haben Sie besucht?",
+     "m": "Ich bin elf Jahre in die Schule gegangen und habe das Abitur gemacht.",
+     "ru": "Какую школу вы окончили?"
+    },
+    {
+     "q": "Haben Sie studiert?",
+     "m": "Ja, ich habe in meiner Heimat Wirtschaft studiert.",
+     "ru": "Вы учились в университете?"
+    },
+    {
+     "q": "Wird Ihr Abschluss in Deutschland anerkannt?",
+     "m": "Ich habe den Antrag gestellt und warte noch auf die Antwort.",
+     "ru": "Признан ли ваш диплом в Германии?"
+    },
+    {
+     "q": "Möchten Sie in Deutschland noch etwas lernen?",
+     "m": "Ja, ich möchte eine Ausbildung als Kauffrau für Büromanagement machen.",
+     "ru": "Хотите ли вы ещё чему-то учиться в Германии?"
+    },
+    {
+     "q": "Was war Ihr Lieblingsfach in der Schule?",
+     "m": "Mathematik. Ich rechne gern.",
+     "ru": "Какой был ваш любимый предмет?"
+    }
+   ]
+  },
+  {
+   "id": "qzj20",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum Stadtteil",
+   "fragen": [
+    {
+     "q": "Wie heißt Ihr Stadtteil?",
+     "m": "Ich wohne in Pieschen, das ist im Norden von Dresden.",
+     "ru": "Как называется ваш район?"
+    },
+    {
+     "q": "Was gibt es in Ihrem Stadtteil?",
+     "m": "Es gibt Geschäfte, eine Schule, zwei Kitas und einen schönen Park an der Elbe.",
+     "ru": "Что есть в вашем районе?"
+    },
+    {
+     "q": "Was fehlt in Ihrem Stadtteil?",
+     "m": "Ein Schwimmbad. Wir müssen immer in einen anderen Stadtteil fahren.",
+     "ru": "Чего не хватает в районе?"
+    },
+    {
+     "q": "Fühlen Sie sich dort wohl?",
+     "m": "Ja, es ist ruhig, und die Nachbarn sind nett.",
+     "ru": "Хорошо ли вам там?"
+    },
+    {
+     "q": "Wo treffen Sie sich mit Nachbarn?",
+     "m": "Im Hof, auf dem Spielplatz oder beim Bäcker an der Ecke.",
+     "ru": "Где вы встречаетесь с соседями?"
+    }
+   ]
+  },
+  {
+   "id": "qzj21",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Haushalt",
+   "fragen": [
+    {
+     "q": "Wer macht bei Ihnen den Haushalt?",
+     "m": "Mein Mann und ich teilen die Arbeit. Er kocht, ich putze.",
+     "ru": "Кто у вас занимается хозяйством?"
+    },
+    {
+     "q": "Helfen die Kinder auch?",
+     "m": "Ja, sie räumen ihr Zimmer auf und decken den Tisch.",
+     "ru": "Помогают ли дети?"
+    },
+    {
+     "q": "Wann machen Sie den Großeinkauf?",
+     "m": "Am Samstagvormittag, dann haben wir alles für die Woche.",
+     "ru": "Когда вы делаете большие покупки?"
+    },
+    {
+     "q": "Wie trennen Sie den Müll?",
+     "m": "Wir haben eine gelbe, eine blaue, eine braune und eine schwarze Tonne. Am Anfang war das schwer.",
+     "ru": "Как вы сортируете мусор?"
+    },
+    {
+     "q": "Was machen Sie nicht gern im Haushalt?",
+     "m": "Bügeln! Das mache ich gar nicht gern.",
+     "ru": "Что вы не любите делать по дому?"
+    }
+   ]
+  },
+  {
+   "id": "qzj22",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum Kennenlernen",
+   "fragen": [
+    {
+     "q": "Seit wann sind Sie im Deutschkurs?",
+     "m": "Seit Januar, also seit vier Monaten.",
+     "ru": "С какого времени вы на курсе?"
+    },
+    {
+     "q": "Wie finden Sie den Kurs?",
+     "m": "Sehr gut. Die Lehrerin erklärt gut, und die Gruppe ist nett.",
+     "ru": "Как вам курс?"
+    },
+    {
+     "q": "Woher kommen die anderen Teilnehmer?",
+     "m": "Aus vielen Ländern: Syrien, der Ukraine, Afghanistan und der Türkei.",
+     "ru": "Откуда другие участники?"
+    },
+    {
+     "q": "Was machen Sie nach dem Kurs?",
+     "m": "Ich möchte eine Arbeit finden und später einen B2-Kurs machen.",
+     "ru": "Что вы будете делать после курса?"
+    },
+    {
+     "q": "Haben Sie schon eine Prüfung gemacht?",
+     "m": "Ja, die A2-Prüfung. Jetzt bereite ich mich auf den DTZ vor.",
+     "ru": "Вы уже сдавали экзамен?"
+    }
+   ]
+  },
+  {
+   "id": "qzj23",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Tieren",
+   "fragen": [
+    {
+     "q": "Haben Sie ein Haustier?",
+     "m": "Ja, wir haben eine Katze. Sie heißt Mila.",
+     "ru": "Есть ли у вас домашнее животное?"
+    },
+    {
+     "q": "Wer kümmert sich um das Tier?",
+     "m": "Meine Tochter füttert die Katze, und ich mache das Katzenklo sauber.",
+     "ru": "Кто ухаживает за животным?"
+    },
+    {
+     "q": "Hatten Sie in Ihrer Heimat auch Tiere?",
+     "m": "Ja, bei meinen Großeltern auf dem Land gab es Hühner und einen Hund.",
+     "ru": "Были ли у вас животные на родине?"
+    },
+    {
+     "q": "Welches Tier möchten Sie gern haben?",
+     "m": "Einen Hund, aber unsere Wohnung ist zu klein.",
+     "ru": "Какое животное вы хотели бы?"
+    },
+    {
+     "q": "Darf man in Ihrer Wohnung Tiere halten?",
+     "m": "Katzen ja, für einen Hund braucht man die Erlaubnis vom Vermieter.",
+     "ru": "Можно ли держать животных в квартире?"
+    }
+   ]
+  },
+  {
+   "id": "qzj24",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Sprachen",
+   "fragen": [
+    {
+     "q": "Welche Sprachen sprechen Sie?",
+     "m": "Russisch ist meine Muttersprache, ich spreche auch Ukrainisch, etwas Englisch und jetzt Deutsch.",
+     "ru": "На каких языках вы говорите?"
+    },
+    {
+     "q": "Welche Sprache sprechen Sie zu Hause?",
+     "m": "Mit meinem Mann Russisch, mit den Kindern oft Deutsch.",
+     "ru": "На каком языке вы говорите дома?"
+    },
+    {
+     "q": "Ist Deutsch schwerer als Englisch?",
+     "m": "Für mich ja, wegen der Grammatik und der langen Wörter.",
+     "ru": "Немецкий труднее английского?"
+    },
+    {
+     "q": "Sollen Kinder die Muttersprache lernen?",
+     "m": "Ja, unbedingt. Sie sollen mit den Großeltern sprechen können.",
+     "ru": "Должны ли дети учить родной язык?"
+    },
+    {
+     "q": "Welches deutsche Wort mögen Sie?",
+     "m": "„Feierabend“. Das klingt schön und bedeutet etwas Schönes.",
+     "ru": "Какое немецкое слово вам нравится?"
+    }
+   ]
+  },
+  {
+   "id": "qzj25",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Wünschen und Plänen",
+   "fragen": [
+    {
+     "q": "Was ist Ihr größter Wunsch?",
+     "m": "Dass meine Familie gesund bleibt und ich eine gute Arbeit finde.",
+     "ru": "Какое ваше самое большое желание?"
+    },
+    {
+     "q": "Wo möchten Sie in fünf Jahren leben?",
+     "m": "Am liebsten hier in Dresden, vielleicht in einer größeren Wohnung.",
+     "ru": "Где вы хотите жить через пять лет?"
+    },
+    {
+     "q": "Möchten Sie einmal ein Haus kaufen?",
+     "m": "Ja, mit einem kleinen Garten. Aber das ist teuer.",
+     "ru": "Хотите ли вы купить дом?"
+    },
+    {
+     "q": "Was möchten Sie noch lernen?",
+     "m": "Autofahren in Deutschland und besser Deutsch schreiben.",
+     "ru": "Чему вы ещё хотите научиться?"
+    },
+    {
+     "q": "Was planen Sie für den Sommer?",
+     "m": "Wir möchten zwei Wochen an die Ostsee fahren.",
+     "ru": "Что вы планируете на лето?"
+    }
+   ]
+  },
+  {
+   "id": "qzj26",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum Kontakt mit Deutschen",
+   "fragen": [
+    {
+     "q": "Haben Sie deutsche Nachbarn?",
+     "m": "Ja, die meisten Nachbarn sind Deutsche. Eine ältere Dame ist sehr freundlich.",
+     "ru": "Есть ли у вас немецкие соседи?"
+    },
+    {
+     "q": "Wo sprechen Sie Deutsch?",
+     "m": "Beim Einkaufen, beim Arzt, in der Kita und bei der Arbeit.",
+     "ru": "Где вы говорите по-немецки?"
+    },
+    {
+     "q": "Was haben Sie von Deutschen gelernt?",
+     "m": "Pünktlich zu sein und Termine im Kalender zu notieren.",
+     "ru": "Чему вы научились у немцев?"
+    },
+    {
+     "q": "Waren Sie schon bei Deutschen zu Hause?",
+     "m": "Ja, bei einer Kollegin zum Geburtstag. Es war sehr nett.",
+     "ru": "Были ли вы у немцев в гостях?"
+    },
+    {
+     "q": "Was finden Sie an Deutschland gut?",
+     "m": "Dass man sicher ist und dass es gute Schulen und Ärzte gibt.",
+     "ru": "Что вам нравится в Германии?"
+    }
+   ]
+  },
+  {
+   "id": "qzj27",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Arbeitssuche",
+   "fragen": [
+    {
+     "q": "Suchen Sie eine Arbeit?",
+     "m": "Ja, ich suche eine Stelle als Verkäuferin oder in einer Küche.",
+     "ru": "Ищете ли вы работу?"
+    },
+    {
+     "q": "Wie suchen Sie?",
+     "m": "Im Internet, beim Jobcenter und ich frage Bekannte.",
+     "ru": "Как вы ищете?"
+    },
+    {
+     "q": "Hatten Sie schon ein Vorstellungsgespräch?",
+     "m": "Ja, letzte Woche in einer Bäckerei. Ich warte noch auf die Antwort.",
+     "ru": "Было ли у вас собеседование?"
+    },
+    {
+     "q": "Möchten Sie Vollzeit oder Teilzeit arbeiten?",
+     "m": "Zuerst Teilzeit, weil meine Tochter noch klein ist.",
+     "ru": "Полный или неполный день?"
+    },
+    {
+     "q": "Was ist Ihnen bei der Arbeit wichtig?",
+     "m": "Nette Kollegen und Arbeitszeiten, die zur Kita passen.",
+     "ru": "Что вам важно в работе?"
+    }
+   ]
+  },
+  {
+   "id": "qzj28",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Geld und Banken",
+   "fragen": [
+    {
+     "q": "Haben Sie ein Konto in Deutschland?",
+     "m": "Ja, bei der Sparkasse. Ich habe es am Anfang eröffnet.",
+     "ru": "Есть ли у вас счёт в Германии?"
+    },
+    {
+     "q": "Bezahlen Sie lieber bar oder mit Karte?",
+     "m": "Meistens mit Karte, aber auf dem Markt bar.",
+     "ru": "Вы платите наличными или картой?"
+    },
+    {
+     "q": "Sparen Sie Geld?",
+     "m": "Ja, ein bisschen jeden Monat, für den Urlaub.",
+     "ru": "Копите ли вы деньги?"
+    },
+    {
+     "q": "Was ist in Deutschland teuer?",
+     "m": "Die Miete und der Strom.",
+     "ru": "Что в Германии дорого?"
+    },
+    {
+     "q": "Machen Sie Online-Banking?",
+     "m": "Ja, mit der App. Das ist sehr praktisch.",
+     "ru": "Пользуетесь ли вы онлайн-банком?"
+    }
+   ]
+  },
+  {
+   "id": "qzj29",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Natur und Umwelt",
+   "fragen": [
+    {
+     "q": "Sind Sie gern in der Natur?",
+     "m": "Ja, sehr. Ich wandere gern in der Sächsischen Schweiz.",
+     "ru": "Любите ли вы природу?"
+    },
+    {
+     "q": "Was tun Sie für die Umwelt?",
+     "m": "Ich trenne den Müll, kaufe wenig Plastik und fahre Fahrrad.",
+     "ru": "Что вы делаете для экологии?"
+    },
+    {
+     "q": "Ist Umweltschutz in Ihrer Heimat wichtig?",
+     "m": "Er wird wichtiger, aber Mülltrennung gibt es noch nicht überall.",
+     "ru": "Важна ли экология на вашей родине?"
+    },
+    {
+     "q": "Haben Sie einen Garten?",
+     "m": "Nein, aber einen Balkon mit Blumen und Tomaten.",
+     "ru": "Есть ли у вас сад?"
+    },
+    {
+     "q": "Wo gehen Sie gern spazieren?",
+     "m": "An der Elbe, dort ist es sehr schön, besonders am Abend.",
+     "ru": "Где вы любите гулять?"
+    }
+   ]
+  },
+  {
+   "id": "qzj30",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zum ersten Jahr in Deutschland",
+   "fragen": [
+    {
+     "q": "Was war im ersten Jahr am schwierigsten?",
+     "m": "Die Sprache und die Wohnungssuche.",
+     "ru": "Что было самым трудным в первый год?"
+    },
+    {
+     "q": "Wer hat Ihnen geholfen?",
+     "m": "Eine Sozialarbeiterin und meine Nachbarn.",
+     "ru": "Кто вам помог?"
+    },
+    {
+     "q": "Was hat Sie überrascht?",
+     "m": "Dass so viele Menschen Fahrrad fahren, auch im Winter.",
+     "ru": "Что вас удивило?"
+    },
+    {
+     "q": "Was vermissen Sie aus Ihrer Heimat?",
+     "m": "Meine Familie und das Essen meiner Mutter.",
+     "ru": "По чему вы скучаете?"
+    },
+    {
+     "q": "Fühlen Sie sich hier zu Hause?",
+     "m": "Langsam ja. Ich habe Freunde und kenne mich in der Stadt aus.",
+     "ru": "Чувствуете ли вы себя здесь как дома?"
+    }
+   ]
+  }
+ ]
+}

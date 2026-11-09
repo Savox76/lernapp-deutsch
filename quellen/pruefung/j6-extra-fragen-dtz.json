@@ -1,0 +1,38 @@
+{
+ "fragen": [
+  {
+   "id": "qzj31",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Musik und Kultur",
+   "fragen": [
+    {
+     "q": "Welche Musik hören Sie gern?",
+     "m": "Ich höre gern Popmusik und manchmal alte Lieder aus meiner Heimat.",
+     "ru": "Какую музыку вы любите?"
+    },
+    {
+     "q": "Spielen Sie ein Instrument?",
+     "m": "Ja, ein bisschen Gitarre. Mein Vater hat es mir beigebracht.",
+     "ru": "Играете ли вы на инструменте?"
+    },
+    {
+     "q": "Waren Sie schon in einem Konzert in Deutschland?",
+     "m": "Ja, im Sommer bei einem Konzert im Park. Der Eintritt war frei.",
+     "ru": "Были ли вы на концерте в Германии?"
+    },
+    {
+     "q": "Gehen Sie gern ins Museum?",
+     "m": "Ja, mit den Kindern ins Verkehrsmuseum. Das finden sie toll.",
+     "ru": "Ходите ли вы в музеи?"
+    },
+    {
+     "q": "Was ist typisch für die Kultur in Ihrer Heimat?",
+     "m": "Viele Menschen tanzen und singen bei Festen. Auch das Theater ist sehr beliebt.",
+     "ru": "Что типично для культуры вашей родины?"
+    }
+   ]
+  }
+ ]
+}

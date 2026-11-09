@@ -1,0 +1,1204 @@
+{
+ "loesung": [
+  {
+   "id": "lbj01",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Einarbeitung neuer Azubis",
+   "thema": "Im August kommen drei neue Auszubildende.",
+   "situation": "Planen Sie mit Ihrer Kollegin die erste Woche der Azubis: Wer zeigt was? Was brauchen die Azubis?",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was sollen die Azubis am ersten Tag machen?",
+     "o": [
+      "Ich schlage vor, dass wir am ersten Tag einen Rundgang durch alle Abteilungen machen. Danach bekommen sie ihre Arbeitskleidung und den Ausweis.",
+      "Arbeiten.",
+      "Weiß nicht."
+     ],
+     "r": 0,
+     "e": "Konkreter Plan für Tag 1."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und wer kümmert sich in der Woche um sie?",
+     "o": [
+      "Was hältst du davon, wenn jeder Azubi einen Paten aus dem zweiten Lehrjahr bekommt? Ich übernehme den Zeitplan, kannst du mit den Paten sprechen?",
+      "Niemand.",
+      "Der Chef."
+     ],
+     "r": 0,
+     "e": "Paten vorschlagen und Aufgaben verteilen."
+    }
+   ],
+   "m": "Tag 1: Rundgang, Kleidung, Ausweis. Jeder Azubi bekommt einen Paten. Ich mache den Zeitplan, die Kollegin spricht mit den Paten."
+  },
+  {
+   "id": "lbj02",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Abschiedsfeier für Kollegen",
+   "thema": "Ein Kollege geht nach 30 Jahren in Rente.",
+   "situation": "Planen Sie mit Ihrer Kollegin die Abschiedsfeier: Wann? Wo? Geschenk?",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Wann und wo wollen wir feiern?",
+     "o": [
+      "Ich fände es schön, an seinem letzten Arbeitstag nach der Schicht im Pausenraum zu feiern. Dann können alle kommen.",
+      "Im Restaurant am Sonntag.",
+      "Keine Ahnung."
+     ],
+     "r": 0,
+     "e": "Ort und Zeit mit Begründung."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Was schenken wir ihm?",
+     "o": [
+      "Er reist doch so gern. Wie wäre ein Gutschein für ein Wochenende an der Ostsee? Ich sammle das Geld, und du kümmerst dich um Kuchen und Getränke?",
+      "Eine Uhr.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Persönliches Geschenk und Aufgabenteilung."
+    }
+   ],
+   "m": "Feier am letzten Arbeitstag nach der Schicht im Pausenraum; Geschenk: Gutschein für ein Ostsee-Wochenende. Ich sammle Geld, Kollegin macht Kuchen und Getränke."
+  },
+  {
+   "id": "lbj03",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Urlaubsvertretung organisieren",
+   "thema": "Im Sommer sind viele Kollegen gleichzeitig im Urlaub.",
+   "situation": "Planen Sie mit Ihrer Kollegin, wie die Arbeit im Juli und August erledigt wird.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Im Juli sind drei von fünf Leuten weg. Wie schaffen wir das?",
+     "o": [
+      "Ich schlage vor, dass wir die Urlaubsliste noch einmal ansehen und fragen, ob jemand eine Woche verschieben kann. Außerdem könnten wir eine Aushilfe einstellen.",
+      "Gar nicht.",
+      "Dann bleibt alles liegen."
+     ],
+     "r": 0,
+     "e": "Zwei Lösungsideen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und welche Aufgaben sind am wichtigsten?",
+     "o": [
+      "Am wichtigsten sind die Kundenbestellungen. Was hältst du davon, wenn wir eine Liste machen: Was ist dringend, was kann warten? Ich schreibe die Liste, du sprichst mit der Chefin wegen der Aushilfe.",
+      "Alles ist wichtig.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Prioritäten setzen und Aufgaben verteilen."
+    }
+   ],
+   "m": "Urlaubsliste prüfen, eventuell verschieben, Aushilfe für Juli; Prioritätenliste. Ich schreibe die Liste, Kollegin spricht mit der Chefin."
+  },
+  {
+   "id": "lbj04",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gesundheitstag",
+   "thema": "Die Firma möchte einen Gesundheitstag für die Mitarbeiter organisieren.",
+   "situation": "Planen Sie mit Ihrer Kollegin das Programm: Was wird angeboten? Wann? Wer organisiert?",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was sollen wir anbieten?",
+     "o": [
+      "Ich fände einen Rückenkurs sinnvoll, weil viele Kollegen Rückenschmerzen haben. Dazu eine Ernährungsberatung und Blutdruck messen.",
+      "Kuchen essen.",
+      "Fußball."
+     ],
+     "r": 0,
+     "e": "Angebote mit Begründung."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Wann ist der beste Termin?",
+     "o": [
+      "Am besten an einem Donnerstag von 10 bis 15 Uhr, dann können beide Schichten teilnehmen. Ich frage beim Betriebsarzt, kannst du die Physiotherapeutin anrufen?",
+      "Am Sonntag.",
+      "Nachts."
+     ],
+     "r": 0,
+     "e": "Termin für alle + Aufgaben."
+    }
+   ],
+   "m": "Rückenkurs, Ernährungsberatung, Blutdruckmessung; Donnerstag 10–15 Uhr. Ich frage den Betriebsarzt, Kollegin ruft die Physiotherapeutin an."
+  },
+  {
+   "id": "lbj05",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kundenveranstaltung",
+   "thema": "Die Firma feiert ihr 25-jähriges Jubiläum und lädt Kunden ein.",
+   "situation": "Planen Sie mit Ihrer Kollegin die Feier: Programm, Essen, Einladungen.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was machen wir für ein Programm?",
+     "o": [
+      "Ich schlage vor, dass die Chefin eine kurze Rede hält und wir danach eine Führung durch die Produktion anbieten. So sehen die Kunden, wie wir arbeiten.",
+      "Tanzen.",
+      "Kein Programm."
+     ],
+     "r": 0,
+     "e": "Programm mit Nutzen für Kunden."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und das Essen?",
+     "o": [
+      "Ein Buffet mit vegetarischen Gerichten wäre gut. Ich hole Angebote von zwei Caterern ein, und du schreibst die Einladungen bis Ende des Monats?",
+      "Pizza.",
+      "Jeder bringt etwas mit."
+     ],
+     "r": 0,
+     "e": "Konkreter Vorschlag und Aufgaben."
+    }
+   ],
+   "m": "Rede der Chefin, Führung durch die Produktion, Buffet auch vegetarisch. Ich hole Catering-Angebote, Kollegin schreibt die Einladungen."
+  },
+  {
+   "id": "lbj06",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Neue Kaffeemaschine",
+   "thema": "Die Kaffeemaschine im Büro ist kaputt.",
+   "situation": "Entscheiden Sie mit Ihrer Kollegin: Was für eine Maschine? Wer bezahlt? Wer kümmert sich?",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was für eine Maschine sollen wir kaufen?",
+     "o": [
+      "Ich fände einen Vollautomaten gut, weil er schnell ist und man keine Kapseln braucht. Das ist auch besser für die Umwelt.",
+      "Die teuerste.",
+      "Keine."
+     ],
+     "r": 0,
+     "e": "Vorschlag mit zwei Gründen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und wer bezahlt?",
+     "o": [
+      "Was hältst du davon, wenn die Firma die Maschine bezahlt und wir für Kaffee und Milch eine Kaffeekasse machen? Ich frage die Chefin, du machst einen Putzplan.",
+      "Du.",
+      "Keiner."
+     ],
+     "r": 0,
+     "e": "Finanzierung und Aufgaben."
+    }
+   ],
+   "m": "Vollautomat, von der Firma bezahlt; Kaffeekasse für Kaffee und Milch. Ich frage die Chefin, Kollegin macht einen Putzplan."
+  },
+  {
+   "id": "lbj07",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Umzug in ein neues Büro",
+   "thema": "Ihre Abteilung zieht in ein neues Büro.",
+   "situation": "Planen Sie mit Ihrer Kollegin den Umzug: Wann? Was ist zu tun? Wer macht was?",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Wann sollen wir umziehen?",
+     "o": [
+      "Am besten an einem Freitag, dann haben wir das Wochenende Zeit, und am Montag kann alles wieder laufen. Die Kunden informieren wir vorher.",
+      "Morgen.",
+      "Irgendwann."
+     ],
+     "r": 0,
+     "e": "Termin mit Begründung."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Was müssen wir vorher alles machen?",
+     "o": [
+      "Wir müssen Kisten bestellen, die IT informieren und alte Akten aussortieren. Ich übernehme die Kisten und die IT, kannst du die Kunden per E-Mail informieren?",
+      "Nichts.",
+      "Weiß ich nicht."
+     ],
+     "r": 0,
+     "e": "Aufgabenliste und Verteilung."
+    }
+   ],
+   "m": "Umzug an einem Freitag; Kisten bestellen, IT informieren, Akten aussortieren. Ich: Kisten und IT, Kollegin: Kunden informieren."
+  },
+  {
+   "id": "lbj08",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Weihnachtsfeier",
+   "thema": "Die Weihnachtsfeier für 40 Mitarbeiter soll geplant werden.",
+   "situation": "Planen Sie mit Ihrer Kollegin: Ort, Datum, Programm.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Wo wollen wir feiern?",
+     "o": [
+      "Ich schlage ein Restaurant in der Nähe vor, das einen eigenen Raum hat. Dann müssen wir nicht aufräumen, und alle können mit Bus und Bahn kommen.",
+      "Bei mir zu Hause.",
+      "Draußen."
+     ],
+     "r": 0,
+     "e": "Ort mit praktischen Gründen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und was für ein Programm?",
+     "o": [
+      "Wie wäre ein kleines Wichteln, bei dem jeder ein Geschenk bis zehn Euro mitbringt? Ich reserviere das Restaurant, und du schickst die Einladung mit einer Umfrage zum Datum?",
+      "Kein Programm.",
+      "Tanzen bis morgens."
+     ],
+     "r": 0,
+     "e": "Programmidee + Aufgaben."
+    }
+   ],
+   "m": "Restaurant mit eigenem Raum; Wichteln bis 10 Euro. Ich reserviere, Kollegin schickt Einladung mit Datumsumfrage."
+  },
+  {
+   "id": "lbj09",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Beschwerden von Kunden reduzieren",
+   "thema": "In letzter Zeit gibt es viele Beschwerden über lange Wartezeiten am Telefon.",
+   "situation": "Überlegen Sie mit Ihrer Kollegin, was man tun kann.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Warum warten die Kunden so lange?",
+     "o": [
+      "Ich glaube, mittags sind zu wenige Kollegen am Telefon, weil alle gleichzeitig Pause machen. Wir sollten die Pausen anders verteilen.",
+      "Die Kunden sind ungeduldig.",
+      "Keine Ahnung."
+     ],
+     "r": 0,
+     "e": "Ursache analysieren."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und was können wir noch tun?",
+     "o": [
+      "Was hältst du davon, wenn wir die häufigsten Fragen auf die Internetseite stellen? Dann rufen weniger Kunden an. Ich sammle die Fragen, du sprichst mit der Teamleitung über die Pausen?",
+      "Telefon abschalten.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Zusätzliche Lösung + Verteilung."
+    }
+   ],
+   "m": "Pausen anders verteilen; häufige Fragen auf die Website. Ich sammle Fragen, Kollegin spricht mit der Teamleitung."
+  },
+  {
+   "id": "lbj10",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Messestand planen",
+   "thema": "Die Firma nimmt an einer Messe teil.",
+   "situation": "Planen Sie mit Ihrer Kollegin den Messestand: Material, Personal, Ablauf.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was brauchen wir für den Stand?",
+     "o": [
+      "Wir brauchen Prospekte, ein Banner mit unserem Logo und ein paar Produkte zum Anfassen. Außerdem einen Bildschirm für ein kurzes Video.",
+      "Stühle.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Liste mit Material."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Wer arbeitet am Stand?",
+     "o": [
+      "Ich schlage vor, dass immer drei Personen am Stand sind, in zwei Schichten pro Tag. Ich mache den Plan, kannst du die Prospekte bestellen?",
+      "Nur ich.",
+      "Niemand."
+     ],
+     "r": 0,
+     "e": "Personalplan + Aufgaben."
+    }
+   ],
+   "m": "Prospekte, Banner, Produkte, Bildschirm; drei Personen in zwei Schichten. Ich mache den Plan, Kollegin bestellt Prospekte."
+  },
+  {
+   "id": "lbj11",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Pausenraum gestalten",
+   "thema": "Die Mitarbeiter wünschen sich einen schöneren Pausenraum.",
+   "situation": "Planen Sie mit Ihrer Kollegin die Gestaltung mit einem Budget von 1.500 Euro.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was ist am wichtigsten?",
+     "o": [
+      "Am wichtigsten sind bequeme Stühle und ein großer Tisch, damit alle zusammen essen können. Viele beschweren sich über die alten Stühle.",
+      "Ein Fernseher.",
+      "Bilder."
+     ],
+     "r": 0,
+     "e": "Priorität mit Begründung."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und was machen wir mit dem restlichen Geld?",
+     "o": [
+      "Wir könnten Pflanzen und eine Mikrowelle kaufen. Was hältst du davon, wenn wir vorher eine kurze Umfrage machen? Ich mache die Umfrage, du holst Preise für die Stühle ein.",
+      "Behalten.",
+      "Party machen."
+     ],
+     "r": 0,
+     "e": "Beteiligung + Aufgaben."
+    }
+   ],
+   "m": "Bequeme Stühle und großer Tisch zuerst; mit dem Rest Pflanzen und Mikrowelle nach Umfrage. Ich mache die Umfrage, Kollegin holt Preise."
+  },
+  {
+   "id": "lbj12",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Erste-Hilfe-Kurs",
+   "thema": "In der Abteilung gibt es zu wenige Ersthelfer.",
+   "situation": "Planen Sie mit Ihrer Kollegin, wie mehr Kollegen ausgebildet werden.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Wie finden wir Freiwillige?",
+     "o": [
+      "Ich schlage vor, dass wir im Team erklären, dass der Kurs in der Arbeitszeit stattfindet und kostenlos ist. Viele wissen das nicht.",
+      "Zwingen.",
+      "Gar nicht."
+     ],
+     "r": 0,
+     "e": "Motivation durch Information."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Wann soll der Kurs stattfinden?",
+     "o": [
+      "Am besten an zwei verschiedenen Tagen, damit nicht zu viele Leute gleichzeitig fehlen. Ich spreche mit der Arbeitssicherheit, und du machst eine Liste für die Anmeldung?",
+      "Am Wochenende.",
+      "Egal."
+     ],
+     "r": 0,
+     "e": "Organisation + Aufgaben."
+    }
+   ],
+   "m": "Team informieren (kostenlos, Arbeitszeit); Kurs an zwei Terminen. Ich spreche mit der Arbeitssicherheit, Kollegin macht die Anmeldeliste."
+  },
+  {
+   "id": "lbj13",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Neue Software einführen",
+   "thema": "Die Firma bekommt ein neues Programm für die Auftragsbearbeitung.",
+   "situation": "Planen Sie mit Ihrer Kollegin, wie alle Mitarbeiter es lernen.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Wie sollen die Kollegen das Programm lernen?",
+     "o": [
+      "Ich fände kurze Schulungen in kleinen Gruppen sinnvoll, maximal fünf Personen. Dann kann jeder Fragen stellen und selbst üben.",
+      "Selbst herausfinden.",
+      "Ein Video reicht."
+     ],
+     "r": 0,
+     "e": "Lernform mit Begründung."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und wenn später noch Fragen kommen?",
+     "o": [
+      "Was hältst du davon, wenn wir in jeder Abteilung eine Ansprechperson haben, die sich gut auskennt? Ich erstelle eine kurze Anleitung, du suchst die Ansprechpersonen?",
+      "Dann Pech.",
+      "Bei der IT anrufen."
+     ],
+     "r": 0,
+     "e": "Unterstützung danach + Aufgaben."
+    }
+   ],
+   "m": "Schulungen in Kleingruppen; Ansprechperson pro Abteilung und kurze Anleitung. Ich schreibe die Anleitung, Kollegin sucht Ansprechpersonen."
+  },
+  {
+   "id": "lbj14",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Sommerfest im Betrieb",
+   "thema": "Die Firma plant ein Sommerfest für Mitarbeiter und Familien.",
+   "situation": "Planen Sie mit Ihrer Kollegin: Programm für Kinder, Essen, Helfer.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was können wir für die Kinder machen?",
+     "o": [
+      "Eine Hüpfburg und Kinderschminken wären schön. Vielleicht kann auch jemand Spiele organisieren, zum Beispiel Sackhüpfen.",
+      "Nichts.",
+      "Fernsehen."
+     ],
+     "r": 0,
+     "e": "Kinderprogramm."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und wie organisieren wir das Essen?",
+     "o": [
+      "Ich schlage vor, dass die Firma den Grill und die Getränke bezahlt und die Kollegen Salate mitbringen können. Ich mache eine Liste für die Salate, du fragst, wer beim Grillen hilft?",
+      "Jeder isst zu Hause.",
+      "Restaurant."
+     ],
+     "r": 0,
+     "e": "Essen + Aufgabenverteilung."
+    }
+   ],
+   "m": "Hüpfburg, Kinderschminken, Spiele; Firma zahlt Grill und Getränke, Kollegen bringen Salate. Ich mache die Salatliste, Kollegin sucht Grill-Helfer."
+  },
+  {
+   "id": "lbj15",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Energie sparen im Büro",
+   "thema": "Die Energiekosten sind stark gestiegen.",
+   "situation": "Überlegen Sie mit Ihrer Kollegin, wie man im Büro Energie sparen kann.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Wo verbrauchen wir am meisten Energie?",
+     "o": [
+      "Ich glaube, viele Computer und Drucker laufen die ganze Nacht. Außerdem ist die Heizung im Winter oft zu warm, und gleichzeitig sind die Fenster gekippt.",
+      "Beim Kaffee.",
+      "Weiß nicht."
+     ],
+     "r": 0,
+     "e": "Probleme benennen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Was schlagen wir vor?",
+     "o": [
+      "Wir könnten Steckdosenleisten mit Schalter kaufen und eine kurze Info für alle schreiben: Geräte aus, Stoßlüften statt Kippen. Ich schreibe die Info, du bestellst die Leisten?",
+      "Heizung aus.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Maßnahmen + Aufgaben."
+    }
+   ],
+   "m": "Steckdosenleisten, Geräte nachts aus, Stoßlüften. Ich schreibe die Info, Kollegin bestellt die Steckdosenleisten."
+  },
+  {
+   "id": "lbj16",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Betriebsausflug",
+   "thema": "Das Team möchte einen Betriebsausflug machen.",
+   "situation": "Planen Sie mit Ihrer Kollegin: Ziel, Datum, Kosten.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Wohin sollen wir fahren?",
+     "o": [
+      "Ich schlage eine Schifffahrt auf der Elbe und danach eine kleine Wanderung vor. Das ist nicht zu anstrengend, und alle können mitmachen.",
+      "Ins Ausland.",
+      "Nirgendwohin."
+     ],
+     "r": 0,
+     "e": "Ziel für alle passend."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Was kostet das, und wer bezahlt?",
+     "o": [
+      "Die Schifffahrt kostet etwa 20 Euro pro Person. Was hältst du davon, wenn die Firma die Fahrt bezahlt und jeder sein Essen selbst bezahlt? Ich frage beim Chef, du buchst die Tickets?",
+      "Jeder alles selbst.",
+      "Egal."
+     ],
+     "r": 0,
+     "e": "Kosten klären + Aufgaben."
+    }
+   ],
+   "m": "Elbe-Schifffahrt und kleine Wanderung; Firma zahlt die Fahrt, Essen selbst. Ich frage den Chef, Kollegin bucht die Tickets."
+  },
+  {
+   "id": "lbj17",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Ordnung im Lager",
+   "thema": "Im Lager ist es sehr unordentlich, Waren werden nicht gefunden.",
+   "situation": "Planen Sie mit Ihrer Kollegin, wie das Lager besser organisiert wird.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was ist das größte Problem?",
+     "o": [
+      "Das größte Problem ist, dass viele Regale nicht beschriftet sind. Neue Kollegen wissen nicht, wo etwas hingehört.",
+      "Die Kollegen sind faul.",
+      "Alles."
+     ],
+     "r": 0,
+     "e": "Problem genau benennen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Was machen wir dagegen?",
+     "o": [
+      "Wir könnten an einem Samstag gemeinsam aufräumen und alle Regale beschriften. Danach machen wir einen Plan, wer jede Woche kontrolliert. Ich organisiere die Etiketten, du sprichst mit dem Team?",
+      "Neues Lager bauen.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Aktion + Verantwortung."
+    }
+   ],
+   "m": "Gemeinsame Aufräumaktion am Samstag, alle Regale beschriften, wöchentliche Kontrolle. Ich besorge Etiketten, Kollegin spricht mit dem Team."
+  },
+  {
+   "id": "lbj18",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Willkommensmappe für neue Mitarbeiter",
+   "thema": "Neue Mitarbeiter fühlen sich am Anfang oft verloren.",
+   "situation": "Planen Sie mit Ihrer Kollegin eine Willkommensmappe.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was soll in die Mappe?",
+     "o": [
+      "Ich finde wichtig: einen Plan vom Gebäude, die wichtigsten Telefonnummern, Infos zur Zeiterfassung und zum Urlaub. Und Fotos vom Team mit Namen.",
+      "Werbung.",
+      "Der Vertrag."
+     ],
+     "r": 0,
+     "e": "Inhalte mit Nutzen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "In welcher Form machen wir das?",
+     "o": [
+      "Was hältst du davon, wenn wir die Mappe digital machen und zusätzlich ausdrucken? Ich schreibe die Texte, kannst du die Fotos machen?",
+      "Nur mündlich.",
+      "Gar nicht."
+     ],
+     "r": 0,
+     "e": "Form + Aufgaben."
+    }
+   ],
+   "m": "Gebäudeplan, Telefonnummern, Zeiterfassung, Urlaub, Teamfotos; digital und gedruckt. Ich schreibe die Texte, Kollegin macht die Fotos."
+  },
+  {
+   "id": "lbj19",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Spendenaktion",
+   "thema": "Das Team möchte Geld für ein Kinderheim sammeln.",
+   "situation": "Planen Sie mit Ihrer Kollegin die Aktion.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Wie können wir Geld sammeln?",
+     "o": [
+      "Ich schlage einen Kuchenverkauf in der Kantine vor. Jeder, der möchte, backt etwas, und der ganze Erlös geht an das Kinderheim.",
+      "Den Chef fragen.",
+      "Gar nicht."
+     ],
+     "r": 0,
+     "e": "Konkrete Aktion."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und wann machen wir das?",
+     "o": [
+      "Am besten im Dezember, kurz vor Weihnachten. Vielleicht verdoppelt die Firma den Betrag. Ich frage die Geschäftsleitung, du machst einen Aushang?",
+      "Im Sommer.",
+      "Irgendwann."
+     ],
+     "r": 0,
+     "e": "Zeit + Aufgaben."
+    }
+   ],
+   "m": "Kuchenverkauf in der Kantine im Dezember; Firma eventuell verdoppeln lassen. Ich frage die Geschäftsleitung, Kollegin macht den Aushang."
+  },
+  {
+   "id": "lbj20",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Arbeitsplatz für Kollegin im Rollstuhl",
+   "thema": "Eine neue Kollegin sitzt im Rollstuhl.",
+   "situation": "Überlegen Sie mit Ihrer Kollegin, was im Büro geändert werden muss.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was müssen wir zuerst prüfen?",
+     "o": [
+      "Zuerst müssen wir prüfen, ob sie gut ins Gebäude und auf die Toilette kommt. Gibt es einen Aufzug und eine barrierefreie Toilette in unserem Stock?",
+      "Nichts.",
+      "Sie soll zu Hause bleiben."
+     ],
+     "r": 0,
+     "e": "Wichtigste Punkte prüfen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und der Arbeitsplatz selbst?",
+     "o": [
+      "Ein höhenverstellbarer Schreibtisch wäre wichtig. Was hältst du davon, wenn wir sie vorher fragen, was sie braucht? Ich spreche mit ihr, du kümmerst dich um den Tisch?",
+      "Normaler Tisch reicht.",
+      "Weiß nicht."
+     ],
+     "r": 0,
+     "e": "Betroffene einbeziehen."
+    }
+   ],
+   "m": "Zugang, Aufzug und Toilette prüfen; höhenverstellbarer Tisch; die Kollegin selbst fragen. Ich spreche mit ihr, Kollegin organisiert den Tisch."
+  },
+  {
+   "id": "lbj21",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fortbildungsplan",
+   "thema": "Ihr Team hat Budget für Fortbildungen.",
+   "situation": "Planen Sie mit Ihrer Kollegin, welche Fortbildungen gemacht werden.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Welche Fortbildungen brauchen wir?",
+     "o": [
+      "Ich glaube, wir brauchen dringend eine Schulung für das neue Programm und einen Kurs für schwierige Kundengespräche.",
+      "Yoga.",
+      "Keine."
+     ],
+     "r": 0,
+     "e": "Bedarf benennen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Wie entscheiden wir, wer teilnimmt?",
+     "o": [
+      "Was hältst du davon, wenn jeder seine Wünsche nennt und wir dann nach Bedarf entscheiden? Ich frage im Team, du holst Angebote ein?",
+      "Der Chef allein.",
+      "Losen."
+     ],
+     "r": 0,
+     "e": "Faires Verfahren + Aufgaben."
+    }
+   ],
+   "m": "Programm-Schulung und Kurs für Kundengespräche; Wünsche sammeln, nach Bedarf entscheiden. Ich frage im Team, Kollegin holt Angebote."
+  },
+  {
+   "id": "lbj22",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Neue Arbeitskleidung",
+   "thema": "Die Arbeitskleidung ist alt und unbequem.",
+   "situation": "Planen Sie mit Ihrer Kollegin, wie neue Kleidung ausgewählt wird.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Wie wählen wir die neue Kleidung aus?",
+     "o": [
+      "Ich schlage vor, dass wir drei Modelle bestellen und ein paar Kollegen sie eine Woche testen. Dann wissen wir, was bequem ist.",
+      "Die billigste.",
+      "Der Chef entscheidet."
+     ],
+     "r": 0,
+     "e": "Test vorschlagen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und wer kümmert sich um die Bestellung?",
+     "o": [
+      "Ich frage beim Hersteller nach Mustern, und du fragst im Team, wer testen möchte. Am Ende stimmen alle ab.",
+      "Niemand.",
+      "Jeder kauft selbst."
+     ],
+     "r": 0,
+     "e": "Aufgaben + Abstimmung."
+    }
+   ],
+   "m": "Drei Modelle eine Woche testen, dann Abstimmung. Ich frage nach Mustern, Kollegin sucht Testpersonen."
+  },
+  {
+   "id": "lbj23",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Lärm im Großraumbüro",
+   "thema": "Im Großraumbüro ist es sehr laut.",
+   "situation": "Überlegen Sie mit Ihrer Kollegin, was man tun kann.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was stört am meisten?",
+     "o": [
+      "Am meisten stören die vielen Telefonate und dass Besprechungen direkt am Schreibtisch stattfinden.",
+      "Die Klimaanlage.",
+      "Alles."
+     ],
+     "r": 0,
+     "e": "Hauptproblem benennen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Was schlagen wir vor?",
+     "o": [
+      "Wir könnten Regeln aufstellen: Telefonate in die kleinen Räume, Besprechungen nur im Besprechungsraum. Außerdem könnte die Firma Trennwände kaufen. Ich schreibe die Regeln, du fragst nach den Trennwänden?",
+      "Kopfhörer für alle.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Regeln + Maßnahme."
+    }
+   ],
+   "m": "Telefonate in Telefonräume, Besprechungen im Besprechungsraum, Trennwände. Ich schreibe Regeln, Kollegin fragt nach Trennwänden."
+  },
+  {
+   "id": "lbj24",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Tag der offenen Tür",
+   "thema": "Die Firma macht einen Tag der offenen Tür für Schüler.",
+   "situation": "Planen Sie mit Ihrer Kollegin das Programm.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was wollen wir den Schülern zeigen?",
+     "o": [
+      "Ich schlage vor, dass wir kleine Gruppen durch die Werkstatt führen und die Schüler selbst etwas ausprobieren dürfen, zum Beispiel löten.",
+      "Das Büro.",
+      "Videos."
+     ],
+     "r": 0,
+     "e": "Interessantes Programm."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und wer erklärt die Ausbildung?",
+     "o": [
+      "Die besten Erklärer sind unsere Azubis, sie sind im gleichen Alter. Ich plane den Ablauf, du fragst die Azubis, ob sie mitmachen?",
+      "Der Chef.",
+      "Niemand."
+     ],
+     "r": 0,
+     "e": "Azubis einbeziehen + Aufgaben."
+    }
+   ],
+   "m": "Führungen in Kleingruppen, praktische Übungen; Azubis erklären die Ausbildung. Ich plane den Ablauf, Kollegin fragt die Azubis."
+  },
+  {
+   "id": "lbj25",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Parkplatzproblem",
+   "thema": "Es gibt zu wenige Parkplätze für die Mitarbeiter.",
+   "situation": "Überlegen Sie mit Ihrer Kollegin eine Lösung.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was können wir tun?",
+     "o": [
+      "Ich fände es sinnvoll, Fahrgemeinschaften zu fördern. Wer mit anderen fährt, bekommt einen festen Parkplatz.",
+      "Mehr Parkplätze bauen.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Lösung mit Anreiz."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und was ist mit Leuten ohne Auto?",
+     "o": [
+      "Die Firma könnte das Jobticket bezahlen und Fahrradständer mit Dach bauen. Ich mache eine Pinnwand für Fahrgemeinschaften, und du fragst bei der Personalabteilung nach dem Jobticket?",
+      "Pech.",
+      "Laufen."
+     ],
+     "r": 0,
+     "e": "Alternative + Aufgaben."
+    }
+   ],
+   "m": "Fahrgemeinschaften mit festem Parkplatz; Jobticket und überdachte Fahrradständer. Ich mache die Pinnwand, Kollegin fragt nach dem Jobticket."
+  },
+  {
+   "id": "lbj26",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kundenumfrage",
+   "thema": "Die Firma möchte wissen, wie zufrieden die Kunden sind.",
+   "situation": "Planen Sie mit Ihrer Kollegin eine Kundenumfrage.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Wie fragen wir die Kunden?",
+     "o": [
+      "Ich schlage eine kurze Online-Umfrage mit höchstens zehn Fragen vor. Den Link schicken wir mit der Rechnung.",
+      "Wir rufen alle an.",
+      "Gar nicht."
+     ],
+     "r": 0,
+     "e": "Methode vorschlagen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und wie motivieren wir die Kunden mitzumachen?",
+     "o": [
+      "Was hältst du davon, wenn wir einen Gutschein unter allen Teilnehmern verlosen? Ich schreibe die Fragen, du kümmerst dich um den Gutschein?",
+      "Geld bezahlen.",
+      "Nicht nötig."
+     ],
+     "r": 0,
+     "e": "Anreiz + Aufgaben."
+    }
+   ],
+   "m": "Online-Umfrage mit max. 10 Fragen, Link mit Rechnung; Gutschein-Verlosung. Ich schreibe Fragen, Kollegin organisiert Gutschein."
+  },
+  {
+   "id": "lbj27",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Hitze im Sommer",
+   "thema": "Im Sommer wird es im Büro sehr heiß.",
+   "situation": "Planen Sie mit Ihrer Kollegin Maßnahmen für heiße Tage.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was können wir sofort tun?",
+     "o": [
+      "Wir könnten morgens früh lüften und tagsüber die Jalousien schließen. Außerdem sollte es kostenloses Wasser geben.",
+      "Nach Hause gehen.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Sofortmaßnahmen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und was noch?",
+     "o": [
+      "Ich schlage vor, dass wir an heißen Tagen früher anfangen dürfen, zum Beispiel ab 6 Uhr. Ich spreche mit der Chefin, und du fragst nach Ventilatoren?",
+      "Klimaanlage kaufen.",
+      "Weiß nicht."
+     ],
+     "r": 0,
+     "e": "Arbeitszeit + Aufgaben."
+    }
+   ],
+   "m": "Früh lüften, Jalousien zu, kostenloses Wasser, früher Arbeitsbeginn ab 6 Uhr. Ich spreche mit der Chefin, Kollegin fragt nach Ventilatoren."
+  },
+  {
+   "id": "lbj28",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Patenschaft für ausländische Kollegen",
+   "thema": "Es kommen mehrere neue Kollegen aus dem Ausland.",
+   "situation": "Planen Sie mit Ihrer Kollegin ein Patenprogramm.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Wobei brauchen die neuen Kollegen Hilfe?",
+     "o": [
+      "Sie brauchen Hilfe bei der Arbeit, aber auch im Alltag, zum Beispiel bei Behörden, der Wohnungssuche oder dem Bankkonto.",
+      "Nur bei der Arbeit.",
+      "Bei nichts."
+     ],
+     "r": 0,
+     "e": "Bedarf benennen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Wer kann Pate werden?",
+     "o": [
+      "Was hältst du davon, wenn wir Freiwillige suchen, die schon länger hier sind und vielleicht die gleiche Sprache sprechen? Ich mache einen Aufruf, du planst ein erstes Treffen?",
+      "Der Chef.",
+      "Jeder muss."
+     ],
+     "r": 0,
+     "e": "Freiwillige + Aufgaben."
+    }
+   ],
+   "m": "Hilfe bei Arbeit und Alltag (Behörden, Wohnung, Bank); freiwillige Paten, gern mit gleicher Sprache. Ich mache den Aufruf, Kollegin plant das Treffen."
+  },
+  {
+   "id": "lbj29",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Vertretung bei Krankheit",
+   "thema": "Oft weiß niemand, was zu tun ist, wenn ein Kollege krank ist.",
+   "situation": "Planen Sie mit Ihrer Kollegin eine bessere Vertretung.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Was ist das Problem?",
+     "o": [
+      "Das Problem ist, dass jeder seine Aufgaben nur im Kopf hat. Wenn jemand krank ist, weiß niemand, welche Termine und Aufträge offen sind.",
+      "Kollegen sind zu oft krank.",
+      "Kein Problem."
+     ],
+     "r": 0,
+     "e": "Ursache benennen."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Was schlagen wir vor?",
+     "o": [
+      "Wir könnten für jeden Arbeitsplatz eine Vertretung festlegen und eine gemeinsame Aufgabenliste im System führen. Ich erstelle die Liste, du sprichst mit dem Team über die Vertretungen?",
+      "Mehr arbeiten.",
+      "Warten, bis er zurück ist."
+     ],
+     "r": 0,
+     "e": "Lösung + Aufgaben."
+    }
+   ],
+   "m": "Feste Vertretung pro Arbeitsplatz und gemeinsame Aufgabenliste im System. Ich erstelle die Liste, Kollegin klärt Vertretungen im Team."
+  },
+  {
+   "id": "lbj30",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Firmenjubiläum für Mitarbeiter",
+   "thema": "Ein Mitarbeiter feiert 25 Jahre in der Firma.",
+   "situation": "Planen Sie mit Ihrer Kollegin, wie man ihn ehrt.",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Wie wollen wir ihn feiern?",
+     "o": [
+      "Ich fände eine kleine Überraschung am Morgen schön: Frühstück für die ganze Abteilung und eine kurze Rede von der Chefin.",
+      "Gar nicht.",
+      "Große Party am Wochenende."
+     ],
+     "r": 0,
+     "e": "Passende Idee."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Was schenken wir?",
+     "o": [
+      "Er ist ein großer Fußballfan. Wie wären zwei Karten für ein Spiel? Ich sammle das Geld, und du organisierst das Frühstück?",
+      "Blumen.",
+      "Geld."
+     ],
+     "r": 0,
+     "e": "Persönliches Geschenk + Aufgaben."
+    }
+   ],
+   "m": "Überraschungsfrühstück mit kurzer Rede; Geschenk: zwei Fußballkarten. Ich sammle Geld, Kollegin organisiert das Frühstück."
+  }
+ ]
+}

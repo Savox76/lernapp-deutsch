@@ -1,0 +1,44 @@
+{
+ "loesung": [
+  {
+   "id": "lbj31",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Team-Frühstück",
+   "thema": "Das Team möchte einmal im Monat zusammen frühstücken.",
+   "situation": "Planen Sie mit Ihrer Kollegin: Wann? Wer bringt was? Wer bezahlt?",
+   "rm": [
+    "Ich schlage vor, dass …",
+    "Was hältst du davon, wenn …?",
+    "Dafür bräuchten wir …",
+    "Wer übernimmt …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Kollegin",
+     "sagt": "Wann wollen wir frühstücken?",
+     "o": [
+      "Ich schlage den ersten Freitag im Monat um 9 Uhr vor. Freitags gibt es weniger Termine, und es ist ein schöner Start ins Wochenende.",
+      "Jeden Tag.",
+      "Abends."
+     ],
+     "r": 0,
+     "e": "Termin mit Begründung."
+    },
+    {
+     "wer": "Kollegin",
+     "sagt": "Und wer bringt was mit?",
+     "o": [
+      "Was hältst du davon, wenn jeden Monat zwei Kollegen für das Einkaufen zuständig sind und alle drei Euro in eine Kasse zahlen? Ich mache den Plan, du sammelst das Geld?",
+      "Immer ich.",
+      "Der Chef."
+     ],
+     "r": 0,
+     "e": "Faires System + Aufgaben."
+    }
+   ],
+   "m": "Erster Freitag im Monat um 9 Uhr; zwei Kollegen kaufen ein, alle zahlen 3 Euro. Ich mache den Plan, Kollegin sammelt das Geld."
+  }
+ ]
+}
