@@ -1,0 +1,438 @@
+# Dialoge Beruf – Teil 4 (J7, DTB)
+
+=== dlg-b53 | DTB | Bewerbung am Telefon nachfragen | Personalabteilung | Sie fragen nach dem Stand Ihrer Bewerbung. | Вы узнаёте о статусе заявки.
+P: Personalabteilung, Schmidt, guten Tag.
+A: Sag deinen Namen und dass du dich als Lageristin beworben hast. | Назови имя и что подала заявку на кладовщицу.
+M: Guten Tag, Iwanowa. Ich *habe* mich als Lageristin beworben.
+K: Lageristin
+P: Wann haben Sie die Bewerbung geschickt?
+A: Sag: vor drei Wochen, am 2. Mai. | Скажи: три недели назад, 2 мая.
+M: Ich *habe* sie vor drei Wochen geschickt, am 2. Mai.
+K: 2. Mai
+P: Wir laden gerade zu Gesprächen ein. Sie hören diese Woche von uns.
+A: Sag, dass du dich freust, und frag, welche Unterlagen du mitbringen sollst. | Скажи, что рада, и спроси, какие документы принести.
+M: Das *freut* mich. Welche Unterlagen soll ich mitbringen?
+K: Unterlagen
+P: Ihre Zeugnisse und den Staplerschein, wenn Sie einen haben.
+A: Sag, dass du einen Staplerschein hast. | Скажи, что у тебя есть права на погрузчик.
+M: Ich *habe* einen Staplerschein.
+K: Staplerschein
+ENDE: Sehr gut. Bis bald!
+
+=== dlg-b54 | DTB | Neue Aufgabe übernehmen | Chef | Ihr Chef bietet Ihnen eine neue Aufgabe an. | Начальник предлагает новую задачу.
+P: Frau Iwanowa, möchten Sie die Bestellungen für das ganze Lager übernehmen?
+A: Sag, dass du dich über das Vertrauen freust. | Скажи, что рада доверию.
+M: Ich *freue* mich über Ihr Vertrauen.
+K: Vertrauen
+P: Sie bräuchten dafür eine Schulung im Programm.
+A: Frag, wann die Schulung stattfindet. | Спроси, когда обучение.
+M: Wann *findet* die Schulung statt?
+K: Schulung
+P: Nächste Woche, zwei Tage.
+A: Frag, wer deine alten Aufgaben übernimmt. | Спроси, кто возьмёт твои прежние задачи.
+M: Wer *übernimmt* dann meine alten Aufgaben?
+K: übernehmen
+P: Herr Ali wird Sie dort vertreten.
+A: Sag, dass du die neue Aufgabe gern übernimmst. | Скажи, что с удовольствием берёшь новую задачу.
+M: Dann *übernehme* ich die neue Aufgabe gern.
+K: gern
+ENDE: Wunderbar!
+
+=== dlg-b55 | DTB | Konflikt mit Kollegen | Kollege | Ein Kollege lässt immer Arbeit liegen. | Коллега постоянно не доделывает работу.
+P: Was ist los? Du siehst genervt aus.
+A: Sag, dass du am Ende der Schicht oft seine Kisten wegräumen musst. | Скажи, что в конце смены часто убираешь его ящики.
+M: Am Ende der Schicht *muss* ich oft deine Kisten wegräumen.
+K: Kisten
+P: Oh, das wusste ich nicht. Ich bin immer so in Eile.
+A: Sag, dass du ihn verstehst, aber es so nicht weitergeht. | Скажи, что понимаешь, но так дальше нельзя.
+M: Ich *verstehe* dich, aber so geht es nicht weiter.
+K: verstehe
+P: Was schlägst du vor?
+A: Schlag vor, die letzten zehn Minuten gemeinsam aufzuräumen. | Предложи последние десять минут убирать вместе.
+M: Wir *könnten* die letzten zehn Minuten zusammen aufräumen.
+K: zusammen
+P: Okay, das machen wir.
+A: Bedanke dich für das Gespräch. | Поблагодари за разговор.
+M: Danke, dass wir darüber *sprechen* konnten.
+K: danke
+ENDE: Klar, sorry noch mal.
+
+=== dlg-b56 | DTB | Bestellung aufnehmen | Kunde | Ein Kunde bestellt telefonisch. | Клиент делает заказ по телефону.
+P: Ich möchte gern etwas bestellen.
+A: Frag nach der Kundennummer. | Спроси номер клиента.
+M: Gern. Wie *ist* Ihre Kundennummer?
+K: Kundennummer
+P: 5 5 2 1 0.
+A: Frag, was er bestellen möchte. | Спроси, что он хочет заказать.
+M: Was *möchten* Sie bestellen?
+K: bestellen
+P: 200 Kartons Kopierpapier und 10 Toner.
+A: Sag, dass das Papier auf Lager ist, der Toner aber erst nächste Woche kommt. | Скажи, что бумага есть, а тонер будет через неделю.
+M: Das Papier *ist* auf Lager, der Toner kommt aber erst nächste Woche.
+K: Toner
+P: Dann schicken Sie bitte zuerst das Papier.
+A: Bestätige und nenne den Liefertermin: Donnerstag. | Подтверди и назови срок: четверг.
+M: Gut, das Papier *kommt* am Donnerstag.
+K: Donnerstag
+ENDE: Vielen Dank!
+
+=== dlg-b57 | DTB | Feedbackgespräch | Teamleiterin | Sie haben ein Feedbackgespräch. | У вас разговор об обратной связи.
+P: Ich bin sehr zufrieden mit Ihrer Arbeit. Wie geht es Ihnen im Team?
+A: Sag, dass du dich im Team sehr wohl fühlst. | Скажи, что тебе в команде очень хорошо.
+M: Ich *fühle* mich im Team sehr wohl.
+K: wohl
+P: Gibt es etwas, das wir verbessern können?
+A: Sag, dass die Schichtpläne oft zu spät kommen. | Скажи, что графики часто приходят слишком поздно.
+M: Die Schichtpläne *kommen* oft zu spät.
+K: Schichtpläne
+P: Das stimmt. Ab nächstem Monat gibt es sie vier Wochen vorher.
+A: Sag, dass das sehr hilft. | Скажи, что это очень поможет.
+M: Das *hilft* mir sehr, besonders mit den Kindern.
+K: hilft
+P: Haben Sie berufliche Ziele?
+A: Sag, dass du gern eine Weiterbildung machen möchtest. | Скажи, что хочешь пройти обучение.
+M: Ich *möchte* gern eine Weiterbildung machen.
+K: Weiterbildung
+ENDE: Dann schauen wir zusammen nach passenden Kursen.
+
+=== dlg-b58 | DTB | Besucher empfangen | Besucher | Ein Besucher kommt an den Empfang. | Посетитель подходит к ресепшен.
+P: Guten Tag, ich habe einen Termin bei Herrn Fischer.
+A: Begrüße ihn und frag nach seinem Namen. | Поприветствуй и спроси имя.
+M: Guten Tag. Wie *ist* Ihr Name, bitte?
+K: Name
+P: Markus Braun von der Firma Elektro Nord.
+A: Sag, dass du Herrn Fischer Bescheid sagst, und bitte ihn, Platz zu nehmen. | Скажи, что сообщишь Фишеру, и попроси присесть.
+M: Ich *sage* Herrn Fischer Bescheid. Bitte nehmen Sie Platz.
+K: Platz
+P: Danke. Kann ich hier irgendwo parken?
+A: Sag, dass er auf dem Besucherparkplatz vor dem Haus parken kann. | Скажи, что можно на гостевой парковке.
+M: Sie *können* auf dem Besucherparkplatz vor dem Haus parken.
+K: Besucherparkplatz
+P: Super. Und noch etwas: Gibt es einen Kaffee?
+A: Biete Kaffee oder Wasser an. | Предложи кофе или воду.
+M: Natürlich. *Möchten* Sie Kaffee oder Wasser?
+K: Kaffee
+ENDE: Einen Kaffee, bitte.
+
+=== dlg-b59 | DTB | Fehler im Gehalt | Personalabteilung | In Ihrer Abrechnung fehlt Geld. | В расчёте не хватает денег.
+P: Lohnbuchhaltung, guten Tag.
+A: Sag, dass in deiner Abrechnung die Überstunden fehlen. | Скажи, что в расчёте нет сверхурочных.
+M: In meiner Abrechnung *fehlen* die Überstunden.
+K: Überstunden
+P: Wie viele Stunden waren es?
+A: Sag: zwölf Stunden im Oktober. | Скажи: двенадцать часов в октябре.
+M: Es *waren* zwölf Stunden im Oktober.
+K: zwölf
+P: Hat Ihre Teamleitung die Stunden freigegeben?
+A: Sag ja, am 28. Oktober. | Скажи «да», 28 октября.
+M: Ja, sie *hat* sie am 28. Oktober freigegeben.
+K: freigegeben
+P: Dann kam die Freigabe zu spät. Sie bekommen das Geld im November.
+A: Bedanke dich und frag, ob du eine Bestätigung per E-Mail bekommst. | Поблагодари и спроси о подтверждении по почте.
+M: Danke. *Bekomme* ich eine Bestätigung per E-Mail?
+K: Bestätigung
+ENDE: Ja, ich schicke sie Ihnen heute.
+
+=== dlg-b60 | DTB | Mitarbeitergespräch: Teilzeit | Chefin | Sie möchten Ihre Arbeitszeit reduzieren. | Вы хотите сократить рабочее время.
+P: Sie möchten mit mir über Ihre Arbeitszeit sprechen?
+A: Sag, dass du ab Januar 30 statt 40 Stunden arbeiten möchtest. | Скажи, что с января хочешь 30 часов вместо 40.
+M: Ich *möchte* ab Januar 30 statt 40 Stunden arbeiten.
+K: 30 Stunden
+P: Darf ich nach dem Grund fragen?
+A: Sag, dass du deine Mutter pflegst. | Скажи, что ухаживаешь за мамой.
+M: Ich *pflege* meine Mutter.
+K: pflege
+P: Das verstehe ich. Wie möchten Sie die Stunden verteilen?
+A: Sag: Montag bis Freitag von 7 bis 13 Uhr. | Скажи: с понедельника по пятницу с 7 до 13.
+M: Ich *würde* gern Montag bis Freitag von 7 bis 13 Uhr arbeiten.
+K: 7 bis 13
+P: Das sollte gehen. Stellen Sie bitte einen schriftlichen Antrag.
+A: Sag, dass du den Antrag diese Woche abgibst. | Скажи, что подашь заявление на этой неделе.
+M: Ich *gebe* den Antrag diese Woche ab.
+K: Antrag
+ENDE: Gut, ich unterstütze das.
+
+=== dlg-b61 | DTB | Sicherheitsunterweisung | Sicherheitsbeauftragter | Sie bekommen eine Sicherheitsunterweisung. | Вас инструктируют по технике безопасности.
+P: Wissen Sie, wo der nächste Notausgang ist?
+A: Sag, dass er am Ende von Halle 2 ist. | Скажи, что в конце цеха 2.
+M: Er *ist* am Ende von Halle 2.
+K: Notausgang
+P: Richtig. Und wo treffen wir uns bei einem Feueralarm?
+A: Sag: am Sammelplatz auf dem Parkplatz Ost. | Скажи: на месте сбора на парковке Ост.
+M: Wir *treffen* uns am Sammelplatz auf dem Parkplatz Ost.
+K: Sammelplatz
+P: Gut. Was machen Sie, wenn Sie einen Unfall sehen?
+A: Sag, dass du Erste Hilfe leistest und die Schichtleitung informierst. | Скажи, что окажешь первую помощь и сообщишь руководителю смены.
+M: Ich *leiste* Erste Hilfe und informiere die Schichtleitung.
+K: Erste Hilfe
+P: Sehr gut. Bitte unterschreiben Sie hier.
+A: Frag, ob du eine Kopie bekommst. | Спроси, получишь ли копию.
+M: *Bekomme* ich eine Kopie?
+K: Kopie
+ENDE: Ja, sie kommt per E-Mail.
+
+=== dlg-b62 | DTB | Dienstreise planen | Assistentin | Sie planen eine Dienstreise. | Вы планируете командировку.
+P: Sie fahren nächste Woche nach Hamburg?
+A: Sag ja, zur Messe von Dienstag bis Donnerstag. | Скажи «да», на выставку со вторника по четверг.
+M: Ja, ich *fahre* von Dienstag bis Donnerstag zur Messe.
+K: Messe
+P: Soll ich Zug und Hotel buchen?
+A: Sag ja, bitte den Zug am Dienstag früh. | Скажи «да», пожалуйста, поезд во вторник утром.
+M: Ja, bitte *buchen* Sie den Zug am Dienstag früh.
+K: Zug
+P: Und das Hotel in der Nähe der Messe?
+A: Sag ja, höchstens 120 Euro pro Nacht. | Скажи «да», не дороже 120 евро за ночь.
+M: Ja, es *darf* höchstens 120 Euro pro Nacht kosten.
+K: 120
+P: Brauchen Sie auch Visitenkarten?
+A: Sag, dass du noch genug hast. | Скажи, что у тебя ещё достаточно.
+M: Nein, danke, ich *habe* noch genug.
+K: genug
+ENDE: Gut, ich schicke Ihnen die Buchung.
+
+=== dlg-b63 | DTB | Kollegin krank: Vertretung | Teamleiter | Eine Kollegin ist krank, Sie sollen vertreten. | Коллега заболела, вы замещаете.
+P: Frau Lang ist krank. Können Sie heute ihre Kunden übernehmen?
+A: Sag ja und frag, welche Termine heute anstehen. | Скажи «да» и спроси, какие встречи сегодня.
+M: Ja, gern. Welche Termine *stehen* heute an?
+K: Termine
+P: Um 11 Uhr kommt Herr Becker, um 15 Uhr Frau Klein.
+A: Frag, wo du die Unterlagen findest. | Спроси, где найти документы.
+M: Wo *finde* ich die Unterlagen?
+K: Unterlagen
+P: Im System unter den Kundennamen.
+A: Sag, dass du dich gleich vorbereitest. | Скажи, что сразу подготовишься.
+M: Ich *bereite* mich gleich vor.
+K: vorbereiten
+P: Danke. Wenn Sie Fragen haben, rufen Sie mich an.
+A: Bedanke dich. | Поблагодари.
+M: Danke, das *mache* ich.
+K: danke
+ENDE: Viel Erfolg!
+
+=== dlg-b64 | DTB | Ware zurücknehmen | Kundin | Eine Kundin möchte etwas zurückgeben. | Покупательница хочет вернуть товар.
+P: Ich möchte diese Schuhe zurückgeben.
+A: Frag, ob sie den Kassenbon hat. | Спроси, есть ли чек.
+M: *Haben* Sie den Kassenbon?
+K: Kassenbon
+P: Ja, hier.
+A: Frag nach dem Grund. | Спроси причину.
+M: Darf ich fragen, warum Sie sie *zurückgeben*?
+K: Grund
+P: Sie sind zu klein.
+A: Biete eine größere Größe an. | Предложи размер больше.
+M: *Möchten* Sie eine Nummer größer probieren?
+K: größer
+P: Nein, ich möchte lieber mein Geld zurück.
+A: Sag, dass das kein Problem ist. | Скажи, что это не проблема.
+M: Kein Problem, ich *gebe* Ihnen das Geld zurück.
+K: Geld zurück
+ENDE: Vielen Dank.
+
+=== dlg-b65 | DTB | Arbeitszeugnis anfragen | Personalreferentin | Sie brauchen ein Zwischenzeugnis. | Вам нужна промежуточная характеристика.
+P: Was kann ich für Sie tun?
+A: Sag, dass du ein Zwischenzeugnis brauchst. | Скажи, что нужна промежуточная характеристика.
+M: Ich *brauche* ein Zwischenzeugnis.
+K: Zwischenzeugnis
+P: Darf ich fragen, wofür?
+A: Sag, dass du dich für eine Weiterbildung bewirbst. | Скажи, что подаёшь заявку на обучение.
+M: Ich *bewerbe* mich für eine Weiterbildung.
+K: Weiterbildung
+P: Kein Problem. Bis wann brauchen Sie es?
+A: Sag: bis Ende des Monats. | Скажи: до конца месяца.
+M: Ich *brauche* es bis Ende des Monats.
+K: Ende des Monats
+P: Das schaffen wir.
+A: Frag, ob du es per Post oder persönlich bekommst. | Спроси, получишь по почте или лично.
+M: *Bekomme* ich es per Post oder persönlich?
+K: Post
+ENDE: Sie können es hier abholen.
+
+=== dlg-b66 | DTB | Hotel: Frühstück erklären | Gast | Ein Gast fragt nach dem Frühstück. | Гость спрашивает о завтраке.
+P: Wann gibt es morgen Frühstück?
+A: Sag: von 6:30 bis 10 Uhr. | Скажи: с 6:30 до 10.
+M: Das Frühstück *gibt* es von 6:30 bis 10 Uhr.
+K: 6:30
+P: Wo ist der Frühstücksraum?
+A: Sag: im Erdgeschoss neben der Rezeption. | Скажи: на первом этаже рядом с ресепшен.
+M: Er *ist* im Erdgeschoss neben der Rezeption.
+K: Erdgeschoss
+P: Gibt es auch etwas ohne Gluten?
+A: Sag ja, es gibt glutenfreies Brot. | Скажи «да», есть хлеб без глютена.
+M: Ja, wir *haben* auch glutenfreies Brot.
+K: glutenfrei
+P: Und kann ich das Frühstück auch aufs Zimmer bekommen?
+A: Sag ja, gegen einen Aufpreis von 8 Euro. | Скажи «да», с доплатой 8 евро.
+M: Ja, das *kostet* 8 Euro extra.
+K: 8 Euro
+ENDE: Danke, dann komme ich lieber runter.
+
+=== dlg-b67 | DTB | IT-Problem melden | IT-Support | Ihr Computer startet nicht. | Ваш компьютер не запускается.
+P: IT-Support, guten Tag.
+A: Sag, dass dein Computer nicht mehr startet. | Скажи, что компьютер не запускается.
+M: Mein Computer *startet* nicht mehr.
+K: startet
+P: Was sehen Sie auf dem Bildschirm?
+A: Sag, dass der Bildschirm schwarz bleibt. | Скажи, что экран остаётся чёрным.
+M: Der Bildschirm *bleibt* schwarz.
+K: schwarz
+P: Haben Sie den Computer neu gestartet?
+A: Sag ja, schon zweimal. | Скажи «да», уже дважды.
+M: Ja, ich *habe* ihn schon zweimal neu gestartet.
+K: neu gestartet
+P: Dann komme ich vorbei. Welches Zimmer?
+A: Sag: Zimmer 214, zweiter Stock. | Скажи: комната 214, второй этаж.
+M: Ich *sitze* in Zimmer 214, im zweiten Stock.
+K: 214
+ENDE: Ich bin in zehn Minuten da.
+
+=== dlg-b68 | DTB | Kunde: Angebot erklären | Kundin | Eine Kundin fragt nach einem Angebot. | Клиентка спрашивает о предложении.
+P: Ich habe Ihr Angebot bekommen, aber es ist sehr teuer.
+A: Frag, welcher Teil ihr zu teuer ist. | Спроси, какая часть слишком дорогая.
+M: Welcher Teil *ist* Ihnen zu teuer?
+K: Teil
+P: Vor allem die Montage.
+A: Erkläre, dass die Montage zwei Tage dauert. | Объясни, что монтаж длится два дня.
+M: Die Montage *dauert* zwei Tage, weil die Küche sehr groß ist.
+K: zwei Tage
+P: Gibt es eine günstigere Möglichkeit?
+A: Biete an, dass ihr die alte Küche nicht abbaut, wenn sie das selbst macht. | Предложи, что старую кухню разберёт она сама.
+M: Wenn Sie die alte Küche selbst abbauen, *wird* es 300 Euro günstiger.
+K: günstiger
+P: Das klingt gut. Schicken Sie mir bitte ein neues Angebot.
+A: Sag, dass du es bis morgen schickst. | Скажи, что пришлёшь до завтра.
+M: Ich *schicke* es Ihnen bis morgen.
+K: morgen
+ENDE: Vielen Dank!
+
+=== dlg-b69 | DTB | Ausbildung erklären | Schülerin | Eine Schülerin fragt nach der Ausbildung. | Школьница спрашивает об обучении.
+P: Wie lange dauert die Ausbildung bei Ihnen?
+A: Sag: drei Jahre. | Скажи: три года.
+M: Die Ausbildung *dauert* drei Jahre.
+K: drei Jahre
+P: Muss ich auch in die Berufsschule?
+A: Sag ja, zweimal pro Woche. | Скажи «да», дважды в неделю.
+M: Ja, du *gehst* zweimal pro Woche in die Berufsschule.
+K: Berufsschule
+P: Verdient man schon Geld?
+A: Sag ja, im ersten Jahr etwa 1.000 Euro. | Скажи «да», в первый год около 1000 евро.
+M: Ja, im ersten Jahr *verdienst* du etwa 1.000 Euro.
+K: 1.000
+P: Kann ich vorher ein Praktikum machen?
+A: Sag ja, sie soll eine Bewerbung schicken. | Скажи «да», пусть пришлёт заявку.
+M: Ja, *schick* uns einfach eine kurze Bewerbung.
+K: Praktikum
+ENDE: Super, das mache ich!
+
+=== dlg-b70 | DTB | Lieferverzug erklären | Kunde | Ein Kunde wartet auf seine Ware. | Клиент ждёт товар.
+P: Wo bleibt meine Lieferung?
+A: Entschuldige dich und sag, dass der Hersteller Verspätung hat. | Извинись и скажи, что производитель задерживает.
+M: Es *tut* mir leid. Unser Hersteller hat Verspätung.
+K: Hersteller
+P: Wie lange noch?
+A: Sag: etwa zehn Tage. | Скажи: около десяти дней.
+M: Es *dauert* noch etwa zehn Tage.
+K: zehn Tage
+P: Das ist zu lange. Ich brauche die Ware dringend.
+A: Biete ein ähnliches Produkt an, das sofort lieferbar ist. | Предложи похожий товар, который есть сразу.
+M: Ich *kann* Ihnen ein ähnliches Produkt anbieten, das sofort lieferbar ist.
+K: sofort
+P: Zum gleichen Preis?
+A: Sag ja, zum gleichen Preis. | Скажи «да», по той же цене.
+M: Ja, es *kostet* das Gleiche.
+K: gleichen Preis
+ENDE: Dann nehme ich das.
+
+=== dlg-b71 | DTB | Neuer Kollege aus dem Ausland | neuer Kollege | Ein neuer Kollege spricht noch wenig Deutsch. | Новый коллега пока плохо говорит по-немецки.
+P: Entschuldigung, ich verstehe nicht alles. Bitte langsam.
+A: Sag, dass das kein Problem ist und du langsam sprichst. | Скажи, что это не проблема и будешь говорить медленно.
+M: Kein Problem, ich *spreche* langsam.
+K: langsam
+P: Danke. Was ist meine Aufgabe heute?
+A: Sag, dass er heute die Regale auffüllt. | Скажи, что сегодня он заполняет стеллажи.
+M: Heute *füllst* du die Regale auf.
+K: Regale
+P: Wo ist das Lager?
+A: Sag, dass du es ihm zeigst. | Скажи, что покажешь ему.
+M: Komm mit, ich *zeige* es dir.
+K: zeigen
+P: Danke, du bist sehr nett.
+A: Sag, dass er immer fragen kann. | Скажи, что он всегда может спросить.
+M: Du *kannst* mich immer fragen.
+K: fragen
+ENDE: Danke!
+
+=== dlg-b72 | DTB | Termin beim Betriebsarzt | Betriebsärztin | Sie sind beim Betriebsarzt. | Вы у заводского врача.
+P: Sie arbeiten im Nachtdienst. Wie schlafen Sie?
+A: Sag, dass du tagsüber oft nur fünf Stunden schläfst. | Скажи, что днём часто спишь только пять часов.
+M: Tagsüber *schlafe* ich oft nur fünf Stunden.
+K: fünf Stunden
+P: Das ist wenig. Haben Sie Rückenschmerzen?
+A: Sag ja, manchmal nach dem Heben. | Скажи «да», иногда после подъёма тяжестей.
+M: Ja, manchmal nach dem Heben *tut* mir der Rücken weh.
+K: Rücken
+P: Ich empfehle Ihnen einen Rückenkurs. Die Krankenkasse bezahlt ihn.
+A: Frag, wo es so einen Kurs gibt. | Спроси, где такой курс.
+M: Wo *gibt* es so einen Kurs?
+K: Kurs
+P: Hier im Haus, dienstags um 15 Uhr.
+A: Sag, dass du dich anmeldest. | Скажи, что запишешься.
+M: Dann *melde* ich mich an.
+K: anmelden
+ENDE: Sehr gut.
+
+=== dlg-b73 | DTB | Kunde verlangt den Chef | Kunde | Ein wütender Kunde will den Chef sprechen. | Сердитый клиент требует начальника.
+P: Ich will sofort mit Ihrem Chef sprechen!
+A: Bleib ruhig und frag, worum es geht. | Сохраняй спокойствие и спроси, в чём дело.
+M: Ich *verstehe*, dass Sie verärgert sind. Worum geht es?
+K: verärgert
+P: Die Reparatur hat drei Wochen gedauert, und jetzt ist das Gerät wieder kaputt!
+A: Entschuldige dich und sag, dass ihr das Gerät sofort prüft. | Извинись и скажи, что сразу проверите.
+M: Das *tut* mir leid. Wir prüfen das Gerät sofort.
+K: prüfen
+P: Und wer bezahlt das?
+A: Sag, dass es Garantie ist und nichts kostet. | Скажи, что это гарантия и бесплатно.
+M: Das *ist* ein Garantiefall, es kostet nichts.
+K: Garantie
+P: Na gut. Aber diesmal schnell.
+A: Versprich, dass er das Gerät in drei Tagen zurückbekommt. | Пообещай вернуть через три дня.
+M: Sie *bekommen* das Gerät in drei Tagen zurück, versprochen.
+K: drei Tagen
+ENDE: Okay, danke.
+
+=== dlg-b74 | DTB | Urlaub verschieben | Chefin | Ihre Chefin bittet Sie, den Urlaub zu verschieben. | Начальница просит перенести отпуск.
+P: Könnten Sie Ihren Urlaub eine Woche später nehmen? Wir haben einen großen Auftrag.
+A: Sag, dass das schwierig ist, weil die Flüge schon gebucht sind. | Скажи, что сложно, так как билеты уже куплены.
+M: Das *ist* schwierig, weil die Flüge schon gebucht sind.
+K: Flüge
+P: Ich verstehe. Gibt es eine andere Lösung?
+A: Biete an, vor dem Urlaub zwei Tage länger zu arbeiten. | Предложи поработать два дня дольше перед отпуском.
+M: Ich *könnte* vor dem Urlaub zwei Tage länger arbeiten.
+K: länger
+P: Das würde helfen.
+A: Frag, ob die Überstunden später als freie Tage zählen. | Спроси, будут ли сверхурочные потом отгулами.
+M: *Zählen* die Überstunden später als freie Tage?
+K: freie Tage
+P: Ja, natürlich.
+A: Sag, dass ihr es so macht. | Скажи, что так и сделаете.
+M: Gut, dann *machen* wir es so.
+K: so
+ENDE: Danke für Ihr Verständnis.
+
+=== dlg-b75 | DTB | Abschied vom Team | Kollegen | Sie verlassen die Firma und verabschieden sich. | Вы уходите из фирмы и прощаетесь.
+P: Schade, dass du gehst! Wohin wechselst du?
+A: Sag, dass du in einem Krankenhaus als Pflegehelferin anfängst. | Скажи, что начинаешь в больнице помощницей по уходу.
+M: Ich *fange* in einem Krankenhaus als Pflegehelferin an.
+K: Krankenhaus
+P: Toll! Was hat dir bei uns gefallen?
+A: Sag, dass dir das nette Team am besten gefallen hat. | Скажи, что больше всего понравилась дружная команда.
+M: Am besten *hat* mir unser nettes Team gefallen.
+K: Team
+P: Wir werden dich vermissen.
+A: Sag, dass du sie auch vermissen wirst. | Скажи, что тоже будешь скучать.
+M: Ich *werde* euch auch vermissen.
+K: vermissen
+P: Bleiben wir in Kontakt?
+A: Sag ja und lade sie zu einem Treffen ein. | Скажи «да» и пригласи на встречу.
+M: Ja, klar! *Lasst* uns bald zusammen essen gehen.
+K: essen
+ENDE: Sehr gern. Alles Gute!
