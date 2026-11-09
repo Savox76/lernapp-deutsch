@@ -157,6 +157,50 @@ Hinweis: Jede neue Sprache bedeutet Übersetzungen für den gesamten Inhalt. Das
 | M31–M33 | C2-Inhalte | Stilistik, Redewendungen, Textproduktion auf hohem Niveau | ⬜ |
 | M34 | Niveauwahl | In den Einstellungen Niveau A2–C2 wählbar, Grundkurs und Prüfungsbereich passen sich an | ⬜ |
 
+## 2e. Neue App: Konzept für weitere Sprachen und Merkliste (Mario, 09.11.2026)
+
+Mario (09.11.2026): „Wir ändern die App ja sowieso als nächstes.“ Alles, was beim Umbau berücksichtigt werden muss, steht hier gesammelt. Bis dahin werden Probleme **nur in den Inhaltsdateien** gelöst, die App bleibt unverändert.
+
+### Konzept: weitere Ausgangssprachen (Phase 2, M18 ff.)
+
+**Ist-Zustand:** Russisch steckt an drei Stellen:
+1. als Spalte in den Text-Quellen (`woerter-*.txt` Spalte 5, `saetze-*.txt` Spalte 2, `endungen-*.txt`, Kopf- und A-Zeilen in `dialoge/*.txt`),
+2. als Feld `ru` in Prüfungs- und Schreibaufgaben (Aufgabenstellung, bei Prüferfragen pro Frage),
+3. als rund 460 feste russische Textstellen in `web/app.js` (Menüs, Hinweise, Erklärungen). Nur die Simulation (`quellen/simulation.json`) ist schon pro Sprache angelegt (`{"de": …, "ru": …}`, `UL()` = `SET.lang || "ru"`).
+
+**Ziel-Struktur:**
+| Baustein | Lösung |
+|---|---|
+| Stabile IDs | Jedes Wort, jeder Satz, jede Endungs-Zeile und jede Dialogzeile bekommt eine feste ID (Wörter z. B. `w-` + Lemma + Artikel, Sätze `s-` + kurzer Hash des deutschen Satzes, einmal erzeugt und in der Quelle gespeichert). Ohne IDs lassen sich Übersetzungen nicht sauber zuordnen. |
+| Deutsch-Kern | Die deutschen Inhalte bleiben **eine** Quelle (`quellen/`). Sie enthalten keine Übersetzungen mehr, nur Deutsch, Regeln (auf einfachem Deutsch), Niveau, Kategorie. |
+| Sprachpakete | Pro Sprache ein Ordner `quellen/i18n/<code>/` (`ru`, `uk`, `en`, `ar`, `tr`, `fa-AF` für Dari, `fr`) mit Dateien `woerter.tsv`, `saetze.tsv`, `endungen.tsv`, `dialoge.tsv`, `aufgaben.json` – jeweils **ID → Übersetzung**. Russisch wird als erstes Paket aus den heutigen Spalten herausgezogen (Skript, kein Handarbeit). |
+| Build | `build_content.py` erzeugt `web/content/*.json` (nur Deutsch) und `web/content/<code>/*.json` (nur Übersetzungen). Die App lädt den Kern + **nur das gewählte Sprachpaket** → kleinere Downloads (heute ist `pruefung.json` 2 MB inkl. Russisch). |
+| Oberfläche | Alle festen Texte aus `app.js` in Wörterbücher `web/i18n/<code>.json`, Zugriff über `t("schlüssel")`. Deutsche Begriffe der Lernwelt (z. B. „Sprachbausteine“) bleiben Deutsch, die Hilfe-Texte kommen aus dem Wörterbuch. |
+| Rückfall | Fehlt eine Übersetzung: zuerst Englisch, sonst nur Deutsch mit dezentem Hinweis „Übersetzung folgt“. Eine Sprache wird erst freigeschaltet, wenn mindestens 95 % übersetzt sind. |
+| Rechts-nach-links | Arabisch und Dari: Übersetzungsboxen bekommen `dir="rtl"` und `lang`, der deutsche Text bleibt links-nach-rechts. Schrift: Noto Sans Arabic (offline mitliefern). Layout an allen Stellen mit gemischtem Text testen. |
+| Vorlesen | `say()` bleibt Deutsch. Optional Übersetzung vorlesen, wenn das Gerät die Stimme hat (uk, ar, tr meist ja; Dari oft nicht → Button dann ausblenden). |
+| Einstellung | Beim ersten Start „Meine Sprache“ wählen, später in den Einstellungen änderbar (`SET.lang`). localStorage-Schlüssel bleiben gleich, Fortschritt ist sprachunabhängig. Die „Auswertung teilen“ bleibt auf Deutsch (geht an Mario/Lehrkraft). |
+| Übersetzungs-Ablauf | Aus dem **Deutschen** übersetzen (nicht aus dem Russischen, sonst entstehen Russizismen im Ukrainischen); Russisch dient nur zur Kontrolle. In Paketen von 300–500 Einträgen. Prüfskript: jede ID vorhanden, keine leeren Felder, richtige Schrift (Ukrainisch: і ї є ґ, keine ы э ъ), Längen-Plausibilität. Vor dem Verkauf je Sprache ein Muttersprachler-Review einer Stichprobe. |
+| Umfang pro Sprache | ca. 7.200 Wörter + 4.100 Sätze + ~1.700 Prüfungsaufgaben (Aufgabenstellungen, Prüferfragen) + Endungen, Dialoge, Schreibaufgaben + ~460 Oberflächentexte ≈ **15.000 Einträge**, etwa 40–50 Arbeitspakete. |
+
+**Reihenfolge (Mario, 04.11.2026):** Ukrainisch → Englisch → Arabisch → Türkisch → Dari → Französisch → weitere.
+
+### Merkliste: was die neue App können muss
+
+| # | Punkt | Woher | Status |
+|---|---|---|---|
+| A1 | **Antworten mischen auch bei kurzen Optionen** (heute nur Optionen > 6 Zeichen). Ausnahme mit Kennzeichen `"ord": true` für Aufgaben mit sinnvoller Reihenfolge (Wegweiser EG/1. OG …, Uhrzeiten). Bis dahin offline gelöst: Sprachbausteine-Optionen in allen Quellen fest gemischt (09.11.2026). | Mario, 09.11.2026 | ⬜ |
+| A2 | Mehrsprachigkeit nach Konzept oben (IDs, Sprachpakete, `t()`, RTL) | 2b / 2e | ⬜ |
+| A3 | Dialoge Stufe 2: Spracheingabe (SpeechRecognizer de-DE über AndroidBridge, Mikrofon-Berechtigung → neue APK) | 4a | ⬜ |
+| A4 | Dialoge Stufe 3: freie Antworten mit KI-Bewertung über eigenen Server (Abo) | 4a, 9 | ⬜ |
+| A5 | Hören mit zwei Stimmen (Mann/Frau) für Gespräche | 4 | ⬜ |
+| A6 | Sich selbst aufnehmen und anhören (Sprechen) | 4 | ⬜ |
+| A7 | Inhalte in Paketen laden statt 2 MB auf einmal; Service Worker cacht pro Sprache | 2e | ⬜ |
+| A8 | Konten, Synchronisierung zwischen Geräten, Premium (Abo) | 9.1, 9.2 | ⬜ |
+| A9 | Fortschritt ist heute an Aufgaben-IDs gebunden – beim Umbau IDs nie ändern, sonst geht Fortschritt verloren (`dl-prog`, `dl-stats`, `dl-set`, `dl-log`) | CLAUDE.md | Regel |
+| A10 | Niveauwahl A2–C2 (Phase 3) gleich im neuen Datenmodell vorsehen (`lv`-Feld überall vorhanden) | 2b | ⬜ |
+| A11 | Android-Hülle nur dann neu ausliefern, wenn Mikrofon/Aufnahme dazukommen – Nutzerin muss sonst nicht neu installieren | CLAUDE.md | Regel |
+
 ---
 
 ## 3. Die Prüfungen
