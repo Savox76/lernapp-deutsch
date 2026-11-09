@@ -1,0 +1,2284 @@
+{
+ "lesen": [
+  {
+   "id": "rz050",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Bürgeramt",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Bürgeramt Altstadt",
+     "text": "EG: Information, Wartemarken, Kasse\n1. OG: Meldeangelegenheiten (An-, Um-, Abmeldung)\n2. OG: Pass und Personalausweis, Führungszeugnis\n3. OG: Kfz-Zulassung, Führerscheinstelle\n4. OG: Standesamt (Geburt, Ehe)"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie sind umgezogen und möchten die neue Adresse melden.",
+     "o": [
+      "EG",
+      "1. OG",
+      "2. OG"
+     ],
+     "r": 1,
+     "e": "Ummeldung → 1. OG."
+    },
+    {
+     "q": "Ihr Reisepass ist abgelaufen.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 1,
+     "e": "Pass → 2. OG."
+    },
+    {
+     "q": "Sie haben ein Baby bekommen und brauchen eine Geburtsurkunde.",
+     "o": [
+      "2. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 2,
+     "e": "Standesamt → 4. OG."
+    },
+    {
+     "q": "Sie möchten Ihren ausländischen Führerschein umschreiben lassen.",
+     "o": [
+      "2. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 1,
+     "e": "Führerscheinstelle → 3. OG."
+    }
+   ]
+  },
+  {
+   "id": "rz051",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Kaufhaus",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Kaufhaus Zentrum",
+     "text": "UG: Lebensmittel, Getränke, Haushaltswaren\nEG: Kosmetik, Schmuck, Taschen, Kundenservice\n1. OG: Damenmode, Dessous\n2. OG: Herrenmode, Sportbekleidung\n3. OG: Kindermode, Spielwaren, Schreibwaren\n4. OG: Elektro, Restaurant, Toiletten"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie brauchen Hefte und Stifte für Ihr Schulkind.",
+     "o": [
+      "2. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 1,
+     "e": "Schreibwaren → 3. OG."
+    },
+    {
+     "q": "Sie möchten nach dem Einkaufen etwas essen.",
+     "o": [
+      "UG",
+      "EG",
+      "4. OG"
+     ],
+     "r": 2,
+     "e": "Restaurant → 4. OG."
+    },
+    {
+     "q": "Sie suchen eine Sporthose für Ihren Mann.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 1,
+     "e": "Herrenmode, Sportbekleidung → 2. OG."
+    },
+    {
+     "q": "Sie haben eine Frage zu Ihrer Rechnung.",
+     "o": [
+      "EG",
+      "1. OG",
+      "4. OG"
+     ],
+     "r": 0,
+     "e": "Kundenservice → EG."
+    }
+   ]
+  },
+  {
+   "id": "rz052",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Krankenhaus",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Städtisches Klinikum – Haus A",
+     "text": "EG: Notaufnahme, Anmeldung, Cafeteria\n1. OG: Radiologie (Röntgen, MRT), Labor\n2. OG: Chirurgie, Unfallchirurgie\n3. OG: Innere Medizin, Kardiologie (Herz)\n4. OG: Geburtsstation, Kinderklinik"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Arzt hat Sie zum Röntgen geschickt.",
+     "o": [
+      "EG",
+      "1. OG",
+      "2. OG"
+     ],
+     "r": 1,
+     "e": "Radiologie → 1. OG."
+    },
+    {
+     "q": "Ihre Schwester hat ein Baby bekommen. Sie möchten sie besuchen.",
+     "o": [
+      "2. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 2,
+     "e": "Geburtsstation → 4. OG."
+    },
+    {
+     "q": "Ihr Vater hat Herzprobleme und liegt im Krankenhaus.",
+     "o": [
+      "2. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 1,
+     "e": "Kardiologie → 3. OG."
+    },
+    {
+     "q": "Sie möchten einen Kaffee trinken.",
+     "o": [
+      "EG",
+      "1. OG",
+      "3. OG"
+     ],
+     "r": 0,
+     "e": "Cafeteria → EG."
+    }
+   ]
+  },
+  {
+   "id": "rz053",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Ausländerbehörde",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Ausländerbehörde – Wegweiser",
+     "text": "EG: Empfang, Terminvergabe, Fotoautomat\n1. OG: Aufenthaltserlaubnis Beschäftigung (Zimmer 101–120)\n2. OG: Aufenthaltserlaubnis Familie, Studium (Zimmer 201–220)\n3. OG: Einbürgerung\n4. OG: Abholung Aufenthaltstitel, Kasse"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie haben einen Brief bekommen, dass Ihr Aufenthaltstitel fertig ist.",
+     "o": [
+      "1. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 2,
+     "e": "Abholung → 4. OG."
+    },
+    {
+     "q": "Sie möchten deutsche Staatsangehörige werden.",
+     "o": [
+      "2. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 1,
+     "e": "Einbürgerung → 3. OG."
+    },
+    {
+     "q": "Ihr Mann kommt zu Ihnen nach Deutschland. Sie haben Fragen zum Familiennachzug.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 1,
+     "e": "Familie → 2. OG."
+    },
+    {
+     "q": "Sie brauchen ein biometrisches Foto.",
+     "o": [
+      "EG",
+      "1. OG",
+      "4. OG"
+     ],
+     "r": 0,
+     "e": "Fotoautomat → EG."
+    }
+   ]
+  },
+  {
+   "id": "rz054",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Einkaufszentrum",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Elbe-Center",
+     "text": "EG: Supermarkt, Bäckerei, Apotheke, Post\n1. OG: Mode, Schuhe, Optiker\n2. OG: Elektronik, Handyshop, Friseur\n3. OG: Restaurants, Kinderspielecke, Toiletten\nParkdeck: P1–P3"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten ein Paket abschicken.",
+     "o": [
+      "EG",
+      "1. OG",
+      "2. OG"
+     ],
+     "r": 0,
+     "e": "Post → EG."
+    },
+    {
+     "q": "Ihre Brille ist kaputt.",
+     "o": [
+      "EG",
+      "1. OG",
+      "2. OG"
+     ],
+     "r": 1,
+     "e": "Optiker → 1. OG."
+    },
+    {
+     "q": "Sie brauchen eine neue SIM-Karte.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 1,
+     "e": "Handyshop → 2. OG."
+    },
+    {
+     "q": "Ihre Kinder möchten spielen, während Sie essen.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 2,
+     "e": "Restaurants, Kinderspielecke → 3. OG."
+    }
+   ]
+  },
+  {
+   "id": "rz055",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Volkshochschule",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Volkshochschule – Programmbereiche",
+     "text": "Raum 001–010: Anmeldung, Beratung, Kasse\nRaum 101–115: Deutsch als Fremdsprache, Integrationskurse\nRaum 201–210: Fremdsprachen (Englisch, Spanisch …)\nRaum 301–305: EDV und Computerkurse\nRaum 401: Gesundheit, Yoga, Kochen (Lehrküche)"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten zuerst wissen, welcher Deutschkurs zu Ihnen passt.",
+     "o": [
+      "Raum 001–010",
+      "Raum 101–115",
+      "Raum 201–210"
+     ],
+     "r": 0,
+     "e": "Beratung → Raum 001–010."
+    },
+    {
+     "q": "Sie haben heute Ihren Integrationskurs.",
+     "o": [
+      "Raum 101–115",
+      "Raum 201–210",
+      "Raum 301–305"
+     ],
+     "r": 0,
+     "e": "Integrationskurse → 101–115."
+    },
+    {
+     "q": "Sie möchten Excel lernen.",
+     "o": [
+      "Raum 201–210",
+      "Raum 301–305",
+      "Raum 401"
+     ],
+     "r": 1,
+     "e": "EDV → 301–305."
+    },
+    {
+     "q": "Sie haben einen Kochkurs gebucht.",
+     "o": [
+      "Raum 001–010",
+      "Raum 301–305",
+      "Raum 401"
+     ],
+     "r": 2,
+     "e": "Kochen, Lehrküche → 401."
+    }
+   ]
+  },
+  {
+   "id": "rz056",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Jobcenter",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Jobcenter Süd",
+     "text": "EG: Eingangszone, Anträge abgeben, Informationsmaterial\n1. OG: Arbeitsvermittlung U25 (junge Menschen unter 25)\n2. OG: Arbeitsvermittlung ab 25\n3. OG: Leistungen (Bürgergeld, Miete, Heizkosten)\n4. OG: Reha und Schwerbehinderung"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Sohn ist 19 und sucht eine Ausbildung.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 0,
+     "e": "U25 → 1. OG."
+    },
+    {
+     "q": "Sie haben eine Frage zu Ihren Heizkosten.",
+     "o": [
+      "2. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 1,
+     "e": "Leistungen → 3. OG."
+    },
+    {
+     "q": "Sie möchten nur schnell ein Formular abgeben.",
+     "o": [
+      "EG",
+      "1. OG",
+      "3. OG"
+     ],
+     "r": 0,
+     "e": "Anträge abgeben → EG."
+    },
+    {
+     "q": "Sie sind 40 und suchen eine neue Arbeit.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "4. OG"
+     ],
+     "r": 1,
+     "e": "Ab 25 → 2. OG."
+    }
+   ]
+  },
+  {
+   "id": "rz057",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Arztpraxis",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Ärztehaus am Markt",
+     "text": "EG: Apotheke, Sanitätshaus\n1. OG: Dr. Weber – Allgemeinmedizin\n2. OG: Dr. Klein – Kinderärztin\n3. OG: Dr. Yilmaz – Zahnarzt; Dr. Roth – Augenärztin\n4. OG: Physiotherapie Fit"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Kind hat Husten.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 1,
+     "e": "Kinderärztin → 2. OG."
+    },
+    {
+     "q": "Sie haben ein Rezept für Krankengymnastik.",
+     "o": [
+      "EG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 2,
+     "e": "Physiotherapie → 4. OG."
+    },
+    {
+     "q": "Sie haben Zahnschmerzen.",
+     "o": [
+      "1. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 1,
+     "e": "Zahnarzt → 3. OG."
+    },
+    {
+     "q": "Sie brauchen Krücken.",
+     "o": [
+      "EG",
+      "1. OG",
+      "4. OG"
+     ],
+     "r": 0,
+     "e": "Sanitätshaus → EG."
+    }
+   ]
+  },
+  {
+   "id": "rz058",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Baumarkt",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Baumarkt – Gänge",
+     "text": "Gang 1–3: Farben, Tapeten, Pinsel\nGang 4–6: Werkzeug, Schrauben, Dübel\nGang 7–9: Holz, Zuschnitt-Service\nGang 10–12: Sanitär, Fliesen, Badmöbel\nGang 13–15: Garten, Pflanzen, Grill\nAusgang: Kasse, Lieferservice, Mietgeräte"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten Ihr Kinderzimmer neu streichen.",
+     "o": [
+      "Gang 1–3",
+      "Gang 4–6",
+      "Gang 7–9"
+     ],
+     "r": 0,
+     "e": "Farben → 1–3."
+    },
+    {
+     "q": "Sie brauchen einen neuen Duschkopf.",
+     "o": [
+      "Gang 4–6",
+      "Gang 10–12",
+      "Gang 13–15"
+     ],
+     "r": 1,
+     "e": "Sanitär → 10–12."
+    },
+    {
+     "q": "Sie möchten Holzbretter in der richtigen Größe sägen lassen.",
+     "o": [
+      "Gang 4–6",
+      "Gang 7–9",
+      "Ausgang"
+     ],
+     "r": 1,
+     "e": "Zuschnitt-Service → 7–9."
+    },
+    {
+     "q": "Sie möchten eine Bohrmaschine für einen Tag ausleihen.",
+     "o": [
+      "Gang 4–6",
+      "Gang 13–15",
+      "Ausgang"
+     ],
+     "r": 2,
+     "e": "Mietgeräte → Ausgang."
+    }
+   ]
+  },
+  {
+   "id": "rz059",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Universität",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Hörsaalzentrum – Erdgeschoss und 1. OG",
+     "text": "EG links: Studierendensekretariat (Immatrikulation, Studienbescheinigung)\nEG rechts: Studentenwerk (BAföG, Wohnheime)\n1. OG links: Akademisches Auslandsamt, International Office\n1. OG rechts: Sprachenzentrum (Deutschkurse für internationale Studierende)\nKeller: Mensa, Copyshop"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie brauchen eine Bescheinigung, dass Sie studieren.",
+     "o": [
+      "EG links",
+      "EG rechts",
+      "1. OG links"
+     ],
+     "r": 0,
+     "e": "Studienbescheinigung → EG links."
+    },
+    {
+     "q": "Sie suchen ein Zimmer im Wohnheim.",
+     "o": [
+      "EG links",
+      "EG rechts",
+      "Keller"
+     ],
+     "r": 1,
+     "e": "Wohnheime → EG rechts."
+    },
+    {
+     "q": "Sie möchten Ihre Hausarbeit ausdrucken und binden lassen.",
+     "o": [
+      "1. OG rechts",
+      "EG links",
+      "Keller"
+     ],
+     "r": 2,
+     "e": "Copyshop → Keller."
+    },
+    {
+     "q": "Sie möchten einen Deutschkurs C1 machen.",
+     "o": [
+      "1. OG links",
+      "1. OG rechts",
+      "EG rechts"
+     ],
+     "r": 1,
+     "e": "Sprachenzentrum → 1. OG rechts."
+    }
+   ]
+  },
+  {
+   "id": "rz060",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Möbelhaus",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Möbelhaus – Etagen",
+     "text": "EG: Küchen, Elektrogeräte, Kasse\n1. OG: Wohnzimmer, Sofas, Teppiche\n2. OG: Schlafzimmer, Matratzen\n3. OG: Kinder- und Jugendzimmer, Babymöbel\n4. OG: Restaurant, Büromöbel"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie brauchen ein Babybett.",
+     "o": [
+      "2. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 1,
+     "e": "Babymöbel → 3. OG."
+    },
+    {
+     "q": "Sie suchen einen Schreibtischstuhl fürs Homeoffice.",
+     "o": [
+      "1. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 2,
+     "e": "Büromöbel → 4. OG."
+    },
+    {
+     "q": "Ihre Matratze ist alt.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 1,
+     "e": "Matratzen → 2. OG."
+    },
+    {
+     "q": "Sie möchten eine neue Spülmaschine.",
+     "o": [
+      "EG",
+      "1. OG",
+      "4. OG"
+     ],
+     "r": 0,
+     "e": "Elektrogeräte → EG."
+    }
+   ]
+  },
+  {
+   "id": "rz061",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Rathaus",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Rathaus – Ämter",
+     "text": "EG: Bürgerbüro, Fundbüro\n1. OG: Sozialamt, Wohngeldstelle\n2. OG: Jugendamt, Elterngeldstelle, Kita-Gutscheine\n3. OG: Ordnungsamt (Parken, Lärm, Gewerbe)\n4. OG: Bauamt"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie haben Ihre Geldbörse in der Straßenbahn verloren.",
+     "o": [
+      "EG",
+      "1. OG",
+      "3. OG"
+     ],
+     "r": 0,
+     "e": "Fundbüro → EG."
+    },
+    {
+     "q": "Sie möchten Elterngeld beantragen.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 1,
+     "e": "Elterngeldstelle → 2. OG."
+    },
+    {
+     "q": "Sie möchten ein kleines Geschäft anmelden.",
+     "o": [
+      "1. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 1,
+     "e": "Gewerbe → Ordnungsamt 3. OG."
+    },
+    {
+     "q": "Ihre Miete ist zu hoch und Sie brauchen Unterstützung.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "4. OG"
+     ],
+     "r": 0,
+     "e": "Wohngeldstelle → 1. OG."
+    }
+   ]
+  },
+  {
+   "id": "rz062",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Hotel",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Hotel Elbblick – Information",
+     "text": "UG: Fitnessraum, Sauna, Schwimmbad\nEG: Rezeption, Bar, Restaurant (Frühstück 6:30–10 Uhr)\n1.–4. OG: Zimmer 101–450\n5. OG: Konferenzräume, Dachterrasse"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten frühstücken.",
+     "o": [
+      "UG",
+      "EG",
+      "5. OG"
+     ],
+     "r": 1,
+     "e": "Restaurant → EG."
+    },
+    {
+     "q": "Sie haben ein Seminar in einem Konferenzraum.",
+     "o": [
+      "EG",
+      "1.–4. OG",
+      "5. OG"
+     ],
+     "r": 2,
+     "e": "Konferenzräume → 5. OG."
+    },
+    {
+     "q": "Sie möchten schwimmen gehen.",
+     "o": [
+      "UG",
+      "EG",
+      "5. OG"
+     ],
+     "r": 0,
+     "e": "Schwimmbad → UG."
+    },
+    {
+     "q": "Sie haben Ihre Zimmerkarte verloren.",
+     "o": [
+      "UG",
+      "EG",
+      "1.–4. OG"
+     ],
+     "r": 1,
+     "e": "Rezeption → EG."
+    }
+   ]
+  },
+  {
+   "id": "rz063",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Bahnhof",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Hauptbahnhof – Wegweiser",
+     "text": "Halle Nord: Reisezentrum (Fahrkarten, Beratung), Schließfächer\nHalle Süd: Bäckerei, Zeitschriften, Apotheke\nUntergeschoss: Toiletten, Duschen, Fundbüro\nGleise 1–10: über Treppen und Aufzüge\nVorplatz: Taxi, Straßenbahn, Fernbusse"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten Ihren Koffer für ein paar Stunden lassen.",
+     "o": [
+      "Halle Nord",
+      "Halle Süd",
+      "Untergeschoss"
+     ],
+     "r": 0,
+     "e": "Schließfächer → Halle Nord."
+    },
+    {
+     "q": "Sie haben im Zug Ihre Jacke vergessen.",
+     "o": [
+      "Halle Nord",
+      "Untergeschoss",
+      "Vorplatz"
+     ],
+     "r": 1,
+     "e": "Fundbüro → Untergeschoss."
+    },
+    {
+     "q": "Sie möchten mit dem Fernbus nach Prag.",
+     "o": [
+      "Halle Süd",
+      "Gleise 1–10",
+      "Vorplatz"
+     ],
+     "r": 2,
+     "e": "Fernbusse → Vorplatz."
+    },
+    {
+     "q": "Sie brauchen Kopfschmerztabletten.",
+     "o": [
+      "Halle Nord",
+      "Halle Süd",
+      "Untergeschoss"
+     ],
+     "r": 1,
+     "e": "Apotheke → Halle Süd."
+    }
+   ]
+  },
+  {
+   "id": "rz064",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Bibliothek",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Stadtbibliothek – Bereiche",
+     "text": "EG: Ausleihe, Rückgabe, Anmeldung, Zeitungen\n1. OG: Romane, Sachbücher\n2. OG: Kinder- und Jugendbibliothek, Spiele\n3. OG: Sprachen lernen, Deutsch als Fremdsprache, Wörterbücher\n4. OG: Lernplätze, Computer, Drucker"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie suchen ein Übungsbuch für die DTZ-Prüfung.",
+     "o": [
+      "1. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 1,
+     "e": "Deutsch als Fremdsprache → 3. OG."
+    },
+    {
+     "q": "Ihre Tochter möchte ein Bilderbuch.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 1,
+     "e": "Kinderbibliothek → 2. OG."
+    },
+    {
+     "q": "Sie möchten einen Bibliotheksausweis machen.",
+     "o": [
+      "EG",
+      "1. OG",
+      "4. OG"
+     ],
+     "r": 0,
+     "e": "Anmeldung → EG."
+    },
+    {
+     "q": "Sie müssen einen Lebenslauf ausdrucken.",
+     "o": [
+      "EG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 2,
+     "e": "Drucker → 4. OG."
+    }
+   ]
+  },
+  {
+   "id": "rz065",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Familienzentrum",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Familienzentrum Sonnenhof",
+     "text": "Raum 1: Eltern-Kind-Café (Mo–Fr 9–12 Uhr)\nRaum 2: Hebammensprechstunde, Babymassage\nRaum 3: Hausaufgabenhilfe für Schulkinder (Mo–Do 14–16 Uhr)\nRaum 4: Beratung (Erziehung, Schulden, Trennung)\nGarten: Spielplatz"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie haben ein Baby und Fragen zum Stillen.",
+     "o": [
+      "Raum 1",
+      "Raum 2",
+      "Raum 4"
+     ],
+     "r": 1,
+     "e": "Hebammensprechstunde → Raum 2."
+    },
+    {
+     "q": "Ihr Sohn braucht Hilfe bei den Hausaufgaben.",
+     "o": [
+      "Raum 2",
+      "Raum 3",
+      "Raum 4"
+     ],
+     "r": 1,
+     "e": "Hausaufgabenhilfe → Raum 3."
+    },
+    {
+     "q": "Sie haben Schulden und brauchen Rat.",
+     "o": [
+      "Raum 1",
+      "Raum 3",
+      "Raum 4"
+     ],
+     "r": 2,
+     "e": "Beratung Schulden → Raum 4."
+    },
+    {
+     "q": "Sie möchten andere Mütter mit kleinen Kindern treffen.",
+     "o": [
+      "Raum 1",
+      "Raum 2",
+      "Garten"
+     ],
+     "r": 0,
+     "e": "Eltern-Kind-Café → Raum 1."
+    }
+   ]
+  },
+  {
+   "id": "rz066",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Finanzamt",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Finanzamt Dresden – Service",
+     "text": "EG: Servicezentrum (Fragen, Formulare, Steuer-ID), Briefkasten\n1. OG: Arbeitnehmer, Lohnsteuer (Steuererklärung)\n2. OG: Selbstständige, Gewerbe\n3. OG: Kindergeld für Beschäftigte im öffentlichen Dienst\n4. OG: Vollstreckung"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie haben Ihre Steuer-ID verloren.",
+     "o": [
+      "EG",
+      "1. OG",
+      "2. OG"
+     ],
+     "r": 0,
+     "e": "Servicezentrum → EG."
+    },
+    {
+     "q": "Sie haben eine Frage zu Ihrer Steuererklärung als Angestellte.",
+     "o": [
+      "EG",
+      "1. OG",
+      "2. OG"
+     ],
+     "r": 1,
+     "e": "Arbeitnehmer → 1. OG."
+    },
+    {
+     "q": "Sie möchten sich als Friseurin selbstständig machen.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "4. OG"
+     ],
+     "r": 1,
+     "e": "Selbstständige → 2. OG."
+    },
+    {
+     "q": "Sie möchten am Abend einen Brief direkt abgeben.",
+     "o": [
+      "EG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 0,
+     "e": "Briefkasten → EG."
+    }
+   ]
+  },
+  {
+   "id": "rz067",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Schwimmbad",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Freizeitbad – Information",
+     "text": "EG: Kasse, Umkleiden, Schließfächer\nHalle A: Sportbecken (25 m), Sprungturm\nHalle B: Nichtschwimmerbecken, Kinderbecken, Rutsche\n1. OG: Saunalandschaft (ab 16 Jahre), Bistro\nAußenbereich: Liegewiese, Beachvolleyball (nur im Sommer)"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Kind kann noch nicht schwimmen.",
+     "o": [
+      "Halle A",
+      "Halle B",
+      "1. OG"
+     ],
+     "r": 1,
+     "e": "Nichtschwimmerbecken → Halle B."
+    },
+    {
+     "q": "Sie möchten Bahnen schwimmen.",
+     "o": [
+      "Halle A",
+      "Halle B",
+      "Außenbereich"
+     ],
+     "r": 0,
+     "e": "Sportbecken → Halle A."
+    },
+    {
+     "q": "Sie möchten nach dem Schwimmen etwas essen.",
+     "o": [
+      "EG",
+      "1. OG",
+      "Halle B"
+     ],
+     "r": 1,
+     "e": "Bistro → 1. OG."
+    },
+    {
+     "q": "Sie möchten im Januar Beachvolleyball spielen.",
+     "o": [
+      "Halle A",
+      "Außenbereich",
+      "Das geht nicht."
+     ],
+     "r": 2,
+     "e": "Beachvolleyball nur im Sommer."
+    }
+   ]
+  },
+  {
+   "id": "rz068",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Berufsschule",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Berufliches Schulzentrum",
+     "text": "Haus A: Sekretariat, Schulleitung, Beratung\nHaus B: Pflege und Gesundheit\nHaus C: Metall- und Elektrotechnik\nHaus D: Gastronomie und Hotel (Lehrküche, Restaurant)\nHaus E: Sporthalle"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie machen eine Ausbildung als Köchin.",
+     "o": [
+      "Haus B",
+      "Haus C",
+      "Haus D"
+     ],
+     "r": 2,
+     "e": "Gastronomie → Haus D."
+    },
+    {
+     "q": "Sie möchten eine Schulbescheinigung abholen.",
+     "o": [
+      "Haus A",
+      "Haus B",
+      "Haus E"
+     ],
+     "r": 0,
+     "e": "Sekretariat → Haus A."
+    },
+    {
+     "q": "Sie machen eine Ausbildung als Pflegefachfrau.",
+     "o": [
+      "Haus B",
+      "Haus C",
+      "Haus D"
+     ],
+     "r": 0,
+     "e": "Pflege → Haus B."
+    },
+    {
+     "q": "Sie lernen Elektroniker.",
+     "o": [
+      "Haus B",
+      "Haus C",
+      "Haus E"
+     ],
+     "r": 1,
+     "e": "Elektrotechnik → Haus C."
+    }
+   ]
+  },
+  {
+   "id": "rz069",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Zoo",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Zoo – Rundweg",
+     "text": "Eingang: Kasse, Bollerwagen-Verleih, Toiletten\nBereich 1: Afrika (Giraffen, Löwen, Elefanten)\nBereich 2: Asien (Tiger, Pandas)\nBereich 3: Streichelzoo, Spielplatz, Bauernhof\nBereich 4: Aquarium, Pinguine, Restaurant"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihre Kinder möchten Ziegen streicheln.",
+     "o": [
+      "Bereich 1",
+      "Bereich 3",
+      "Bereich 4"
+     ],
+     "r": 1,
+     "e": "Streichelzoo → 3."
+    },
+    {
+     "q": "Sie möchten die Pinguine sehen.",
+     "o": [
+      "Bereich 2",
+      "Bereich 3",
+      "Bereich 4"
+     ],
+     "r": 2,
+     "e": "Pinguine → 4."
+    },
+    {
+     "q": "Sie brauchen einen Wagen für Ihr müdes Kind.",
+     "o": [
+      "Eingang",
+      "Bereich 3",
+      "Bereich 4"
+     ],
+     "r": 0,
+     "e": "Bollerwagen-Verleih → Eingang."
+    },
+    {
+     "q": "Sie möchten die Tiger sehen.",
+     "o": [
+      "Bereich 1",
+      "Bereich 2",
+      "Bereich 4"
+     ],
+     "r": 1,
+     "e": "Tiger → Asien, 2."
+    }
+   ]
+  },
+  {
+   "id": "rz070",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Sparkasse",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Sparkasse – Filiale Neustadt",
+     "text": "Foyer (24 Std.): Geldautomaten, Kontoauszugsdrucker\nEG: Service-Schalter (Überweisungen, Bargeld, Karten)\n1. OG: Beratung Konto und Sparen (nur mit Termin)\n2. OG: Baufinanzierung, Kredite\n3. OG: Versicherungen"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten nachts Geld abheben.",
+     "o": [
+      "Foyer",
+      "EG",
+      "1. OG"
+     ],
+     "r": 0,
+     "e": "Geldautomaten 24 Std. → Foyer."
+    },
+    {
+     "q": "Sie möchten einen Kredit für ein Auto.",
+     "o": [
+      "EG",
+      "1. OG",
+      "2. OG"
+     ],
+     "r": 2,
+     "e": "Kredite → 2. OG."
+    },
+    {
+     "q": "Ihre Bankkarte ist kaputt.",
+     "o": [
+      "Foyer",
+      "EG",
+      "3. OG"
+     ],
+     "r": 1,
+     "e": "Karten → EG."
+    },
+    {
+     "q": "Sie suchen eine Hausratversicherung.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 2,
+     "e": "Versicherungen → 3. OG."
+    }
+   ]
+  },
+  {
+   "id": "rz071",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Gesundheitsamt",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Gesundheitsamt – Wegweiser",
+     "text": "Zimmer 1–5: Infektionsschutz, Belehrung für Lebensmittelberufe\nZimmer 6–10: Impfstelle (Reiseimpfungen, Impfberatung)\nZimmer 11–15: Kinder- und Jugendärztlicher Dienst (Schuleingangsuntersuchung)\nZimmer 16–20: Sozialpsychiatrischer Dienst\nZimmer 21: Zahnärztlicher Dienst"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie fangen in einer Bäckerei an und brauchen eine Belehrung.",
+     "o": [
+      "Zimmer 1–5",
+      "Zimmer 6–10",
+      "Zimmer 11–15"
+     ],
+     "r": 0,
+     "e": "Belehrung Lebensmittel → 1–5."
+    },
+    {
+     "q": "Ihr Kind kommt bald in die Schule und muss untersucht werden.",
+     "o": [
+      "Zimmer 6–10",
+      "Zimmer 11–15",
+      "Zimmer 21"
+     ],
+     "r": 1,
+     "e": "Schuleingangsuntersuchung → 11–15."
+    },
+    {
+     "q": "Sie fahren nach Indien und brauchen Impfungen.",
+     "o": [
+      "Zimmer 1–5",
+      "Zimmer 6–10",
+      "Zimmer 16–20"
+     ],
+     "r": 1,
+     "e": "Reiseimpfungen → 6–10."
+    },
+    {
+     "q": "Ihre Freundin hat psychische Probleme und sucht Hilfe.",
+     "o": [
+      "Zimmer 11–15",
+      "Zimmer 16–20",
+      "Zimmer 21"
+     ],
+     "r": 1,
+     "e": "Sozialpsychiatrischer Dienst → 16–20."
+    }
+   ]
+  },
+  {
+   "id": "rz072",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Elektromarkt",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Elektromarkt – Abteilungen",
+     "text": "EG: Handys, Tablets, Zubehör, Service und Reparatur\n1. OG: Fernseher, Musikanlagen, Spielkonsolen\n2. OG: Haushaltsgeräte (Waschmaschinen, Kühlschränke), Kaffeemaschinen\n3. OG: Computer, Drucker, Büro"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Handy-Display ist kaputt.",
+     "o": [
+      "EG",
+      "1. OG",
+      "3. OG"
+     ],
+     "r": 0,
+     "e": "Reparatur → EG."
+    },
+    {
+     "q": "Sie brauchen Druckerpatronen.",
+     "o": [
+      "EG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 2,
+     "e": "Drucker → 3. OG."
+    },
+    {
+     "q": "Ihr Kühlschrank ist kaputt und Sie brauchen einen neuen.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 1,
+     "e": "Haushaltsgeräte → 2. OG."
+    },
+    {
+     "q": "Ihr Sohn wünscht sich eine Spielkonsole.",
+     "o": [
+      "EG",
+      "1. OG",
+      "3. OG"
+     ],
+     "r": 1,
+     "e": "Spielkonsolen → 1. OG."
+    }
+   ]
+  },
+  {
+   "id": "rz073",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Pflegeheim",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Seniorenzentrum Lindenhof",
+     "text": "EG: Empfang, Verwaltung, Café, Friseur\n1. OG: Wohnbereich A (Zimmer 101–125)\n2. OG: Wohnbereich B (Zimmer 201–225), Demenz-Wohngruppe\n3. OG: Tagespflege, Therapieräume\nGarten: Sinnesgarten, Hühner"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie besuchen Ihre Oma in Zimmer 214.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 1,
+     "e": "Zimmer 201–225 → 2. OG."
+    },
+    {
+     "q": "Sie möchten Fragen zu den Kosten stellen.",
+     "o": [
+      "EG",
+      "1. OG",
+      "3. OG"
+     ],
+     "r": 0,
+     "e": "Verwaltung → EG."
+    },
+    {
+     "q": "Ihr Opa kommt nur tagsüber und schläft zu Hause.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 2,
+     "e": "Tagespflege → 3. OG."
+    },
+    {
+     "q": "Ihre Oma möchte zum Friseur.",
+     "o": [
+      "EG",
+      "2. OG",
+      "Garten"
+     ],
+     "r": 0,
+     "e": "Friseur → EG."
+    }
+   ]
+  },
+  {
+   "id": "rz074",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Theater",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Staatstheater – Service",
+     "text": "Theaterkasse (EG): Karten, Abonnements, Ermäßigungen\nGarderobe (EG und 1. OG)\nGroßes Haus: Parkett und 1. Rang über Eingang A\nGroßes Haus: 2. Rang über Eingang B\nKleines Haus: Seiteneingang Theaterplatz\nFoyer 1. OG: Pausenbar"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihre Karte ist für den 2. Rang.",
+     "o": [
+      "Eingang A",
+      "Eingang B",
+      "Seiteneingang"
+     ],
+     "r": 1,
+     "e": "2. Rang → Eingang B."
+    },
+    {
+     "q": "Sie möchten eine ermäßigte Karte als Studentin kaufen.",
+     "o": [
+      "Theaterkasse",
+      "Garderobe",
+      "Pausenbar"
+     ],
+     "r": 0,
+     "e": "Ermäßigungen → Theaterkasse."
+    },
+    {
+     "q": "Die Vorstellung ist im Kleinen Haus.",
+     "o": [
+      "Eingang A",
+      "Eingang B",
+      "Seiteneingang Theaterplatz"
+     ],
+     "r": 2,
+     "e": "Kleines Haus → Seiteneingang."
+    },
+    {
+     "q": "Sie möchten in der Pause etwas trinken.",
+     "o": [
+      "Theaterkasse",
+      "Foyer 1. OG",
+      "Eingang B"
+     ],
+     "r": 1,
+     "e": "Pausenbar → Foyer 1. OG."
+    }
+   ]
+  },
+  {
+   "id": "rz075",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Sportzentrum",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Sportzentrum Ost",
+     "text": "Halle 1: Basketball, Volleyball\nHalle 2: Kampfsport, Judo, Boxen\nHalle 3: Gymnastik, Yoga, Rückenkurse\nAußen: Fußballplätze, Laufbahn\nEingang: Anmeldung, Vereinsbüro, Getränke"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Sohn möchte Judo lernen.",
+     "o": [
+      "Halle 1",
+      "Halle 2",
+      "Halle 3"
+     ],
+     "r": 1,
+     "e": "Judo → Halle 2."
+    },
+    {
+     "q": "Sie haben Rückenschmerzen und suchen einen Kurs.",
+     "o": [
+      "Halle 1",
+      "Halle 3",
+      "Außen"
+     ],
+     "r": 1,
+     "e": "Rückenkurse → Halle 3."
+    },
+    {
+     "q": "Sie möchten Mitglied im Verein werden.",
+     "o": [
+      "Eingang",
+      "Halle 1",
+      "Außen"
+     ],
+     "r": 0,
+     "e": "Vereinsbüro → Eingang."
+    },
+    {
+     "q": "Sie möchten joggen.",
+     "o": [
+      "Halle 1",
+      "Halle 3",
+      "Außen"
+     ],
+     "r": 2,
+     "e": "Laufbahn → Außen."
+    }
+   ]
+  },
+  {
+   "id": "rz076",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Arbeitsagentur",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Agentur für Arbeit",
+     "text": "EG: Eingangszone, Arbeitslos melden, Selbstinformation (Computer)\n1. OG: Berufsberatung, Ausbildung\n2. OG: Arbeitsvermittlung\n3. OG: Arbeitgeberservice\n4. OG: Berufsinformationszentrum (BIZ)"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Vertrag endet und Sie möchten sich arbeitslos melden.",
+     "o": [
+      "EG",
+      "1. OG",
+      "2. OG"
+     ],
+     "r": 0,
+     "e": "Arbeitslos melden → EG."
+    },
+    {
+     "q": "Ihre Tochter weiß nicht, welchen Beruf sie lernen soll.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 0,
+     "e": "Berufsberatung → 1. OG."
+    },
+    {
+     "q": "Sie haben eine Firma und suchen Mitarbeiter.",
+     "o": [
+      "2. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 1,
+     "e": "Arbeitgeberservice → 3. OG."
+    },
+    {
+     "q": "Sie möchten Informationen über viele Berufe lesen.",
+     "o": [
+      "EG",
+      "2. OG",
+      "4. OG"
+     ],
+     "r": 2,
+     "e": "BIZ → 4. OG."
+    }
+   ]
+  },
+  {
+   "id": "rz077",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Wertstoffhof",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Wertstoffhof – Container",
+     "text": "Container 1: Holz, Möbel\nContainer 2: Elektrogeräte (Fernseher, Kühlschränke)\nContainer 3: Grünschnitt, Laub\nContainer 4: Bauschutt (gegen Gebühr)\nContainer 5: Altkleider, Schuhe\nAnnahme Schadstoffe: nur Samstag 9–12 Uhr (Farben, Batterien, Öl)"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten einen alten Schrank entsorgen.",
+     "o": [
+      "Container 1",
+      "Container 2",
+      "Container 4"
+     ],
+     "r": 0,
+     "e": "Möbel → Container 1."
+    },
+    {
+     "q": "Sie haben alte Farbeimer.",
+     "o": [
+      "Container 1",
+      "Container 4",
+      "Samstag 9–12 Uhr"
+     ],
+     "r": 2,
+     "e": "Farben → Schadstoffe, nur Samstag."
+    },
+    {
+     "q": "Ihr alter Fernseher ist kaputt.",
+     "o": [
+      "Container 2",
+      "Container 3",
+      "Container 5"
+     ],
+     "r": 0,
+     "e": "Elektrogeräte → Container 2."
+    },
+    {
+     "q": "Sie haben Äste aus dem Garten.",
+     "o": [
+      "Container 1",
+      "Container 3",
+      "Container 4"
+     ],
+     "r": 1,
+     "e": "Grünschnitt → Container 3."
+    }
+   ]
+  },
+  {
+   "id": "rz078",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Kita",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Kita Sonnenschein – Aushang am Eingang",
+     "text": "Krippe (1–3 Jahre): Erdgeschoss links\nKindergarten (3–6 Jahre): 1. OG\nLeitung und Büro: Erdgeschoss rechts\nGarderobe und Wickelraum: Erdgeschoss links\nKinderwagen bitte nur im Abstellraum neben dem Eingang"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Sohn ist zwei Jahre alt.",
+     "o": [
+      "Erdgeschoss links",
+      "1. OG",
+      "Erdgeschoss rechts"
+     ],
+     "r": 0,
+     "e": "Krippe → EG links."
+    },
+    {
+     "q": "Sie möchten mit der Kita-Leiterin sprechen.",
+     "o": [
+      "Erdgeschoss links",
+      "Erdgeschoss rechts",
+      "1. OG"
+     ],
+     "r": 1,
+     "e": "Leitung → EG rechts."
+    },
+    {
+     "q": "Wo stellen Sie den Kinderwagen ab?",
+     "o": [
+      "im Flur",
+      "im Abstellraum neben dem Eingang",
+      "im 1. OG"
+     ],
+     "r": 1,
+     "e": "Abstellraum neben dem Eingang."
+    },
+    {
+     "q": "Ihre Tochter ist fünf.",
+     "o": [
+      "Erdgeschoss links",
+      "1. OG",
+      "Erdgeschoss rechts"
+     ],
+     "r": 1,
+     "e": "Kindergarten → 1. OG."
+    }
+   ]
+  },
+  {
+   "id": "rz079",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Flughafen",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Flughafen – Terminal",
+     "text": "Ebene 0: Ankunft, Gepäckausgabe, Mietwagen\nEbene 1: Abflug, Check-in Schalter 1–30\nEbene 2: Sicherheitskontrolle, Gates A1–A20, Duty Free\nEbene 3: Restaurants, Besucherterrasse\nEbene -1: S-Bahn"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten Ihren Koffer aufgeben.",
+     "o": [
+      "Ebene 0",
+      "Ebene 1",
+      "Ebene 2"
+     ],
+     "r": 1,
+     "e": "Check-in → Ebene 1."
+    },
+    {
+     "q": "Sie holen Ihre Mutter ab, die gerade gelandet ist.",
+     "o": [
+      "Ebene 0",
+      "Ebene 1",
+      "Ebene 3"
+     ],
+     "r": 0,
+     "e": "Ankunft → Ebene 0."
+    },
+    {
+     "q": "Sie fahren mit der S-Bahn in die Stadt.",
+     "o": [
+      "Ebene 0",
+      "Ebene -1",
+      "Ebene 3"
+     ],
+     "r": 1,
+     "e": "S-Bahn → Ebene -1."
+    },
+    {
+     "q": "Sie möchten Flugzeuge beim Starten beobachten.",
+     "o": [
+      "Ebene 1",
+      "Ebene 2",
+      "Ebene 3"
+     ],
+     "r": 2,
+     "e": "Besucherterrasse → Ebene 3."
+    }
+   ]
+  },
+  {
+   "id": "rz080",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Klinik Ambulanz",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Ambulanzzentrum",
+     "text": "A: Anmeldung aller Ambulanzen\nB: Hautambulanz\nC: Augenambulanz\nD: Orthopädie (Knochen, Gelenke)\nE: Frauenklinik, Schwangerenberatung"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Knie tut seit Wochen weh.",
+     "o": [
+      "B",
+      "C",
+      "D"
+     ],
+     "r": 2,
+     "e": "Orthopädie → D."
+    },
+    {
+     "q": "Sie sind schwanger und haben einen Termin.",
+     "o": [
+      "A",
+      "D",
+      "E"
+     ],
+     "r": 2,
+     "e": "Frauenklinik → E."
+    },
+    {
+     "q": "Wohin gehen Sie zuerst?",
+     "o": [
+      "A",
+      "B",
+      "C"
+     ],
+     "r": 0,
+     "e": "Anmeldung aller Ambulanzen → A."
+    },
+    {
+     "q": "Sie haben einen Ausschlag auf der Haut.",
+     "o": [
+      "B",
+      "C",
+      "E"
+     ],
+     "r": 0,
+     "e": "Hautambulanz → B."
+    }
+   ]
+  },
+  {
+   "id": "rz081",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Supermarkt",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Supermarkt – Gänge",
+     "text": "Gang 1: Obst, Gemüse, Brot\nGang 2: Milchprodukte, Käse, Eier\nGang 3: Nudeln, Reis, internationale Lebensmittel\nGang 4: Getränke, Pfandautomat\nGang 5: Drogerie, Babyartikel, Tiernahrung"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie brauchen Windeln.",
+     "o": [
+      "Gang 2",
+      "Gang 4",
+      "Gang 5"
+     ],
+     "r": 2,
+     "e": "Babyartikel → Gang 5."
+    },
+    {
+     "q": "Sie möchten leere Flaschen zurückgeben.",
+     "o": [
+      "Gang 3",
+      "Gang 4",
+      "Gang 5"
+     ],
+     "r": 1,
+     "e": "Pfandautomat → Gang 4."
+    },
+    {
+     "q": "Sie suchen Buchweizen aus Osteuropa.",
+     "o": [
+      "Gang 1",
+      "Gang 3",
+      "Gang 5"
+     ],
+     "r": 1,
+     "e": "internationale Lebensmittel → Gang 3."
+    },
+    {
+     "q": "Sie brauchen Joghurt.",
+     "o": [
+      "Gang 1",
+      "Gang 2",
+      "Gang 4"
+     ],
+     "r": 1,
+     "e": "Milchprodukte → Gang 2."
+    }
+   ]
+  },
+  {
+   "id": "rz082",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Post",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Postfiliale – Schalter",
+     "text": "Schalter 1–2: Briefe, Briefmarken\nSchalter 3–4: Pakete, Päckchen, Abholung\nSchalter 5: Postbank (Geld einzahlen, abheben)\nAutomat: Packstation (rund um die Uhr)"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten ein Päckchen abholen.",
+     "o": [
+      "Schalter 1–2",
+      "Schalter 3–4",
+      "Schalter 5"
+     ],
+     "r": 1,
+     "e": "Abholung → 3–4."
+    },
+    {
+     "q": "Sie möchten Geld auf Ihr Postbank-Konto einzahlen.",
+     "o": [
+      "Schalter 3–4",
+      "Schalter 5",
+      "Automat"
+     ],
+     "r": 1,
+     "e": "Postbank → Schalter 5."
+    },
+    {
+     "q": "Sie möchten nach 22 Uhr ein Paket abholen.",
+     "o": [
+      "Schalter 3–4",
+      "Schalter 5",
+      "Automat"
+     ],
+     "r": 2,
+     "e": "Packstation rund um die Uhr."
+    },
+    {
+     "q": "Sie brauchen Briefmarken.",
+     "o": [
+      "Schalter 1–2",
+      "Schalter 3–4",
+      "Automat"
+     ],
+     "r": 0,
+     "e": "Briefmarken → 1–2."
+    }
+   ]
+  },
+  {
+   "id": "rz083",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Mietergemeinschaft",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Wohnanlage Parkweg – Aushang",
+     "text": "Haus 1: Hausmeisterbüro (Mo, Mi, Fr 8–10 Uhr)\nHaus 2: Waschküche, Trockenraum\nHaus 3: Gemeinschaftsraum (Reservierung beim Hausmeister)\nHof: Mülltonnen, Fahrradkeller\nTiefgarage: Einfahrt Parkweg 12"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihre Heizung ist kalt.",
+     "o": [
+      "Haus 1",
+      "Haus 2",
+      "Haus 3"
+     ],
+     "r": 0,
+     "e": "Hausmeister → Haus 1."
+    },
+    {
+     "q": "Sie möchten Ihre Wäsche waschen.",
+     "o": [
+      "Haus 1",
+      "Haus 2",
+      "Hof"
+     ],
+     "r": 1,
+     "e": "Waschküche → Haus 2."
+    },
+    {
+     "q": "Sie möchten im Gemeinschaftsraum Geburtstag feiern. Wo reservieren Sie?",
+     "o": [
+      "Haus 1",
+      "Haus 3",
+      "Hof"
+     ],
+     "r": 0,
+     "e": "Reservierung beim Hausmeister → Haus 1."
+    },
+    {
+     "q": "Wohin bringen Sie den Müll?",
+     "o": [
+      "Haus 2",
+      "Hof",
+      "Tiefgarage"
+     ],
+     "r": 1,
+     "e": "Mülltonnen → Hof."
+    }
+   ]
+  },
+  {
+   "id": "rz084",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Möbel-Lager",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Selbstabholung – Lagerhalle",
+     "text": "Tor 1: Abholung kleiner Waren (bis 30 kg)\nTor 2: Abholung großer Möbel, Hilfe beim Einladen\nTor 3: Rückgabe und Umtausch\nTor 4: Transporter-Verleih"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie haben einen großen Schrank gekauft.",
+     "o": [
+      "Tor 1",
+      "Tor 2",
+      "Tor 3"
+     ],
+     "r": 1,
+     "e": "Große Möbel → Tor 2."
+    },
+    {
+     "q": "Sie haben kein Auto für den Transport.",
+     "o": [
+      "Tor 2",
+      "Tor 3",
+      "Tor 4"
+     ],
+     "r": 2,
+     "e": "Transporter-Verleih → Tor 4."
+    },
+    {
+     "q": "Der Stuhl hat die falsche Farbe. Sie möchten ihn umtauschen.",
+     "o": [
+      "Tor 1",
+      "Tor 3",
+      "Tor 4"
+     ],
+     "r": 1,
+     "e": "Umtausch → Tor 3."
+    },
+    {
+     "q": "Sie holen eine Lampe ab.",
+     "o": [
+      "Tor 1",
+      "Tor 2",
+      "Tor 4"
+     ],
+     "r": 0,
+     "e": "Kleine Waren → Tor 1."
+    }
+   ]
+  },
+  {
+   "id": "rz085",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Messezentrum",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Ausbildungsmesse – Hallenplan",
+     "text": "Halle 1: Handwerk (Elektro, Sanitär, Bau)\nHalle 2: Gesundheit und Pflege\nHalle 3: Handel, Büro, Banken\nHalle 4: IT und Technik\nFoyer: Bewerbungsfotos, Lebenslauf-Check"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Sohn möchte Elektriker werden.",
+     "o": [
+      "Halle 1",
+      "Halle 3",
+      "Halle 4"
+     ],
+     "r": 0,
+     "e": "Elektro → Halle 1."
+    },
+    {
+     "q": "Ihre Tochter interessiert sich für Altenpflege.",
+     "o": [
+      "Halle 1",
+      "Halle 2",
+      "Halle 3"
+     ],
+     "r": 1,
+     "e": "Pflege → Halle 2."
+    },
+    {
+     "q": "Sie möchten Ihren Lebenslauf prüfen lassen.",
+     "o": [
+      "Halle 3",
+      "Halle 4",
+      "Foyer"
+     ],
+     "r": 2,
+     "e": "Lebenslauf-Check → Foyer."
+    },
+    {
+     "q": "Sie interessieren sich für eine Ausbildung in einer Bank.",
+     "o": [
+      "Halle 2",
+      "Halle 3",
+      "Halle 4"
+     ],
+     "r": 1,
+     "e": "Banken → Halle 3."
+    }
+   ]
+  },
+  {
+   "id": "rz086",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser in der Beratungsstelle",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Haus der Beratung – Wegweiser",
+     "text": "EG: Migrationsberatung für Erwachsene\n1. OG: Jugendmigrationsdienst (12–27 Jahre)\n2. OG: Schuldnerberatung\n3. OG: Mieterberatung\n4. OG: Rechtsberatung (nur mit Termin, dienstags)"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Vermieter will die Miete stark erhöhen.",
+     "o": [
+      "2. OG",
+      "3. OG",
+      "4. OG"
+     ],
+     "r": 1,
+     "e": "Mieterberatung → 3. OG."
+    },
+    {
+     "q": "Ihr Neffe ist 17 und neu in Deutschland.",
+     "o": [
+      "EG",
+      "1. OG",
+      "2. OG"
+     ],
+     "r": 1,
+     "e": "Jugendmigrationsdienst → 1. OG."
+    },
+    {
+     "q": "Sie können Ihre Rechnungen nicht mehr bezahlen.",
+     "o": [
+      "EG",
+      "2. OG",
+      "4. OG"
+     ],
+     "r": 1,
+     "e": "Schuldnerberatung → 2. OG."
+    },
+    {
+     "q": "Sie sind 45 und brauchen Hilfe mit einem Formular vom Amt.",
+     "o": [
+      "EG",
+      "1. OG",
+      "3. OG"
+     ],
+     "r": 0,
+     "e": "Migrationsberatung für Erwachsene → EG."
+    }
+   ]
+  },
+  {
+   "id": "rz087",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Ärztehaus Notdienst",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Notdienstpraxis am Klinikum",
+     "text": "Eingang A: Allgemeiner Bereitschaftsdienst (Erwachsene)\nEingang B: Kinderärztlicher Bereitschaftsdienst\nEingang C: Notaufnahme des Klinikums (lebensbedrohliche Fälle)\nApotheke: Notdienst im Haus, Eingang A"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Kind hat am Sonntag hohes Fieber.",
+     "o": [
+      "Eingang A",
+      "Eingang B",
+      "Eingang C"
+     ],
+     "r": 1,
+     "e": "Kinderärztlicher Dienst → B."
+    },
+    {
+     "q": "Sie haben am Wochenende eine starke Erkältung.",
+     "o": [
+      "Eingang A",
+      "Eingang B",
+      "Eingang C"
+     ],
+     "r": 0,
+     "e": "Allgemeiner Bereitschaftsdienst → A."
+    },
+    {
+     "q": "Ein Mann hat starke Brustschmerzen und kaum Luft.",
+     "o": [
+      "Eingang A",
+      "Eingang B",
+      "Eingang C"
+     ],
+     "r": 2,
+     "e": "Lebensbedrohlich → Notaufnahme C."
+    },
+    {
+     "q": "Sie brauchen nachts ein Medikament.",
+     "o": [
+      "Eingang A",
+      "Eingang B",
+      "Eingang C"
+     ],
+     "r": 0,
+     "e": "Apotheke → Eingang A."
+    }
+   ]
+  },
+  {
+   "id": "rz088",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Autohaus",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Autohaus – Wegweiser",
+     "text": "Halle 1: Neuwagen, Verkauf\nHalle 2: Gebrauchtwagen\nWerkstatt-Annahme: links neben Halle 2\nTeile und Zubehör: Halle 1, hinten\nWaschanlage: Hof"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Auto muss zur Inspektion.",
+     "o": [
+      "Halle 1",
+      "Werkstatt-Annahme",
+      "Hof"
+     ],
+     "r": 1,
+     "e": "Werkstatt-Annahme."
+    },
+    {
+     "q": "Sie suchen ein günstiges gebrauchtes Auto.",
+     "o": [
+      "Halle 1",
+      "Halle 2",
+      "Hof"
+     ],
+     "r": 1,
+     "e": "Gebrauchtwagen → Halle 2."
+    },
+    {
+     "q": "Sie brauchen neue Fußmatten.",
+     "o": [
+      "Halle 1, hinten",
+      "Halle 2",
+      "Hof"
+     ],
+     "r": 0,
+     "e": "Zubehör → Halle 1, hinten."
+    },
+    {
+     "q": "Sie möchten Ihr Auto waschen.",
+     "o": [
+      "Halle 2",
+      "Werkstatt-Annahme",
+      "Hof"
+     ],
+     "r": 2,
+     "e": "Waschanlage → Hof."
+    }
+   ]
+  },
+  {
+   "id": "rz089",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Studentenwohnheim",
+   "anweisung": "Lesen Sie den Wegweiser. Wohin gehen Sie?",
+   "ru": "Прочитайте указатель. Куда вы пойдёте?",
+   "texte": [
+    {
+     "k": "Wohnheim Am Campus",
+     "text": "EG: Verwaltung, Postfächer, Waschmaschinen\n1.–5. OG: Zimmer\n6. OG: Gemeinschaftsküche, Lernraum\nKeller: Fahrräder, Partyraum (bis 22 Uhr)"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie warten auf einen Brief.",
+     "o": [
+      "EG",
+      "6. OG",
+      "Keller"
+     ],
+     "r": 0,
+     "e": "Postfächer → EG."
+    },
+    {
+     "q": "Sie möchten mit Freunden zusammen kochen.",
+     "o": [
+      "EG",
+      "6. OG",
+      "Keller"
+     ],
+     "r": 1,
+     "e": "Gemeinschaftsküche → 6. OG."
+    },
+    {
+     "q": "Wo stellen Sie Ihr Fahrrad ab?",
+     "o": [
+      "EG",
+      "6. OG",
+      "Keller"
+     ],
+     "r": 2,
+     "e": "Fahrräder → Keller."
+    },
+    {
+     "q": "Sie möchten Wäsche waschen.",
+     "o": [
+      "EG",
+      "1.–5. OG",
+      "Keller"
+     ],
+     "r": 0,
+     "e": "Waschmaschinen → EG."
+    }
+   ]
+  }
+ ]
+}

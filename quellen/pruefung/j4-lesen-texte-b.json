@@ -1,0 +1,1022 @@
+{
+ "lesen": [
+  {
+   "id": "rz155",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief der Krankenkasse: Versichertenkarte",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Ihre Krankenkasse",
+     "text": "Sehr geehrter Herr Hassan,\nfür Ihre neue elektronische Gesundheitskarte brauchen wir ein aktuelles Foto. Bitte laden Sie das Foto in unserer App hoch oder schicken Sie es mit dem beiliegenden Umschlag per Post. Das Porto bezahlen wir. Ihre alte Karte ist noch bis zum 30. Juni gültig. Kinder unter 15 Jahren brauchen kein Foto."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was braucht die Krankenkasse?",
+     "o": [
+      "eine Unterschrift",
+      "ein aktuelles Foto",
+      "eine Kopie des Passes"
+     ],
+     "r": 1,
+     "e": "Ein aktuelles Foto."
+    },
+    {
+     "q": "Wer bezahlt das Porto?",
+     "o": [
+      "Herr Hassan",
+      "die Krankenkasse",
+      "die Post"
+     ],
+     "r": 1,
+     "e": "„Das Porto bezahlen wir.“"
+    },
+    {
+     "q": "Wer braucht kein Foto?",
+     "o": [
+      "Rentner",
+      "Kinder unter 15",
+      "Studenten"
+     ],
+     "r": 1,
+     "e": "Kinder unter 15."
+    }
+   ]
+  },
+  {
+   "id": "rz156",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Bauarbeiten Brücke",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Stadtnachrichten",
+     "text": "Die Marienbrücke wird ab dem 1. März für sechs Monate saniert. In dieser Zeit können Autos nur in eine Richtung fahren – stadteinwärts. Straßenbahnen fahren normal. Für Radfahrer gibt es einen eigenen Weg auf der Seite zur Altstadt. Die Stadt bittet Pendler, möglichst Bus und Bahn zu nutzen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie lange dauern die Arbeiten?",
+     "o": [
+      "sechs Wochen",
+      "sechs Monate",
+      "ein Jahr"
+     ],
+     "r": 1,
+     "e": "Sechs Monate."
+    },
+    {
+     "q": "Was gilt für Autos?",
+     "o": [
+      "Sie dürfen gar nicht fahren.",
+      "Sie fahren nur stadteinwärts.",
+      "Sie fahren normal."
+     ],
+     "r": 1,
+     "e": "Nur stadteinwärts."
+    }
+   ]
+  },
+  {
+   "id": "rz157",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Aushang in der Schule: Sprechtag",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Gymnasium Nord – Elternsprechtag",
+     "text": "Der Elternsprechtag findet am Donnerstag, dem 20. November, von 16 bis 19 Uhr statt. Jedes Gespräch dauert zehn Minuten. Bitte tragen Sie sich bis zum 14. November im Online-Portal für einen Termin ein. Wenn Sie einen Dolmetscher brauchen, melden Sie sich bitte im Sekretariat – wir organisieren das kostenlos."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie lange dauert ein Gespräch?",
+     "o": [
+      "fünf Minuten",
+      "zehn Minuten",
+      "eine halbe Stunde"
+     ],
+     "r": 1,
+     "e": "Zehn Minuten."
+    },
+    {
+     "q": "Wie bekommt man einen Termin?",
+     "o": [
+      "im Online-Portal",
+      "am Telefon",
+      "ohne Termin"
+     ],
+     "r": 0,
+     "e": "Online-Portal bis 14. November."
+    },
+    {
+     "q": "Was organisiert die Schule kostenlos?",
+     "o": [
+      "Kinderbetreuung",
+      "einen Dolmetscher",
+      "Parkplätze"
+     ],
+     "r": 1,
+     "e": "Dolmetscher."
+    }
+   ]
+  },
+  {
+   "id": "rz158",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information: Wohngeld",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Wohngeldstelle – Merkblatt",
+     "text": "Wohngeld ist ein Zuschuss zur Miete für Menschen mit wenig Einkommen. Wer Bürgergeld bekommt, kann kein Wohngeld bekommen, weil die Miete dann schon vom Jobcenter bezahlt wird. Der Antrag gilt immer ab dem Monat, in dem er bei uns ankommt. Stellen Sie ihn also früh. Wohngeld wird meistens für zwölf Monate bewilligt; danach müssen Sie einen neuen Antrag stellen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wer bekommt kein Wohngeld?",
+     "o": [
+      "Rentner",
+      "Menschen mit Bürgergeld",
+      "Studenten"
+     ],
+     "r": 1,
+     "e": "Bei Bürgergeld zahlt das Jobcenter die Miete."
+    },
+    {
+     "q": "Ab wann gilt der Antrag?",
+     "o": [
+      "ab dem Monat, in dem er ankommt",
+      "ab dem nächsten Jahr",
+      "rückwirkend für ein Jahr"
+     ],
+     "r": 0,
+     "e": "Ab dem Monat des Eingangs."
+    },
+    {
+     "q": "Wie lange wird Wohngeld meistens bewilligt?",
+     "o": [
+      "sechs Monate",
+      "zwölf Monate",
+      "für immer"
+     ],
+     "r": 1,
+     "e": "Meistens zwölf Monate."
+    }
+   ]
+  },
+  {
+   "id": "rz159",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief vom Sportverein",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "SV Blau-Weiß e. V.",
+     "text": "Liebe Mitglieder,\nunser Verein feiert sein 100-jähriges Jubiläum! Am 6. Juni gibt es ab 11 Uhr ein großes Fest auf dem Sportplatz mit Spielen für Kinder, einem Fußballturnier und Musik. Wir suchen noch Helfer für den Kuchenstand. Wer helfen möchte, meldet sich bitte bei Frau Krause. Der Mitgliedsbeitrag für den Juni ist als Geschenk für alle frei."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was feiert der Verein?",
+     "o": [
+      "ein neues Stadion",
+      "sein 100-jähriges Jubiläum",
+      "einen Sieg"
+     ],
+     "r": 1,
+     "e": "100 Jahre."
+    },
+    {
+     "q": "Wofür sucht der Verein Helfer?",
+     "o": [
+      "für den Kuchenstand",
+      "für das Turnier",
+      "für die Musik"
+     ],
+     "r": 0,
+     "e": "Kuchenstand."
+    },
+    {
+     "q": "Was ist das Geschenk für die Mitglieder?",
+     "o": [
+      "ein T-Shirt",
+      "kein Beitrag im Juni",
+      "eine Reise"
+     ],
+     "r": 1,
+     "e": "Beitrag für Juni frei."
+    }
+   ]
+  },
+  {
+   "id": "rz160",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Neue Kita-Plätze",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Lokalnachrichten",
+     "text": "Bis zum Sommer entstehen in der Stadt 400 neue Kita-Plätze. Drei neue Kitas werden gebaut, zwei bestehende Kitas bekommen zusätzliche Gruppen. Trotzdem fehlen noch Erzieherinnen und Erzieher. Die Stadt bietet deshalb eine bezahlte Ausbildung auch für Quereinsteiger an, die schon über 25 Jahre alt sind."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viele neue Kita-Plätze gibt es?",
+     "o": [
+      "40",
+      "400",
+      "4.000"
+     ],
+     "r": 1,
+     "e": "400."
+    },
+    {
+     "q": "Was fehlt noch?",
+     "o": [
+      "Gebäude",
+      "Erzieherinnen und Erzieher",
+      "Geld"
+     ],
+     "r": 1,
+     "e": "Personal fehlt."
+    },
+    {
+     "q": "Wer kann die bezahlte Ausbildung machen?",
+     "o": [
+      "nur Schüler",
+      "auch Quereinsteiger über 25",
+      "nur Lehrer"
+     ],
+     "r": 1,
+     "e": "Quereinsteiger über 25."
+    }
+   ]
+  },
+  {
+   "id": "rz161",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief vom Stromanbieter: Preisänderung",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Energie Sachsen",
+     "text": "Sehr geehrte Kundin,\nab dem 1. April sinkt der Preis für eine Kilowattstunde Strom von 34 auf 31 Cent. Ihr monatlicher Abschlag wird automatisch angepasst. Sie müssen nichts tun. Falls Sie Ihren Vertrag trotzdem wechseln möchten, können Sie ihn mit einer Frist von einem Monat kündigen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was passiert ab dem 1. April?",
+     "o": [
+      "Der Strom wird teurer.",
+      "Der Strom wird billiger.",
+      "Der Vertrag endet."
+     ],
+     "r": 1,
+     "e": "Preis sinkt."
+    },
+    {
+     "q": "Was muss die Kundin tun?",
+     "o": [
+      "nichts",
+      "einen Antrag stellen",
+      "anrufen"
+     ],
+     "r": 0,
+     "e": "„Sie müssen nichts tun.“"
+    }
+   ]
+  },
+  {
+   "id": "rz162",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Aushang in der Arztpraxis: Grippe",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Wichtige Information",
+     "text": "Liebe Patienten,\nwenn Sie Fieber, Husten oder Halsschmerzen haben, rufen Sie bitte vorher an und kommen Sie nicht einfach in die Praxis. Wir haben für Patienten mit Infekten eine eigene Sprechstunde von 12 bis 13 Uhr. So schützen wir andere Patienten, zum Beispiel Schwangere und ältere Menschen. Bitte tragen Sie im Wartezimmer eine Maske."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was soll man mit Fieber tun?",
+     "o": [
+      "direkt in die Praxis kommen",
+      "vorher anrufen",
+      "ins Krankenhaus gehen"
+     ],
+     "r": 1,
+     "e": "Vorher anrufen."
+    },
+    {
+     "q": "Wann ist die Infekt-Sprechstunde?",
+     "o": [
+      "8 bis 9 Uhr",
+      "12 bis 13 Uhr",
+      "abends"
+     ],
+     "r": 1,
+     "e": "12 bis 13 Uhr."
+    }
+   ]
+  },
+  {
+   "id": "rz163",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information: Kindergeld",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Familienkasse – Kurz erklärt",
+     "text": "Für jedes Kind gibt es Kindergeld, mindestens bis es 18 Jahre alt ist. Wenn das Kind eine Ausbildung macht oder studiert, gibt es Kindergeld bis 25 Jahre. Den Antrag stellen Sie bei der Familienkasse der Agentur für Arbeit. Sie brauchen dafür die Steuer-ID von sich und von Ihrem Kind. Kindergeld wird höchstens sechs Monate rückwirkend gezahlt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Bis wann gibt es Kindergeld bei einer Ausbildung?",
+     "o": [
+      "bis 18 Jahre",
+      "bis 25 Jahre",
+      "bis 27 Jahre"
+     ],
+     "r": 1,
+     "e": "Bis 25."
+    },
+    {
+     "q": "Was braucht man für den Antrag?",
+     "o": [
+      "die Steuer-ID von Eltern und Kind",
+      "den Mietvertrag",
+      "ein Zeugnis"
+     ],
+     "r": 0,
+     "e": "Steuer-ID von sich und dem Kind."
+    },
+    {
+     "q": "Wie lange rückwirkend wird gezahlt?",
+     "o": [
+      "gar nicht",
+      "höchstens sechs Monate",
+      "drei Jahre"
+     ],
+     "r": 1,
+     "e": "Höchstens sechs Monate."
+    }
+   ]
+  },
+  {
+   "id": "rz164",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Flohmarkt",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Stadtteilblatt",
+     "text": "Am Sonntag findet auf dem Parkplatz am Elbepark der größte Flohmarkt des Jahres statt. Über 300 Händler verkaufen Kleidung, Spielzeug, Bücher und Möbel. Der Eintritt ist frei. Wer selbst verkaufen möchte, kann noch einen Platz für 15 Euro buchen. Neuwaren und Lebensmittel dürfen nicht verkauft werden."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was kostet ein Verkaufsplatz?",
+     "o": [
+      "nichts",
+      "15 Euro",
+      "30 Euro"
+     ],
+     "r": 1,
+     "e": "15 Euro."
+    },
+    {
+     "q": "Was darf man nicht verkaufen?",
+     "o": [
+      "alte Bücher",
+      "Neuwaren und Lebensmittel",
+      "Möbel"
+     ],
+     "r": 1,
+     "e": "Neuwaren und Lebensmittel nicht."
+    }
+   ]
+  },
+  {
+   "id": "rz165",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief vom Arbeitgeber: Betriebsarzt",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Logistik Nord GmbH",
+     "text": "Liebe Kolleginnen und Kollegen,\nalle Beschäftigten, die nachts arbeiten, haben das Recht auf eine regelmäßige Untersuchung beim Betriebsarzt. Die nächste Sprechstunde ist am 12. Februar. Die Untersuchung ist kostenlos und zählt als Arbeitszeit. Die Ergebnisse bekommen nur Sie, nicht die Firma. Termine vergibt das Personalbüro."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wer hat ein Recht auf die Untersuchung?",
+     "o": [
+      "alle Fahrer",
+      "Beschäftigte mit Nachtarbeit",
+      "nur neue Mitarbeiter"
+     ],
+     "r": 1,
+     "e": "Wer nachts arbeitet."
+    },
+    {
+     "q": "Wer bekommt die Ergebnisse?",
+     "o": [
+      "die Firma",
+      "nur der Beschäftigte",
+      "der Betriebsrat"
+     ],
+     "r": 1,
+     "e": "Nur Sie."
+    },
+    {
+     "q": "Wo bekommt man einen Termin?",
+     "o": [
+      "beim Betriebsarzt",
+      "im Personalbüro",
+      "online"
+     ],
+     "r": 1,
+     "e": "Personalbüro."
+    }
+   ]
+  },
+  {
+   "id": "rz166",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Aushang im Bürgerhaus: Nähcafé",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Nähcafé im Bürgerhaus",
+     "text": "Jeden Donnerstag von 15 bis 18 Uhr treffen wir uns zum gemeinsamen Nähen. Nähmaschinen sind da, Stoff bringen Sie bitte selbst mit. Wir helfen Ihnen gern, wenn Sie noch nie genäht haben. Die Teilnahme kostet 2 Euro für Kaffee und Kuchen. Kinder können im Spielzimmer nebenan spielen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was muss man mitbringen?",
+     "o": [
+      "eine Nähmaschine",
+      "Stoff",
+      "Kuchen"
+     ],
+     "r": 1,
+     "e": "Stoff selbst mitbringen."
+    },
+    {
+     "q": "Wofür sind die 2 Euro?",
+     "o": [
+      "für den Stoff",
+      "für Kaffee und Kuchen",
+      "für den Kurs"
+     ],
+     "r": 1,
+     "e": "Kaffee und Kuchen."
+    }
+   ]
+  },
+  {
+   "id": "rz167",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Bahn-Baustelle",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Regionalnachrichten",
+     "text": "Zwischen Dresden und Leipzig wird in den Sommerferien die Bahnstrecke erneuert. Vom 7. Juli bis 17. August fahren statt der Regionalzüge Ersatzbusse. Die Fahrt dauert dann etwa 40 Minuten länger. Fernzüge fahren über eine andere Strecke und sind ebenfalls länger unterwegs. Fahrräder können in den Bussen nicht mitgenommen werden."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was fährt statt der Regionalzüge?",
+     "o": [
+      "Fernzüge",
+      "Ersatzbusse",
+      "Straßenbahnen"
+     ],
+     "r": 1,
+     "e": "Ersatzbusse."
+    },
+    {
+     "q": "Wie viel länger dauert die Fahrt?",
+     "o": [
+      "etwa 10 Minuten",
+      "etwa 40 Minuten",
+      "zwei Stunden"
+     ],
+     "r": 1,
+     "e": "Etwa 40 Minuten."
+    },
+    {
+     "q": "Fahrräder …",
+     "o": [
+      "kann man im Bus mitnehmen.",
+      "kann man im Bus nicht mitnehmen.",
+      "kosten extra."
+     ],
+     "r": 1,
+     "e": "Nicht mitnehmen."
+    }
+   ]
+  },
+  {
+   "id": "rz168",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief vom Vermieter: Rauchmelder",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Hausverwaltung Meier",
+     "text": "Sehr geehrte Mieter,\nin allen Schlafzimmern, Kinderzimmern und Fluren müssen Rauchmelder hängen. Wir lassen sie am 18. Oktober von einer Firma prüfen. Bitte prüfen Sie aber auch selbst einmal im Monat, ob der Melder funktioniert: Drücken Sie auf den Knopf, dann muss er laut piepen. Wenn er nicht piept, informieren Sie uns."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wo müssen Rauchmelder hängen?",
+     "o": [
+      "in der Küche",
+      "in Schlafzimmern, Kinderzimmern und Fluren",
+      "im Keller"
+     ],
+     "r": 1,
+     "e": "Schlaf-, Kinderzimmer, Flure."
+    },
+    {
+     "q": "Wie oft soll man selbst prüfen?",
+     "o": [
+      "einmal im Jahr",
+      "einmal im Monat",
+      "jeden Tag"
+     ],
+     "r": 1,
+     "e": "Einmal im Monat."
+    },
+    {
+     "q": "Was tut man, wenn der Melder nicht piept?",
+     "o": [
+      "einen neuen kaufen",
+      "die Hausverwaltung informieren",
+      "nichts"
+     ],
+     "r": 1,
+     "e": "Hausverwaltung informieren."
+    }
+   ]
+  },
+  {
+   "id": "rz169",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information: Führerschein umschreiben",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Fahrerlaubnisbehörde – Hinweise",
+     "text": "Wenn Sie mit einem Führerschein aus einem Land außerhalb der EU in Deutschland wohnen, dürfen Sie damit sechs Monate fahren. Danach brauchen Sie einen deutschen Führerschein. Bei manchen Ländern müssen Sie eine theoretische und eine praktische Prüfung machen. Den Antrag stellen Sie bei der Fahrerlaubnisbehörde. Sie brauchen ein Foto, einen Sehtest und eine Übersetzung Ihres Führerscheins."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie lange darf man mit dem ausländischen Führerschein fahren?",
+     "o": [
+      "drei Monate",
+      "sechs Monate",
+      "ein Jahr"
+     ],
+     "r": 1,
+     "e": "Sechs Monate."
+    },
+    {
+     "q": "Was braucht man für den Antrag?",
+     "o": [
+      "Foto, Sehtest und Übersetzung",
+      "nur den Pass",
+      "einen Arbeitsvertrag"
+     ],
+     "r": 0,
+     "e": "Foto, Sehtest, Übersetzung."
+    }
+   ]
+  },
+  {
+   "id": "rz170",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Aushang in der Kantine: Neue Preise",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Betriebsrestaurant – Information",
+     "text": "Ab dem 1. Februar kostet das Tagesgericht 4,80 Euro statt 4,50 Euro. Die Suppe bleibt bei 2,50 Euro. Auszubildende bekommen weiterhin 50 Prozent Rabatt. Neu: Montags und donnerstags gibt es ein zweites vegetarisches Gericht. Bezahlen können Sie mit dem Mitarbeiterausweis oder mit Karte."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was kostet das Tagesgericht ab Februar?",
+     "o": [
+      "2,50 Euro",
+      "4,50 Euro",
+      "4,80 Euro"
+     ],
+     "r": 2,
+     "e": "4,80 Euro."
+    },
+    {
+     "q": "Was ist neu?",
+     "o": [
+      "ein Fischgericht am Freitag",
+      "ein zweites vegetarisches Gericht",
+      "Frühstück"
+     ],
+     "r": 1,
+     "e": "Zweites vegetarisches Gericht."
+    }
+   ]
+  },
+  {
+   "id": "rz171",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Sicherheit Schulweg",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Polizei informiert",
+     "text": "Zum Schulbeginn kontrolliert die Polizei verstärkt das Tempo vor Schulen. In der Nähe von Schulen gilt oft Tempo 30. Eltern sollen ihre Kinder nicht direkt vor dem Schultor aus dem Auto lassen, weil das gefährlich ist. Besser: Die Kinder gehen die letzten Meter zu Fuß. Die Polizei bietet außerdem ein Fahrradtraining für Viertklässler an."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was kontrolliert die Polizei?",
+     "o": [
+      "Fahrkarten",
+      "das Tempo vor Schulen",
+      "Schulranzen"
+     ],
+     "r": 1,
+     "e": "Tempo vor Schulen."
+    },
+    {
+     "q": "Was sollen Eltern nicht tun?",
+     "o": [
+      "die Kinder zu Fuß gehen lassen",
+      "die Kinder direkt vor dem Schultor aussteigen lassen",
+      "mit dem Bus fahren"
+     ],
+     "r": 1,
+     "e": "Nicht direkt vor dem Schultor."
+    },
+    {
+     "q": "Für wen ist das Fahrradtraining?",
+     "o": [
+      "für Eltern",
+      "für Viertklässler",
+      "für Lehrer"
+     ],
+     "r": 1,
+     "e": "Viertklässler."
+    }
+   ]
+  },
+  {
+   "id": "rz172",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief der Stadt: Hundesteuer",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Stadtverwaltung – Steueramt",
+     "text": "Sehr geehrte Frau Lopez,\nSie haben einen Hund angemeldet. Die Hundesteuer beträgt für den ersten Hund 108 Euro im Jahr. Sie bekommen eine Hundemarke, die Ihr Hund draußen immer am Halsband tragen muss. Die Steuer bezahlen Sie bis zum 15. Mai per Überweisung. Wenn Sie den Hund nicht mehr haben, melden Sie ihn bitte ab."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie hoch ist die Hundesteuer?",
+     "o": [
+      "18 Euro im Jahr",
+      "108 Euro im Jahr",
+      "108 Euro im Monat"
+     ],
+     "r": 1,
+     "e": "108 Euro im Jahr."
+    },
+    {
+     "q": "Was muss der Hund draußen tragen?",
+     "o": [
+      "eine Leine",
+      "die Hundemarke",
+      "einen Maulkorb"
+     ],
+     "r": 1,
+     "e": "Hundemarke am Halsband."
+    }
+   ]
+  },
+  {
+   "id": "rz173",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information: Notdienstapotheke",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Apothekennotdienst",
+     "text": "Apotheken haben abwechselnd Notdienst, auch nachts, am Wochenende und an Feiertagen. Welche Apotheke heute Notdienst hat, steht an der Tür jeder Apotheke, im Internet und in der Zeitung. Für den Notdienst zahlen Sie eine zusätzliche Gebühr von 2,50 Euro. Wenn Sie ein Rezept für einen Notfall haben, kann die Gebühr wegfallen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wo erfährt man, welche Apotheke Notdienst hat?",
+     "o": [
+      "an der Tür jeder Apotheke",
+      "nur bei der Polizei",
+      "beim Hausarzt"
+     ],
+     "r": 0,
+     "e": "An der Tür, im Internet, in der Zeitung."
+    },
+    {
+     "q": "Wie hoch ist die Notdienstgebühr?",
+     "o": [
+      "1 Euro",
+      "2,50 Euro",
+      "10 Euro"
+     ],
+     "r": 1,
+     "e": "2,50 Euro."
+    }
+   ]
+  },
+  {
+   "id": "rz174",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Aushang: Tauschregal",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Tauschregal im Hausflur",
+     "text": "In unserem Haus gibt es jetzt ein Tauschregal neben den Briefkästen. Hier können Sie Bücher, Spielzeug und kleine Haushaltssachen hinstellen, die Sie nicht mehr brauchen. Jeder darf sich nehmen, was er möchte – kostenlos. Bitte keine kaputten oder schmutzigen Sachen und keine Lebensmittel. Große Möbel bitte nicht hier abstellen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wo steht das Tauschregal?",
+     "o": [
+      "im Keller",
+      "neben den Briefkästen",
+      "im Hof"
+     ],
+     "r": 1,
+     "e": "Neben den Briefkästen."
+    },
+    {
+     "q": "Was darf man nicht hinstellen?",
+     "o": [
+      "Bücher",
+      "Lebensmittel",
+      "Spielzeug"
+     ],
+     "r": 1,
+     "e": "Keine Lebensmittel."
+    }
+   ]
+  },
+  {
+   "id": "rz175",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Jobmesse",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Wirtschaftsnachrichten",
+     "text": "Am Samstag findet im Rathaus die Jobmesse „Arbeit in Sachsen“ statt. Über 80 Firmen suchen dort Mitarbeiter, vor allem in Pflege, Handwerk und Logistik. Besucher sollten Lebensläufe mitbringen. Für Menschen mit ausländischen Abschlüssen gibt es eine Beratung zur Anerkennung. Dolmetscher für Arabisch, Russisch und Ukrainisch sind vor Ort."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wo ist die Jobmesse?",
+     "o": [
+      "in der Messehalle",
+      "im Rathaus",
+      "in der Universität"
+     ],
+     "r": 1,
+     "e": "Im Rathaus."
+    },
+    {
+     "q": "Was sollen Besucher mitbringen?",
+     "o": [
+      "Lebensläufe",
+      "Zeugnisse im Original",
+      "Fotos"
+     ],
+     "r": 0,
+     "e": "Lebensläufe."
+    },
+    {
+     "q": "Welche Hilfe gibt es noch?",
+     "o": [
+      "Kinderbetreuung",
+      "Beratung zur Anerkennung von Abschlüssen",
+      "kostenloses Essen"
+     ],
+     "r": 1,
+     "e": "Anerkennungsberatung."
+    }
+   ]
+  },
+  {
+   "id": "rz176",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief der Bibliothek: Mahnung",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Stadtbibliothek",
+     "text": "Sehr geehrter Herr Wu,\ndie Leihfrist für das Buch „Deutsch im Alltag“ ist seit zehn Tagen abgelaufen. Bitte geben Sie das Buch so bald wie möglich zurück. Die Gebühr beträgt bis jetzt 2 Euro. Sie können die Leihfrist auch online verlängern, wenn niemand das Buch reserviert hat. Ihr Ausweis ist gesperrt, bis die Gebühr bezahlt ist."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Seit wann ist die Leihfrist abgelaufen?",
+     "o": [
+      "seit zwei Tagen",
+      "seit zehn Tagen",
+      "seit einem Monat"
+     ],
+     "r": 1,
+     "e": "Seit zehn Tagen."
+    },
+    {
+     "q": "Wann kann man online verlängern?",
+     "o": [
+      "immer",
+      "wenn niemand das Buch reserviert hat",
+      "nie"
+     ],
+     "r": 1,
+     "e": "Wenn es nicht reserviert ist."
+    },
+    {
+     "q": "Was passiert mit dem Ausweis?",
+     "o": [
+      "Er ist gesperrt, bis die Gebühr bezahlt ist.",
+      "Er wird gelöscht.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Gesperrt bis zur Zahlung."
+    }
+   ]
+  },
+  {
+   "id": "rz177",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information: Mülltrennung",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "So trennen Sie richtig",
+     "text": "Gelbe Tonne: Verpackungen aus Plastik und Metall, zum Beispiel Joghurtbecher und Dosen. Blaue Tonne: Papier und Karton. Braune Tonne: Essensreste, Obst- und Gemüseschalen, Gartenabfälle. Schwarze Tonne: Restmüll wie Windeln und Staubsaugerbeutel. Glas bringen Sie zu den Containern – weißes, grünes und braunes Glas getrennt. Batterien gehören nicht in den Müll, sondern in die Sammelbox im Supermarkt."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wohin gehören Kartoffelschalen?",
+     "o": [
+      "in die gelbe Tonne",
+      "in die braune Tonne",
+      "in die schwarze Tonne"
+     ],
+     "r": 1,
+     "e": "Braune Tonne."
+    },
+    {
+     "q": "Wohin gehören Windeln?",
+     "o": [
+      "in die gelbe Tonne",
+      "in die blaue Tonne",
+      "in die schwarze Tonne"
+     ],
+     "r": 2,
+     "e": "Restmüll → schwarz."
+    },
+    {
+     "q": "Wohin bringt man alte Batterien?",
+     "o": [
+      "in die Sammelbox im Supermarkt",
+      "in die gelbe Tonne",
+      "zum Glascontainer"
+     ],
+     "r": 0,
+     "e": "Sammelbox im Supermarkt."
+    }
+   ]
+  },
+  {
+   "id": "rz178",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Freibad",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Lokales",
+     "text": "Die Freibäder der Stadt öffnen in diesem Jahr schon am 1. Mai. Wegen des warmen Wetters wurde der Termin um zwei Wochen vorgezogen. Die Preise bleiben gleich: Erwachsene zahlen 4 Euro, Kinder 2 Euro. Neu ist eine Familienkarte für die ganze Saison für 90 Euro. Schwimmkurse für Kinder können ab sofort online gebucht werden."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Warum öffnen die Freibäder früher?",
+     "o": [
+      "wegen des warmen Wetters",
+      "wegen eines Festes",
+      "wegen neuer Becken"
+     ],
+     "r": 0,
+     "e": "Warmes Wetter."
+    },
+    {
+     "q": "Was ist neu?",
+     "o": [
+      "höhere Preise",
+      "eine Familienkarte für die Saison",
+      "ein Hallenbad"
+     ],
+     "r": 1,
+     "e": "Familienkarte 90 Euro."
+    }
+   ]
+  }
+ ]
+}

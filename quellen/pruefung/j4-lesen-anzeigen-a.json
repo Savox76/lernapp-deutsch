@@ -1,0 +1,1704 @@
+{
+ "lesen": [
+  {
+   "id": "rz090",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Wohnungen",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "2-Zimmer-Wohnung, 54 m², 3. OG mit Aufzug, Balkon, 620 € warm, ab sofort frei. Haustiere nicht erlaubt."
+    },
+    {
+     "k": "b",
+     "text": "3-Zimmer-Wohnung im Erdgeschoss, 78 m², kleiner Garten, 890 € warm, Nähe Grundschule. Ab 1. März."
+    },
+    {
+     "k": "c",
+     "text": "1-Zimmer-Apartment, möbliert, 30 m², 450 € warm, ideal für Studenten, Bus direkt vor der Tür."
+    },
+    {
+     "k": "d",
+     "text": "4-Zimmer-Wohnung, 95 m², 5. OG ohne Aufzug, 980 € warm, frisch renoviert."
+    },
+    {
+     "k": "e",
+     "text": "WG-Zimmer in netter 3er-WG, 16 m², 330 € warm, Küche und Bad gemeinsam."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie haben zwei kleine Kinder und möchten gern einen Garten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Erdgeschoss, Garten, Nähe Grundschule."
+    },
+    {
+     "q": "Sie sind Studentin und haben keine Möbel.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: möbliert, ideal für Studenten."
+    },
+    {
+     "q": "Sie sind 75 und können keine Treppen steigen. Sie suchen 2 Zimmer.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 0,
+     "e": "a: 2 Zimmer, Aufzug."
+    },
+    {
+     "q": "Sie haben einen Hund und suchen eine Wohnung mit Balkon.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "a hat Balkon, aber keine Haustiere – keine Anzeige passt."
+    }
+   ]
+  },
+  {
+   "id": "rz091",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Sprachkurse",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Deutsch A1 für Mütter mit Kinderbetreuung, vormittags, Familienzentrum Nord."
+    },
+    {
+     "k": "b",
+     "text": "Intensivkurs B1 – Vorbereitung auf den DTZ, Mo–Fr 8:30–12:45 Uhr, Volkshochschule."
+    },
+    {
+     "k": "c",
+     "text": "Abendkurs Deutsch B2 für den Beruf, Di und Do 18–21 Uhr, mit Zertifikat."
+    },
+    {
+     "k": "d",
+     "text": "Online-Kurs Deutsch A2, flexibel lernen, zweimal pro Woche Videounterricht."
+    },
+    {
+     "k": "e",
+     "text": "Konversationskurs: Deutsch sprechen ohne Grammatik, samstags im Café, kostenlos."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihre Nachbarin hat ein Baby und fängt mit Deutsch an.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 0,
+     "e": "a: A1 mit Kinderbetreuung."
+    },
+    {
+     "q": "Sie arbeiten tagsüber und brauchen Deutsch für Ihre Arbeit.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Abendkurs B2 für den Beruf."
+    },
+    {
+     "q": "Sie möchten im nächsten Monat die DTZ-Prüfung machen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Vorbereitung auf den DTZ."
+    },
+    {
+     "q": "Ihr Mann möchte am Wochenende ohne Kosten Deutsch üben.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: samstags, kostenlos."
+    }
+   ]
+  },
+  {
+   "id": "rz092",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Freizeit",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Kinderturnen für 3- bis 6-Jährige, montags 16 Uhr, Turnhalle Grundschule."
+    },
+    {
+     "k": "b",
+     "text": "Wandergruppe 60+: jeden ersten Sonntag im Monat, Treffpunkt Hauptbahnhof."
+    },
+    {
+     "k": "c",
+     "text": "Fußball für Mädchen von 8 bis 12, mittwochs 17 Uhr, Sportplatz Süd."
+    },
+    {
+     "k": "d",
+     "text": "Tanzkurs für Paare – Walzer und Tango, freitags 20 Uhr."
+    },
+    {
+     "k": "e",
+     "text": "Schach-Club: Anfänger willkommen, donnerstags 18 Uhr in der Bibliothek."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihre Tochter ist zehn und spielt gern Fußball.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Fußball für Mädchen 8–12."
+    },
+    {
+     "q": "Sie und Ihr Mann möchten zusammen tanzen lernen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: Tanzkurs für Paare."
+    },
+    {
+     "q": "Ihr Opa ist 68 und möchte in der Natur unterwegs sein.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Wandergruppe 60+."
+    },
+    {
+     "q": "Ihr Sohn ist 14 und möchte schwimmen lernen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "Kein Schwimmkurs → X."
+    }
+   ]
+  },
+  {
+   "id": "rz093",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Jobs",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Reinigungskraft gesucht, Minijob, Mo–Fr 6–8 Uhr, Bürogebäude in der Innenstadt."
+    },
+    {
+     "k": "b",
+     "text": "Verkäufer/in in Vollzeit für Bäckerei, Frühschicht ab 5 Uhr, Erfahrung erwünscht."
+    },
+    {
+     "k": "c",
+     "text": "Fahrer/in mit Führerschein Klasse B für Lieferdienst, Teilzeit, eigenes Auto nicht nötig."
+    },
+    {
+     "k": "d",
+     "text": "Küchenhilfe für Restaurant, abends und am Wochenende, auch ohne Erfahrung."
+    },
+    {
+     "k": "e",
+     "text": "Pflegehelfer/in für Seniorenheim, Ausbildung wird bezahlt, Deutsch B1 nötig."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie haben einen Führerschein, aber kein Auto, und möchten 20 Stunden arbeiten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Teilzeit, kein eigenes Auto nötig."
+    },
+    {
+     "q": "Sie möchten nur frühmorgens ein bisschen dazuverdienen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 0,
+     "e": "a: Minijob 6–8 Uhr."
+    },
+    {
+     "q": "Sie haben keine Berufserfahrung und können nur abends arbeiten.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: abends, ohne Erfahrung."
+    },
+    {
+     "q": "Sie möchten in der Pflege arbeiten und eine Ausbildung machen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: Ausbildung wird bezahlt."
+    }
+   ]
+  },
+  {
+   "id": "rz094",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Kinderbetreuung",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Tagesmutter hat Plätze frei für Kinder von 1 bis 3 Jahren, Mo–Fr 7–15 Uhr."
+    },
+    {
+     "k": "b",
+     "text": "Babysitterin (Studentin, 23) passt abends und am Wochenende auf Ihre Kinder auf."
+    },
+    {
+     "k": "c",
+     "text": "Hausaufgabenhilfe für Grundschüler, nachmittags, 10 € pro Stunde."
+    },
+    {
+     "k": "d",
+     "text": "Ferienlager für Kinder von 8 bis 13 im Sommer, eine Woche am See."
+    },
+    {
+     "k": "e",
+     "text": "Krabbelgruppe für Babys bis 1 Jahr mit Mama oder Papa, dienstags vormittags."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten am Samstagabend ins Kino und brauchen jemanden für die Kinder.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: abends und am Wochenende."
+    },
+    {
+     "q": "Ihr Sohn ist 18 Monate und Sie arbeiten bis 14 Uhr.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 0,
+     "e": "a: 1–3 Jahre, bis 15 Uhr."
+    },
+    {
+     "q": "Ihr Kind ist in der 2. Klasse und braucht Hilfe beim Lesen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Hausaufgabenhilfe Grundschule."
+    },
+    {
+     "q": "Ihre Tochter ist 16 und möchte in den Ferien wegfahren.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "d ist nur bis 13 → X."
+    }
+   ]
+  },
+  {
+   "id": "rz095",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Gebrauchtes",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Kinderwagen, gut erhalten, 80 €, Abholung in Gorbitz."
+    },
+    {
+     "k": "b",
+     "text": "Waschmaschine, 3 Jahre alt, 150 €, Lieferung möglich."
+    },
+    {
+     "k": "c",
+     "text": "Sofa, 3-Sitzer, grau, zu verschenken – nur Selbstabholung."
+    },
+    {
+     "k": "d",
+     "text": "Kinderfahrrad 20 Zoll für 6–9 Jahre, 45 €."
+    },
+    {
+     "k": "e",
+     "text": "Laptop, 2 Jahre alt, mit Ladegerät, 300 €."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie brauchen ein Sofa, haben aber wenig Geld und ein Auto.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: zu verschenken, Selbstabholung."
+    },
+    {
+     "q": "Ihr Sohn ist sieben und möchte Rad fahren.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: Kinderfahrrad 6–9 Jahre."
+    },
+    {
+     "q": "Sie brauchen eine Waschmaschine, haben aber kein Auto.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Lieferung möglich."
+    },
+    {
+     "q": "Sie suchen einen Kühlschrank.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "Kein Kühlschrank → X."
+    }
+   ]
+  },
+  {
+   "id": "rz096",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Reparaturen",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Schuhmacher: Absätze und Sohlen, schnell und günstig, Mo–Sa."
+    },
+    {
+     "k": "b",
+     "text": "Handy-Reparatur: Display-Tausch in 30 Minuten, alle Marken."
+    },
+    {
+     "k": "c",
+     "text": "Schneiderei: Hosen kürzen, Reißverschlüsse ersetzen, Änderungen."
+    },
+    {
+     "k": "d",
+     "text": "Fahrradwerkstatt: Reparatur und Inspektion, auch E-Bikes."
+    },
+    {
+     "k": "e",
+     "text": "Computer-Service: Viren entfernen, Daten retten, Hausbesuche."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Der Reißverschluss Ihrer Jacke ist kaputt.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Reißverschlüsse ersetzen."
+    },
+    {
+     "q": "Ihr Laptop ist sehr langsam, und Sie können nicht aus dem Haus.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: Hausbesuche."
+    },
+    {
+     "q": "Die Bremse an Ihrem E-Bike funktioniert nicht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: auch E-Bikes."
+    },
+    {
+     "q": "Ihre Waschmaschine läuft aus.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "Keine Reparatur für Haushaltsgeräte → X."
+    }
+   ]
+  },
+  {
+   "id": "rz097",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Ärzte und Gesundheit",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Hausarztpraxis nimmt neue Patienten auf, Sprechstunde auch samstags."
+    },
+    {
+     "k": "b",
+     "text": "Physiotherapie: Termine auch abends bis 20 Uhr, alle Kassen."
+    },
+    {
+     "k": "c",
+     "text": "Kinderzahnarzt: Behandlung mit viel Geduld, Spielecke im Wartezimmer."
+    },
+    {
+     "k": "d",
+     "text": "Frauenärztin, spricht Russisch und Ukrainisch."
+    },
+    {
+     "k": "e",
+     "text": "Psychologische Beratung bei Stress, kostenlos, anonym."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihre Freundin ist schwanger und spricht noch wenig Deutsch, aber Russisch.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: Frauenärztin, spricht Russisch."
+    },
+    {
+     "q": "Ihr Kind hat Angst vor dem Zahnarzt.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Kinderzahnarzt mit Geduld."
+    },
+    {
+     "q": "Sie haben Rückenschmerzen und arbeiten bis 18 Uhr.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Physiotherapie bis 20 Uhr."
+    },
+    {
+     "q": "Sie sind neu in der Stadt und suchen eine Hausärztin.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 0,
+     "e": "a: nimmt neue Patienten auf."
+    }
+   ]
+  },
+  {
+   "id": "rz098",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Restaurants",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Pizzeria Roma: Mittagstisch Mo–Fr 7,90 €, auch zum Mitnehmen."
+    },
+    {
+     "k": "b",
+     "text": "Vegetarisches Café: Frühstück bis 14 Uhr, alles bio."
+    },
+    {
+     "k": "c",
+     "text": "Restaurant Sibirjak: russische und ukrainische Küche, Pelmeni hausgemacht."
+    },
+    {
+     "k": "d",
+     "text": "Döner Express: 24 Stunden geöffnet."
+    },
+    {
+     "k": "e",
+     "text": "Familienrestaurant mit großem Spielplatz, Kinder unter 6 essen gratis."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten mit Ihren kleinen Kindern essen gehen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: Spielplatz, Kinder gratis."
+    },
+    {
+     "q": "Sie haben nachts um 3 Uhr Hunger.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: 24 Stunden."
+    },
+    {
+     "q": "Sie möchten Ihrem Kollegen Pelmeni zeigen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Pelmeni hausgemacht."
+    },
+    {
+     "q": "Sie möchten am Sonntag um 11 Uhr frühstücken, ohne Fleisch.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: vegetarisch, Frühstück bis 14 Uhr."
+    }
+   ]
+  },
+  {
+   "id": "rz099",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Umzug und Transport",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Umzugsfirma: Komplettumzug mit Packern, kostenlose Besichtigung."
+    },
+    {
+     "k": "b",
+     "text": "Transporter mieten ab 49 € pro Tag, Führerschein Klasse B reicht."
+    },
+    {
+     "k": "c",
+     "text": "Entrümpelung: Wir holen alte Möbel ab und entsorgen sie."
+    },
+    {
+     "k": "d",
+     "text": "Umzugskartons zu verschenken, ca. 20 Stück."
+    },
+    {
+     "k": "e",
+     "text": "Klaviertransport – Spezialisten seit 30 Jahren."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten selbst umziehen und brauchen ein großes Auto.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Transporter mieten."
+    },
+    {
+     "q": "Sie brauchen Kartons, möchten aber nichts bezahlen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: zu verschenken."
+    },
+    {
+     "q": "Die Wohnung Ihrer Oma muss leer gemacht werden.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Entrümpelung."
+    },
+    {
+     "q": "Sie möchten Ihr Auto nach Polen bringen lassen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "Kein Autotransport → X."
+    }
+   ]
+  },
+  {
+   "id": "rz100",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Kurse für Erwachsene",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Erste-Hilfe-Kurs für den Führerschein, ein Samstag, 9–16 Uhr."
+    },
+    {
+     "k": "b",
+     "text": "Computerkurs für Anfänger: E-Mails, Internet, Online-Termine."
+    },
+    {
+     "k": "c",
+     "text": "Nähkurs: eigene Kleidung nähen, 6 Abende."
+    },
+    {
+     "k": "d",
+     "text": "Fahrradkurs für Frauen, die nie Rad fahren gelernt haben."
+    },
+    {
+     "k": "e",
+     "text": "Kochkurs: gesund und günstig kochen für die Familie."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie wollen den Führerschein machen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 0,
+     "e": "a: Erste Hilfe für den Führerschein."
+    },
+    {
+     "q": "Sie möchten lernen, beim Amt online einen Termin zu buchen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Online-Termine."
+    },
+    {
+     "q": "Ihre Freundin ist 40 und kann nicht Rad fahren.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: Fahrradkurs für Frauen."
+    },
+    {
+     "q": "Sie möchten Englisch lernen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "Kein Englischkurs → X."
+    }
+   ]
+  },
+  {
+   "id": "rz101",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Ferienwohnungen",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Ferienhaus an der Ostsee, 6 Personen, Hunde erlaubt, 120 € pro Nacht."
+    },
+    {
+     "k": "b",
+     "text": "Apartment in den Alpen, 2 Personen, Skilift 200 m entfernt."
+    },
+    {
+     "k": "c",
+     "text": "Bauernhof-Urlaub: Kinder dürfen Tiere füttern, Frühstück inklusive."
+    },
+    {
+     "k": "d",
+     "text": "Stadtwohnung in Berlin, 4 Personen, 5 Minuten zur U-Bahn."
+    },
+    {
+     "k": "e",
+     "text": "Zelten am See, Platz für Wohnmobile, Duschen vorhanden."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten mit Ihren Kindern Tiere sehen und füttern.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Bauernhof-Urlaub."
+    },
+    {
+     "q": "Sie fahren mit Ihrem Hund und Freunden ans Meer.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 0,
+     "e": "a: Ostsee, Hunde erlaubt."
+    },
+    {
+     "q": "Sie und Ihr Partner möchten Ski fahren.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Alpen, Skilift."
+    },
+    {
+     "q": "Sie möchten mit dem Wohnmobil Urlaub machen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: Platz für Wohnmobile."
+    }
+   ]
+  },
+  {
+   "id": "rz102",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Dienstleistungen im Haushalt",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Fensterputzen für Privathaushalte, ab 39 €."
+    },
+    {
+     "k": "b",
+     "text": "Gartenpflege: Rasen mähen, Hecke schneiden, Laub entfernen."
+    },
+    {
+     "k": "c",
+     "text": "Haushaltshilfe für Senioren, auch Einkaufen und Arztbegleitung, mit Pflegekasse abrechenbar."
+    },
+    {
+     "k": "d",
+     "text": "Hundesitter: Gassi gehen, auch am Wochenende."
+    },
+    {
+     "k": "e",
+     "text": "Wäscheservice: Wir holen Ihre Wäsche ab und bringen sie gebügelt zurück."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihre Mutter ist 82 und braucht Hilfe beim Einkaufen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Haushaltshilfe für Senioren."
+    },
+    {
+     "q": "Sie fahren übers Wochenende weg und haben einen Hund.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: Hundesitter auch am Wochenende."
+    },
+    {
+     "q": "Ihre Hemden müssen gebügelt werden, aber Sie haben keine Zeit.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: Wäscheservice."
+    },
+    {
+     "q": "Ihr Rasen ist sehr hoch.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Rasen mähen."
+    }
+   ]
+  },
+  {
+   "id": "rz103",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Beratung",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Mieterverein: Hilfe bei Problemen mit dem Vermieter, Mitgliedschaft 6 € im Monat."
+    },
+    {
+     "k": "b",
+     "text": "Verbraucherzentrale: Beratung zu Verträgen, Handy, Strom, Internet."
+    },
+    {
+     "k": "c",
+     "text": "Schuldnerberatung der Caritas, kostenlos."
+    },
+    {
+     "k": "d",
+     "text": "Migrationsberatung: Hilfe bei Briefen von Ämtern, auf Arabisch, Russisch, Türkisch."
+    },
+    {
+     "k": "e",
+     "text": "Steuerberatung für Arbeitnehmer, Lohnsteuerhilfeverein."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie haben einen teuren Handyvertrag und möchten raus.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Verbraucherzentrale, Verträge, Handy."
+    },
+    {
+     "q": "Sie verstehen einen Brief vom Jobcenter nicht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: Hilfe bei Briefen von Ämtern."
+    },
+    {
+     "q": "Sie möchten Hilfe bei der Steuererklärung.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: Lohnsteuerhilfeverein."
+    },
+    {
+     "q": "Ihr Vermieter repariert seit Monaten die Heizung nicht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 0,
+     "e": "a: Mieterverein."
+    }
+   ]
+  },
+  {
+   "id": "rz104",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Sport",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Fitnessstudio nur für Frauen, mit Kinderbetreuung am Vormittag."
+    },
+    {
+     "k": "b",
+     "text": "Schwimmkurs für Erwachsene, die nicht schwimmen können."
+    },
+    {
+     "k": "c",
+     "text": "Yoga im Park, jeden Sonntag 10 Uhr, bei Regen in der Halle."
+    },
+    {
+     "k": "d",
+     "text": "Boxtraining für Jugendliche ab 14, kostenlos."
+    },
+    {
+     "k": "e",
+     "text": "Lauftreff: gemeinsam joggen, alle Niveaus, dienstags 18 Uhr."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten Sport machen und haben ein Kind, das noch nicht in die Kita geht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 0,
+     "e": "a: Kinderbetreuung."
+    },
+    {
+     "q": "Ihr Mann kann nicht schwimmen und möchte es lernen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Schwimmkurs für Erwachsene."
+    },
+    {
+     "q": "Ihr Sohn ist 15 und möchte boxen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: Boxtraining ab 14."
+    },
+    {
+     "q": "Sie möchten Tennis spielen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "Kein Tennis → X."
+    }
+   ]
+  },
+  {
+   "id": "rz105",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Autos",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "VW Golf, Baujahr 2015, 120.000 km, TÜV neu, 7.900 €."
+    },
+    {
+     "k": "b",
+     "text": "Kleinwagen für Fahranfänger, sparsam, 3.500 €."
+    },
+    {
+     "k": "c",
+     "text": "Familienauto mit 7 Sitzen, 2018, 15.000 €."
+    },
+    {
+     "k": "d",
+     "text": "Elektroauto, Reichweite 350 km, 18.500 €."
+    },
+    {
+     "k": "e",
+     "text": "Wohnmobil zu vermieten, ab 90 € pro Tag."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie haben vier Kinder.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: 7 Sitze."
+    },
+    {
+     "q": "Ihre Tochter hat gerade den Führerschein gemacht. Sie haben nur 4.000 €.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Kleinwagen für Fahranfänger, 3.500 €."
+    },
+    {
+     "q": "Sie möchten kein Benzin mehr tanken.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: Elektroauto."
+    },
+    {
+     "q": "Sie möchten ein Motorrad kaufen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "Kein Motorrad → X."
+    }
+   ]
+  },
+  {
+   "id": "rz106",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Veranstaltungen",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Flohmarkt auf dem Schulhof, Samstag 8–14 Uhr, Standgebühr 5 €."
+    },
+    {
+     "k": "b",
+     "text": "Konzert der Musikschule, Eintritt frei, Spenden willkommen."
+    },
+    {
+     "k": "c",
+     "text": "Kinderkino: jeden Sonntag 15 Uhr, 3 € pro Kind."
+    },
+    {
+     "k": "d",
+     "text": "Internationales Kochfest: Gerichte aus 20 Ländern probieren."
+    },
+    {
+     "k": "e",
+     "text": "Vortrag: Rente in Deutschland – was muss ich wissen? Dienstag 18 Uhr."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie möchten alte Kinderkleidung verkaufen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 0,
+     "e": "a: Flohmarkt, Stand."
+    },
+    {
+     "q": "Sie möchten Essen aus anderen Ländern kennenlernen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: internationales Kochfest."
+    },
+    {
+     "q": "Sie möchten am Wochenende mit Ihrer Tochter einen Film sehen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Kinderkino sonntags."
+    },
+    {
+     "q": "Sie möchten wissen, wie viel Rente Sie bekommen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: Vortrag Rente."
+    }
+   ]
+  },
+  {
+   "id": "rz107",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Ausbildungsplätze",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Ausbildung zur Friseurin, Beginn August, Realschulabschluss erwünscht."
+    },
+    {
+     "k": "b",
+     "text": "Ausbildung zum Kfz-Mechatroniker, technisches Interesse, Führerschein von Vorteil."
+    },
+    {
+     "k": "c",
+     "text": "Ausbildung Kauffrau/Kaufmann im Einzelhandel, auch Teilzeitausbildung für Eltern möglich."
+    },
+    {
+     "k": "d",
+     "text": "Ausbildung Pflegefachfrau/-mann, gute Bezahlung schon im 1. Jahr."
+    },
+    {
+     "k": "e",
+     "text": "Ausbildung Koch/Köchin in einem Hotel, Unterkunft möglich."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie haben zwei Kinder und möchten eine Ausbildung in Teilzeit machen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Teilzeitausbildung für Eltern."
+    },
+    {
+     "q": "Ihr Sohn interessiert sich für Autos.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Kfz-Mechatroniker."
+    },
+    {
+     "q": "Sie möchten in einer anderen Stadt kochen lernen und brauchen ein Zimmer.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: Unterkunft möglich."
+    },
+    {
+     "q": "Sie möchten Busfahrerin werden.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 5,
+     "e": "Kein Angebot → X."
+    }
+   ]
+  },
+  {
+   "id": "rz108",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Tiere",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Katzenbabys, 10 Wochen alt, an liebe Familie abzugeben."
+    },
+    {
+     "k": "b",
+     "text": "Tierpension: Wir passen auf Ihren Hund auf, wenn Sie im Urlaub sind."
+    },
+    {
+     "k": "c",
+     "text": "Hundeschule: Kurse für Welpen und erwachsene Hunde."
+    },
+    {
+     "k": "d",
+     "text": "Tierarztpraxis mit Notdienst am Wochenende."
+    },
+    {
+     "k": "e",
+     "text": "Aquarium mit Fischen, komplett, 60 €."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Hund ist krank – es ist Sonntag.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: Notdienst am Wochenende."
+    },
+    {
+     "q": "Ihr junger Hund hört nicht.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Hundeschule für Welpen."
+    },
+    {
+     "q": "Ihre Kinder wünschen sich eine Katze.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 0,
+     "e": "a: Katzenbabys."
+    },
+    {
+     "q": "Sie fliegen zwei Wochen in die Türkei und haben einen Hund.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 1,
+     "e": "b: Tierpension."
+    }
+   ]
+  },
+  {
+   "id": "rz109",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Nachhilfe und Schule",
+   "anweisung": "Lesen Sie die Anzeigen. Welche Anzeige passt? Wenn keine passt, wählen Sie X.",
+   "ru": "Прочитайте объявления. Какое подходит? Если ни одно не подходит, выберите X.",
+   "texte": [
+    {
+     "k": "a",
+     "text": "Mathe-Nachhilfe für Klasse 5–10, bei Ihnen zu Hause."
+    },
+    {
+     "k": "b",
+     "text": "Englisch für Schüler, Vorbereitung auf Prüfungen."
+    },
+    {
+     "k": "c",
+     "text": "Deutsch für Kinder mit anderer Muttersprache, kleine Gruppen."
+    },
+    {
+     "k": "d",
+     "text": "Musikschule: Klavier und Gitarre ab 6 Jahren."
+    },
+    {
+     "k": "e",
+     "text": "Lernhilfe für Kinder mit Lese- und Rechtschreibschwäche."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Ihr Sohn ist neu in Deutschland und spricht noch wenig Deutsch.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 2,
+     "e": "c: Deutsch für Kinder mit anderer Muttersprache."
+    },
+    {
+     "q": "Ihre Tochter ist in der 8. Klasse und hat Probleme in Mathe.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 0,
+     "e": "a: Mathe 5–10."
+    },
+    {
+     "q": "Ihr Kind möchte Gitarre lernen.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 3,
+     "e": "d: Musikschule."
+    },
+    {
+     "q": "Ihr Kind schreibt sehr viele Fehler.",
+     "o": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "X"
+     ],
+     "r": 4,
+     "e": "e: Rechtschreibschwäche."
+    }
+   ]
+  }
+ ]
+}

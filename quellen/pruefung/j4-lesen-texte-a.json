@@ -1,0 +1,1049 @@
+{
+ "lesen": [
+  {
+   "id": "rz130",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief vom Vermieter: Treppenhaus",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Hausverwaltung Sonne GmbH",
+     "text": "Sehr geehrte Mieterinnen und Mieter,\nim Treppenhaus stehen immer wieder Kinderwagen, Schuhe und Fahrräder. Das ist gefährlich, denn bei einem Feuer muss der Weg frei sein. Bitte stellen Sie Kinderwagen ab sofort in den Abstellraum im Erdgeschoss. Fahrräder gehören in den Fahrradkeller. Gegenstände, die nach dem 15. März noch im Treppenhaus stehen, werden entfernt.\nMit freundlichen Grüßen"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Warum schreibt die Hausverwaltung?",
+     "o": [
+      "Im Treppenhaus stehen Sachen.",
+      "Das Treppenhaus wird gestrichen.",
+      "Es gibt einen neuen Hausmeister."
+     ],
+     "r": 0,
+     "e": "Kinderwagen, Schuhe, Fahrräder im Treppenhaus."
+    },
+    {
+     "q": "Wohin sollen Kinderwagen?",
+     "o": [
+      "in den Fahrradkeller",
+      "in den Abstellraum im Erdgeschoss",
+      "in die Wohnung"
+     ],
+     "r": 1,
+     "e": "„… in den Abstellraum im Erdgeschoss.“"
+    },
+    {
+     "q": "Was passiert nach dem 15. März?",
+     "o": [
+      "Die Mieter zahlen eine Strafe.",
+      "Die Sachen werden entfernt.",
+      "Es gibt eine Versammlung."
+     ],
+     "r": 1,
+     "e": "„… werden entfernt.“"
+    }
+   ]
+  },
+  {
+   "id": "rz131",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Neue Radwege",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Dresdner Stadtanzeiger",
+     "text": "Die Stadt baut in diesem Jahr zwölf Kilometer neue Radwege. Besonders wichtig ist die Verbindung zwischen der Neustadt und dem Gewerbegebiet Nord, auf der viele Menschen zur Arbeit fahren. Die Bauarbeiten beginnen im April und dauern bis Oktober. In dieser Zeit kann es auf der Königsbrücker Straße zu Staus kommen. Autofahrer sollen wenn möglich andere Wege nehmen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viele Kilometer Radwege werden gebaut?",
+     "o": [
+      "zwei",
+      "zwölf",
+      "zwanzig"
+     ],
+     "r": 1,
+     "e": "„… zwölf Kilometer …“"
+    },
+    {
+     "q": "Was kann während der Bauarbeiten passieren?",
+     "o": [
+      "Busse fallen aus.",
+      "Es kann Staus geben.",
+      "Die Straße wird gesperrt."
+     ],
+     "r": 1,
+     "e": "„… kann es … zu Staus kommen.“"
+    }
+   ]
+  },
+  {
+   "id": "rz132",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief der Schule: Wandertag",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Grundschule am Park",
+     "text": "Liebe Eltern,\nam Mittwoch, dem 24. September, ist Wandertag. Die Klassen 1 und 2 gehen in den Großen Garten, die Klassen 3 und 4 wandern zur Burg. Wir treffen uns um 8 Uhr auf dem Schulhof und sind um 13 Uhr zurück. Bitte geben Sie Ihrem Kind feste Schuhe, eine Regenjacke, Essen und Trinken mit. Der Hort ist an diesem Tag wie gewohnt geöffnet.\nIhr Kollegium"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wohin gehen die Kinder der Klasse 3?",
+     "o": [
+      "in den Großen Garten",
+      "zur Burg",
+      "in den Zoo"
+     ],
+     "r": 1,
+     "e": "Klassen 3 und 4 → Burg."
+    },
+    {
+     "q": "Was sollen die Kinder mitnehmen?",
+     "o": [
+      "Geld",
+      "feste Schuhe und Regenjacke",
+      "Schulbücher"
+     ],
+     "r": 1,
+     "e": "Feste Schuhe, Regenjacke, Essen, Trinken."
+    },
+    {
+     "q": "Am Nachmittag …",
+     "o": [
+      "ist der Hort geschlossen.",
+      "ist der Hort normal geöffnet.",
+      "gibt es keinen Unterricht."
+     ],
+     "r": 1,
+     "e": "„Der Hort ist … wie gewohnt geöffnet.“"
+    }
+   ]
+  },
+  {
+   "id": "rz133",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information der Krankenkasse: Zahnreinigung",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Ihre Krankenkasse informiert",
+     "text": "Gesunde Zähne sind wichtig. Deshalb bezahlen wir unseren Versicherten einmal im Jahr bis zu 40 Euro für eine professionelle Zahnreinigung. Lassen Sie sich die Rechnung von Ihrer Zahnarztpraxis geben und laden Sie sie in unserer App hoch. Das Geld überweisen wir innerhalb von zwei Wochen auf Ihr Konto. Kinder unter 18 Jahren bekommen die Zahnreinigung kostenlos."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viel bezahlt die Krankenkasse?",
+     "o": [
+      "bis zu 40 Euro im Jahr",
+      "die ganze Rechnung",
+      "nichts"
+     ],
+     "r": 0,
+     "e": "„… bis zu 40 Euro …“"
+    },
+    {
+     "q": "Was müssen Sie tun?",
+     "o": [
+      "einen Antrag per Post schicken",
+      "die Rechnung in der App hochladen",
+      "beim Zahnarzt nichts sagen"
+     ],
+     "r": 1,
+     "e": "Rechnung in der App hochladen."
+    }
+   ]
+  },
+  {
+   "id": "rz134",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Aushang im Waschkeller",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Waschkeller – bitte lesen!",
+     "text": "Liebe Nachbarn,\ndie Waschmaschinen dürfen von Montag bis Samstag zwischen 7 und 21 Uhr benutzt werden. Sonntags bitte nicht waschen. Tragen Sie sich in den Plan an der Tür ein. Nach dem Waschen bitte das Flusensieb im Trockner reinigen. Wer seine Wäsche länger als einen Tag im Trockenraum hängen lässt, blockiert den Platz für andere.\nDanke! Ihr Hausmeister"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wann darf man waschen?",
+     "o": [
+      "jeden Tag",
+      "Montag bis Samstag 7–21 Uhr",
+      "nur am Wochenende"
+     ],
+     "r": 1,
+     "e": "Mo–Sa 7–21 Uhr."
+    },
+    {
+     "q": "Was soll man nach dem Trocknen tun?",
+     "o": [
+      "den Trockner ausschalten",
+      "das Flusensieb reinigen",
+      "den Hausmeister anrufen"
+     ],
+     "r": 1,
+     "e": "„… das Flusensieb im Trockner reinigen.“"
+    }
+   ]
+  },
+  {
+   "id": "rz135",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief vom Jobcenter: Einladung",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Jobcenter Dresden",
+     "text": "Sehr geehrte Frau Iwanowa,\nwir laden Sie zu einem Gespräch über Ihre berufliche Situation ein. Termin: Dienstag, 4. November, 9:30 Uhr, Zimmer 214. Bitte bringen Sie Ihren Lebenslauf und Ihr B1-Zertifikat mit. Wenn Sie den Termin ohne wichtigen Grund nicht wahrnehmen, kann Ihr Bürgergeld gekürzt werden. Wenn Sie krank sind, schicken Sie uns bitte eine Bescheinigung vom Arzt.\nMit freundlichen Grüßen"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was soll Frau Iwanowa mitbringen?",
+     "o": [
+      "ihren Mietvertrag",
+      "Lebenslauf und B1-Zertifikat",
+      "Kontoauszüge"
+     ],
+     "r": 1,
+     "e": "Lebenslauf und B1-Zertifikat."
+    },
+    {
+     "q": "Was passiert, wenn sie ohne Grund nicht kommt?",
+     "o": [
+      "nichts",
+      "Das Bürgergeld kann gekürzt werden.",
+      "Sie bekommt einen neuen Termin."
+     ],
+     "r": 1,
+     "e": "„… kann Ihr Bürgergeld gekürzt werden.“"
+    },
+    {
+     "q": "Wenn sie krank ist, …",
+     "o": [
+      "ruft sie an.",
+      "schickt sie eine Bescheinigung vom Arzt.",
+      "kommt sie trotzdem."
+     ],
+     "r": 1,
+     "e": "Bescheinigung vom Arzt."
+    }
+   ]
+  },
+  {
+   "id": "rz136",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Kostenloser Nahverkehr",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Lokalnachrichten",
+     "text": "Am kommenden Samstag fahren alle Busse und Bahnen in der Stadt kostenlos. Der Grund: Die Verkehrsbetriebe feiern ihren 150. Geburtstag. Außerdem gibt es im Straßenbahnmuseum einen Tag der offenen Tür mit Fahrten in historischen Straßenbahnen. Für Kinder gibt es ein Gewinnspiel."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Warum ist der Nahverkehr kostenlos?",
+     "o": [
+      "wegen eines Streiks",
+      "wegen eines Geburtstags der Verkehrsbetriebe",
+      "wegen der Umwelt"
+     ],
+     "r": 1,
+     "e": "150. Geburtstag."
+    },
+    {
+     "q": "Was kann man im Museum machen?",
+     "o": [
+      "in alten Straßenbahnen fahren",
+      "Fahrkarten kaufen",
+      "einen Führerschein machen"
+     ],
+     "r": 0,
+     "e": "Fahrten in historischen Straßenbahnen."
+    }
+   ]
+  },
+  {
+   "id": "rz137",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information der Stadtwerke: Abschlag",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Stadtwerke – Ihre Jahresabrechnung",
+     "text": "Sehr geehrter Kunde,\nmit diesem Schreiben erhalten Sie Ihre Jahresabrechnung für Strom. Sie haben weniger Strom verbraucht als im letzten Jahr. Deshalb bekommen Sie 84 Euro zurück. Wir überweisen den Betrag in den nächsten Tagen auf Ihr Konto. Ihr neuer monatlicher Abschlag beträgt ab Februar 52 Euro statt 58 Euro."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was bekommt der Kunde?",
+     "o": [
+      "eine Nachzahlung",
+      "84 Euro zurück",
+      "einen neuen Zähler"
+     ],
+     "r": 1,
+     "e": "„… bekommen Sie 84 Euro zurück.“"
+    },
+    {
+     "q": "Wie hoch ist der neue Abschlag?",
+     "o": [
+      "52 Euro",
+      "58 Euro",
+      "84 Euro"
+     ],
+     "r": 0,
+     "e": "Ab Februar 52 Euro."
+    }
+   ]
+  },
+  {
+   "id": "rz138",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Aushang in der Kita: Laternenfest",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Kita Pusteblume",
+     "text": "Liebe Familien,\nam Freitag, dem 7. November, feiern wir um 17 Uhr unser Laternenfest. Wir laufen mit den Laternen durch den Park und singen Lieder. Danach gibt es im Garten Kinderpunsch und Brezeln. Die Laternen basteln die Kinder in der Kita. Bitte bringen Sie für Ihr Kind einen Stab mit Licht mit (keine Kerzen!). Geschwister und Großeltern sind herzlich willkommen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wann ist das Laternenfest?",
+     "o": [
+      "Freitag um 17 Uhr",
+      "Freitag um 7 Uhr",
+      "Samstag um 17 Uhr"
+     ],
+     "r": 0,
+     "e": "7. November, 17 Uhr."
+    },
+    {
+     "q": "Was sollen die Eltern mitbringen?",
+     "o": [
+      "eine Laterne",
+      "einen Stab mit Licht",
+      "Kerzen"
+     ],
+     "r": 1,
+     "e": "Stab mit Licht, keine Kerzen."
+    },
+    {
+     "q": "Wer darf mitkommen?",
+     "o": [
+      "nur Eltern",
+      "auch Geschwister und Großeltern",
+      "nur die Kinder"
+     ],
+     "r": 1,
+     "e": "Geschwister und Großeltern willkommen."
+    }
+   ]
+  },
+  {
+   "id": "rz139",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief vom Arbeitgeber: Urlaubsplanung",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Möbelhaus Hansen – Personalabteilung",
+     "text": "Liebe Mitarbeiterinnen und Mitarbeiter,\nbitte tragen Sie Ihre Urlaubswünsche für das nächste Jahr bis zum 15. Dezember in die Liste ein. Im Dezember ist wegen des Weihnachtsgeschäfts kein Urlaub möglich. Wer Kinder im Schulalter hat, bekommt in den Sommerferien Vorrang. Sie bekommen Ihre Bestätigung bis Ende Januar."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Bis wann trägt man die Urlaubswünsche ein?",
+     "o": [
+      "bis 15. Dezember",
+      "bis Ende Januar",
+      "bis Ostern"
+     ],
+     "r": 0,
+     "e": "„… bis zum 15. Dezember …“"
+    },
+    {
+     "q": "Wann ist kein Urlaub möglich?",
+     "o": [
+      "im Sommer",
+      "im Dezember",
+      "im Januar"
+     ],
+     "r": 1,
+     "e": "Wegen Weihnachtsgeschäft."
+    },
+    {
+     "q": "Wer bekommt in den Sommerferien zuerst Urlaub?",
+     "o": [
+      "neue Mitarbeiter",
+      "Eltern von Schulkindern",
+      "Chefs"
+     ],
+     "r": 1,
+     "e": "Vorrang für Eltern mit Schulkindern."
+    }
+   ]
+  },
+  {
+   "id": "rz140",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Integrationspreis",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Sächsische Nachrichten",
+     "text": "Der Integrationspreis der Stadt geht in diesem Jahr an das Projekt „Nachbarn kochen“. Seit drei Jahren treffen sich dort jeden Monat Menschen aus über 20 Ländern, um zusammen zu kochen und zu essen. Die Gruppe hat auch ein Kochbuch mit 60 Rezepten herausgegeben. Der Preis ist mit 2.000 Euro dotiert. Das Geld soll für eine neue Küche verwendet werden."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was macht das Projekt?",
+     "o": [
+      "Es hilft bei der Wohnungssuche.",
+      "Menschen kochen und essen zusammen.",
+      "Es gibt Deutschkurse."
+     ],
+     "r": 1,
+     "e": "Zusammen kochen und essen."
+    },
+    {
+     "q": "Wofür wird das Preisgeld benutzt?",
+     "o": [
+      "für eine Reise",
+      "für eine neue Küche",
+      "für ein zweites Kochbuch"
+     ],
+     "r": 1,
+     "e": "„… für eine neue Küche …“"
+    }
+   ]
+  },
+  {
+   "id": "rz141",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information: Bibliotheksausweis",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Stadtbibliothek – Anmeldung",
+     "text": "Für einen Bibliotheksausweis brauchen Sie einen Personalausweis oder Pass und eine Meldebescheinigung. Kinder unter 14 Jahren brauchen die Unterschrift eines Elternteils. Der Ausweis kostet für Erwachsene 18 Euro im Jahr, mit Sozialpass nur 5 Euro. Kinder und Jugendliche zahlen nichts. Mit dem Ausweis können Sie bis zu 30 Medien gleichzeitig ausleihen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was kostet der Ausweis mit Sozialpass?",
+     "o": [
+      "nichts",
+      "5 Euro",
+      "18 Euro"
+     ],
+     "r": 1,
+     "e": "„… mit Sozialpass nur 5 Euro.“"
+    },
+    {
+     "q": "Was brauchen Kinder unter 14?",
+     "o": [
+      "einen Pass",
+      "die Unterschrift eines Elternteils",
+      "ein Foto"
+     ],
+     "r": 1,
+     "e": "Unterschrift eines Elternteils."
+    }
+   ]
+  },
+  {
+   "id": "rz142",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief der Ausländerbehörde",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Landeshauptstadt – Ausländerbehörde",
+     "text": "Sehr geehrter Herr Petrov,\nIhre Aufenthaltserlaubnis ist noch bis zum 31. März gültig. Bitte beantragen Sie die Verlängerung rechtzeitig, spätestens sechs Wochen vorher. Den Antrag können Sie online stellen. Bitte laden Sie dabei ein aktuelles biometrisches Foto, Ihren Arbeitsvertrag und Ihre letzten drei Gehaltsabrechnungen hoch. Nach der Prüfung bekommen Sie einen Termin per E-Mail."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Bis wann ist die Aufenthaltserlaubnis gültig?",
+     "o": [
+      "bis 31. März",
+      "sechs Wochen",
+      "bis Ende des Jahres"
+     ],
+     "r": 0,
+     "e": "„… bis zum 31. März gültig.“"
+    },
+    {
+     "q": "Wie stellt Herr Petrov den Antrag?",
+     "o": [
+      "persönlich ohne Termin",
+      "online",
+      "per Fax"
+     ],
+     "r": 1,
+     "e": "„… online stellen.“"
+    },
+    {
+     "q": "Was muss er hochladen?",
+     "o": [
+      "seinen Mietvertrag",
+      "Foto, Arbeitsvertrag, Gehaltsabrechnungen",
+      "seinen Führerschein"
+     ],
+     "r": 1,
+     "e": "Foto, Arbeitsvertrag, drei Gehaltsabrechnungen."
+    }
+   ]
+  },
+  {
+   "id": "rz143",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Aushang im Supermarkt: Pfand",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Information für unsere Kunden",
+     "text": "Unser Pfandautomat ist ab Montag für etwa eine Woche außer Betrieb, weil wir einen neuen Automaten bekommen. In dieser Zeit können Sie Ihre Pfandflaschen an der Information abgeben. Sie bekommen dort einen Bon, den Sie an der Kasse einlösen können. Glasflaschen ohne Pfand gehören in die Container auf dem Parkplatz."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Warum funktioniert der Automat nicht?",
+     "o": [
+      "Er ist kaputt.",
+      "Es kommt ein neuer Automat.",
+      "Es gibt kein Pfand mehr."
+     ],
+     "r": 1,
+     "e": "Neuer Automat."
+    },
+    {
+     "q": "Wo gibt man die Flaschen in dieser Zeit ab?",
+     "o": [
+      "an der Information",
+      "an der Kasse",
+      "auf dem Parkplatz"
+     ],
+     "r": 0,
+     "e": "An der Information."
+    }
+   ]
+  },
+  {
+   "id": "rz144",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Hitzewarnung",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Wetterdienst",
+     "text": "Für die nächsten Tage warnt der Deutsche Wetterdienst vor großer Hitze mit bis zu 35 Grad. Ärzte raten, viel Wasser zu trinken und in der Mittagszeit nicht in die Sonne zu gehen. Besonders ältere Menschen und kleine Kinder sind in Gefahr. Die Stadt öffnet in dieser Zeit zusätzliche kühle Räume in der Bibliothek und im Rathaus."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was raten Ärzte?",
+     "o": [
+      "viel Sport zu machen",
+      "viel Wasser zu trinken",
+      "nur abends zu essen"
+     ],
+     "r": 1,
+     "e": "Viel Wasser trinken."
+    },
+    {
+     "q": "Was macht die Stadt?",
+     "o": [
+      "Sie schließt die Schulen.",
+      "Sie öffnet kühle Räume.",
+      "Sie verteilt Ventilatoren."
+     ],
+     "r": 1,
+     "e": "Zusätzliche kühle Räume."
+    }
+   ]
+  },
+  {
+   "id": "rz145",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief der Kita: Gebühren",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Eigenbetrieb Kindertageseinrichtungen",
+     "text": "Sehr geehrte Eltern,\nab dem 1. Januar erhöhen sich die Elternbeiträge für einen Krippenplatz (9 Stunden) von 240 Euro auf 260 Euro im Monat. Für einen Kindergartenplatz zahlen Sie dann 175 Euro. Familien mit geringem Einkommen können beim Jugendamt eine Ermäßigung beantragen. Das Essen ist nicht im Beitrag enthalten und wird extra berechnet."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie viel kostet ein Krippenplatz ab Januar?",
+     "o": [
+      "175 Euro",
+      "240 Euro",
+      "260 Euro"
+     ],
+     "r": 2,
+     "e": "Von 240 auf 260 Euro."
+    },
+    {
+     "q": "Wo kann man eine Ermäßigung beantragen?",
+     "o": [
+      "bei der Kita",
+      "beim Jugendamt",
+      "beim Jobcenter"
+     ],
+     "r": 1,
+     "e": "Beim Jugendamt."
+    },
+    {
+     "q": "Das Essen …",
+     "o": [
+      "ist kostenlos.",
+      "ist im Beitrag enthalten.",
+      "kostet extra."
+     ],
+     "r": 2,
+     "e": "„… wird extra berechnet.“"
+    }
+   ]
+  },
+  {
+   "id": "rz146",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information: Sperrmüll",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Abfallwirtschaft – Sperrmüll anmelden",
+     "text": "Alte Möbel, Matratzen und Teppiche können Sie zweimal im Jahr kostenlos abholen lassen. Melden Sie den Sperrmüll online oder telefonisch an. Sie bekommen einen Termin. Stellen Sie die Sachen erst am Abend vorher an die Straße. Elektrogeräte wie Kühlschränke gehören nicht zum Sperrmüll; bringen Sie diese bitte zum Wertstoffhof."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie oft ist die Abholung kostenlos?",
+     "o": [
+      "einmal im Jahr",
+      "zweimal im Jahr",
+      "jeden Monat"
+     ],
+     "r": 1,
+     "e": "Zweimal im Jahr."
+    },
+    {
+     "q": "Wann stellt man die Sachen an die Straße?",
+     "o": [
+      "eine Woche vorher",
+      "am Abend vorher",
+      "am Morgen danach"
+     ],
+     "r": 1,
+     "e": "Am Abend vorher."
+    },
+    {
+     "q": "Was macht man mit einem alten Kühlschrank?",
+     "o": [
+      "zum Sperrmüll stellen",
+      "zum Wertstoffhof bringen",
+      "in die Mülltonne werfen"
+     ],
+     "r": 1,
+     "e": "Elektrogeräte → Wertstoffhof."
+    }
+   ]
+  },
+  {
+   "id": "rz147",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Aushang: Hofreinigung",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Liebe Hausgemeinschaft!",
+     "text": "Am Samstag, dem 12. April, machen wir von 10 bis 13 Uhr den Frühjahrsputz im Hof. Wir pflanzen neue Blumen, fegen den Hof und streichen die Bänke. Werkzeug und Farbe sind da. Bitte bringen Sie Handschuhe mit. Danach grillen wir zusammen – die Hausverwaltung bezahlt Würstchen und Getränke. Wir freuen uns über jede Hilfe!"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was macht man am 12. April?",
+     "o": [
+      "ein Sommerfest",
+      "den Hof sauber machen",
+      "eine Versammlung"
+     ],
+     "r": 1,
+     "e": "Frühjahrsputz im Hof."
+    },
+    {
+     "q": "Was sollen die Nachbarn mitbringen?",
+     "o": [
+      "Farbe",
+      "Handschuhe",
+      "Würstchen"
+     ],
+     "r": 1,
+     "e": "Handschuhe."
+    },
+    {
+     "q": "Wer bezahlt das Essen?",
+     "o": [
+      "jeder selbst",
+      "die Hausverwaltung",
+      "der Hausmeister"
+     ],
+     "r": 1,
+     "e": "Die Hausverwaltung."
+    }
+   ]
+  },
+  {
+   "id": "rz148",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Neues Ärztehaus",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Stadtteilzeitung Gorbitz",
+     "text": "Im Stadtteil Gorbitz hat ein neues Ärztehaus eröffnet. Dort arbeiten zwei Hausärzte, eine Kinderärztin und ein Zahnarzt. Alle nehmen noch neue Patienten auf. Das Haus ist barrierefrei und liegt direkt an der Straßenbahnhaltestelle. Im Erdgeschoss gibt es auch eine Apotheke."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wer arbeitet im Ärztehaus?",
+     "o": [
+      "nur Zahnärzte",
+      "Hausärzte, eine Kinderärztin und ein Zahnarzt",
+      "ein Krankenhaus"
+     ],
+     "r": 1,
+     "e": "Zwei Hausärzte, Kinderärztin, Zahnarzt."
+    },
+    {
+     "q": "Die Ärzte …",
+     "o": [
+      "nehmen keine neuen Patienten.",
+      "nehmen noch neue Patienten auf.",
+      "arbeiten nur privat."
+     ],
+     "r": 1,
+     "e": "„… nehmen noch neue Patienten auf.“"
+    }
+   ]
+  },
+  {
+   "id": "rz149",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief der Bank: neue Karte",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Ihre Sparkasse",
+     "text": "Sehr geehrte Kundin,\nIhre Sparkassen-Card läuft Ende Mai ab. Ihre neue Karte schicken wir Ihnen in den nächsten Tagen per Post. Ihre PIN bleibt gleich. Bitte zerschneiden Sie die alte Karte, wenn Sie die neue bekommen haben. Wenn die Karte bis zum 20. Mai nicht da ist, melden Sie sich bitte in Ihrer Filiale."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was passiert mit der PIN?",
+     "o": [
+      "Sie bekommen eine neue PIN.",
+      "Die PIN bleibt gleich.",
+      "Sie müssen eine neue PIN wählen."
+     ],
+     "r": 1,
+     "e": "„Ihre PIN bleibt gleich.“"
+    },
+    {
+     "q": "Was soll man mit der alten Karte machen?",
+     "o": [
+      "zurückschicken",
+      "zerschneiden",
+      "behalten"
+     ],
+     "r": 1,
+     "e": "Zerschneiden."
+    },
+    {
+     "q": "Wenn die neue Karte bis 20. Mai nicht da ist, …",
+     "o": [
+      "meldet man sich in der Filiale.",
+      "bestellt man online eine neue.",
+      "wartet man bis Juni."
+     ],
+     "r": 0,
+     "e": "In der Filiale melden."
+    }
+   ]
+  },
+  {
+   "id": "rz150",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information: Wahl",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Wahlbenachrichtigung – Hinweise",
+     "text": "Mit dieser Karte können Sie am Wahlsonntag von 8 bis 18 Uhr in Ihrem Wahllokal wählen. Bringen Sie die Karte und Ihren Personalausweis mit. Wenn Sie am Wahltag nicht da sind, können Sie Briefwahl beantragen – mit dem Formular auf der Rückseite oder online. Die Unterlagen müssen spätestens am Wahltag um 18 Uhr bei der Stadt sein."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was braucht man im Wahllokal?",
+     "o": [
+      "nur die Karte",
+      "die Karte und den Personalausweis",
+      "einen Termin"
+     ],
+     "r": 1,
+     "e": "Karte und Personalausweis."
+    },
+    {
+     "q": "Bis wann müssen die Briefwahlunterlagen da sein?",
+     "o": [
+      "am Wahltag um 18 Uhr",
+      "eine Woche vorher",
+      "am Montag danach"
+     ],
+     "r": 0,
+     "e": "Spätestens am Wahltag 18 Uhr."
+    }
+   ]
+  },
+  {
+   "id": "rz151",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Aushang im Treppenhaus: Heizung",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Mitteilung an alle Mieter",
+     "text": "In der nächsten Woche wird die Heizungsanlage gewartet. Am Dienstag zwischen 8 und 14 Uhr gibt es kein warmes Wasser und die Heizung ist aus. Bitte drehen Sie in dieser Zeit die Heizkörper nicht ganz auf, wenn die Heizung wieder angeht, damit die Anlage langsam starten kann. Bei Fragen erreichen Sie den Hausmeister unter 0351 456 78."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was gibt es am Dienstag nicht?",
+     "o": [
+      "Strom",
+      "warmes Wasser und Heizung",
+      "Internet"
+     ],
+     "r": 1,
+     "e": "Kein warmes Wasser, Heizung aus."
+    },
+    {
+     "q": "Warum wird die Heizung ausgemacht?",
+     "o": [
+      "weil sie kaputt ist",
+      "wegen einer Wartung",
+      "um Geld zu sparen"
+     ],
+     "r": 1,
+     "e": "Wartung."
+    }
+   ]
+  },
+  {
+   "id": "rz152",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Sprachkurse für Eltern",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Stadtnachrichten",
+     "text": "An fünf Grundschulen der Stadt starten im Herbst neue Deutschkurse für Eltern. Die Kurse finden vormittags statt, während die Kinder Unterricht haben. Kleine Geschwister können in der Zeit in eine Spielgruppe. Die Teilnahme ist kostenlos. Anmeldung im Sekretariat der jeweiligen Schule."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wann finden die Kurse statt?",
+     "o": [
+      "abends",
+      "vormittags",
+      "am Wochenende"
+     ],
+     "r": 1,
+     "e": "Vormittags."
+    },
+    {
+     "q": "Was ist mit kleinen Geschwistern?",
+     "o": [
+      "Sie dürfen nicht mitkommen.",
+      "Sie können in eine Spielgruppe.",
+      "Sie sitzen im Kurs."
+     ],
+     "r": 1,
+     "e": "Spielgruppe."
+    },
+    {
+     "q": "Wo meldet man sich an?",
+     "o": [
+      "im Rathaus",
+      "im Sekretariat der Schule",
+      "online"
+     ],
+     "r": 1,
+     "e": "Im Sekretariat der Schule."
+    }
+   ]
+  },
+  {
+   "id": "rz153",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief der Hausverwaltung: Mieterhöhung",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Wohnungsgesellschaft Elbtal",
+     "text": "Sehr geehrte Familie Koval,\nwir möchten Ihre Kaltmiete ab dem 1. Juli um 35 Euro auf 545 Euro im Monat erhöhen. Die neue Miete liegt im Rahmen des Mietspiegels Ihrer Stadt. Bitte schicken Sie uns die unterschriebene Zustimmung bis zum 31. Mai zurück. Wenn Sie Fragen haben, können Sie sich gern an uns oder an einen Mieterverein wenden."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wie hoch ist die neue Kaltmiete?",
+     "o": [
+      "35 Euro",
+      "510 Euro",
+      "545 Euro"
+     ],
+     "r": 2,
+     "e": "Auf 545 Euro."
+    },
+    {
+     "q": "Ab wann gilt die neue Miete?",
+     "o": [
+      "ab 31. Mai",
+      "ab 1. Juli",
+      "ab sofort"
+     ],
+     "r": 1,
+     "e": "Ab 1. Juli."
+    },
+    {
+     "q": "Bis wann soll die Familie antworten?",
+     "o": [
+      "bis 31. Mai",
+      "bis 1. Juli",
+      "bis Ende des Jahres"
+     ],
+     "r": 0,
+     "e": "Zustimmung bis 31. Mai."
+    }
+   ]
+  },
+  {
+   "id": "rz154",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information der Arztpraxis: Videosprechstunde",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "ru": "Прочитайте текст. Что верно?",
+   "texte": [
+    {
+     "k": "Hausarztpraxis Dr. Weber",
+     "text": "Liebe Patientinnen und Patienten,\nab sofort bieten wir auch Videosprechstunden an. Sie eignen sich gut für Fragen zu Laborwerten, zur Verlängerung einer Krankschreibung oder für Folgerezepte. Für eine erste Untersuchung müssen Sie aber in die Praxis kommen. Termine buchen Sie online. Sie brauchen ein Handy oder einen Computer mit Kamera."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wofür eignet sich die Videosprechstunde?",
+     "o": [
+      "für eine erste Untersuchung",
+      "für Fragen zu Laborwerten",
+      "für Impfungen"
+     ],
+     "r": 1,
+     "e": "Laborwerte, Krankschreibung, Folgerezepte."
+    },
+    {
+     "q": "Was braucht man?",
+     "o": [
+      "ein Gerät mit Kamera",
+      "eine Überweisung",
+      "nichts"
+     ],
+     "r": 0,
+     "e": "Handy oder Computer mit Kamera."
+    }
+   ]
+  }
+ ]
+}

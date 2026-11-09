@@ -2,7 +2,7 @@
 
 Stand: 08.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
 
-**Zuletzt komplett geprüft:** 09.11.2026 nach J2 (Code, Inhalte und Veröffentlichung abgeglichen).
+**Zuletzt komplett geprüft:** 09.11.2026 nach J4 (Code, Inhalte und Veröffentlichung abgeglichen).
 Zeichen: ✅ eingebaut/fertig · 🟡 teilweise · ⏳ in Arbeit · ⬜ offen · ❓ Entscheidung von Mario nötig
 Claude aktualisiert diesen Plan nach **jedem** Arbeitsschritt selbstständig.
 
@@ -30,7 +30,7 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 
 ---
 
-## 2. Stand heute (geprüft am 09.11.2026 nach J2)
+## 2. Stand heute (geprüft am 09.11.2026 nach J4)
 
 | Bereich | Stand | |
 |---|---|---|
@@ -39,7 +39,7 @@ Der letzte Versuch zeigt das typische Bild: **Lesen und Hören sind solide, Schr
 | Schreibaufgaben | 118 (A2, B1, B2, DTZ und DTB; laufend mehr) | ✅ |
 | **Grundkurs von vorn** | 13 Stufen von „Verb auf Platz 2“ bis „Passiv“ plus Abschluss; Freischaltung ab 80 %; A2-Sätze zuerst | ✅ |
 | **Prüfung DTB** | 260 Leseaufgaben (Teil 1–4) · 55 E-Mails · 42 Telefonnotizen · 34 Forumsbeiträge · 52 Sprachbausteine · 21 Vorträge · 30 Fragerunden · 26 Diskussionen · 21 Lösung finden · 208 Hörtexte · 60 Dialoge | ✅ |
-| **Prüfung DTZ** | 38 Briefe · 79 Leseaufgaben · 33 Brief-Lückentexte · 26 Erzählthemen · 21 Fragerunden · 23 Gemeinsam planen · 80 Hörtexte · 30 Dialoge | ✅ |
+| **Prüfung DTZ** | 38 Briefe · 208 Leseaufgaben · 33 Brief-Lückentexte · 26 Erzählthemen · 21 Fragerunden · 23 Gemeinsam planen · 208 Hörtexte · 30 Dialoge | ✅ |
 | Prüfungsrechner | Punkte eintragen → bestanden ja/nein nach DTB-Regel und neuer DTZ-Regel (ab 1.11.2026) | ✅ |
 | Übungen | Karteikarten, Satz bauen, Wo steht das Verb?, Richtig oder falsch?, Diktat, **Endungen (Kasus/Adjektive, 239 Sätze)**, Hörtraining, Bedeutung, der/die/das, Lückentext, Wortart, Schreiben mit Checkliste und Timer · Wort markieren (lange drücken) → Erklärung, Formen, Beispiel, Vorlesen, Übersetzung auf Tipp (offline) | ✅ |
 | Tagesmix | 20 Aufgaben, jede zweite Satzbau-Aufgabe aus den schwächsten Grammatik-Themen | ✅ |
@@ -78,7 +78,7 @@ Jeder Inhalts-Meilenstein bringt ungefähr **+400 Wörter, +250 Sätze und +30 P
 | M16 | Wörter-Paket B | Restlücke bis ≈ 7.000 geschlossen: +1.029 Wörter (häufige Nomen/Verben B1/B2 und alle Wörter, die in Sätzen und Prüfungstexten der App vorkamen, aber im Wörterbuch fehlten) · +155 Sätze für die schwächsten Themen (Relativsatz/zu-Infinitiv/indirekte Frage A2, Konnektoren B1, Fragen B2) · neue Funktion „Wort markieren → Erklärung + Übersetzung“ | ✅ fertig |
 | M17 | Abschluss Phase 1 | Qualitätscheck bestanden: keine doppelten Wörter/Sätze/IDs, alle Felder gefüllt, 241 alte Sätze nachträglich mit Verb markiert (jetzt 3.900 von 3.905, Rest ohne Verb wie „Gute Besserung!“), Prüfungsaufgaben geprüft (Antworten, Lücken, DTB/DTZ-Zuordnung), Browser-Test aller Bereiche · dazu: Vorlesen mit Pause/Weiter/Stopp bei langen Texten, automatisches Vorlesen standardmäßig aus | ✅ fertig |
 
-**Stand:** 17 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 7.235 Wörter · 4.129 Sätze · 118 Schreibaufgaben · 1109 Prüfungsaufgaben.
+**Stand:** 17 von 17 Meilensteinen (Phase 1) fertig. Aktuell: 7.235 Wörter · 4.129 Sätze · 118 Schreibaufgaben · 1366 Prüfungsaufgaben.
 
 
 **Phase 1 ist abgeschlossen (04.11.2026).** Danach am 08.11.2026: Ausbau aus Lehrbuch-Auswertung (Abschnitt 2c, L1–L5 fertig). Nächster Schritt nach Rücksprache mit Mario: M18 (Datenstruktur für mehrere Sprachen) oder zuerst die offenen ❓-Punkte aus Abschnitt 4 (z. B. Dialoge, Lesen DTB, Prüfungssimulation).
@@ -108,7 +108,7 @@ Mario hat 9 PDFs geschickt (DTB-Lesetraining, telc B2, „Mit Erfolg zu telc B2�
 
 **Ziel:** Ein Deutschkurs dauert viele Monate, und die App wird später von vielen Lernenden genutzt. Deshalb soll es **mindestens ein Jahr** lang nicht langweilig werden: wöchentlich eine komplette Simulation und tägliches Training, ohne dass sich Aufgaben spürbar wiederholen.
 
-**Rechnung:** 52 Simulationen pro Jahr × Aufgaben pro Simulation = Zielmenge je Prüfungsteil. Stand nach L8: es fehlten **ca. 900 Prüfungsaufgaben**; nach J1 + J2 noch **ca. 620**. Die DTB-Simulation reicht bei Lesen und Hören jetzt für 52 Durchgänge ohne Wiederholung.
+**Rechnung:** 52 Simulationen pro Jahr × Aufgaben pro Simulation = Zielmenge je Prüfungsteil. Stand nach L8: es fehlten **ca. 900 Prüfungsaufgaben**; nach J1–J4 noch **ca. 360** (J5–J7). DTB und DTZ reichen bei Lesen und Hören jetzt für 52 Simulationen ohne Wiederholung.
 
 **Schon eingebaut (09.11.2026):** Aufgaben, die länger als **6 Monate** nicht geübt wurden, gelten wieder als „neu“ (Training und Simulation). Ist ein Teil komplett geübt, nimmt die Simulation die am längsten nicht gesehenen Aufgaben. Damit gibt es nie einen „leeren“ Teil – die neuen Pakete sorgen dafür, dass Wiederholungen erst nach einem Jahr kommen.
 
@@ -116,8 +116,8 @@ Mario hat 9 PDFs geschickt (DTB-Lesetraining, telc B2, „Mit Erfolg zu telc B2�
 |---|---|---|---|---|
 | J1 | DTB Lesen | Teil 1 → 52, Teil 2 → 104, Teil 3 → 52, Teil 4 → 52 (Teil 4 jetzt auch mit Berichten aus der Mitarbeiterzeitung, nicht nur Protokollen) | 160 | ✅ fertig (09.11.2026) |
 | J2 | DTB Hören | 80 → 208 (Durchsagen, Mailbox, Gespräche am Arbeitsplatz, Besprechungen, Radiobeiträge) | 128 | ✅ fertig (09.11.2026) |
-| J3 | DTZ Hören | 80 → 208 | ≈ 128 | ⬜ |
-| J4 | DTZ Lesen | 79 → 208 (Wegweiser, Anzeigen, Presse, Briefe) | ≈ 129 | ⬜ |
+| J3 | DTZ Hören | 80 → 208 (Ansagen am Telefon, Anrufbeantworter, Durchsagen, Radio, Alltagsgespräche) | 128 | ✅ fertig (09.11.2026) |
+| J4 | DTZ Lesen | 79 → 208 (40 Wegweiser, 40 Anzeigen mit X, 49 Briefe/Aushänge/Zeitungsmeldungen) | 129 | ✅ fertig (09.11.2026) |
 | J5 | Schreiben | DTB Sprachbausteine → 104, Forum → 52, Telefonnotiz → 52 · DTZ Brief-Lückentext → 52, Briefe → 104 | ≈ 165 | ⬜ |
 | J6 | Sprechen | Vortrag, Prüferfragen, Diskussion, Lösung finden (DTB) und Erzählen, Sich vorstellen, Gemeinsam planen (DTZ) je → 52 | ≈ 195 | ⬜ |
 | J7 | Training | Dialoge 60 → 150, Endungen 239 → 500, Schreibaufgaben 118 → 200 | ≈ 450 | ⬜ |
