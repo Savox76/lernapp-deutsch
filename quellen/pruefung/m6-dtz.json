@@ -1,55 +1,975 @@
-{"brief": [
-{"id":"b21","ex":["DTZ"],"t":"Nachbarin: Schlüssel abgeben","situation":"Sie fahren eine Woche in Urlaub. Ihre Nachbarin, Frau Berger, soll Ihre Blumen gießen. Schreiben Sie ihr.","punkte":["Bitte","Wann sind Sie weg?","Was soll sie tun?","Wann bringen Sie den Schlüssel?"],"ru":"Попросите соседку поливать цветы во время отпуска: когда вас нет, что делать, когда принесёте ключ.","w":30,"rm":["Liebe Frau …,","ich habe eine Bitte:","Wir sind vom … bis zum … weg.","Könnten Sie bitte …?","Ich bringe Ihnen den Schlüssel am …"],"m":"Liebe Frau Berger,\n\nich habe eine Bitte: Wir fahren vom 3. bis zum 10. August in Urlaub.\n\nKönnten Sie bitte zweimal in dieser Woche unsere Blumen gießen? Die Blumen stehen im Wohnzimmer und auf dem Balkon. Die Post können Sie einfach auf den Tisch legen.\n\nIch bringe Ihnen den Schlüssel am Samstag um 18 Uhr.\n\nVielen Dank!\nOlga Iwanowa"},
-{"id":"b22","ex":["DTZ"],"t":"Kita: Abholung durch eine Freundin","situation":"Sie können Ihre Tochter heute nicht aus der Kita abholen. Eine Freundin holt sie ab. Schreiben Sie an die Erzieherin, Frau Sommer.","punkte":["Wer holt ab?","Warum?","Wann?","Bitte um Rückmeldung"],"ru":"Напишите воспитательнице: дочь заберёт подруга, почему, когда, просьба ответить.","w":30,"rm":["Liebe Frau …,","heute holt … meine Tochter ab.","Ich kann nicht, weil …","Sie kommt um …","Bitte geben Sie mir Bescheid, wenn …"],"m":"Liebe Frau Sommer,\n\nheute holt meine Freundin, Frau Natalia Petrenko, meine Tochter Mila ab.\n\nIch kann leider nicht kommen, weil ich länger arbeiten muss.\n\nFrau Petrenko kommt um 16 Uhr. Sie hat ihren Ausweis dabei.\n\nBitte geben Sie mir Bescheid, wenn es ein Problem gibt. Meine Handynummer ist 0157 223344.\n\nViele Grüße\nOlga Iwanowa"},
-{"id":"b23","ex":["DTZ"],"t":"Vermieter: Kündigung der Wohnung","situation":"Sie ziehen in eine andere Stadt. Schreiben Sie Ihrem Vermieter, Herrn Wolf, und kündigen Sie die Wohnung.","punkte":["Kündigung zum …","Grund","Termin für die Übergabe","Frage zur Kaution"],"ru":"Расторгните аренду квартиры: дата, причина, время передачи, вопрос о залоге.","w":30,"rm":["Sehr geehrter Herr …,","hiermit kündige ich meine Wohnung zum …","Der Grund ist, dass …","Wann können wir einen Termin für die Übergabe machen?","Wann bekomme ich die Kaution zurück?"],"m":"Sehr geehrter Herr Wolf,\n\nhiermit kündige ich meine Wohnung in der Gartenstraße 12, 2. Stock, zum 30. September.\n\nDer Grund ist, dass mein Mann eine neue Arbeit in Leipzig gefunden hat.\n\nWann können wir einen Termin für die Wohnungsübergabe machen? Ich habe Ende September jeden Tag ab 15 Uhr Zeit.\n\nWann bekomme ich meine Kaution zurück?\n\nMit freundlichen Grüßen\nOlga Iwanowa"},
-{"id":"b24","ex":["DTZ"],"t":"Freundin: Einladung zum Grillen","situation":"Sie möchten mit Freunden im Park grillen. Schreiben Sie Ihrer Freundin Anna.","punkte":["Einladung","Wann und wo?","Was soll sie mitbringen?","Bitte um Antwort"],"ru":"Пригласите подругу на барбекю в парке: когда и где, что принести, попросите ответить.","w":30,"rm":["Liebe …,","wir möchten am … grillen.","Wir treffen uns um … im …","Kannst du … mitbringen?","Schreib mir bitte bis …"],"m":"Liebe Anna,\n\nwir möchten am Samstag mit ein paar Freunden im Park grillen. Kommst du auch?\n\nWir treffen uns um 15 Uhr im Großen Garten, direkt am Spielplatz.\n\nKannst du einen Salat oder Brot mitbringen? Fleisch und Getränke haben wir schon.\n\nSchreib mir bitte bis Donnerstag, ob du kommst.\n\nLiebe Grüße\nOlga"},
-{"id":"b25","ex":["DTZ"],"t":"Arztpraxis: Impftermin für das Kind","situation":"Ihr Sohn braucht eine Impfung. Schreiben Sie eine E-Mail an die Kinderarztpraxis.","punkte":["Wer ist Ihr Kind?","Welche Impfung?","Wann haben Sie Zeit?","Was müssen Sie mitbringen?"],"ru":"Запишите сына на прививку: кто ребёнок, какая прививка, когда у вас время, что принести.","w":30,"rm":["Sehr geehrte Damen und Herren,","mein Sohn … braucht …","Ich habe … Zeit.","Was muss ich mitbringen?"],"m":"Sehr geehrte Damen und Herren,\n\nmein Sohn Artem Iwanow, geboren am 4. März 2019, braucht die zweite Impfung gegen Masern.\n\nIch habe jeden Tag ab 15 Uhr Zeit, am Mittwoch auch vormittags.\n\nWas muss ich mitbringen? Reicht der Impfpass, oder brauchen Sie auch die Versichertenkarte?\n\nMit freundlichen Grüßen\nOlga Iwanowa"},
-{"id":"b26","ex":["DTZ"],"t":"Sprachschule: Beschwerde über den Kursraum","situation":"In Ihrem Kursraum ist es immer sehr kalt, und die Tafel ist kaputt. Schreiben Sie an die Sprachschule.","punkte":["Welcher Kurs?","Was ist das Problem?","Seit wann?","Was sollen sie tun?"],"ru":"Пожалуйтесь в языковую школу: в классе холодно, доска сломана. Какой курс, проблема, с каких пор, что сделать.","w":30,"rm":["Ich besuche den Kurs …","Leider ist es im Kursraum …","Das ist seit … so.","Bitte …"],"m":"Sehr geehrte Damen und Herren,\n\nich besuche den Kurs B1 am Vormittag in Raum 204.\n\nLeider ist es im Kursraum sehr kalt, weil die Heizung nicht richtig funktioniert. Außerdem ist die Tafel kaputt, die Lehrerin kann nicht gut schreiben.\n\nDas ist seit zwei Wochen so.\n\nBitte reparieren Sie die Heizung und die Tafel, oder geben Sie uns einen anderen Raum.\n\nMit freundlichen Grüßen\nOlga Iwanowa"}
-],
-"lesen": [
-{"id":"r17","ex":["DTZ"],"t":"Wegweiser im Bürgerhaus","anweisung":"Wohin gehen Sie?","texte":[{"k":"Bürgerhaus","text":"EG: Café, Information, Saal (Veranstaltungen)\n1. OG: Migrationsberatung, Schuldnerberatung\n2. OG: Volkshochschule (Sprachkurse, Raum 201–210)\n3. OG: Jugendamt, Familienberatung"}],"fragen":[{"q":"Sie haben Probleme mit Schulden.","o":["EG","1. OG","3. OG"],"r":1},{"q":"Ihr Deutschkurs ist in Raum 205.","o":["1. OG","2. OG","3. OG"],"r":1},{"q":"Sie möchten Hilfe bei der Erziehung Ihres Kindes.","o":["1. OG","2. OG","3. OG"],"r":2},{"q":"Sie möchten einen Kaffee trinken.","o":["EG","1. OG","2. OG"],"r":0}]},
-{"id":"r18","ex":["DTZ"],"t":"Anzeigen: Möbel und Geräte","anweisung":"Welche Anzeige passt?","texte":[{"k":"A","text":"Kinderbett mit Matratze, wie neu, 40 €, nur Abholung."},{"k":"B","text":"Waschmaschine, 3 Jahre alt, funktioniert, 120 €, Lieferung möglich."},{"k":"C","text":"Sofa zu verschenken! Muss bis Samstag abgeholt werden."},{"k":"D","text":"Schreibtisch und Stuhl für Schüler, 35 € zusammen."}],"fragen":[{"q":"Familie Ali hat kein Geld, braucht aber ein Sofa.","o":["A","C","D"],"r":1},{"q":"Frau Weber hat kein Auto und braucht eine Waschmaschine.","o":["A","B","D"],"r":1},{"q":"Herr Petrov sucht einen Arbeitsplatz für seinen Sohn.","o":["A","C","D"],"r":2},{"q":"Familie Kim bekommt ein Baby.","o":["A","B","C"],"r":0}]},
-{"id":"r19","ex":["DTZ"],"t":"Information der Stadtwerke","anweisung":"Lesen Sie den Text. Was ist richtig?","texte":[{"k":"Information","text":"Wegen Bauarbeiten wird am Dienstag, 12. März, von 8 bis 14 Uhr in der Lindenstraße 1–20 das Wasser abgestellt. Bitte füllen Sie vorher Wasser in Flaschen ab. Nach den Arbeiten kann das Wasser für kurze Zeit braun sein. Lassen Sie es dann einige Minuten laufen."}],"fragen":[{"q":"Was passiert am 12. März?","o":["Es gibt kein Wasser.","Es gibt keinen Strom.","Die Straße ist gesperrt."],"r":0},{"q":"Was soll man tun, wenn das Wasser braun ist?","o":["einige Minuten laufen lassen","die Stadtwerke anrufen","es nicht trinken und Flaschen kaufen"],"r":0}]},
-{"id":"r20","ex":["DTZ"],"t":"Kursprogramm Familienzentrum","anweisung":"Welches Angebot passt?","texte":[{"k":"A","text":"Babymassage für Eltern mit Babys bis 6 Monate, Di 10 Uhr, kostenlos."},{"k":"B","text":"Hausaufgabenhilfe für Grundschüler, Mo–Do 14–16 Uhr."},{"k":"C","text":"Elterncafé: Austausch und Beratung, Fr 9–11 Uhr, mit Dolmetscherin für Russisch und Arabisch."},{"k":"D","text":"Nähwerkstatt für Erwachsene, Sa 10–13 Uhr, 5 € pro Termin."}],"fragen":[{"q":"Frau Iwanowa möchte mit anderen Eltern sprechen und braucht noch Hilfe auf Russisch.","o":["A","C","D"],"r":1},{"q":"Herr Haddad hat ein Baby von 3 Monaten.","o":["A","B","C"],"r":0},{"q":"Der Sohn von Frau Lin braucht Hilfe bei Mathe (Klasse 2).","o":["B","C","D"],"r":0}]},
-{"id":"r21","ex":["DTZ"],"t":"Hausordnung: Waschküche","anweisung":"Lesen Sie den Aushang. Was ist richtig?","texte":[{"k":"Aushang","text":"Die Waschküche darf von Montag bis Samstag von 7 bis 20 Uhr benutzt werden. Bitte tragen Sie sich in den Plan an der Tür ein. Nach dem Waschen bitte das Flusensieb des Trockners reinigen. Wäsche nicht länger als einen Tag hängen lassen."}],"fragen":[{"q":"Wann darf man waschen?","o":["Mo–Sa 7–20 Uhr","jeden Tag","nur am Wochenende"],"r":0},{"q":"Was muss man nach dem Trocknen tun?","o":["das Flusensieb reinigen","den Boden wischen","den Hausmeister rufen"],"r":0}]},
-{"id":"r22","ex":["DTZ"],"t":"Zeitungsmeldung: Freibad","anweisung":"Lesen Sie die Meldung. Was ist richtig?","texte":[{"k":"Zeitung","text":"Das Freibad Süd öffnet in diesem Jahr schon am 15. Mai. Neu ist eine große Rutsche für Kinder ab sechs Jahren. Die Preise bleiben gleich: Erwachsene zahlen 4 Euro, Kinder 2 Euro. Familien können eine Saisonkarte für 80 Euro kaufen. Bei Regen bleibt das Bad geschlossen."}],"fragen":[{"q":"Was ist neu?","o":["eine Rutsche für Kinder","höhere Preise","ein Hallenbad"],"r":0},{"q":"Was kostet die Saisonkarte für Familien?","o":["80 Euro","4 Euro","40 Euro"],"r":0}]}
-],
-"hoeren": [
-{"id":"h59","ex":["DTZ"],"t":"Ansage am Bahnhof","situation":"Sie sind am Bahnhof.","text":"Achtung am Gleis 2: Die S-Bahn nach Pirna fährt heute von Gleis 4. Bitte beachten Sie die Lautsprecherdurchsagen.","fragen":[{"q":"Von welchem Gleis fährt die S-Bahn nach Pirna heute?","o":["Gleis 4","Gleis 2","Gleis 14"],"r":0}]},
-{"id":"h60","ex":["DTZ"],"t":"Nachricht vom Zahnarzt","situation":"Sie hören eine Nachricht auf dem Anrufbeantworter.","text":"Guten Tag, hier ist die Zahnarztpraxis Dr. Schmidt. Wir möchten Sie an Ihren Termin morgen um 9 Uhr 15 erinnern. Bitte denken Sie an Ihre Versichertenkarte und an das Bonusheft. Wenn Sie nicht kommen können, sagen Sie bitte bis heute 18 Uhr ab.","fragen":[{"q":"Wann ist der Termin?","o":["morgen um 9:15 Uhr","heute um 18 Uhr","morgen um 9:50 Uhr"],"r":0},{"q":"Was soll man mitbringen?","o":["Versichertenkarte und Bonusheft","eine Überweisung","den Ausweis"],"r":0}]},
-{"id":"h61","ex":["DTZ"],"t":"Gespräch beim Elternabend","situation":"Eine Mutter spricht mit dem Lehrer.","text":"– Herr Braun, mein Sohn sagt, dass er die Hausaufgaben oft nicht versteht. – Das habe ich auch bemerkt. Er ist ein kluger Junge, aber manchmal fehlen ihm noch die Wörter. Wir haben dienstags und donnerstags eine Hausaufgabenhilfe nach dem Unterricht. Das würde ihm sehr helfen. – Kostet das etwas? – Nein, das ist kostenlos. Sie müssen ihn nur bis Freitag anmelden.","fragen":[{"q":"Was ist das Problem des Sohnes?","o":["Er versteht die Hausaufgaben oft nicht.","Er kommt zu spät.","Er hat keine Freunde."],"r":0},{"q":"Was kostet die Hausaufgabenhilfe?","o":["nichts","5 Euro","10 Euro im Monat"],"r":0},{"rf":true,"q":"Man muss das Kind bis Freitag anmelden."}]},
-{"id":"h62","ex":["DTZ"],"t":"Radio: Stadtfest","situation":"Sie hören eine Information im Radio.","text":"Am Wochenende feiert Dresden sein Stadtfest. Wegen des Festes ist die Innenstadt für Autos gesperrt. Busse und Straßenbahnen fahren am Samstag und Sonntag bis 2 Uhr nachts. Das große Feuerwerk beginnt am Samstag um 22 Uhr an der Elbe.","fragen":[{"q":"Was ist am Wochenende für Autos gesperrt?","o":["die Innenstadt","die Autobahn","die Elbbrücken"],"r":0},{"q":"Wann beginnt das Feuerwerk?","o":["Samstag um 22 Uhr","Sonntag um 2 Uhr","Samstag um 20 Uhr"],"r":0}]},
-{"id":"h63","ex":["DTZ"],"t":"Gespräch mit dem Hausmeister","situation":"Eine Mieterin spricht mit dem Hausmeister.","text":"– Herr Krause, im Keller ist eine Lampe kaputt. Es ist ganz dunkel, und ich habe Angst, dass ich hinfalle. – Danke für den Hinweis. Ich habe heute leider keine Glühbirnen mehr, aber ich kaufe morgen früh welche und repariere es bis Mittag. – Super, danke!","fragen":[{"q":"Was ist kaputt?","o":["eine Lampe im Keller","die Kellertür","der Aufzug"],"r":0},{"q":"Wann repariert der Hausmeister die Lampe?","o":["morgen bis Mittag","heute","nächste Woche"],"r":0}]},
-{"id":"h64","ex":["DTZ"],"t":"Meinungen: Kinder und Handy","situation":"Im Radio sagen Hörer ihre Meinung.","text":"Frau Weber: Meine Kinder bekommen erst mit 12 ein Handy. Vorher brauchen sie es nicht. Herr Osman: Mein Sohn hat mit 9 Jahren ein Handy bekommen, damit ich ihn erreichen kann, wenn er allein zur Schule geht. Frau Novak: Das Alter ist nicht so wichtig. Wichtig sind klare Regeln, zum Beispiel kein Handy beim Essen.","fragen":[{"q":"Wer findet Regeln wichtiger als das Alter?","o":["Frau Novak","Frau Weber","Herr Osman"],"r":0},{"q":"Warum hat der Sohn von Herrn Osman ein Handy?","o":["damit der Vater ihn erreichen kann","für die Hausaufgaben","zum Spielen"],"r":0}]},
-{"id":"h65","ex":["DTZ"],"t":"Ansage im Kaufhaus","situation":"Sie sind im Kaufhaus.","text":"Liebe Kundinnen und Kunden, nur heute: 20 Prozent Rabatt auf alle Wintermäntel und Stiefel im ersten Stock. Und für unsere kleinen Gäste: Im dritten Stock wartet ab 15 Uhr der Weihnachtsmann mit einer Überraschung.","fragen":[{"q":"Was ist heute billiger?","o":["Wintermäntel und Stiefel","Spielzeug","Lebensmittel"],"r":0},{"q":"Wo ist ab 15 Uhr der Weihnachtsmann?","o":["im dritten Stock","im ersten Stock","am Eingang"],"r":0}]},
-{"id":"h66","ex":["DTZ"],"t":"Telefonat mit der Krankenkasse","situation":"Eine Frau ruft bei ihrer Krankenkasse an.","text":"– Krankenkasse, guten Tag. – Guten Tag, ich habe meine Versichertenkarte verloren. Was muss ich tun? – Sie können online oder per Post eine neue Karte bestellen. Wir brauchen ein aktuelles Foto. Die neue Karte kommt in etwa zwei Wochen. Bis dahin schicke ich Ihnen eine Bescheinigung für den Arzt. – Danke, das ist gut, ich habe nächste Woche einen Termin.","fragen":[{"q":"Was braucht die Krankenkasse?","o":["ein aktuelles Foto","den Reisepass","die alte Karte"],"r":0},{"q":"Was bekommt die Frau bis zur neuen Karte?","o":["eine Bescheinigung für den Arzt","eine Rechnung","nichts"],"r":0}]}
-],
-"sb": [
-{"id":"s44","ex":["DTZ"],"t":"Brief an die Kita","text":"Liebe Frau Sommer,\n\nmeine Tochter Mila {{1}} ab Montag in eine andere Kita, weil wir umziehen. Wir möchten uns {{2}} für die schöne Zeit bedanken. Mila hat bei Ihnen viel gelernt, {{3}} sie spricht jetzt sehr gut Deutsch. Am Freitag bringen wir einen Kuchen {{4}} alle Kinder mit. Können Sie mir bitte sagen, {{5}} Milas Sachen abholen kann? Vielen Dank {{6}} alles!",
- "gaps":[{"o":["geht","gehen","gegangen"],"r":0,"k":"Verb","e":"sie geht (3. Person Singular)."},{"o":["herzlich","herzliche","herzlichen"],"r":0,"k":"Adverb","e":"sich herzlich bedanken (Adverb, keine Endung)."},{"o":["und","weil","dass"],"r":0,"k":"Konnektor","e":"und verbindet zwei Hauptsätze."},{"o":["für","mit","zu"],"r":0,"k":"Präposition","e":"für alle Kinder."},{"o":["wann ich","wann kann ich","ich wann"],"r":0,"k":"Indirekte Frage","e":"Indirekte Frage: Fragewort + Subjekt …, Verb am Ende."},{"o":["für","über","an"],"r":0,"k":"Präposition","e":"Danke für …"}]},
-{"id":"s45","ex":["DTZ"],"t":"E-Mail an den Sportverein","text":"Sehr geehrte Damen und Herren,\n\nmein Sohn Leon ist seit zwei Jahren Mitglied {{1}} Ihrem Verein. Leider müssen wir die Mitgliedschaft kündigen, {{2}} er jetzt mehr Zeit für die Schule braucht. Bitte bestätigen Sie mir die Kündigung {{3}}. Leon hat {{4}} Fußballtraining immer viel Spaß gehabt. Wir danken dem Trainer für seine Geduld. {{5}} Leon später wieder Zeit hat, meldet er sich {{6}} an.\n\nMit freundlichen Grüßen",
- "gaps":[{"o":["in","bei","an"],"r":0,"k":"Präposition","e":"Mitglied in einem Verein."},{"o":["weil","deshalb","denn"],"r":0,"k":"Nebensatz","e":"weil + Verb am Ende (braucht)."},{"o":["schriftlich","schriftliche","schriftlicher"],"r":0,"k":"Adverb","e":"bestätigen – wie? schriftlich (ohne Endung)."},{"o":["beim","im","am"],"r":0,"k":"Präposition","e":"beim Training (bei + dem)."},{"o":["Wenn","Ob","Dass"],"r":0,"k":"Nebensatz","e":"wenn = Bedingung."},{"o":["wieder","noch","schon"],"r":0,"k":"Adverb","e":"sich wieder anmelden."}]}
-],
-"fragen": [
-{"id":"q09","ex":["DTZ"],"t":"Fragen zu Arbeit und Zukunft","fragen":[
- {"q":"Was haben Sie in Ihrem Heimatland gearbeitet?","m":"Ich habe als Krankenschwester in einem Krankenhaus gearbeitet.","ru":"Кем вы работали на родине?"},
- {"q":"Was möchten Sie in Deutschland arbeiten?","m":"Ich möchte gern wieder in der Pflege arbeiten. Dafür brauche ich die Anerkennung meines Diploms.","ru":"Кем вы хотите работать в Германии?"},
- {"q":"Was ist für Sie bei der Arbeit wichtig?","m":"Mir sind nette Kollegen und feste Arbeitszeiten wichtig, weil ich Kinder habe.","ru":"Что для вас важно в работе?"},
- {"q":"Wie lange brauchen Sie zur Arbeit?","m":"Ich brauche etwa 30 Minuten mit der Straßenbahn.","ru":"Сколько времени вы тратите на дорогу до работы?"},
- {"q":"Was machen Sie nach dem Kurs?","m":"Nach dem Kurs möchte ich einen Berufssprachkurs machen und dann eine Stelle suchen.","ru":"Что вы будете делать после курса?"}]}
-],
-"loesung": [
-{"id":"l17","ex":["DTZ"],"t":"Nachbarschaftsfest","thema":"Ein Fest für die Kinder im Haus","situation":"Sie möchten mit Ihrem Nachbarn ein kleines Fest für die Kinder im Haus organisieren. Planen Sie: Wann? Was essen? Welche Spiele? Wer macht was?","rm":["Wann passt es dir?","Ich kann …","Gute Idee!","Wer kümmert sich um …?"],
- "schritte":[{"wer":"Partner","sagt":"Wann sollen wir das Fest machen?","o":["Wie wäre es mit Sonntagnachmittag um 15 Uhr? Dann haben die meisten Eltern frei.","Im Winter.","Ist egal."],"r":0,"e":"Konkreter Termin mit Begründung."},
-  {"wer":"Partner","sagt":"Gut. Was machen wir mit den Kindern?","o":["Wir können Spiele im Hof machen, zum Beispiel Sackhüpfen. Ich kümmere mich um die Spiele. Kannst du Saft und Kekse kaufen?","Fernsehen.","Nichts."],"r":0,"e":"Vorschlag + Aufgaben verteilen."}],
- "m":"Fest am Sonntag um 15 Uhr im Hof. Ich organisiere die Spiele, mein Nachbar kauft Saft und Kekse."},
-{"id":"l18","ex":["DTZ"],"t":"Kurs-Geschenk","thema":"Geschenk für die Kursleiterin","situation":"Ihr Kurs ist bald zu Ende. Planen Sie mit Ihrem Partner ein Geschenk für die Kursleiterin.","rm":["Was meinst du?","Ich finde …","Wie viel soll jeder geben?","Gut, dann …"],
- "schritte":[{"wer":"Partner","sagt":"Was schenken wir ihr?","o":["Sie mag Blumen und Bücher. Wir könnten einen Blumenstrauß und ein Buch aus unseren Ländern kaufen. Was meinst du?","Geld.","Nichts."],"r":0,"e":"Vorschlag mit Begründung und Rückfrage."},
-  {"wer":"Partner","sagt":"Gute Idee. Wie viel soll jeder geben?","o":["Ich denke, jeder gibt 3 Euro. Wir sind 15 Personen, dann haben wir 45 Euro. Ich sammle das Geld.","Viel.","50 Euro jeder."],"r":0,"e":"Konkrete Rechnung und Aufgabe übernehmen."}],
- "m":"Wir kaufen Blumen und ein Buch. Jeder gibt 3 Euro (45 Euro), ich sammle das Geld."}
-],
-"vortrag": [
-{"id":"v24","ex":["DTZ"],"t":"Kinder und Schule","thema":"Erzählen Sie: Schule in Deutschland und in Ihrem Heimatland","stichpunkte":["Wie alt sind die Kinder bei der Einschulung?","Wie lange ist der Schultag?","Was ist anders?","Was gefällt Ihnen?"],"ru":"Расскажите о школе в Германии и на родине: возраст, длина дня, отличия, что нравится.","rm":["In Deutschland …, in meinem Heimatland …","Ein großer Unterschied ist …","Mir gefällt, dass …"],"m":"In Deutschland kommen die Kinder mit sechs Jahren in die Schule. In meinem Heimatland ist es ähnlich, mit sechs oder sieben Jahren.\n\nHier ist der Schultag oft schon um 12 oder 13 Uhr zu Ende, danach gehen viele Kinder in den Hort. Bei uns ging die Schule meistens länger.\n\nEin großer Unterschied ist, dass die Kinder hier nach der vierten Klasse in verschiedene Schulen gehen. Bei uns bleiben alle Kinder bis zur neunten Klasse zusammen.\n\nMir gefällt, dass die Kinder hier viel Sport machen und Ausflüge unternehmen."},
-{"id":"v25","ex":["DTZ"],"t":"Wohnungssuche","thema":"Erzählen Sie: Wie haben Sie Ihre Wohnung gefunden?","stichpunkte":["Wo haben Sie gesucht?","Was war schwierig?","Wer hat Ihnen geholfen?","Tipps"],"ru":"Расскажите, как вы нашли квартиру: где искали, что было трудно, кто помог, советы.","rm":["Ich habe im Internet / in der Zeitung gesucht.","Schwierig war, dass …","Geholfen hat mir …","Mein Tipp ist …"],"m":"Ich habe meine Wohnung im Internet gefunden. Ich habe fast drei Monate gesucht.\n\nSchwierig war, dass viele Vermieter einen Arbeitsvertrag sehen wollten. Am Anfang hatte ich noch keine Arbeit. Außerdem waren bei jeder Besichtigung sehr viele Leute.\n\nGeholfen hat mir eine Sozialarbeiterin. Sie hat mir gezeigt, wie man eine gute Bewerbung für eine Wohnung schreibt.\n\nMein Tipp ist: Bereiten Sie alle Unterlagen vorher in einer Mappe vor und gehen Sie pünktlich zur Besichtigung."},
-{"id":"v26","ex":["DTZ"],"t":"Ein schöner Tag","thema":"Erzählen Sie: Ihr schönster Tag im letzten Jahr","stichpunkte":["Was ist passiert?","Mit wem?","Warum war der Tag so schön?"],"ru":"Расскажите о самом прекрасном дне в прошлом году: что случилось, с кем, почему он был прекрасным.","rm":["Mein schönster Tag war …","Wir sind … gefahren.","Der Tag war so schön, weil …"],"m":"Mein schönster Tag im letzten Jahr war der Tag, an dem meine Mutter uns aus der Ukraine besucht hat.\n\nWir haben sie zusammen mit den Kindern vom Bahnhof abgeholt. Die Kinder haben ein Bild für sie gemalt. Am Nachmittag sind wir an die Elbe gefahren und haben ein Picknick gemacht.\n\nDer Tag war so schön, weil wir uns zwei Jahre nicht gesehen hatten und die ganze Familie zusammen war."}
-]}
+{
+ "brief": [
+  {
+   "id": "b21",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachbarin: Schlüssel abgeben",
+   "situation": "Sie fahren eine Woche in Urlaub. Ihre Nachbarin, Frau Berger, soll Ihre Blumen gießen. Schreiben Sie ihr.",
+   "punkte": [
+    "Bitte",
+    "Wann sind Sie weg?",
+    "Was soll sie tun?",
+    "Wann bringen Sie den Schlüssel?"
+   ],
+   "ru": "Попросите соседку поливать цветы во время отпуска: когда вас нет, что делать, когда принесёте ключ.",
+   "w": 30,
+   "rm": [
+    "Liebe Frau …,",
+    "ich habe eine Bitte:",
+    "Wir sind vom … bis zum … weg.",
+    "Könnten Sie bitte …?",
+    "Ich bringe Ihnen den Schlüssel am …"
+   ],
+   "m": "Liebe Frau Berger,\n\nich habe eine Bitte: Wir fahren vom 3. bis zum 10. August in Urlaub.\n\nKönnten Sie bitte zweimal in dieser Woche unsere Blumen gießen? Die Blumen stehen im Wohnzimmer und auf dem Balkon. Die Post können Sie einfach auf den Tisch legen.\n\nIch bringe Ihnen den Schlüssel am Samstag um 18 Uhr.\n\nVielen Dank!\nOlga Iwanowa"
+  },
+  {
+   "id": "b22",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kita: Abholung durch eine Freundin",
+   "situation": "Sie können Ihre Tochter heute nicht aus der Kita abholen. Eine Freundin holt sie ab. Schreiben Sie an die Erzieherin, Frau Sommer.",
+   "punkte": [
+    "Wer holt ab?",
+    "Warum?",
+    "Wann?",
+    "Bitte um Rückmeldung"
+   ],
+   "ru": "Напишите воспитательнице: дочь заберёт подруга, почему, когда, просьба ответить.",
+   "w": 30,
+   "rm": [
+    "Liebe Frau …,",
+    "heute holt … meine Tochter ab.",
+    "Ich kann nicht, weil …",
+    "Sie kommt um …",
+    "Bitte geben Sie mir Bescheid, wenn …"
+   ],
+   "m": "Liebe Frau Sommer,\n\nheute holt meine Freundin, Frau Natalia Petrenko, meine Tochter Mila ab.\n\nIch kann leider nicht kommen, weil ich länger arbeiten muss.\n\nFrau Petrenko kommt um 16 Uhr. Sie hat ihren Ausweis dabei.\n\nBitte geben Sie mir Bescheid, wenn es ein Problem gibt. Meine Handynummer ist 0157 223344.\n\nViele Grüße\nOlga Iwanowa"
+  },
+  {
+   "id": "b23",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Vermieter: Kündigung der Wohnung",
+   "situation": "Sie ziehen in eine andere Stadt. Schreiben Sie Ihrem Vermieter, Herrn Wolf, und kündigen Sie die Wohnung.",
+   "punkte": [
+    "Kündigung zum …",
+    "Grund",
+    "Termin für die Übergabe",
+    "Frage zur Kaution"
+   ],
+   "ru": "Расторгните аренду квартиры: дата, причина, время передачи, вопрос о залоге.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrter Herr …,",
+    "hiermit kündige ich meine Wohnung zum …",
+    "Der Grund ist, dass …",
+    "Wann können wir einen Termin für die Übergabe machen?",
+    "Wann bekomme ich die Kaution zurück?"
+   ],
+   "m": "Sehr geehrter Herr Wolf,\n\nhiermit kündige ich meine Wohnung in der Gartenstraße 12, 2. Stock, zum 30. September.\n\nDer Grund ist, dass mein Mann eine neue Arbeit in Leipzig gefunden hat.\n\nWann können wir einen Termin für die Wohnungsübergabe machen? Ich habe Ende September jeden Tag ab 15 Uhr Zeit.\n\nWann bekomme ich meine Kaution zurück?\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "b24",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Freundin: Einladung zum Grillen",
+   "situation": "Sie möchten mit Freunden im Park grillen. Schreiben Sie Ihrer Freundin Anna.",
+   "punkte": [
+    "Einladung",
+    "Wann und wo?",
+    "Was soll sie mitbringen?",
+    "Bitte um Antwort"
+   ],
+   "ru": "Пригласите подругу на барбекю в парке: когда и где, что принести, попросите ответить.",
+   "w": 30,
+   "rm": [
+    "Liebe …,",
+    "wir möchten am … grillen.",
+    "Wir treffen uns um … im …",
+    "Kannst du … mitbringen?",
+    "Schreib mir bitte bis …"
+   ],
+   "m": "Liebe Anna,\n\nwir möchten am Samstag mit ein paar Freunden im Park grillen. Kommst du auch?\n\nWir treffen uns um 15 Uhr im Großen Garten, direkt am Spielplatz.\n\nKannst du einen Salat oder Brot mitbringen? Fleisch und Getränke haben wir schon.\n\nSchreib mir bitte bis Donnerstag, ob du kommst.\n\nLiebe Grüße\nOlga"
+  },
+  {
+   "id": "b25",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Arztpraxis: Impftermin für das Kind",
+   "situation": "Ihr Sohn braucht eine Impfung. Schreiben Sie eine E-Mail an die Kinderarztpraxis.",
+   "punkte": [
+    "Wer ist Ihr Kind?",
+    "Welche Impfung?",
+    "Wann haben Sie Zeit?",
+    "Was müssen Sie mitbringen?"
+   ],
+   "ru": "Запишите сына на прививку: кто ребёнок, какая прививка, когда у вас время, что принести.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren,",
+    "mein Sohn … braucht …",
+    "Ich habe … Zeit.",
+    "Was muss ich mitbringen?"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nmein Sohn Artem Iwanow, geboren am 4. März 2019, braucht die zweite Impfung gegen Masern.\n\nIch habe jeden Tag ab 15 Uhr Zeit, am Mittwoch auch vormittags.\n\nWas muss ich mitbringen? Reicht der Impfpass, oder brauchen Sie auch die Versichertenkarte?\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "b26",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Sprachschule: Beschwerde über den Kursraum",
+   "situation": "In Ihrem Kursraum ist es immer sehr kalt, und die Tafel ist kaputt. Schreiben Sie an die Sprachschule.",
+   "punkte": [
+    "Welcher Kurs?",
+    "Was ist das Problem?",
+    "Seit wann?",
+    "Was sollen sie tun?"
+   ],
+   "ru": "Пожалуйтесь в языковую школу: в классе холодно, доска сломана. Какой курс, проблема, с каких пор, что сделать.",
+   "w": 30,
+   "rm": [
+    "Ich besuche den Kurs …",
+    "Leider ist es im Kursraum …",
+    "Das ist seit … so.",
+    "Bitte …"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nich besuche den Kurs B1 am Vormittag in Raum 204.\n\nLeider ist es im Kursraum sehr kalt, weil die Heizung nicht richtig funktioniert. Außerdem ist die Tafel kaputt, die Lehrerin kann nicht gut schreiben.\n\nDas ist seit zwei Wochen so.\n\nBitte reparieren Sie die Heizung und die Tafel, oder geben Sie uns einen anderen Raum.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  }
+ ],
+ "lesen": [
+  {
+   "id": "r17",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wegweiser im Bürgerhaus",
+   "anweisung": "Wohin gehen Sie?",
+   "texte": [
+    {
+     "k": "Bürgerhaus",
+     "text": "EG: Café, Information, Saal (Veranstaltungen)\n1. OG: Migrationsberatung, Schuldnerberatung\n2. OG: Volkshochschule (Sprachkurse, Raum 201–210)\n3. OG: Jugendamt, Familienberatung"
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Sie haben Probleme mit Schulden.",
+     "o": [
+      "EG",
+      "1. OG",
+      "3. OG"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Ihr Deutschkurs ist in Raum 205.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Sie möchten Hilfe bei der Erziehung Ihres Kindes.",
+     "o": [
+      "1. OG",
+      "2. OG",
+      "3. OG"
+     ],
+     "r": 2
+    },
+    {
+     "q": "Sie möchten einen Kaffee trinken.",
+     "o": [
+      "EG",
+      "1. OG",
+      "2. OG"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anzeigen: Möbel und Geräte",
+   "anweisung": "Welche Anzeige passt?",
+   "texte": [
+    {
+     "k": "A",
+     "text": "Kinderbett mit Matratze, wie neu, 40 €, nur Abholung."
+    },
+    {
+     "k": "B",
+     "text": "Waschmaschine, 3 Jahre alt, funktioniert, 120 €, Lieferung möglich."
+    },
+    {
+     "k": "C",
+     "text": "Sofa zu verschenken! Muss bis Samstag abgeholt werden."
+    },
+    {
+     "k": "D",
+     "text": "Schreibtisch und Stuhl für Schüler, 35 € zusammen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Familie Ali hat kein Geld, braucht aber ein Sofa.",
+     "o": [
+      "A",
+      "C",
+      "D"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Frau Weber hat kein Auto und braucht eine Waschmaschine.",
+     "o": [
+      "A",
+      "B",
+      "D"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Herr Petrov sucht einen Arbeitsplatz für seinen Sohn.",
+     "o": [
+      "A",
+      "C",
+      "D"
+     ],
+     "r": 2
+    },
+    {
+     "q": "Familie Kim bekommt ein Baby.",
+     "o": [
+      "A",
+      "B",
+      "C"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Information der Stadtwerke",
+   "anweisung": "Lesen Sie den Text. Was ist richtig?",
+   "texte": [
+    {
+     "k": "Information",
+     "text": "Wegen Bauarbeiten wird am Dienstag, 12. März, von 8 bis 14 Uhr in der Lindenstraße 1–20 das Wasser abgestellt. Bitte füllen Sie vorher Wasser in Flaschen ab. Nach den Arbeiten kann das Wasser für kurze Zeit braun sein. Lassen Sie es dann einige Minuten laufen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was passiert am 12. März?",
+     "o": [
+      "Es gibt kein Wasser.",
+      "Es gibt keinen Strom.",
+      "Die Straße ist gesperrt."
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was soll man tun, wenn das Wasser braun ist?",
+     "o": [
+      "einige Minuten laufen lassen",
+      "die Stadtwerke anrufen",
+      "es nicht trinken und Flaschen kaufen"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kursprogramm Familienzentrum",
+   "anweisung": "Welches Angebot passt?",
+   "texte": [
+    {
+     "k": "A",
+     "text": "Babymassage für Eltern mit Babys bis 6 Monate, Di 10 Uhr, kostenlos."
+    },
+    {
+     "k": "B",
+     "text": "Hausaufgabenhilfe für Grundschüler, Mo–Do 14–16 Uhr."
+    },
+    {
+     "k": "C",
+     "text": "Elterncafé: Austausch und Beratung, Fr 9–11 Uhr, mit Dolmetscherin für Russisch und Arabisch."
+    },
+    {
+     "k": "D",
+     "text": "Nähwerkstatt für Erwachsene, Sa 10–13 Uhr, 5 € pro Termin."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Frau Iwanowa möchte mit anderen Eltern sprechen und braucht noch Hilfe auf Russisch.",
+     "o": [
+      "A",
+      "C",
+      "D"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Herr Haddad hat ein Baby von 3 Monaten.",
+     "o": [
+      "A",
+      "B",
+      "C"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Der Sohn von Frau Lin braucht Hilfe bei Mathe (Klasse 2).",
+     "o": [
+      "B",
+      "C",
+      "D"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Hausordnung: Waschküche",
+   "anweisung": "Lesen Sie den Aushang. Was ist richtig?",
+   "texte": [
+    {
+     "k": "Aushang",
+     "text": "Die Waschküche darf von Montag bis Samstag von 7 bis 20 Uhr benutzt werden. Bitte tragen Sie sich in den Plan an der Tür ein. Nach dem Waschen bitte das Flusensieb des Trockners reinigen. Wäsche nicht länger als einen Tag hängen lassen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Wann darf man waschen?",
+     "o": [
+      "Mo–Sa 7–20 Uhr",
+      "jeden Tag",
+      "nur am Wochenende"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was muss man nach dem Trocknen tun?",
+     "o": [
+      "das Flusensieb reinigen",
+      "den Boden wischen",
+      "den Hausmeister rufen"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zeitungsmeldung: Freibad",
+   "anweisung": "Lesen Sie die Meldung. Was ist richtig?",
+   "texte": [
+    {
+     "k": "Zeitung",
+     "text": "Das Freibad Süd öffnet in diesem Jahr schon am 15. Mai. Neu ist eine große Rutsche für Kinder ab sechs Jahren. Die Preise bleiben gleich: Erwachsene zahlen 4 Euro, Kinder 2 Euro. Familien können eine Saisonkarte für 80 Euro kaufen. Bei Regen bleibt das Bad geschlossen."
+    }
+   ],
+   "fragen": [
+    {
+     "q": "Was ist neu?",
+     "o": [
+      "eine Rutsche für Kinder",
+      "höhere Preise",
+      "ein Hallenbad"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was kostet die Saisonkarte für Familien?",
+     "o": [
+      "80 Euro",
+      "4 Euro",
+      "40 Euro"
+     ],
+     "r": 0
+    }
+   ]
+  }
+ ],
+ "hoeren": [
+  {
+   "id": "h59",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ansage am Bahnhof",
+   "situation": "Sie sind am Bahnhof.",
+   "text": "Achtung am Gleis 2: Die S-Bahn nach Pirna fährt heute von Gleis 4. Bitte beachten Sie die Lautsprecherdurchsagen.",
+   "fragen": [
+    {
+     "q": "Von welchem Gleis fährt die S-Bahn nach Pirna heute?",
+     "o": [
+      "Gleis 4",
+      "Gleis 2",
+      "Gleis 14"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "h60",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachricht vom Zahnarzt",
+   "situation": "Sie hören eine Nachricht auf dem Anrufbeantworter.",
+   "text": "Guten Tag, hier ist die Zahnarztpraxis Dr. Schmidt. Wir möchten Sie an Ihren Termin morgen um 9 Uhr 15 erinnern. Bitte denken Sie an Ihre Versichertenkarte und an das Bonusheft. Wenn Sie nicht kommen können, sagen Sie bitte bis heute 18 Uhr ab.",
+   "fragen": [
+    {
+     "q": "Wann ist der Termin?",
+     "o": [
+      "morgen um 9:15 Uhr",
+      "heute um 18 Uhr",
+      "morgen um 9:50 Uhr"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was soll man mitbringen?",
+     "o": [
+      "Versichertenkarte und Bonusheft",
+      "eine Überweisung",
+      "den Ausweis"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "h61",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch beim Elternabend",
+   "situation": "Eine Mutter spricht mit dem Lehrer.",
+   "text": "– Herr Braun, mein Sohn sagt, dass er die Hausaufgaben oft nicht versteht. – Das habe ich auch bemerkt. Er ist ein kluger Junge, aber manchmal fehlen ihm noch die Wörter. Wir haben dienstags und donnerstags eine Hausaufgabenhilfe nach dem Unterricht. Das würde ihm sehr helfen. – Kostet das etwas? – Nein, das ist kostenlos. Sie müssen ihn nur bis Freitag anmelden.",
+   "fragen": [
+    {
+     "q": "Was ist das Problem des Sohnes?",
+     "o": [
+      "Er versteht die Hausaufgaben oft nicht.",
+      "Er kommt zu spät.",
+      "Er hat keine Freunde."
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was kostet die Hausaufgabenhilfe?",
+     "o": [
+      "nichts",
+      "5 Euro",
+      "10 Euro im Monat"
+     ],
+     "r": 0
+    },
+    {
+     "rf": true,
+     "q": "Man muss das Kind bis Freitag anmelden."
+    }
+   ]
+  },
+  {
+   "id": "h62",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Radio: Stadtfest",
+   "situation": "Sie hören eine Information im Radio.",
+   "text": "Am Wochenende feiert Dresden sein Stadtfest. Wegen des Festes ist die Innenstadt für Autos gesperrt. Busse und Straßenbahnen fahren am Samstag und Sonntag bis 2 Uhr nachts. Das große Feuerwerk beginnt am Samstag um 22 Uhr an der Elbe.",
+   "fragen": [
+    {
+     "q": "Was ist am Wochenende für Autos gesperrt?",
+     "o": [
+      "die Innenstadt",
+      "die Autobahn",
+      "die Elbbrücken"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wann beginnt das Feuerwerk?",
+     "o": [
+      "Samstag um 22 Uhr",
+      "Sonntag um 2 Uhr",
+      "Samstag um 20 Uhr"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "h63",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch mit dem Hausmeister",
+   "situation": "Eine Mieterin spricht mit dem Hausmeister.",
+   "text": "– Herr Krause, im Keller ist eine Lampe kaputt. Es ist ganz dunkel, und ich habe Angst, dass ich hinfalle. – Danke für den Hinweis. Ich habe heute leider keine Glühbirnen mehr, aber ich kaufe morgen früh welche und repariere es bis Mittag. – Super, danke!",
+   "fragen": [
+    {
+     "q": "Was ist kaputt?",
+     "o": [
+      "eine Lampe im Keller",
+      "die Kellertür",
+      "der Aufzug"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wann repariert der Hausmeister die Lampe?",
+     "o": [
+      "morgen bis Mittag",
+      "heute",
+      "nächste Woche"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "h64",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Meinungen: Kinder und Handy",
+   "situation": "Im Radio sagen Hörer ihre Meinung.",
+   "text": "Frau Weber: Meine Kinder bekommen erst mit 12 ein Handy. Vorher brauchen sie es nicht. Herr Osman: Mein Sohn hat mit 9 Jahren ein Handy bekommen, damit ich ihn erreichen kann, wenn er allein zur Schule geht. Frau Novak: Das Alter ist nicht so wichtig. Wichtig sind klare Regeln, zum Beispiel kein Handy beim Essen.",
+   "fragen": [
+    {
+     "q": "Wer findet Regeln wichtiger als das Alter?",
+     "o": [
+      "Frau Novak",
+      "Frau Weber",
+      "Herr Osman"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Warum hat der Sohn von Herrn Osman ein Handy?",
+     "o": [
+      "damit der Vater ihn erreichen kann",
+      "für die Hausaufgaben",
+      "zum Spielen"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "h65",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ansage im Kaufhaus",
+   "situation": "Sie sind im Kaufhaus.",
+   "text": "Liebe Kundinnen und Kunden, nur heute: 20 Prozent Rabatt auf alle Wintermäntel und Stiefel im ersten Stock. Und für unsere kleinen Gäste: Im dritten Stock wartet ab 15 Uhr der Weihnachtsmann mit einer Überraschung.",
+   "fragen": [
+    {
+     "q": "Was ist heute billiger?",
+     "o": [
+      "Wintermäntel und Stiefel",
+      "Spielzeug",
+      "Lebensmittel"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wo ist ab 15 Uhr der Weihnachtsmann?",
+     "o": [
+      "im dritten Stock",
+      "im ersten Stock",
+      "am Eingang"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "h66",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Telefonat mit der Krankenkasse",
+   "situation": "Eine Frau ruft bei ihrer Krankenkasse an.",
+   "text": "– Krankenkasse, guten Tag. – Guten Tag, ich habe meine Versichertenkarte verloren. Was muss ich tun? – Sie können online oder per Post eine neue Karte bestellen. Wir brauchen ein aktuelles Foto. Die neue Karte kommt in etwa zwei Wochen. Bis dahin schicke ich Ihnen eine Bescheinigung für den Arzt. – Danke, das ist gut, ich habe nächste Woche einen Termin.",
+   "fragen": [
+    {
+     "q": "Was braucht die Krankenkasse?",
+     "o": [
+      "ein aktuelles Foto",
+      "den Reisepass",
+      "die alte Karte"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Was bekommt die Frau bis zur neuen Karte?",
+     "o": [
+      "eine Bescheinigung für den Arzt",
+      "eine Rechnung",
+      "nichts"
+     ],
+     "r": 0
+    }
+   ]
+  }
+ ],
+ "sb": [
+  {
+   "id": "s44",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief an die Kita",
+   "text": "Liebe Frau Sommer,\n\nmeine Tochter Mila {{1}} ab Montag in eine andere Kita, weil wir umziehen. Wir möchten uns {{2}} für die schöne Zeit bedanken. Mila hat bei Ihnen viel gelernt, {{3}} sie spricht jetzt sehr gut Deutsch. Am Freitag bringen wir einen Kuchen {{4}} alle Kinder mit. Können Sie mir bitte sagen, {{5}} Milas Sachen abholen kann? Vielen Dank {{6}} alles!",
+   "gaps": [
+    {
+     "o": [
+      "gehen",
+      "geht",
+      "gegangen"
+     ],
+     "r": 1,
+     "k": "Verb",
+     "e": "sie geht (3. Person Singular)."
+    },
+    {
+     "o": [
+      "herzlich",
+      "herzliche",
+      "herzlichen"
+     ],
+     "r": 0,
+     "k": "Adverb",
+     "e": "sich herzlich bedanken (Adverb, keine Endung)."
+    },
+    {
+     "o": [
+      "dass",
+      "weil",
+      "und"
+     ],
+     "r": 2,
+     "k": "Konnektor",
+     "e": "und verbindet zwei Hauptsätze."
+    },
+    {
+     "o": [
+      "für",
+      "mit",
+      "zu"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "für alle Kinder."
+    },
+    {
+     "o": [
+      "wann kann ich",
+      "ich wann",
+      "wann ich"
+     ],
+     "r": 2,
+     "k": "Indirekte Frage",
+     "e": "Indirekte Frage: Fragewort + Subjekt …, Verb am Ende."
+    },
+    {
+     "o": [
+      "an",
+      "für",
+      "über"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "Danke für …"
+    }
+   ]
+  },
+  {
+   "id": "s45",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "E-Mail an den Sportverein",
+   "text": "Sehr geehrte Damen und Herren,\n\nmein Sohn Leon ist seit zwei Jahren Mitglied {{1}} Ihrem Verein. Leider müssen wir die Mitgliedschaft kündigen, {{2}} er jetzt mehr Zeit für die Schule braucht. Bitte bestätigen Sie mir die Kündigung {{3}}. Leon hat {{4}} Fußballtraining immer viel Spaß gehabt. Wir danken dem Trainer für seine Geduld. {{5}} Leon später wieder Zeit hat, meldet er sich {{6}} an.\n\nMit freundlichen Grüßen",
+   "gaps": [
+    {
+     "o": [
+      "in",
+      "an",
+      "bei"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "Mitglied in einem Verein."
+    },
+    {
+     "o": [
+      "deshalb",
+      "denn",
+      "weil"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "weil + Verb am Ende (braucht)."
+    },
+    {
+     "o": [
+      "schriftlich",
+      "schriftlicher",
+      "schriftliche"
+     ],
+     "r": 0,
+     "k": "Adverb",
+     "e": "bestätigen – wie? schriftlich (ohne Endung)."
+    },
+    {
+     "o": [
+      "beim",
+      "im",
+      "am"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "beim Training (bei + dem)."
+    },
+    {
+     "o": [
+      "Wenn",
+      "Dass",
+      "Ob"
+     ],
+     "r": 0,
+     "k": "Nebensatz",
+     "e": "wenn = Bedingung."
+    },
+    {
+     "o": [
+      "schon",
+      "noch",
+      "wieder"
+     ],
+     "r": 2,
+     "k": "Adverb",
+     "e": "sich wieder anmelden."
+    }
+   ]
+  }
+ ],
+ "fragen": [
+  {
+   "id": "q09",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fragen zu Arbeit und Zukunft",
+   "fragen": [
+    {
+     "q": "Was haben Sie in Ihrem Heimatland gearbeitet?",
+     "m": "Ich habe als Krankenschwester in einem Krankenhaus gearbeitet.",
+     "ru": "Кем вы работали на родине?"
+    },
+    {
+     "q": "Was möchten Sie in Deutschland arbeiten?",
+     "m": "Ich möchte gern wieder in der Pflege arbeiten. Dafür brauche ich die Anerkennung meines Diploms.",
+     "ru": "Кем вы хотите работать в Германии?"
+    },
+    {
+     "q": "Was ist für Sie bei der Arbeit wichtig?",
+     "m": "Mir sind nette Kollegen und feste Arbeitszeiten wichtig, weil ich Kinder habe.",
+     "ru": "Что для вас важно в работе?"
+    },
+    {
+     "q": "Wie lange brauchen Sie zur Arbeit?",
+     "m": "Ich brauche etwa 30 Minuten mit der Straßenbahn.",
+     "ru": "Сколько времени вы тратите на дорогу до работы?"
+    },
+    {
+     "q": "Was machen Sie nach dem Kurs?",
+     "m": "Nach dem Kurs möchte ich einen Berufssprachkurs machen und dann eine Stelle suchen.",
+     "ru": "Что вы будете делать после курса?"
+    }
+   ]
+  }
+ ],
+ "loesung": [
+  {
+   "id": "l17",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachbarschaftsfest",
+   "thema": "Ein Fest für die Kinder im Haus",
+   "situation": "Sie möchten mit Ihrem Nachbarn ein kleines Fest für die Kinder im Haus organisieren. Planen Sie: Wann? Was essen? Welche Spiele? Wer macht was?",
+   "rm": [
+    "Wann passt es dir?",
+    "Ich kann …",
+    "Gute Idee!",
+    "Wer kümmert sich um …?"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Wann sollen wir das Fest machen?",
+     "o": [
+      "Wie wäre es mit Sonntagnachmittag um 15 Uhr? Dann haben die meisten Eltern frei.",
+      "Im Winter.",
+      "Ist egal."
+     ],
+     "r": 0,
+     "e": "Konkreter Termin mit Begründung."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Gut. Was machen wir mit den Kindern?",
+     "o": [
+      "Wir können Spiele im Hof machen, zum Beispiel Sackhüpfen. Ich kümmere mich um die Spiele. Kannst du Saft und Kekse kaufen?",
+      "Fernsehen.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Vorschlag + Aufgaben verteilen."
+    }
+   ],
+   "m": "Fest am Sonntag um 15 Uhr im Hof. Ich organisiere die Spiele, mein Nachbar kauft Saft und Kekse."
+  },
+  {
+   "id": "l18",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kurs-Geschenk",
+   "thema": "Geschenk für die Kursleiterin",
+   "situation": "Ihr Kurs ist bald zu Ende. Planen Sie mit Ihrem Partner ein Geschenk für die Kursleiterin.",
+   "rm": [
+    "Was meinst du?",
+    "Ich finde …",
+    "Wie viel soll jeder geben?",
+    "Gut, dann …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Was schenken wir ihr?",
+     "o": [
+      "Sie mag Blumen und Bücher. Wir könnten einen Blumenstrauß und ein Buch aus unseren Ländern kaufen. Was meinst du?",
+      "Geld.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Vorschlag mit Begründung und Rückfrage."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Gute Idee. Wie viel soll jeder geben?",
+     "o": [
+      "Ich denke, jeder gibt 3 Euro. Wir sind 15 Personen, dann haben wir 45 Euro. Ich sammle das Geld.",
+      "Viel.",
+      "50 Euro jeder."
+     ],
+     "r": 0,
+     "e": "Konkrete Rechnung und Aufgabe übernehmen."
+    }
+   ],
+   "m": "Wir kaufen Blumen und ein Buch. Jeder gibt 3 Euro (45 Euro), ich sammle das Geld."
+  }
+ ],
+ "vortrag": [
+  {
+   "id": "v24",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kinder und Schule",
+   "thema": "Erzählen Sie: Schule in Deutschland und in Ihrem Heimatland",
+   "stichpunkte": [
+    "Wie alt sind die Kinder bei der Einschulung?",
+    "Wie lange ist der Schultag?",
+    "Was ist anders?",
+    "Was gefällt Ihnen?"
+   ],
+   "ru": "Расскажите о школе в Германии и на родине: возраст, длина дня, отличия, что нравится.",
+   "rm": [
+    "In Deutschland …, in meinem Heimatland …",
+    "Ein großer Unterschied ist …",
+    "Mir gefällt, dass …"
+   ],
+   "m": "In Deutschland kommen die Kinder mit sechs Jahren in die Schule. In meinem Heimatland ist es ähnlich, mit sechs oder sieben Jahren.\n\nHier ist der Schultag oft schon um 12 oder 13 Uhr zu Ende, danach gehen viele Kinder in den Hort. Bei uns ging die Schule meistens länger.\n\nEin großer Unterschied ist, dass die Kinder hier nach der vierten Klasse in verschiedene Schulen gehen. Bei uns bleiben alle Kinder bis zur neunten Klasse zusammen.\n\nMir gefällt, dass die Kinder hier viel Sport machen und Ausflüge unternehmen."
+  },
+  {
+   "id": "v25",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Wohnungssuche",
+   "thema": "Erzählen Sie: Wie haben Sie Ihre Wohnung gefunden?",
+   "stichpunkte": [
+    "Wo haben Sie gesucht?",
+    "Was war schwierig?",
+    "Wer hat Ihnen geholfen?",
+    "Tipps"
+   ],
+   "ru": "Расскажите, как вы нашли квартиру: где искали, что было трудно, кто помог, советы.",
+   "rm": [
+    "Ich habe im Internet / in der Zeitung gesucht.",
+    "Schwierig war, dass …",
+    "Geholfen hat mir …",
+    "Mein Tipp ist …"
+   ],
+   "m": "Ich habe meine Wohnung im Internet gefunden. Ich habe fast drei Monate gesucht.\n\nSchwierig war, dass viele Vermieter einen Arbeitsvertrag sehen wollten. Am Anfang hatte ich noch keine Arbeit. Außerdem waren bei jeder Besichtigung sehr viele Leute.\n\nGeholfen hat mir eine Sozialarbeiterin. Sie hat mir gezeigt, wie man eine gute Bewerbung für eine Wohnung schreibt.\n\nMein Tipp ist: Bereiten Sie alle Unterlagen vorher in einer Mappe vor und gehen Sie pünktlich zur Besichtigung."
+  },
+  {
+   "id": "v26",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ein schöner Tag",
+   "thema": "Erzählen Sie: Ihr schönster Tag im letzten Jahr",
+   "stichpunkte": [
+    "Was ist passiert?",
+    "Mit wem?",
+    "Warum war der Tag so schön?"
+   ],
+   "ru": "Расскажите о самом прекрасном дне в прошлом году: что случилось, с кем, почему он был прекрасным.",
+   "rm": [
+    "Mein schönster Tag war …",
+    "Wir sind … gefahren.",
+    "Der Tag war so schön, weil …"
+   ],
+   "m": "Mein schönster Tag im letzten Jahr war der Tag, an dem meine Mutter uns aus der Ukraine besucht hat.\n\nWir haben sie zusammen mit den Kindern vom Bahnhof abgeholt. Die Kinder haben ein Bild für sie gemalt. Am Nachmittag sind wir an die Elbe gefahren und haben ein Picknick gemacht.\n\nDer Tag war so schön, weil wir uns zwei Jahre nicht gesehen hatten und die ganze Familie zusammen war."
+  }
+ ]
+}

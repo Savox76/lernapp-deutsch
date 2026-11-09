@@ -11,8 +11,8 @@
     {
      "o": [
       "von",
-      "mit",
-      "bei"
+      "bei",
+      "mit"
      ],
      "r": 0,
      "k": "Verb mit Präposition",
@@ -20,31 +20,31 @@
     },
     {
      "o": [
-      "um",
       "am",
+      "um",
       "im"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Zeit",
      "e": "um 15 Uhr."
     },
     {
      "o": [
       "tragen",
-      "trage",
-      "trägt"
+      "trägt",
+      "trage"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Konjugation",
      "e": "wer … trägt sich ein (3. Person)."
     },
     {
      "o": [
       "wie",
-      "das",
-      "was"
+      "was",
+      "das"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Relativsatz",
      "e": "so viel, was er möchte → was."
     },
@@ -60,11 +60,11 @@
     },
     {
      "o": [
+      "euch",
       "euer",
-      "eure",
-      "euch"
+      "eure"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Possessivartikel",
      "e": "das Kommen → euer Kommen."
     }
@@ -80,21 +80,21 @@
    "gaps": [
     {
      "o": [
-      "erreicht",
       "erreichen",
+      "erreicht",
       "erreichte"
      ],
-     "r": 1,
+     "r": 0,
      "k": "zu-Infinitiv",
      "e": "versuchen + zu + Infinitiv."
     },
     {
      "o": [
-      "der",
       "die",
-      "den"
+      "den",
+      "der"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Relativpronomen",
      "e": "die Bestellung (Akk.) → die."
     },
@@ -111,8 +111,8 @@
     {
      "o": [
       "falls",
-      "dass",
-      "ob"
+      "ob",
+      "dass"
      ],
      "r": 0,
      "k": "Nebensatz",
@@ -120,21 +120,21 @@
     },
     {
      "o": [
-      "einer",
+      "eine",
       "einen",
-      "eine"
+      "einer"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Artikel Akkusativ",
      "e": "bitten um eine Nachricht."
     },
     {
      "o": [
-      "seit",
+      "bis",
       "ab",
-      "bis"
+      "seit"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Zeit",
      "e": "bis 17 Uhr erreichbar."
     }
@@ -160,11 +160,11 @@
     },
     {
      "o": [
-      "weil",
       "ob",
-      "dass"
+      "dass",
+      "weil"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Nebensatz",
      "e": "mitteilen, dass …"
     },
@@ -181,30 +181,30 @@
     {
      "o": [
       "haben",
-      "werden",
-      "sind"
+      "sind",
+      "werden"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Konjugation",
      "e": "einverstanden sein."
     },
     {
      "o": [
+      "alles",
       "alle",
-      "allem",
-      "alles"
+      "allem"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Indefinitpronomen",
      "e": "alles Gute."
     },
     {
      "o": [
-      "gewünscht",
+      "wünschen",
       "wünscht",
-      "wünschen"
+      "gewünscht"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Konjugation",
      "e": "wir … wünschen."
     }
@@ -220,61 +220,61 @@
    "gaps": [
     {
      "o": [
+      "an",
       "in",
-      "auf",
-      "an"
+      "auf"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Präposition",
      "e": "auf dem Parkplatz."
     },
     {
      "o": [
-      "sodass",
       "damit",
-      "obwohl"
+      "obwohl",
+      "sodass"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Nebensatz",
      "e": "sodass = Folge."
     },
     {
      "o": [
-      "haben",
       "werden",
-      "sind"
+      "sind",
+      "haben"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Zustandspassiv",
      "e": "sind reserviert."
     },
     {
      "o": [
-      "sich nicht darauf",
       "sich nicht daran",
+      "sich nicht darauf",
       "nicht sich daran"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Verb mit Präposition",
      "e": "sich halten an → sich nicht daran halten."
     },
     {
      "o": [
-      "ob",
       "wenn",
+      "ob",
       "als"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Nebensatz",
      "e": "wenn möglich."
     },
     {
      "o": [
-      "zwischen",
       "neben",
-      "unter"
+      "unter",
+      "zwischen"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Präposition",
      "e": "neben dem Eingang (Dativ)."
     }
@@ -290,39 +290,39 @@
    "gaps": [
     {
      "o": [
-      "bin",
       "habe",
+      "bin",
       "hatte"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Perfekt",
      "e": "sich wohlfühlen → habe … gefühlt."
     },
     {
      "o": [
-      "und",
       "oder",
+      "und",
       "aber"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Konnektor",
      "e": "und verbindet zwei Sätze."
     },
     {
      "o": [
-      "ob",
       "dass",
+      "ob",
       "wann"
      ],
-     "r": 0,
+     "r": 1,
      "k": "indirekte Frage",
      "e": "ja/nein-Frage → ob."
     },
     {
      "o": [
       "weil",
-      "deshalb",
-      "denn"
+      "denn",
+      "deshalb"
      ],
      "r": 0,
      "k": "Nebensatz",
@@ -330,11 +330,11 @@
     },
     {
      "o": [
+      "wurde",
       "werde",
-      "würde",
-      "wurde"
+      "würde"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Konjunktiv II",
      "e": "Über eine Antwort würde ich mich freuen."
     },
@@ -360,11 +360,11 @@
    "gaps": [
     {
      "o": [
-      "beim",
+      "zum",
       "im",
-      "zum"
+      "beim"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Präposition",
      "e": "zum Ausflug mitkommen."
     },
@@ -380,19 +380,19 @@
     },
     {
      "o": [
-      "soll",
       "sollte",
-      "sollen"
+      "sollen",
+      "soll"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Modalverb",
      "e": "der Arzt sagt, er soll …"
     },
     {
      "o": [
       "vor",
-      "seit",
-      "ab"
+      "ab",
+      "seit"
      ],
      "r": 0,
      "k": "Zeit",
@@ -400,8 +400,8 @@
     },
     {
      "o": [
-      "dass",
       "ob",
+      "dass",
       "wenn"
      ],
      "r": 2,
@@ -411,10 +411,10 @@
     {
      "o": [
       "an",
-      "für",
-      "über"
+      "über",
+      "für"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Präposition",
      "e": "über jemanden = durch ihn."
     }
@@ -430,39 +430,39 @@
    "gaps": [
     {
      "o": [
-      "möchte",
       "mochte",
-      "möchten"
+      "möchten",
+      "möchte"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Modalverb",
      "e": "sie möchte."
     },
     {
      "o": [
-      "ob",
       "dass",
+      "ob",
       "was"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Nebensatz",
      "e": "lesen, dass …"
     },
     {
      "o": [
+      "über",
       "für",
-      "von",
-      "über"
+      "von"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Präposition",
      "e": "Informationen über + Akk."
     },
     {
      "o": [
-      "als",
+      "wenn",
       "wann",
-      "wenn"
+      "als"
      ],
      "r": 1,
      "k": "indirekte Frage",
@@ -470,11 +470,11 @@
     },
     {
      "o": [
-      "deshalb",
       "weil",
-      "denn"
+      "denn",
+      "deshalb"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Nebensatz",
      "e": "weil: Verb am Ende."
     },
@@ -500,11 +500,11 @@
    "gaps": [
     {
      "o": [
-      "oder",
       "denn",
-      "aber"
+      "aber",
+      "oder"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Konnektor",
      "e": "aber = Gegensatz."
     },
@@ -520,9 +520,9 @@
     },
     {
      "o": [
-      "zurückgeschickt",
+      "zurückschickt",
       "zurückschicken",
-      "zurückschickt"
+      "zurückgeschickt"
      ],
      "r": 1,
      "k": "Infinitiv",
@@ -530,8 +530,8 @@
     },
     {
      "o": [
-      "über",
       "um",
+      "über",
       "für"
      ],
      "r": 2,
@@ -540,21 +540,21 @@
     },
     {
      "o": [
-      "wäre",
       "würde",
+      "wäre",
       "hätte"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Konjunktiv II",
      "e": "Mir wäre es lieber …"
     },
     {
      "o": [
+      "auf",
       "für",
-      "an",
-      "auf"
+      "an"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Verb mit Präposition",
      "e": "warten auf."
     }

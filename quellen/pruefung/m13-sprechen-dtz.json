@@ -850,8 +850,8 @@
    "gaps": [
     {
      "o": [
-      "Gebrauch",
       "Einsetzen",
+      "Gebrauch",
       "Einsatz"
      ],
      "r": 2,
@@ -861,18 +861,18 @@
     {
      "o": [
       "an",
-      "für",
-      "auf"
+      "auf",
+      "für"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Nomen-Verb-Verbindung",
      "e": "Rücksicht nehmen auf."
     },
     {
      "o": [
-      "Beziehung",
+      "Kontakt",
       "Verbindung",
-      "Kontakt"
+      "Beziehung"
      ],
      "r": 1,
      "k": "Nomen-Verb-Verbindung",
@@ -890,18 +890,18 @@
     },
     {
      "o": [
-      "Abschluss",
+      "Ende",
       "Schluss",
-      "Ende"
+      "Abschluss"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Nomen-Verb-Verbindung",
      "e": "zum Abschluss bringen."
     },
     {
      "o": [
-      "unterstützt",
       "Unterstützen",
+      "unterstützt",
       "Unterstützung"
      ],
      "r": 2,
@@ -920,31 +920,31 @@
    "gaps": [
     {
      "o": [
-      "Beziehung",
       "Bezug",
-      "Bescheid"
+      "Bescheid",
+      "Beziehung"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Nomen-Verb-Verbindung",
      "e": "Bezug nehmen auf."
     },
     {
      "o": [
+      "Verzögern",
       "Verzögerung",
-      "verzögert",
-      "Verzögern"
+      "verzögert"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Wortfamilie",
      "e": "Nomen nach die: die Verzögerung."
     },
     {
      "o": [
-      "Bearbeitung",
+      "bearbeitet",
       "Bearbeiten",
-      "bearbeitet"
+      "Bearbeitung"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Wortfamilie",
      "e": "Nomen nach der: der Bearbeitung."
     },
@@ -960,19 +960,19 @@
     },
     {
      "o": [
-      "Rabatte",
       "Rabatt",
+      "Rabatte",
       "Rabatten"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Wortschatz",
      "e": "10 % Rabatt."
     },
     {
      "o": [
       "Verfügung",
-      "Antwort",
-      "Hilfe"
+      "Hilfe",
+      "Antwort"
      ],
      "r": 0,
      "k": "Redemittel",
@@ -990,61 +990,61 @@
    "gaps": [
     {
      "o": [
-      "ausgelacht",
+      "lacht aus",
       "auslachen",
-      "lacht aus"
+      "ausgelacht"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Passiv",
      "e": "wird … ausgelacht (Partizip II)."
     },
     {
      "o": [
+      "Sorgt",
       "Sorge",
-      "Sorgen",
-      "Sorgt"
+      "Sorgen"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Nomen-Verb-Verbindung",
      "e": "sich Sorgen machen um."
     },
     {
      "o": [
-      "bald",
       "schon",
-      "früh"
+      "früh",
+      "bald"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Wortschatz",
      "e": "bald = in kurzer Zeit."
     },
     {
      "o": [
-      "wichtige",
       "wichtig",
+      "wichtige",
       "wichtiger"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Adjektiv",
      "e": "nach sein ohne Endung."
     },
     {
      "o": [
       "bis",
-      "ab",
-      "seit"
+      "seit",
+      "ab"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Zeit",
      "e": "ab 15 Uhr."
     },
     {
      "o": [
       "verständlich",
-      "Verstehen",
-      "Verständnis"
+      "Verständnis",
+      "Verstehen"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Wortfamilie",
      "e": "Nomen nach Ihr: das Verständnis."
     }
@@ -1060,21 +1060,21 @@
    "gaps": [
     {
      "o": [
-      "gesammelt",
       "sammeln",
+      "gesammelt",
       "gesammelte"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Nomen-Verb-Verbindung",
      "e": "Erfahrungen sammeln → Perfekt: hat … gesammelt."
     },
     {
      "o": [
-      "schüchtern",
       "schüchternen",
+      "schüchtern",
       "schüchterne"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Adjektiv",
      "e": "nach sein ohne Endung."
     },
@@ -1091,18 +1091,18 @@
     {
      "o": [
       "Mitglieder",
-      "Mitgliedschaft",
-      "Mitglied"
+      "Mitglied",
+      "Mitgliedschaft"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Wortfamilie",
      "e": "die Mitgliedschaft kostet …"
     },
     {
      "o": [
       "möchte",
-      "möchten",
-      "mochte"
+      "mochte",
+      "möchten"
      ],
      "r": 0,
      "k": "Modalverb",

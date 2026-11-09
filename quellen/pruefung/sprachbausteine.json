@@ -1,38 +1,1244 @@
-{"sb": [
-{"id":"s01","ex":["DTB"],"t":"E-Mail an die Personalabteilung","text":"Sehr geehrte Frau Albrecht,\n\nich wende mich {{1}} Sie, weil ich eine Frage zu meinem Urlaubsanspruch habe. Laut meinem Vertrag stehen mir 28 Tage zu. {{2}} wurden mir in diesem Jahr nur 26 Tage angerechnet. Könnten Sie bitte prüfen, {{3}} hier ein Fehler vorliegt? Außerdem möchte ich wissen, ob ich meinen Resturlaub ins nächste Jahr {{4}} kann. Ich wäre Ihnen sehr dankbar, {{5}} Sie mir bis Ende der Woche antworten könnten. Für Rückfragen stehe ich Ihnen {{6}} Verfügung.\n\nMit freundlichen Grüßen",
- "gaps":[{"o":["an","bei","zu"],"r":0,"k":"Präposition","e":"sich an jemanden wenden (Akkusativ)."},{"o":["Deshalb","Allerdings","Damit"],"r":1,"k":"Konnektor","e":"allerdings = Gegensatz: 28 Tage im Vertrag, aber nur 26 angerechnet."},{"o":["dass","ob","wenn"],"r":1,"k":"Nebensatz","e":"prüfen, ob … – indirekte Ja/Nein-Frage."},{"o":["übertragen","überträgt","übertragt"],"r":0,"k":"Verb","e":"Modalverb kann + Infinitiv am Ende."},{"o":["dass","wenn","weil"],"r":1,"k":"Konjunktiv II","e":"Ich wäre dankbar, wenn … – höfliche Bitte."},{"o":["zur","zu","für"],"r":0,"k":"Redemittel","e":"feste Wendung: zur Verfügung stehen."}]},
-{"id":"s02","ex":["DTB"],"t":"Rundschreiben: Neue Parkregeln","text":"Liebe Kolleginnen und Kollegen,\n\n{{1}} der Bauarbeiten auf dem Firmengelände steht ab Montag nur noch die Hälfte der Parkplätze zur Verfügung. Wir bitten alle, {{2}} es möglich ist, mit öffentlichen Verkehrsmitteln zu kommen. Mitarbeiterinnen und Mitarbeiter, {{3}} auf das Auto angewiesen sind, können einen Parkausweis beantragen. Der Antrag muss bis Freitag {{4}} werden. Die Firma übernimmt {{5}} die Kosten für ein Jobticket. Wir danken Ihnen {{6}} Ihr Verständnis.",
- "gaps":[{"o":["Wegen","Trotz","Während"],"r":0,"k":"Präposition","e":"wegen + Genitiv = Grund."},{"o":["wenn","ob","als"],"r":0,"k":"Nebensatz","e":"wenn = Bedingung (falls)."},{"o":["die","denen","deren"],"r":0,"k":"Relativsatz","e":"Mitarbeiter (Plural, Nominativ) → die."},{"o":["abgeben","abgegeben","abzugeben"],"r":1,"k":"Passiv","e":"Passiv mit Modalverb: muss abgegeben werden."},{"o":["außerdem","trotzdem","sondern"],"r":0,"k":"Konnektor","e":"außerdem = zusätzlich."},{"o":["für","über","auf"],"r":0,"k":"Präposition","e":"jemandem für etwas danken."}]},
-{"id":"s03","ex":["DTB"],"t":"Antwort auf eine Bewerbung","text":"Sehr geehrter Herr Novak,\n\nvielen Dank für Ihre Bewerbung {{1}} die Stelle als Lagerist. Wir haben Ihre Unterlagen mit großem Interesse gelesen und möchten Sie gern {{2}} einem Vorstellungsgespräch einladen. {{3}} Ihnen der 14. März um 10 Uhr? Bitte bringen Sie Ihre Zeugnisse sowie einen gültigen Ausweis mit. Sollten Sie an diesem Tag verhindert sein, {{4}} Sie uns bitte rechtzeitig. Das Gespräch dauert etwa eine Stunde, {{5}} Sie auch unser Lager kennenlernen werden. Wir freuen uns {{6}}, Sie kennenzulernen.",
- "gaps":[{"o":["um","für","auf"],"r":1,"k":"Präposition","e":"Bewerbung für eine Stelle (auch: um eine Stelle)."},{"o":["zu","an","für"],"r":0,"k":"Präposition","e":"jemanden zu etwas einladen."},{"o":["Passt","Gefällt","Geht"],"r":0,"k":"Verb","e":"Passt Ihnen der Termin? – feste Frage für Termine."},{"o":["informieren","informiert","informierten"],"r":0,"k":"Imperativ","e":"Höflicher Imperativ mit Sie: informieren Sie uns."},{"o":["während","bevor","obwohl"],"r":0,"k":"Konnektor","e":"während = zur gleichen Zeit."},{"o":["darauf","daran","darüber"],"r":0,"k":"Präposition","e":"sich auf etwas freuen (Zukunft) → darauf."}]},
-{"id":"s04","ex":["DTB"],"t":"Beschwerde an einen Lieferanten","text":"Sehr geehrte Damen und Herren,\n\nam 3. April haben wir 200 Kartons bei Ihnen bestellt. {{1}} Ihrer Zusage sind die Kartons bis heute nicht eingetroffen. Wir haben mehrmals versucht, Sie telefonisch zu erreichen, {{2}} niemand hat sich gemeldet. Da wir die Kartons dringend {{3}}, bitten wir Sie um sofortige Lieferung. Falls die Ware nicht bis Freitag bei uns ist, {{4}} wir leider vom Vertrag zurücktreten. Wir hoffen, {{5}} wir weiterhin gut zusammenarbeiten können, und erwarten Ihre Antwort {{6}} Donnerstag.",
- "gaps":[{"o":["Trotz","Wegen","Statt"],"r":0,"k":"Präposition","e":"trotz + Genitiv = Gegensatz."},{"o":["aber","denn","oder"],"r":0,"k":"Konnektor","e":"aber = Gegensatz, Verb auf Position 2."},{"o":["benötigen","benötigt","benötigten"],"r":0,"k":"Nebensatz","e":"Im Nebensatz mit da: Verb am Ende, wir → benötigen."},{"o":["müssen","müsste","muss"],"r":0,"k":"Verb","e":"wir müssen (Plural)."},{"o":["dass","ob","damit"],"r":0,"k":"Nebensatz","e":"hoffen, dass …"},{"o":["bis","seit","ab"],"r":0,"k":"Präposition","e":"bis = Endpunkt einer Frist."}]},
-{"id":"s05","ex":["DTB"],"t":"Einladung zur Betriebsversammlung","text":"Liebe Mitarbeiterinnen und Mitarbeiter,\n\nhiermit laden wir Sie herzlich {{1}} unserer jährlichen Betriebsversammlung ein. Sie findet am 22. Mai in der Kantine statt. {{2}} der Versammlung werden die Ergebnisse des letzten Jahres vorgestellt. Außerdem möchten wir mit Ihnen über die geplanten Veränderungen sprechen, {{3}} viele von Ihnen betreffen. Die Teilnahme gilt als Arbeitszeit. Wer an diesem Tag Schicht hat, {{4}} bitte rechtzeitig mit seiner Teamleitung. Fragen können Sie uns gern {{5}} vorher schicken. Wir freuen uns auf eine rege Teilnahme und {{6}} Ihre Ideen.",
- "gaps":[{"o":["zu","bei","an"],"r":0,"k":"Präposition","e":"einladen zu + Dativ: zu unserer Versammlung."},{"o":["Während","Seit","Bevor"],"r":0,"k":"Präposition","e":"während + Genitiv = in der Zeit von."},{"o":["die","der","denen"],"r":0,"k":"Relativsatz","e":"die Veränderungen (Plural, Nominativ) → die."},{"o":["spricht","sprechen","gesprochen"],"r":0,"k":"Verb","e":"wer … spricht (3. Person Singular)."},{"o":["schon","noch","erst"],"r":0,"k":"Adverb","e":"schon vorher = bereits vor dem Termin."},{"o":["auf","über","an"],"r":0,"k":"Präposition","e":"sich auf etwas freuen."}]},
-{"id":"s06","ex":["DTB"],"t":"Information für Patienten","text":"Liebe Patientinnen und Patienten,\n\nunsere Praxis bleibt vom 1. bis 14. August {{1}} Urlaub geschlossen. In dringenden Fällen wenden Sie sich bitte an die Praxis Dr. Haas, {{2}} uns in dieser Zeit vertritt. Rezepte und Überweisungen {{3}} Sie bitte bis zum 28. Juli bei uns abholen. {{4}} Sie regelmäßig Medikamente nehmen, denken Sie bitte daran, sich rechtzeitig ein Rezept geben zu lassen. Ab dem 15. August sind wir wieder {{5}} gewohnt für Sie da. Wir bitten Sie {{6}} Verständnis.",
- "gaps":[{"o":["wegen","trotz","statt"],"r":0,"k":"Präposition","e":"wegen Urlaub = Grund."},{"o":["die","der","welcher"],"r":0,"k":"Relativsatz","e":"die Praxis (feminin) → die."},{"o":["können","kann","konnten"],"r":0,"k":"Verb","e":"Sie können (Plural/höflich)."},{"o":["Wenn","Ob","Damit"],"r":0,"k":"Nebensatz","e":"wenn = Bedingung; Nebensatz am Anfang → danach Verb (denken)."},{"o":["wie","als","so"],"r":0,"k":"Redemittel","e":"wie gewohnt = wie immer."},{"o":["um","für","nach"],"r":0,"k":"Präposition","e":"um Verständnis bitten."}]},
-{"id":"s07","ex":["DTB"],"t":"E-Mail an eine Kollegin","text":"Liebe Jana,\n\nvielen Dank, {{1}} du mir gestern bei der Inventur geholfen hast. Ohne dich {{2}} ich das nie rechtzeitig geschafft. Leider habe ich vergessen, dir die Liste mit den fehlenden Artikeln {{3}}. Ich schicke sie dir im Anhang. Könntest du die Zahlen bitte noch einmal überprüfen, {{4}} du Zeit hast? Der Chef möchte die Ergebnisse {{5}} Montag haben. Als Dankeschön lade ich dich nächste Woche {{6}} einen Kaffee ein.\n\nLiebe Grüße",
- "gaps":[{"o":["dass","ob","weil"],"r":0,"k":"Nebensatz","e":"Danke, dass …"},{"o":["hätte","habe","hatte"],"r":0,"k":"Konjunktiv II","e":"Irreal in der Vergangenheit: hätte … geschafft."},{"o":["zu geben","gegeben","geben"],"r":0,"k":"Infinitiv mit zu","e":"vergessen + zu + Infinitiv."},{"o":["sobald","bevor","seitdem"],"r":0,"k":"Konnektor","e":"sobald = sofort, wenn."},{"o":["bis","seit","um"],"r":0,"k":"Präposition","e":"bis Montag = Frist."},{"o":["auf","zu","an"],"r":0,"k":"Präposition","e":"jemanden auf einen Kaffee einladen."}]},
-{"id":"s08","ex":["DTB"],"t":"Kundenschreiben: Vertragsänderung","text":"Sehr geehrte Kundin, sehr geehrter Kunde,\n\n{{1}} 1. Juli ändern sich unsere Allgemeinen Geschäftsbedingungen. Die wichtigsten Änderungen {{2}} Sie im beiliegenden Informationsblatt. {{3}} Sie mit den neuen Bedingungen nicht einverstanden sein, können Sie den Vertrag bis zum 30. Juni kündigen. Wenn wir bis dahin nichts von Ihnen hören, gehen wir davon aus, {{4}} Sie den Änderungen zustimmen. Bei Fragen erreichen Sie unseren Kundenservice {{5}} Montag bis Freitag von 8 bis 18 Uhr. Wir bedanken uns für Ihr Vertrauen und freuen uns auf die {{6}} Zusammenarbeit.",
- "gaps":[{"o":["Ab","Seit","Bis"],"r":0,"k":"Präposition","e":"ab = Beginn in der Zukunft."},{"o":["finden","findet","gefunden"],"r":0,"k":"Verb","e":"Sie finden (höflich, Plural)."},{"o":["Sollten","Würden","Hätten"],"r":0,"k":"Konjunktiv II","e":"Sollten Sie … = falls Sie … (Bedingung ohne wenn)."},{"o":["dass","ob","wenn"],"r":0,"k":"Nebensatz","e":"davon ausgehen, dass …"},{"o":["von","ab","seit"],"r":0,"k":"Präposition","e":"von Montag bis Freitag."},{"o":["weitere","weiteren","weiterer"],"r":0,"k":"Adjektivendung","e":"Nach die (Akkusativ, feminin) endet das Adjektiv auf -e: die weitere Zusammenarbeit."}]},
-{"id":"s09","ex":["DTB"],"t":"Bericht über einen Arbeitsunfall","text":"Am Dienstag gegen 10 Uhr ist im Lager ein Unfall passiert. Ein Kollege ist von einer Leiter gefallen, {{1}} er ein schweres Paket aus dem obersten Regal holen wollte. Er {{2}} sofort von einer Ersthelferin versorgt und anschließend ins Krankenhaus gebracht. Zum Glück hat er sich nur leicht verletzt. Die Leiter war beschädigt, {{3}} vorher niemand bemerkt hatte. {{4}} solche Unfälle in Zukunft zu vermeiden, werden alle Leitern ab sofort jede Woche kontrolliert. Außerdem sollen schwere Pakete nicht mehr {{5}} oben gelagert werden. Alle Mitarbeiter nehmen nächsten Monat an einer Sicherheitsschulung {{6}}.",
- "gaps":[{"o":["als","wenn","wann"],"r":0,"k":"Nebensatz","e":"als = einmalige Situation in der Vergangenheit."},{"o":["wurde","wird","war"],"r":0,"k":"Passiv","e":"Passiv Präteritum: wurde versorgt."},{"o":["was","das","dass"],"r":0,"k":"Relativsatz","e":"was bezieht sich auf den ganzen Satz davor (die Leiter war beschädigt)."},{"o":["Um","Damit","Weil"],"r":0,"k":"Infinitiv mit zu","e":"um … zu + Infinitiv = Ziel."},{"o":["ganz","sehr","viel"],"r":0,"k":"Adverb","e":"ganz oben = am höchsten Punkt."},{"o":["teil","mit","an"],"r":0,"k":"trennbares Verb","e":"teilnehmen an: Er nimmt … teil."}]},
-{"id":"s10","ex":["DTB"],"t":"Anfrage an einen Kunden","text":"Sehr geehrter Herr Wagner,\n\nwir beziehen uns auf Ihre Bestellung vom 2. Juni. Leider ist das von Ihnen gewünschte Modell zurzeit nicht {{1}} Lager. Der Hersteller kann es erst Ende Juli liefern. Wir könnten Ihnen {{2}} ein ähnliches Modell anbieten, das sofort lieferbar ist. Es unterscheidet sich nur in der Farbe {{3}} dem bestellten Gerät. Bitte teilen Sie uns mit, {{4}} Sie lieber warten oder das andere Modell nehmen möchten. {{5}} Sie sich für das andere Modell entscheiden, erhalten Sie einen Rabatt von 5 %. Wir danken Ihnen für Ihre Geduld und hoffen {{6}} Ihr Verständnis.",
- "gaps":[{"o":["auf","im","am"],"r":0,"k":"Redemittel","e":"auf Lager sein = vorrätig sein."},{"o":["stattdessen","deshalb","trotzdem"],"r":0,"k":"Konnektor","e":"stattdessen = als Alternative."},{"o":["von","mit","zu"],"r":0,"k":"Präposition","e":"sich von etwas unterscheiden."},{"o":["ob","dass","wenn"],"r":0,"k":"Indirekte Frage","e":"mitteilen, ob … oder …"},{"o":["Falls","Ob","Obwohl"],"r":0,"k":"Konnektor","e":"falls = wenn (Bedingung)."},{"o":["auf","für","an"],"r":0,"k":"Präposition","e":"auf etwas hoffen."}]},
-{"id":"s11","ex":["DTB"],"t":"Forumsbeitrag: Erfahrung mit Weiterbildung","text":"Hallo zusammen,\n\nich möchte euch von meiner Weiterbildung zur Buchhalterin erzählen. Am Anfang hatte ich Angst, {{1}} ich nach so vielen Jahren wieder lernen musste. Der Kurs fand zweimal pro Woche abends statt, {{2}} ich tagsüber arbeiten konnte. Besonders hilfreich war die Dozentin, {{3}} alles sehr verständlich erklärt hat. Natürlich war es anstrengend, Arbeit, Familie und Kurs {{4}} verbinden. Aber es hat sich gelohnt: Seit drei Monaten arbeite ich in einer neuen Stelle und {{5}} deutlich mehr. Ich kann jedem nur raten, sich {{6}} eine Weiterbildung zu informieren.",
- "gaps":[{"o":["weil","obwohl","damit"],"r":0,"k":"Nebensatz","e":"weil = Grund."},{"o":["sodass","obwohl","damit"],"r":0,"k":"Konnektor","e":"sodass = Folge."},{"o":["die","der","deren"],"r":0,"k":"Relativsatz","e":"die Dozentin (feminin, Nominativ) → die."},{"o":["zu","um","für"],"r":0,"k":"Infinitiv mit zu","e":"Es ist anstrengend, … zu verbinden."},{"o":["verdiene","verdient","verdienen"],"r":0,"k":"Verb","e":"ich verdiene."},{"o":["über","von","für"],"r":0,"k":"Präposition","e":"sich über etwas informieren."}]},
-{"id":"s12","ex":["DTB"],"t":"Mitteilung: Neue Arbeitszeiten","text":"Liebe Kolleginnen und Kollegen,\n\n{{1}} der Geschäftsleitung ändern sich ab Oktober die Öffnungszeiten unserer Filiale. Wir öffnen dann bereits um 8 Uhr, schließen {{2}} schon um 19 Uhr. Der neue Schichtplan {{3}} gerade erstellt und hängt ab nächster Woche im Pausenraum aus. Wer besondere Wünsche hat, {{4}} sich bitte bis zum 15. September bei mir melden. Wir versuchen, alle Wünsche zu berücksichtigen, können aber nichts {{5}}. Vielen Dank, dass ihr {{6}} so flexibel seid.",
- "gaps":[{"o":["Auf Wunsch","Wegen Wunsch","Mit Wunsch"],"r":0,"k":"Redemittel","e":"auf Wunsch von jemandem."},{"o":["dafür","dagegen","deshalb"],"r":0,"k":"Konnektor","e":"dafür = als Ausgleich."},{"o":["wird","ist","hat"],"r":0,"k":"Passiv","e":"Passiv Präsens: wird erstellt."},{"o":["sollte","solle","sollen"],"r":0,"k":"Verb","e":"wer … sollte sich melden (Singular)."},{"o":["versprechen","versprochen","verspricht"],"r":0,"k":"Verb","e":"können + Infinitiv: versprechen."},{"o":["immer","schon","noch"],"r":0,"k":"Adverb","e":"immer so flexibel."}]},
-{"id":"s13","ex":["DTZ"],"t":"Brief an die Vermieterin","text":"Sehr geehrte Frau Schäfer,\n\nich schreibe Ihnen, {{1}} in meiner Wohnung die Heizung nicht funktioniert. Seit drei Tagen ist es sehr kalt, und meine Kinder {{2}} schon erkältet. Ich habe schon zweimal bei Ihnen angerufen, aber Sie waren nicht {{3}} Hause. Bitte schicken Sie so schnell {{4}} möglich einen Handwerker. Ich bin jeden Tag ab 14 Uhr zu Hause. Sie können mich auch {{5}} Handy anrufen: 0157 223344. Vielen Dank {{6}} Ihre Hilfe.\n\nMit freundlichen Grüßen",
- "gaps":[{"o":["weil","dass","ob"],"r":0,"k":"Nebensatz","e":"weil = Grund, Verb am Ende."},{"o":["sind","haben","ist"],"r":0,"k":"Verb","e":"Die Kinder sind erkältet."},{"o":["zu","nach","im"],"r":0,"k":"Präposition","e":"zu Hause = wo? nach Hause = wohin?"},{"o":["wie","als","so"],"r":0,"k":"Redemittel","e":"so schnell wie möglich."},{"o":["auf dem","im","am"],"r":0,"k":"Präposition","e":"auf dem Handy anrufen."},{"o":["für","über","von"],"r":0,"k":"Präposition","e":"Danke für …"}]},
-{"id":"s14","ex":["DTZ"],"t":"Entschuldigung für die Schule","text":"Sehr geehrter Herr Klein,\n\nmein Sohn Leon {{1}} gestern und heute nicht zur Schule kommen, weil er krank war. Er hatte Fieber und Halsschmerzen. Wir waren beim Arzt, und er {{2}} jetzt Medikamente. Morgen kann er wieder in die Schule {{3}}. Können Sie mir bitte sagen, {{4}} Leon die Hausaufgaben bekommt? Er möchte nichts verpassen. Ich danke Ihnen {{5}} und bitte Sie, das Fehlen {{6}} entschuldigen.\n\nMit freundlichen Grüßen",
- "gaps":[{"o":["konnte","kann","könnte"],"r":0,"k":"Verb","e":"Präteritum von können: konnte."},{"o":["nimmt","nehmt","nehmen"],"r":0,"k":"Verb","e":"er nimmt."},{"o":["gehen","geht","gegangen"],"r":0,"k":"Satzklammer","e":"kann … gehen: Infinitiv am Ende."},{"o":["wie","dass","weil"],"r":0,"k":"Indirekte Frage","e":"sagen, wie …"},{"o":["im Voraus","vorher","vorbei"],"r":0,"k":"Redemittel","e":"Ich danke Ihnen im Voraus."},{"o":["zu","um","für"],"r":0,"k":"Infinitiv mit zu","e":"bitten, etwas zu tun."}]},
-{"id":"s15","ex":["DTZ"],"t":"Kündigung im Fitnessstudio","text":"Sehr geehrte Damen und Herren,\n\nhiermit kündige ich meinen Vertrag {{1}} nächstmöglichen Termin. Meine Mitgliedsnummer ist 45821. Ich ziehe nächsten Monat in eine andere Stadt, {{2}} kann ich nicht mehr zu Ihnen kommen. Bitte schicken Sie mir eine Bestätigung {{3}} die Kündigung. Außerdem möchte ich wissen, {{4}} ich meinen Schlüssel für den Spind zurückgeben muss. Ich {{5}} mich, wenn Sie mir schnell antworten. Vielen Dank, {{6}} ich bei Ihnen trainieren durfte.\n\nMit freundlichen Grüßen",
- "gaps":[{"o":["zum","am","im"],"r":0,"k":"Präposition","e":"zum nächstmöglichen Termin (feste Wendung)."},{"o":["deshalb","weil","denn"],"r":0,"k":"Konnektor","e":"deshalb + Verb direkt danach: deshalb kann ich."},{"o":["über","für","von"],"r":0,"k":"Präposition","e":"Bestätigung über etwas."},{"o":["wann","dass","weil"],"r":0,"k":"Indirekte Frage","e":"wissen, wann …"},{"o":["freue","freust","freut"],"r":0,"k":"Verb","e":"ich freue mich."},{"o":["dass","ob","wenn"],"r":0,"k":"Nebensatz","e":"Danke, dass …"}]},
-{"id":"s16","ex":["DTZ"],"t":"Anfrage beim Sportverein","text":"Liebe Damen und Herren,\n\nich habe Ihre Anzeige in der Zeitung gelesen und interessiere mich {{1}} den Schwimmkurs für Kinder. Meine Tochter ist sieben Jahre alt und kann noch nicht schwimmen. Ich möchte gern wissen, {{2}} der Kurs beginnt und wie viel er kostet. Meine Tochter geht bis 14 Uhr in die Schule, {{3}} wäre ein Kurs am Nachmittag gut. Muss sie {{4}} Mitglied im Verein sein? Ich würde mich freuen, {{5}} Sie mir Informationen schicken. Sie {{6}} mich auch telefonisch erreichen.\n\nViele Grüße",
- "gaps":[{"o":["für","an","über"],"r":0,"k":"Präposition","e":"sich für etwas interessieren."},{"o":["wann","dass","ob"],"r":0,"k":"Indirekte Frage","e":"wissen, wann …"},{"o":["deshalb","trotzdem","denn"],"r":0,"k":"Konnektor","e":"deshalb = Folge."},{"o":["dafür","darüber","damit"],"r":0,"k":"Präposition","e":"dafür = für den Kurs."},{"o":["wenn","dass","ob"],"r":0,"k":"Konjunktiv II","e":"Ich würde mich freuen, wenn …"},{"o":["können","kann","könnt"],"r":0,"k":"Verb","e":"Sie können."}]},
-{"id":"s17","ex":["DTZ"],"t":"Brief an die Krankenkasse","text":"Sehr geehrte Damen und Herren,\n\nich habe {{1}} Monat eine neue Adresse. Ich wohne jetzt in der Gartenstraße 12, 04109 Leipzig. Bitte ändern Sie meine Daten. Meine Versichertennummer lautet A123456789. Leider habe ich meine Versichertenkarte verloren. Können Sie mir bitte eine neue Karte {{2}}? Brauchen Sie dafür ein neues Foto {{3}} mir? Ich habe nächste Woche einen Termin beim Zahnarzt und {{4}} die Karte dringend. Vielen Dank {{5}} Ihre Hilfe.",
- "gaps":[{"o":["seit letztem","vor letztem","ab letztem"],"r":0,"k":"Präposition","e":"seit + Dativ = Beginn in der Vergangenheit, dauert noch an."},{"o":["schicken","schickt","geschickt"],"r":0,"k":"Satzklammer","e":"Können Sie … schicken? Infinitiv am Ende."},{"o":["von","bei","aus"],"r":0,"k":"Präposition","e":"ein Foto von mir."},{"o":["brauche","braucht","brauchen"],"r":0,"k":"Verb","e":"ich brauche."},{"o":["für","über","an"],"r":0,"k":"Präposition","e":"Danke für …"}]},
-{"id":"s18","ex":["DTZ"],"t":"Einladung an die Nachbarn","text":"Liebe Nachbarinnen und Nachbarn,\n\nam Samstag, dem 12. Juni, feiern wir den 5. Geburtstag unserer Tochter. Es {{1}} vielleicht etwas lauter werden, besonders am Nachmittag. Wir bitten {{2}} Verständnis. Um 18 Uhr ist die Feier zu Ende. {{3}} Sie Lust haben, können Sie gern auf ein Stück Kuchen vorbeikommen! Wir freuen uns {{4}} Ihren Besuch. Falls es Probleme gibt, klingeln Sie einfach {{5}} uns.\n\nViele Grüße, Familie Iwanow, 2. Stock",
- "gaps":[{"o":["kann","können","konnte"],"r":0,"k":"Verb","e":"Es kann … werden."},{"o":["um","für","nach"],"r":0,"k":"Präposition","e":"um Verständnis bitten."},{"o":["Wenn","Ob","Dass"],"r":0,"k":"Nebensatz","e":"Wenn … , (dann) Verb: können Sie."},{"o":["auf","über","an"],"r":0,"k":"Präposition","e":"sich auf etwas freuen."},{"o":["bei","zu","an"],"r":0,"k":"Präposition","e":"bei jemandem klingeln."}]}
-]}
+{
+ "sb": [
+  {
+   "id": "s01",
+   "ex": [
+    "DTB"
+   ],
+   "t": "E-Mail an die Personalabteilung",
+   "text": "Sehr geehrte Frau Albrecht,\n\nich wende mich {{1}} Sie, weil ich eine Frage zu meinem Urlaubsanspruch habe. Laut meinem Vertrag stehen mir 28 Tage zu. {{2}} wurden mir in diesem Jahr nur 26 Tage angerechnet. Könnten Sie bitte prüfen, {{3}} hier ein Fehler vorliegt? Außerdem möchte ich wissen, ob ich meinen Resturlaub ins nächste Jahr {{4}} kann. Ich wäre Ihnen sehr dankbar, {{5}} Sie mir bis Ende der Woche antworten könnten. Für Rückfragen stehe ich Ihnen {{6}} Verfügung.\n\nMit freundlichen Grüßen",
+   "gaps": [
+    {
+     "o": [
+      "zu",
+      "an",
+      "bei"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "sich an jemanden wenden (Akkusativ)."
+    },
+    {
+     "o": [
+      "Damit",
+      "Deshalb",
+      "Allerdings"
+     ],
+     "r": 2,
+     "k": "Konnektor",
+     "e": "allerdings = Gegensatz: 28 Tage im Vertrag, aber nur 26 angerechnet."
+    },
+    {
+     "o": [
+      "wenn",
+      "dass",
+      "ob"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "prüfen, ob … – indirekte Ja/Nein-Frage."
+    },
+    {
+     "o": [
+      "übertragt",
+      "übertragen",
+      "überträgt"
+     ],
+     "r": 1,
+     "k": "Verb",
+     "e": "Modalverb kann + Infinitiv am Ende."
+    },
+    {
+     "o": [
+      "dass",
+      "wenn",
+      "weil"
+     ],
+     "r": 1,
+     "k": "Konjunktiv II",
+     "e": "Ich wäre dankbar, wenn … – höfliche Bitte."
+    },
+    {
+     "o": [
+      "zur",
+      "zu",
+      "für"
+     ],
+     "r": 0,
+     "k": "Redemittel",
+     "e": "feste Wendung: zur Verfügung stehen."
+    }
+   ]
+  },
+  {
+   "id": "s02",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Rundschreiben: Neue Parkregeln",
+   "text": "Liebe Kolleginnen und Kollegen,\n\n{{1}} der Bauarbeiten auf dem Firmengelände steht ab Montag nur noch die Hälfte der Parkplätze zur Verfügung. Wir bitten alle, {{2}} es möglich ist, mit öffentlichen Verkehrsmitteln zu kommen. Mitarbeiterinnen und Mitarbeiter, {{3}} auf das Auto angewiesen sind, können einen Parkausweis beantragen. Der Antrag muss bis Freitag {{4}} werden. Die Firma übernimmt {{5}} die Kosten für ein Jobticket. Wir danken Ihnen {{6}} Ihr Verständnis.",
+   "gaps": [
+    {
+     "o": [
+      "Trotz",
+      "Während",
+      "Wegen"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "wegen + Genitiv = Grund."
+    },
+    {
+     "o": [
+      "wenn",
+      "ob",
+      "als"
+     ],
+     "r": 0,
+     "k": "Nebensatz",
+     "e": "wenn = Bedingung (falls)."
+    },
+    {
+     "o": [
+      "die",
+      "denen",
+      "deren"
+     ],
+     "r": 0,
+     "k": "Relativsatz",
+     "e": "Mitarbeiter (Plural, Nominativ) → die."
+    },
+    {
+     "o": [
+      "abzugeben",
+      "abgegeben",
+      "abgeben"
+     ],
+     "r": 1,
+     "k": "Passiv",
+     "e": "Passiv mit Modalverb: muss abgegeben werden."
+    },
+    {
+     "o": [
+      "außerdem",
+      "sondern",
+      "trotzdem"
+     ],
+     "r": 0,
+     "k": "Konnektor",
+     "e": "außerdem = zusätzlich."
+    },
+    {
+     "o": [
+      "für",
+      "über",
+      "auf"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "jemandem für etwas danken."
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Antwort auf eine Bewerbung",
+   "text": "Sehr geehrter Herr Novak,\n\nvielen Dank für Ihre Bewerbung {{1}} die Stelle als Lagerist. Wir haben Ihre Unterlagen mit großem Interesse gelesen und möchten Sie gern {{2}} einem Vorstellungsgespräch einladen. {{3}} Ihnen der 14. März um 10 Uhr? Bitte bringen Sie Ihre Zeugnisse sowie einen gültigen Ausweis mit. Sollten Sie an diesem Tag verhindert sein, {{4}} Sie uns bitte rechtzeitig. Das Gespräch dauert etwa eine Stunde, {{5}} Sie auch unser Lager kennenlernen werden. Wir freuen uns {{6}}, Sie kennenzulernen.",
+   "gaps": [
+    {
+     "o": [
+      "für",
+      "um",
+      "auf"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "Bewerbung für eine Stelle (auch: um eine Stelle)."
+    },
+    {
+     "o": [
+      "an",
+      "für",
+      "zu"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "jemanden zu etwas einladen."
+    },
+    {
+     "o": [
+      "Gefällt",
+      "Geht",
+      "Passt"
+     ],
+     "r": 2,
+     "k": "Verb",
+     "e": "Passt Ihnen der Termin? – feste Frage für Termine."
+    },
+    {
+     "o": [
+      "informieren",
+      "informiert",
+      "informierten"
+     ],
+     "r": 0,
+     "k": "Imperativ",
+     "e": "Höflicher Imperativ mit Sie: informieren Sie uns."
+    },
+    {
+     "o": [
+      "obwohl",
+      "während",
+      "bevor"
+     ],
+     "r": 1,
+     "k": "Konnektor",
+     "e": "während = zur gleichen Zeit."
+    },
+    {
+     "o": [
+      "darauf",
+      "darüber",
+      "daran"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "sich auf etwas freuen (Zukunft) → darauf."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Beschwerde an einen Lieferanten",
+   "text": "Sehr geehrte Damen und Herren,\n\nam 3. April haben wir 200 Kartons bei Ihnen bestellt. {{1}} Ihrer Zusage sind die Kartons bis heute nicht eingetroffen. Wir haben mehrmals versucht, Sie telefonisch zu erreichen, {{2}} niemand hat sich gemeldet. Da wir die Kartons dringend {{3}}, bitten wir Sie um sofortige Lieferung. Falls die Ware nicht bis Freitag bei uns ist, {{4}} wir leider vom Vertrag zurücktreten. Wir hoffen, {{5}} wir weiterhin gut zusammenarbeiten können, und erwarten Ihre Antwort {{6}} Donnerstag.",
+   "gaps": [
+    {
+     "o": [
+      "Wegen",
+      "Trotz",
+      "Statt"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "trotz + Genitiv = Gegensatz."
+    },
+    {
+     "o": [
+      "oder",
+      "aber",
+      "denn"
+     ],
+     "r": 1,
+     "k": "Konnektor",
+     "e": "aber = Gegensatz, Verb auf Position 2."
+    },
+    {
+     "o": [
+      "benötigten",
+      "benötigen",
+      "benötigt"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "Im Nebensatz mit da: Verb am Ende, wir → benötigen."
+    },
+    {
+     "o": [
+      "müsste",
+      "müssen",
+      "muss"
+     ],
+     "r": 1,
+     "k": "Verb",
+     "e": "wir müssen (Plural)."
+    },
+    {
+     "o": [
+      "damit",
+      "ob",
+      "dass"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "hoffen, dass …"
+    },
+    {
+     "o": [
+      "bis",
+      "seit",
+      "ab"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "bis = Endpunkt einer Frist."
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Einladung zur Betriebsversammlung",
+   "text": "Liebe Mitarbeiterinnen und Mitarbeiter,\n\nhiermit laden wir Sie herzlich {{1}} unserer jährlichen Betriebsversammlung ein. Sie findet am 22. Mai in der Kantine statt. {{2}} der Versammlung werden die Ergebnisse des letzten Jahres vorgestellt. Außerdem möchten wir mit Ihnen über die geplanten Veränderungen sprechen, {{3}} viele von Ihnen betreffen. Die Teilnahme gilt als Arbeitszeit. Wer an diesem Tag Schicht hat, {{4}} bitte rechtzeitig mit seiner Teamleitung. Fragen können Sie uns gern {{5}} vorher schicken. Wir freuen uns auf eine rege Teilnahme und {{6}} Ihre Ideen.",
+   "gaps": [
+    {
+     "o": [
+      "an",
+      "bei",
+      "zu"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "einladen zu + Dativ: zu unserer Versammlung."
+    },
+    {
+     "o": [
+      "Während",
+      "Seit",
+      "Bevor"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "während + Genitiv = in der Zeit von."
+    },
+    {
+     "o": [
+      "denen",
+      "der",
+      "die"
+     ],
+     "r": 2,
+     "k": "Relativsatz",
+     "e": "die Veränderungen (Plural, Nominativ) → die."
+    },
+    {
+     "o": [
+      "spricht",
+      "gesprochen",
+      "sprechen"
+     ],
+     "r": 0,
+     "k": "Verb",
+     "e": "wer … spricht (3. Person Singular)."
+    },
+    {
+     "o": [
+      "schon",
+      "noch",
+      "erst"
+     ],
+     "r": 0,
+     "k": "Adverb",
+     "e": "schon vorher = bereits vor dem Termin."
+    },
+    {
+     "o": [
+      "an",
+      "über",
+      "auf"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "sich auf etwas freuen."
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Information für Patienten",
+   "text": "Liebe Patientinnen und Patienten,\n\nunsere Praxis bleibt vom 1. bis 14. August {{1}} Urlaub geschlossen. In dringenden Fällen wenden Sie sich bitte an die Praxis Dr. Haas, {{2}} uns in dieser Zeit vertritt. Rezepte und Überweisungen {{3}} Sie bitte bis zum 28. Juli bei uns abholen. {{4}} Sie regelmäßig Medikamente nehmen, denken Sie bitte daran, sich rechtzeitig ein Rezept geben zu lassen. Ab dem 15. August sind wir wieder {{5}} gewohnt für Sie da. Wir bitten Sie {{6}} Verständnis.",
+   "gaps": [
+    {
+     "o": [
+      "wegen",
+      "trotz",
+      "statt"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "wegen Urlaub = Grund."
+    },
+    {
+     "o": [
+      "welcher",
+      "der",
+      "die"
+     ],
+     "r": 2,
+     "k": "Relativsatz",
+     "e": "die Praxis (feminin) → die."
+    },
+    {
+     "o": [
+      "konnten",
+      "können",
+      "kann"
+     ],
+     "r": 1,
+     "k": "Verb",
+     "e": "Sie können (Plural/höflich)."
+    },
+    {
+     "o": [
+      "Wenn",
+      "Damit",
+      "Ob"
+     ],
+     "r": 0,
+     "k": "Nebensatz",
+     "e": "wenn = Bedingung; Nebensatz am Anfang → danach Verb (denken)."
+    },
+    {
+     "o": [
+      "als",
+      "wie",
+      "so"
+     ],
+     "r": 1,
+     "k": "Redemittel",
+     "e": "wie gewohnt = wie immer."
+    },
+    {
+     "o": [
+      "für",
+      "um",
+      "nach"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "um Verständnis bitten."
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "ex": [
+    "DTB"
+   ],
+   "t": "E-Mail an eine Kollegin",
+   "text": "Liebe Jana,\n\nvielen Dank, {{1}} du mir gestern bei der Inventur geholfen hast. Ohne dich {{2}} ich das nie rechtzeitig geschafft. Leider habe ich vergessen, dir die Liste mit den fehlenden Artikeln {{3}}. Ich schicke sie dir im Anhang. Könntest du die Zahlen bitte noch einmal überprüfen, {{4}} du Zeit hast? Der Chef möchte die Ergebnisse {{5}} Montag haben. Als Dankeschön lade ich dich nächste Woche {{6}} einen Kaffee ein.\n\nLiebe Grüße",
+   "gaps": [
+    {
+     "o": [
+      "ob",
+      "dass",
+      "weil"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "Danke, dass …"
+    },
+    {
+     "o": [
+      "habe",
+      "hätte",
+      "hatte"
+     ],
+     "r": 1,
+     "k": "Konjunktiv II",
+     "e": "Irreal in der Vergangenheit: hätte … geschafft."
+    },
+    {
+     "o": [
+      "geben",
+      "zu geben",
+      "gegeben"
+     ],
+     "r": 1,
+     "k": "Infinitiv mit zu",
+     "e": "vergessen + zu + Infinitiv."
+    },
+    {
+     "o": [
+      "bevor",
+      "seitdem",
+      "sobald"
+     ],
+     "r": 2,
+     "k": "Konnektor",
+     "e": "sobald = sofort, wenn."
+    },
+    {
+     "o": [
+      "seit",
+      "um",
+      "bis"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "bis Montag = Frist."
+    },
+    {
+     "o": [
+      "zu",
+      "an",
+      "auf"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "jemanden auf einen Kaffee einladen."
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kundenschreiben: Vertragsänderung",
+   "text": "Sehr geehrte Kundin, sehr geehrter Kunde,\n\n{{1}} 1. Juli ändern sich unsere Allgemeinen Geschäftsbedingungen. Die wichtigsten Änderungen {{2}} Sie im beiliegenden Informationsblatt. {{3}} Sie mit den neuen Bedingungen nicht einverstanden sein, können Sie den Vertrag bis zum 30. Juni kündigen. Wenn wir bis dahin nichts von Ihnen hören, gehen wir davon aus, {{4}} Sie den Änderungen zustimmen. Bei Fragen erreichen Sie unseren Kundenservice {{5}} Montag bis Freitag von 8 bis 18 Uhr. Wir bedanken uns für Ihr Vertrauen und freuen uns auf die {{6}} Zusammenarbeit.",
+   "gaps": [
+    {
+     "o": [
+      "Ab",
+      "Seit",
+      "Bis"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "ab = Beginn in der Zukunft."
+    },
+    {
+     "o": [
+      "gefunden",
+      "findet",
+      "finden"
+     ],
+     "r": 2,
+     "k": "Verb",
+     "e": "Sie finden (höflich, Plural)."
+    },
+    {
+     "o": [
+      "Hätten",
+      "Würden",
+      "Sollten"
+     ],
+     "r": 2,
+     "k": "Konjunktiv II",
+     "e": "Sollten Sie … = falls Sie … (Bedingung ohne wenn)."
+    },
+    {
+     "o": [
+      "wenn",
+      "ob",
+      "dass"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "davon ausgehen, dass …"
+    },
+    {
+     "o": [
+      "ab",
+      "von",
+      "seit"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "von Montag bis Freitag."
+    },
+    {
+     "o": [
+      "weiteren",
+      "weiterer",
+      "weitere"
+     ],
+     "r": 2,
+     "k": "Adjektivendung",
+     "e": "Nach die (Akkusativ, feminin) endet das Adjektiv auf -e: die weitere Zusammenarbeit."
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Bericht über einen Arbeitsunfall",
+   "text": "Am Dienstag gegen 10 Uhr ist im Lager ein Unfall passiert. Ein Kollege ist von einer Leiter gefallen, {{1}} er ein schweres Paket aus dem obersten Regal holen wollte. Er {{2}} sofort von einer Ersthelferin versorgt und anschließend ins Krankenhaus gebracht. Zum Glück hat er sich nur leicht verletzt. Die Leiter war beschädigt, {{3}} vorher niemand bemerkt hatte. {{4}} solche Unfälle in Zukunft zu vermeiden, werden alle Leitern ab sofort jede Woche kontrolliert. Außerdem sollen schwere Pakete nicht mehr {{5}} oben gelagert werden. Alle Mitarbeiter nehmen nächsten Monat an einer Sicherheitsschulung {{6}}.",
+   "gaps": [
+    {
+     "o": [
+      "wann",
+      "als",
+      "wenn"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "als = einmalige Situation in der Vergangenheit."
+    },
+    {
+     "o": [
+      "war",
+      "wird",
+      "wurde"
+     ],
+     "r": 2,
+     "k": "Passiv",
+     "e": "Passiv Präteritum: wurde versorgt."
+    },
+    {
+     "o": [
+      "dass",
+      "das",
+      "was"
+     ],
+     "r": 2,
+     "k": "Relativsatz",
+     "e": "was bezieht sich auf den ganzen Satz davor (die Leiter war beschädigt)."
+    },
+    {
+     "o": [
+      "Um",
+      "Weil",
+      "Damit"
+     ],
+     "r": 0,
+     "k": "Infinitiv mit zu",
+     "e": "um … zu + Infinitiv = Ziel."
+    },
+    {
+     "o": [
+      "sehr",
+      "viel",
+      "ganz"
+     ],
+     "r": 2,
+     "k": "Adverb",
+     "e": "ganz oben = am höchsten Punkt."
+    },
+    {
+     "o": [
+      "an",
+      "mit",
+      "teil"
+     ],
+     "r": 2,
+     "k": "trennbares Verb",
+     "e": "teilnehmen an: Er nimmt … teil."
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Anfrage an einen Kunden",
+   "text": "Sehr geehrter Herr Wagner,\n\nwir beziehen uns auf Ihre Bestellung vom 2. Juni. Leider ist das von Ihnen gewünschte Modell zurzeit nicht {{1}} Lager. Der Hersteller kann es erst Ende Juli liefern. Wir könnten Ihnen {{2}} ein ähnliches Modell anbieten, das sofort lieferbar ist. Es unterscheidet sich nur in der Farbe {{3}} dem bestellten Gerät. Bitte teilen Sie uns mit, {{4}} Sie lieber warten oder das andere Modell nehmen möchten. {{5}} Sie sich für das andere Modell entscheiden, erhalten Sie einen Rabatt von 5 %. Wir danken Ihnen für Ihre Geduld und hoffen {{6}} Ihr Verständnis.",
+   "gaps": [
+    {
+     "o": [
+      "am",
+      "auf",
+      "im"
+     ],
+     "r": 1,
+     "k": "Redemittel",
+     "e": "auf Lager sein = vorrätig sein."
+    },
+    {
+     "o": [
+      "deshalb",
+      "trotzdem",
+      "stattdessen"
+     ],
+     "r": 2,
+     "k": "Konnektor",
+     "e": "stattdessen = als Alternative."
+    },
+    {
+     "o": [
+      "zu",
+      "von",
+      "mit"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "sich von etwas unterscheiden."
+    },
+    {
+     "o": [
+      "wenn",
+      "ob",
+      "dass"
+     ],
+     "r": 1,
+     "k": "Indirekte Frage",
+     "e": "mitteilen, ob … oder …"
+    },
+    {
+     "o": [
+      "Falls",
+      "Ob",
+      "Obwohl"
+     ],
+     "r": 0,
+     "k": "Konnektor",
+     "e": "falls = wenn (Bedingung)."
+    },
+    {
+     "o": [
+      "auf",
+      "an",
+      "für"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "auf etwas hoffen."
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Forumsbeitrag: Erfahrung mit Weiterbildung",
+   "text": "Hallo zusammen,\n\nich möchte euch von meiner Weiterbildung zur Buchhalterin erzählen. Am Anfang hatte ich Angst, {{1}} ich nach so vielen Jahren wieder lernen musste. Der Kurs fand zweimal pro Woche abends statt, {{2}} ich tagsüber arbeiten konnte. Besonders hilfreich war die Dozentin, {{3}} alles sehr verständlich erklärt hat. Natürlich war es anstrengend, Arbeit, Familie und Kurs {{4}} verbinden. Aber es hat sich gelohnt: Seit drei Monaten arbeite ich in einer neuen Stelle und {{5}} deutlich mehr. Ich kann jedem nur raten, sich {{6}} eine Weiterbildung zu informieren.",
+   "gaps": [
+    {
+     "o": [
+      "obwohl",
+      "damit",
+      "weil"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "weil = Grund."
+    },
+    {
+     "o": [
+      "obwohl",
+      "damit",
+      "sodass"
+     ],
+     "r": 2,
+     "k": "Konnektor",
+     "e": "sodass = Folge."
+    },
+    {
+     "o": [
+      "der",
+      "die",
+      "deren"
+     ],
+     "r": 1,
+     "k": "Relativsatz",
+     "e": "die Dozentin (feminin, Nominativ) → die."
+    },
+    {
+     "o": [
+      "zu",
+      "für",
+      "um"
+     ],
+     "r": 0,
+     "k": "Infinitiv mit zu",
+     "e": "Es ist anstrengend, … zu verbinden."
+    },
+    {
+     "o": [
+      "verdiene",
+      "verdient",
+      "verdienen"
+     ],
+     "r": 0,
+     "k": "Verb",
+     "e": "ich verdiene."
+    },
+    {
+     "o": [
+      "von",
+      "für",
+      "über"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "sich über etwas informieren."
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Mitteilung: Neue Arbeitszeiten",
+   "text": "Liebe Kolleginnen und Kollegen,\n\n{{1}} der Geschäftsleitung ändern sich ab Oktober die Öffnungszeiten unserer Filiale. Wir öffnen dann bereits um 8 Uhr, schließen {{2}} schon um 19 Uhr. Der neue Schichtplan {{3}} gerade erstellt und hängt ab nächster Woche im Pausenraum aus. Wer besondere Wünsche hat, {{4}} sich bitte bis zum 15. September bei mir melden. Wir versuchen, alle Wünsche zu berücksichtigen, können aber nichts {{5}}. Vielen Dank, dass ihr {{6}} so flexibel seid.",
+   "gaps": [
+    {
+     "o": [
+      "Mit Wunsch",
+      "Auf Wunsch",
+      "Wegen Wunsch"
+     ],
+     "r": 1,
+     "k": "Redemittel",
+     "e": "auf Wunsch von jemandem."
+    },
+    {
+     "o": [
+      "dafür",
+      "dagegen",
+      "deshalb"
+     ],
+     "r": 0,
+     "k": "Konnektor",
+     "e": "dafür = als Ausgleich."
+    },
+    {
+     "o": [
+      "ist",
+      "hat",
+      "wird"
+     ],
+     "r": 2,
+     "k": "Passiv",
+     "e": "Passiv Präsens: wird erstellt."
+    },
+    {
+     "o": [
+      "solle",
+      "sollte",
+      "sollen"
+     ],
+     "r": 1,
+     "k": "Verb",
+     "e": "wer … sollte sich melden (Singular)."
+    },
+    {
+     "o": [
+      "versprechen",
+      "verspricht",
+      "versprochen"
+     ],
+     "r": 0,
+     "k": "Verb",
+     "e": "können + Infinitiv: versprechen."
+    },
+    {
+     "o": [
+      "immer",
+      "noch",
+      "schon"
+     ],
+     "r": 0,
+     "k": "Adverb",
+     "e": "immer so flexibel."
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief an die Vermieterin",
+   "text": "Sehr geehrte Frau Schäfer,\n\nich schreibe Ihnen, {{1}} in meiner Wohnung die Heizung nicht funktioniert. Seit drei Tagen ist es sehr kalt, und meine Kinder {{2}} schon erkältet. Ich habe schon zweimal bei Ihnen angerufen, aber Sie waren nicht {{3}} Hause. Bitte schicken Sie so schnell {{4}} möglich einen Handwerker. Ich bin jeden Tag ab 14 Uhr zu Hause. Sie können mich auch {{5}} Handy anrufen: 0157 223344. Vielen Dank {{6}} Ihre Hilfe.\n\nMit freundlichen Grüßen",
+   "gaps": [
+    {
+     "o": [
+      "weil",
+      "dass",
+      "ob"
+     ],
+     "r": 0,
+     "k": "Nebensatz",
+     "e": "weil = Grund, Verb am Ende."
+    },
+    {
+     "o": [
+      "ist",
+      "haben",
+      "sind"
+     ],
+     "r": 2,
+     "k": "Verb",
+     "e": "Die Kinder sind erkältet."
+    },
+    {
+     "o": [
+      "zu",
+      "im",
+      "nach"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "zu Hause = wo? nach Hause = wohin?"
+    },
+    {
+     "o": [
+      "so",
+      "als",
+      "wie"
+     ],
+     "r": 2,
+     "k": "Redemittel",
+     "e": "so schnell wie möglich."
+    },
+    {
+     "o": [
+      "am",
+      "im",
+      "auf dem"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "auf dem Handy anrufen."
+    },
+    {
+     "o": [
+      "über",
+      "von",
+      "für"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "Danke für …"
+    }
+   ]
+  },
+  {
+   "id": "s14",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Entschuldigung für die Schule",
+   "text": "Sehr geehrter Herr Klein,\n\nmein Sohn Leon {{1}} gestern und heute nicht zur Schule kommen, weil er krank war. Er hatte Fieber und Halsschmerzen. Wir waren beim Arzt, und er {{2}} jetzt Medikamente. Morgen kann er wieder in die Schule {{3}}. Können Sie mir bitte sagen, {{4}} Leon die Hausaufgaben bekommt? Er möchte nichts verpassen. Ich danke Ihnen {{5}} und bitte Sie, das Fehlen {{6}} entschuldigen.\n\nMit freundlichen Grüßen",
+   "gaps": [
+    {
+     "o": [
+      "konnte",
+      "kann",
+      "könnte"
+     ],
+     "r": 0,
+     "k": "Verb",
+     "e": "Präteritum von können: konnte."
+    },
+    {
+     "o": [
+      "nehmt",
+      "nehmen",
+      "nimmt"
+     ],
+     "r": 2,
+     "k": "Verb",
+     "e": "er nimmt."
+    },
+    {
+     "o": [
+      "geht",
+      "gehen",
+      "gegangen"
+     ],
+     "r": 1,
+     "k": "Satzklammer",
+     "e": "kann … gehen: Infinitiv am Ende."
+    },
+    {
+     "o": [
+      "wie",
+      "dass",
+      "weil"
+     ],
+     "r": 0,
+     "k": "Indirekte Frage",
+     "e": "sagen, wie …"
+    },
+    {
+     "o": [
+      "im Voraus",
+      "vorbei",
+      "vorher"
+     ],
+     "r": 0,
+     "k": "Redemittel",
+     "e": "Ich danke Ihnen im Voraus."
+    },
+    {
+     "o": [
+      "zu",
+      "für",
+      "um"
+     ],
+     "r": 0,
+     "k": "Infinitiv mit zu",
+     "e": "bitten, etwas zu tun."
+    }
+   ]
+  },
+  {
+   "id": "s15",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kündigung im Fitnessstudio",
+   "text": "Sehr geehrte Damen und Herren,\n\nhiermit kündige ich meinen Vertrag {{1}} nächstmöglichen Termin. Meine Mitgliedsnummer ist 45821. Ich ziehe nächsten Monat in eine andere Stadt, {{2}} kann ich nicht mehr zu Ihnen kommen. Bitte schicken Sie mir eine Bestätigung {{3}} die Kündigung. Außerdem möchte ich wissen, {{4}} ich meinen Schlüssel für den Spind zurückgeben muss. Ich {{5}} mich, wenn Sie mir schnell antworten. Vielen Dank, {{6}} ich bei Ihnen trainieren durfte.\n\nMit freundlichen Grüßen",
+   "gaps": [
+    {
+     "o": [
+      "am",
+      "im",
+      "zum"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "zum nächstmöglichen Termin (feste Wendung)."
+    },
+    {
+     "o": [
+      "deshalb",
+      "weil",
+      "denn"
+     ],
+     "r": 0,
+     "k": "Konnektor",
+     "e": "deshalb + Verb direkt danach: deshalb kann ich."
+    },
+    {
+     "o": [
+      "für",
+      "über",
+      "von"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "Bestätigung über etwas."
+    },
+    {
+     "o": [
+      "wann",
+      "dass",
+      "weil"
+     ],
+     "r": 0,
+     "k": "Indirekte Frage",
+     "e": "wissen, wann …"
+    },
+    {
+     "o": [
+      "freut",
+      "freust",
+      "freue"
+     ],
+     "r": 2,
+     "k": "Verb",
+     "e": "ich freue mich."
+    },
+    {
+     "o": [
+      "dass",
+      "ob",
+      "wenn"
+     ],
+     "r": 0,
+     "k": "Nebensatz",
+     "e": "Danke, dass …"
+    }
+   ]
+  },
+  {
+   "id": "s16",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anfrage beim Sportverein",
+   "text": "Liebe Damen und Herren,\n\nich habe Ihre Anzeige in der Zeitung gelesen und interessiere mich {{1}} den Schwimmkurs für Kinder. Meine Tochter ist sieben Jahre alt und kann noch nicht schwimmen. Ich möchte gern wissen, {{2}} der Kurs beginnt und wie viel er kostet. Meine Tochter geht bis 14 Uhr in die Schule, {{3}} wäre ein Kurs am Nachmittag gut. Muss sie {{4}} Mitglied im Verein sein? Ich würde mich freuen, {{5}} Sie mir Informationen schicken. Sie {{6}} mich auch telefonisch erreichen.\n\nViele Grüße",
+   "gaps": [
+    {
+     "o": [
+      "für",
+      "über",
+      "an"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "sich für etwas interessieren."
+    },
+    {
+     "o": [
+      "wann",
+      "ob",
+      "dass"
+     ],
+     "r": 0,
+     "k": "Indirekte Frage",
+     "e": "wissen, wann …"
+    },
+    {
+     "o": [
+      "deshalb",
+      "denn",
+      "trotzdem"
+     ],
+     "r": 0,
+     "k": "Konnektor",
+     "e": "deshalb = Folge."
+    },
+    {
+     "o": [
+      "darüber",
+      "dafür",
+      "damit"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "dafür = für den Kurs."
+    },
+    {
+     "o": [
+      "dass",
+      "ob",
+      "wenn"
+     ],
+     "r": 2,
+     "k": "Konjunktiv II",
+     "e": "Ich würde mich freuen, wenn …"
+    },
+    {
+     "o": [
+      "kann",
+      "könnt",
+      "können"
+     ],
+     "r": 2,
+     "k": "Verb",
+     "e": "Sie können."
+    }
+   ]
+  },
+  {
+   "id": "s17",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief an die Krankenkasse",
+   "text": "Sehr geehrte Damen und Herren,\n\nich habe {{1}} Monat eine neue Adresse. Ich wohne jetzt in der Gartenstraße 12, 04109 Leipzig. Bitte ändern Sie meine Daten. Meine Versichertennummer lautet A123456789. Leider habe ich meine Versichertenkarte verloren. Können Sie mir bitte eine neue Karte {{2}}? Brauchen Sie dafür ein neues Foto {{3}} mir? Ich habe nächste Woche einen Termin beim Zahnarzt und {{4}} die Karte dringend. Vielen Dank {{5}} Ihre Hilfe.",
+   "gaps": [
+    {
+     "o": [
+      "vor letztem",
+      "seit letztem",
+      "ab letztem"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "seit + Dativ = Beginn in der Vergangenheit, dauert noch an."
+    },
+    {
+     "o": [
+      "geschickt",
+      "schickt",
+      "schicken"
+     ],
+     "r": 2,
+     "k": "Satzklammer",
+     "e": "Können Sie … schicken? Infinitiv am Ende."
+    },
+    {
+     "o": [
+      "bei",
+      "aus",
+      "von"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "ein Foto von mir."
+    },
+    {
+     "o": [
+      "braucht",
+      "brauchen",
+      "brauche"
+     ],
+     "r": 2,
+     "k": "Verb",
+     "e": "ich brauche."
+    },
+    {
+     "o": [
+      "für",
+      "über",
+      "an"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "Danke für …"
+    }
+   ]
+  },
+  {
+   "id": "s18",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Einladung an die Nachbarn",
+   "text": "Liebe Nachbarinnen und Nachbarn,\n\nam Samstag, dem 12. Juni, feiern wir den 5. Geburtstag unserer Tochter. Es {{1}} vielleicht etwas lauter werden, besonders am Nachmittag. Wir bitten {{2}} Verständnis. Um 18 Uhr ist die Feier zu Ende. {{3}} Sie Lust haben, können Sie gern auf ein Stück Kuchen vorbeikommen! Wir freuen uns {{4}} Ihren Besuch. Falls es Probleme gibt, klingeln Sie einfach {{5}} uns.\n\nViele Grüße, Familie Iwanow, 2. Stock",
+   "gaps": [
+    {
+     "o": [
+      "kann",
+      "konnte",
+      "können"
+     ],
+     "r": 0,
+     "k": "Verb",
+     "e": "Es kann … werden."
+    },
+    {
+     "o": [
+      "um",
+      "für",
+      "nach"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "um Verständnis bitten."
+    },
+    {
+     "o": [
+      "Dass",
+      "Wenn",
+      "Ob"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "Wenn … , (dann) Verb: können Sie."
+    },
+    {
+     "o": [
+      "an",
+      "über",
+      "auf"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "sich auf etwas freuen."
+    },
+    {
+     "o": [
+      "bei",
+      "an",
+      "zu"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "bei jemandem klingeln."
+    }
+   ]
+  }
+ ]
+}

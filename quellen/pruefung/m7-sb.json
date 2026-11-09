@@ -10,9 +10,9 @@
    "gaps": [
     {
      "o": [
-      "Vor",
+      "Seit",
       "Nach",
-      "Seit"
+      "Vor"
      ],
      "r": 1,
      "k": "Präposition",
@@ -21,10 +21,10 @@
     {
      "o": [
       "als",
-      "so",
-      "wie"
+      "wie",
+      "so"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Vergleich",
      "e": "so schnell wie möglich."
     },
@@ -40,28 +40,28 @@
     },
     {
      "o": [
+      "schickt",
       "schicken",
-      "schicke",
-      "schickt"
+      "schicke"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Konjugation",
      "e": "ich schicke."
     },
     {
      "o": [
+      "damit",
       "darauf",
-      "davon",
-      "damit"
+      "davon"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Präpositionaladverb",
      "e": "ausgehen von → davon."
     },
     {
      "o": [
-      "Ihrer",
       "Ihren",
+      "Ihrer",
       "Ihre"
      ],
      "r": 2,
@@ -80,28 +80,28 @@
    "gaps": [
     {
      "o": [
-      "als",
       "für",
-      "wie"
+      "wie",
+      "als"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Präposition",
      "e": "als + Beruf."
     },
     {
      "o": [
       "an",
-      "über",
-      "für"
+      "für",
+      "über"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Verb mit Präposition",
      "e": "sich interessieren für."
     },
     {
      "o": [
-      "wenn",
       "dass",
+      "wenn",
       "ob"
      ],
      "r": 2,
@@ -110,29 +110,29 @@
     },
     {
      "o": [
+      "ob",
       "was",
-      "wo",
-      "ob"
+      "wo"
      ],
-     "r": 2,
+     "r": 0,
      "k": "indirekte Frage",
      "e": "ob … kann."
     },
     {
      "o": [
-      "Trotz",
+      "Aufgrund",
       "Statt",
-      "Aufgrund"
+      "Trotz"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Präposition",
      "e": "aufgrund = wegen."
     },
     {
      "o": [
       "sich",
-      "sie",
-      "ihr"
+      "ihr",
+      "sie"
      ],
      "r": 0,
      "k": "Reflexivpronomen",
@@ -150,8 +150,8 @@
    "gaps": [
     {
      "o": [
-      "kein mehr",
       "noch nicht",
+      "kein mehr",
       "nicht mehr"
      ],
      "r": 2,
@@ -161,50 +161,50 @@
     {
      "o": [
       "Die",
-      "Das",
-      "Der"
+      "Der",
+      "Das"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Artikel",
      "e": "der Grund."
     },
     {
      "o": [
-      "mit",
+      "bei",
       "von",
-      "bei"
+      "mit"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Verb mit Präposition",
      "e": "Probleme haben mit."
     },
     {
      "o": [
+      "werden",
       "wird",
-      "worden",
-      "werden"
+      "worden"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Passiv",
      "e": "Plural: die Dienstpläne werden."
     },
     {
      "o": [
+      "weil",
       "ob",
-      "wenn",
-      "weil"
+      "wenn"
      ],
-     "r": 0,
+     "r": 1,
      "k": "indirekte Frage",
      "e": "prüfen, ob …"
     },
     {
      "o": [
       "über",
-      "für",
-      "auf"
+      "auf",
+      "für"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Verb mit Präposition",
      "e": "danken für."
     }
@@ -220,31 +220,31 @@
    "gaps": [
     {
      "o": [
-      "am",
       "zum",
-      "vom"
+      "vom",
+      "am"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Präposition",
      "e": "Anfrage vom 12. Juni."
     },
     {
      "o": [
-      "an",
       "nach",
-      "von"
+      "von",
+      "an"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Verb mit Präposition",
      "e": "sich richten nach."
     },
     {
      "o": [
-      "Ob",
       "Wenn",
+      "Ob",
       "Als"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Nebensatz",
      "e": "wenn = Bedingung."
     },
@@ -260,19 +260,19 @@
     },
     {
      "o": [
-      "fällig",
       "gültig",
-      "möglich"
+      "möglich",
+      "fällig"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Wortschatz",
      "e": "ein Angebot ist gültig."
     },
     {
      "o": [
       "Verfügung",
-      "Antwort",
-      "Hilfe"
+      "Hilfe",
+      "Antwort"
      ],
      "r": 0,
      "k": "Redemittel",
@@ -290,41 +290,41 @@
    "gaps": [
     {
      "o": [
-      "um",
       "auf",
+      "um",
       "für"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Präposition",
      "e": "um eine Woche verschieben."
     },
     {
      "o": [
+      "mich für sie",
       "mich um sie",
-      "sich um sie",
-      "mich für sie"
+      "sich um sie"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Verb mit Präposition",
      "e": "sich kümmern um + Akk."
     },
     {
      "o": [
-      "meine",
+      "meiner",
       "meinen",
-      "meiner"
+      "meine"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Akkusativ Plural",
      "e": "meine Schichten übernehmen."
     },
     {
      "o": [
       "Ob",
-      "Obwohl",
-      "Falls"
+      "Falls",
+      "Obwohl"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Nebensatz",
      "e": "falls = Bedingung."
     },
@@ -341,10 +341,10 @@
     {
      "o": [
       "für",
-      "an",
-      "auf"
+      "auf",
+      "an"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Verb mit Präposition",
      "e": "hoffen auf."
     }
@@ -360,58 +360,58 @@
    "gaps": [
     {
      "o": [
+      "An",
       "Auf",
-      "In",
-      "An"
+      "In"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Präposition",
      "e": "auf der Tagesordnung stehen."
     },
     {
      "o": [
-      "reichen",
+      "reicht",
       "gereicht",
-      "reicht"
+      "reichen"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Imperativ Sie",
      "e": "Bitte reichen Sie … ein."
     },
     {
      "o": [
-      "meldest",
       "meldet",
+      "meldest",
       "melden"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Konjugation",
      "e": "wer … meldet sich (3. Person)."
     },
     {
      "o": [
       "sofort ab",
-      "gerade",
-      "direkt"
+      "direkt",
+      "gerade"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Wortschatz",
      "e": "direkt nach der Besprechung."
     },
     {
      "o": [
       "Obwohl",
-      "Weil",
-      "Damit"
+      "Damit",
+      "Weil"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Nebensatz",
      "e": "damit = Ziel."
     },
     {
      "o": [
-      "an",
       "über",
+      "an",
       "auf"
      ],
      "r": 2,
@@ -430,9 +430,9 @@
    "gaps": [
     {
      "o": [
-      "hat",
+      "sind",
       "haben",
-      "sind"
+      "hat"
      ],
      "r": 1,
      "k": "Perfekt",
@@ -440,31 +440,31 @@
     },
     {
      "o": [
+      "deshalb",
       "denn",
-      "da",
-      "deshalb"
+      "da"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Nebensatz",
      "e": "da = weil, Verb am Ende."
     },
     {
      "o": [
+      "auf",
       "ab",
-      "an",
-      "auf"
+      "an"
      ],
-     "r": 0,
+     "r": 1,
      "k": "trennbares Verb",
      "e": "abholen."
     },
     {
      "o": [
-      "müssten",
       "musste",
+      "müssten",
       "müssen"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Konjunktiv II",
      "e": "Sollte …, müssten wir … (höflich)."
     },
@@ -480,11 +480,11 @@
     },
     {
      "o": [
+      "an",
       "mit",
-      "auf",
-      "an"
+      "auf"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Verb mit Präposition",
      "e": "rechnen mit + Dativ."
     }
@@ -501,28 +501,28 @@
     {
      "o": [
       "an der",
-      "über die",
-      "für die"
+      "für die",
+      "über die"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Präposition",
      "e": "Anzeige für eine Stelle."
     },
     {
      "o": [
-      "wo",
       "was",
+      "wo",
       "wann"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Relativsatz",
      "e": "wo = in dem (Ort)."
     },
     {
      "o": [
-      "gehört",
+      "gehörten",
       "gehören",
-      "gehörten"
+      "gehört"
      ],
      "r": 1,
      "k": "Konjugation",
@@ -530,19 +530,19 @@
     },
     {
      "o": [
-      "am",
       "in",
-      "im"
+      "im",
+      "am"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Präposition",
      "e": "im Team arbeiten."
     },
     {
      "o": [
       "Wenn",
-      "Ob",
-      "Als"
+      "Als",
+      "Ob"
      ],
      "r": 0,
      "k": "Nebensatz",
@@ -550,11 +550,11 @@
     },
     {
      "o": [
-      "verfügbar",
       "möglich",
-      "erreichbar"
+      "erreichbar",
+      "verfügbar"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Wortschatz",
      "e": "ab sofort verfügbar."
     }
@@ -570,39 +570,39 @@
    "gaps": [
     {
      "o": [
+      "stündlich",
       "täglich",
-      "jährlich",
-      "stündlich"
+      "jährlich"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Wortschatz",
      "e": "täglich = jeden Tag."
     },
     {
      "o": [
-      "Statt",
+      "Wegen",
       "Trotz",
-      "Wegen"
+      "Statt"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Präposition",
      "e": "wegen der Ruhe."
     },
     {
      "o": [
+      "einem",
       "einen",
-      "eines",
-      "einem"
+      "eines"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Genitiv",
      "e": "in Begleitung eines Erwachsenen."
     },
     {
      "o": [
-      "sodass",
+      "obwohl",
       "damit",
-      "obwohl"
+      "sodass"
      ],
      "r": 1,
      "k": "Nebensatz",
@@ -620,11 +620,11 @@
     },
     {
      "o": [
-      "an",
       "über",
-      "für"
+      "für",
+      "an"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Präposition",
      "e": "Dank für."
     }
@@ -641,30 +641,30 @@
     {
      "o": [
       "in",
-      "am",
-      "im"
+      "im",
+      "am"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Präposition",
      "e": "sich im System anmelden."
     },
     {
      "o": [
+      "denn",
       "aber",
-      "oder",
-      "denn"
+      "oder"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Konnektor",
      "e": "aber = Gegensatz."
     },
     {
      "o": [
       "was",
-      "dass",
-      "ob"
+      "ob",
+      "dass"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Nebensatz",
      "e": "vermuten, dass …"
     },
@@ -690,11 +690,11 @@
     },
     {
      "o": [
+      "unter der",
       "mit der",
-      "an der",
-      "unter der"
+      "an der"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Präposition",
      "e": "unter der Durchwahl erreichbar."
     }
@@ -710,11 +710,11 @@
    "gaps": [
     {
      "o": [
-      "die",
       "der",
-      "den"
+      "den",
+      "die"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Artikel Akkusativ",
      "e": "begrüßen + Akk.: die neue Kollegin."
     },
@@ -730,21 +730,21 @@
     },
     {
      "o": [
-      "dass",
+      "ob",
       "damit",
-      "ob"
+      "dass"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Nebensatz",
      "e": "beschließen, dass …"
     },
     {
      "o": [
-      "ob",
       "wenn",
-      "dass"
+      "dass",
+      "ob"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Nebensatz",
      "e": "darauf hinweisen, dass …"
     },
@@ -760,11 +760,11 @@
     },
     {
      "o": [
-      "wird",
       "würde",
-      "wurde"
+      "wurde",
+      "wird"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Passiv Präteritum",
      "e": "wurde geschrieben."
     }
@@ -791,10 +791,10 @@
     {
      "o": [
       "um",
-      "in",
-      "auf"
+      "auf",
+      "in"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Präposition",
      "e": "verschieben auf."
     },
@@ -810,31 +810,31 @@
     },
     {
      "o": [
-      "machen",
       "machten",
+      "machen",
       "macht"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Imperativ Sie",
      "e": "… machen Sie mir … (Verb vorne)."
     },
     {
      "o": [
+      "um die",
       "für die",
-      "über die",
-      "um die"
+      "über die"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Relativsatz",
      "e": "bitten um → um die."
     },
     {
      "o": [
-      "Entschuldigung",
       "Entschuldigt",
+      "Entschuldigung",
       "Entschuldigen"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Wortbildung",
      "e": "um Entschuldigung bitten (Nomen)."
     }
@@ -851,8 +851,8 @@
     {
      "o": [
       "zu",
-      "mit",
-      "bei"
+      "bei",
+      "mit"
      ],
      "r": 0,
      "k": "Redewendung",
@@ -860,21 +860,21 @@
     },
     {
      "o": [
-      "muss",
       "musste",
-      "müssen"
+      "müssen",
+      "muss"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Passiv mit Modalverb",
      "e": "Plural: müssen getragen werden."
     },
     {
      "o": [
-      "auf keinen",
       "unter keinem",
-      "in keinem"
+      "in keinem",
+      "auf keinen"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Redewendung",
      "e": "auf keinen Fall."
     },
@@ -890,21 +890,21 @@
     },
     {
      "o": [
-      "deren",
       "die",
+      "deren",
       "denen"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Relativsatz",
      "e": "Nominativ Plural: die."
     },
     {
      "o": [
-      "auf",
       "mit",
-      "an"
+      "an",
+      "auf"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Verb mit Präposition",
      "e": "zählen auf."
     }
@@ -920,49 +920,49 @@
    "gaps": [
     {
      "o": [
+      "dass",
       "ob",
-      "damit",
-      "dass"
+      "damit"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Nebensatz",
      "e": "achten darauf, dass …"
     },
     {
      "o": [
-      "ab",
       "vor",
-      "seit"
+      "seit",
+      "ab"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Zeit",
      "e": "seit Mittag (bis jetzt)."
     },
     {
      "o": [
       "obwohl",
-      "damit",
-      "weil"
+      "weil",
+      "damit"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Nebensatz",
      "e": "damit = Ziel."
     },
     {
      "o": [
-      "bereitet vor",
       "vorbereiten",
-      "vorbereitet"
+      "vorbereitet",
+      "bereitet vor"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Partizip",
      "e": "sind vorbereitet (Zustandspassiv)."
     },
     {
      "o": [
-      "ob",
+      "dass",
       "falls",
-      "dass"
+      "ob"
      ],
      "r": 1,
      "k": "Nebensatz",
@@ -991,10 +991,10 @@
     {
      "o": [
       "auf",
-      "in",
-      "an"
+      "an",
+      "in"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Präposition",
      "e": "in der Straße wohnen."
     },
@@ -1020,31 +1020,31 @@
     },
     {
      "o": [
-      "wie",
+      "so",
       "als",
-      "so"
+      "wie"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Vergleich",
      "e": "so schnell wie möglich."
     },
     {
      "o": [
+      "um",
       "ab",
-      "seit",
-      "um"
+      "seit"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Zeit",
      "e": "ab 15 Uhr."
     },
     {
      "o": [
-      "gemindert",
       "mindert",
-      "mindern"
+      "mindern",
+      "gemindert"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Infinitiv",
      "e": "werde … mindern."
     }
@@ -1061,8 +1061,8 @@
     {
      "o": [
       "zum",
-      "beim",
-      "im"
+      "im",
+      "beim"
      ],
      "r": 0,
      "k": "Präposition",
@@ -1070,9 +1070,9 @@
     },
     {
      "o": [
-      "dem",
+      "den",
       "der",
-      "den"
+      "dem"
      ],
      "r": 1,
      "k": "Relativpronomen",
@@ -1080,8 +1080,8 @@
     },
     {
      "o": [
-      "welches",
       "welcher",
+      "welches",
       "welche"
      ],
      "r": 2,
@@ -1090,31 +1090,31 @@
     },
     {
      "o": [
+      "ihn",
       "ihm",
-      "er",
-      "ihn"
+      "er"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Dativ",
      "e": "jemandem etwas mitbringen."
     },
     {
      "o": [
+      "Bevor",
       "Sobald",
-      "Seit",
-      "Bevor"
+      "Seit"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Nebensatz",
      "e": "sobald = gleich wenn."
     },
     {
      "o": [
       "am",
-      "zum",
-      "im"
+      "im",
+      "zum"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Redemittel",
      "e": "vielen Dank im Voraus."
     }
@@ -1140,19 +1140,19 @@
     },
     {
      "o": [
-      "vielleicht",
+      "deshalb",
       "darum",
-      "deshalb"
+      "vielleicht"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Partikel",
      "e": "Könnten Sie vielleicht … (höflich)."
     },
     {
      "o": [
-      "in",
+      "an",
       "auf",
-      "an"
+      "in"
      ],
      "r": 1,
      "k": "Wechselpräposition",
@@ -1160,11 +1160,11 @@
     },
     {
      "o": [
+      "Obwohl",
       "Ob",
-      "Falls",
-      "Obwohl"
+      "Falls"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Nebensatz",
      "e": "falls = wenn."
     },
@@ -1180,8 +1180,8 @@
     },
     {
      "o": [
-      "über",
       "an",
+      "über",
       "auf"
      ],
      "r": 2,
@@ -1201,8 +1201,8 @@
     {
      "o": [
       "für",
-      "an",
-      "zu"
+      "zu",
+      "an"
      ],
      "r": 0,
      "k": "Verb mit Präposition",
@@ -1220,19 +1220,19 @@
     },
     {
      "o": [
+      "besteht",
       "bestanden",
-      "bestehen",
-      "besteht"
+      "bestehen"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Perfekt",
      "e": "habe … bestanden."
     },
     {
      "o": [
       "in",
-      "mit",
-      "auf"
+      "auf",
+      "mit"
      ],
      "r": 0,
      "k": "Präposition",
@@ -1240,8 +1240,8 @@
     },
     {
      "o": [
-      "wann",
       "dass",
+      "wann",
       "ob"
      ],
      "r": 2,
@@ -1251,10 +1251,10 @@
     {
      "o": [
       "zum",
-      "am",
-      "im"
+      "im",
+      "am"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Redemittel",
      "e": "im Voraus."
     }
@@ -1270,19 +1270,19 @@
    "gaps": [
     {
      "o": [
-      "aus",
       "von",
-      "an"
+      "an",
+      "aus"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Präposition",
      "e": "von der Decke tropfen."
     },
     {
      "o": [
-      "auf",
+      "an",
       "über",
-      "an"
+      "auf"
      ],
      "r": 1,
      "k": "Präposition",
@@ -1300,9 +1300,9 @@
     },
     {
      "o": [
-      "dringlich",
+      "eilig",
       "dringend",
-      "eilig"
+      "dringlich"
      ],
      "r": 1,
      "k": "Wortschatz",
@@ -1310,21 +1310,21 @@
     },
     {
      "o": [
+      "die",
       "deren",
-      "denen",
-      "die"
+      "denen"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Relativsatz",
      "e": "Fotos (Akk. Plural), die …"
     },
     {
      "o": [
-      "an",
       "zurück",
+      "an",
       "wieder"
      ],
-     "r": 1,
+     "r": 0,
      "k": "trennbares Verb",
      "e": "zurückrufen."
     }
@@ -1341,60 +1341,60 @@
     {
      "o": [
       "für die",
-      "von der",
-      "mit der"
+      "mit der",
+      "von der"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Präposition",
      "e": "Vertrag mit der Nummer …"
     },
     {
      "o": [
+      "nach",
       "in",
-      "zu",
-      "nach"
+      "zu"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Präposition",
      "e": "in eine andere Stadt ziehen."
     },
     {
      "o": [
-      "geschrieben",
+      "schriftlich",
       "schreibend",
-      "schriftlich"
+      "geschrieben"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Wortschatz",
      "e": "schriftlich = auf Papier/per Mail."
     },
     {
      "o": [
-      "von",
+      "aus",
       "bei",
-      "aus"
+      "von"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Präposition",
      "e": "von einem Konto abbuchen."
     },
     {
      "o": [
-      "Dass",
       "Falls",
-      "Ob"
+      "Ob",
+      "Dass"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Nebensatz",
      "e": "falls = wenn."
     },
     {
      "o": [
-      "bei",
       "an",
-      "in"
+      "in",
+      "bei"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Präposition",
      "e": "in Ihrem Studio."
     }
@@ -1410,61 +1410,61 @@
    "gaps": [
     {
      "o": [
-      "auf",
       "in",
-      "mit"
+      "mit",
+      "auf"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Präposition",
      "e": "mit dem Bus / mit der Linie fahren."
     },
     {
      "o": [
+      "Deshalb",
       "Obwohl",
-      "Weil",
-      "Deshalb"
+      "Weil"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Konnektor",
      "e": "deshalb + Verb auf Position 2."
     },
     {
      "o": [
-      "weil",
       "damit",
-      "dass"
+      "dass",
+      "weil"
      ],
-     "r": 2,
+     "r": 1,
      "k": "Nebensatz",
      "e": "so …, dass."
     },
     {
      "o": [
-      "dem",
       "das",
-      "der"
+      "der",
+      "dem"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Artikel Akkusativ",
      "e": "prüfen + Akk.: das Problem."
     },
     {
      "o": [
-      "zusätzlichen",
+      "zusätzlicher",
       "zusätzliches",
-      "zusätzlicher"
+      "zusätzlichen"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Adjektivendung",
      "e": "einen zusätzlichen Bus (Akk. mask.)."
     },
     {
      "o": [
       "baldigen",
-      "baldige",
-      "baldiger"
+      "baldiger",
+      "baldige"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Adjektivendung",
      "e": "eine baldige Antwort."
     }
@@ -1480,21 +1480,21 @@
    "gaps": [
     {
      "o": [
-      "zur",
       "zum",
+      "zur",
       "beim"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Präposition",
      "e": "einladen zu + Dativ: zum Elternabend."
     },
     {
      "o": [
       "auf",
-      "in",
-      "an"
+      "an",
+      "in"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Präposition",
      "e": "in Raum 108."
     },
@@ -1510,21 +1510,21 @@
     },
     {
      "o": [
-      "vor",
       "zu",
+      "vor",
       "an"
      ],
-     "r": 0,
+     "r": 1,
      "k": "trennbares Verb",
      "e": "vorstellen."
     },
     {
      "o": [
-      "wenn",
+      "ob",
       "dass",
-      "ob"
+      "wenn"
      ],
-     "r": 2,
+     "r": 0,
      "k": "indirekte Frage",
      "e": "ob = ja/nein."
     },
@@ -1560,18 +1560,18 @@
     },
     {
      "o": [
-      "dass",
       "ob",
+      "dass",
       "wenn"
      ],
-     "r": 1,
+     "r": 0,
      "k": "indirekte Frage",
      "e": "ob sich … ändert."
     },
     {
      "o": [
-      "von Ihnen",
       "zu Ihnen",
+      "von Ihnen",
       "bei Ihnen"
      ],
      "r": 2,
@@ -1580,31 +1580,31 @@
     },
     {
      "o": [
+      "weil",
       "denn",
-      "deshalb",
-      "weil"
+      "deshalb"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Nebensatz",
      "e": "weil: Verb am Ende."
     },
     {
      "o": [
-      "an",
       "zu",
+      "an",
       "nach"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Präposition",
      "e": "an eine Adresse schicken."
     },
     {
      "o": [
-      "mir",
       "mich",
-      "sich"
+      "sich",
+      "mir"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Reflexivpronomen",
      "e": "ich bedanke mich."
     }
@@ -1630,41 +1630,41 @@
     },
     {
      "o": [
-      "bis",
       "seit",
+      "bis",
       "ab"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Zeit",
      "e": "bis 17 Uhr arbeiten."
     },
     {
      "o": [
+      "ihren",
       "ihre",
-      "ihrem",
-      "ihren"
+      "ihrem"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Possessivartikel Akk.",
      "e": "den Ausweis → ihren Ausweis."
     },
     {
      "o": [
+      "eine",
       "einen",
-      "einer",
-      "eine"
+      "einer"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Artikel Akk.",
      "e": "die Allergie → eine Allergie."
     },
     {
      "o": [
-      "über",
       "für",
-      "um"
+      "um",
+      "über"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Präposition",
      "e": "der Zettel für das Sommerfest."
     },

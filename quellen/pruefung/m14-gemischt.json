@@ -978,60 +978,60 @@
     {
      "o": [
       "für",
-      "bei",
-      "an"
+      "an",
+      "bei"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Verb mit Präposition",
      "e": "sich bedanken bei + Person."
     },
     {
      "o": [
-      "die",
       "der",
+      "die",
       "das"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Relativpronomen",
      "e": "die Weihnachtsfeier → die."
     },
     {
      "o": [
-      "können",
+      "kann",
       "könnt",
-      "kann"
+      "können"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Modalverb",
      "e": "wer … kann (3. Person)."
     },
     {
      "o": [
-      "damit",
       "weil",
+      "damit",
       "obwohl"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Nebensatz",
      "e": "damit = Ziel."
     },
     {
      "o": [
-      "dass",
       "ob",
+      "dass",
       "wenn"
      ],
-     "r": 1,
+     "r": 0,
      "k": "indirekte Frage",
      "e": "ja/nein → ob."
     },
     {
      "o": [
-      "auf",
       "an",
-      "über"
+      "über",
+      "auf"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Verb mit Präposition",
      "e": "sich freuen auf (Zukunft)."
     }
@@ -1047,11 +1047,11 @@
    "gaps": [
     {
      "o": [
+      "weil",
       "ob",
-      "dass",
-      "weil"
+      "dass"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Nebensatz",
      "e": "es tut uns leid, dass …"
     },
@@ -1067,11 +1067,11 @@
     },
     {
      "o": [
-      "mit",
       "ab",
+      "mit",
       "an"
      ],
-     "r": 0,
+     "r": 1,
      "k": "trennbares Verb",
      "e": "mitnehmen."
     },
@@ -1087,21 +1087,21 @@
     },
     {
      "o": [
+      "im",
       "zum",
-      "am",
-      "im"
+      "am"
      ],
-     "r": 2,
+     "r": 0,
      "k": "Präposition",
      "e": "im Wert von."
     },
     {
      "o": [
       "über",
-      "um",
-      "für"
+      "für",
+      "um"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Verb mit Präposition",
      "e": "um Entschuldigung bitten."
     }
@@ -1117,8 +1117,8 @@
    "gaps": [
     {
      "o": [
-      "auf",
       "an",
+      "auf",
       "über"
      ],
      "r": 2,
@@ -1127,11 +1127,11 @@
     },
     {
      "o": [
-      "aus",
+      "mit",
       "von",
-      "mit"
+      "aus"
      ],
-     "r": 0,
+     "r": 2,
      "k": "Verb mit Präposition",
      "e": "bestehen aus + Dativ."
     },
@@ -1147,31 +1147,31 @@
     },
     {
      "o": [
-      "mit",
+      "an",
       "zu",
-      "an"
+      "mit"
      ],
-     "r": 0,
+     "r": 2,
      "k": "trennbares Verb",
      "e": "mitbringen."
     },
     {
      "o": [
-      "der",
       "die",
-      "das"
+      "das",
+      "der"
      ],
-     "r": 1,
+     "r": 0,
      "k": "Relativpronomen",
      "e": "die Vergütung → die."
     },
     {
      "o": [
+      "bei",
       "an",
-      "zu",
-      "bei"
+      "zu"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Verb mit Präposition",
      "e": "sich wenden an + Akk."
     }
@@ -1207,41 +1207,41 @@
     },
     {
      "o": [
+      "an",
       "in",
-      "auf",
-      "an"
+      "auf"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Präposition",
      "e": "eintragen in + Akk."
     },
     {
      "o": [
+      "gerufen",
       "rufen",
-      "ruft",
-      "gerufen"
+      "ruft"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Imperativ ihr",
      "e": "ruft … an."
     },
     {
      "o": [
-      "weil",
       "obwohl",
+      "weil",
       "deshalb"
      ],
-     "r": 0,
+     "r": 1,
      "k": "Nebensatz",
      "e": "weil: Verb am Ende."
     },
     {
      "o": [
       "dass man",
-      "wenn man",
-      "ob man"
+      "ob man",
+      "wenn man"
      ],
-     "r": 1,
+     "r": 2,
      "k": "Nebensatz",
      "e": "es hilft, wenn man …"
     }
