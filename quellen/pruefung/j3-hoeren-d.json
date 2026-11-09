@@ -1,0 +1,862 @@
+{
+ "hoeren": [
+  {
+   "id": "hz123",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch: Friseur",
+   "situation": "Sie hören ein Gespräch.",
+   "text": "– Guten Tag, ich hätte gern einen Termin zum Haareschneiden. – Wann möchten Sie kommen? – Am liebsten Samstagvormittag. – Samstag ist leider schon voll. Freitag um 16 Uhr ginge noch. – Gut, dann Freitag. Was kostet es? – Waschen, schneiden, föhnen 38 Euro.",
+   "fragen": [
+    {
+     "q": "Wann ist der Termin?",
+     "o": [
+      "Samstagvormittag",
+      "Freitag um 16 Uhr",
+      "Freitag um 18 Uhr"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was kostet es?",
+     "o": [
+      "28 Euro",
+      "38 Euro",
+      "48 Euro"
+     ],
+     "r": 1
+    }
+   ]
+  },
+  {
+   "id": "hz124",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Durchsage: Zug Halt entfällt",
+   "situation": "Sie hören eine Durchsage.",
+   "text": "Liebe Fahrgäste, wegen Bauarbeiten hält dieser Zug heute nicht in Radebeul-Ost. Fahrgäste nach Radebeul steigen bitte in Dresden-Neustadt in die S-Bahn um.",
+   "fragen": [
+    {
+     "q": "Wo hält der Zug heute nicht?",
+     "o": [
+      "in Dresden-Neustadt",
+      "in Radebeul-Ost",
+      "in Meißen"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wo soll man umsteigen?",
+     "o": [
+      "in Dresden-Neustadt",
+      "am Hauptbahnhof",
+      "in Radebeul"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "hz125",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachricht: Hausmeister",
+   "situation": "Sie hören eine Nachricht auf dem Anrufbeantworter.",
+   "text": "Guten Tag, hier ist Herr Kraus, der Hausmeister. Am Donnerstag wird das Wasser im ganzen Haus von 9 bis 13 Uhr abgestellt, weil ein Rohr repariert wird. Bitte füllen Sie vorher ein paar Flaschen mit Wasser.",
+   "fragen": [
+    {
+     "q": "Was passiert am Donnerstag?",
+     "o": [
+      "Der Strom wird abgestellt.",
+      "Das Wasser wird abgestellt.",
+      "Die Heizung wird repariert."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wie lange dauert es?",
+     "o": [
+      "von 9 bis 13 Uhr",
+      "den ganzen Tag",
+      "eine Stunde"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "hz126",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Radio: Sprachcafé",
+   "situation": "Sie hören eine Meldung im Radio.",
+   "text": "Jeden Mittwoch von 17 bis 19 Uhr lädt das Nachbarschaftszentrum zum Sprachcafé ein. Dort können Menschen aus aller Welt bei Kaffee und Kuchen Deutsch sprechen und neue Leute kennenlernen. Die Teilnahme ist kostenlos, eine Anmeldung ist nicht nötig.",
+   "fragen": [
+    {
+     "q": "Wann ist das Sprachcafé?",
+     "o": [
+      "montags",
+      "mittwochs von 17 bis 19 Uhr",
+      "freitags"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Man muss sich anmelden."
+    }
+   ]
+  },
+  {
+   "id": "hz127",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch: Arbeitsamt Beratung",
+   "situation": "Sie hören ein Gespräch.",
+   "text": "– Ich habe in Syrien als Elektriker gearbeitet. Kann ich das hier auch? – Dafür muss Ihr Abschluss anerkannt werden. Ich gebe Ihnen die Adresse der Beratungsstelle. Die Beratung ist kostenlos. – Und wie lange dauert das? – Das ist verschieden, oft drei bis vier Monate. In der Zeit können Sie schon als Helfer arbeiten.",
+   "fragen": [
+    {
+     "q": "Was war der Mann in Syrien von Beruf?",
+     "o": [
+      "Mechaniker",
+      "Elektriker",
+      "Maler"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was kann er während der Anerkennung machen?",
+     "o": [
+      "als Helfer arbeiten",
+      "studieren",
+      "nichts"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "hz128",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ansage: Möbelhaus",
+   "situation": "Sie hören eine Ansage am Telefon.",
+   "text": "Willkommen bei Möbel Hansen. Unsere Öffnungszeiten: Montag bis Freitag 10 bis 20 Uhr, Samstag 9 bis 18 Uhr. Für Fragen zu Ihrer Lieferung drücken Sie die 1, für den Küchenverkauf die 2.",
+   "fragen": [
+    {
+     "q": "Wann hat das Möbelhaus samstags offen?",
+     "o": [
+      "10 bis 20 Uhr",
+      "9 bis 18 Uhr",
+      "9 bis 20 Uhr"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Für Fragen zur Lieferung drückt man die 2."
+    }
+   ]
+  },
+  {
+   "id": "hz129",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch: Arzt Ergebnis",
+   "situation": "Sie hören ein Gespräch.",
+   "text": "– Ihr Arm ist nicht gebrochen, nur verstaucht. Sie bekommen einen Verband. Bitte kühlen Sie den Arm mehrmals am Tag. – Kann ich arbeiten? – Ich schreibe Sie für fünf Tage krank. Wenn es dann nicht besser ist, kommen Sie wieder.",
+   "fragen": [
+    {
+     "q": "Was ist mit dem Arm?",
+     "o": [
+      "Er ist gebrochen.",
+      "Er ist verstaucht.",
+      "Er ist in Ordnung."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wie lange ist der Patient krankgeschrieben?",
+     "o": [
+      "drei Tage",
+      "fünf Tage",
+      "zwei Wochen"
+     ],
+     "r": 1
+    }
+   ]
+  },
+  {
+   "id": "hz130",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Durchsage: Schulhof",
+   "situation": "Sie hören eine Durchsage.",
+   "text": "Achtung, eine Durchsage für alle Schülerinnen und Schüler: Wegen des Gewitters bleibt die Hofpause heute im Gebäude. Bitte bleibt in euren Klassenräumen.",
+   "fragen": [
+    {
+     "q": "Warum bleiben die Schüler drinnen?",
+     "o": [
+      "wegen eines Gewitters",
+      "wegen Kälte",
+      "wegen Bauarbeiten"
+     ],
+     "r": 0
+    },
+    {
+     "rf": false,
+     "q": "Die Schüler gehen in die Turnhalle."
+    }
+   ]
+  },
+  {
+   "id": "hz131",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachricht: Kurs Volkshochschule",
+   "situation": "Sie hören eine Nachricht auf dem Anrufbeantworter.",
+   "text": "Guten Tag, hier ist die Volkshochschule. Sie haben sich für den Kochkurs „Italienisch kochen“ angemeldet. Leider gibt es nicht genug Teilnehmer, der Kurs findet nicht statt. Ihr Geld bekommen Sie zurück. Vielleicht interessiert Sie der Kurs „Gesund kochen“ am Dienstag?",
+   "fragen": [
+    {
+     "q": "Warum findet der Kurs nicht statt?",
+     "o": [
+      "Die Lehrerin ist krank.",
+      "Es gibt nicht genug Teilnehmer.",
+      "Die Küche ist kaputt."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was passiert mit dem Geld?",
+     "o": [
+      "Man bekommt es zurück.",
+      "Es ist verloren.",
+      "Es gilt für nächstes Jahr."
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "hz132",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch: Beim Optiker",
+   "situation": "Sie hören ein Gespräch.",
+   "text": "– Ich sehe in der Ferne nicht mehr so gut. – Dann machen wir zuerst einen Sehtest. … Sie brauchen eine Brille für die Ferne, zum Beispiel zum Autofahren. – Wie lange dauert es, bis die Brille fertig ist? – Etwa eine Woche. Wir rufen Sie an.",
+   "fragen": [
+    {
+     "q": "Wofür braucht die Frau die Brille?",
+     "o": [
+      "zum Lesen",
+      "für die Ferne",
+      "für den Computer"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wie lange dauert es?",
+     "o": [
+      "einen Tag",
+      "etwa eine Woche",
+      "einen Monat"
+     ],
+     "r": 1
+    }
+   ]
+  },
+  {
+   "id": "hz133",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Radio: Ferienangebot",
+   "situation": "Sie hören eine Meldung im Radio.",
+   "text": "Für Kinder zwischen 8 und 12 Jahren gibt es in den Herbstferien ein Ferienprogramm im Jugendhaus. Von Montag bis Freitag, jeweils von 9 bis 15 Uhr, gibt es Ausflüge, Sport und Basteln. Die Woche kostet 50 Euro inklusive Mittagessen. Familien mit wenig Geld zahlen weniger.",
+   "fragen": [
+    {
+     "q": "Für welche Kinder ist das Programm?",
+     "o": [
+      "für 4- bis 8-Jährige",
+      "für 8- bis 12-Jährige",
+      "für Jugendliche"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Das Mittagessen kostet extra."
+    }
+   ]
+  },
+  {
+   "id": "hz134",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ansage: Bank Karte sperren",
+   "situation": "Sie hören eine Ansage am Telefon.",
+   "text": "Willkommen bei Ihrer Bank. Wenn Sie Ihre Karte verloren haben und sie sperren möchten, wählen Sie bitte die zentrale Sperrnummer 116 116. Dieser Service ist rund um die Uhr erreichbar.",
+   "fragen": [
+    {
+     "q": "Wann ruft man die 116 116 an?",
+     "o": [
+      "wenn man die Karte verloren hat",
+      "für einen Kredit",
+      "für einen Termin"
+     ],
+     "r": 0
+    },
+    {
+     "rf": false,
+     "q": "Die Sperrnummer ist nur tagsüber erreichbar."
+    }
+   ]
+  },
+  {
+   "id": "hz135",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch: Kinderwagen im Bus",
+   "situation": "Sie hören ein Gespräch.",
+   "text": "– Entschuldigung, können Sie mir mit dem Kinderwagen helfen? – Natürlich. Steigen Sie hinten ein, dort ist der Platz für Kinderwagen. – Danke. Muss ich eine Fahrkarte für das Baby kaufen? – Nein, Kinder unter sechs fahren kostenlos.",
+   "fragen": [
+    {
+     "q": "Wo ist der Platz für Kinderwagen?",
+     "o": [
+      "vorne",
+      "hinten",
+      "in der Mitte"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Für das Baby braucht man keine Fahrkarte."
+    }
+   ]
+  },
+  {
+   "id": "hz136",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Durchsage: Einkaufszentrum",
+   "situation": "Sie hören eine Durchsage.",
+   "text": "Liebe Besucher, unser Einkaufszentrum hat heute wegen des verkaufsoffenen Sonntags von 13 bis 18 Uhr geöffnet. Im Erdgeschoss gibt es Kinderschminken und eine Modenschau um 15 Uhr.",
+   "fragen": [
+    {
+     "q": "Wann ist das Einkaufszentrum heute offen?",
+     "o": [
+      "von 10 bis 18 Uhr",
+      "von 13 bis 18 Uhr",
+      "von 13 bis 20 Uhr"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wann ist die Modenschau?",
+     "o": [
+      "um 13 Uhr",
+      "um 15 Uhr",
+      "um 18 Uhr"
+     ],
+     "r": 1
+    }
+   ]
+  },
+  {
+   "id": "hz137",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachricht: Kollegin Weihnachtsfeier",
+   "situation": "Sie hören eine Nachricht auf dem Anrufbeantworter.",
+   "text": "Hi Tanja, hier ist Monika. Die Weihnachtsfeier ist am 19. Dezember im Restaurant „Zur Post“. Wir treffen uns um 18:30 Uhr. Jeder bringt ein kleines Geschenk für das Wichteln mit, höchstens zehn Euro. Sag mir bitte bis Freitag, ob du kommst.",
+   "fragen": [
+    {
+     "q": "Wo ist die Weihnachtsfeier?",
+     "o": [
+      "in der Firma",
+      "im Restaurant „Zur Post“",
+      "bei Monika"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wie viel darf das Geschenk höchstens kosten?",
+     "o": [
+      "fünf Euro",
+      "zehn Euro",
+      "zwanzig Euro"
+     ],
+     "r": 1
+    }
+   ]
+  },
+  {
+   "id": "hz138",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch: Hund im Haus",
+   "situation": "Sie hören ein Gespräch.",
+   "text": "– Guten Tag, Frau Weber. Ich wollte fragen, ob ich in der Wohnung einen Hund haben darf. – Das steht in Ihrem Mietvertrag. Kleine Tiere wie Katzen sind erlaubt, für einen Hund brauchen Sie meine Erlaubnis. Wie groß ist er denn? – Ein kleiner Hund, sehr ruhig. – Dann habe ich nichts dagegen. Ich schreibe es Ihnen schriftlich.",
+   "fragen": [
+    {
+     "q": "Was braucht der Mieter für einen Hund?",
+     "o": [
+      "nichts",
+      "die Erlaubnis der Vermieterin",
+      "einen neuen Vertrag"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Die Vermieterin sagt nein."
+    }
+   ]
+  },
+  {
+   "id": "hz139",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Radio: Impfung Kinder",
+   "situation": "Sie hören eine Meldung im Radio.",
+   "text": "Das Gesundheitsamt bietet in den Schulen kostenlose Impfberatungen an. Eltern können den Impfpass ihres Kindes prüfen lassen. Fehlende Impfungen, zum Beispiel gegen Masern, können direkt beim Kinderarzt nachgeholt werden. Für Kita und Schule ist die Masernimpfung Pflicht.",
+   "fragen": [
+    {
+     "q": "Was können Eltern prüfen lassen?",
+     "o": [
+      "den Impfpass",
+      "die Zeugnisse",
+      "die Brille"
+     ],
+     "r": 0
+    },
+    {
+     "rf": true,
+     "q": "Die Masernimpfung ist für die Schule Pflicht."
+    }
+   ]
+  },
+  {
+   "id": "hz140",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ansage: Kfz-Zulassung",
+   "situation": "Sie hören eine Ansage am Telefon.",
+   "text": "Sie sind verbunden mit der Kfz-Zulassungsstelle. Für eine Zulassung brauchen Sie einen Termin, den Sie online buchen. Bringen Sie den Personalausweis, die Zulassungsbescheinigung und die Versicherungsbestätigung mit. Wir nehmen nur Kartenzahlung.",
+   "fragen": [
+    {
+     "q": "Wie bekommt man einen Termin?",
+     "o": [
+      "online",
+      "am Telefon",
+      "ohne Termin"
+     ],
+     "r": 0
+    },
+    {
+     "rf": false,
+     "q": "Man kann bar bezahlen."
+    }
+   ]
+  },
+  {
+   "id": "hz141",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch: Im Hotel Problem",
+   "situation": "Sie hören ein Gespräch.",
+   "text": "– Entschuldigung, in meinem Zimmer funktioniert die Heizung nicht, es ist sehr kalt. – Das tut mir leid. Ich schicke sofort den Techniker. Oder möchten Sie lieber ein anderes Zimmer? – Ja, lieber ein anderes Zimmer, ich bin sehr müde. – Kein Problem, Zimmer 215 ist frei. Hier ist Ihre neue Karte.",
+   "fragen": [
+    {
+     "q": "Was ist das Problem?",
+     "o": [
+      "Das Licht geht nicht.",
+      "Die Heizung funktioniert nicht.",
+      "Das Zimmer ist laut."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was möchte der Gast?",
+     "o": [
+      "den Techniker",
+      "ein anderes Zimmer",
+      "Geld zurück"
+     ],
+     "r": 1
+    }
+   ]
+  },
+  {
+   "id": "hz142",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Durchsage: Tierpark Schließung",
+   "situation": "Sie hören eine Durchsage.",
+   "text": "Liebe Besucher, wegen eines Sturms schließt der Tierpark heute schon um 15 Uhr. Bitte begeben Sie sich zu den Ausgängen. Ihre Tickets gelten noch einmal an einem anderen Tag.",
+   "fragen": [
+    {
+     "q": "Warum schließt der Tierpark früher?",
+     "o": [
+      "wegen eines Sturms",
+      "wegen einer Feier",
+      "wegen Krankheit der Tiere"
+     ],
+     "r": 0
+    },
+    {
+     "rf": true,
+     "q": "Die Tickets kann man noch einmal benutzen."
+    }
+   ]
+  },
+  {
+   "id": "hz143",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachricht: Krankenkasse Bonus",
+   "situation": "Sie hören eine Nachricht auf dem Anrufbeantworter.",
+   "text": "Guten Tag, hier ist Ihre Krankenkasse. Sie haben genug Punkte im Bonusprogramm gesammelt. Sie bekommen 50 Euro. Bitte schicken Sie uns Ihr Bonusheft und Ihre Bankverbindung, dann überweisen wir das Geld.",
+   "fragen": [
+    {
+     "q": "Wie viel Geld bekommt man?",
+     "o": [
+      "15 Euro",
+      "50 Euro",
+      "150 Euro"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was soll man schicken?",
+     "o": [
+      "das Bonusheft und die Bankverbindung",
+      "die Versichertenkarte",
+      "eine Rechnung"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "hz144",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch: Deutschprüfung",
+   "situation": "Sie hören ein Gespräch.",
+   "text": "– Wann ist deine Prüfung? – Am 12. Dezember, der DTZ. Ich habe ein bisschen Angst vor dem Sprechen. – Wir können zusammen üben, wenn du willst. – Das wäre toll! Wann hast du Zeit? – Dienstag und Donnerstag nach 18 Uhr. – Dann treffen wir uns Dienstag in der Bibliothek.",
+   "fragen": [
+    {
+     "q": "Wovor hat die Frau Angst?",
+     "o": [
+      "vor dem Lesen",
+      "vor dem Sprechen",
+      "vor dem Schreiben"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wo üben sie?",
+     "o": [
+      "zu Hause",
+      "in der Bibliothek",
+      "im Café"
+     ],
+     "r": 1
+    }
+   ]
+  },
+  {
+   "id": "hz145",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Radio: Fahrradtag",
+   "situation": "Sie hören eine Meldung im Radio.",
+   "text": "Am Sonntag ist autofreier Tag: Die Uferstraße an der Elbe ist von 10 bis 18 Uhr nur für Fußgänger und Radfahrer geöffnet. Es gibt einen Fahrradmarkt, wo man gebrauchte Räder kaufen und verkaufen kann, und eine kostenlose Fahrradreparatur.",
+   "fragen": [
+    {
+     "q": "Für wen ist die Uferstraße am Sonntag offen?",
+     "o": [
+      "für Autos",
+      "für Fußgänger und Radfahrer",
+      "für Busse"
+     ],
+     "r": 1
+    },
+    {
+     "rf": false,
+     "q": "Die Reparatur kostet Geld."
+    }
+   ]
+  },
+  {
+   "id": "hz146",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ansage: Notdienst Heizung",
+   "situation": "Sie hören eine Ansage am Telefon.",
+   "text": "Sie haben den Notdienst von Heizung Klein erreicht. Bitte nennen Sie nach dem Ton Ihren Namen, Ihre Adresse und Ihre Telefonnummer. Wir rufen Sie innerhalb von 30 Minuten zurück.",
+   "fragen": [
+    {
+     "q": "Was soll man auf den Anrufbeantworter sprechen?",
+     "o": [
+      "Name, Adresse, Telefonnummer",
+      "nur den Namen",
+      "die Rechnungsnummer"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wann ruft der Notdienst zurück?",
+     "o": [
+      "innerhalb von 30 Minuten",
+      "am nächsten Tag",
+      "innerhalb von drei Stunden"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "hz147",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch: Gebrauchtes Fahrrad",
+   "situation": "Sie hören ein Gespräch.",
+   "text": "– Hallo, ich rufe wegen des Fahrrads an. Ist es noch da? – Ja. – Wie alt ist es? – Drei Jahre, aber es ist kaum gefahren. Das Licht und die Bremsen sind neu. – Was soll es kosten? – 180 Euro. – Kann ich es heute Abend ansehen? – Ja, ab 18 Uhr.",
+   "fragen": [
+    {
+     "q": "Wie alt ist das Fahrrad?",
+     "o": [
+      "ein Jahr",
+      "drei Jahre",
+      "fünf Jahre"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Was kostet es?",
+     "o": [
+      "108 Euro",
+      "180 Euro",
+      "800 Euro"
+     ],
+     "r": 1
+    }
+   ]
+  },
+  {
+   "id": "hz148",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Durchsage: Bahnhof Aufzug",
+   "situation": "Sie hören eine Durchsage.",
+   "text": "Der Aufzug zu Gleis 3 ist zurzeit außer Betrieb. Reisende mit Rollstuhl oder Kinderwagen wenden sich bitte an das Servicepersonal am Infopoint. Wir helfen Ihnen gern.",
+   "fragen": [
+    {
+     "q": "Was funktioniert nicht?",
+     "o": [
+      "die Rolltreppe",
+      "der Aufzug zu Gleis 3",
+      "die Anzeigetafel"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wo bekommt man Hilfe?",
+     "o": [
+      "am Infopoint",
+      "am Fahrkartenautomaten",
+      "im Zug"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "hz149",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachricht: Mutter",
+   "situation": "Sie hören eine Nachricht auf dem Anrufbeantworter.",
+   "text": "Hallo, mein Schatz, hier ist Mama. Ich komme am Samstag mit dem Zug um 14:20 Uhr am Hauptbahnhof an. Kannst du mich abholen? Ich habe einen großen Koffer dabei. Ich freue mich auf euch!",
+   "fragen": [
+    {
+     "q": "Wann kommt die Mutter an?",
+     "o": [
+      "Samstag um 14:20 Uhr",
+      "Samstag um 12:40 Uhr",
+      "Sonntag um 14:20 Uhr"
+     ],
+     "r": 0
+    },
+    {
+     "rf": false,
+     "q": "Die Mutter hat nur eine kleine Tasche."
+    }
+   ]
+  },
+  {
+   "id": "hz150",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch: Strom anmelden",
+   "situation": "Sie hören ein Gespräch.",
+   "text": "– Ich bin gerade umgezogen und möchte Strom anmelden. – Haben Sie den Zählerstand vom Einzugstag? – Ja, 34.512. – Gut. Wir buchen jeden Monat einen Abschlag von 55 Euro von Ihrem Konto ab. Am Ende des Jahres bekommen Sie eine Abrechnung.",
+   "fragen": [
+    {
+     "q": "Was braucht der Stromanbieter?",
+     "o": [
+      "den Zählerstand",
+      "den Mietvertrag",
+      "den Pass"
+     ],
+     "r": 0
+    },
+    {
+     "q": "Wie hoch ist der monatliche Abschlag?",
+     "o": [
+      "45 Euro",
+      "55 Euro",
+      "65 Euro"
+     ],
+     "r": 1
+    }
+   ]
+  },
+  {
+   "id": "hz151",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Radio: Kleiderspende",
+   "situation": "Sie hören eine Meldung im Radio.",
+   "text": "Das Rote Kreuz sammelt am Samstag Winterkleidung für Bedürftige. Gesucht werden besonders warme Jacken, Mützen und Schuhe für Kinder. Bitte bringen Sie nur saubere Kleidung zur Sammelstelle am Rathaus, zwischen 10 und 14 Uhr.",
+   "fragen": [
+    {
+     "q": "Was wird besonders gesucht?",
+     "o": [
+      "Sommerkleidung",
+      "warme Jacken, Mützen und Kinderschuhe",
+      "Spielzeug"
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wo ist die Sammelstelle?",
+     "o": [
+      "am Rathaus",
+      "am Bahnhof",
+      "in der Kirche"
+     ],
+     "r": 0
+    }
+   ]
+  },
+  {
+   "id": "hz152",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ansage: Gericht Termin",
+   "situation": "Sie hören eine Ansage am Telefon.",
+   "text": "Hier ist die Rechtsantragsstelle des Amtsgerichts. Wenn Sie Hilfe bei einem Antrag brauchen, kommen Sie bitte montags bis freitags von 8:30 bis 12 Uhr. Bringen Sie alle wichtigen Unterlagen mit. Eine Rechtsberatung können wir nicht geben.",
+   "fragen": [
+    {
+     "q": "Wann ist die Antragsstelle geöffnet?",
+     "o": [
+      "8:30 bis 12 Uhr",
+      "8 bis 16 Uhr",
+      "nur am Nachmittag"
+     ],
+     "r": 0
+    },
+    {
+     "rf": false,
+     "q": "Dort bekommt man eine Rechtsberatung."
+    }
+   ]
+  },
+  {
+   "id": "hz153",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Gespräch: Kind krank Arbeit",
+   "situation": "Sie hören ein Gespräch.",
+   "text": "– Chef, mein Sohn ist krank, ich muss morgen zu Hause bleiben. – Oh, gute Besserung. Haben Sie eine Bescheinigung vom Kinderarzt? – Ja, die bekomme ich heute. – Gut, dann bekommen Sie Kinderkrankengeld von der Krankenkasse. Geben Sie mir bitte Bescheid, wie lange es dauert.",
+   "fragen": [
+    {
+     "q": "Warum muss der Mann zu Hause bleiben?",
+     "o": [
+      "Er ist krank.",
+      "Sein Sohn ist krank.",
+      "Er hat Urlaub."
+     ],
+     "r": 1
+    },
+    {
+     "q": "Wer bezahlt das Kinderkrankengeld?",
+     "o": [
+      "der Chef",
+      "die Krankenkasse",
+      "die Stadt"
+     ],
+     "r": 1
+    }
+   ]
+  },
+  {
+   "id": "hz154",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Durchsage: Bergbahn",
+   "situation": "Sie hören eine Durchsage.",
+   "text": "Liebe Fahrgäste, die letzte Bahn ins Tal fährt heute um 17:30 Uhr. Bitte seien Sie rechtzeitig an der Station. Wer die Bahn verpasst, muss zu Fuß gehen, das dauert etwa eine Stunde.",
+   "fragen": [
+    {
+     "q": "Wann fährt die letzte Bahn?",
+     "o": [
+      "um 17 Uhr",
+      "um 17:30 Uhr",
+      "um 18:30 Uhr"
+     ],
+     "r": 1
+    },
+    {
+     "rf": true,
+     "q": "Zu Fuß dauert es etwa eine Stunde."
+    }
+   ]
+  }
+ ]
+}
