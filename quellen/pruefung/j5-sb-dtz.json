@@ -1,0 +1,994 @@
+{
+ "sb": [
+  {
+   "id": "szj01",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief an die Kita",
+   "text": "Liebe Frau Schneider,\n\nmein Sohn Max kann morgen leider nicht in die Kita kommen. Er {{1}} seit gestern Abend Fieber bekommen. Ich gehe heute {{2}} ihm zum Arzt. Wenn es ihm besser geht, kommt er {{3}} Donnerstag wieder. Können Sie mir bitte sagen, {{4}} am Freitag das Laternenfest stattfindet? Max freut sich schon sehr {{5}}.\n\nViele Grüße\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "hat",
+      "ist",
+      "wird"
+     ],
+     "r": 0,
+     "k": "Perfekt mit haben",
+     "e": "hat … bekommen."
+    },
+    {
+     "o": [
+      "mit",
+      "bei",
+      "zu"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "mit ihm zum Arzt."
+    },
+    {
+     "o": [
+      "um",
+      "im",
+      "am"
+     ],
+     "r": 2,
+     "k": "Präposition Zeit",
+     "e": "am Donnerstag."
+    },
+    {
+     "o": [
+      "wenn",
+      "dass",
+      "ob"
+     ],
+     "r": 2,
+     "k": "indirekte Frage",
+     "e": "sagen, ob …"
+    },
+    {
+     "o": [
+      "darauf",
+      "darüber",
+      "dafür"
+     ],
+     "r": 0,
+     "k": "Pronominaladverb",
+     "e": "sich freuen auf → darauf."
+    }
+   ]
+  },
+  {
+   "id": "szj02",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "E-Mail an eine Freundin",
+   "text": "Liebe Katja,\n\nvielen Dank für {{1}} Einladung zum Geburtstag! Ich komme sehr gern. Leider kann ich erst um 18 Uhr kommen, {{2}} ich bis 17 Uhr arbeiten muss. Soll ich etwas {{3}}? Ich kann gern einen Salat machen. Ich freue mich {{4}} Samstag!\n\nLiebe Grüße\nOlga",
+   "gaps": [
+    {
+     "o": [
+      "deine",
+      "dein",
+      "deinen"
+     ],
+     "r": 0,
+     "k": "Possessivartikel",
+     "e": "die Einladung → deine."
+    },
+    {
+     "o": [
+      "deshalb",
+      "weil",
+      "denn"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "weil + Verb am Ende."
+    },
+    {
+     "o": [
+      "mitgebracht",
+      "mitbringe",
+      "mitbringen"
+     ],
+     "r": 2,
+     "k": "Modalverb + Infinitiv",
+     "e": "Soll ich … mitbringen?"
+    },
+    {
+     "o": [
+      "an",
+      "auf",
+      "über"
+     ],
+     "r": 1,
+     "k": "Verb mit Präposition",
+     "e": "sich freuen auf."
+    }
+   ]
+  },
+  {
+   "id": "szj03",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief an die Hausverwaltung",
+   "text": "Sehr geehrte Damen und Herren,\n\nin meiner Wohnung funktioniert seit drei Tagen die Heizung nicht. Es ist sehr kalt, und {{1}} Baby ist erst sechs Monate alt. Ich habe schon {{2}} Hausmeister angerufen, aber er ist im Urlaub. Bitte schicken Sie {{3}} schnell wie möglich einen Techniker. Ich bin jeden Tag {{4}} 15 Uhr zu Hause.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "meinen",
+      "mein",
+      "meine"
+     ],
+     "r": 1,
+     "k": "Possessivartikel",
+     "e": "das Baby → mein Baby."
+    },
+    {
+     "o": [
+      "beim",
+      "zum",
+      "im"
+     ],
+     "r": 0,
+     "k": "Präposition + Artikel",
+     "e": "beim Hausmeister angerufen."
+    },
+    {
+     "o": [
+      "so",
+      "wie",
+      "als"
+     ],
+     "r": 0,
+     "k": "feste Wendung",
+     "e": "so schnell wie möglich."
+    },
+    {
+     "o": [
+      "seit",
+      "ab",
+      "bis"
+     ],
+     "r": 1,
+     "k": "Präposition Zeit",
+     "e": "ab 15 Uhr."
+    }
+   ]
+  },
+  {
+   "id": "szj04",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Anmeldung zum Kurs",
+   "text": "Sehr geehrte Damen und Herren,\n\nich möchte mich {{1}} den Deutschkurs B1 am Abend anmelden. Ich arbeite tagsüber und habe nur abends Zeit. Wie viel {{2}} der Kurs? Und gibt es auch einen Kurs am Samstag? Ich habe schon das Zertifikat A2, {{3}} ich im letzten Jahr gemacht habe. Ich würde mich über eine schnelle Antwort {{4}}.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "für",
+      "an",
+      "zu"
+     ],
+     "r": 0,
+     "k": "Verb mit Präposition",
+     "e": "sich anmelden für."
+    },
+    {
+     "o": [
+      "kostet",
+      "kosten",
+      "kostete"
+     ],
+     "r": 0,
+     "k": "Konjugation",
+     "e": "wie viel kostet der Kurs."
+    },
+    {
+     "o": [
+      "das",
+      "die",
+      "der"
+     ],
+     "r": 0,
+     "k": "Relativpronomen",
+     "e": "das Zertifikat, das …"
+    },
+    {
+     "o": [
+      "freuen",
+      "gefreut",
+      "freue"
+     ],
+     "r": 0,
+     "k": "Konjunktiv-Umschreibung",
+     "e": "würde mich freuen."
+    }
+   ]
+  },
+  {
+   "id": "szj05",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Entschuldigung beim Nachbarn",
+   "text": "Lieber Herr Klein,\n\nes tut mir sehr leid, dass es am Samstag so laut {{1}}. Wir haben den Geburtstag meiner Tochter gefeiert, und die Kinder haben viel gespielt. Ich hoffe, Sie konnten trotzdem {{2}}. Als kleine Entschuldigung bringe ich Ihnen {{3}} Stück Kuchen vorbei. Wenn wir wieder feiern, sage ich Ihnen {{4}} Bescheid.\n\nViele Grüße\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "ist",
+      "wäre",
+      "war"
+     ],
+     "r": 2,
+     "k": "Präteritum",
+     "e": "es war laut."
+    },
+    {
+     "o": [
+      "schläft",
+      "geschlafen",
+      "schlafen"
+     ],
+     "r": 2,
+     "k": "Modalverb + Infinitiv",
+     "e": "konnten … schlafen."
+    },
+    {
+     "o": [
+      "ein",
+      "einen",
+      "eine"
+     ],
+     "r": 0,
+     "k": "Akkusativ",
+     "e": "das Stück → ein Stück."
+    },
+    {
+     "o": [
+      "vorher",
+      "vor",
+      "früher"
+     ],
+     "r": 0,
+     "k": "Adverb",
+     "e": "vorher Bescheid sagen."
+    }
+   ]
+  },
+  {
+   "id": "szj06",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief an die Schule",
+   "text": "Sehr geehrte Frau Wagner,\n\nmeine Tochter Anna aus der Klasse 4b kann am Montag nicht {{1}} die Schule kommen. Wir haben einen Termin bei der Ausländerbehörde, und Anna {{2}} mitkommen. Den Termin konnten wir leider nicht {{3}}. Bitte geben Sie mir die Hausaufgaben, {{4}} sie nichts verpasst. Vielen Dank für Ihr {{5}}.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "zur",
+      "an",
+      "in"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "in die Schule kommen."
+    },
+    {
+     "o": [
+      "musste",
+      "müssen",
+      "muss"
+     ],
+     "r": 2,
+     "k": "Modalverb",
+     "e": "Anna muss mitkommen."
+    },
+    {
+     "o": [
+      "verschiebt",
+      "verschoben",
+      "verschieben"
+     ],
+     "r": 2,
+     "k": "Modalverb + Infinitiv",
+     "e": "konnten … verschieben."
+    },
+    {
+     "o": [
+      "weil",
+      "damit",
+      "ob"
+     ],
+     "r": 1,
+     "k": "Finalsatz",
+     "e": "damit sie nichts verpasst."
+    },
+    {
+     "o": [
+      "verstehen",
+      "verständlich",
+      "Verständnis"
+     ],
+     "r": 2,
+     "k": "Nomen",
+     "e": "Danke für Ihr Verständnis."
+    }
+   ]
+  },
+  {
+   "id": "szj07",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Antwort auf eine Wohnungsanzeige",
+   "text": "Sehr geehrter Herr Müller,\n\nich habe Ihre Anzeige im Internet gelesen und interessiere mich {{1}} die Dreizimmerwohnung. Wir sind eine Familie mit zwei Kindern {{2}} suchen eine größere Wohnung. Mein Mann und ich arbeiten {{3}}. Wann {{4}} ich die Wohnung besichtigen? Am besten passt es mir am Nachmittag {{5}} am Wochenende.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "über",
+      "für",
+      "an"
+     ],
+     "r": 1,
+     "k": "Verb mit Präposition",
+     "e": "sich interessieren für."
+    },
+    {
+     "o": [
+      "aber",
+      "und",
+      "oder"
+     ],
+     "r": 1,
+     "k": "Konnektor",
+     "e": "und."
+    },
+    {
+     "o": [
+      "beiden",
+      "beide",
+      "beides"
+     ],
+     "r": 1,
+     "k": "Pronomen",
+     "e": "wir arbeiten beide."
+    },
+    {
+     "o": [
+      "kann",
+      "konnte",
+      "können"
+     ],
+     "r": 0,
+     "k": "Modalverb",
+     "e": "wann kann ich …"
+    },
+    {
+     "o": [
+      "oder",
+      "aber",
+      "und"
+     ],
+     "r": 0,
+     "k": "Konnektor",
+     "e": "am Nachmittag oder am Wochenende."
+    }
+   ]
+  },
+  {
+   "id": "szj08",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief an das Jobcenter",
+   "text": "Sehr geehrte Frau Hahn,\n\nich habe Ihren Brief vom 5. Mai bekommen. Leider kann ich am 12. Mai nicht {{1}} dem Termin kommen, weil ich an diesem Tag meine DTZ-Prüfung {{2}}. Eine Kopie der Anmeldung {{3}} ich Ihnen mit diesem Brief. Könnten Sie mir bitte {{4}} neuen Termin geben? In der Woche danach habe ich jeden Tag Zeit.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "zu",
+      "in",
+      "an"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "zu dem Termin kommen."
+    },
+    {
+     "o": [
+      "hat",
+      "habe",
+      "bin"
+     ],
+     "r": 1,
+     "k": "Konjugation",
+     "e": "ich habe eine Prüfung."
+    },
+    {
+     "o": [
+      "geschickt",
+      "schickt",
+      "schicke"
+     ],
+     "r": 2,
+     "k": "Konjugation",
+     "e": "ich schicke."
+    },
+    {
+     "o": [
+      "einem",
+      "ein",
+      "einen"
+     ],
+     "r": 2,
+     "k": "Akkusativ",
+     "e": "der Termin → einen Termin."
+    }
+   ]
+  },
+  {
+   "id": "szj09",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachricht an den Chef",
+   "text": "Sehr geehrter Herr Schulz,\n\nmorgen kann ich leider erst um 10 Uhr kommen, {{1}} ich einen Termin beim Arzt habe. Ich habe den Termin schon vor zwei Monaten {{2}}. Die Stunden arbeite ich am Freitag {{3}}. Ist das für Sie in Ordnung? Bitte geben Sie mir kurz {{4}}.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "obwohl",
+      "denn",
+      "weil"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "weil + Verb am Ende."
+    },
+    {
+     "o": [
+      "bekommen",
+      "bekam",
+      "bekomme"
+     ],
+     "r": 0,
+     "k": "Partizip II",
+     "e": "habe … bekommen."
+    },
+    {
+     "o": [
+      "nach",
+      "bei",
+      "vor"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "nacharbeiten / am Freitag nach."
+    },
+    {
+     "o": [
+      "bescheid",
+      "Bescheid",
+      "Bescheide"
+     ],
+     "r": 1,
+     "k": "Nomen",
+     "e": "Bescheid geben."
+    }
+   ]
+  },
+  {
+   "id": "szj10",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Einladung an die Nachbarn",
+   "text": "Liebe Nachbarinnen und Nachbarn,\n\nwir wohnen jetzt seit einem Monat {{1}} diesem Haus und möchten Sie gern kennenlernen. Deshalb laden wir Sie am Sonntag {{2}} 15 Uhr zu Kaffee und Kuchen in den Hof ein. Es gibt Kuchen {{3}} unserer Heimat. Wenn das Wetter schlecht ist, treffen wir {{4}} im Gemeinschaftsraum. Wir freuen uns {{5}} Sie!\n\nFamilie Iwanowa, 2. Stock",
+   "gaps": [
+    {
+     "o": [
+      "in",
+      "im",
+      "auf"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "in diesem Haus."
+    },
+    {
+     "o": [
+      "um",
+      "im",
+      "am"
+     ],
+     "r": 0,
+     "k": "Präposition Zeit",
+     "e": "um 15 Uhr."
+    },
+    {
+     "o": [
+      "von",
+      "aus",
+      "in"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "Kuchen aus unserer Heimat."
+    },
+    {
+     "o": [
+      "euch",
+      "sich",
+      "uns"
+     ],
+     "r": 2,
+     "k": "Reflexivpronomen",
+     "e": "wir treffen uns."
+    },
+    {
+     "o": [
+      "über",
+      "auf",
+      "für"
+     ],
+     "r": 1,
+     "k": "Verb mit Präposition",
+     "e": "sich freuen auf."
+    }
+   ]
+  },
+  {
+   "id": "szj11",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief an die Krankenkasse",
+   "text": "Sehr geehrte Damen und Herren,\n\nich habe meine Versichertenkarte verloren. Bitte schicken Sie mir eine {{1}} Karte. Meine Versichertennummer ist A123456789. Seit dem 1. März {{2}} ich in einer neuen Wohnung. Meine neue Adresse ist Lindenstraße 4, 01159 Dresden. Bitte ändern Sie auch die Adresse {{3}} Ihren Unterlagen. Ich brauche die Karte schnell, {{4}} ich nächste Woche einen Arzttermin habe.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "neuer",
+      "neue",
+      "neuen"
+     ],
+     "r": 1,
+     "k": "Adjektivendung",
+     "e": "eine neue Karte."
+    },
+    {
+     "o": [
+      "wohnt",
+      "gewohnt",
+      "wohne"
+     ],
+     "r": 2,
+     "k": "Konjugation",
+     "e": "ich wohne."
+    },
+    {
+     "o": [
+      "auf",
+      "an",
+      "in"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "in Ihren Unterlagen."
+    },
+    {
+     "o": [
+      "denn",
+      "weil",
+      "damit"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "weil + Verb am Ende."
+    }
+   ]
+  },
+  {
+   "id": "szj12",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "E-Mail an den Sportverein",
+   "text": "Sehr geehrte Damen und Herren,\n\nmein Sohn ist acht Jahre alt und {{1}} sehr gern Fußball. Er möchte gern in Ihrem Verein spielen. Wann trainieren die Kinder {{2}} seinem Alter? Was kostet die Mitgliedschaft? Wir haben einen Bildungsgutschein vom Jobcenter. Kann man {{3}} für den Beitrag benutzen? Vielen Dank für Ihre {{4}}.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "spielt",
+      "spielen",
+      "gespielt"
+     ],
+     "r": 0,
+     "k": "Konjugation",
+     "e": "er spielt."
+    },
+    {
+     "o": [
+      "an",
+      "in",
+      "im"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "in seinem Alter."
+    },
+    {
+     "o": [
+      "sein",
+      "ihn",
+      "ihm"
+     ],
+     "r": 1,
+     "k": "Personalpronomen Akkusativ",
+     "e": "den Gutschein → ihn."
+    },
+    {
+     "o": [
+      "Antwort",
+      "antworten",
+      "Antworter"
+     ],
+     "r": 0,
+     "k": "Nomen",
+     "e": "Danke für Ihre Antwort."
+    }
+   ]
+  },
+  {
+   "id": "szj13",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief an die Bank",
+   "text": "Sehr geehrte Damen und Herren,\n\nich {{1}} mein Konto bei Ihrer Bank kündigen. Ich ziehe nächsten Monat nach München um, und dort gibt es keine Filiale. Bitte überweisen Sie das Geld {{2}} mein neues Konto bei der Sparkasse. Die IBAN finden Sie unten. Meine Bankkarte schicke ich Ihnen {{3}} diesem Brief zurück. Bitte schicken Sie mir eine Bestätigung, {{4}} das Konto geschlossen ist.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "mochte",
+      "möchten",
+      "möchte"
+     ],
+     "r": 2,
+     "k": "Modalverb",
+     "e": "ich möchte."
+    },
+    {
+     "o": [
+      "an",
+      "auf",
+      "in"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "überweisen auf ein Konto."
+    },
+    {
+     "o": [
+      "mit",
+      "zu",
+      "von"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "mit diesem Brief."
+    },
+    {
+     "o": [
+      "weil",
+      "wenn",
+      "ob"
+     ],
+     "r": 1,
+     "k": "Konnektor",
+     "e": "wenn das Konto geschlossen ist."
+    }
+   ]
+  },
+  {
+   "id": "szj14",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachricht an die Lehrerin",
+   "text": "Liebe Frau Koch,\n\nvielen Dank für das Gespräch {{1}} Elternabend. Ich habe mit meinem Sohn über seine Noten in Mathe gesprochen. Er möchte sich jetzt mehr {{2}}. Wir haben auch eine Nachhilfe {{3}}, zweimal pro Woche. Bitte sagen Sie mir Bescheid, {{4}} es wieder Probleme gibt.\n\nViele Grüße\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "zum",
+      "im",
+      "beim"
+     ],
+     "r": 2,
+     "k": "Präposition + Artikel",
+     "e": "beim Elternabend."
+    },
+    {
+     "o": [
+      "anstrengt",
+      "anstrengen",
+      "angestrengt"
+     ],
+     "r": 1,
+     "k": "Modalverb + Infinitiv",
+     "e": "möchte sich anstrengen."
+    },
+    {
+     "o": [
+      "fand",
+      "finden",
+      "gefunden"
+     ],
+     "r": 2,
+     "k": "Partizip II",
+     "e": "haben … gefunden."
+    },
+    {
+     "o": [
+      "dass",
+      "ob",
+      "wenn"
+     ],
+     "r": 2,
+     "k": "Konditionalsatz",
+     "e": "wenn es Probleme gibt."
+    }
+   ]
+  },
+  {
+   "id": "szj15",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Bitte um einen Termin",
+   "text": "Sehr geehrte Damen und Herren,\n\nich brauche einen Termin {{1}} die Verlängerung meines Aufenthaltstitels. Mein Titel ist noch {{2}} Ende Juni gültig. Leider finde ich online keinen freien Termin. Können Sie mir bitte einen Termin {{3}}? Ich kann an jedem Tag außer Mittwoch kommen, weil ich mittwochs {{4}}.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "für",
+      "an",
+      "zu"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "ein Termin für …"
+    },
+    {
+     "o": [
+      "seit",
+      "bis",
+      "ab"
+     ],
+     "r": 1,
+     "k": "Präposition Zeit",
+     "e": "bis Ende Juni gültig."
+    },
+    {
+     "o": [
+      "gegeben",
+      "gibt",
+      "geben"
+     ],
+     "r": 2,
+     "k": "Modalverb + Infinitiv",
+     "e": "können … geben."
+    },
+    {
+     "o": [
+      "gearbeitet",
+      "arbeiten",
+      "arbeite"
+     ],
+     "r": 2,
+     "k": "Konjugation",
+     "e": "ich arbeite."
+    }
+   ]
+  },
+  {
+   "id": "szj16",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Danke an eine Kollegin",
+   "text": "Liebe Sabine,\n\nvielen Dank, dass du letzte Woche meine Schicht {{1}} hast. Meinem Sohn geht es jetzt wieder gut. Ich möchte mich gern {{2}} dir bedanken und dich zum Essen einladen. Hast du nächste Woche {{3}}? Du kannst natürlich auch {{4}} mit mir tauschen, wenn du einmal Hilfe brauchst.\n\nLiebe Grüße\nOlga",
+   "gaps": [
+    {
+     "o": [
+      "übernimmst",
+      "übernehmen",
+      "übernommen"
+     ],
+     "r": 2,
+     "k": "Partizip II",
+     "e": "hast … übernommen."
+    },
+    {
+     "o": [
+      "für",
+      "bei",
+      "mit"
+     ],
+     "r": 1,
+     "k": "Verb mit Präposition",
+     "e": "sich bedanken bei + Person."
+    },
+    {
+     "o": [
+      "Zeiten",
+      "zeitig",
+      "Zeit"
+     ],
+     "r": 2,
+     "k": "Nomen",
+     "e": "Zeit haben."
+    },
+    {
+     "o": [
+      "nie",
+      "niemals",
+      "jederzeit"
+     ],
+     "r": 2,
+     "k": "Adverb",
+     "e": "jederzeit = immer, wenn du willst."
+    }
+   ]
+  },
+  {
+   "id": "szj17",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Brief an den Vermieter: Auszug",
+   "text": "Sehr geehrter Herr Lange,\n\nhiermit kündige ich meine Wohnung in der Gartenstraße 8 {{1}} 31. Mai. Wir haben eine größere Wohnung gefunden, {{2}} wir ein zweites Kind bekommen. Für die Übergabe der Wohnung schlage ich {{3}} 31. Mai um 10 Uhr vor. Bitte überweisen Sie die Kaution {{4}} mein Konto. Vielen Dank für die gute Zeit in Ihrem Haus.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "am",
+      "zum",
+      "im"
+     ],
+     "r": 1,
+     "k": "Präposition + Artikel",
+     "e": "zum 31. Mai kündigen."
+    },
+    {
+     "o": [
+      "deshalb",
+      "denn",
+      "weil"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "weil + Verb am Ende."
+    },
+    {
+     "o": [
+      "dem",
+      "der",
+      "den"
+     ],
+     "r": 2,
+     "k": "Akkusativ",
+     "e": "ich schlage den 31. Mai vor."
+    },
+    {
+     "o": [
+      "an",
+      "in",
+      "auf"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "auf mein Konto."
+    }
+   ]
+  },
+  {
+   "id": "szj18",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "E-Mail an die Volkshochschule",
+   "text": "Sehr geehrte Damen und Herren,\n\nich habe Ihren Integrationskurs {{1}} und im Mai die Prüfung gemacht. Leider habe ich mein Zertifikat noch nicht bekommen. Können Sie mir sagen, {{2}} ich es bekomme? Ich brauche es dringend {{3}} meine Bewerbung. Wenn es fertig ist, hole ich es gern {{4}} Ihnen ab.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "besuchte",
+      "besuchen",
+      "besucht"
+     ],
+     "r": 2,
+     "k": "Partizip II",
+     "e": "habe … besucht."
+    },
+    {
+     "o": [
+      "ob",
+      "dass",
+      "wann"
+     ],
+     "r": 2,
+     "k": "indirekte Frage",
+     "e": "wann ich es bekomme."
+    },
+    {
+     "o": [
+      "an",
+      "zu",
+      "für"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "brauchen für + Akk."
+    },
+    {
+     "o": [
+      "an",
+      "bei",
+      "zu"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "bei Ihnen abholen."
+    }
+   ]
+  },
+  {
+   "id": "szj19",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachricht an den Hausmeister",
+   "text": "Lieber Herr Kraus,\n\nim Keller {{1}} seit gestern kein Licht mehr. Es ist sehr dunkel, und man kann {{2}} Treppe kaum sehen. Das ist gefährlich, besonders für ältere Nachbarn. Können Sie die Lampe bitte {{3}} reparieren? Ich bin {{4}} ab 16 Uhr zu Hause, wenn Sie den Schlüssel brauchen.\n\nViele Grüße\nOlga Iwanowa, Haus 3",
+   "gaps": [
+    {
+     "o": [
+      "brennt",
+      "brannte",
+      "brennen"
+     ],
+     "r": 0,
+     "k": "Konjugation",
+     "e": "das Licht brennt nicht."
+    },
+    {
+     "o": [
+      "der",
+      "den",
+      "die"
+     ],
+     "r": 2,
+     "k": "Artikel Akkusativ",
+     "e": "die Treppe sehen."
+    },
+    {
+     "o": [
+      "bald",
+      "schnelle",
+      "früh"
+     ],
+     "r": 0,
+     "k": "Adverb",
+     "e": "bald reparieren."
+    },
+    {
+     "o": [
+      "gestern",
+      "heute",
+      "morgig"
+     ],
+     "r": 1,
+     "k": "Adverb Zeit",
+     "e": "heute ab 16 Uhr."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1514 @@
+{
+ "sb": [
+  {
+   "id": "sbj01",
+   "ex": [
+    "DTB"
+   ],
+   "t": "E-Mail an einen Kunden: Lieferverzug",
+   "text": "Sehr geehrter Herr Krause,\n\nleider müssen wir Ihnen mitteilen, dass sich die Lieferung Ihrer Bestellung {{1}} eine Woche verschiebt. Der Grund ist ein technisches Problem bei unserem Hersteller, {{2}} uns erst gestern informiert hat. Wir bitten Sie, diese Verzögerung zu {{3}}. Als kleinen Ausgleich erhalten Sie {{4}} Rabatt von 5 Prozent. Sollten Sie Fragen haben, {{5}} ich Ihnen gern zur Verfügung.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "um",
+      "für",
+      "seit"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "sich verschieben um + Zeitangabe."
+    },
+    {
+     "o": [
+      "der",
+      "das",
+      "dass"
+     ],
+     "r": 0,
+     "k": "Relativpronomen",
+     "e": "der Hersteller → der."
+    },
+    {
+     "o": [
+      "entschuldigt",
+      "entschuldige",
+      "entschuldigen"
+     ],
+     "r": 2,
+     "k": "zu + Infinitiv",
+     "e": "bitten, etwas zu entschuldigen."
+    },
+    {
+     "o": [
+      "einen",
+      "einem",
+      "ein"
+     ],
+     "r": 0,
+     "k": "Akkusativ",
+     "e": "der Ausgleich → einen kleinen Ausgleich (Akk.)."
+    },
+    {
+     "o": [
+      "steht",
+      "stehe",
+      "stehen"
+     ],
+     "r": 1,
+     "k": "Konjugation",
+     "e": "ich stehe … zur Verfügung."
+    }
+   ]
+  },
+  {
+   "id": "sbj02",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Einladung zur Teambesprechung",
+   "text": "Liebe Kolleginnen und Kollegen,\n\nam Donnerstag findet {{1}} monatliche Teambesprechung statt. Wir treffen uns {{2}} 10 Uhr im Raum 3.12. Bitte bringt eure Vorschläge {{3}} die Urlaubsplanung mit. Wer nicht kommen kann, {{4}} mir bitte bis Mittwoch Bescheid geben. Nach der Besprechung gibt es Kuchen, {{5}} Herr Lang hat Geburtstag.\n\nViele Grüße\nSabine",
+   "gaps": [
+    {
+     "o": [
+      "unserer",
+      "unsere",
+      "unseren"
+     ],
+     "r": 1,
+     "k": "Possessivartikel",
+     "e": "die Besprechung, Nominativ → unsere."
+    },
+    {
+     "o": [
+      "im",
+      "am",
+      "um"
+     ],
+     "r": 2,
+     "k": "Zeit",
+     "e": "um 10 Uhr."
+    },
+    {
+     "o": [
+      "von",
+      "für",
+      "an"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "Vorschläge für etwas."
+    },
+    {
+     "o": [
+      "sollt",
+      "sollen",
+      "soll"
+     ],
+     "r": 2,
+     "k": "Konjugation",
+     "e": "wer … soll (3. Person Singular)."
+    },
+    {
+     "o": [
+      "denn",
+      "deshalb",
+      "weil"
+     ],
+     "r": 0,
+     "k": "Konnektor",
+     "e": "denn + normale Wortstellung."
+    }
+   ]
+  },
+  {
+   "id": "sbj03",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Antwort auf eine Bewerbung",
+   "text": "Sehr geehrte Frau Petrova,\n\nvielen Dank für Ihre Bewerbung {{1}} Pflegefachkraft. Ihre Unterlagen haben uns sehr gut gefallen. Wir möchten Sie deshalb gern {{2}} einem Vorstellungsgespräch einladen. Wäre Ihnen der 14. März um 11 Uhr recht? Bitte bringen Sie Ihre Zeugnisse {{3}}. Falls der Termin nicht passt, {{4}} Sie uns bitte an. Wir freuen uns darauf, Sie kennenzulernen.\n\nMit freundlichen Grüßen\nKlinikum Nord, Personalabteilung",
+   "gaps": [
+    {
+     "o": [
+      "für",
+      "wie",
+      "als"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "sich bewerben als + Beruf."
+    },
+    {
+     "o": [
+      "an",
+      "für",
+      "zu"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "einladen zu + Dativ."
+    },
+    {
+     "o": [
+      "mit",
+      "an",
+      "ab"
+     ],
+     "r": 0,
+     "k": "trennbares Verb",
+     "e": "mitbringen."
+    },
+    {
+     "o": [
+      "ruft",
+      "rufen",
+      "rufe"
+     ],
+     "r": 1,
+     "k": "Imperativ Sie-Form",
+     "e": "rufen Sie uns an."
+    }
+   ]
+  },
+  {
+   "id": "sbj04",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Mitteilung: Neue Software",
+   "text": "Liebe Mitarbeiterinnen und Mitarbeiter,\n\nab dem 1. April arbeiten wir mit einem neuen Programm für die Zeiterfassung. Die Schulung findet in der Woche {{1}} dem Start statt. Jede Mitarbeiterin und jeder Mitarbeiter {{2}} an einer Schulung teilnehmen. Die Termine finden Sie im Intranet, {{3}} Sie sich auch anmelden können. Das alte Programm wird danach {{4}}. Bei Fragen wenden Sie sich bitte {{5}} die IT-Abteilung.\n\nIhre Geschäftsleitung",
+   "gaps": [
+    {
+     "o": [
+      "vor",
+      "nach",
+      "seit"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "vor dem Start."
+    },
+    {
+     "o": [
+      "musst",
+      "müssen",
+      "muss"
+     ],
+     "r": 2,
+     "k": "Konjugation",
+     "e": "jede … muss."
+    },
+    {
+     "o": [
+      "was",
+      "wann",
+      "wo"
+     ],
+     "r": 2,
+     "k": "Relativadverb",
+     "e": "im Intranet, wo …"
+    },
+    {
+     "o": [
+      "abschaltet",
+      "abgeschaltet",
+      "abschalten"
+     ],
+     "r": 1,
+     "k": "Passiv",
+     "e": "wird … abgeschaltet."
+    },
+    {
+     "o": [
+      "bei",
+      "zu",
+      "an"
+     ],
+     "r": 2,
+     "k": "Verb mit Präposition",
+     "e": "sich wenden an + Akk."
+    }
+   ]
+  },
+  {
+   "id": "sbj05",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Beschwerde an einen Lieferanten",
+   "text": "Sehr geehrte Damen und Herren,\n\nam 3. Mai haben wir bei Ihnen 50 Bürostühle bestellt. Leider waren bei der Lieferung zehn Stühle {{1}}. Wir haben die Schäden fotografiert und schicken Ihnen die Fotos {{2}} dieser E-Mail. Wir erwarten, dass Sie die Stühle {{3}} einer Woche ersetzen. Die beschädigten Stühle können Sie bei der nächsten Lieferung {{4}}. Wir bitten um eine kurze Bestätigung, {{5}} Sie die Lieferung ändern.\n\nMit freundlichen Grüßen\nEinkauf, Firma Bergmann",
+   "gaps": [
+    {
+     "o": [
+      "beschädigen",
+      "beschädigte",
+      "beschädigt"
+     ],
+     "r": 2,
+     "k": "Partizip als Adjektiv",
+     "e": "waren beschädigt."
+    },
+    {
+     "o": [
+      "zu",
+      "mit",
+      "von"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "mit dieser E-Mail."
+    },
+    {
+     "o": [
+      "während",
+      "innerhalb",
+      "seit"
+     ],
+     "r": 1,
+     "k": "Präposition + Genitiv",
+     "e": "innerhalb einer Woche."
+    },
+    {
+     "o": [
+      "mitgenommen",
+      "mitnehmen",
+      "mitnimmt"
+     ],
+     "r": 1,
+     "k": "Modalverb + Infinitiv",
+     "e": "können … mitnehmen."
+    },
+    {
+     "o": [
+      "ob",
+      "wenn",
+      "dass"
+     ],
+     "r": 2,
+     "k": "Konnektor",
+     "e": "Bestätigung, dass …"
+    }
+   ]
+  },
+  {
+   "id": "sbj06",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Bitte um Urlaub",
+   "text": "Sehr geehrte Frau Schulz,\n\nich möchte Sie bitten, mir vom 10. bis 21. Juli Urlaub zu {{1}}. In dieser Zeit fahre ich mit meiner Familie in meine Heimat, {{2}} meine Eltern leben. Meine Aufgaben übernimmt Herr Yilmaz, mit {{3}} ich schon alles besprochen habe. Ich würde mich freuen, {{4}} Sie meinen Antrag genehmigen. Für Rückfragen bin ich jederzeit {{5}}.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "geben",
+      "gegeben",
+      "gebe"
+     ],
+     "r": 0,
+     "k": "zu + Infinitiv",
+     "e": "bitten, … zu geben."
+    },
+    {
+     "o": [
+      "woher",
+      "wohin",
+      "wo"
+     ],
+     "r": 2,
+     "k": "Relativadverb",
+     "e": "meine Heimat, wo …"
+    },
+    {
+     "o": [
+      "der",
+      "dem",
+      "den"
+     ],
+     "r": 1,
+     "k": "Relativpronomen Dativ",
+     "e": "mit dem (Herr Yilmaz)."
+    },
+    {
+     "o": [
+      "dass",
+      "wenn",
+      "ob"
+     ],
+     "r": 1,
+     "k": "Konditionalsatz",
+     "e": "ich würde mich freuen, wenn …"
+    },
+    {
+     "o": [
+      "erreichen",
+      "erreichbar",
+      "erreicht"
+     ],
+     "r": 1,
+     "k": "Adjektiv",
+     "e": "erreichbar sein."
+    }
+   ]
+  },
+  {
+   "id": "sbj07",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Information zur Betriebsversammlung",
+   "text": "Liebe Beschäftigte,\n\nam 15. Oktober findet eine Betriebsversammlung statt. Dabei informiert die Geschäftsleitung {{1}} die wirtschaftliche Lage. Außerdem stellt der Betriebsrat die Ergebnisse der Umfrage vor, {{2}} der viele von Ihnen teilgenommen haben. Die Versammlung {{3}} als Arbeitszeit. Kolleginnen und Kollegen, {{4}} in der Spätschicht arbeiten, können die Aufzeichnung später ansehen. Wir hoffen auf zahlreiche {{5}}.\n\nIhr Betriebsrat",
+   "gaps": [
+    {
+     "o": [
+      "über",
+      "um",
+      "von"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "informieren über + Akk."
+    },
+    {
+     "o": [
+      "an",
+      "bei",
+      "mit"
+     ],
+     "r": 0,
+     "k": "Relativsatz mit Präposition",
+     "e": "teilnehmen an → an der …"
+    },
+    {
+     "o": [
+      "gelten",
+      "gültig",
+      "gilt"
+     ],
+     "r": 2,
+     "k": "Konjugation",
+     "e": "die Versammlung gilt als Arbeitszeit."
+    },
+    {
+     "o": [
+      "die",
+      "denen",
+      "deren"
+     ],
+     "r": 0,
+     "k": "Relativpronomen Nominativ Plural",
+     "e": "die … arbeiten."
+    },
+    {
+     "o": [
+      "teilnehmen",
+      "Teilnahme",
+      "Teilnehmer"
+     ],
+     "r": 1,
+     "k": "Nomen",
+     "e": "auf zahlreiche Teilnahme hoffen."
+    }
+   ]
+  },
+  {
+   "id": "sbj08",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Absage eines Termins",
+   "text": "Sehr geehrter Herr Neumann,\n\nleider muss ich unseren Termin am Mittwoch absagen, {{1}} ich kurzfristig zu einem Kunden nach Hamburg fahren muss. Es tut mir sehr leid, {{2}} ich Ihnen so spät Bescheid gebe. Könnten wir das Gespräch {{3}} nächste Woche verschieben? Am Dienstag und Donnerstag hätte ich ganztags Zeit. Bitte teilen Sie mir mit, {{4}} Tag Ihnen passt.\n\nMit freundlichen Grüßen\nMaria Kowalska",
+   "gaps": [
+    {
+     "o": [
+      "da",
+      "deshalb",
+      "denn"
+     ],
+     "r": 0,
+     "k": "Konnektor",
+     "e": "da + Verb am Ende."
+    },
+    {
+     "o": [
+      "dass",
+      "weil",
+      "ob"
+     ],
+     "r": 0,
+     "k": "dass-Satz",
+     "e": "Es tut mir leid, dass …"
+    },
+    {
+     "o": [
+      "zu",
+      "auf",
+      "in"
+     ],
+     "r": 1,
+     "k": "Verb mit Präposition",
+     "e": "verschieben auf + Akk."
+    },
+    {
+     "o": [
+      "welches",
+      "welcher",
+      "welche"
+     ],
+     "r": 1,
+     "k": "Fragewort",
+     "e": "welcher Tag (maskulin)."
+    }
+   ]
+  },
+  {
+   "id": "sbj09",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Hinweis zur Arbeitssicherheit",
+   "text": "Liebe Kolleginnen und Kollegen,\n\nin den letzten Wochen gab es in der Halle zwei Unfälle, {{1}} Kollegen ohne Sicherheitsschuhe gearbeitet haben. Wir möchten Sie deshalb noch einmal daran {{2}}, dass Sicherheitsschuhe in der Halle Pflicht sind. Wer keine passenden Schuhe hat, bekommt {{3}} kostenlos in der Kleiderkammer. Bei Verstößen {{4}} wir leider eine Ermahnung aussprechen. Vielen Dank für Ihr {{5}}.\n\nIhre Arbeitssicherheit",
+   "gaps": [
+    {
+     "o": [
+      "trotzdem",
+      "denn",
+      "weil"
+     ],
+     "r": 2,
+     "k": "Nebensatz",
+     "e": "weil + Verb am Ende."
+    },
+    {
+     "o": [
+      "erinnere",
+      "erinnern",
+      "erinnert"
+     ],
+     "r": 1,
+     "k": "Infinitiv",
+     "e": "möchten … erinnern."
+    },
+    {
+     "o": [
+      "sie",
+      "ihnen",
+      "ihr"
+     ],
+     "r": 0,
+     "k": "Pronomen Akkusativ",
+     "e": "bekommt sie (die Schuhe)."
+    },
+    {
+     "o": [
+      "müssen",
+      "muss",
+      "musste"
+     ],
+     "r": 0,
+     "k": "Konjugation Plural",
+     "e": "wir müssen … aussprechen."
+    },
+    {
+     "o": [
+      "verständlich",
+      "Verständnis",
+      "verstehen"
+     ],
+     "r": 1,
+     "k": "Nomen",
+     "e": "Danke für Ihr Verständnis."
+    }
+   ]
+  },
+  {
+   "id": "sbj10",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Anfrage an ein Hotel",
+   "text": "Sehr geehrte Damen und Herren,\n\nfür eine Schulung unserer Mitarbeiter suchen wir einen Seminarraum {{1}} 20 Personen. Die Schulung soll vom 5. bis 7. Juni stattfinden. Wir benötigen außerdem 15 Einzelzimmer, {{2}} möglichst ruhig sind. Könnten Sie uns bitte ein Angebot schicken, in dem auch die Kosten {{3}} Mittagessen und Getränke enthalten sind? Wir {{4}} Ihnen dankbar, wenn wir die Antwort bis Ende der Woche bekommen {{5}}.\n\nMit freundlichen Grüßen\nFirma Techno AG",
+   "gaps": [
+    {
+     "o": [
+      "von",
+      "mit",
+      "für"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "ein Raum für 20 Personen."
+    },
+    {
+     "o": [
+      "der",
+      "die",
+      "das"
+     ],
+     "r": 1,
+     "k": "Relativpronomen Plural",
+     "e": "Zimmer, die …"
+    },
+    {
+     "o": [
+      "um",
+      "für",
+      "über"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "Kosten für + Akk."
+    },
+    {
+     "o": [
+      "würden",
+      "wären",
+      "wurden"
+     ],
+     "r": 1,
+     "k": "Konjunktiv II",
+     "e": "wir wären Ihnen dankbar."
+    },
+    {
+     "o": [
+      "konnten",
+      "könnten",
+      "können"
+     ],
+     "r": 1,
+     "k": "Konjunktiv II",
+     "e": "wenn wir … bekommen könnten."
+    }
+   ]
+  },
+  {
+   "id": "sbj11",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Dank an das Team",
+   "text": "Liebes Team,\n\nich möchte mich bei euch allen herzlich {{1}} die tolle Arbeit im letzten Monat bedanken. Obwohl zwei Kollegen krank {{2}}, haben wir alle Aufträge pünktlich geschafft. Das war nur möglich, {{3}} ihr euch gegenseitig geholfen habt. Als Dankeschön lade ich euch am Freitag {{4}} Mittagessen ein. Bitte sagt mir bis Mittwoch, wer {{5}}.\n\nEure Teamleiterin Petra",
+   "gaps": [
+    {
+     "o": [
+      "über",
+      "für",
+      "von"
+     ],
+     "r": 1,
+     "k": "Verb mit Präposition",
+     "e": "sich bedanken für + Akk."
+    },
+    {
+     "o": [
+      "wäre",
+      "war",
+      "waren"
+     ],
+     "r": 2,
+     "k": "Präteritum",
+     "e": "obwohl … krank waren."
+    },
+    {
+     "o": [
+      "damit",
+      "denn",
+      "weil"
+     ],
+     "r": 2,
+     "k": "Nebensatz Grund",
+     "e": "weil + Verb am Ende."
+    },
+    {
+     "o": [
+      "zur",
+      "zum",
+      "zu den"
+     ],
+     "r": 1,
+     "k": "Präposition + Artikel",
+     "e": "zu + dem Mittagessen = zum."
+    },
+    {
+     "o": [
+      "komme",
+      "kommen",
+      "kommt"
+     ],
+     "r": 2,
+     "k": "Konjugation",
+     "e": "wer kommt (3. Person Singular)."
+    }
+   ]
+  },
+  {
+   "id": "sbj12",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Erinnerung an eine Rechnung",
+   "text": "Sehr geehrte Damen und Herren,\n\nunsere Rechnung Nr. 4471 vom 2. März über 860 Euro ist leider noch nicht bezahlt. Vielleicht ist die Zahlung {{1}} Ihnen untergegangen. Wir bitten Sie, den Betrag {{2}} zum 30. März zu überweisen. Falls Sie die Rechnung schon bezahlt {{3}}, betrachten Sie dieses Schreiben bitte als gegenstandslos. Bei Fragen zur Rechnung {{4}} Sie uns unter der Telefonnummer 0351 223344.\n\nMit freundlichen Grüßen\nBuchhaltung",
+   "gaps": [
+    {
+     "o": [
+      "in",
+      "an",
+      "bei"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "bei Ihnen untergegangen."
+    },
+    {
+     "o": [
+      "seit",
+      "bis",
+      "ab"
+     ],
+     "r": 1,
+     "k": "Präposition Zeit",
+     "e": "bis zum 30. März."
+    },
+    {
+     "o": [
+      "haben",
+      "sind",
+      "werden"
+     ],
+     "r": 0,
+     "k": "Perfekt",
+     "e": "bezahlt haben."
+    },
+    {
+     "o": [
+      "erreichbar",
+      "erreichen",
+      "erreicht"
+     ],
+     "r": 1,
+     "k": "Konjugation",
+     "e": "Sie erreichen uns …"
+    }
+   ]
+  },
+  {
+   "id": "sbj13",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Einarbeitung eines neuen Kollegen",
+   "text": "Hallo Marek,\n\nab Montag arbeitet Herr Demir in unserem Team. Ich würde mich freuen, wenn du ihn in der ersten Woche {{1}} würdest. Du kennst dich mit der Maschine am besten aus und kannst ihm alles {{2}}. Herr Demir hat schon in einer anderen Firma {{3}} Elektriker gearbeitet, er bringt also Erfahrung mit. Wenn ihr Fragen habt, könnt ihr jederzeit {{4}} mir kommen. {{5}} im Voraus!\n\nViele Grüße\nAndrea",
+   "gaps": [
+    {
+     "o": [
+      "einarbeiten",
+      "eingearbeitet",
+      "einarbeitest"
+     ],
+     "r": 0,
+     "k": "Konjunktiv-Umschreibung",
+     "e": "wenn du ihn einarbeiten würdest."
+    },
+    {
+     "o": [
+      "zeigen",
+      "zeigst",
+      "gezeigt"
+     ],
+     "r": 0,
+     "k": "Modalverb + Infinitiv",
+     "e": "kannst … zeigen."
+    },
+    {
+     "o": [
+      "für",
+      "wie",
+      "als"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "als Elektriker arbeiten."
+    },
+    {
+     "o": [
+      "zu",
+      "an",
+      "bei"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "zu mir kommen."
+    },
+    {
+     "o": [
+      "Dankbar",
+      "Dank",
+      "Danke"
+     ],
+     "r": 2,
+     "k": "Nomen/Formel",
+     "e": "Danke im Voraus!"
+    }
+   ]
+  },
+  {
+   "id": "sbj14",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Stellenanzeige",
+   "text": "Wir suchen ab sofort eine Verkäuferin oder einen Verkäufer {{1}} Vollzeit. Sie haben Erfahrung im Einzelhandel und arbeiten gern {{2}} Menschen. Wichtig ist uns, dass Sie {{3}} sind und gut Deutsch sprechen. Wir bieten Ihnen ein nettes Team, {{4}} gutes Gehalt und flexible Arbeitszeiten. Bitte senden Sie Ihre Bewerbung {{5}} Frau Neumann.\n\nModehaus Elbe",
+   "gaps": [
+    {
+     "o": [
+      "auf",
+      "im",
+      "in"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "in Vollzeit."
+    },
+    {
+     "o": [
+      "mit",
+      "bei",
+      "für"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "arbeiten mit Menschen."
+    },
+    {
+     "o": [
+      "zuverlässige",
+      "zuverlässig",
+      "zuverlässiger"
+     ],
+     "r": 1,
+     "k": "Adjektiv prädikativ",
+     "e": "dass Sie zuverlässig sind."
+    },
+    {
+     "o": [
+      "einen",
+      "einem",
+      "ein"
+     ],
+     "r": 2,
+     "k": "Akkusativ",
+     "e": "ein gutes Gehalt (das Gehalt)."
+    },
+    {
+     "o": [
+      "an",
+      "bei",
+      "zu"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "senden an + Akk."
+    }
+   ]
+  },
+  {
+   "id": "sbj15",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Information für Patienten",
+   "text": "Liebe Patientinnen und Patienten,\n\nunsere Praxis ist vom 22. Dezember {{1}} zum 2. Januar geschlossen. In dieser Zeit vertritt uns die Praxis Dr. Klein, {{2}} Adresse Sie unten finden. Rezepte, die Sie über die Feiertage brauchen, sollten Sie {{3}} bestellen. Ab dem 3. Januar sind wir wieder {{4}} Sie da. Wir wünschen Ihnen schöne Feiertage und ein {{5}} neues Jahr!\n\nIhr Praxisteam",
+   "gaps": [
+    {
+     "o": [
+      "bis",
+      "ab",
+      "seit"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "vom … bis …"
+    },
+    {
+     "o": [
+      "dessen",
+      "deren",
+      "die"
+     ],
+     "r": 1,
+     "k": "Relativpronomen Genitiv",
+     "e": "die Praxis, deren Adresse …"
+    },
+    {
+     "o": [
+      "rechtzeitige",
+      "rechtzeitig",
+      "Rechtzeit"
+     ],
+     "r": 1,
+     "k": "Adverb",
+     "e": "rechtzeitig bestellen."
+    },
+    {
+     "o": [
+      "an",
+      "für",
+      "zu"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "für Sie da."
+    },
+    {
+     "o": [
+      "gesunder",
+      "gesundes",
+      "gesunde"
+     ],
+     "r": 1,
+     "k": "Adjektivendung",
+     "e": "ein gesundes neues Jahr (das Jahr)."
+    }
+   ]
+  },
+  {
+   "id": "sbj16",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kündigung eines Vertrags",
+   "text": "Sehr geehrte Damen und Herren,\n\nhiermit kündige ich meinen Vertrag für das Diensthandy {{1}} der Nummer 0171 5544332 zum nächstmöglichen Termin. Bitte schicken Sie mir eine schriftliche Bestätigung, {{2}} der das Ende des Vertrags steht. Das Gerät gebe ich nach dem Ende {{3}} Vertrags zurück. Ich bitte Sie außerdem, mich nicht mehr {{4}}, um mir neue Angebote zu machen.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "mit",
+      "über",
+      "von"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "Vertrag mit der Nummer …"
+    },
+    {
+     "o": [
+      "auf",
+      "an",
+      "in"
+     ],
+     "r": 2,
+     "k": "Relativsatz mit Präposition",
+     "e": "in der … steht."
+    },
+    {
+     "o": [
+      "dem",
+      "des",
+      "den"
+     ],
+     "r": 1,
+     "k": "Genitiv",
+     "e": "nach dem Ende des Vertrags."
+    },
+    {
+     "o": [
+      "anrufen",
+      "angerufen",
+      "anzurufen"
+     ],
+     "r": 2,
+     "k": "zu + Infinitiv trennbar",
+     "e": "anzurufen."
+    }
+   ]
+  },
+  {
+   "id": "sbj17",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Rundmail: Parkplätze",
+   "text": "Liebe Kolleginnen und Kollegen,\n\n{{1}} der Bauarbeiten am Haupteingang stehen ab Montag nur noch 40 Parkplätze zur Verfügung. Wir bitten alle, die in der Nähe wohnen, mit dem Fahrrad oder dem Bus {{2}} kommen. Wer auf das Auto {{3}} ist, zum Beispiel wegen der Schichtarbeit, hat Vorrang. Die Bauarbeiten {{4}} voraussichtlich bis Ende Mai. Danach gibt es sogar mehr Parkplätze {{5}} vorher.\n\nIhre Hausverwaltung",
+   "gaps": [
+    {
+     "o": [
+      "während",
+      "wegen",
+      "trotz"
+     ],
+     "r": 1,
+     "k": "Präposition + Genitiv",
+     "e": "wegen der Bauarbeiten."
+    },
+    {
+     "o": [
+      "um",
+      "zu",
+      "für"
+     ],
+     "r": 1,
+     "k": "zu + Infinitiv",
+     "e": "bitten, … zu kommen."
+    },
+    {
+     "o": [
+      "angewiesene",
+      "anweisen",
+      "angewiesen"
+     ],
+     "r": 2,
+     "k": "Partizip",
+     "e": "auf etwas angewiesen sein."
+    },
+    {
+     "o": [
+      "dauerten",
+      "dauern",
+      "dauert"
+     ],
+     "r": 1,
+     "k": "Konjugation Plural",
+     "e": "die Bauarbeiten dauern."
+    },
+    {
+     "o": [
+      "dann",
+      "wie",
+      "als"
+     ],
+     "r": 2,
+     "k": "Vergleich",
+     "e": "mehr … als vorher."
+    }
+   ]
+  },
+  {
+   "id": "sbj18",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Bericht über eine Messe",
+   "text": "Liebe Kolleginnen und Kollegen,\n\nhier ein kurzer Bericht {{1}} die Messe in Frankfurt. An unserem Stand waren an drei Tagen über 300 Besucher, {{2}} deutlich mehr als im letzten Jahr ist. Besonders {{3}} Interesse gab es an unserer neuen Verpackungsmaschine. Wir haben mehr als 40 Kontakte gesammelt, {{4}} wir in den nächsten Wochen anrufen werden. Herzlichen Dank an alle, die am Stand {{5}} haben!\n\nIhr Vertriebsteam",
+   "gaps": [
+    {
+     "o": [
+      "über",
+      "um",
+      "von"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "Bericht über + Akk."
+    },
+    {
+     "o": [
+      "das",
+      "die",
+      "was"
+     ],
+     "r": 2,
+     "k": "Relativpronomen „was“",
+     "e": "bezieht sich auf den ganzen Satz → was."
+    },
+    {
+     "o": [
+      "große",
+      "großer",
+      "großes"
+     ],
+     "r": 2,
+     "k": "Adjektivendung",
+     "e": "großes Interesse (das Interesse, ohne Artikel)."
+    },
+    {
+     "o": [
+      "denen",
+      "die",
+      "deren"
+     ],
+     "r": 1,
+     "k": "Relativpronomen",
+     "e": "Kontakte, die …"
+    },
+    {
+     "o": [
+      "mithelfen",
+      "mitgeholfen",
+      "mitgehelft"
+     ],
+     "r": 1,
+     "k": "Partizip II",
+     "e": "mitgeholfen haben."
+    }
+   ]
+  },
+  {
+   "id": "sbj19",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Nachricht an die Kita-Eltern",
+   "text": "Liebe Eltern,\n\nam Freitag machen wir mit den Kindern einen Ausflug {{1}} den Wald. Bitte ziehen Sie Ihrem Kind wetterfeste Kleidung und feste Schuhe {{2}}. Wir brauchen außerdem zwei Eltern, die uns {{3}} können. Wer Zeit hat, meldet sich bitte bis Mittwoch {{4}} Frau Kraus. Wir sind um 13 Uhr zurück, {{5}} das Mittagessen wie immer stattfindet.\n\nIhr Kita-Team",
+   "gaps": [
+    {
+     "o": [
+      "nach",
+      "in",
+      "zu"
+     ],
+     "r": 1,
+     "k": "Präposition wohin",
+     "e": "in den Wald."
+    },
+    {
+     "o": [
+      "um",
+      "an",
+      "aus"
+     ],
+     "r": 1,
+     "k": "trennbares Verb",
+     "e": "anziehen."
+    },
+    {
+     "o": [
+      "begleite",
+      "begleitet",
+      "begleiten"
+     ],
+     "r": 2,
+     "k": "Konjugation Plural",
+     "e": "zwei Eltern, die … begleiten."
+    },
+    {
+     "o": [
+      "bei",
+      "zu",
+      "an"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "sich melden bei + Dativ."
+    },
+    {
+     "o": [
+      "damit",
+      "sodass",
+      "weil"
+     ],
+     "r": 1,
+     "k": "Konsekutiv",
+     "e": "sodass + Folge."
+    }
+   ]
+  },
+  {
+   "id": "sbj20",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Rückmeldung zu einem Angebot",
+   "text": "Sehr geehrte Frau Becker,\n\nvielen Dank für Ihr Angebot vom 12. Mai. Wir haben es sorgfältig {{1}}. Grundsätzlich sind wir an einer Zusammenarbeit sehr interessiert. Allerdings ist der Preis {{2}} die Wartung höher als bei anderen Anbietern. Könnten Sie uns {{3}} und uns einen Rabatt von zehn Prozent anbieten? Wenn das möglich ist, {{4}} wir den Vertrag noch im Juni unterschreiben.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "prüfen",
+      "geprüfte",
+      "geprüft"
+     ],
+     "r": 2,
+     "k": "Perfekt",
+     "e": "haben … geprüft."
+    },
+    {
+     "o": [
+      "von",
+      "für",
+      "um"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "der Preis für + Akk."
+    },
+    {
+     "o": [
+      "entgegenkommen",
+      "entgegenkommt",
+      "entgegengekommen"
+     ],
+     "r": 0,
+     "k": "Infinitiv nach Modalverb",
+     "e": "Könnten Sie … entgegenkommen?"
+    },
+    {
+     "o": [
+      "wurden",
+      "würden",
+      "werden"
+     ],
+     "r": 1,
+     "k": "Konjunktiv II",
+     "e": "würden wir … unterschreiben."
+    }
+   ]
+  },
+  {
+   "id": "sbj21",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Aushang: Kühlschrank im Pausenraum",
+   "text": "Liebe Kolleginnen und Kollegen,\n\nleider ist der Kühlschrank im Pausenraum immer wieder sehr {{1}} und manche Lebensmittel sind schon lange abgelaufen. Ab sofort wird der Kühlschrank deshalb jeden Freitag {{2}} 15 Uhr geleert. Bitte schreiben Sie Ihren Namen auf alle Lebensmittel, {{3}} Sie hineinstellen. Was keinen Namen hat, {{4}} weggeworfen. Vielen Dank für Ihre {{5}}!",
+   "gaps": [
+    {
+     "o": [
+      "volle",
+      "voll",
+      "voller"
+     ],
+     "r": 1,
+     "k": "Adjektiv prädikativ",
+     "e": "ist sehr voll."
+    },
+    {
+     "o": [
+      "um",
+      "am",
+      "im"
+     ],
+     "r": 0,
+     "k": "Zeit",
+     "e": "um 15 Uhr."
+    },
+    {
+     "o": [
+      "der",
+      "die",
+      "das"
+     ],
+     "r": 1,
+     "k": "Relativpronomen Plural",
+     "e": "Lebensmittel, die …"
+    },
+    {
+     "o": [
+      "wurde",
+      "wird",
+      "werden"
+     ],
+     "r": 1,
+     "k": "Passiv",
+     "e": "wird … weggeworfen."
+    },
+    {
+     "o": [
+      "Mithelfer",
+      "mithelfen",
+      "Mithilfe"
+     ],
+     "r": 2,
+     "k": "Nomen",
+     "e": "Danke für Ihre Mithilfe."
+    }
+   ]
+  },
+  {
+   "id": "sbj22",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Anfrage zur Weiterbildung",
+   "text": "Sehr geehrter Herr Lorenz,\n\nich interessiere mich {{1}} die Weiterbildung zur Fachwirtin, die im Herbst an der IHK beginnt. Die Weiterbildung dauert zwei Jahre und findet {{2}} dem Beruf am Abend statt. Ich möchte Sie fragen, {{3}} die Firma einen Teil der Kosten übernehmen könnte. Ich bin sicher, dass die neuen Kenntnisse auch für meine Arbeit im Lager {{4}} sind. Über ein Gespräch {{5}} ich mich sehr freuen.\n\nMit freundlichen Grüßen\nOlga Iwanowa",
+   "gaps": [
+    {
+     "o": [
+      "für",
+      "über",
+      "an"
+     ],
+     "r": 0,
+     "k": "Verb mit Präposition",
+     "e": "sich interessieren für."
+    },
+    {
+     "o": [
+      "statt",
+      "neben",
+      "außer"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "berufsbegleitend, neben dem Beruf."
+    },
+    {
+     "o": [
+      "dass",
+      "wenn",
+      "ob"
+     ],
+     "r": 2,
+     "k": "indirekte Frage",
+     "e": "fragen, ob …"
+    },
+    {
+     "o": [
+      "nützen",
+      "nützlich",
+      "Nutzen"
+     ],
+     "r": 1,
+     "k": "Adjektiv",
+     "e": "nützlich sein."
+    },
+    {
+     "o": [
+      "würde",
+      "wurde",
+      "werde"
+     ],
+     "r": 0,
+     "k": "Konjunktiv II",
+     "e": "würde ich mich freuen."
+    }
+   ]
+  },
+  {
+   "id": "sbj23",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Mitteilung: Umzug der Abteilung",
+   "text": "Liebe Kolleginnen und Kollegen,\n\nim nächsten Monat zieht unsere Abteilung {{1}} das neue Gebäude B. Bitte packen Sie Ihre Unterlagen bis zum 28. Juni in Kisten, {{2}} ab Montag in den Büros stehen. Computer und Telefone {{3}} von der IT abgebaut. Während des Umzugs {{4}} alle im Homeoffice. Ab dem 3. Juli sind wir wie gewohnt {{5}} den bekannten Nummern erreichbar.\n\nIhre Abteilungsleitung",
+   "gaps": [
+    {
+     "o": [
+      "in",
+      "nach",
+      "im"
+     ],
+     "r": 0,
+     "k": "Wechselpräposition wohin",
+     "e": "in das neue Gebäude (Akk.)."
+    },
+    {
+     "o": [
+      "deren",
+      "die",
+      "denen"
+     ],
+     "r": 1,
+     "k": "Relativpronomen",
+     "e": "Kisten, die …"
+    },
+    {
+     "o": [
+      "würden",
+      "werden",
+      "wird"
+     ],
+     "r": 1,
+     "k": "Passiv Plural",
+     "e": "werden von der IT abgebaut."
+    },
+    {
+     "o": [
+      "arbeitet",
+      "arbeite",
+      "arbeiten"
+     ],
+     "r": 2,
+     "k": "Konjugation",
+     "e": "arbeiten alle im Homeoffice."
+    },
+    {
+     "o": [
+      "unter",
+      "mit",
+      "bei"
+     ],
+     "r": 0,
+     "k": "Präposition",
+     "e": "unter den bekannten Nummern erreichbar."
+    }
+   ]
+  },
+  {
+   "id": "sbj24",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Antwort an eine Kollegin",
+   "text": "Liebe Anna,\n\nvielen Dank für deine Nachricht. Natürlich helfe ich dir gern {{1}} der Präsentation. Am besten treffen wir uns morgen nach der Mittagspause, {{2}} ich vormittags einen Kundentermin habe. Kannst du mir die Folien schon heute {{3}}? Dann kann ich sie vorher {{4}}. Ich bin sicher, dass die Präsentation ein großer Erfolg {{5}}.\n\nLiebe Grüße\nOlga",
+   "gaps": [
+    {
+     "o": [
+      "für",
+      "mit",
+      "bei"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "helfen bei + Dativ."
+    },
+    {
+     "o": [
+      "deshalb",
+      "weil",
+      "denn"
+     ],
+     "r": 1,
+     "k": "Nebensatz",
+     "e": "weil + Verb am Ende."
+    },
+    {
+     "o": [
+      "geschickt",
+      "schicken",
+      "schickst"
+     ],
+     "r": 1,
+     "k": "Modalverb + Infinitiv",
+     "e": "Kannst du … schicken?"
+    },
+    {
+     "o": [
+      "durchlesen",
+      "durchliest",
+      "durchgelesen"
+     ],
+     "r": 0,
+     "k": "Infinitiv",
+     "e": "kann … durchlesen."
+    },
+    {
+     "o": [
+      "werden",
+      "würde",
+      "wird"
+     ],
+     "r": 2,
+     "k": "Futur/werden",
+     "e": "ein Erfolg wird."
+    }
+   ]
+  },
+  {
+   "id": "sbj25",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Information zum Jobticket",
+   "text": "Liebe Mitarbeiterinnen und Mitarbeiter,\n\nab Januar bieten wir Ihnen das Deutschlandticket {{1}} Jobticket an. Die Firma zahlt einen Zuschuss von 25 Euro, {{2}} Sie jeden Monat mit dem Gehalt bekommen. Das Ticket gilt {{3}} ganz Deutschland im Nahverkehr. Wer Interesse hat, füllt bitte das Formular im Intranet {{4}}. Die Anmeldung ist bis zum 10. des Vormonats {{5}}.\n\nIhre Personalabteilung",
+   "gaps": [
+    {
+     "o": [
+      "für",
+      "als",
+      "wie"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "als Jobticket."
+    },
+    {
+     "o": [
+      "der",
+      "den",
+      "dem"
+     ],
+     "r": 1,
+     "k": "Relativpronomen Akkusativ",
+     "e": "Zuschuss, den …"
+    },
+    {
+     "o": [
+      "auf",
+      "an",
+      "in"
+     ],
+     "r": 2,
+     "k": "Präposition",
+     "e": "in ganz Deutschland."
+    },
+    {
+     "o": [
+      "ein",
+      "aus",
+      "an"
+     ],
+     "r": 1,
+     "k": "trennbares Verb",
+     "e": "ausfüllen."
+    },
+    {
+     "o": [
+      "Möglichkeit",
+      "möglichst",
+      "möglich"
+     ],
+     "r": 2,
+     "k": "Adjektiv",
+     "e": "ist möglich."
+    }
+   ]
+  },
+  {
+   "id": "sbj26",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Entschuldigung beim Kunden",
+   "text": "Sehr geehrte Frau Hartmann,\n\nvielen Dank für Ihre E-Mail. Es tut uns sehr leid, {{1}} unser Techniker gestern nicht gekommen ist. Durch einen Fehler in unserem System {{2}} Ihr Termin nicht richtig eingetragen. Wir haben das Problem inzwischen {{3}}. Unser Techniker kommt nun am Donnerstag {{4}} 8 und 10 Uhr zu Ihnen. Die Anfahrtskosten {{5}} selbstverständlich wir.\n\nMit freundlichen Grüßen\nKundenservice",
+   "gaps": [
+    {
+     "o": [
+      "dass",
+      "ob",
+      "weil"
+     ],
+     "r": 0,
+     "k": "dass-Satz",
+     "e": "es tut uns leid, dass …"
+    },
+    {
+     "o": [
+      "wird",
+      "wurde",
+      "war"
+     ],
+     "r": 1,
+     "k": "Passiv Präteritum",
+     "e": "wurde … nicht eingetragen."
+    },
+    {
+     "o": [
+      "behoben",
+      "behebt",
+      "beheben"
+     ],
+     "r": 0,
+     "k": "Partizip II",
+     "e": "haben … behoben."
+    },
+    {
+     "o": [
+      "ab",
+      "zwischen",
+      "von"
+     ],
+     "r": 1,
+     "k": "Präposition",
+     "e": "zwischen 8 und 10 Uhr."
+    },
+    {
+     "o": [
+      "übernommen",
+      "übernimmt",
+      "übernehmen"
+     ],
+     "r": 2,
+     "k": "Konjugation Plural",
+     "e": "wir übernehmen."
+    }
+   ]
+  }
+ ]
+}

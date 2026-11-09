@@ -1,0 +1,524 @@
+{
+ "notiz": [
+  {
+   "id": "nj01",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Lieferant meldet Verspätung",
+   "situation": "Sie arbeiten im Einkauf. Ihr Kollege Herr Schmidt ist in einer Besprechung. Ein Lieferant ruft an. Notieren Sie die wichtigsten Informationen für Herrn Schmidt.",
+   "audio": "Guten Tag, hier ist Petra Vogt von der Firma Papier Vogt. Es geht um die Bestellung 7 4 1 9 über 200 Kartons Kopierpapier. Leider ist unser Lkw kaputt. Wir können erst am Donnerstag statt am Dienstag liefern. Wenn Herr Schmidt das Papier dringender braucht, können wir 50 Kartons mit der Post schicken, das kostet aber 40 Euro extra. Er soll mich bitte bis morgen 12 Uhr anrufen: 0 3 5 1, 8 8 4 2 1 0.",
+   "felder": [
+    {
+     "l": "Anrufer / Firma",
+     "a": [
+      "vogt"
+     ]
+    },
+    {
+     "l": "Bestellnummer",
+     "a": [
+      "7419"
+     ]
+    },
+    {
+     "l": "Neuer Liefertermin",
+     "a": [
+      "donnerstag"
+     ]
+    },
+    {
+     "l": "Angebot",
+     "a": [
+      "50",
+      "post"
+     ]
+    },
+    {
+     "l": "Rückruf bis",
+     "a": [
+      "12",
+      "morgen"
+     ]
+    },
+    {
+     "l": "Telefonnummer",
+     "a": [
+      "884210",
+      "88 42 10"
+     ]
+    }
+   ],
+   "m": "Für Herrn Schmidt\nAnruf: Frau Petra Vogt, Papier Vogt\nBestellung 7419 (200 Kartons Papier): Lieferung erst Donnerstag statt Dienstag (Lkw kaputt)\nAngebot: 50 Kartons vorab per Post, 40 € extra\nBitte bis morgen 12 Uhr zurückrufen: 0351 884210"
+  },
+  {
+   "id": "nj02",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Bewerberin verschiebt Termin",
+   "situation": "Sie arbeiten in der Personalabteilung. Ihre Chefin Frau Wolf ist nicht da. Eine Bewerberin ruft an. Notieren Sie die Informationen.",
+   "audio": "Hallo, mein Name ist Daria Melnyk, M-E-L-N-Y-K. Ich habe am Mittwoch um 10 Uhr ein Vorstellungsgespräch bei Frau Wolf, für die Stelle in der Buchhaltung. Leider ist mein Sohn krank und ich kann nicht kommen. Wäre Freitag möglich, am besten am Nachmittag ab 14 Uhr? Bitte schicken Sie mir einfach eine E-Mail an d.melnyk@web.de. Vielen Dank und entschuldigen Sie bitte.",
+   "felder": [
+    {
+     "l": "Name",
+     "a": [
+      "melnyk"
+     ]
+    },
+    {
+     "l": "Stelle",
+     "a": [
+      "buchhaltung"
+     ]
+    },
+    {
+     "l": "Alter Termin",
+     "a": [
+      "mittwoch"
+     ]
+    },
+    {
+     "l": "Grund",
+     "a": [
+      "sohn",
+      "krank"
+     ]
+    },
+    {
+     "l": "Wunschtermin",
+     "a": [
+      "freitag"
+     ]
+    },
+    {
+     "l": "Kontakt",
+     "a": [
+      "melnyk@web",
+      "e-mail",
+      "mail"
+     ]
+    }
+   ],
+   "m": "Für Frau Wolf\nBewerberin Daria Melnyk (Stelle Buchhaltung)\nTermin Mittwoch 10 Uhr kann nicht stattfinden – Sohn krank\nWunsch: Freitag ab 14 Uhr\nAntwort bitte per E-Mail: d.melnyk@web.de"
+  },
+  {
+   "id": "nj03",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kundin will Termin in der Werkstatt",
+   "situation": "Sie arbeiten am Empfang einer Autowerkstatt. Der Meister, Herr Braun, ist in der Halle. Eine Kundin ruft an. Notieren Sie die Informationen für Herrn Braun.",
+   "audio": "Guten Morgen, hier ist Lisa Hoffmann. Mein Auto, ein blauer Opel Corsa, macht seit gestern beim Bremsen komische Geräusche. Das Kennzeichen ist D D – L H 2 4 7. Ich brauche das Auto jeden Tag für die Arbeit. Könnte ich es morgen früh um 7 Uhr bringen und am Abend abholen? Meine Nummer ist 0 1 7 6, 5 5 3 9 0 1 2. Ich bin ab 16 Uhr erreichbar.",
+   "felder": [
+    {
+     "l": "Kundin",
+     "a": [
+      "hoffmann"
+     ]
+    },
+    {
+     "l": "Auto",
+     "a": [
+      "corsa",
+      "opel"
+     ]
+    },
+    {
+     "l": "Problem",
+     "a": [
+      "bremse",
+      "bremsen",
+      "geräusch"
+     ]
+    },
+    {
+     "l": "Kennzeichen",
+     "a": [
+      "lh 247",
+      "lh247",
+      "247"
+     ]
+    },
+    {
+     "l": "Wunsch",
+     "a": [
+      "morgen",
+      "7"
+     ]
+    },
+    {
+     "l": "Erreichbar",
+     "a": [
+      "16",
+      "0176"
+     ]
+    }
+   ],
+   "m": "Für Herrn Braun\nKundin: Lisa Hoffmann, blauer Opel Corsa, DD-LH 247\nProblem: Geräusche beim Bremsen (seit gestern)\nMöchte Auto morgen um 7 Uhr bringen, abends abholen\nRückruf ab 16 Uhr: 0176 5539012"
+  },
+  {
+   "id": "nj04",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Pflegeheim: Angehöriger ruft an",
+   "situation": "Sie arbeiten im Pflegeheim. Die Wohnbereichsleitung Frau Kaya ist nicht da. Ein Angehöriger ruft an. Notieren Sie die Informationen.",
+   "audio": "Guten Tag, hier spricht Jürgen Weber. Meine Mutter, Frau Elisabeth Weber, wohnt bei Ihnen in Zimmer 2 1 4. Ich wollte Bescheid sagen, dass ich sie am Sonntag zum 80. Geburtstag meiner Schwester abholen möchte, um 11 Uhr. Wir bringen sie bis 18 Uhr zurück. Könnten Sie bitte ihre Medikamente für den Mittag vorbereiten? Und sie braucht ihren Rollstuhl. Rufen Sie mich an, wenn es ein Problem gibt: 0 1 5 1, 2 3 4 5 6 7 8.",
+   "felder": [
+    {
+     "l": "Bewohnerin",
+     "a": [
+      "weber"
+     ]
+    },
+    {
+     "l": "Zimmer",
+     "a": [
+      "214"
+     ]
+    },
+    {
+     "l": "Abholung",
+     "a": [
+      "sonntag",
+      "11"
+     ]
+    },
+    {
+     "l": "Rückkehr",
+     "a": [
+      "18"
+     ]
+    },
+    {
+     "l": "Vorbereiten",
+     "a": [
+      "medikament",
+      "rollstuhl"
+     ]
+    },
+    {
+     "l": "Telefon",
+     "a": [
+      "2345678",
+      "0151"
+     ]
+    }
+   ],
+   "m": "Für Frau Kaya\nHerr Jürgen Weber holt seine Mutter Elisabeth Weber (Zi. 214) am Sonntag um 11 Uhr ab – Familienfeier\nRückkehr bis 18 Uhr\nBitte Mittagsmedikamente vorbereiten, Rollstuhl mitgeben\nBei Problemen: 0151 2345678"
+  },
+  {
+   "id": "nj05",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kunde will Angebot",
+   "situation": "Sie arbeiten in einer Malerfirma. Ihre Chefin Frau Lange ist auf einer Baustelle. Ein Kunde ruft an. Notieren Sie die Informationen.",
+   "audio": "Ja, guten Tag, Kowalczyk ist mein Name, K-O-W-A-L-C-Z-Y-K. Wir haben eine Wohnung gekauft, 85 Quadratmeter, in der Lindenstraße 12. Alle Wände sollen weiß gestrichen werden, und im Bad brauchen wir neue Fliesen. Wir möchten im März einziehen. Kann Frau Lange vorbeikommen und sich das ansehen? Am besten am Samstagvormittag. Meine Nummer: 0 3 5 1, 4 0 9 8 7 7.",
+   "felder": [
+    {
+     "l": "Kunde",
+     "a": [
+      "kowalczyk"
+     ]
+    },
+    {
+     "l": "Adresse",
+     "a": [
+      "lindenstraße 12",
+      "lindenstr"
+     ]
+    },
+    {
+     "l": "Größe",
+     "a": [
+      "85"
+     ]
+    },
+    {
+     "l": "Arbeiten",
+     "a": [
+      "streichen",
+      "weiß",
+      "fliesen"
+     ]
+    },
+    {
+     "l": "Besichtigung",
+     "a": [
+      "samstag"
+     ]
+    },
+    {
+     "l": "Telefon",
+     "a": [
+      "409877"
+     ]
+    }
+   ],
+   "m": "Für Frau Lange\nAnruf: Herr Kowalczyk, neue Wohnung Lindenstraße 12, 85 m²\nWände weiß streichen, Bad: neue Fliesen – Einzug im März\nBitte Besichtigung, am liebsten Samstagvormittag\nTel.: 0351 409877"
+  },
+  {
+   "id": "nj06",
+   "ex": [
+    "DTB"
+   ],
+   "t": "IT-Problem einer Kollegin",
+   "situation": "Sie arbeiten im IT-Support. Ihr Kollege Herr Nguyen ist in der Pause. Eine Kollegin ruft an. Notieren Sie die Informationen.",
+   "audio": "Hallo, hier ist Sabine Roth aus dem Vertrieb, zweiter Stock, Zimmer 2 0 8. Mein Laptop startet seit heute Morgen nicht mehr richtig. Es kommt immer eine Fehlermeldung, und dann geht er wieder aus. Ich habe um 14 Uhr eine wichtige Präsentation beim Kunden. Kann Herr Nguyen bitte vorher kommen? Wenn das nicht geht, brauche ich ein Ersatzgerät. Meine Durchwahl ist 3 1 5.",
+   "felder": [
+    {
+     "l": "Anruferin",
+     "a": [
+      "roth"
+     ]
+    },
+    {
+     "l": "Abteilung/Zimmer",
+     "a": [
+      "vertrieb",
+      "208"
+     ]
+    },
+    {
+     "l": "Problem",
+     "a": [
+      "laptop",
+      "startet nicht",
+      "fehlermeldung"
+     ]
+    },
+    {
+     "l": "Dringend wegen",
+     "a": [
+      "14",
+      "präsentation"
+     ]
+    },
+    {
+     "l": "Alternative",
+     "a": [
+      "ersatz"
+     ]
+    },
+    {
+     "l": "Durchwahl",
+     "a": [
+      "315"
+     ]
+    }
+   ],
+   "m": "Für Herrn Nguyen\nFrau Sabine Roth, Vertrieb, Zi. 208\nLaptop startet nicht (Fehlermeldung, schaltet ab)\nDringend: Präsentation beim Kunden um 14 Uhr – bitte vorher kommen\nSonst Ersatzgerät nötig\nDurchwahl 315"
+  },
+  {
+   "id": "nj07",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Hotel: Gruppenbuchung",
+   "situation": "Sie arbeiten an der Rezeption eines Hotels. Der Hotelmanager Herr Bauer ist nicht da. Eine Kundin ruft an. Notieren Sie die Informationen.",
+   "audio": "Guten Tag, Anna Schulze von der Firma Medtec. Wir möchten für unsere Schulung vom 12. bis 14. Mai Zimmer buchen, und zwar 15 Einzelzimmer. Wir brauchen außerdem einen Seminarraum für 20 Personen mit Beamer, jeweils von 9 bis 17 Uhr. Mittagessen bitte für alle, zwei Personen essen vegetarisch. Könnte Herr Bauer mir bis Freitag ein Angebot per E-Mail schicken? schulze@medtec.de.",
+   "felder": [
+    {
+     "l": "Firma",
+     "a": [
+      "medtec"
+     ]
+    },
+    {
+     "l": "Datum",
+     "a": [
+      "12",
+      "14. mai",
+      "mai"
+     ]
+    },
+    {
+     "l": "Zimmer",
+     "a": [
+      "15"
+     ]
+    },
+    {
+     "l": "Seminarraum",
+     "a": [
+      "20",
+      "beamer"
+     ]
+    },
+    {
+     "l": "Essen",
+     "a": [
+      "vegetarisch",
+      "mittag"
+     ]
+    },
+    {
+     "l": "Angebot bis",
+     "a": [
+      "freitag"
+     ]
+    }
+   ],
+   "m": "Für Herrn Bauer\nFrau Anna Schulze, Firma Medtec\n12.–14. Mai: 15 Einzelzimmer, Seminarraum für 20 Pers. mit Beamer (9–17 Uhr)\nMittagessen für alle, 2× vegetarisch\nAngebot bis Freitag per E-Mail: schulze@medtec.de"
+  },
+  {
+   "id": "nj08",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kita: Vater ruft an",
+   "situation": "Sie arbeiten in einer Kita. Die Erzieherin Frau Maier ist mit den Kindern draußen. Ein Vater ruft an. Notieren Sie die Informationen.",
+   "audio": "Hallo, hier ist Ahmed Karimi, der Papa von Leyla aus der Gruppe Sonnenblumen. Leyla hat heute Nachmittag einen Termin beim Zahnarzt. Ich hole sie deshalb schon um 13 Uhr ab, nicht wie immer um 16 Uhr. Ach, und morgen bringt sie nicht meine Frau, sondern die Oma, Frau Shirin Karimi. Bitte lassen Sie sie Leyla auch abholen. Meine Handynummer ist 0 1 7 2, 9 8 7 6 5 4 3.",
+   "felder": [
+    {
+     "l": "Kind",
+     "a": [
+      "leyla"
+     ]
+    },
+    {
+     "l": "Gruppe",
+     "a": [
+      "sonnenblumen"
+     ]
+    },
+    {
+     "l": "Heute abholen um",
+     "a": [
+      "13"
+     ]
+    },
+    {
+     "l": "Grund",
+     "a": [
+      "zahnarzt"
+     ]
+    },
+    {
+     "l": "Morgen",
+     "a": [
+      "oma",
+      "shirin"
+     ]
+    },
+    {
+     "l": "Handy",
+     "a": [
+      "9876543",
+      "0172"
+     ]
+    }
+   ],
+   "m": "Für Frau Maier\nHerr Ahmed Karimi (Vater von Leyla, Gruppe Sonnenblumen)\nHeute Abholung schon um 13 Uhr – Zahnarzttermin\nMorgen bringt und holt die Oma, Frau Shirin Karimi\nHandy: 0172 9876543"
+  },
+  {
+   "id": "nj09",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Spedition: Problem mit Lieferadresse",
+   "situation": "Sie arbeiten in einer Spedition. Der Disponent Herr Fischer ist unterwegs. Ein Fahrer ruft an. Notieren Sie die Informationen.",
+   "audio": "Hallo, hier ist Marek, Fahrer von Tour 1 2. Ich stehe gerade bei der Firma Klein in Meißen, aber die Rampe ist geschlossen. Niemand macht auf. Ich habe hier acht Paletten. Ich warte noch 30 Minuten, dann fahre ich zum nächsten Kunden nach Radebeul. Herr Fischer soll bitte bei der Firma Klein anrufen und einen neuen Termin machen. Ich bin auf dem Handy erreichbar: 0 1 6 0, 7 7 1 2 3 4.",
+   "felder": [
+    {
+     "l": "Fahrer / Tour",
+     "a": [
+      "marek",
+      "12"
+     ]
+    },
+    {
+     "l": "Kunde",
+     "a": [
+      "klein",
+      "meißen"
+     ]
+    },
+    {
+     "l": "Problem",
+     "a": [
+      "rampe",
+      "geschlossen",
+      "niemand"
+     ]
+    },
+    {
+     "l": "Ladung",
+     "a": [
+      "8",
+      "acht",
+      "paletten"
+     ]
+    },
+    {
+     "l": "Plan",
+     "a": [
+      "30",
+      "radebeul"
+     ]
+    },
+    {
+     "l": "Handy",
+     "a": [
+      "771234",
+      "0160"
+     ]
+    }
+   ],
+   "m": "Für Herrn Fischer\nFahrer Marek (Tour 12) bei Firma Klein, Meißen: Rampe geschlossen, niemand da\n8 Paletten an Bord\nWartet 30 Min., dann weiter nach Radebeul\nBitte Firma Klein anrufen, neuen Termin machen\nHandy Marek: 0160 771234"
+  },
+  {
+   "id": "nj10",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Arztpraxis: Patient braucht Rezept",
+   "situation": "Sie arbeiten in einer Arztpraxis. Die Ärztin Frau Dr. Lehmann ist in der Sprechstunde. Ein Patient ruft an. Notieren Sie die Informationen.",
+   "audio": "Guten Tag, hier spricht Wolfgang Zimmer, geboren am 3. Mai 1958. Ich brauche ein neues Rezept für meine Blutdrucktabletten, Ramipril 5 Milligramm. Ich habe nur noch für drei Tage. Kann ich das Rezept morgen Vormittag abholen? Und ich wollte noch fragen, ob ich die Grippeimpfung gleich mitmachen kann. Meine Nummer ist 0 3 5 1, 3 3 2 1 9 8.",
+   "felder": [
+    {
+     "l": "Patient",
+     "a": [
+      "zimmer"
+     ]
+    },
+    {
+     "l": "Geburtsdatum",
+     "a": [
+      "1958",
+      "3. mai"
+     ]
+    },
+    {
+     "l": "Medikament",
+     "a": [
+      "ramipril",
+      "blutdruck"
+     ]
+    },
+    {
+     "l": "Abholung",
+     "a": [
+      "morgen"
+     ]
+    },
+    {
+     "l": "Frage",
+     "a": [
+      "grippe",
+      "impfung"
+     ]
+    },
+    {
+     "l": "Telefon",
+     "a": [
+      "332198"
+     ]
+    }
+   ],
+   "m": "Für Frau Dr. Lehmann\nPatient: Wolfgang Zimmer, geb. 03.05.1958\nBraucht Folgerezept Ramipril 5 mg (nur noch für 3 Tage)\nMöchte morgen Vormittag abholen\nFrage: Grippeimpfung gleich mitmachen?\nTel.: 0351 332198"
+  }
+ ]
+}

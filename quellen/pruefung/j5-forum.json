@@ -1,0 +1,598 @@
+{
+ "forum": [
+  {
+   "id": "fj01",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Viertagewoche",
+   "frage": "Sollte es in allen Betrieben eine Viertagewoche geben?",
+   "beitraege": [
+    {
+     "name": "Jana",
+     "text": "Seit wir nur vier Tage arbeiten, bin ich viel erholter. Der lange Tag ist kein Problem für mich."
+    },
+    {
+     "name": "Holger",
+     "text": "In der Pflege oder im Handel geht das doch gar nicht. Wer soll die Arbeit machen?"
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Jana und Holger gelesen und finde beide Meinungen verständlich.\n\nMeiner Meinung nach ist die Viertagewoche eine gute Idee, aber nicht für jeden Beruf. Ein großer Vorteil ist, dass man einen Tag mehr für Familie, Arzttermine oder Erholung hat. Viele Menschen sind dann weniger krank und motivierter.\n\nAndererseits hat Holger recht: In einem Krankenhaus oder Supermarkt müssen jeden Tag Menschen arbeiten. Dort braucht man mehr Personal, und das kostet Geld. Außerdem sind zehn Stunden am Tag für Eltern mit kleinen Kindern oft zu lang.\n\nIn meinem Heimatland arbeitet man meistens fünf oder sogar sechs Tage. Eine Viertagewoche kennt man dort kaum.\n\nZusammenfassend denke ich: Jeder Betrieb sollte prüfen, ob es möglich ist, aber man sollte es nicht für alle vorschreiben."
+  },
+  {
+   "id": "fj02",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Künstliche Intelligenz im Büro",
+   "frage": "Hilft Künstliche Intelligenz bei der Arbeit oder macht sie Arbeitsplätze kaputt?",
+   "beitraege": [
+    {
+     "name": "Selin",
+     "text": "Ich schreibe E-Mails mit KI viel schneller. Das spart mir jeden Tag eine Stunde."
+    },
+    {
+     "name": "Dieter",
+     "text": "Bald brauchen die Firmen keine Sachbearbeiter mehr. Ich habe Angst um meinen Job."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Selin und Dieter gelesen.\n\nMeiner Meinung nach kann Künstliche Intelligenz eine große Hilfe sein. Ein Vorteil ist, dass langweilige Aufgaben wie Formulare oder Standardbriefe schneller gehen. Dann bleibt mehr Zeit für Kunden und schwierige Fälle.\n\nAndererseits verstehe ich Dieters Angst. Manche einfachen Tätigkeiten werden wirklich wegfallen. Außerdem macht KI auch Fehler, und man muss alles kontrollieren. Wichtig ist auch der Datenschutz.\n\nIn meinem Heimatland benutzen vor allem junge Leute KI, in den Firmen ist sie noch nicht so verbreitet.\n\nZusammenfassend kann man sagen: KI ersetzt nicht den Menschen, aber die Beschäftigten müssen lernen, gut mit ihr zu arbeiten. Dafür brauchen wir Weiterbildungen."
+  },
+  {
+   "id": "fj03",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Duzen am Arbeitsplatz",
+   "frage": "Sollten sich alle Kollegen und Chefs duzen?",
+   "beitraege": [
+    {
+     "name": "Mia",
+     "text": "Bei uns duzen sich alle, auch der Chef. Das macht die Atmosphäre locker und freundlich."
+    },
+    {
+     "name": "Gerhard",
+     "text": "Ich finde das respektlos. Ein Sie schafft Abstand, und das ist im Beruf wichtig."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Meinungen von Mia und Gerhard gelesen.\n\nMeiner Meinung nach hängt es von der Firma ab. Einerseits macht das Du die Zusammenarbeit oft einfacher. Man fühlt sich als Teil eines Teams und traut sich eher, Fragen zu stellen.\n\nAndererseits kann ich Gerhard verstehen. Mit Kunden oder in schwierigen Gesprächen, zum Beispiel bei Kritik, hilft das Sie, professionell zu bleiben. Außerdem ist es für neue Kolleginnen aus anderen Ländern manchmal schwer, wenn sie den Chef plötzlich duzen sollen.\n\nIn meinem Heimatland spricht man den Chef immer mit Vor- und Vatersnamen an. Ein Du wäre dort sehr ungewöhnlich.\n\nZusammenfassend finde ich: Jedes Team sollte selbst entscheiden, und niemand sollte gezwungen werden."
+  },
+  {
+   "id": "fj04",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Weiterbildung in der Freizeit",
+   "frage": "Sollten Mitarbeiter Weiterbildungen auch in ihrer Freizeit machen?",
+   "beitraege": [
+    {
+     "name": "Kerstin",
+     "text": "Ich mache abends einen Online-Kurs. Das ist meine Zukunft, also investiere ich meine Zeit."
+    },
+    {
+     "name": "Ali",
+     "text": "Wenn die Firma neue Kenntnisse will, muss sie auch die Zeit bezahlen. Meine Freizeit gehört meiner Familie."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Kerstin und Ali gelesen.\n\nMeiner Meinung nach sollte Weiterbildung, die die Firma braucht, in der Arbeitszeit stattfinden. Ein großer Vorteil davon ist, dass alle Mitarbeiter teilnehmen können, auch Eltern oder Menschen mit Schichtarbeit.\n\nAndererseits finde ich Kerstins Einstellung gut. Wer sich beruflich weiterentwickeln will, zum Beispiel für eine bessere Stelle, muss manchmal auch eigene Zeit investieren. Ein Kompromiss wäre, dass die Firma die Kosten bezahlt und die Hälfte der Zeit als Arbeitszeit zählt.\n\nIn meinem Heimatland bezahlen viele Menschen ihre Kurse selbst und lernen am Wochenende.\n\nZusammenfassend: Lernen ist wichtig, aber die Verantwortung sollten sich Firma und Mitarbeiter teilen."
+  },
+  {
+   "id": "fj05",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Handy am Arbeitsplatz",
+   "frage": "Sollten private Handys während der Arbeit verboten sein?",
+   "beitraege": [
+    {
+     "name": "Tobias",
+     "text": "Ständig schauen Kollegen auf ihr Handy. Das stört und ist gefährlich an den Maschinen."
+    },
+    {
+     "name": "Olena",
+     "text": "Ich habe zwei Kinder. Wenn die Schule anruft, muss ich erreichbar sein."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Tobias und Olena gelesen.\n\nMeiner Meinung nach ist ein komplettes Verbot zu streng. Ein Vorteil von klaren Regeln ist aber, dass man konzentrierter arbeitet. An Maschinen oder beim Autofahren muss das Handy natürlich weg, sonst passieren Unfälle.\n\nAndererseits braucht Olena ihr Handy für Notfälle. Viele Eltern, aber auch Menschen, die Angehörige pflegen, müssen erreichbar sein.\n\nIn meinem Heimatland gibt es in Fabriken oft strenge Regeln, im Büro dagegen benutzen alle ihr Handy.\n\nZusammenfassend schlage ich vor: Handys in der Pause erlaubt, während der Arbeit nur für Notfälle und stumm. So sind beide Seiten zufrieden."
+  },
+  {
+   "id": "fj06",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gehälter offenlegen",
+   "frage": "Sollten alle im Betrieb wissen, wie viel die Kollegen verdienen?",
+   "beitraege": [
+    {
+     "name": "Laura",
+     "text": "Nur wenn die Gehälter offen sind, sieht man, ob Frauen weniger bekommen."
+    },
+    {
+     "name": "Uwe",
+     "text": "Mein Gehalt ist Privatsache. Das führt nur zu Neid und Streit."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Laura und Uwe gelesen.\n\nMeiner Meinung nach hat mehr Offenheit beim Gehalt viele Vorteile. Ein großer Vorteil ist, dass Ungerechtigkeiten sichtbar werden, zum Beispiel wenn Frauen oder Menschen aus dem Ausland für die gleiche Arbeit weniger bekommen.\n\nAndererseits verstehe ich Uwe. Es kann zu Neid kommen, wenn jemand mehr verdient, obwohl er scheinbar weniger arbeitet. Deshalb müssen die Regeln für das Gehalt klar und nachvollziehbar sein.\n\nIn meinem Heimatland spricht man fast nie über Geld, auch nicht mit Freunden.\n\nZusammenfassend denke ich: Nicht jeder muss das genaue Gehalt des anderen kennen, aber die Gehaltsstufen sollten für alle offen sein."
+  },
+  {
+   "id": "fj07",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Großraumbüro",
+   "frage": "Ist ein Großraumbüro besser als Einzelbüros?",
+   "beitraege": [
+    {
+     "name": "Nils",
+     "text": "Im Großraumbüro spricht man mehr miteinander. Probleme werden schneller gelöst."
+    },
+    {
+     "name": "Svetlana",
+     "text": "Es ist so laut, dass ich mich nicht konzentrieren kann. Abends habe ich Kopfschmerzen."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Nils und Svetlana gelesen.\n\nMeiner Meinung nach haben beide Büroformen Vor- und Nachteile. Ein Vorteil des Großraumbüros ist die Kommunikation: Man kann schnell eine Frage stellen und das Team arbeitet enger zusammen.\n\nEin Nachteil ist allerdings der Lärm. Wenn viele Leute telefonieren, ist konzentriertes Arbeiten schwer. Das kann krank machen, wie Svetlana schreibt.\n\nIn meinem Heimatland arbeiten viele Menschen in kleinen Büros mit zwei oder drei Personen.\n\nZusammenfassend finde ich eine Mischung am besten: ein offener Bereich für Teamarbeit und ruhige Räume, in die man sich zurückziehen kann."
+  },
+  {
+   "id": "fj08",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Ehrenamt neben dem Beruf",
+   "frage": "Sollten Firmen ihre Mitarbeiter für ehrenamtliche Arbeit freistellen?",
+   "beitraege": [
+    {
+     "name": "Petra",
+     "text": "Unsere Firma gibt jedem zwei Tage im Jahr für soziale Projekte. Das ist großartig."
+    },
+    {
+     "name": "Marco",
+     "text": "Die Firma ist kein Sozialverein. Ehrenamt ist Privatsache."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Petra und Marco gelesen.\n\nMeiner Meinung nach ist es eine gute Idee, wenn Firmen das Ehrenamt unterstützen. Ein Vorteil ist, dass die Mitarbeiter neue Fähigkeiten lernen, zum Beispiel Organisation und Teamarbeit. Außerdem hat die Firma ein gutes Image.\n\nAndererseits hat Marco nicht ganz unrecht: Kleine Betriebe können oft niemanden einen Tag freistellen, weil dann die Arbeit liegen bleibt.\n\nIn meinem Heimatland gibt es weniger Vereine, aber Nachbarn und Familie helfen sich viel gegenseitig.\n\nZusammenfassend: Große Firmen sollten ein oder zwei Tage im Jahr anbieten, für kleine Betriebe sollte es freiwillig bleiben."
+  },
+  {
+   "id": "fj09",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Bewerbung ohne Foto",
+   "frage": "Sollte man in Bewerbungen auf Fotos verzichten?",
+   "beitraege": [
+    {
+     "name": "Aylin",
+     "text": "Mit Foto wird man schneller wegen Aussehen oder Kopftuch aussortiert. Ohne Foto zählt nur die Qualifikation."
+    },
+    {
+     "name": "Frank",
+     "text": "Ich möchte sehen, mit wem ich spreche. Ein Foto ist doch normal."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Aylin und Frank gelesen.\n\nMeiner Meinung nach ist eine Bewerbung ohne Foto fairer. Ein großer Vorteil ist, dass zuerst die Erfahrung und die Zeugnisse zählen. So bekommen auch Menschen eine Chance, die wegen ihres Alters oder ihrer Herkunft sonst vielleicht keine Einladung bekommen.\n\nAndererseits verstehe ich Frank. Für manche Berufe, zum Beispiel im Verkauf, ist das Auftreten wichtig. Aber das sieht man dann im Vorstellungsgespräch.\n\nIn meinem Heimatland gehört ein Foto immer zur Bewerbung, oft auch Angaben zur Familie.\n\nZusammenfassend finde ich: Das Foto sollte freiwillig sein, und Firmen sollten es nicht verlangen."
+  },
+  {
+   "id": "fj10",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Arbeiten im Alter",
+   "frage": "Sollten Menschen länger als bis 67 arbeiten?",
+   "beitraege": [
+    {
+     "name": "Rainer",
+     "text": "Ich bin 66 und arbeite gern. Warum soll ich aufhören, wenn ich gesund bin?"
+    },
+    {
+     "name": "Natalia",
+     "text": "Nach 40 Jahren in der Pflege kann ich körperlich nicht mehr. Für mich wäre das unmöglich."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Rainer und Natalia gelesen.\n\nMeiner Meinung nach sollte jeder selbst entscheiden dürfen, ob er länger arbeitet. Ein Vorteil ist, dass erfahrene Menschen ihr Wissen weitergeben können. Außerdem fehlen in vielen Branchen Fachkräfte.\n\nAndererseits zeigt Natalias Beispiel: In körperlich schweren Berufen ist es oft nicht möglich, so lange zu arbeiten. Für diese Menschen wäre eine Pflicht ungerecht.\n\nIn meinem Heimatland gehen viele Menschen früher in Rente, aber die Rente ist so niedrig, dass sie trotzdem weiterarbeiten.\n\nZusammenfassend: Länger arbeiten sollte freiwillig sein, mit flexiblen Modellen wie Teilzeit für ältere Beschäftigte."
+  },
+  {
+   "id": "fj11",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kantinenessen",
+   "frage": "Sollte das Essen in der Kantine gesünder werden, auch wenn es teurer ist?",
+   "beitraege": [
+    {
+     "name": "Lea",
+     "text": "Jeden Tag Schnitzel und Pommes – das ist nicht gut. Ich zahle gern einen Euro mehr für Gemüse."
+    },
+    {
+     "name": "Kurt",
+     "text": "Ich verdiene nicht viel. Wenn das Essen teurer wird, bringe ich lieber ein Brot mit."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Lea und Kurt gelesen.\n\nMeiner Meinung nach ist gesundes Essen bei der Arbeit sehr wichtig. Ein Vorteil ist, dass man nach dem Mittagessen nicht so müde ist und weniger krank wird. Davon profitiert auch die Firma.\n\nAndererseits darf das Essen nicht zu teuer werden, sonst können Mitarbeiter mit kleinem Lohn nicht mehr in der Kantine essen. Eine Lösung wäre, dass die Firma das gesunde Gericht stärker bezuschusst.\n\nIn meinem Heimatland gibt es in vielen Betrieben gar keine Kantine. Die Leute essen, was sie mitbringen.\n\nZusammenfassend: gesünderes Essen ja, aber der Preis muss für alle bezahlbar bleiben."
+  },
+  {
+   "id": "fj12",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Probezeit",
+   "frage": "Ist eine Probezeit von sechs Monaten zu lang?",
+   "beitraege": [
+    {
+     "name": "Julia",
+     "text": "Ich hatte sechs Monate Angst, gekündigt zu werden. Das war sehr stressig."
+    },
+    {
+     "name": "Bernd",
+     "text": "Als Chef brauche ich Zeit, um zu sehen, ob jemand ins Team passt."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Julia und Bernd gelesen.\n\nMeiner Meinung nach ist eine Probezeit sinnvoll, für beide Seiten. Ein Vorteil ist, dass auch der neue Mitarbeiter prüfen kann, ob die Stelle zu ihm passt, und schnell wieder gehen kann.\n\nEin Nachteil ist allerdings der Druck, den Julia beschreibt. Sechs Monate sind lang, besonders wenn man eine Familie hat oder eine Wohnung sucht. Hilfreich wäre ein Gespräch nach drei Monaten, damit man weiß, wo man steht.\n\nIn meinem Heimatland dauert die Probezeit meistens drei Monate.\n\nZusammenfassend: Probezeit ja, aber mit regelmäßigen Rückmeldungen, damit niemand im Unklaren bleibt."
+  },
+  {
+   "id": "fj13",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Dienstreisen mit dem Zug",
+   "frage": "Sollten Firmen Dienstreisen mit dem Flugzeug verbieten, wenn man mit dem Zug fahren kann?",
+   "beitraege": [
+    {
+     "name": "Simone",
+     "text": "Der Zug ist besser für die Umwelt, und ich kann während der Fahrt arbeiten."
+    },
+    {
+     "name": "Jörg",
+     "text": "Mit dem Zug brauche ich nach München sechs Stunden. Das ist verlorene Zeit."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Simone und Jörg gelesen.\n\nMeiner Meinung nach sollten Firmen den Zug bevorzugen, wenn die Fahrt nicht zu lang ist. Ein großer Vorteil ist der Umweltschutz. Außerdem kann man im Zug arbeiten, lesen oder sich vorbereiten.\n\nAndererseits hat Jörg recht, dass sehr lange Fahrten viel Zeit kosten. Und wenn der Zug Verspätung hat, verpasst man vielleicht einen wichtigen Termin.\n\nIn meinem Heimatland sind die Entfernungen sehr groß, deshalb fliegt man oft, auch innerhalb des Landes.\n\nZusammenfassend schlage ich vor: Bis etwa vier Stunden Fahrzeit sollte man den Zug nehmen, bei längeren Strecken darf man fliegen."
+  },
+  {
+   "id": "fj14",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Arbeitskleidung",
+   "frage": "Sollten Betriebe Kleidungsregeln für das Büro haben?",
+   "beitraege": [
+    {
+     "name": "Mehmet",
+     "text": "Bei uns gibt es keine Regeln, manche kommen in Jogginghose. Das wirkt unprofessionell."
+    },
+    {
+     "name": "Hanna",
+     "text": "Ich arbeite besser, wenn ich mich wohlfühle. Kleidung sagt nichts über Leistung."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Mehmet und Hanna gelesen.\n\nMeiner Meinung nach brauchen Büros einfache Regeln, aber keine strengen. Ein Vorteil ist, dass man bei Kundenterminen einen guten Eindruck macht. Für Kunden ist das Auftreten einer Firma wichtig.\n\nAndererseits stimme ich Hanna zu: Bequeme Kleidung hilft vielen Menschen, konzentriert zu arbeiten. Wer keinen Kundenkontakt hat, muss keinen Anzug tragen.\n\nIn meinem Heimatland ist die Kleidung im Büro meist formeller als in Deutschland.\n\nZusammenfassend: Sauber und ordentlich sollte die Kleidung immer sein, bei Kundenterminen etwas eleganter."
+  },
+  {
+   "id": "fj15",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Erreichbarkeit nach Feierabend",
+   "frage": "Müssen Mitarbeiter nach Feierabend E-Mails lesen?",
+   "beitraege": [
+    {
+     "name": "Thomas",
+     "text": "Manchmal kommt abends eine wichtige Nachricht vom Kunden. Da muss ich reagieren."
+    },
+    {
+     "name": "Irina",
+     "text": "Nach 17 Uhr ist mein Diensthandy aus. Ich brauche Ruhe, sonst bin ich bald ausgebrannt."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Thomas und Irina gelesen.\n\nMeiner Meinung nach sollte niemand verpflichtet sein, nach Feierabend E-Mails zu lesen. Ein großer Vorteil von klaren Grenzen ist, dass man sich erholt und am nächsten Tag wieder Kraft hat. Ständige Erreichbarkeit führt zu Stress und Burnout.\n\nAndererseits gibt es Berufe, in denen schnelle Reaktionen nötig sind, zum Beispiel im Notdienst. Dafür sollte es aber eine Bereitschaft geben, die bezahlt wird.\n\nIn meinem Heimatland ist es normal, dass der Chef auch abends anruft. Ich finde die deutsche Regelung besser.\n\nZusammenfassend: Feierabend ist Feierabend – Ausnahmen nur mit klarer Absprache und Ausgleich."
+  },
+  {
+   "id": "fj16",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Mehrsprachige Teams",
+   "frage": "Sollte im Betrieb nur Deutsch gesprochen werden?",
+   "beitraege": [
+    {
+     "name": "Paul",
+     "text": "Wenn Kollegen in ihrer Sprache reden, fühle ich mich ausgeschlossen."
+    },
+    {
+     "name": "Ludmila",
+     "text": "In der Pause spreche ich gern Russisch mit meiner Kollegin. Das ist ein Stück Heimat."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Paul und Ludmila gelesen.\n\nMeiner Meinung nach sollte bei der Arbeit Deutsch die gemeinsame Sprache sein, aber nicht die einzige erlaubte. Ein Vorteil ist, dass alle Informationen verstehen und niemand ausgeschlossen wird. Außerdem verbessern neue Kollegen so schneller ihr Deutsch.\n\nAndererseits ist es verständlich, dass man in der Pause in der Muttersprache spricht. Das hilft gegen Heimweh, und ein Verbot wäre unfreundlich.\n\nIn meinem Heimatland arbeiten auch viele Menschen aus anderen Ländern, und sie sprechen oft Russisch miteinander.\n\nZusammenfassend: In Besprechungen und bei der Arbeit Deutsch, in der Pause darf jeder sprechen, wie er möchte."
+  },
+  {
+   "id": "fj17",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gleitzeit",
+   "frage": "Ist Gleitzeit für alle Mitarbeiter gut?",
+   "beitraege": [
+    {
+     "name": "Daniel",
+     "text": "Ich fange um 6 an und bin um 14 Uhr fertig. Dann habe ich Zeit für meine Kinder."
+    },
+    {
+     "name": "Brigitte",
+     "text": "Bei uns ist morgens um 8 noch niemand da, wenn Kunden anrufen. Das ist ein Problem."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Daniel und Brigitte gelesen.\n\nMeiner Meinung nach ist Gleitzeit eine große Erleichterung. Ein Vorteil ist, dass man Arbeit und Familie besser verbinden kann. Man kann auch Arzttermine leichter planen und steht nicht im Berufsverkehr.\n\nEin Nachteil ist allerdings, dass manchmal niemand erreichbar ist. Deshalb braucht man eine Kernzeit, zum Beispiel von 9 bis 15 Uhr, in der alle da sind.\n\nIn meinem Heimatland gibt es fast nur feste Arbeitszeiten, Gleitzeit kennen nur wenige Firmen.\n\nZusammenfassend: Gleitzeit ja, aber mit Kernzeit und Absprachen im Team."
+  },
+  {
+   "id": "fj18",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Praktikum in der Schule",
+   "frage": "Sollten Schüler mehr Praktika in Betrieben machen?",
+   "beitraege": [
+    {
+     "name": "Melanie",
+     "text": "Mein Sohn wusste nach zwei Wochen Praktikum genau, dass er Koch werden möchte."
+    },
+    {
+     "name": "Stefan",
+     "text": "Die Schüler sollen lieber in der Schule lernen. Im Praktikum kochen sie nur Kaffee."
+    }
+   ],
+   "punkte": [
+    "Ihre Meinung zum Thema",
+    "Vorteile und Nachteile",
+    "Erfahrung aus Ihrem Beruf oder Ihrer Heimat"
+   ],
+   "ru": "Напишите сообщение на форуме: ваше мнение, плюсы и минусы, опыт из профессии или родины.",
+   "rm": [
+    "Ich habe die Beiträge gelesen und …",
+    "Meiner Meinung nach …",
+    "Einerseits …, andererseits …",
+    "Ein großer Vorteil ist, dass …",
+    "In meinem Heimatland …",
+    "Zusammenfassend …"
+   ],
+   "m": "Ich habe die Beiträge von Melanie und Stefan gelesen.\n\nMeiner Meinung nach sind Praktika für Schüler sehr wichtig. Ein großer Vorteil ist, dass junge Menschen echte Berufe kennenlernen und besser entscheiden können, was sie später machen möchten. So gibt es weniger Abbrüche in der Ausbildung.\n\nAndererseits hat Stefan recht, wenn Betriebe die Praktikanten nur für einfache Arbeiten benutzen. Ein gutes Praktikum braucht eine Ansprechperson und richtige Aufgaben.\n\nIn meinem Heimatland gibt es in der Schule kaum Praktika. Viele junge Leute studieren, ohne zu wissen, wie der Beruf wirklich ist.\n\nZusammenfassend: mehr Praktika, aber mit klaren Regeln für die Betriebe."
+  }
+ ]
+}
