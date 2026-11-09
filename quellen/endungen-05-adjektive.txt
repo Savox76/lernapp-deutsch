@@ -1,0 +1,88 @@
+# Endungen Teil 5: Adjektive nach der/die/das, ein/kein/mein und ohne Artikel (J7)
+# nach bestimmtem Artikel
+Der {neu|e} Kollege kommt aus Polen.|Новый коллега из Польши.|A2|der + Adjektiv Nominativ: -e.|ADB
+Ich nehme den {rot|en} Pullover.|Я беру красный свитер.|A2|den + Adjektiv Akkusativ maskulin: -en.|ADB
+Die {klein|e} Wohnung ist sehr gemütlich.|Маленькая квартира очень уютная.|A2|die + Adjektiv Nominativ: -e.|ADB
+Das {alt|e} Auto ist kaputt.|Старая машина сломалась.|A2|das + Adjektiv Nominativ: -e.|ADB
+Wir wohnen in dem {groß|en} Haus an der Ecke.|Мы живём в большом доме на углу.|B1|dem + Adjektiv Dativ: -en.|ADB
+Ich spreche mit der {nett|en} Verkäuferin.|Я говорю с милой продавщицей.|B1|der (Dativ) + Adjektiv: -en.|ADB
+Die {neu|en} Schuhe sind bequem.|Новые туфли удобные.|A2|die (Plural) + Adjektiv: -en.|ADB
+Hast du das {blau|e} Kleid gesehen?|Ты видела синее платье?|A2|das (Akkusativ) + Adjektiv: -e.|ADB
+Der Preis des {neu|en} Handys ist hoch.|Цена нового телефона высокая.|B2|des + Adjektiv Genitiv: -en.|ADB
+Ich gebe dem {klein|en} Kind ein Bonbon.|Я даю маленькому ребёнку конфету.|B1|dem + Adjektiv Dativ: -en.|ADB
+Die {freundlich|e} Ärztin hat mir geholfen.|Приветливая врач мне помогла.|A2|die + Adjektiv Nominativ: -e.|ADB
+Wir haben die {schwer|en} Kisten getragen.|Мы носили тяжёлые ящики.|B1|die (Plural Akkusativ) + Adjektiv: -en.|ADB
+Der {letzt|e} Bus fährt um Mitternacht.|Последний автобус уходит в полночь.|A2|der + Adjektiv Nominativ: -e.|ADB
+Ich habe den {ganz|en} Abend gelernt.|Я учила весь вечер.|B1|den + Adjektiv: -en.|ADB
+Die Kinder spielen in dem {schön|en} Garten.|Дети играют в красивом саду.|B1|dem + Adjektiv: -en.|ADB
+Kennst du die {jung|e} Frau dort?|Ты знаешь ту молодую женщину?|A2|die (Akkusativ feminin) + Adjektiv: -e.|ADB
+Wo ist der {nächst|e} Supermarkt?|Где ближайший супермаркет?|A2|der + Adjektiv Nominativ: -e.|ADB
+Mit dem {neu|en} Programm geht alles schneller.|С новой программой всё быстрее.|B1|dem + Adjektiv Dativ: -en.|ADB
+Die Farbe der {alt|en} Möbel gefällt mir.|Мне нравится цвет старой мебели.|B2|der (Genitiv Plural) + Adjektiv: -en.|ADB
+Diese {warm|e} Jacke ist sehr praktisch.|Эта тёплая куртка очень практичная.|B1|diese + Adjektiv Nominativ: -e.|ADB
+Ich möchte diesen {schwarz|en} Rucksack.|Я хочу этот чёрный рюкзак.|B1|diesen + Adjektiv: -en.|ADB
+Jeder {neu|e} Mitarbeiter bekommt einen Paten.|Каждый новый сотрудник получает наставника.|B1|jeder + Adjektiv Nominativ: -e.|ADB
+Welches {rot|e} Kleid gefällt dir besser?|Какое красное платье тебе больше нравится?|B1|welches + Adjektiv Nominativ: -e.|ADB
+In diesem {klein|en} Café trinke ich oft Kaffee.|В этом маленьком кафе я часто пью кофе.|B1|diesem + Adjektiv Dativ: -en.|ADB
+Alle {neu|en} Azubis kommen am Montag.|Все новые ученики приходят в понедельник.|B1|alle + Adjektiv Plural: -en.|ADB
+Der Chef lobt die {gut|e} Arbeit.|Начальник хвалит хорошую работу.|B1|die (Akkusativ) + Adjektiv: -e.|ADB
+Ich erinnere mich an den {erst|en} Tag in Deutschland.|Я помню первый день в Германии.|B1|den + Adjektiv: -en.|ADB
+Die {frisch|en} Brötchen riechen gut.|Свежие булочки хорошо пахнут.|A2|die (Plural) + Adjektiv: -en.|ADB
+Das Zimmer der {klein|en} Tochter ist rosa.|Комната младшей дочери розовая.|B2|der (Genitiv feminin) + Adjektiv: -en.|ADB
+Ich arbeite gern mit den {nett|en} Kollegen.|Я люблю работать с милыми коллегами.|B1|den (Dativ Plural) + Adjektiv: -en.|ADB
+# nach unbestimmtem Artikel, kein, Possessiv
+Ich habe einen {neu|en} Job.|У меня новая работа.|A2|einen + Adjektiv: -en.|ADU
+Das ist ein {gut|er} Vorschlag.|Это хорошее предложение.|A2|ein (maskulin Nominativ) + Adjektiv: -er.|ADU
+Sie hat eine {groß|e} Familie.|У неё большая семья.|A2|eine + Adjektiv: -e.|ADU
+Wir haben ein {klein|es} Problem.|У нас небольшая проблема.|A2|ein (neutral) + Adjektiv: -es.|ADU
+Mein {alt|er} Laptop ist sehr langsam.|Мой старый ноутбук очень медленный.|A2|mein (maskulin Nominativ) + Adjektiv: -er.|ADU
+Ich suche eine {günstig|e} Wohnung.|Я ищу недорогую квартиру.|A2|eine + Adjektiv: -e.|ADU
+Er fährt ein {rot|es} Auto.|Он ездит на красной машине.|A2|ein (neutral Akkusativ) + Adjektiv: -es.|ADU
+Das ist kein {schlecht|er} Preis.|Это неплохая цена.|B1|kein (maskulin) + Adjektiv: -er.|ADU
+Ich habe keine {gut|en} Nachrichten.|У меня нет хороших новостей.|B1|keine (Plural) + Adjektiv: -en.|ADU
+Mit einem {neu|en} Computer arbeite ich schneller.|С новым компьютером я работаю быстрее.|B1|einem + Adjektiv Dativ: -en.|ADU
+Sie wohnt in einer {ruhig|en} Straße.|Она живёт на тихой улице.|B1|einer + Adjektiv Dativ: -en.|ADU
+Unser {neu|er} Chef ist sehr freundlich.|Наш новый начальник очень приветливый.|A2|unser (maskulin) + Adjektiv: -er.|ADU
+Meine {jünger|e} Schwester studiert Medizin.|Моя младшая сестра изучает медицину.|B1|meine + Adjektiv: -e.|ADU
+Ich trinke einen {heiß|en} Tee.|Я пью горячий чай.|A2|einen + Adjektiv: -en.|ADU
+Das war ein {schön|er} Tag.|Это был прекрасный день.|A2|ein (maskulin) + Adjektiv: -er.|ADU
+Er hat seinen {neu|en} Kollegen begrüßt.|Он поприветствовал нового коллегу.|B1|seinen + Adjektiv: -en.|ADU
+Wir feiern mit unseren {best|en} Freunden.|Мы празднуем с лучшими друзьями.|B1|unseren (Dativ Plural) + Adjektiv: -en.|ADU
+Das ist ein {wichtig|es} Thema.|Это важная тема.|B1|ein (neutral) + Adjektiv: -es.|ADU
+Ich brauche einen {warm|en} Mantel für den Winter.|Мне нужно тёплое пальто на зиму.|A2|einen + Adjektiv: -en.|ADU
+Sie trägt ihr {neu|es} Kleid.|Она в новом платье.|B1|ihr (neutral Akkusativ) + Adjektiv: -es.|ADU
+Wegen eines {klein|en} Fehlers war die Rechnung falsch.|Из-за небольшой ошибки счёт был неверным.|B2|eines + Adjektiv Genitiv: -en.|ADU
+Ich habe kein {eigen|es} Auto.|У меня нет своей машины.|B1|kein (neutral) + Adjektiv: -es.|ADU
+Wir haben eine {lang|e} Besprechung.|У нас долгое совещание.|A2|eine + Adjektiv: -e.|ADU
+Mein Sohn hat einen {gut|en} Freund in der Klasse.|У сына хороший друг в классе.|A2|einen + Adjektiv: -en.|ADU
+In unserem {klein|en} Team kennt jeder jeden.|В нашей маленькой команде все знают друг друга.|B1|unserem + Adjektiv Dativ: -en.|ADU
+Das ist eine {interessant|e} Stelle.|Это интересная вакансия.|A2|eine + Adjektiv: -e.|ADU
+Er kommt mit seinem {klein|en} Hund.|Он приходит со своей маленькой собакой.|B1|seinem + Adjektiv Dativ: -en.|ADU
+Ich habe ein {gut|es} Gefühl.|У меня хорошее предчувствие.|A2|ein (neutral) + Adjektiv: -es.|ADU
+Meine {neu|en} Nachbarn sind sehr laut.|Мои новые соседи очень шумные.|B1|meine (Plural) + Adjektiv: -en.|ADU
+# ohne Artikel
+Ich trinke gern {kalt|es} Wasser.|Я люблю пить холодную воду.|B1|ohne Artikel neutral Akkusativ: -es (wie das).|ADO
+{Frisch|es} Obst ist gesund.|Свежие фрукты полезны.|B1|ohne Artikel neutral Nominativ: -es.|ADO
+Wir suchen {freundlich|e} Mitarbeiter.|Мы ищем приветливых сотрудников.|B1|ohne Artikel Plural: -e.|ADO
+Bei {gut|em} Wetter fahren wir an den See.|В хорошую погоду мы едем на озеро.|B2|ohne Artikel Dativ neutral: -em.|ADO
+Ich esse gern {frisch|en} Fisch.|Я люблю свежую рыбу.|B1|ohne Artikel maskulin Akkusativ: -en.|ADO
+{Lieb|er} Herr Becker, …|Уважаемый господин Беккер, …|B1|Anrede maskulin ohne Artikel: -er.|ADO
+{Lieb|e} Frau Wolf, …|Дорогая фрау Вольф, …|B1|Anrede feminin ohne Artikel: -e.|ADO
+Mit {freundlich|en} Grüßen|С уважением|B1|mit + Dativ Plural ohne Artikel: -en.|ADO
+Wir bieten {flexibl|e} Arbeitszeiten.|Мы предлагаем гибкий график.|B1|ohne Artikel Plural: -e.|ADO
+Das Hotel hat {groß|e} Zimmer.|В отеле большие номера.|B1|ohne Artikel Plural Akkusativ: -e.|ADO
+Ich mag {schwarz|en} Kaffee.|Я люблю чёрный кофе.|B1|ohne Artikel maskulin Akkusativ: -en.|ADO
+Er hat {blau|e} Augen.|У него голубые глаза.|A2|ohne Artikel Plural: -e.|ADO
+Bei {schlecht|em} Wetter bleiben wir zu Hause.|В плохую погоду мы остаёмся дома.|B2|ohne Artikel Dativ neutral: -em.|ADO
+{Deutsch|es} Brot schmeckt mir sehr gut.|Немецкий хлеб мне очень нравится.|B1|ohne Artikel neutral Nominativ: -es.|ADO
+Wir verkaufen {gebraucht|e} Fahrräder.|Мы продаём подержанные велосипеды.|B1|ohne Artikel Plural: -e.|ADO
+Mit {groß|er} Freude habe ich Ihre Nachricht gelesen.|С большой радостью я прочитала ваше сообщение.|B2|ohne Artikel Dativ feminin: -er.|ADO
+Für {klein|e} Kinder ist der Eintritt frei.|Для маленьких детей вход бесплатный.|B1|ohne Artikel Plural Akkusativ: -e.|ADO
+{Warm|e} Getränke gibt es an der Kasse.|Горячие напитки на кассе.|B1|ohne Artikel Plural Nominativ: -e.|ADO
+Sie spricht {fließend|es} Englisch.|Она свободно говорит по-английски.|B2|ohne Artikel neutral Akkusativ: -es.|ADO
+Wir wünschen {schön|e} Feiertage!|Желаем хороших праздников!|B1|ohne Artikel Plural Akkusativ: -e.|ADO
+Bei {stark|em} Regen fällt das Training aus.|При сильном дожде тренировка отменяется.|B2|ohne Artikel Dativ maskulin: -em.|ADO
+Mit {best|en} Wünschen|С наилучшими пожеланиями|B1|mit + Dativ Plural: -en.|ADO
+Ich brauche {neu|e} Schuhe.|Мне нужны новые туфли.|A2|ohne Artikel Plural Akkusativ: -e.|ADO
+{Herzlich|en} Glückwunsch zum Geburtstag!|Поздравляю с днём рождения!|B1|ohne Artikel maskulin Akkusativ: -en.|ADO
+Gute Arbeit braucht {gut|e} Werkzeuge.|Хорошей работе нужны хорошие инструменты.|B1|ohne Artikel Plural: -e.|ADO

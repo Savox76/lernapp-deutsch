@@ -1,0 +1,107 @@
+# Endungen Teil 6: Verben mit Dativ und Akkusativ, gemischte Sätze (J7)
+Ich gebe {d|em} Kunden {d|ie} Rechnung.|Я даю клиенту счёт.|B1|Person im Dativ: dem Kunden; Sache im Akkusativ: die Rechnung.|VERB
+Sie zeigt {d|er} Kollegin {d|en} Weg.|Она показывает коллеге дорогу.|B1|Dativ: der Kollegin; Akkusativ: den Weg.|VERB
+Kannst du {mein|em} Sohn {ein|en} Stift leihen?|Можешь одолжить моему сыну ручку?|B1|Dativ: meinem Sohn; Akkusativ: einen Stift.|VERB
+Der Arzt erklärt {d|em} Patienten {d|ie} Behandlung.|Врач объясняет пациенту лечение.|B1|Dativ: dem Patienten; Akkusativ: die Behandlung.|VERB
+Ich schicke {d|er} Firma {mein|e} Bewerbung.|Я отправляю фирме свою заявку.|B1|Dativ: der Firma; Akkusativ: meine Bewerbung.|VERB
+Wir schenken {unser|er} Lehrerin {ein|en} Blumenstrauß.|Мы дарим учительнице букет.|B1|Dativ: unserer Lehrerin; Akkusativ: einen Blumenstrauß.|VERB
+Er bringt {d|en} Kindern {d|ie} Bücher.|Он приносит детям книги.|B1|Dativ Plural: den Kindern; Akkusativ Plural: die Bücher.|VERB
+Bitte gib {d|em} Hund {d|as} Futter.|Пожалуйста, дай собаке корм.|A2|Dativ: dem Hund; Akkusativ: das Futter.|VERB
+Die Chefin stellt {d|em} Team {d|en} neuen Plan vor.|Начальница представляет команде новый план.|B2|Dativ: dem Team; Akkusativ: den neuen Plan.|VERB
+Ich empfehle {Ihr|em} Mann {dies|en} Kurs.|Я рекомендую вашему мужу этот курс.|B2|Dativ: Ihrem Mann; Akkusativ: diesen Kurs.|VERB
+Kannst du {d|er} Nachbarin {d|en} Schlüssel geben?|Можешь отдать соседке ключ?|B1|Dativ: der Nachbarin; Akkusativ: den Schlüssel.|VERB
+Der Vermieter schickt {d|en} Mietern {ein|en} Brief.|Арендодатель посылает жильцам письмо.|B1|Dativ Plural: den Mietern; Akkusativ: einen Brief.|VERB
+Ich habe {mein|er} Tochter {ein|e} Geschichte vorgelesen.|Я прочитала дочери историю.|B1|Dativ: meiner Tochter; Akkusativ: eine Geschichte.|VERB
+Sie wünscht {d|em} Kollegen {ein|en} schönen Urlaub.|Она желает коллеге хорошего отпуска.|B2|Dativ: dem Kollegen; Akkusativ: einen schönen Urlaub.|VERB
+Wir bieten {d|en} Kunden {ein|en} Rabatt an.|Мы предлагаем клиентам скидку.|B1|Dativ Plural: den Kunden; Akkusativ: einen Rabatt.|VERB
+Er hat {sein|er} Mutter {ein|e} Karte geschrieben.|Он написал маме открытку.|B1|Dativ: seiner Mutter; Akkusativ: eine Karte.|VERB
+Ich erzähle {d|en} Kindern {ein|e} Geschichte.|Я рассказываю детям историю.|A2|Dativ Plural: den Kindern; Akkusativ: eine Geschichte.|VERB
+Der Kellner bringt {d|em} Gast {d|ie} Speisekarte.|Официант приносит гостю меню.|B1|Dativ: dem Gast; Akkusativ: die Speisekarte.|VERB
+Darf ich {d|em} Arzt {ein|e} Frage stellen?|Можно задать врачу вопрос?|B1|Dativ: dem Arzt; Akkusativ: eine Frage.|VERB
+Die Lehrerin gibt {d|en} Schülern {d|ie} Hausaufgaben.|Учительница даёт ученикам домашнее задание.|A2|Dativ Plural: den Schülern; Akkusativ: die Hausaufgaben.|VERB
+Ich leihe {mein|em} Freund {mein|en} Wagen.|Я одалживаю другу свою машину.|B1|Dativ: meinem Freund; Akkusativ: meinen Wagen.|VERB
+Sie hat {d|em} Chef {d|ie} Wahrheit gesagt.|Она сказала начальнику правду.|B1|Dativ: dem Chef; Akkusativ: die Wahrheit.|VERB
+Wir zeigen {d|en} Gästen {d|ie} Stadt.|Мы показываем гостям город.|B1|Dativ Plural: den Gästen; Akkusativ: die Stadt.|VERB
+Der Paketbote gibt {d|er} Nachbarin {d|as} Paket.|Курьер отдаёт посылку соседке.|B1|Dativ: der Nachbarin; Akkusativ: das Paket.|VERB
+Ich kaufe {mein|en} Kindern {neu|e} Schuhe.|Я покупаю детям новые ботинки.|B1|Dativ Plural: meinen Kindern; Akkusativ Plural ohne Artikel: neue.|VERB
+# gemischt, mehrere Lücken
+Ich habe {d|en} {neu|en} Kollegen in {d|er} Kantine getroffen.|Я встретила нового коллегу в столовой.|B1|Akkusativ: den neuen; wo? in der Kantine (Dativ).|WEC
+Wir fahren mit {unser|em} {alt|en} Auto in {d|en} Urlaub.|Мы едем в отпуск на нашей старой машине.|B1|mit + Dativ: unserem alten; wohin? in den Urlaub.|DAT
+Nach {d|er} {lang|en} Reise waren alle müde.|После долгой поездки все устали.|B1|nach + Dativ: der langen Reise.|DAT
+Für {d|ie} {neu|e} Wohnung brauchen wir {ein|en} {groß|en} Tisch.|Для новой квартиры нам нужен большой стол.|B1|für + Akkusativ: die neue; Akkusativ: einen großen.|AKK
+Wegen {d|es} {stark|en} Regens fällt das Fest aus.|Из-за сильного дождя праздник отменяется.|B2|wegen + Genitiv: des starken Regens.|GEN
+Sie wohnt in {ein|er} {klein|en} Wohnung im {dritt|en} Stock.|Она живёт в маленькой квартире на четвёртом этаже.|B1|in + Dativ: einer kleinen; im dritten Stock.|WEC
+Ich lege {d|ie} {sauber|e} Wäsche in {d|en} Schrank.|Я кладу чистое бельё в шкаф.|B1|Akkusativ: die saubere; wohin? in den Schrank.|WEC
+Mit {ein|em} {gut|en} Zeugnis findet man leichter {ein|e} Stelle.|С хорошим аттестатом легче найти работу.|B1|mit + Dativ: einem guten; Akkusativ: eine Stelle.|DAT
+Der Bus hält vor {d|em} {groß|en} Kaufhaus.|Автобус останавливается перед большим универмагом.|B1|wo? vor dem großen Kaufhaus (Dativ).|WEC
+Während {d|er} {kurz|en} Pause rufe ich meine Mutter an.|Во время короткого перерыва я звоню маме.|B2|während + Genitiv: der kurzen Pause.|GEN
+Ich bedanke mich für {Ihr|e} {schnell|e} Antwort.|Благодарю за ваш быстрый ответ.|B1|für + Akkusativ: Ihre schnelle Antwort.|AKK
+Er arbeitet seit {ein|em} {halb|en} Jahr bei {unser|er} Firma.|Он полгода работает в нашей фирме.|B1|seit + Dativ: einem halben Jahr; bei + Dativ: unserer Firma.|DAT
+Wir treffen uns an {d|er} {nächst|en} Haltestelle.|Встретимся на следующей остановке.|B1|wo? an der nächsten Haltestelle (Dativ).|WEC
+Trotz {d|es} {schlecht|en} Wetters war der Ausflug schön.|Несмотря на плохую погоду, поездка была хорошей.|B2|trotz + Genitiv: des schlechten Wetters.|GEN
+Ich stelle {d|ie} {schwer|en} Kisten auf {d|en} Boden.|Я ставлю тяжёлые ящики на пол.|B1|Akkusativ Plural: die schweren; wohin? auf den Boden.|WEC
+Sie hat {ihr|em} {klein|en} Bruder {ein|en} Ball geschenkt.|Она подарила младшему брату мяч.|B2|Dativ: ihrem kleinen Bruder; Akkusativ: einen Ball.|VERB
+Ohne {ein|en} {gültig|en} Pass kann man nicht reisen.|Без действительного паспорта нельзя путешествовать.|B1|ohne + Akkusativ: einen gültigen.|AKK
+In {d|er} {neu|en} Kita gibt es {ein|en} {groß|en} Garten.|В новом детском саду большой сад.|B1|in + Dativ: der neuen Kita; es gibt + Akkusativ: einen großen.|WEC
+Ich warte seit {ein|er} {halb|en} Stunde auf {d|en} Arzt.|Я жду врача уже полчаса.|B1|seit + Dativ: einer halben Stunde; warten auf + Akkusativ: den Arzt.|DAT
+Bei {d|er} {erst|en} Prüfung war ich sehr nervös.|На первом экзамене я очень нервничала.|B1|bei + Dativ: der ersten Prüfung.|DAT
+Er hat sich über {d|as} {lang|e} Warten beschwert.|Он жаловался на долгое ожидание.|B1|sich beschweren über + Akkusativ: das lange Warten.|AKK
+Die Kinder spielen mit {d|em} {neu|en} Ball im Hof.|Дети играют с новым мячом во дворе.|A2|mit + Dativ: dem neuen Ball.|DAT
+Ich suche {ein|e} {günstig|e} Wohnung in {ein|er} {ruhig|en} Gegend.|Я ищу недорогую квартиру в тихом районе.|B1|Akkusativ: eine günstige; in + Dativ: einer ruhigen.|WEC
+Am Ende {d|er} {letzt|en} Woche war ich krank.|В конце прошлой недели я болела.|B2|Genitiv: der letzten Woche.|GEN
+Wir sprechen über {d|ie} {neu|en} Arbeitszeiten.|Мы говорим о новом рабочем графике.|B1|sprechen über + Akkusativ Plural: die neuen.|AKK
+Die Firma sucht {ein|en} {erfahren|en} Fahrer mit {ein|em} {gültig|en} Führerschein.|Фирма ищет опытного водителя с действующими правами.|B2|Akkusativ: einen erfahrenen; mit + Dativ: einem gültigen.|ADU
+Ich habe {d|en} {ganz|en} Vormittag auf {d|en} Techniker gewartet.|Я всё утро ждала техника.|B1|Zeit im Akkusativ: den ganzen; warten auf: den Techniker.|AKK
+Neben {d|er} {neu|en} Schule ist ein Spielplatz.|Рядом с новой школой есть площадка.|B1|wo? neben der neuen Schule (Dativ).|WEC
+Er bringt {d|ie} {leer|en} Flaschen in {d|en} Keller.|Он относит пустые бутылки в подвал.|B1|Akkusativ Plural: die leeren; wohin? in den Keller.|WEC
+Zum Geburtstag hat sie {ein|e} {schön|e} Kette bekommen.|На день рождения она получила красивую цепочку.|B1|bekommen + Akkusativ: eine schöne.|ADU
+Nach {ein|em} {lang|en} Arbeitstag möchte ich nur schlafen.|После долгого рабочего дня я хочу только спать.|B1|nach + Dativ: einem langen.|DAT
+Wir haben {unser|e} {alt|en} Möbel verkauft.|Мы продали нашу старую мебель.|B1|Akkusativ Plural: unsere alten.|ADU
+Das Zimmer {mein|es} {klein|en} Sohnes ist blau.|Комната моего младшего сына синяя.|B2|Genitiv: meines kleinen Sohnes.|GEN
+Sie schreibt {ihr|er} {best|en} Freundin {ein|e} lange Nachricht.|Она пишет лучшей подруге длинное сообщение.|B2|Dativ: ihrer besten Freundin; Akkusativ: eine.|VERB
+Im Winter trage ich {ein|en} {dick|en} Pullover.|Зимой я ношу толстый свитер.|A2|tragen + Akkusativ: einen dicken.|ADU
+Ich habe {d|ie} Rechnung in {d|en} Briefkasten geworfen.|Я бросила счёт в почтовый ящик.|B1|Akkusativ: die Rechnung; wohin? in den Briefkasten.|WEC
+Mit {d|em} {neu|en} Fahrrad fahre ich jeden Tag zur Arbeit.|На новом велосипеде я каждый день езжу на работу.|A2|mit + Dativ: dem neuen.|DAT
+Er hat Angst vor {d|em} {groß|en} Hund.|Он боится большой собаки.|B1|Angst vor + Dativ: dem großen.|DAT
+Kennst du {ein|en} {gut|en} Zahnarzt in {d|er} Nähe?|Знаешь хорошего зубного врача поблизости?|B1|Akkusativ: einen guten; in der Nähe (Dativ).|ADU
+Ich lade dich zu {mein|er} {klein|en} Feier ein.|Приглашаю тебя на свой небольшой праздник.|B1|zu + Dativ: meiner kleinen.|DAT
+Die Lampe hängt über {d|em} {rund|en} Tisch.|Лампа висит над круглым столом.|B1|wo? über dem runden Tisch (Dativ).|WEC
+Ich danke {d|en} {nett|en} Nachbarn für die Hilfe.|Я благодарю милых соседей за помощь.|B1|danken + Dativ Plural: den netten Nachbarn.|DAT
+Aufgrund {d|er} {hoh|en} Kosten müssen wir sparen.|Из-за высоких расходов нам нужно экономить.|B2|aufgrund + Genitiv Plural: der hohen.|GEN
+Wir gehen jeden Sonntag in {d|en} {groß|en} Park.|Каждое воскресенье мы ходим в большой парк.|A2|wohin? in den großen Park (Akkusativ).|WEC
+Sie arbeitet als Verkäuferin in {ein|em} {klein|en} Laden.|Она работает продавщицей в маленьком магазине.|A2|wo? in einem kleinen Laden (Dativ).|WEC
+Er hat {sein|e} {neu|e} Adresse vergessen.|Он забыл свой новый адрес.|B1|Akkusativ: seine neue.|ADU
+Für {jed|en} {neu|en} Kunden gibt es einen Gutschein.|Каждому новому клиенту — ваучер.|B2|für + Akkusativ: jeden neuen.|ADB
+Ich habe {d|em} Techniker {d|ie} {kaputt|e} Heizung gezeigt.|Я показала технику сломанное отопление.|B2|Dativ: dem Techniker; Akkusativ: die kaputte.|VERB
+Bei {d|er} {heiß|en} Temperatur trinken wir viel Wasser.|При высокой температуре мы пьём много воды.|B1|bei + Dativ: der heißen.|DAT
+Die Kinder haben {d|en} {ganz|en} Nachmittag im Garten gespielt.|Дети весь день играли в саду.|B1|Zeit im Akkusativ: den ganzen.|AKK
+Ich bin mit {mein|er} {neu|en} Arbeit sehr zufrieden.|Я очень довольна новой работой.|B1|zufrieden mit + Dativ: meiner neuen.|DAT
+Wir haben {ein|en} {schön|en} Abend mit {unser|en} Freunden verbracht.|Мы провели прекрасный вечер с друзьями.|B1|Akkusativ: einen schönen; mit + Dativ Plural: unseren.|DAT
+Nimm bitte {d|en} {blau|en} Ordner aus {d|em} Regal.|Возьми, пожалуйста, синюю папку с полки.|B1|Akkusativ: den blauen; aus + Dativ: dem Regal.|DAT
+Ich stelle {d|as} Fahrrad in {d|en} Hof.|Я ставлю велосипед во двор.|A2|Akkusativ: das Fahrrad; wohin? in den Hof.|WEC
+Sie interessiert sich für {d|ie} {frei|e} Stelle in {d|er} Buchhaltung.|Её интересует вакансия в бухгалтерии.|B1|für + Akkusativ: die freie; in der Buchhaltung (Dativ).|AKK
+Bei {ein|em} {klein|en} Unfall hilft der Ersthelfer.|При небольшом несчастном случае помогает спасатель.|B1|bei + Dativ: einem kleinen.|DAT
+Der Zug nach Berlin fährt von {d|em} {erst|en} Gleis ab.|Поезд в Берлин отправляется с первого пути.|B1|von + Dativ: dem ersten.|DAT
+Wir haben {d|ie} {alt|e} Küche selbst abgebaut.|Мы сами разобрали старую кухню.|B1|Akkusativ: die alte.|ADB
+Mein Mann kocht oft für {unser|e} {ganz|e} Familie.|Мой муж часто готовит для всей нашей семьи.|B1|für + Akkusativ: unsere ganze.|AKK
+Ich gehe heute mit {mein|er} {klein|en} Tochter zum Arzt.|Сегодня я иду с младшей дочерью к врачу.|A2|mit + Dativ: meiner kleinen.|DAT
+Wir wünschen Ihnen {ein|en} {gut|en} Start in {d|ie} {neu|e} Woche.|Желаем вам хорошего начала новой недели.|B2|Akkusativ: einen guten Start; in die neue Woche.|AKK
+Sie hat {d|en} Brief mit {ein|em} {rot|en} Stift korrigiert.|Она исправила письмо красной ручкой.|B1|Akkusativ: den Brief; mit + Dativ: einem roten.|DAT
+Hinter {d|em} {alt|en} Haus ist ein Garten.|За старым домом сад.|B1|wo? hinter dem alten Haus (Dativ).|WEC
+Ich habe {d|ie} {wichtig|en} Unterlagen auf {d|en} Tisch gelegt.|Я положила важные документы на стол.|B1|Akkusativ Plural: die wichtigen; wohin? auf den Tisch.|WEC
+Durch {d|en} {lang|en} Stau bin ich zu spät gekommen.|Из-за длинной пробки я опоздала.|B1|durch + Akkusativ: den langen.|AKK
+Wir haben {kein|e} {frei|en} Plätze mehr.|У нас больше нет свободных мест.|B1|keine + Plural: keine freien.|ADU
+Nach {d|em} {gemeinsam|en} Essen spielen wir Karten.|После совместного ужина мы играем в карты.|B1|nach + Dativ: dem gemeinsamen.|DAT
+Er hängt {d|en} {neu|en} Kalender an {d|ie} Wand.|Он вешает новый календарь на стену.|B1|Akkusativ: den neuen; wohin? an die Wand.|WEC
+Ich esse am liebsten {frisch|es} Brot mit {weich|er} Butter.|Больше всего люблю свежий хлеб с мягким маслом.|B2|ohne Artikel: frisches Brot (Akk.); mit + Dativ feminin: weicher Butter.|ADO
+Seit {d|em} {letzt|en} Sommer wohnen wir in Dresden.|С прошлого лета мы живём в Дрездене.|B1|seit + Dativ: dem letzten.|DAT
+Ich rufe {d|en} {zuständig|en} Kollegen an.|Я позвоню ответственному коллеге.|B1|anrufen + Akkusativ: den zuständigen.|AKK
+In {d|er} {nächst|en} Woche habe ich Urlaub.|На следующей неделе у меня отпуск.|A2|in + Dativ (wann?): der nächsten Woche.|WEC
+Sie hat {ein|en} {neu|en} Vertrag mit {ein|em} {höher|en} Gehalt bekommen.|Она получила новый договор с более высокой зарплатой.|B2|Akkusativ: einen neuen; mit + Dativ: einem höheren.|DAT
+Die Ärztin hat {mein|em} Vater {ein|e} Kur empfohlen.|Врач порекомендовала отцу санаторий.|B2|Dativ: meinem Vater; Akkusativ: eine Kur.|VERB
+Wir fahren mit {d|er} {erst|en} S-Bahn nach Pirna.|Мы едем первой электричкой в Пирну.|B1|mit + Dativ feminin: der ersten.|DAT
+Sie trägt heute {ihr|en} {neu|en} Mantel.|Сегодня она в новом пальто.|B1|Akkusativ maskulin: ihren neuen.|ADU
+Ich hole {d|ie} Kinder von {d|er} Schule ab.|Я забираю детей из школы.|A2|Akkusativ Plural: die Kinder; von + Dativ: der Schule.|DAT
+Auf {d|em} {groß|en} Parkplatz ist immer ein Platz frei.|На большой парковке всегда есть место.|B1|wo? auf dem großen Parkplatz (Dativ).|WEC
+Wir haben {unser|en} {alt|en} Schrank verschenkt.|Мы отдали наш старый шкаф.|B1|Akkusativ maskulin: unseren alten.|ADU
+Der Techniker kommt nach {d|er} Mittagspause.|Техник придёт после обеденного перерыва.|A2|nach + Dativ feminin: der.|DAT

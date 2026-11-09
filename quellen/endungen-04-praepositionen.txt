@@ -1,0 +1,102 @@
+# Endungen Teil 4: Präpositionen und Kasus, Alltag und Beruf (J7)
+# Akkusativ
+Ich warte auf {d|en} Bus.|Я жду автобус.|A2|warten auf + Akkusativ: den Bus.|AKK
+Wir gehen durch {d|en} Park.|Мы идём через парк.|A2|durch + Akkusativ: den Park.|AKK
+Das Geschenk ist für {mein|e} Mutter.|Подарок для моей мамы.|A2|für + Akkusativ feminin: meine.|AKK
+Ohne {mein|en} Ausweis darf ich nicht fliegen.|Без паспорта мне нельзя лететь.|B1|ohne + Akkusativ maskulin: meinen.|AKK
+Er läuft um {d|en} See.|Он бегает вокруг озера.|A2|um + Akkusativ: den See.|AKK
+Ich bin gegen {d|ie} neue Regel.|Я против нового правила.|B1|gegen + Akkusativ feminin: die.|AKK
+Sie hat {ein|en} Termin beim Arzt.|У неё приём у врача.|A2|haben + Akkusativ maskulin: einen Termin.|AKK
+Wir brauchen {ein|e} größere Wohnung.|Нам нужна квартира побольше.|A2|brauchen + Akkusativ feminin: eine.|AKK
+Ich kenne {d|en} neuen Kollegen schon.|Я уже знаю нового коллегу.|B1|kennen + Akkusativ maskulin: den.|AKK
+Sie fragt {d|en} Lehrer nach der Hausaufgabe.|Она спрашивает учителя о домашнем задании.|B1|fragen + Akkusativ (Person): den Lehrer.|AKK
+Ich denke oft an {mein|e} Familie.|Я часто думаю о своей семье.|B1|denken an + Akkusativ: meine Familie.|AKK
+Er ärgert sich über {d|en} Lärm.|Он злится из-за шума.|B1|sich ärgern über + Akkusativ: den Lärm.|AKK
+Wir freuen uns auf {d|as} Wochenende.|Мы радуемся выходным.|B1|sich freuen auf + Akkusativ: das Wochenende.|AKK
+Sie kümmert sich um {ihr|en} kranken Vater.|Она заботится о больном отце.|B1|sich kümmern um + Akkusativ: ihren.|AKK
+Ich habe {kein|e} Zeit.|У меня нет времени.|A2|kein + Akkusativ feminin: keine Zeit.|AKK
+Hast du {ein|en} Stift für mich?|У тебя есть для меня ручка?|A2|haben + Akkusativ maskulin: einen; für mich.|AKK
+Er repariert {d|as} Fahrrad selbst.|Он сам чинит велосипед.|A2|reparieren + Akkusativ neutral: das.|AKK
+Wir besuchen am Sonntag {unser|e} Großeltern.|В воскресенье мы навещаем бабушку и дедушку.|A2|Akkusativ Plural: unsere.|AKK
+Bitte schließ {d|ie} Tür!|Пожалуйста, закрой дверь!|A2|schließen + Akkusativ feminin: die Tür.|AKK
+Ich interessiere mich für {d|en} Kurs am Abend.|Меня интересует вечерний курс.|B1|sich interessieren für + Akkusativ: den Kurs.|AKK
+Sie bittet {d|en} Nachbarn um Hilfe.|Она просит соседа о помощи.|B1|bitten + Akkusativ (Person): den Nachbarn.|AKK
+Er hat sich für {d|ie} späte Antwort entschuldigt.|Он извинился за поздний ответ.|B1|sich entschuldigen für + Akkusativ: die.|AKK
+Ich habe {d|en} ganzen Tag gearbeitet.|Я работала весь день.|B1|Zeitangabe im Akkusativ: den ganzen Tag.|AKK
+Wir fahren jeden Monat einmal zu Oma, {jed|en} ersten Sonntag.|Мы ездим к бабушке раз в месяц, каждое первое воскресенье.|B2|Zeitangabe im Akkusativ: jeden.|AKK
+Für {dies|en} Job braucht man einen Führerschein.|Для этой работы нужны права.|B1|für + Akkusativ maskulin: diesen.|AKK
+# Dativ
+Ich fahre mit {d|em} Bus zur Arbeit.|Я езжу на работу на автобусе.|A2|mit + Dativ maskulin: dem.|DAT
+Nach {d|em} Essen gehen wir spazieren.|После еды мы идём гулять.|A2|nach + Dativ neutral: dem.|DAT
+Sie wohnt bei {ihr|er} Schwester.|Она живёт у сестры.|A2|bei + Dativ feminin: ihrer.|DAT
+Ich komme gerade von {d|er} Arbeit.|Я как раз с работы.|A2|von + Dativ feminin: der.|DAT
+Seit {ein|em} Monat lerne ich Deutsch.|Уже месяц я учу немецкий.|A2|seit + Dativ maskulin: einem Monat.|DAT
+Er geht zu {d|em} Arzt.|Он идёт к врачу.|A2|zu + Dativ maskulin: dem (zum).|DAT
+Gegenüber {d|em} Bahnhof ist eine Apotheke.|Напротив вокзала аптека.|B1|gegenüber + Dativ maskulin: dem.|DAT
+Außer {mein|em} Bruder kommen alle.|Придут все, кроме моего брата.|B1|außer + Dativ maskulin: meinem.|DAT
+Ich helfe {mein|er} Nachbarin beim Einkaufen.|Я помогаю соседке с покупками.|A2|helfen + Dativ feminin: meiner.|DAT
+Das Buch gehört {d|em} Lehrer.|Книга принадлежит учителю.|B1|gehören + Dativ maskulin: dem.|DAT
+Ich danke {Ihr|em} Team für die Hilfe.|Я благодарю вашу команду за помощь.|B1|danken + Dativ neutral: Ihrem.|DAT
+Wie gefällt {dein|er} Mutter die neue Wohnung?|Как твоей маме новая квартира?|B1|gefallen + Dativ feminin: deiner Mutter.|DAT
+Die Schuhe passen {mein|em} Sohn nicht mehr.|Ботинки больше не подходят сыну.|B1|passen + Dativ maskulin: meinem.|DAT
+Wir gratulieren {d|er} Kollegin zum Geburtstag.|Мы поздравляем коллегу с днём рождения.|B1|gratulieren + Dativ feminin: der.|DAT
+Ich antworte {d|em} Kunden morgen.|Я отвечу клиенту завтра.|B1|antworten + Dativ maskulin: dem.|DAT
+Mit {mein|en} Kindern spreche ich Russisch.|С детьми я говорю по-русски.|B1|mit + Dativ Plural: meinen Kindern.|DAT
+Aus {d|em} Fenster sieht man die Elbe.|Из окна видна Эльба.|A2|aus + Dativ neutral: dem.|DAT
+Er ist mit {d|er} Arbeit zufrieden.|Он доволен работой.|B1|zufrieden mit + Dativ: der Arbeit.|DAT
+Ich habe Angst vor {d|er} Prüfung.|Я боюсь экзамена.|B1|Angst vor + Dativ: der Prüfung.|DAT
+Sie träumt von {ein|em} eigenen Haus.|Она мечтает о собственном доме.|B1|träumen von + Dativ neutral: einem.|DAT
+Wir sprechen mit {d|en} Eltern über die Klassenfahrt.|Мы говорим с родителями о поездке.|B1|mit + Dativ Plural: den Eltern.|DAT
+Der Arzt rät {d|em} Patienten zu mehr Bewegung.|Врач советует пациенту больше двигаться.|B2|raten + Dativ: dem Patienten.|DAT
+Zu {d|er} Party bringe ich einen Salat mit.|На вечеринку я принесу салат.|A2|zu + Dativ feminin: der (zur).|DAT
+Ich arbeite seit drei Jahren bei {dies|er} Firma.|Я три года работаю в этой фирме.|B1|bei + Dativ feminin: dieser.|DAT
+Nach {d|er} Schicht bin ich immer müde.|После смены я всегда уставшая.|A2|nach + Dativ feminin: der.|DAT
+Er hat {sein|er} Frau Blumen geschenkt.|Он подарил жене цветы.|B1|schenken + Dativ (Person): seiner Frau.|DAT
+# Genitiv
+Wegen {d|es} Regens bleiben wir zu Hause.|Из-за дождя мы остаёмся дома.|B1|wegen + Genitiv maskulin: des Regens.|GEN
+Trotz {d|er} Kälte gehen wir schwimmen.|Несмотря на холод, мы идём плавать.|B2|trotz + Genitiv feminin: der Kälte.|GEN
+Während {d|es} Urlaubs habe ich viel gelesen.|Во время отпуска я много читала.|B2|während + Genitiv maskulin: des Urlaubs.|GEN
+Das ist das Auto {mein|es} Mannes.|Это машина моего мужа.|B1|Genitiv maskulin: meines Mannes.|GEN
+Innerhalb {ein|er} Woche bekommen Sie eine Antwort.|В течение недели вы получите ответ.|B2|innerhalb + Genitiv feminin: einer.|GEN
+Statt {ein|es} Briefes schreibe ich eine E-Mail.|Вместо письма я пишу электронное.|B2|statt + Genitiv maskulin: eines Briefes.|GEN
+Die Farbe {d|er} Wände gefällt mir nicht.|Цвет стен мне не нравится.|B1|Genitiv Plural: der Wände.|GEN
+Am Ende {d|es} Monats bekomme ich mein Gehalt.|В конце месяца я получаю зарплату.|B1|Genitiv maskulin: des Monats.|GEN
+Aufgrund {d|es} Streiks fahren keine Busse.|Из-за забастовки автобусы не ходят.|B2|aufgrund + Genitiv maskulin: des Streiks.|GEN
+Der Name {d|er} Lehrerin ist Frau Koch.|Учительницу зовут фрау Кох.|B1|Genitiv feminin: der Lehrerin.|GEN
+Außerhalb {d|er} Öffnungszeiten ist das Büro geschlossen.|Вне часов работы офис закрыт.|B2|außerhalb + Genitiv Plural: der.|GEN
+Die Wohnung {mein|er} Eltern ist sehr groß.|Квартира моих родителей очень большая.|B1|Genitiv Plural: meiner Eltern.|GEN
+Wegen {ein|er} Erkältung war ich nicht im Kurs.|Из-за простуды я не была на курсе.|B1|wegen + Genitiv feminin: einer.|GEN
+Trotz {d|es} Staus bin ich pünktlich gekommen.|Несмотря на пробку, я пришла вовремя.|B2|trotz + Genitiv maskulin: des Staus.|GEN
+Der Chef {unser|er} Abteilung ist sehr nett.|Начальник нашего отдела очень приятный.|B1|Genitiv feminin: unserer Abteilung.|GEN
+Während {d|er} Besprechung bleibt das Handy aus.|Во время совещания телефон выключен.|B2|während + Genitiv feminin: der.|GEN
+# Wechselpräpositionen
+Ich hänge das Bild an {d|ie} Wand.|Я вешаю картину на стену.|B1|wohin? an + Akkusativ: die Wand.|WEC
+Das Bild hängt an {d|er} Wand.|Картина висит на стене.|B1|wo? an + Dativ: der Wand.|WEC
+Ich stelle die Flasche auf {d|en} Tisch.|Я ставлю бутылку на стол.|A2|wohin? auf + Akkusativ: den Tisch.|WEC
+Die Flasche steht auf {d|em} Tisch.|Бутылка стоит на столе.|A2|wo? auf + Dativ: dem Tisch.|WEC
+Die Katze springt unter {d|as} Bett.|Кошка прыгает под кровать.|B1|wohin? unter + Akkusativ: das Bett.|WEC
+Die Katze schläft unter {d|em} Bett.|Кошка спит под кроватью.|B1|wo? unter + Dativ: dem Bett.|WEC
+Wir gehen heute in {d|as} Kino.|Сегодня мы идём в кино.|A2|wohin? in + Akkusativ: das (ins) Kino.|WEC
+Wir sind gestern in {d|em} Kino gewesen.|Вчера мы были в кино.|A2|wo? in + Dativ: dem (im) Kino.|WEC
+Er legt den Schlüssel neben {d|as} Telefon.|Он кладёт ключ рядом с телефоном.|B1|wohin? neben + Akkusativ: das Telefon.|WEC
+Der Schlüssel liegt neben {d|em} Telefon.|Ключ лежит рядом с телефоном.|B1|wo? neben + Dativ: dem Telefon.|WEC
+Ich fahre das Auto in {d|ie} Garage.|Я ставлю машину в гараж.|B1|wohin? in + Akkusativ: die Garage.|WEC
+Das Auto steht in {d|er} Garage.|Машина стоит в гараже.|B1|wo? in + Dativ: der Garage.|WEC
+Sie setzt sich zwischen {d|ie} Kinder.|Она садится между детьми.|B2|wohin? zwischen + Akkusativ Plural: die.|WEC
+Sie sitzt zwischen {d|en} Kindern.|Она сидит между детьми.|B2|wo? zwischen + Dativ Plural: den Kindern.|WEC
+Wir treffen uns vor {d|em} Rathaus.|Мы встречаемся перед ратушей.|A2|wo? vor + Dativ: dem Rathaus.|WEC
+Stell den Kinderwagen bitte hinter {d|ie} Tür.|Поставь, пожалуйста, коляску за дверь.|B1|wohin? hinter + Akkusativ: die Tür.|WEC
+Der Kinderwagen steht hinter {d|er} Tür.|Коляска стоит за дверью.|B1|wo? hinter + Dativ: der Tür.|WEC
+Über {d|em} Sofa hängt eine Lampe.|Над диваном висит лампа.|B1|wo? über + Dativ: dem Sofa.|WEC
+Ich lege die Decke über {d|as} Sofa.|Я кладу плед на диван.|B1|wohin? über + Akkusativ: das Sofa.|WEC
+Die Kinder spielen auf {d|em} Spielplatz.|Дети играют на площадке.|A2|wo? auf + Dativ: dem Spielplatz.|WEC
+Die Kinder laufen auf {d|en} Spielplatz.|Дети бегут на площадку.|A2|wohin? auf + Akkusativ: den Spielplatz.|WEC
+Ich arbeite in {ein|em} Supermarkt.|Я работаю в супермаркете.|A2|wo? in + Dativ: einem Supermarkt.|WEC
+Bring die Kisten bitte in {d|as} Lager.|Отнеси, пожалуйста, ящики на склад.|B1|wohin? in + Akkusativ: das Lager.|WEC
+Die Kisten stehen schon in {d|em} Lager.|Ящики уже стоят на складе.|B1|wo? in + Dativ: dem Lager.|WEC
+Am Wochenende fahren wir an {d|ie} Ostsee.|На выходных мы едем на Балтийское море.|B1|wohin? an + Akkusativ: die Ostsee.|WEC
+Im Sommer waren wir an {d|er} Ostsee.|Летом мы были на Балтике.|B1|wo? an + Dativ: der Ostsee.|WEC
+Er steckt das Handy in {d|ie} Tasche.|Он кладёт телефон в сумку.|B1|wohin? in + Akkusativ: die Tasche.|WEC
+Das Handy ist in {d|er} Tasche.|Телефон в сумке.|A2|wo? in + Dativ: der Tasche.|WEC
+Ich hänge die Jacke an {d|en} Haken.|Я вешаю куртку на крючок.|B1|wohin? an + Akkusativ: den Haken.|WEC
+Die Jacke hängt an {d|em} Haken.|Куртка висит на крючке.|B1|wo? an + Dativ: dem Haken.|WEC
