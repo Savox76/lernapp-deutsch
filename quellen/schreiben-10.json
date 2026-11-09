@@ -1,0 +1,657 @@
+[
+ {
+  "id": "b1-beschwerde-lieferdienst",
+  "lv": "B1",
+  "t": "Beschwerde beim Lieferdienst",
+  "s": "Ihr bestelltes Essen kam eine Stunde zu spät und war kalt. Schreiben Sie dem Lieferdienst.",
+  "p": [
+   "Was haben Sie bestellt und wann?",
+   "Was war das Problem?",
+   "Wie haben Sie sich gefühlt?",
+   "Was erwarten Sie?"
+  ],
+  "ru": "Жалоба в службу доставки: еда пришла на час позже и холодной. Что и когда заказали, проблема, ваши чувства, чего ожидаете.",
+  "w": 80,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nam Samstag habe ich um 18 Uhr bei Ihnen zwei Pizzen und einen Salat bestellt (Bestellnummer 7781). In der App stand, dass das Essen in 40 Minuten kommt.\n\nLeider kam der Fahrer erst um 19:45 Uhr, und die Pizzen waren kalt. Meine Kinder hatten großen Hunger und waren sehr enttäuscht.\n\nIch erwarte, dass Sie mir einen Teil des Geldes zurückzahlen oder einen Gutschein schicken.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "b1-bewerbung-kita-helferin",
+  "lv": "B1",
+  "t": "Bewerbung als Kita-Helferin",
+  "s": "Eine Kita sucht eine Helferin in Teilzeit. Schreiben Sie eine kurze Bewerbung.",
+  "p": [
+   "Wer sind Sie?",
+   "Welche Erfahrung haben Sie?",
+   "Warum passen Sie zur Stelle?",
+   "Wann können Sie anfangen?"
+  ],
+  "ru": "Короткое заявление на должность помощницы в детском саду: кто вы, опыт, почему подходите, когда можете начать.",
+  "w": 80,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nich habe Ihre Anzeige gelesen und bewerbe mich als Helferin in Teilzeit. Ich heiße Olga Iwanowa, bin 34 Jahre alt und habe zwei Kinder.\n\nIn meiner Heimat habe ich drei Jahre in einem Kindergarten gearbeitet. Ich spiele gern mit Kindern, bastle und singe mit ihnen.\n\nIch bin geduldig, zuverlässig und spreche Deutsch auf B1-Niveau. Ich kann ab dem 1. September anfangen.\n\nÜber eine Einladung zu einem Gespräch würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "b1-erfahrung-arbeitsamt",
+  "lv": "B1",
+  "t": "Erfahrungsbericht: Mein erster Tag bei der Arbeit",
+  "s": "Schreiben Sie für die Kurszeitung über Ihren ersten Arbeitstag in Deutschland.",
+  "p": [
+   "Wo haben Sie angefangen?",
+   "Wie war der Tag?",
+   "Was war schwierig?",
+   "Was haben Sie gelernt?"
+  ],
+  "ru": "Текст для газеты курса о первом рабочем дне в Германии: где, как прошёл, что было трудно, чему научились.",
+  "w": 80,
+  "rm": [
+   "Zuerst …, dann …, danach …",
+   "Am Anfang …",
+   "Besonders schön / schwierig war, dass …",
+   "Zum Schluss …"
+  ],
+  "m": "Meinen ersten Arbeitstag in Deutschland hatte ich vor einem Jahr in einer großen Bäckerei.\n\nAm Anfang war ich sehr nervös. Meine Kollegin hat mir alles gezeigt: die Kasse, die Brotsorten und wie man den Kaffee macht. Die Kunden waren meistens freundlich.\n\nSchwierig war, dass viele Menschen sehr schnell gesprochen haben. Außerdem kannte ich die Namen der Brötchen nicht.\n\nIch habe gelernt, dass man ruhig nachfragen darf. Heute kenne ich alle Brotsorten und fühle mich in meinem Team sehr wohl."
+ },
+ {
+  "id": "b1-leserbrief-spielplatz",
+  "lv": "B1",
+  "t": "Leserbrief: Spielplatz soll schließen",
+  "s": "In der Zeitung steht, dass der Spielplatz in Ihrem Stadtteil geschlossen werden soll. Schreiben Sie einen Leserbrief.",
+  "p": [
+   "Warum schreiben Sie?",
+   "Warum ist der Spielplatz wichtig?",
+   "Was schlagen Sie vor?"
+  ],
+  "ru": "Письмо в газету: детскую площадку в вашем районе хотят закрыть. Почему пишете, почему площадка важна, что предлагаете.",
+  "w": 80,
+  "rm": [
+   "Meiner Meinung nach …",
+   "Einerseits …, andererseits …",
+   "Ein Vorteil ist, dass …",
+   "Ein Nachteil ist allerdings, dass …",
+   "In meinem Heimatland …",
+   "Zusammenfassend …"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nmit großer Sorge habe ich gelesen, dass der Spielplatz in der Lindenstraße geschlossen werden soll.\n\nFür viele Familien in unserem Stadtteil ist dieser Spielplatz sehr wichtig. Es gibt hier wenig Gärten, und die Kinder brauchen einen Ort, wo sie draußen spielen können. Außerdem treffen sich dort Eltern aus vielen Ländern.\n\nIch schlage vor, dass die Stadt den Spielplatz renoviert, statt ihn zu schließen. Viele Eltern würden bei einem Aktionstag mithelfen.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "b1-bitte-arbeitszeugnis",
+  "lv": "B1",
+  "t": "Bitte um ein Arbeitszeugnis",
+  "s": "Sie haben Ihre Stelle gekündigt. Bitten Sie Ihren Arbeitgeber um ein Arbeitszeugnis.",
+  "p": [
+   "Warum schreiben Sie?",
+   "Was für ein Zeugnis brauchen Sie?",
+   "Bis wann?",
+   "Wie möchten Sie es bekommen?"
+  ],
+  "ru": "Попросите у работодателя характеристику после увольнения: почему пишете, какую, до когда, как получить.",
+  "w": 80,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrte Frau Neumann,\n\nwie Sie wissen, endet mein Arbeitsverhältnis am 31. März. Ich möchte Sie deshalb um ein Arbeitszeugnis bitten.\n\nIch brauche ein qualifiziertes Zeugnis, in dem auch meine Leistungen und mein Verhalten beschrieben sind, weil ich mich gerade bewerbe.\n\nKönnten Sie mir das Zeugnis bis zu meinem letzten Arbeitstag geben? Am liebsten würde ich es persönlich abholen.\n\nVielen Dank für die gute Zusammenarbeit.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "b1-freundin-umzug-erzaehlen",
+  "lv": "B1",
+  "t": "E-Mail: Wir sind umgezogen",
+  "s": "Sie sind in eine neue Wohnung gezogen. Schreiben Sie einer Freundin in Ihrer Heimat.",
+  "p": [
+   "Warum sind Sie umgezogen?",
+   "Wie ist die neue Wohnung?",
+   "Wie war der Umzug?",
+   "Laden Sie sie ein."
+  ],
+  "ru": "Письмо подруге на родину о переезде: почему, какая квартира, как прошёл переезд, пригласите в гости.",
+  "w": 80,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Liebe Swetlana,\n\nich habe tolle Neuigkeiten: Wir sind letzte Woche umgezogen! Die alte Wohnung war zu klein für vier Personen.\n\nDie neue Wohnung hat drei Zimmer, eine große Küche und einen Balkon. Jedes Kind hat jetzt sein eigenes Zimmer, und die Schule ist nur fünf Minuten entfernt.\n\nDer Umzug war anstrengend, weil wir im vierten Stock wohnen und es keinen Aufzug gibt. Zum Glück haben uns Freunde geholfen.\n\nDu musst uns unbedingt besuchen! Wir haben jetzt auch Platz für Gäste.\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "b1-stellungnahme-handy-schule",
+  "lv": "B1",
+  "t": "Meinung: Handys in der Schule",
+  "s": "Im Elternbrief fragt die Schule nach Ihrer Meinung: Sollen Handys in der Schule verboten werden?",
+  "p": [
+   "Ihre Meinung",
+   "Gründe dafür",
+   "Gründe dagegen",
+   "Ihr Vorschlag"
+  ],
+  "ru": "Школа спрашивает мнение родителей: запретить ли телефоны в школе? Ваше мнение, аргументы за и против, предложение.",
+  "w": 80,
+  "rm": [
+   "Meiner Meinung nach …",
+   "Einerseits …, andererseits …",
+   "Ein Vorteil ist, dass …",
+   "Ein Nachteil ist allerdings, dass …",
+   "In meinem Heimatland …",
+   "Zusammenfassend …"
+  ],
+  "m": "Liebe Frau Schulz,\n\nvielen Dank, dass Sie die Eltern nach ihrer Meinung fragen.\n\nIch finde, dass Handys im Unterricht nicht benutzt werden sollten. Die Kinder können sich dann besser konzentrieren und sprechen in der Pause mehr miteinander.\n\nAndererseits ist es für viele Eltern wichtig, dass die Kinder nach der Schule erreichbar sind, zum Beispiel wenn sich etwas ändert.\n\nMein Vorschlag ist: Die Handys bleiben während der Schulzeit ausgeschaltet in der Tasche, nach der Schule dürfen die Kinder sie benutzen.\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "b1-anfrage-sprachkurs-b2",
+  "lv": "B1",
+  "t": "Anfrage zum Berufssprachkurs",
+  "s": "Sie möchten einen Berufssprachkurs B2 machen. Schreiben Sie an die Sprachschule.",
+  "p": [
+   "Stellen Sie sich vor.",
+   "Warum möchten Sie den Kurs machen?",
+   "Fragen Sie nach Zeiten und Kosten.",
+   "Fragen Sie nach einem Einstufungstest."
+  ],
+  "ru": "Запрос в языковую школу о профессиональном курсе B2: представьтесь, зачем, спросите о времени и стоимости, о тесте.",
+  "w": 80,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nmein Name ist Olga Iwanowa. Ich habe im letzten Jahr den DTZ mit B1 bestanden und arbeite als Pflegehelferin.\n\nIch möchte gern einen Berufssprachkurs B2 machen, weil ich später eine Ausbildung zur Pflegefachkraft beginnen möchte.\n\nWann beginnt der nächste Kurs, und finden die Stunden auch am Abend statt? Muss ich etwas bezahlen, oder übernimmt das BAMF die Kosten?\n\nMuss ich vorher einen Einstufungstest machen?\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "b1-bericht-betriebsausflug",
+  "lv": "B1",
+  "t": "Bericht: Unser Betriebsausflug",
+  "s": "Schreiben Sie für die Mitarbeiterzeitung einen kurzen Bericht über den Betriebsausflug.",
+  "p": [
+   "Wohin ging der Ausflug?",
+   "Was haben Sie gemacht?",
+   "Was hat besonders gefallen?",
+   "Was wünschen Sie sich nächstes Jahr?"
+  ],
+  "ru": "Отчёт для газеты сотрудников о корпоративной поездке: куда, что делали, что понравилось, пожелания.",
+  "w": 80,
+  "rm": [
+   "Zuerst …, dann …, danach …",
+   "Am Anfang …",
+   "Besonders schön / schwierig war, dass …",
+   "Zum Schluss …"
+  ],
+  "m": "Am letzten Freitag sind wir mit 40 Kolleginnen und Kollegen in die Sächsische Schweiz gefahren.\n\nZuerst sind wir mit dem Schiff nach Bad Schandau gefahren. Danach haben wir eine Wanderung zur Bastei gemacht. Mittags gab es ein Picknick, das die Firma bezahlt hat.\n\nBesonders schön war die Aussicht von der Bastei und dass wir Zeit hatten, uns auch privat zu unterhalten.\n\nNächstes Jahr wünsche ich mir einen Ausflug, bei dem auch unsere Familien mitkommen dürfen."
+ },
+ {
+  "id": "b1-kuendigung-wohnung",
+  "lv": "B1",
+  "t": "Kündigung der Wohnung",
+  "s": "Sie ziehen in eine andere Stadt. Kündigen Sie Ihre Wohnung.",
+  "p": [
+   "Kündigung und Termin",
+   "Grund",
+   "Vorschlag für die Übergabe",
+   "Kaution"
+  ],
+  "ru": "Расторгните договор аренды: срок, причина, предложение по сдаче квартиры, залог.",
+  "w": 80,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrter Herr Lange,\n\nhiermit kündige ich meine Wohnung in der Gartenstraße 8, 2. Stock links, fristgerecht zum 31. Juli.\n\nDer Grund ist, dass mein Mann eine neue Stelle in Leipzig gefunden hat und wir deshalb umziehen.\n\nFür die Übergabe der Wohnung schlage ich Montag, den 31. Juli, um 10 Uhr vor. Gern können wir aber auch einen anderen Termin vereinbaren.\n\nBitte überweisen Sie die Kaution nach der Übergabe auf mein Konto. Die Bankverbindung schicke ich Ihnen mit.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "b1-ratschlag-freund-deutsch",
+  "lv": "B1",
+  "t": "Tipps zum Deutschlernen",
+  "s": "Ein Freund ist neu in Deutschland und fragt Sie, wie man am besten Deutsch lernt. Antworten Sie ihm.",
+  "p": [
+   "Was hat Ihnen geholfen?",
+   "Welche Kurse empfehlen Sie?",
+   "Was kann er im Alltag tun?",
+   "Machen Sie ihm Mut."
+  ],
+  "ru": "Друг недавно в Германии и спрашивает, как лучше учить немецкий. Что вам помогло, какие курсы, что делать в быту, подбодрите.",
+  "w": 80,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Lieber Andrej,\n\nschön, dass du jetzt auch in Deutschland bist! Mir hat am meisten geholfen, jeden Tag ein bisschen zu lernen, auch nur 20 Minuten.\n\nIch empfehle dir einen Integrationskurs. Dort lernst du nicht nur die Sprache, sondern auch viel über das Leben hier.\n\nIm Alltag solltest du so viel wie möglich Deutsch sprechen: beim Einkaufen, mit Nachbarn oder in einem Sprachcafé. Hör auch Radio oder Podcasts in einfacher Sprache.\n\nAm Anfang ist es schwer, aber nach ein paar Monaten wirst du viel verstehen. Du schaffst das!\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "b1-entschuldigung-chef",
+  "lv": "B1",
+  "t": "Entschuldigung beim Chef",
+  "s": "Sie haben einen wichtigen Termin mit einem Kunden vergessen. Schreiben Sie Ihrem Chef.",
+  "p": [
+   "Entschuldigen Sie sich.",
+   "Erklären Sie, was passiert ist.",
+   "Was haben Sie schon gemacht?",
+   "Was tun Sie in Zukunft?"
+  ],
+  "ru": "Вы забыли важную встречу с клиентом. Напишите начальнику: извинитесь, объясните, что уже сделали, что будете делать впредь.",
+  "w": 80,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrter Herr Krüger,\n\nich möchte mich bei Ihnen entschuldigen, weil ich gestern den Termin mit Herrn Meyer um 14 Uhr vergessen habe.\n\nIch hatte den Termin leider nicht in meinen Kalender eingetragen, und am Nachmittag war sehr viel zu tun.\n\nIch habe Herrn Meyer heute Morgen angerufen und mich entschuldigt. Wir haben einen neuen Termin am Donnerstag vereinbart.\n\nIn Zukunft trage ich alle Termine sofort in den digitalen Kalender ein und stelle eine Erinnerung ein.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "b1-forum-kinderbetreuung",
+  "lv": "B1",
+  "t": "Forumsbeitrag: Großeltern als Babysitter",
+  "s": "In einem Elternforum wird gefragt: Sollen Großeltern regelmäßig auf die Enkel aufpassen? Schreiben Sie Ihre Meinung.",
+  "p": [
+   "Ihre Meinung",
+   "Vorteile",
+   "Nachteile",
+   "Erfahrung aus Ihrer Heimat"
+  ],
+  "ru": "На форуме родителей спрашивают: должны ли бабушки и дедушки регулярно сидеть с внуками? Мнение, плюсы, минусы, опыт родины.",
+  "w": 80,
+  "rm": [
+   "Meiner Meinung nach …",
+   "Einerseits …, andererseits …",
+   "Ein Vorteil ist, dass …",
+   "Ein Nachteil ist allerdings, dass …",
+   "In meinem Heimatland …",
+   "Zusammenfassend …"
+  ],
+  "m": "Ich finde, dass Großeltern gern helfen können, aber es sollte keine Pflicht sein.\n\nEin großer Vorteil ist, dass die Kinder eine enge Beziehung zu den Großeltern haben und die Eltern sich keine Sorgen machen müssen. Außerdem spart man Geld für den Babysitter.\n\nEin Nachteil ist, dass ältere Menschen schnell müde werden. Sie haben auch ein eigenes Leben und möchten vielleicht reisen.\n\nIn meiner Heimat ist es ganz normal, dass die Oma jeden Tag auf die Enkel aufpasst. Hier in Deutschland leben unsere Eltern leider weit weg, deshalb geht unsere Tochter in die Kita."
+ },
+ {
+  "id": "b1-reklamation-reparatur",
+  "lv": "B1",
+  "t": "Reklamation: Reparatur nicht erledigt",
+  "s": "Der Handwerker sollte den Wasserhahn reparieren, aber er tropft immer noch. Schreiben Sie an die Firma.",
+  "p": [
+   "Wann war der Handwerker da?",
+   "Was ist das Problem?",
+   "Was erwarten Sie?",
+   "Wann sind Sie zu Hause?"
+  ],
+  "ru": "Сантехник должен был починить кран, но он всё ещё капает. Когда был мастер, проблема, чего ожидаете, когда вы дома.",
+  "w": 80,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nam Dienstag war Ihr Mitarbeiter bei mir in der Bergstraße 12, um den Wasserhahn in der Küche zu reparieren.\n\nLeider tropft der Wasserhahn schon seit gestern wieder genauso wie vorher. Die Reparatur hat also nicht geholfen.\n\nIch erwarte, dass Sie noch einmal einen Handwerker schicken und den Wasserhahn kostenlos reparieren.\n\nIch bin von Montag bis Freitag ab 15 Uhr zu Hause.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "b1-einladung-sprachcafe",
+  "lv": "B1",
+  "t": "Einladung zum Sprachcafé",
+  "s": "Sie organisieren ein Sprachcafé. Schreiben Sie einen Text für einen Aushang.",
+  "p": [
+   "Was ist das Sprachcafé?",
+   "Wann und wo?",
+   "Für wen?",
+   "Was kostet es?"
+  ],
+  "ru": "Объявление о языковом кафе: что это, когда и где, для кого, сколько стоит.",
+  "w": 80,
+  "rm": [
+   "Herzliche Einladung zum …",
+   "Hier können Sie …",
+   "Jeder ist willkommen, der …",
+   "Die Teilnahme ist …"
+  ],
+  "m": "Herzliche Einladung zum Sprachcafé!\n\nSie möchten Ihr Deutsch verbessern und neue Leute kennenlernen? Dann kommen Sie zu unserem Sprachcafé! Hier sprechen wir bei Kaffee und Kuchen über Alltagsthemen.\n\nWir treffen uns jeden Mittwoch von 17 bis 19 Uhr im Nachbarschaftszentrum, Hauptstraße 20.\n\nJeder ist willkommen: Menschen, die Deutsch lernen, und Deutsche, die gern helfen möchten.\n\nDie Teilnahme ist kostenlos. Eine Anmeldung ist nicht nötig. Kinder können im Spielzimmer spielen."
+ },
+ {
+  "id": "b1-dankesbrief-lehrerin",
+  "lv": "B1",
+  "t": "Dankesbrief an die Lehrerin",
+  "s": "Sie haben die DTZ-Prüfung bestanden. Schreiben Sie Ihrer Deutschlehrerin einen Dankesbrief.",
+  "p": [
+   "Erzählen Sie vom Ergebnis.",
+   "Wofür danken Sie?",
+   "Was war besonders hilfreich?",
+   "Wie geht es weiter?"
+  ],
+  "ru": "Письмо благодарности учительнице после сдачи DTZ: результат, за что благодарите, что особенно помогло, что дальше.",
+  "w": 80,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Liebe Frau Lange,\n\nich habe tolle Nachrichten: Ich habe die DTZ-Prüfung mit B1 bestanden!\n\nIch möchte mich ganz herzlich bei Ihnen bedanken. Sie haben immer geduldig alles erklärt, auch wenn ich zum dritten Mal gefragt habe.\n\nBesonders hilfreich waren die Übungen zum Sprechen in Partnerarbeit. Am Anfang hatte ich große Angst davor, aber in der Prüfung war ich ganz ruhig.\n\nJetzt möchte ich einen B2-Kurs für den Beruf machen. Ich hoffe, dass ich Sie einmal besuchen kann.\n\nHerzliche Grüße\nOlga"
+ },
+ {
+  "id": "b1-beschreibung-heimatfest",
+  "lv": "B1",
+  "t": "Ein Fest aus meiner Heimat",
+  "s": "Schreiben Sie für die Kurszeitung über ein Fest aus Ihrer Heimat.",
+  "p": [
+   "Wie heißt das Fest und wann feiert man es?",
+   "Was macht man?",
+   "Was isst man?",
+   "Feiern Sie es auch hier?"
+  ],
+  "ru": "Текст для газеты курса о празднике вашей родины: название и когда, что делают, что едят, празднуете ли здесь.",
+  "w": 80,
+  "rm": [
+   "Zuerst …, dann …, danach …",
+   "Am Anfang …",
+   "Besonders schön / schwierig war, dass …",
+   "Zum Schluss …"
+  ],
+  "m": "In meiner Heimat ist Masleniza ein sehr beliebtes Fest. Man feiert es im Februar oder März, eine Woche lang, und verabschiedet den Winter.\n\nDie Menschen treffen sich draußen, singen, tanzen und spielen Spiele. Am letzten Tag verbrennt man eine große Puppe aus Stroh. Sie ist das Symbol für den Winter.\n\nDie ganze Woche isst man Bliny, dünne Pfannkuchen, mit Honig, Sauerrahm oder Marmelade.\n\nHier in Deutschland feiern wir das Fest auch, aber nur zu Hause mit Freunden. Ich backe dann viele Bliny, und alle Nachbarn dürfen probieren."
+ },
+ {
+  "id": "b1-antrag-sonderurlaub",
+  "lv": "B1",
+  "t": "Antrag auf Sonderurlaub",
+  "s": "Ihre Schwester heiratet in Ihrer Heimat. Sie möchten zusätzlich zum Urlaub einen Tag frei. Schreiben Sie an die Personalabteilung.",
+  "p": [
+   "Warum schreiben Sie?",
+   "Wann brauchen Sie frei?",
+   "Was haben Sie mit dem Team besprochen?",
+   "Bitten Sie um Antwort."
+  ],
+  "ru": "Сестра выходит замуж на родине. Попросите в отделе кадров дополнительный выходной: почему, когда, что обсудили с командой, попросите ответ.",
+  "w": 80,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nmeine Schwester heiratet am 14. Juni in Kasachstan. Ich möchte deshalb fragen, ob ich einen Tag Sonderurlaub bekommen kann.\n\nIch habe vom 9. bis 13. Juni schon Urlaub genommen. Für die Rückreise brauche ich zusätzlich Montag, den 16. Juni, frei.\n\nMit meiner Teamleiterin habe ich schon gesprochen. Sie ist einverstanden, und eine Kollegin übernimmt meine Schicht.\n\nBitte geben Sie mir bis Ende Mai Bescheid, ob der Sonderurlaub möglich ist.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "b1-kommentar-sonntag",
+  "lv": "B1",
+  "t": "Kommentar: Geschäfte am Sonntag",
+  "s": "Ihre Stadt diskutiert, ob Geschäfte auch sonntags öffnen sollen. Schreiben Sie Ihre Meinung für die Stadtteilzeitung.",
+  "p": [
+   "Ihre Meinung",
+   "Argumente dafür",
+   "Argumente dagegen",
+   "Situation in Ihrer Heimat"
+  ],
+  "ru": "Должны ли магазины работать по воскресеньям? Ваше мнение для районной газеты: за, против, ситуация на родине.",
+  "w": 80,
+  "rm": [
+   "Meiner Meinung nach …",
+   "Einerseits …, andererseits …",
+   "Ein Vorteil ist, dass …",
+   "Ein Nachteil ist allerdings, dass …",
+   "In meinem Heimatland …",
+   "Zusammenfassend …"
+  ],
+  "m": "In unserer Stadt wird diskutiert, ob Geschäfte auch am Sonntag öffnen sollen. Ich bin eher dagegen.\n\nEinerseits wäre es praktisch, weil viele Menschen in der Woche lange arbeiten und keine Zeit zum Einkaufen haben. Auch Touristen würden sich freuen.\n\nAndererseits müssten dann viele Verkäuferinnen am Sonntag arbeiten. Sie hätten weniger Zeit für ihre Familien. Der Sonntag ist für viele der einzige Tag, an dem die ganze Familie zusammen ist.\n\nIn meiner Heimat sind die Geschäfte jeden Tag geöffnet. Am Anfang fand ich die deutsche Regel unpraktisch, heute genieße ich den ruhigen Sonntag."
+ },
+ {
+  "id": "b1-hilfe-anbieten-nachbar",
+  "lv": "B1",
+  "t": "Hilfe anbieten",
+  "s": "Ein älterer Nachbar ist nach einer Operation zu Hause und kann nicht gut laufen. Schreiben Sie ihm einen Brief.",
+  "p": [
+   "Zeigen Sie Mitgefühl.",
+   "Bieten Sie konkrete Hilfe an.",
+   "Wann haben Sie Zeit?",
+   "Wie kann er Sie erreichen?"
+  ],
+  "ru": "Пожилой сосед после операции плохо ходит. Напишите ему: посочувствуйте, предложите помощь, когда у вас есть время, как связаться.",
+  "w": 80,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Lieber Herr Schmidt,\n\nich habe gehört, dass Sie operiert worden sind. Ich wünsche Ihnen gute Besserung und hoffe, dass Sie bald wieder fit sind.\n\nWenn Sie möchten, kann ich gern für Sie einkaufen gehen oder Ihren Müll mit runterbringen. Ich kann Sie auch zum Arzt begleiten.\n\nIch habe jeden Tag ab 16 Uhr Zeit, am Wochenende auch vormittags.\n\nSie erreichen mich unter 0176 1234567, oder klingeln Sie einfach bei mir im zweiten Stock.\n\nViele Grüße\nOlga Iwanowa"
+ },
+ {
+  "id": "b1-bewertung-arztpraxis",
+  "lv": "B1",
+  "t": "Bewertung einer Arztpraxis",
+  "s": "Sie waren in einer neuen Arztpraxis. Schreiben Sie eine Bewertung für ein Internetportal.",
+  "p": [
+   "Warum waren Sie dort?",
+   "Wie war die Wartezeit?",
+   "Wie war die Ärztin?",
+   "Würden Sie die Praxis empfehlen?"
+  ],
+  "ru": "Отзыв о новой врачебной практике для сайта: почему были, ожидание, какой врач, порекомендуете ли.",
+  "w": 80,
+  "rm": [
+   "Ich war wegen … in der Praxis.",
+   "Die Wartezeit war …",
+   "Die Ärztin hat …",
+   "Ich kann die Praxis (nicht) empfehlen, weil …"
+  ],
+  "m": "Ich war letzte Woche wegen starker Rückenschmerzen zum ersten Mal in der Praxis.\n\nObwohl ich keinen Termin hatte, musste ich nur 30 Minuten warten. Die Arzthelferinnen am Empfang waren sehr freundlich.\n\nDie Ärztin hat sich viel Zeit genommen und alles langsam erklärt. Sie hat mir Übungen gezeigt und Physiotherapie verschrieben.\n\nIch kann die Praxis sehr empfehlen, besonders für Menschen, die noch nicht so gut Deutsch sprechen. Einziger Nachteil: Es gibt keinen Parkplatz in der Nähe."
+ },
+ {
+  "id": "b1-nachricht-team-feier",
+  "lv": "B1",
+  "t": "Einladung an das Team",
+  "s": "Sie haben ein Kind bekommen und sind wieder zurück bei der Arbeit. Laden Sie das Team zu einem Frühstück ein.",
+  "p": [
+   "Warum laden Sie ein?",
+   "Wann und wo?",
+   "Was gibt es?",
+   "Bitte um Antwort"
+  ],
+  "ru": "Вы вернулись на работу после рождения ребёнка. Пригласите команду на завтрак: почему, когда и где, что будет, попросите ответить.",
+  "w": 80,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Liebe Kolleginnen und Kollegen,\n\nnach meiner Elternzeit bin ich wieder da! Ich freue mich sehr, euch alle wiederzusehen, und möchte das mit einem Frühstück feiern.\n\nDas Frühstück ist am Freitag um 9 Uhr im Pausenraum.\n\nEs gibt frische Brötchen, Obst, Kuchen und natürlich Kaffee. Ich bringe auch Fotos von meiner kleinen Tochter mit.\n\nBitte sagt mir bis Mittwoch Bescheid, ob ihr kommt, damit ich genug einkaufen kann.\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "b1-beschwerde-nachbar-muell",
+  "lv": "B1",
+  "t": "Brief an die Hausgemeinschaft: Müll",
+  "s": "Im Hof stehen oft Müllsäcke neben den Tonnen. Schreiben Sie einen Brief an alle Nachbarn.",
+  "p": [
+   "Was ist das Problem?",
+   "Welche Folgen hat das?",
+   "Was bitten Sie?",
+   "Machen Sie einen Vorschlag."
+  ],
+  "ru": "Во дворе часто стоят мешки с мусором рядом с баками. Письмо всем соседям: проблема, последствия, просьба, предложение.",
+  "w": 80,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Liebe Nachbarinnen und Nachbarn,\n\nleider stehen in den letzten Wochen immer wieder Müllsäcke neben den Tonnen im Hof.\n\nDas sieht nicht nur schlecht aus, sondern es kommen auch Ratten und Krähen, die die Säcke aufreißen. Außerdem kann es teurer werden, wenn die Stadt den Müll extra abholen muss.\n\nIch bitte deshalb alle, den Müll nur in die Tonnen zu werfen und richtig zu trennen. Wenn die Tonne voll ist, bitte bis zum nächsten Abholtag warten.\n\nMein Vorschlag: Wir fragen die Hausverwaltung nach einer zusätzlichen Tonne.\n\nViele Grüße\nOlga Iwanowa, 2. Stock"
+ },
+ {
+  "id": "b1-erfahrung-anerkennung",
+  "lv": "B1",
+  "t": "Erfahrungsbericht: Anerkennung meines Abschlusses",
+  "s": "Schreiben Sie für ein Internetforum, wie die Anerkennung Ihres Berufsabschlusses gelaufen ist.",
+  "p": [
+   "Welchen Abschluss haben Sie?",
+   "Was mussten Sie tun?",
+   "Was war schwierig?",
+   "Welche Tipps geben Sie?"
+  ],
+  "ru": "Пост на форуме о признании диплома: какой диплом, что нужно было сделать, что было трудно, советы.",
+  "w": 80,
+  "rm": [
+   "Zuerst …, dann …, danach …",
+   "Am Anfang …",
+   "Besonders schön / schwierig war, dass …",
+   "Zum Schluss …"
+  ],
+  "m": "Ich habe in meiner Heimat eine Ausbildung als Krankenschwester gemacht und wollte hier in der Pflege arbeiten.\n\nZuerst musste ich alle Zeugnisse übersetzen lassen und einen Antrag beim Landesamt stellen. Nach vier Monaten kam die Antwort: Mein Abschluss wurde nur teilweise anerkannt. Ich musste einen Anpassungslehrgang machen.\n\nSchwierig waren die vielen Formulare und die lange Wartezeit. Außerdem brauchte ich ein B2-Zertifikat.\n\nMein Tipp: Geht zu einer Anerkennungsberatung, die ist kostenlos. Und fangt früh mit Deutsch an, denn ohne B2 geht es in der Pflege nicht."
+ },
+ {
+  "id": "b1-absage-einladung-chef",
+  "lv": "B1",
+  "t": "Absage an die Chefin",
+  "s": "Ihre Chefin lädt das Team zu einer Feier bei sich zu Hause ein. Sie können nicht kommen. Schreiben Sie ihr.",
+  "p": [
+   "Bedanken Sie sich.",
+   "Sagen Sie ab und begründen Sie.",
+   "Machen Sie einen Vorschlag.",
+   "Wünschen Sie etwas."
+  ],
+  "ru": "Начальница приглашает команду к себе домой. Вы не можете прийти. Поблагодарите, откажитесь с причиной, предложите что-то, пожелайте.",
+  "w": 80,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Liebe Frau Hoffmann,\n\nvielen Dank für Ihre nette Einladung zur Gartenparty am Samstag.\n\nLeider kann ich nicht kommen, weil meine Mutter an diesem Wochenende aus der Ukraine zu Besuch kommt und ich sie vom Flughafen abholen muss.\n\nVielleicht können wir beim nächsten Teamfrühstück ein paar Fotos von der Party anschauen?\n\nIch wünsche Ihnen und allen Kollegen einen wunderschönen Abend und gutes Wetter!\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "b1-anleitung-kollegin",
+  "lv": "B1",
+  "t": "Anleitung für eine Kollegin",
+  "s": "Eine neue Kollegin soll morgen den Kassenabschluss machen. Schreiben Sie ihr eine Anleitung.",
+  "p": [
+   "Was muss sie zuerst tun?",
+   "Was passiert mit dem Geld?",
+   "Was macht sie bei Problemen?"
+  ],
+  "ru": "Напишите новой коллеге инструкцию по закрытию кассы: что сделать сначала, что с деньгами, что делать при проблемах.",
+  "w": 80,
+  "rm": [
+   "Zuerst …",
+   "Danach …",
+   "Wichtig ist, dass …",
+   "Wenn …, dann …"
+  ],
+  "m": "Liebe Lena,\n\nhier eine kurze Anleitung für den Kassenabschluss morgen:\n\nZuerst druckst du an der Kasse den Tagesbericht aus. Danach zählst du das ganze Bargeld. In der Kasse bleiben 150 Euro Wechselgeld.\n\nDen Rest legst du mit dem Bericht in die blaue Geldtasche und wirfst sie in den Tresor im Büro. Wichtig ist, dass immer eine zweite Person beim Zählen dabei ist.\n\nWenn mehr als 5 Euro fehlen, schreibst du eine Notiz und rufst die Filialleiterin an: 0171 2233445.\n\nDu schaffst das!\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "b1-meinung-fahrrad-stadt",
+  "lv": "B1",
+  "t": "Meinung: Mehr Radwege oder mehr Parkplätze?",
+  "s": "Die Stadt fragt die Bürger: Sollen mehr Radwege gebaut werden, auch wenn Parkplätze wegfallen? Schreiben Sie Ihre Meinung.",
+  "p": [
+   "Ihre Meinung",
+   "Vorteile",
+   "Nachteile",
+   "Ihr Vorschlag"
+  ],
+  "ru": "Город спрашивает: строить больше велодорожек, даже если исчезнут парковки? Мнение, плюсы, минусы, предложение.",
+  "w": 80,
+  "rm": [
+   "Meiner Meinung nach …",
+   "Einerseits …, andererseits …",
+   "Ein Vorteil ist, dass …",
+   "Ein Nachteil ist allerdings, dass …",
+   "In meinem Heimatland …",
+   "Zusammenfassend …"
+  ],
+  "m": "Ich finde es richtig, dass die Stadt mehr Radwege bauen möchte.\n\nEin Vorteil ist, dass Radfahren gesund und gut für die Umwelt ist. Viele Menschen würden öfter mit dem Fahrrad fahren, wenn die Wege sicherer wären. Ich selbst habe oft Angst, wenn ich mit meinen Kindern neben den Autos fahre.\n\nEin Nachteil ist, dass Menschen, die auf das Auto angewiesen sind, noch länger einen Parkplatz suchen müssen, zum Beispiel ältere Leute oder Handwerker.\n\nMein Vorschlag: mehr Radwege, aber auch mehr Parkhäuser am Stadtrand mit guten Busverbindungen."
+ },
+ {
+  "id": "b1-reiseplanung-freund",
+  "lv": "B1",
+  "t": "Reise planen",
+  "s": "Sie möchten mit einem Freund ein Wochenende nach Prag fahren. Schreiben Sie ihm.",
+  "p": [
+   "Wann möchten Sie fahren?",
+   "Wie kommen Sie hin?",
+   "Wo übernachten Sie?",
+   "Was möchten Sie dort machen?"
+  ],
+  "ru": "Предложите другу выходные в Праге: когда, как добраться, где ночевать, что делать.",
+  "w": 80,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Hallo Dmitrij,\n\nhast du Lust, mit mir ein Wochenende nach Prag zu fahren? Ich dachte an das letzte Wochenende im Mai.\n\nWir könnten mit dem Fernbus fahren, das dauert nur zwei Stunden und kostet etwa 20 Euro.\n\nIch habe eine günstige Pension in der Altstadt gefunden, ein Doppelzimmer kostet 60 Euro pro Nacht.\n\nIn Prag möchte ich gern die Karlsbrücke und die Burg sehen und abends typisch tschechisch essen gehen. Was meinst du?\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "b1-brief-vermieter-renovierung",
+  "lv": "B1",
+  "t": "Frage an den Vermieter: Renovierung",
+  "s": "Sie möchten das Kinderzimmer streichen und neue Regale an die Wand schrauben. Fragen Sie Ihren Vermieter.",
+  "p": [
+   "Was möchten Sie machen?",
+   "Warum?",
+   "Fragen Sie nach der Erlaubnis.",
+   "Was passiert beim Auszug?"
+  ],
+  "ru": "Спросите арендодателя о покраске детской и полках на стене: что хотите, почему, разрешение, что при выезде.",
+  "w": 80,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrter Herr Wolf,\n\nich möchte gern das Kinderzimmer meiner Tochter hellgrün streichen und zwei Regale an die Wand schrauben.\n\nMeine Tochter wird bald sechs und braucht mehr Platz für ihre Bücher und Spielsachen.\n\nIst das für Sie in Ordnung? Ich würde die Arbeiten von einem Fachmann machen lassen.\n\nBeim Auszug würde ich die Wand natürlich wieder weiß streichen und die Löcher schließen.\n\nIch freue mich auf Ihre Antwort.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "b1-erzaehlen-hobby",
+  "lv": "B1",
+  "t": "Mein Hobby",
+  "s": "Schreiben Sie für die Kurszeitung über Ihr Hobby.",
+  "p": [
+   "Was ist Ihr Hobby?",
+   "Seit wann?",
+   "Warum macht es Ihnen Spaß?",
+   "Möchten Sie andere einladen?"
+  ],
+  "ru": "Текст для газеты курса о вашем хобби: что это, с каких пор, почему нравится, пригласите других.",
+  "w": 80,
+  "rm": [
+   "Zuerst …, dann …, danach …",
+   "Am Anfang …",
+   "Besonders schön / schwierig war, dass …",
+   "Zum Schluss …"
+  ],
+  "m": "Mein großes Hobby ist Nähen. Ich nähe seit meiner Kindheit, meine Großmutter hat es mir beigebracht.\n\nHier in Deutschland habe ich mir eine gebrauchte Nähmaschine gekauft. Ich nähe Kleider für meine Tochter, Kissen und manchmal Taschen als Geschenk.\n\nEs macht mir Spaß, weil ich kreativ sein kann und am Ende etwas in der Hand habe. Beim Nähen kann ich mich auch gut entspannen.\n\nIm Nachbarschaftszentrum gibt es jeden Donnerstag ein Nähcafé. Wer Lust hat, kann gern mitkommen. Ich zeige euch gern die ersten Schritte!"
+ }
+]

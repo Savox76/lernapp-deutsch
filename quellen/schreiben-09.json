@@ -1,0 +1,522 @@
+[
+ {
+  "id": "a2-postkarte-urlaub",
+  "lv": "A2",
+  "t": "Postkarte aus dem Urlaub",
+  "s": "Sie sind im Urlaub an der Ostsee. Schreiben Sie eine Postkarte an Ihre Kollegin.",
+  "p": [
+   "Wo sind Sie?",
+   "Wie ist das Wetter?",
+   "Was machen Sie jeden Tag?",
+   "Wann kommen Sie zurück?"
+  ],
+  "ru": "Открытка коллеге из отпуска: где вы, погода, что делаете, когда вернётесь.",
+  "w": 40,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Liebe Sabine,\n\nviele Grüße von der Ostsee! Wir sind in Warnemünde. Das Wetter ist super, jeden Tag scheint die Sonne. Wir gehen schwimmen und essen viel Fisch. Am Samstag komme ich zurück. Bis Montag!\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "a2-nachbar-paket",
+  "lv": "A2",
+  "t": "Zettel für den Nachbarn",
+  "s": "Sie erwarten ein Paket, sind aber nicht zu Hause. Schreiben Sie einen Zettel für Ihren Nachbarn.",
+  "p": [
+   "Warum schreiben Sie?",
+   "Was soll er tun?",
+   "Wann holen Sie das Paket ab?"
+  ],
+  "ru": "Записка соседу: вы ждёте посылку, но вас не будет дома. Почему пишете, что сделать, когда заберёте.",
+  "w": 40,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Lieber Herr Klein,\n\nheute kommt ein Paket für mich, aber ich bin bei der Arbeit. Können Sie es bitte annehmen? Ich hole es heute Abend um 19 Uhr bei Ihnen ab. Vielen Dank!\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "a2-einladung-geburtstag",
+  "lv": "A2",
+  "t": "Einladung zum Kindergeburtstag",
+  "s": "Ihr Sohn wird sieben. Schreiben Sie eine Einladung an die Eltern seines Freundes.",
+  "p": [
+   "Wann und wo ist die Feier?",
+   "Was machen die Kinder?",
+   "Bis wann soll man antworten?"
+  ],
+  "ru": "Приглашение на день рождения сына (7 лет) родителям его друга: когда и где, что будут делать дети, до когда ответить.",
+  "w": 40,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Liebe Familie Neumann,\n\nunser Sohn Daniel wird sieben Jahre alt. Wir feiern am Samstag von 15 bis 18 Uhr bei uns zu Hause, Gartenstraße 5. Die Kinder spielen im Garten und essen Kuchen. Kann Paul kommen? Bitte antworten Sie bis Mittwoch.\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "a2-absage-kurs",
+  "lv": "A2",
+  "t": "Absage an die Kursleiterin",
+  "s": "Sie können morgen nicht zum Deutschkurs kommen. Schreiben Sie Ihrer Kursleiterin eine Nachricht.",
+  "p": [
+   "Warum können Sie nicht kommen?",
+   "Bitten Sie um die Hausaufgaben.",
+   "Wann kommen Sie wieder?"
+  ],
+  "ru": "Сообщение преподавательнице: завтра не придёте на курс. Почему, попросите домашнее задание, когда снова придёте.",
+  "w": 40,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Liebe Frau Lange,\n\nmorgen kann ich leider nicht zum Kurs kommen. Meine Tochter ist krank und ich muss zu Hause bleiben. Können Sie mir bitte die Hausaufgaben schicken? Am Donnerstag komme ich wieder.\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "a2-kollege-hilfe",
+  "lv": "A2",
+  "t": "Nachricht an einen Kollegen",
+  "s": "Sie brauchen am Samstag Hilfe beim Umzug. Schreiben Sie einem Kollegen.",
+  "p": [
+   "Was ist am Samstag?",
+   "Wobei brauchen Sie Hilfe?",
+   "Was bieten Sie an?"
+  ],
+  "ru": "Сообщение коллеге: в субботу нужна помощь с переездом. Что в субботу, с чем помочь, что вы предложите.",
+  "w": 40,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Hallo Marek,\n\nam Samstag ziehe ich in eine neue Wohnung. Kannst du mir helfen? Ich brauche Hilfe, das Sofa und den Schrank zu tragen. Wir fangen um 9 Uhr an. Mittags gibt es Pizza für alle!\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "a2-vermieter-licht",
+  "lv": "A2",
+  "t": "Kurze E-Mail an die Hausverwaltung",
+  "s": "Im Keller funktioniert das Licht nicht. Schreiben Sie eine kurze E-Mail an die Hausverwaltung.",
+  "p": [
+   "Was ist kaputt?",
+   "Seit wann?",
+   "Was soll die Hausverwaltung tun?"
+  ],
+  "ru": "Короткое письмо управляющей: в подвале не работает свет. Что сломано, с каких пор, что сделать.",
+  "w": 40,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nim Keller im Haus Lindenweg 3 funktioniert das Licht nicht. Das Problem gibt es seit Montag. Es ist sehr dunkel und gefährlich. Bitte schicken Sie einen Elektriker.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "a2-freundin-kino",
+  "lv": "A2",
+  "t": "Ins Kino gehen",
+  "s": "Sie möchten mit einer Freundin ins Kino gehen. Schreiben Sie ihr eine Nachricht.",
+  "p": [
+   "Welcher Film?",
+   "Wann?",
+   "Wo treffen Sie sich?"
+  ],
+  "ru": "Пригласите подругу в кино: какой фильм, когда, где встретитесь.",
+  "w": 40,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Hallo Nina,\n\nhast du am Freitag Zeit? Ich möchte mit dir ins Kino gehen. Es gibt einen neuen Film mit Til Schweiger, eine Komödie. Der Film beginnt um 20 Uhr. Wir treffen uns um 19:45 Uhr vor dem Kino.\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "a2-arzt-termin-absagen",
+  "lv": "A2",
+  "t": "Arzttermin absagen",
+  "s": "Sie haben morgen einen Termin beim Augenarzt, können aber nicht kommen. Schreiben Sie eine E-Mail an die Praxis.",
+  "p": [
+   "Welcher Termin?",
+   "Warum können Sie nicht?",
+   "Bitten Sie um einen neuen Termin."
+  ],
+  "ru": "Отмените приём у окулиста: какой приём, почему, попросите новый.",
+  "w": 40,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nich habe morgen um 10 Uhr einen Termin bei Dr. Roth. Leider kann ich nicht kommen, weil ich arbeiten muss. Können Sie mir bitte einen neuen Termin geben? Am besten am Nachmittag.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "a2-danke-nachbarin",
+  "lv": "A2",
+  "t": "Danke an die Nachbarin",
+  "s": "Ihre Nachbarin hat während Ihres Urlaubs die Blumen gegossen. Schreiben Sie ihr eine Karte.",
+  "p": [
+   "Bedanken Sie sich.",
+   "Wie war der Urlaub?",
+   "Laden Sie sie ein."
+  ],
+  "ru": "Открытка соседке, которая поливала цветы во время отпуска: поблагодарите, расскажите об отпуске, пригласите.",
+  "w": 40,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Liebe Frau Weber,\n\nvielen Dank, dass Sie meine Blumen gegossen haben! Der Urlaub in Polen war sehr schön, wir haben meine Eltern besucht. Ich möchte Sie am Sonntag zum Kaffee einladen. Ich backe einen Kuchen.\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "a2-sportverein-frage",
+  "lv": "A2",
+  "t": "Frage an den Sportverein",
+  "s": "Ihr Sohn möchte Fußball spielen. Schreiben Sie eine E-Mail an den Sportverein.",
+  "p": [
+   "Wie alt ist Ihr Sohn?",
+   "Fragen Sie nach dem Training.",
+   "Fragen Sie nach den Kosten."
+  ],
+  "ru": "Письмо в спортклуб: сын хочет играть в футбол. Возраст, спросите о тренировках и стоимости.",
+  "w": 40,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nmein Sohn ist neun Jahre alt und möchte gern Fußball spielen. Wann trainieren die Kinder in seinem Alter? Was kostet die Mitgliedschaft im Monat? Vielen Dank für Ihre Antwort.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "a2-chef-spaeter",
+  "lv": "A2",
+  "t": "Nachricht an den Chef",
+  "s": "Sie kommen morgen später zur Arbeit. Schreiben Sie Ihrem Chef eine Nachricht.",
+  "p": [
+   "Wann kommen Sie?",
+   "Warum?",
+   "Wann arbeiten Sie die Zeit nach?"
+  ],
+  "ru": "Сообщение начальнику: завтра придёте позже. Когда, почему, когда отработаете.",
+  "w": 40,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrter Herr Fischer,\n\nmorgen komme ich erst um 10 Uhr zur Arbeit. Ich habe am Morgen einen Termin beim Bürgeramt. Die zwei Stunden arbeite ich am Donnerstag nach.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "a2-tagebuch-wochenende",
+  "lv": "A2",
+  "t": "Mein Wochenende",
+  "s": "Schreiben Sie einen kurzen Text für den Deutschkurs: Was haben Sie am Wochenende gemacht?",
+  "p": [
+   "Was haben Sie am Samstag gemacht?",
+   "Was haben Sie am Sonntag gemacht?",
+   "Was war am schönsten?"
+  ],
+  "ru": "Короткий текст для курса: что вы делали в выходные? Суббота, воскресенье, что было лучше всего.",
+  "w": 40,
+  "rm": [
+   "Zuerst …, dann …, danach …",
+   "Am Anfang …",
+   "Besonders schön / schwierig war, dass …",
+   "Zum Schluss …"
+  ],
+  "m": "Am Samstag habe ich zuerst eingekauft. Danach habe ich die Wohnung geputzt. Am Abend haben wir Freunde besucht.\n\nAm Sonntag sind wir in den Park gegangen und haben ein Picknick gemacht. Am schönsten war das Picknick, weil die Sonne geschienen hat."
+ },
+ {
+  "id": "a2-kita-ausflug",
+  "lv": "A2",
+  "t": "Antwort an die Kita",
+  "s": "Die Kita macht einen Ausflug und fragt, ob Eltern mitkommen können. Antworten Sie.",
+  "p": [
+   "Können Sie mitkommen?",
+   "Was können Sie mitbringen?",
+   "Stellen Sie eine Frage."
+  ],
+  "ru": "Детский сад спрашивает, могут ли родители поехать на экскурсию. Ответьте: можете ли вы, что принесёте, вопрос.",
+  "w": 40,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Liebe Frau Schulz,\n\nich kann gern beim Ausflug am Freitag mitkommen. Ich bringe Obst für alle Kinder mit. Wann sind wir wieder zurück in der Kita? Ich muss am Nachmittag arbeiten.\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "a2-wohnungssuche-anzeige",
+  "lv": "A2",
+  "t": "Suchanzeige: Wohnung",
+  "s": "Sie suchen eine Wohnung. Schreiben Sie eine kurze Anzeige für das Schwarze Brett.",
+  "p": [
+   "Wer sind Sie?",
+   "Was für eine Wohnung suchen Sie?",
+   "Wie kann man Sie erreichen?"
+  ],
+  "ru": "Короткое объявление о поиске квартиры: кто вы, какую квартиру ищете, как связаться.",
+  "w": 40,
+  "rm": [
+   "Wir suchen …",
+   "Wir sind …",
+   "Die Miete soll höchstens … kosten.",
+   "Bitte rufen Sie an: …"
+  ],
+  "m": "Familie sucht Wohnung!\n\nWir sind eine Familie mit zwei Kindern und suchen eine Dreizimmerwohnung in Pieschen oder Mickten. Die Miete soll höchstens 800 Euro warm kosten. Ein Balkon wäre schön.\n\nBitte rufen Sie an: 0176 1234567 (Olga)"
+ },
+ {
+  "id": "a2-entschuldigung-schule",
+  "lv": "A2",
+  "t": "Entschuldigung für die Schule",
+  "s": "Ihre Tochter war zwei Tage krank. Schreiben Sie eine Entschuldigung für die Lehrerin.",
+  "p": [
+   "Wer hat gefehlt?",
+   "Wann und warum?",
+   "Unterschrift"
+  ],
+  "ru": "Записка в школу: дочь болела два дня. Кто отсутствовал, когда и почему, подпись.",
+  "w": 40,
+  "rm": [
+   "Sehr geehrte Frau …,",
+   "meine Tochter … konnte am … nicht …",
+   "weil sie … hatte.",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrte Frau Koch,\n\nmeine Tochter Anna aus der Klasse 3b konnte am Montag und Dienstag nicht in die Schule kommen, weil sie Fieber hatte. Jetzt geht es ihr wieder gut.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "a2-einkaufsliste-mitbewohner",
+  "lv": "A2",
+  "t": "Nachricht an die Mitbewohnerin",
+  "s": "Sie wohnen in einer WG. Schreiben Sie Ihrer Mitbewohnerin, was sie einkaufen soll.",
+  "p": [
+   "Was fehlt?",
+   "Wo soll sie einkaufen?",
+   "Wie bezahlen Sie?"
+  ],
+  "ru": "Сообщение соседке по квартире: что купить, где, как рассчитаетесь.",
+  "w": 40,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Hallo Lisa,\n\nwir haben keine Milch, kein Brot und keinen Kaffee mehr. Kannst du heute nach der Uni einkaufen? Der Supermarkt an der Ecke hat bis 22 Uhr offen. Ich gebe dir das Geld heute Abend zurück.\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "a2-hotel-anfrage",
+  "lv": "A2",
+  "t": "Anfrage an ein Hotel",
+  "s": "Sie möchten ein Hotelzimmer reservieren. Schreiben Sie eine E-Mail.",
+  "p": [
+   "Wann und wie lange?",
+   "Für wie viele Personen?",
+   "Fragen Sie nach dem Preis."
+  ],
+  "ru": "Запрос в отель: когда и на сколько, на сколько человек, спросите цену.",
+  "w": 40,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nich möchte vom 10. bis 12. Juli ein Zimmer für zwei Erwachsene und ein Kind reservieren. Was kostet das Zimmer pro Nacht mit Frühstück? Gibt es einen Parkplatz?\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "a2-feier-zusage",
+  "lv": "A2",
+  "t": "Zusage zur Feier",
+  "s": "Ihr Kollege lädt Sie zu seiner Hochzeit ein. Antworten Sie ihm.",
+  "p": [
+   "Bedanken Sie sich.",
+   "Sagen Sie zu.",
+   "Fragen Sie nach einem Geschenkwunsch."
+  ],
+  "ru": "Коллега приглашает на свадьбу. Поблагодарите, подтвердите, спросите о желаемом подарке.",
+  "w": 40,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Lieber Tobias,\n\nvielen Dank für die Einladung zu eurer Hochzeit! Ich komme sehr gern, mein Mann kommt auch mit. Habt ihr einen Wunsch für ein Geschenk? Ich freue mich schon sehr auf das Fest!\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "a2-mein-stadtteil",
+  "lv": "A2",
+  "t": "Mein Stadtteil",
+  "s": "Schreiben Sie einen kurzen Text über Ihren Stadtteil.",
+  "p": [
+   "Wo wohnen Sie?",
+   "Was gibt es dort?",
+   "Was gefällt Ihnen, was nicht?"
+  ],
+  "ru": "Короткий текст о вашем районе: где живёте, что там есть, что нравится и что нет.",
+  "w": 40,
+  "rm": [
+   "Zuerst …, dann …, danach …",
+   "Am Anfang …",
+   "Besonders schön / schwierig war, dass …",
+   "Zum Schluss …"
+  ],
+  "m": "Ich wohne in Gorbitz, im Westen von Dresden. Hier gibt es viele Geschäfte, eine Schule und einen Park. Mit der Straßenbahn bin ich schnell in der Stadt.\n\nMir gefällt, dass es hier viele Spielplätze gibt. Nicht so gut finde ich, dass die Häuser sehr groß und grau sind."
+ },
+ {
+  "id": "a2-reparatur-fahrrad",
+  "lv": "A2",
+  "t": "Nachricht an die Werkstatt",
+  "s": "Ihr Fahrrad ist in der Werkstatt. Sie möchten wissen, wann es fertig ist. Schreiben Sie eine E-Mail.",
+  "p": [
+   "Wann haben Sie das Fahrrad gebracht?",
+   "Was war kaputt?",
+   "Fragen Sie, wann es fertig ist."
+  ],
+  "ru": "Письмо в мастерскую: когда сдали велосипед, что было сломано, когда будет готов.",
+  "w": 40,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nich habe am Montag mein rotes Fahrrad zu Ihnen gebracht. Die Bremse war kaputt. Wann ist das Fahrrad fertig? Ich brauche es jeden Tag für die Arbeit.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "a2-neue-kollegin-willkommen",
+  "lv": "A2",
+  "t": "Willkommen im Team",
+  "s": "Eine neue Kollegin beginnt morgen. Schreiben Sie ihr eine kurze Willkommensnachricht.",
+  "p": [
+   "Begrüßen Sie sie.",
+   "Wann und wo treffen Sie sich?",
+   "Was soll sie mitbringen?"
+  ],
+  "ru": "Новая коллега начинает завтра. Короткое приветствие: поздоровайтесь, когда и где встретитесь, что взять.",
+  "w": 40,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Liebe Frau Petrova,\n\nherzlich willkommen in unserem Team! Wir treffen uns morgen um 8 Uhr am Empfang. Ich zeige Ihnen dann alles. Bitte bringen Sie Ihre Steuer-ID und Ihre Bankverbindung mit.\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "a2-tauschen-schicht",
+  "lv": "A2",
+  "t": "Schicht tauschen",
+  "s": "Sie möchten am Freitag nicht arbeiten. Schreiben Sie einer Kollegin.",
+  "p": [
+   "Fragen Sie, ob sie tauscht.",
+   "Warum?",
+   "Was bieten Sie an?"
+  ],
+  "ru": "Попросите коллегу поменяться сменой в пятницу: почему, что взамен.",
+  "w": 40,
+  "rm": [
+   "Liebe … / Lieber …,",
+   "wie geht es dir?",
+   "Ich möchte dir erzählen, dass …",
+   "Hast du Lust, …?",
+   "Viele Grüße"
+  ],
+  "m": "Hallo Tanja,\n\nkannst du am Freitag meine Frühschicht übernehmen? Ich habe einen wichtigen Termin beim Jobcenter. Ich übernehme dafür deine Schicht am Montag. Schreib mir bitte bis morgen.\n\nViele Grüße\nOlga"
+ },
+ {
+  "id": "a2-meine-familie",
+  "lv": "A2",
+  "t": "Meine Familie",
+  "s": "Schreiben Sie einen kurzen Text über Ihre Familie.",
+  "p": [
+   "Wer gehört zu Ihrer Familie?",
+   "Wo wohnen Ihre Verwandten?",
+   "Was machen Sie zusammen?"
+  ],
+  "ru": "Короткий текст о семье: кто в семье, где живут родственники, что делаете вместе.",
+  "w": 40,
+  "rm": [
+   "Zuerst …, dann …, danach …",
+   "Am Anfang …",
+   "Besonders schön / schwierig war, dass …",
+   "Zum Schluss …"
+  ],
+  "m": "Meine Familie ist nicht sehr groß. Ich wohne mit meinem Mann und unseren zwei Kindern in Dresden. Meine Eltern und meine Schwester wohnen in Kasachstan.\n\nAm Wochenende fahren wir oft zusammen Fahrrad. Mit meinen Eltern telefoniere ich jeden Sonntag."
+ },
+ {
+  "id": "a2-reklamation-online",
+  "lv": "A2",
+  "t": "Falscher Artikel",
+  "s": "Sie haben online eine Jacke bestellt und die falsche Größe bekommen. Schreiben Sie dem Shop.",
+  "p": [
+   "Was haben Sie bestellt?",
+   "Was ist falsch?",
+   "Was möchten Sie?"
+  ],
+  "ru": "Вы заказали куртку онлайн и получили не тот размер. Что заказали, что не так, чего хотите.",
+  "w": 40,
+  "rm": [
+   "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+   "ich schreibe Ihnen, weil …",
+   "Könnten Sie bitte …?",
+   "Ich würde mich freuen, wenn …",
+   "Mit freundlichen Grüßen"
+  ],
+  "m": "Sehr geehrte Damen und Herren,\n\nich habe am 3. März eine schwarze Jacke in Größe M bestellt, Bestellnummer 44812. Leider habe ich Größe XL bekommen. Bitte schicken Sie mir die Jacke in Größe M.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+ },
+ {
+  "id": "a2-kurs-feedback",
+  "lv": "A2",
+  "t": "Mein Deutschkurs",
+  "s": "Schreiben Sie einen kurzen Text: Wie gefällt Ihnen Ihr Deutschkurs?",
+  "p": [
+   "Wo und wann ist der Kurs?",
+   "Was gefällt Ihnen?",
+   "Was ist schwer?"
+  ],
+  "ru": "Короткий текст: как вам курс немецкого? Где и когда, что нравится, что трудно.",
+  "w": 40,
+  "rm": [
+   "Zuerst …, dann …, danach …",
+   "Am Anfang …",
+   "Besonders schön / schwierig war, dass …",
+   "Zum Schluss …"
+  ],
+  "m": "Mein Deutschkurs ist an der Volkshochschule, von Montag bis Freitag am Vormittag. Die Lehrerin ist sehr nett und erklärt alles gut. Mir gefällt, dass wir viel sprechen.\n\nSchwer sind für mich die Artikel und die Präpositionen. Aber ich lerne jeden Tag mit einer App."
+ }
+]
