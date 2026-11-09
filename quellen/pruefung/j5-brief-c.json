@@ -1,0 +1,29 @@
+{
+ "brief": [
+  {
+   "id": "bj66",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Zahnarzt: Rechnung unklar",
+   "situation": "Sie haben eine Rechnung vom Zahnarzt bekommen und verstehen sie nicht. Schreiben Sie an die Praxis.",
+   "punkte": [
+    "Welche Rechnung?",
+    "Was verstehen Sie nicht?",
+    "Was hat man Ihnen vorher gesagt?",
+    "Bitten Sie um eine Erklärung."
+   ],
+   "ru": "Вам пришёл непонятный счёт от стоматолога. Какой счёт, что непонятно, что вам говорили раньше, попросите объяснить.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nich habe Ihre Rechnung vom 12. Februar über 180 Euro bekommen. Die Rechnungsnummer ist 2024-118.\n\nIch verstehe nicht, wofür ich 180 Euro bezahlen soll. Auf der Rechnung steht nur „Zusatzleistung“.\n\nBei meinem Termin hat man mir gesagt, dass die Füllung von der Krankenkasse bezahlt wird.\n\nBitte erklären Sie mir, welche Leistung das genau war, bevor ich die Rechnung bezahle.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  }
+ ]
+}

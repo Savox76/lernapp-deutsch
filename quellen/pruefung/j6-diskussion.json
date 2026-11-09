@@ -1,0 +1,1044 @@
+{
+ "diskussion": [
+  {
+   "id": "dj01",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kantine oder Essensgutscheine?",
+   "thema": "Soll die Firma statt der Kantine Essensgutscheine geben?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Ich finde Gutscheine besser. Dann kann jeder essen, wo er will.",
+     "o": [
+      "Das kann ich nachvollziehen. Allerdings ist die Kantine ein wichtiger Treffpunkt für das Team, und dort kann man sich in der Pause austauschen.",
+      "Mir egal.",
+      "Ja."
+     ],
+     "r": 0,
+     "e": "Teilweise zustimmen, ein Gegenargument nennen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Aber das Essen in der Kantine schmeckt doch nicht.",
+     "o": [
+      "Ein Kompromiss wäre, die Kantine zu behalten, aber das Essen zu verbessern, zum Beispiel mit einer Umfrage. Wer nicht dort isst, könnte einen kleinen Zuschuss bekommen.",
+      "Dann gehe ich nicht.",
+      "Stimmt nicht."
+     ],
+     "r": 0,
+     "e": "Kompromiss vorschlagen."
+    }
+   ],
+   "m": "Kantine behalten als Treffpunkt, Essen mit Umfrage verbessern, Zuschuss für die, die nicht dort essen."
+  },
+  {
+   "id": "dj02",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Rauchpausen",
+   "thema": "Sollten Raucher extra Pausen bekommen?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Raucher machen fünfmal am Tag Pause. Das ist unfair.",
+     "o": [
+      "Da hast du nicht ganz unrecht. Ich bin der Meinung, dass für alle die gleichen Pausenzeiten gelten sollten, egal ob man raucht oder nicht.",
+      "Rauchen ist schlecht.",
+      "Ich rauche nicht."
+     ],
+     "r": 0,
+     "e": "Zustimmen und eine klare Meinung sagen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Aber man kann Rauchern das Rauchen nicht verbieten.",
+     "o": [
+      "Das stimmt. Ein Kompromiss wäre, dass Raucherpausen von der Arbeitszeit abgezogen werden. Nichtraucher könnten sich in dieser Zeit auch kurz die Beine vertreten.",
+      "Doch.",
+      "Ist egal."
+     ],
+     "r": 0,
+     "e": "Kompromiss, der für beide fair ist."
+    }
+   ],
+   "m": "Gleiche Regeln für alle: Raucherpausen werden ausgestempelt, auch Nichtraucher dürfen kurze Pausen machen."
+  },
+  {
+   "id": "dj03",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Feste Schreibtische",
+   "thema": "Sollte jeder Mitarbeiter einen festen Schreibtisch haben?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Ohne festen Platz fühle ich mich nicht wohl. Ich brauche meine Fotos und Pflanzen.",
+     "o": [
+      "Das kann ich verstehen. Andererseits sind viele Tische leer, weil Kollegen im Homeoffice sind. Die Firma könnte Platz und Geld sparen.",
+      "Fotos sind unwichtig.",
+      "Nein."
+     ],
+     "r": 0,
+     "e": "Verständnis zeigen und Gegenargument nennen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Und wo lasse ich dann meine Sachen?",
+     "o": [
+      "Jeder könnte ein Schließfach bekommen. Außerdem könnten Mitarbeiter, die immer im Büro sind, einen festen Platz behalten. Das wäre ein guter Kompromiss.",
+      "Zu Hause.",
+      "Weiß nicht."
+     ],
+     "r": 0,
+     "e": "Lösung und Kompromiss."
+    }
+   ],
+   "m": "Flexible Plätze für Homeoffice-Kollegen mit Schließfächern; wer immer im Büro ist, behält einen festen Platz."
+  },
+  {
+   "id": "dj04",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Überstunden auszahlen",
+   "thema": "Sollten Überstunden ausgezahlt oder mit Freizeit ausgeglichen werden?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Ich will das Geld. Freizeit habe ich genug.",
+     "o": [
+      "Für manche ist Geld wichtiger, das verstehe ich. Aber zu viele Überstunden machen auf Dauer krank. Freizeit hilft, sich zu erholen.",
+      "Geld ist alles.",
+      "Mir auch."
+     ],
+     "r": 0,
+     "e": "Andere Sicht respektieren, Gesundheitsargument."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Dann soll jeder selbst entscheiden.",
+     "o": [
+      "Da stimme ich zu. Ich schlage vor, dass jeder wählen kann, aber nur bis zu einer bestimmten Zahl von Stunden. Danach muss man frei nehmen.",
+      "Nein.",
+      "Gut."
+     ],
+     "r": 0,
+     "e": "Zustimmen und Regel ergänzen."
+    }
+   ],
+   "m": "Jeder wählt selbst zwischen Geld und Freizeit, aber mit einer Grenze, damit niemand zu viel arbeitet."
+  },
+  {
+   "id": "dj05",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teamevent am Wochenende",
+   "thema": "Sollte das jährliche Teamevent am Wochenende stattfinden?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Am Wochenende haben alle Zeit, und wir verlieren keine Arbeitszeit.",
+     "o": [
+      "Das stimmt, aber das Wochenende ist für viele Familienzeit. Ich bin der Meinung, dass ein Teamevent während der Arbeitszeit stattfinden sollte, dann kommen auch alle.",
+      "Ich komme nicht.",
+      "Ok."
+     ],
+     "r": 0,
+     "e": "Gegenargument mit Begründung."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Aber dann ist ein Tag die Firma geschlossen.",
+     "o": [
+      "Wir könnten einen Freitagnachmittag nehmen. Dann ist die Firma am Vormittag offen, und das Event beginnt um 13 Uhr. Das wäre ein Kompromiss.",
+      "Egal.",
+      "Dann eben nicht."
+     ],
+     "r": 0,
+     "e": "Konkreter Kompromiss."
+    }
+   ],
+   "m": "Teamevent an einem Freitagnachmittag: Vormittag normale Arbeit, ab 13 Uhr gemeinsames Programm."
+  },
+  {
+   "id": "dj06",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Musik bei der Arbeit",
+   "thema": "Darf man bei der Arbeit Musik hören?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Mit Musik arbeite ich viel schneller.",
+     "o": [
+      "Das glaube ich dir. Aber im Großraumbüro stört Musik schnell andere Kollegen. Mit Kopfhörern wäre es kein Problem.",
+      "Musik ist laut.",
+      "Ich auch."
+     ],
+     "r": 0,
+     "e": "Bedingung nennen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Aber mit Kopfhörern höre ich das Telefon nicht.",
+     "o": [
+      "Dann könntest du nur einen Ohrhörer benutzen oder die Musik leise stellen. In der Produktion ist es wegen der Sicherheit aber verboten, da muss man alles hören.",
+      "Dann kein Telefon.",
+      "Pech."
+     ],
+     "r": 0,
+     "e": "Lösung und Ausnahme nennen."
+    }
+   ],
+   "m": "Musik mit Kopfhörern oder leise im Büro erlaubt; an Maschinen aus Sicherheitsgründen nicht."
+  },
+  {
+   "id": "dj07",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Weihnachtsgeld oder mehr Urlaub",
+   "thema": "Was ist besser: Weihnachtsgeld oder zusätzliche Urlaubstage?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Ich hätte lieber drei Tage mehr Urlaub als Geld.",
+     "o": [
+      "Das kann ich gut verstehen, besonders mit Kindern. Für Kollegen mit wenig Lohn ist das Weihnachtsgeld aber sehr wichtig für die Geschenke und Rechnungen.",
+      "Geld ist besser.",
+      "Ich auch."
+     ],
+     "r": 0,
+     "e": "Beide Seiten sehen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Die Firma kann aber nicht beides geben.",
+     "o": [
+      "Ein Kompromiss wäre, dass jeder wählen kann: entweder das Weihnachtsgeld oder drei zusätzliche Tage. So ist jeder zufrieden.",
+      "Dann nichts.",
+      "Schade."
+     ],
+     "r": 0,
+     "e": "Wahlmöglichkeit vorschlagen."
+    }
+   ],
+   "m": "Jeder Mitarbeiter wählt zwischen Weihnachtsgeld und drei zusätzlichen Urlaubstagen."
+  },
+  {
+   "id": "dj08",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Arbeit am Samstag",
+   "thema": "Sollte das Geschäft auch samstags länger offen haben?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Viele Kunden haben nur am Samstag Zeit. Wir verlieren Umsatz.",
+     "o": [
+      "Das ist ein wichtiges Argument. Allerdings möchten die Mitarbeiter auch Zeit mit ihren Familien verbringen. Man müsste genug Personal haben.",
+      "Ich will nicht arbeiten.",
+      "Ja, länger."
+     ],
+     "r": 0,
+     "e": "Argument anerkennen, Bedenken nennen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Wir könnten Aushilfen für den Samstag einstellen.",
+     "o": [
+      "Das wäre eine gute Lösung. Außerdem sollte es für die festen Mitarbeiter einen Zuschlag geben und jeder höchstens zwei Samstage im Monat arbeiten.",
+      "Aushilfen sind schlecht.",
+      "Weiß nicht."
+     ],
+     "r": 0,
+     "e": "Vorschlag unterstützen und ergänzen."
+    }
+   ],
+   "m": "Längere Öffnung am Samstag mit Aushilfen; feste Mitarbeiter höchstens zwei Samstage im Monat mit Zuschlag."
+  },
+  {
+   "id": "dj09",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Lob und Kritik",
+   "thema": "Sollten Mitarbeiter ihren Chef jedes Jahr bewerten?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Wenn wir den Chef bewerten, traut sich niemand, ehrlich zu sein.",
+     "o": [
+      "Das kann sein. Deshalb sollte die Bewertung anonym sein. Ich bin der Meinung, dass auch ein Chef Rückmeldung braucht, um besser zu werden.",
+      "Chefs sind immer gut.",
+      "Ja, stimmt."
+     ],
+     "r": 0,
+     "e": "Bedenken aufnehmen und Lösung."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Und was passiert mit den Ergebnissen?",
+     "o": [
+      "Die Ergebnisse sollten im Team besprochen werden, und der Chef sollte konkrete Ziele für das nächste Jahr festlegen. Sonst ist die Bewertung nutzlos.",
+      "Nichts.",
+      "Die liest keiner."
+     ],
+     "r": 0,
+     "e": "Konkretes Vorgehen vorschlagen."
+    }
+   ],
+   "m": "Anonyme jährliche Chef-Bewertung, Ergebnisse im Team besprechen und konkrete Ziele ableiten."
+  },
+  {
+   "id": "dj10",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Schulungen online oder vor Ort",
+   "thema": "Sollten Schulungen nur noch online stattfinden?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Online-Schulungen sparen Fahrtzeit und Kosten.",
+     "o": [
+      "Das stimmt. Andererseits lernt man vor Ort oft besser, weil man direkt Fragen stellen und praktisch üben kann.",
+      "Online ist langweilig.",
+      "Ja."
+     ],
+     "r": 0,
+     "e": "Vorteil anerkennen, Gegenargument."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Dann machen wir es je nach Thema unterschiedlich?",
+     "o": [
+      "Genau. Theorie und kurze Infos online, praktische Themen wie Erste Hilfe oder Maschinen vor Ort. Das wäre für mich der beste Kompromiss.",
+      "Nein.",
+      "Wie du willst."
+     ],
+     "r": 0,
+     "e": "Kompromiss formulieren."
+    }
+   ],
+   "m": "Theorie online, praktische Schulungen wie Erste Hilfe vor Ort."
+  },
+  {
+   "id": "dj11",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kleidung im Büro",
+   "thema": "Sollten im Büro Jeans und T-Shirts erlaubt sein?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Im Büro sollte man sich ordentlich anziehen. Jeans sehen nicht professionell aus.",
+     "o": [
+      "Da muss ich widersprechen. Viele Leute arbeiten besser, wenn sie sich wohlfühlen. Saubere Jeans können auch ordentlich aussehen.",
+      "Jeans sind schön.",
+      "Stimmt."
+     ],
+     "r": 0,
+     "e": "Höflich widersprechen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Und wenn ein Kunde kommt?",
+     "o": [
+      "Für Kundentermine kann man sich ja etwas eleganter anziehen. Ein Kompromiss wäre: im Alltag bequem, bei Terminen mit Kunden formell.",
+      "Dann sieht er die Jeans.",
+      "Egal."
+     ],
+     "r": 0,
+     "e": "Situationsabhängige Regel."
+    }
+   ],
+   "m": "Bequeme, saubere Kleidung im Alltag, formelle Kleidung bei Kundenterminen."
+  },
+  {
+   "id": "dj12",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Handys in Besprechungen",
+   "thema": "Sollten Handys in Besprechungen verboten sein?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Ständig schaut jemand aufs Handy. Das ist unhöflich.",
+     "o": [
+      "Ich stimme dir zu, das stört die Besprechung. Aber manche müssen erreichbar sein, zum Beispiel wenn sie auf einen wichtigen Kundenanruf warten.",
+      "Ich auch nicht.",
+      "Handys sind wichtig."
+     ],
+     "r": 0,
+     "e": "Zustimmen und Ausnahme nennen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Was schlägst du vor?",
+     "o": [
+      "Ich schlage vor, dass alle Handys stumm sind und auf dem Tisch nach unten liegen. Wer dringend telefonieren muss, geht kurz raus.",
+      "Wegwerfen.",
+      "Nichts."
+     ],
+     "r": 0,
+     "e": "Konkreter Vorschlag."
+    }
+   ],
+   "m": "Handys stumm und umgedreht; wer dringend telefonieren muss, verlässt kurz den Raum."
+  },
+  {
+   "id": "dj13",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gehaltsunterschiede",
+   "thema": "Sollten neue Mitarbeiter genauso viel verdienen wie erfahrene?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Neue Kollegen müssen erst zeigen, was sie können. Sie sollten weniger bekommen.",
+     "o": [
+      "Das kann ich nachvollziehen. Allerdings bringen manche neue Kollegen schon viel Erfahrung aus anderen Firmen mit. Das sollte man berücksichtigen.",
+      "Alle gleich.",
+      "Ja."
+     ],
+     "r": 0,
+     "e": "Teilweise zustimmen, differenzieren."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Also nach Erfahrung und nicht nach Jahren in der Firma?",
+     "o": [
+      "Genau. Ich bin der Meinung, dass Erfahrung und Leistung zählen sollten. Ein klares System mit Gehaltsstufen wäre am fairsten.",
+      "Nach Alter.",
+      "Ist egal."
+     ],
+     "r": 0,
+     "e": "Eigene Position begründen."
+    }
+   ],
+   "m": "Gehalt nach Erfahrung und Leistung mit transparenten Gehaltsstufen."
+  },
+  {
+   "id": "dj14",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Ausbildung im Betrieb",
+   "thema": "Sollte jeder Betrieb ausbilden?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Ausbildung kostet viel Zeit und Geld. Kleine Betriebe schaffen das nicht.",
+     "o": [
+      "Das stimmt für sehr kleine Betriebe. Aber wenn niemand ausbildet, fehlen später die Fachkräfte. Davon sind dann alle betroffen.",
+      "Ausbildung ist unwichtig.",
+      "Genau."
+     ],
+     "r": 0,
+     "e": "Argument anerkennen, Folge aufzeigen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Wie könnte man kleinen Betrieben helfen?",
+     "o": [
+      "Mehrere kleine Betriebe könnten gemeinsam ausbilden, und der Staat könnte einen Zuschuss zahlen. Das wäre ein guter Weg.",
+      "Gar nicht.",
+      "Das ist deren Problem."
+     ],
+     "r": 0,
+     "e": "Lösungsvorschlag."
+    }
+   ],
+   "m": "Ausbildung wichtig gegen Fachkräftemangel; kleine Betriebe bilden gemeinsam aus, mit staatlichem Zuschuss."
+  },
+  {
+   "id": "dj15",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Getränke kostenlos",
+   "thema": "Sollte die Firma kostenlose Getränke anbieten?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Kostenloses Wasser und Kaffee sind ein schönes Zeichen der Wertschätzung.",
+     "o": [
+      "Da stimme ich zu. Außerdem trinken die Mitarbeiter dann mehr und sind gesünder und konzentrierter.",
+      "Kaffee ist ungesund.",
+      "Ich trinke Tee."
+     ],
+     "r": 0,
+     "e": "Zustimmen und Argument ergänzen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Aber es kostet die Firma jedes Jahr viel Geld.",
+     "o": [
+      "Das ist richtig, aber im Vergleich zu den Personalkosten ist es wenig. Man könnte Wasser kostenlos anbieten und für Kaffee eine kleine Kaffeekasse machen.",
+      "Dann eben nicht.",
+      "Zu teuer."
+     ],
+     "r": 0,
+     "e": "Kostenargument abwägen, Kompromiss."
+    }
+   ],
+   "m": "Wasser kostenlos, für Kaffee eine kleine Kaffeekasse."
+  },
+  {
+   "id": "dj16",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Pünktlichkeit",
+   "thema": "Wie streng sollte man mit Verspätungen umgehen?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Wer zu spät kommt, sollte eine Abmahnung bekommen.",
+     "o": [
+      "Das finde ich zu streng. Manchmal kommt man unverschuldet zu spät, zum Beispiel wegen eines Zugausfalls.",
+      "Ja, sofort.",
+      "Ich komme nie zu spät."
+     ],
+     "r": 0,
+     "e": "Widersprechen mit Beispiel."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Aber manche kommen jeden Tag zu spät.",
+     "o": [
+      "Da hast du recht. Bei wiederholter Verspätung ohne Grund sollte die Teamleitung ein Gespräch führen. Wer Probleme mit dem Weg hat, könnte Gleitzeit bekommen.",
+      "Dann kündigen.",
+      "Egal."
+     ],
+     "r": 0,
+     "e": "Differenzierte Lösung."
+    }
+   ],
+   "m": "Einzelne Verspätungen mit gutem Grund tolerieren; bei Wiederholung Gespräch, eventuell Gleitzeit als Lösung."
+  },
+  {
+   "id": "dj17",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kinder mit ins Büro",
+   "thema": "Sollten Eltern ihre Kinder in Notfällen mit ins Büro bringen dürfen?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Ein Büro ist kein Kindergarten. Das stört die Arbeit.",
+     "o": [
+      "Das kann ich verstehen. Aber wenn die Kita plötzlich geschlossen ist, haben Eltern oft keine andere Möglichkeit. Ein Tag ist dann besser als ein Krankentag.",
+      "Kinder sind laut.",
+      "Stimmt."
+     ],
+     "r": 0,
+     "e": "Verständnis für beide Seiten."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Und wo soll das Kind sitzen?",
+     "o": [
+      "Die Firma könnte einen kleinen Raum mit Spielsachen einrichten. In Notfällen darf das Kind dort bleiben, und die Eltern können arbeiten.",
+      "Beim Chef.",
+      "Weiß ich nicht."
+     ],
+     "r": 0,
+     "e": "Konkreter Vorschlag."
+    }
+   ],
+   "m": "In Notfällen dürfen Kinder mitkommen; die Firma richtet ein Eltern-Kind-Zimmer ein."
+  },
+  {
+   "id": "dj18",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Feedbackgespräche",
+   "thema": "Wie oft sollten Mitarbeitergespräche stattfinden?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Einmal im Jahr reicht völlig.",
+     "o": [
+      "Ich bin der Meinung, dass einmal im Jahr zu wenig ist. Probleme sollte man früher ansprechen und nicht ein Jahr lang warten.",
+      "Ja, reicht.",
+      "Nie."
+     ],
+     "r": 0,
+     "e": "Widerspruch begründen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Aber die Chefs haben keine Zeit für so viele Gespräche.",
+     "o": [
+      "Das stimmt. Ein Kompromiss wäre ein großes Gespräch pro Jahr und kurze Gespräche von 15 Minuten alle drei Monate.",
+      "Dann eben nicht.",
+      "Ihr Problem."
+     ],
+     "r": 0,
+     "e": "Kompromiss mit konkreter Zeit."
+    }
+   ],
+   "m": "Ein ausführliches Jahresgespräch plus kurze Gespräche alle drei Monate."
+  },
+  {
+   "id": "dj19",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Elektroautos als Dienstwagen",
+   "thema": "Sollten alle Dienstwagen Elektroautos sein?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Elektroautos sind gut für die Umwelt. Wir sollten sofort umsteigen.",
+     "o": [
+      "Grundsätzlich stimme ich zu. Aber für lange Fahrten zu Kunden ist die Reichweite manchmal noch zu klein, und es gibt nicht überall Ladestationen.",
+      "Benzin ist billiger.",
+      "Ja, sofort."
+     ],
+     "r": 0,
+     "e": "Zustimmen mit Einschränkung."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Was machen wir dann?",
+     "o": [
+      "Wir könnten zuerst die Autos für kurze Strecken ersetzen und auf dem Firmenparkplatz Ladestationen bauen. Später folgen die anderen Autos.",
+      "Nichts.",
+      "Alles verkaufen."
+     ],
+     "r": 0,
+     "e": "Schrittweiser Plan."
+    }
+   ],
+   "m": "Schrittweise Umstellung: zuerst Autos für kurze Strecken, Ladestationen auf dem Firmenparkplatz."
+  },
+  {
+   "id": "dj20",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Sprachkurse während der Arbeitszeit",
+   "thema": "Sollten Sprachkurse für ausländische Mitarbeiter während der Arbeitszeit stattfinden?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Die Mitarbeiter sollten in ihrer Freizeit Deutsch lernen.",
+     "o": [
+      "Das finde ich schwierig. Viele arbeiten Vollzeit und haben Familie. Wenn die Firma gute Deutschkenntnisse braucht, sollte sie auch Zeit dafür geben.",
+      "Deutsch ist schwer.",
+      "Stimmt."
+     ],
+     "r": 0,
+     "e": "Widersprechen mit Begründung."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Aber dann fehlen die Leute bei der Arbeit.",
+     "o": [
+      "Ein Kompromiss wäre, dass die Hälfte des Kurses Arbeitszeit ist. Und die Firma profitiert später von weniger Missverständnissen und Fehlern.",
+      "Dann kein Kurs.",
+      "Pech."
+     ],
+     "r": 0,
+     "e": "Kompromiss und Nutzen für Firma."
+    }
+   ],
+   "m": "Sprachkurse zur Hälfte in der Arbeitszeit; die Firma profitiert von weniger Fehlern."
+  },
+  {
+   "id": "dj21",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Altersgrenze für Nachtschichten",
+   "thema": "Sollten ältere Mitarbeiter keine Nachtschichten mehr machen müssen?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Ab 55 sollte niemand mehr nachts arbeiten müssen.",
+     "o": [
+      "Das finde ich grundsätzlich richtig, weil Nachtarbeit im Alter die Gesundheit stärker belastet.",
+      "Junge Leute auch nicht.",
+      "Stimmt."
+     ],
+     "r": 0,
+     "e": "Zustimmen mit Begründung."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Aber dann müssen die Jüngeren alle Nächte machen.",
+     "o": [
+      "Das ist ein Problem. Man könnte es freiwillig machen: Wer im Alter keine Nächte mehr möchte, kann darauf verzichten, verliert aber den Zuschlag. Und die Jüngeren bekommen dafür einen höheren Zuschlag.",
+      "Pech für sie.",
+      "Egal."
+     ],
+     "r": 0,
+     "e": "Fairen Ausgleich vorschlagen."
+    }
+   ],
+   "m": "Ältere können freiwillig auf Nachtschichten verzichten; Jüngere bekommen einen höheren Zuschlag."
+  },
+  {
+   "id": "dj22",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Videokonferenzen mit Kamera",
+   "thema": "Sollte in Videokonferenzen die Kamera immer an sein?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Ich möchte die Gesichter sehen, sonst weiß ich nicht, ob jemand zuhört.",
+     "o": [
+      "Das kann ich nachvollziehen. Aber manche Kollegen haben zu Hause wenig Platz oder Kinder im Hintergrund. Die Pflicht wäre für sie unangenehm.",
+      "Kamera ist egal.",
+      "Ja."
+     ],
+     "r": 0,
+     "e": "Andere Perspektive einbringen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Also gar keine Kamera?",
+     "o": [
+      "Nein, ein Kompromiss wäre: Bei kleinen Teambesprechungen Kamera an, bei großen Konferenzen freiwillig. Man kann auch einen unscharfen Hintergrund benutzen.",
+      "Richtig.",
+      "Weiß nicht."
+     ],
+     "r": 0,
+     "e": "Differenzierter Kompromiss."
+    }
+   ],
+   "m": "Kamera an in kleinen Teamrunden, freiwillig bei großen Konferenzen; unscharfer Hintergrund möglich."
+  },
+  {
+   "id": "dj23",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kündigung durch Chat",
+   "thema": "Darf man wichtige Informationen per Chat statt persönlich mitteilen?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Ein Chat ist schnell. Warum soll man immer ein Gespräch führen?",
+     "o": [
+      "Für kurze Informationen stimme ich zu. Aber bei wichtigen Themen, wie Kritik oder einer Kündigung, sollte man persönlich sprechen. Das ist eine Frage von Respekt.",
+      "Chat ist modern.",
+      "Genau."
+     ],
+     "r": 0,
+     "e": "Unterscheiden: wichtig vs. unwichtig."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Und wenn jemand im Homeoffice ist?",
+     "o": [
+      "Dann ist eine Videokonferenz die beste Lösung. So sieht man sich und kann Fragen direkt beantworten.",
+      "Dann eben Chat.",
+      "Anrufen."
+     ],
+     "r": 0,
+     "e": "Lösung für Homeoffice."
+    }
+   ],
+   "m": "Kurze Infos per Chat, wichtige Themen persönlich oder per Video."
+  },
+  {
+   "id": "dj24",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Weniger Hierarchie",
+   "thema": "Brauchen Firmen weniger Chefs und mehr selbstorganisierte Teams?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Ohne Chef macht jeder, was er will.",
+     "o": [
+      "Das muss nicht sein. Wenn die Ziele klar sind, können Teams oft selbst gut entscheiden. Das motiviert die Mitarbeiter.",
+      "Chefs sind wichtig.",
+      "Stimmt."
+     ],
+     "r": 0,
+     "e": "Höflich widersprechen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Aber wer entscheidet bei Streit?",
+     "o": [
+      "Da hast du recht, das ist wichtig. Es sollte eine Teamleitung geben, die bei Konflikten entscheidet, aber im Alltag hat das Team mehr Freiheit.",
+      "Niemand.",
+      "Wir würfeln."
+     ],
+     "r": 0,
+     "e": "Zustimmen und Lösung."
+    }
+   ],
+   "m": "Mehr Freiheit für Teams im Alltag, eine Teamleitung entscheidet bei Konflikten."
+  },
+  {
+   "id": "dj25",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gesundheitsprämie",
+   "thema": "Sollte es eine Prämie für Mitarbeiter geben, die nie krank sind?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Wer nie krank ist, sollte belohnt werden.",
+     "o": [
+      "Ich verstehe die Idee, aber ich bin dagegen. Dann kommen Kollegen krank zur Arbeit, stecken andere an und werden noch kränker.",
+      "Gute Idee.",
+      "Ich bin nie krank."
+     ],
+     "r": 0,
+     "e": "Widersprechen mit Folgen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Wie kann man dann die Gesundheit fördern?",
+     "o": [
+      "Besser wäre es, in Sportangebote, gesunde Kantine und gute Arbeitsplätze zu investieren. Davon profitieren alle.",
+      "Gar nicht.",
+      "Mehr arbeiten."
+     ],
+     "r": 0,
+     "e": "Alternative vorschlagen."
+    }
+   ],
+   "m": "Keine Prämie für null Krankheitstage; stattdessen Sportangebote, gesunde Kantine und gute Arbeitsplätze."
+  },
+  {
+   "id": "dj26",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Ehrenamtlicher Tag",
+   "thema": "Sollte jede Firma einen freien Tag für soziale Projekte geben?",
+   "situation": "Diskutieren Sie mit Ihrem Kollegen.",
+   "rm": [
+    "Ich bin der Meinung, dass …",
+    "Da muss ich widersprechen: …",
+    "Das kann ich nachvollziehen, aber …",
+    "Ein Kompromiss wäre …"
+   ],
+   "schritte": [
+    {
+     "wer": "Partner",
+     "sagt": "Das kostet die Firma einen Arbeitstag pro Person.",
+     "o": [
+      "Das stimmt. Aber die Mitarbeiter sind danach oft motivierter, und das Image der Firma wird besser. Das ist auch ein Gewinn.",
+      "Arbeit ist wichtiger.",
+      "Zu teuer."
+     ],
+     "r": 0,
+     "e": "Kosten anerkennen, Nutzen zeigen."
+    },
+    {
+     "wer": "Partner",
+     "sagt": "Und wer entscheidet über die Projekte?",
+     "o": [
+      "Die Mitarbeiter könnten Projekte vorschlagen, und das Team stimmt ab. Zum Beispiel einen Spielplatz renovieren oder im Altenheim helfen.",
+      "Der Chef.",
+      "Keiner."
+     ],
+     "r": 0,
+     "e": "Beteiligung vorschlagen."
+    }
+   ],
+   "m": "Ein sozialer Tag pro Jahr; Mitarbeiter schlagen Projekte vor und stimmen gemeinsam ab."
+  }
+ ]
+}

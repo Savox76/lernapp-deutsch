@@ -1,0 +1,724 @@
+{
+ "vortrag": [
+  {
+   "id": "vbj01",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Teamarbeit",
+   "thema": "Wie wichtig ist Teamarbeit im Beruf?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: насколько важна работа в команде — опыт, плюсы и минусы, ситуация на родине, ваше мнение.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Ich möchte heute über Teamarbeit im Beruf sprechen.\n\nIn meinem Betrieb, einem Pflegeheim, arbeiten wir jeden Tag im Team. Ohne gute Übergaben und gegenseitige Hilfe würde die Arbeit nicht funktionieren.\n\nEin Vorteil ist, dass man Probleme gemeinsam schneller lösen kann und voneinander lernt. Ein Nachteil ist, dass es manchmal Konflikte gibt, wenn nicht alle gleich viel arbeiten.\n\nIn meinem Heimatland sind die Hierarchien oft stärker. Der Chef entscheidet, und das Team führt aus.\n\nMeiner Meinung nach ist Teamarbeit sehr wichtig, aber man braucht klare Absprachen. Zusammenfassend kann man sagen: Ein gutes Team macht die Arbeit leichter und schöner."
+  },
+  {
+   "id": "vbj02",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Digitalisierung am Arbeitsplatz",
+   "thema": "Wie verändert die Digitalisierung die Arbeit?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: как цифровизация меняет работу.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Mein Thema ist die Digitalisierung am Arbeitsplatz.\n\nIn meiner Firma, einem Logistikunternehmen, arbeiten wir seit zwei Jahren mit Scannern und Tablets. Früher haben wir alles auf Papier geschrieben.\n\nEin großer Vorteil ist, dass wir schneller arbeiten und weniger Fehler machen. Ein Nachteil ist, dass ältere Kollegen am Anfang Probleme mit der Technik hatten und viele Schulungen nötig waren.\n\nIn meinem Heimatland ist die Digitalisierung in den Großstädten sehr weit, zum Beispiel beim Bezahlen mit dem Handy. In Deutschland bezahlt man dagegen oft noch bar.\n\nMeiner Meinung nach bringt die Digitalisierung mehr Vorteile als Nachteile, wenn alle Mitarbeiter gut geschult werden."
+  },
+  {
+   "id": "vbj03",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Work-Life-Balance",
+   "thema": "Wie kann man Beruf und Privatleben gut verbinden?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: как совмещать работу и личную жизнь.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Ich spreche heute über die Work-Life-Balance.\n\nIch arbeite im Schichtdienst und habe zwei Kinder. Deshalb ist es für mich jeden Tag eine Herausforderung, Arbeit und Familie zu verbinden.\n\nEin Vorteil von flexiblen Modellen wie Teilzeit oder Gleitzeit ist, dass man mehr Zeit für die Familie hat. Ein Nachteil ist, dass man bei Teilzeit weniger verdient und später weniger Rente bekommt.\n\nIn meinem Heimatland helfen oft die Großeltern bei der Kinderbetreuung. Hier in Deutschland gibt es mehr Kitas, aber die Familie ist oft weit weg.\n\nMeiner Meinung nach sollten Firmen flexible Arbeitszeiten anbieten. Zusammenfassend: Wer zufrieden ist, arbeitet auch besser."
+  },
+  {
+   "id": "vbj04",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fachkräftemangel",
+   "thema": "Was kann man gegen den Fachkräftemangel tun?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: что делать с нехваткой специалистов.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Mein Thema ist der Fachkräftemangel in Deutschland.\n\nIn meiner Branche, der Pflege, fehlen überall Mitarbeiter. Auf unserer Station ist fast jeden Monat eine Stelle frei, und die Kollegen müssen Überstunden machen.\n\nEine Lösung ist, Fachkräfte aus dem Ausland zu holen. Der Vorteil: Die Lücken werden schneller gefüllt. Der Nachteil: Die Anerkennung der Abschlüsse dauert oft sehr lange, und die Sprache ist eine große Hürde.\n\nIn meinem Heimatland gehen viele junge Fachkräfte ins Ausland, weil die Löhne dort niedrig sind. Dort fehlen dann die Fachkräfte.\n\nMeiner Meinung nach müssen Firmen die Arbeitsbedingungen verbessern, mehr ausbilden und die Anerkennung schneller machen."
+  },
+  {
+   "id": "vbj05",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Weiterbildung",
+   "thema": "Warum ist lebenslanges Lernen im Beruf wichtig?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: почему важно учиться всю жизнь.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Ich möchte über Weiterbildung und lebenslanges Lernen sprechen.\n\nIch habe in den letzten zwei Jahren einen Deutschkurs und eine Schulung für ein neues Computerprogramm gemacht. Beides hat mir bei der Arbeit sehr geholfen.\n\nEin Vorteil ist, dass man bessere Chancen auf eine höhere Position und mehr Gehalt hat. Ein Nachteil ist, dass Weiterbildung viel Zeit kostet, oft am Abend oder am Wochenende.\n\nIn meinem Heimatland macht man meistens einmal eine Ausbildung oder ein Studium und arbeitet danach im gleichen Beruf. Weiterbildungen sind seltener.\n\nMeiner Meinung nach muss heute jeder weiterlernen, weil sich die Arbeit so schnell verändert. Firmen sollten das unterstützen."
+  },
+  {
+   "id": "vbj06",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Homeoffice",
+   "thema": "Ist Homeoffice die Arbeitsform der Zukunft?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: является ли удалённая работа будущим.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Mein Thema ist das Homeoffice.\n\nIn meiner Firma arbeiten die Kolleginnen aus der Buchhaltung zwei Tage pro Woche zu Hause. Ich arbeite im Lager, deshalb ist das für mich nicht möglich.\n\nEin großer Vorteil ist, dass man keine Zeit für den Arbeitsweg braucht. Ein Nachteil ist, dass der Kontakt zu den Kollegen fehlt und man Arbeit und Freizeit schwer trennen kann.\n\nIn meinem Heimatland ist Homeoffice vor allem in IT-Firmen verbreitet, in anderen Branchen eher selten.\n\nMeiner Meinung nach ist eine Mischung die beste Lösung: einige Tage zu Hause, einige im Büro. Aber man darf nicht vergessen, dass viele Berufe gar kein Homeoffice erlauben."
+  },
+  {
+   "id": "vbj07",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Ausbildung in Deutschland",
+   "thema": "Was ist besonders am deutschen Ausbildungssystem?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: особенности немецкой системы профобучения.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Ich spreche heute über die Ausbildung in Deutschland.\n\nMeine Kollegin macht gerade eine Ausbildung zur Kauffrau. Sie arbeitet drei Tage im Betrieb und geht zwei Tage in die Berufsschule.\n\nDer Vorteil dieses dualen Systems ist, dass man Theorie und Praxis gleichzeitig lernt und schon Geld verdient. Ein Nachteil ist, dass die Ausbildungsvergütung oft niedrig ist, besonders wenn man schon älter ist und eine Familie hat.\n\nIn meinem Heimatland lernt man einen Beruf meistens nur in der Schule oder an der Universität, ohne viel Praxis.\n\nMeiner Meinung nach ist das duale System sehr gut. Es wäre schön, wenn es auch mehr Teilzeitausbildungen für Erwachsene gäbe."
+  },
+  {
+   "id": "vbj08",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Umweltschutz im Betrieb",
+   "thema": "Was können Firmen für die Umwelt tun?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: что фирмы могут сделать для окружающей среды.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Mein Thema ist der Umweltschutz in Firmen.\n\nIn meinem Betrieb gibt es seit einem Jahr eine Solaranlage auf dem Dach, und wir trennen den Müll. Außerdem können wir ein Dienstrad leasen.\n\nEin Vorteil ist, dass die Firma langfristig Energie und Geld spart. Ein Nachteil ist, dass die Maßnahmen am Anfang viel kosten, was für kleine Betriebe schwierig ist.\n\nIn meinem Heimatland ist Umweltschutz für viele Firmen noch nicht so wichtig, weil Energie billig ist.\n\nMeiner Meinung nach sollten alle Firmen mitmachen, auch mit kleinen Schritten. Zusammenfassend kann man sagen: Umweltschutz ist gut für die Natur und auf Dauer auch für das Geld."
+  },
+  {
+   "id": "vbj09",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kundenorientierung",
+   "thema": "Wie wichtig ist guter Kundenservice?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: насколько важен хороший сервис для клиентов.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Ich möchte heute über Kundenservice sprechen.\n\nIch arbeite in einem Supermarkt an der Kasse und an der Information. Jeden Tag habe ich Kontakt mit vielen Kunden.\n\nEin guter Service hat den Vorteil, dass Kunden wiederkommen und die Firma empfehlen. Ein Nachteil ist, dass es manchmal sehr anstrengend ist, wenn Kunden unfreundlich sind oder Unmögliches verlangen.\n\nIn meinem Heimatland ist der Service in großen Geschäften oft sehr gut, in kleinen Läden aber manchmal unfreundlich.\n\nMeiner Meinung nach sind Freundlichkeit und Geduld das Wichtigste. Zusammenfassend: Zufriedene Kunden sind die beste Werbung."
+  },
+  {
+   "id": "vbj10",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Schichtarbeit",
+   "thema": "Was bedeutet Schichtarbeit für die Beschäftigten?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: что значит сменная работа для работников.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Mein Thema ist die Schichtarbeit.\n\nIch arbeite seit drei Jahren im Krankenhaus im Drei-Schicht-System: Früh-, Spät- und Nachtschicht.\n\nEin Vorteil ist, dass man Zuschläge bekommt und manchmal unter der Woche frei hat, wenn die Geschäfte leer sind. Ein Nachteil ist, dass der Körper unter dem Wechsel leidet und man oft schlecht schläft. Auch das Familienleben ist schwierig.\n\nIn meinem Heimatland gibt es ähnliche Systeme, aber die Schichten sind oft länger, zum Beispiel 24 Stunden.\n\nMeiner Meinung nach sollten die Schichtpläne früh feststehen, damit man planen kann. Wichtig sind auch genug Pausen und Ruhezeiten."
+  },
+  {
+   "id": "vbj11",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Integration am Arbeitsplatz",
+   "thema": "Wie kann die Integration von ausländischen Kollegen gelingen?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: как успешно интегрировать иностранных коллег.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Ich spreche heute über Integration am Arbeitsplatz.\n\nAls ich vor drei Jahren in meiner Firma angefangen habe, hatte ich einen Paten, der mir alles gezeigt hat. Das hat mir sehr geholfen.\n\nEin Vorteil von gemischten Teams ist, dass verschiedene Erfahrungen und Ideen zusammenkommen. Eine Schwierigkeit ist die Sprache: Am Anfang gibt es Missverständnisse.\n\nIn meinem Heimatland gibt es weniger Menschen aus anderen Ländern in den Firmen, deshalb ist das Thema dort nicht so wichtig.\n\nMeiner Meinung nach sollten Firmen Sprachkurse anbieten und neuen Kollegen einen Paten geben. Zusammenfassend: Integration braucht Zeit und Offenheit von beiden Seiten."
+  },
+  {
+   "id": "vbj12",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Gesundheit am Arbeitsplatz",
+   "thema": "Was kann man für die Gesundheit bei der Arbeit tun?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: что можно сделать для здоровья на работе.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Mein Thema ist die Gesundheit am Arbeitsplatz.\n\nIn meiner Firma gibt es einmal im Jahr einen Gesundheitstag, und wir haben höhenverstellbare Tische.\n\nEin Vorteil von solchen Angeboten ist, dass die Mitarbeiter seltener krank sind und motivierter arbeiten. Ein Nachteil ist, dass viele Angebote nach der Arbeit stattfinden und dann wenige teilnehmen.\n\nIn meinem Heimatland gibt es in großen Firmen oft einen eigenen Arzt, aber Programme für die Gesundheit sind selten.\n\nMeiner Meinung nach ist jeder selbst für seine Gesundheit verantwortlich, aber der Arbeitgeber sollte gute Bedingungen schaffen. Zusammenfassend: Gesunde Mitarbeiter sind gut für alle."
+  },
+  {
+   "id": "vbj13",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Frauen in Führungspositionen",
+   "thema": "Sollte es mehr Frauen in Führungspositionen geben?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: должно ли быть больше женщин на руководящих должностях.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Ich möchte über Frauen in Führungspositionen sprechen.\n\nIn meiner Firma gibt es viele Frauen, aber in der Geschäftsleitung sind nur Männer. Meine Teamleiterin ist eine Frau, und ich finde, sie macht das sehr gut.\n\nEin Vorteil von gemischten Führungsteams ist, dass verschiedene Sichtweisen berücksichtigt werden. Eine Schwierigkeit ist, dass Frauen oft wegen der Kinder in Teilzeit arbeiten und dann seltener befördert werden.\n\nIn meinem Heimatland arbeiten viele Frauen, aber Chefinnen sind auch dort selten.\n\nMeiner Meinung nach brauchen wir mehr Frauen in Führungspositionen. Dafür sind Kinderbetreuung und Führung in Teilzeit wichtig."
+  },
+  {
+   "id": "vbj14",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Bewerbung und Vorstellungsgespräch",
+   "thema": "Wie bewirbt man sich erfolgreich?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: как успешно подать заявку и пройти собеседование.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Mein Thema ist die erfolgreiche Bewerbung.\n\nIch habe mich vor einem Jahr bei mehreren Firmen beworben und hatte drei Vorstellungsgespräche, bevor ich meine jetzige Stelle bekommen habe.\n\nWichtig ist, dass die Unterlagen vollständig und ohne Fehler sind. Ein Vorteil der Online-Bewerbung ist, dass sie schnell und kostenlos ist. Ein Nachteil ist, dass man oft keine Antwort bekommt.\n\nIn meinem Heimatland findet man viele Stellen über Kontakte, also über Freunde oder Familie.\n\nMeiner Meinung nach sollte man sich gut auf das Gespräch vorbereiten und Informationen über die Firma sammeln. Zusammenfassend: Geduld und gute Vorbereitung sind der Schlüssel."
+  },
+  {
+   "id": "vbj15",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Mobilität und Pendeln",
+   "thema": "Wie weit darf der Weg zur Arbeit sein?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: насколько далеко может быть дорога на работу.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Ich spreche heute über das Pendeln zur Arbeit.\n\nIch fahre jeden Tag 45 Minuten mit der S-Bahn zur Arbeit. Viele meiner Kollegen fahren noch länger mit dem Auto.\n\nEin Vorteil ist, dass man auf dem Land günstiger wohnt. Ein Nachteil ist, dass man viel Zeit verliert und die Fahrt Geld kostet. Außerdem ist man oft gestresst, wenn der Zug Verspätung hat.\n\nIn meinem Heimatland sind die Wege in den Großstädten noch länger, oft über eine Stunde.\n\nMeiner Meinung nach sollten Firmen das Jobticket bezahlen und Homeoffice erlauben, wo es möglich ist. Zusammenfassend: Ein kurzer Arbeitsweg bedeutet mehr Lebensqualität."
+  },
+  {
+   "id": "vbj16",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Künstliche Intelligenz",
+   "thema": "Welche Rolle spielt Künstliche Intelligenz in der Arbeitswelt?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: роль искусственного интеллекта в мире работы.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Mein Thema ist Künstliche Intelligenz in der Arbeitswelt.\n\nIn meinem Büro benutzen wir seit Kurzem ein Programm, das E-Mails übersetzt und Texte vorschlägt. Das hilft mir besonders bei schwierigen Briefen.\n\nEin Vorteil ist, dass langweilige Aufgaben schneller erledigt werden. Ein Nachteil ist, dass die KI manchmal Fehler macht und man alles kontrollieren muss. Viele Menschen haben auch Angst, ihren Arbeitsplatz zu verlieren.\n\nIn meinem Heimatland nutzen vor allem junge Leute KI, in den Firmen ist sie noch neu.\n\nMeiner Meinung nach ist KI ein gutes Werkzeug, aber sie ersetzt nicht den Menschen. Wichtig sind Schulungen und klare Regeln zum Datenschutz."
+  },
+  {
+   "id": "vbj17",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Ehrenamt",
+   "thema": "Warum engagieren sich Menschen ehrenamtlich?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: почему люди занимаются волонтёрством.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Ich möchte über das Ehrenamt sprechen.\n\nIch helfe einmal im Monat bei der Tafel, wo Lebensmittel an Menschen mit wenig Geld verteilt werden. Dort habe ich viele nette Menschen kennengelernt und mein Deutsch verbessert.\n\nEin Vorteil ist, dass man anderen hilft und selbst Neues lernt. Ein Nachteil ist, dass man neben Arbeit und Familie wenig Zeit hat.\n\nIn meinem Heimatland gibt es weniger Vereine. Man hilft eher der Familie und den Nachbarn direkt.\n\nMeiner Meinung nach ist das Ehrenamt sehr wichtig für die Gesellschaft. Arbeitgeber könnten es unterstützen, zum Beispiel mit einem freien Tag im Jahr."
+  },
+  {
+   "id": "vbj18",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Arbeitszeitmodelle",
+   "thema": "Welches Arbeitszeitmodell ist das beste?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: какая модель рабочего времени лучшая.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Mein Thema sind verschiedene Arbeitszeitmodelle.\n\nIn meiner Firma gibt es Gleitzeit mit einer Kernzeit von 9 bis 15 Uhr. Ich fange meistens um 7 Uhr an, dann kann ich meine Tochter um 15:30 Uhr abholen.\n\nEin Vorteil von Gleitzeit ist die Flexibilität. Ein Nachteil ist, dass man nicht immer alle Kollegen erreicht. Andere Modelle sind Teilzeit, Viertagewoche oder Jobsharing.\n\nIn meinem Heimatland arbeiten die meisten Menschen feste Zeiten, oft von 9 bis 18 Uhr.\n\nMeiner Meinung nach gibt es nicht das eine beste Modell. Es hängt vom Beruf und von der Lebenssituation ab. Wichtig ist, dass Mitarbeiter mitentscheiden können."
+  },
+  {
+   "id": "vbj19",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Lohn und Gerechtigkeit",
+   "thema": "Werden alle Berufe fair bezahlt?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: справедливо ли оплачиваются все профессии.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Ich spreche heute über Lohn und Gerechtigkeit.\n\nIch arbeite in der Pflege. Unsere Arbeit ist sehr wichtig und anstrengend, aber der Lohn war lange niedrig. In den letzten Jahren ist er zum Glück gestiegen.\n\nEin Vorteil von Tarifverträgen ist, dass der Lohn transparent und fair geregelt ist. Ein Nachteil ist, dass nicht alle Firmen einen Tarifvertrag haben.\n\nIn meinem Heimatland sind die Unterschiede zwischen den Berufen noch größer. Ärzte und Lehrer verdienen dort oft sehr wenig.\n\nMeiner Meinung nach sollten soziale Berufe besser bezahlt werden. Zusammenfassend: Ein fairer Lohn zeigt, dass die Arbeit wertgeschätzt wird."
+  },
+  {
+   "id": "vbj20",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Sprache im Beruf",
+   "thema": "Wie wichtig sind Deutschkenntnisse im Beruf?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: насколько важно знание немецкого на работе.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Mein Thema ist die Sprache im Beruf.\n\nAls ich in Deutschland angefangen habe zu arbeiten, konnte ich nur wenig Deutsch. Ich habe viel nicht verstanden, besonders am Telefon und in Besprechungen.\n\nEin Vorteil von guten Deutschkenntnissen ist, dass man selbstständiger arbeitet und bessere Chancen auf eine gute Stelle hat. Eine Schwierigkeit ist, dass man neben der Arbeit wenig Zeit zum Lernen hat.\n\nIn meinem Heimatland spricht man bei der Arbeit nur die Landessprache, Fremdsprachen braucht man nur in internationalen Firmen.\n\nMeiner Meinung nach ist Deutsch der Schlüssel zur Integration. Firmen sollten Sprachkurse während der Arbeitszeit anbieten."
+  },
+  {
+   "id": "vbj21",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Arbeitsschutz",
+   "thema": "Warum ist Arbeitsschutz so wichtig?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: почему так важна охрана труда.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Ich möchte über den Arbeitsschutz sprechen.\n\nIch arbeite im Lager. Bei uns sind Sicherheitsschuhe und Warnwesten Pflicht, und jedes Jahr gibt es eine Unterweisung.\n\nEin Vorteil von strengen Regeln ist, dass es weniger Unfälle gibt. Ein Nachteil ist, dass manche Kollegen die Regeln lästig finden, zum Beispiel wenn die Schutzkleidung im Sommer heiß ist.\n\nIn meinem Heimatland werden die Regeln oft nicht so streng kontrolliert, deshalb passieren mehr Unfälle.\n\nMeiner Meinung nach ist Arbeitsschutz sehr wichtig. Jeder sollte gesund nach Hause gehen. Zusammenfassend: Regeln schützen uns, auch wenn sie manchmal unbequem sind."
+  },
+  {
+   "id": "vbj22",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Generationen im Team",
+   "thema": "Wie arbeiten Junge und Ältere zusammen?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: как работают вместе молодые и пожилые.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Mein Thema ist die Zusammenarbeit von verschiedenen Generationen.\n\nIn meinem Team arbeiten Kollegen zwischen 19 und 63 Jahren. Die jungen Kollegen kennen sich gut mit Technik aus, die älteren haben viel Erfahrung.\n\nEin Vorteil ist, dass man voneinander lernen kann. Ein Nachteil ist, dass es manchmal Missverständnisse gibt, zum Beispiel bei der Kommunikation: Die Jungen schreiben lieber Nachrichten, die Älteren telefonieren.\n\nIn meinem Heimatland haben ältere Menschen bei der Arbeit oft mehr Respekt und Autorität.\n\nMeiner Meinung nach sind gemischte Teams sehr wertvoll. Wichtig ist, dass man offen miteinander spricht und die Stärken aller nutzt."
+  },
+  {
+   "id": "vbj23",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Selbstständigkeit",
+   "thema": "Ist es besser, selbstständig oder angestellt zu sein?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: лучше быть самозанятым или работать по найму.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Ich spreche heute über die Selbstständigkeit.\n\nEine Freundin von mir hat vor zwei Jahren ein kleines Nagelstudio eröffnet. Ich selbst bin angestellt.\n\nEin Vorteil der Selbstständigkeit ist, dass man sein eigener Chef ist und seine Ideen umsetzen kann. Ein Nachteil ist das Risiko: Man hat kein festes Einkommen und muss sich selbst versichern.\n\nIn meinem Heimatland machen sich viele Menschen selbstständig, weil es wenige gut bezahlte Stellen gibt.\n\nMeiner Meinung nach passt die Selbstständigkeit nicht zu jedem. Man braucht Mut, Geld und gute Beratung. Für mich ist eine feste Stelle mit Sicherheit im Moment wichtiger."
+  },
+  {
+   "id": "vbj24",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Mobbing am Arbeitsplatz",
+   "thema": "Was kann man gegen Mobbing tun?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: что можно сделать против травли на работе.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Mein Thema ist Mobbing am Arbeitsplatz.\n\nEine Kollegin von mir wurde vor einiger Zeit von anderen Kollegen immer wieder ausgeschlossen und schlecht behandelt. Das war für sie sehr schlimm.\n\nWichtig ist, dass man Mobbing früh erkennt. Betroffene sollten alles aufschreiben und sich Hilfe holen, zum Beispiel beim Betriebsrat. Ein Problem ist, dass viele aus Angst nichts sagen.\n\nIn meinem Heimatland spricht man über das Thema kaum. Viele denken, man muss es einfach aushalten.\n\nMeiner Meinung nach sind Chefs verantwortlich für ein gutes Klima. Zusammenfassend: Jeder sollte hinsehen und helfen, wenn ein Kollege schlecht behandelt wird."
+  },
+  {
+   "id": "vbj25",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fortbildung im Ausland",
+   "thema": "Sollte man einen Teil seiner Berufserfahrung im Ausland sammeln?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: стоит ли получать часть опыта работы за границей.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Ich möchte über Berufserfahrung im Ausland sprechen.\n\nIch selbst habe in meiner Heimat studiert und arbeite jetzt seit vier Jahren in Deutschland. Diese Erfahrung hat mich sehr verändert.\n\nEin Vorteil ist, dass man eine neue Sprache lernt, offener wird und neue Arbeitsweisen kennenlernt. Ein Nachteil ist, dass man Familie und Freunde vermisst und am Anfang viele Probleme mit Behörden hat.\n\nIn meinem Heimatland ist es bei Arbeitgebern sehr angesehen, wenn man im Ausland gearbeitet hat.\n\nMeiner Meinung nach lohnt sich die Erfahrung im Ausland, auch wenn sie anstrengend ist. Zusammenfassend: Man wächst an den Herausforderungen."
+  },
+  {
+   "id": "vbj26",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Pausen und Erholung",
+   "thema": "Warum sind Pausen bei der Arbeit wichtig?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: почему важны перерывы на работе.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Mein Thema sind Pausen und Erholung bei der Arbeit.\n\nIn meiner Firma machen viele Kollegen ihre Mittagspause am Schreibtisch und essen nebenbei. Ich gehe lieber kurz an die frische Luft.\n\nEin Vorteil von richtigen Pausen ist, dass man danach konzentrierter ist und weniger Fehler macht. Ein Nachteil ist, dass man bei viel Arbeit das Gefühl hat, keine Zeit für eine Pause zu haben.\n\nIn meinem Heimatland ist die Mittagspause oft länger, und man isst warm mit den Kollegen.\n\nMeiner Meinung nach sollte jeder seine Pausen ernst nehmen. Zusammenfassend: Wer Pausen macht, arbeitet am Ende nicht weniger, sondern besser."
+  },
+  {
+   "id": "vbj27",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Nachhaltiger Konsum im Handel",
+   "thema": "Wie kann der Handel nachhaltiger werden?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: как торговле стать более экологичной.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Ich spreche heute über Nachhaltigkeit im Handel.\n\nIch arbeite in einem Supermarkt. Bei uns gibt es inzwischen weniger Plastiktüten, und Lebensmittel, die bald ablaufen, werden billiger verkauft oder an die Tafel gegeben.\n\nEin Vorteil ist, dass weniger Lebensmittel im Müll landen. Ein Nachteil ist, dass nachhaltige Produkte oft teurer sind und nicht jeder sie bezahlen kann.\n\nIn meinem Heimatland gibt es weniger Bioprodukte, und Mülltrennung ist noch nicht überall üblich.\n\nMeiner Meinung nach müssen Handel und Kunden gemeinsam etwas tun. Zusammenfassend: Kleine Veränderungen im Alltag haben eine große Wirkung."
+  },
+  {
+   "id": "vbj28",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Betriebsrat und Mitbestimmung",
+   "thema": "Welche Bedeutung hat der Betriebsrat für die Beschäftigten?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: какое значение имеет производственный совет для работников.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Mein Thema ist der Betriebsrat.\n\nIn meiner Firma gibt es einen Betriebsrat mit sieben Mitgliedern. Als es Probleme mit dem Schichtplan gab, hat er mit der Geschäftsleitung eine Lösung gefunden.\n\nEin Vorteil ist, dass die Beschäftigten eine starke Stimme haben und bei wichtigen Entscheidungen mitreden. Ein Nachteil ist, dass Entscheidungen manchmal länger dauern.\n\nIn meinem Heimatland gibt es so etwas kaum. Wenn man Probleme hat, muss man allein mit dem Chef sprechen.\n\nMeiner Meinung nach ist die Mitbestimmung eine große Stärke des deutschen Systems. Zusammenfassend: Ein Betriebsrat schützt die Interessen aller Mitarbeiter."
+  },
+  {
+   "id": "vbj29",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Kommunikation im Beruf",
+   "thema": "Wie kommuniziert man richtig mit Kollegen und Vorgesetzten?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: как правильно общаться с коллегами и начальством.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Ich möchte über die Kommunikation im Beruf sprechen.\n\nAm Anfang war es für mich schwer zu verstehen, wie direkt Deutsche Kritik äußern. Inzwischen weiß ich, dass das nicht unfreundlich gemeint ist.\n\nEin Vorteil von direkter Kommunikation ist, dass alle schnell wissen, was los ist. Ein Nachteil ist, dass sich manche Menschen verletzt fühlen.\n\nIn meinem Heimatland spricht man Probleme oft indirekt an, und gegenüber dem Chef ist man sehr höflich.\n\nMeiner Meinung nach ist eine klare, aber freundliche Kommunikation am besten. Zusammenfassend: Man sollte offen sprechen, aber immer respektvoll bleiben."
+  },
+  {
+   "id": "vbj30",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Tourismus als Arbeitgeber",
+   "thema": "Welche Chancen bietet die Arbeit in Hotel und Gastronomie?",
+   "stichpunkte": [
+    "Ihre Erfahrungen im Beruf",
+    "Vorteile und Nachteile",
+    "Situation in Ihrem Heimatland",
+    "Ihre Meinung"
+   ],
+   "ru": "Доклад: какие возможности даёт работа в гостиницах и ресторанах.",
+   "rm": [
+    "Ich möchte über … sprechen.",
+    "In meinem Beruf / Betrieb …",
+    "Ein Vorteil ist …, ein Nachteil …",
+    "In meinem Heimatland …",
+    "Meiner Meinung nach …",
+    "Zusammenfassend kann man sagen, …"
+   ],
+   "m": "Mein Thema ist die Arbeit in Hotels und Restaurants.\n\nIch habe zwei Jahre in einem Hotel an der Rezeption gearbeitet. Ich hatte jeden Tag Kontakt mit Gästen aus vielen Ländern.\n\nEin Vorteil ist, dass man schnell eine Stelle findet, auch als Quereinsteiger, und viele Sprachen nutzen kann. Ein Nachteil sind die Arbeitszeiten am Abend, am Wochenende und an Feiertagen und der oft niedrige Lohn.\n\nIn meinem Heimatland ist der Tourismus besonders an der Küste wichtig, aber die Arbeit gibt es oft nur im Sommer.\n\nMeiner Meinung nach ist die Branche spannend, aber die Bedingungen müssen besser werden, damit genug Personal bleibt."
+  }
+ ]
+}

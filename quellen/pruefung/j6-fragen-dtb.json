@@ -1,0 +1,642 @@
+{
+ "fragen": [
+  {
+   "id": "qbj01",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Teamarbeit",
+   "fragen": [
+    {
+     "q": "Was machen Sie, wenn es im Team Streit gibt?",
+     "m": "Ich versuche zuerst, mit der Person direkt zu sprechen. Wenn das nicht hilft, gehe ich zur Teamleitung.",
+     "ru": "Что вы делаете, если в команде спор?"
+    },
+    {
+     "q": "Arbeiten Sie lieber allein oder im Team?",
+     "m": "Ich arbeite lieber im Team, weil man sich gegenseitig helfen kann. Für schwierige Aufgaben brauche ich aber auch Ruhe.",
+     "ru": "Вы предпочитаете работать один или в команде?"
+    },
+    {
+     "q": "Was ist für Sie ein guter Chef?",
+     "m": "Ein guter Chef hört zu, gibt klare Aufgaben und lobt auch, wenn etwas gut gelaufen ist.",
+     "ru": "Какой, по-вашему, хороший начальник?"
+    },
+    {
+     "q": "Wie wichtig sind Teamausflüge?",
+     "m": "Ich finde sie wichtig, weil man die Kollegen privat besser kennenlernt. Danach ist die Zusammenarbeit oft leichter.",
+     "ru": "Насколько важны командные поездки?"
+    }
+   ]
+  },
+  {
+   "id": "qbj02",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Digitalisierung",
+   "fragen": [
+    {
+     "q": "Welche Programme benutzen Sie bei der Arbeit?",
+     "m": "Ich benutze ein Programm für die Zeiterfassung und einen Scanner für die Waren im Lager.",
+     "ru": "Какими программами вы пользуетесь на работе?"
+    },
+    {
+     "q": "Haben Sie Angst, dass Computer Ihre Arbeit übernehmen?",
+     "m": "Nein, eher nicht. Computer helfen, aber im Lager braucht man immer Menschen, die kontrollieren und entscheiden.",
+     "ru": "Боитесь ли вы, что компьютеры заменят вас?"
+    },
+    {
+     "q": "Wie haben Sie die neue Technik gelernt?",
+     "m": "Wir hatten zwei Schulungen, und danach hat mir ein jüngerer Kollege noch viel gezeigt.",
+     "ru": "Как вы освоили новую технику?"
+    },
+    {
+     "q": "Was sollte man für ältere Kollegen tun?",
+     "m": "Man sollte ihnen mehr Zeit geben und Schulungen in kleinen Gruppen anbieten.",
+     "ru": "Что нужно делать для пожилых коллег?"
+    }
+   ]
+  },
+  {
+   "id": "qbj03",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Work-Life-Balance",
+   "fragen": [
+    {
+     "q": "Wie entspannen Sie sich nach der Arbeit?",
+     "m": "Ich gehe gern spazieren oder koche mit meiner Familie. Am Wochenende treffe ich Freunde.",
+     "ru": "Как вы отдыхаете после работы?"
+    },
+    {
+     "q": "Arbeiten Sie oft länger als geplant?",
+     "m": "Manchmal, wenn viele Kollegen krank sind. Dann mache ich Überstunden, aber ich nehme sie später als freie Tage.",
+     "ru": "Часто ли вы работаете дольше?"
+    },
+    {
+     "q": "Lesen Sie nach Feierabend E-Mails?",
+     "m": "Nein, mein Diensthandy ist nach der Arbeit aus. Nur in Notfällen ruft mich meine Chefin an.",
+     "ru": "Читаете ли вы почту после работы?"
+    },
+    {
+     "q": "Würden Sie für mehr Freizeit weniger verdienen?",
+     "m": "Ja, vielleicht. Zeit mit meinen Kindern ist mir sehr wichtig, aber ich brauche auch genug Geld für die Miete.",
+     "ru": "Согласились бы вы зарабатывать меньше ради свободного времени?"
+    }
+   ]
+  },
+  {
+   "id": "qbj04",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Fachkräftemangel",
+   "fragen": [
+    {
+     "q": "In welchen Berufen fehlen in Ihrer Stadt Menschen?",
+     "m": "Besonders in der Pflege, in Kitas und im Handwerk, zum Beispiel Elektriker.",
+     "ru": "В каких профессиях в вашем городе не хватает людей?"
+    },
+    {
+     "q": "Warum wollen junge Leute nicht in die Pflege?",
+     "m": "Viele finden die Arbeitszeiten und die körperliche Belastung zu schwer, und das Gehalt war lange niedrig.",
+     "ru": "Почему молодые не хотят идти в уход?"
+    },
+    {
+     "q": "Was hat Ihnen bei der Anerkennung geholfen?",
+     "m": "Eine Beratungsstelle hat mir erklärt, welche Unterlagen ich brauche, und mir bei den Übersetzungen geholfen.",
+     "ru": "Что помогло вам с признанием диплома?"
+    },
+    {
+     "q": "Sollten Firmen mehr bezahlen?",
+     "m": "Ja, aber nicht nur. Auch gute Arbeitszeiten und ein nettes Team sind wichtig.",
+     "ru": "Должны ли фирмы платить больше?"
+    }
+   ]
+  },
+  {
+   "id": "qbj05",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Weiterbildung",
+   "fragen": [
+    {
+     "q": "Welche Weiterbildung möchten Sie als Nächstes machen?",
+     "m": "Ich möchte gern einen Kurs für Buchhaltung mit dem Computer machen.",
+     "ru": "Какое обучение вы хотели бы пройти следующим?"
+    },
+    {
+     "q": "Wer sollte die Weiterbildung bezahlen?",
+     "m": "Wenn die Firma davon profitiert, sollte sie die Kosten übernehmen. Für private Ziele zahlt man selbst.",
+     "ru": "Кто должен оплачивать обучение?"
+    },
+    {
+     "q": "Lernen Sie lieber online oder im Kurs?",
+     "m": "Lieber im Kurs, weil ich dort Fragen stellen und mit anderen sprechen kann.",
+     "ru": "Вы предпочитаете учиться онлайн или на курсах?"
+    },
+    {
+     "q": "Wie finden Sie Zeit zum Lernen?",
+     "m": "Ich lerne morgens im Zug und am Wochenende, wenn die Kinder Sport machen.",
+     "ru": "Как вы находите время для учёбы?"
+    }
+   ]
+  },
+  {
+   "id": "qbj06",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Homeoffice",
+   "fragen": [
+    {
+     "q": "Würden Sie gern im Homeoffice arbeiten?",
+     "m": "Ein oder zwei Tage pro Woche wären schön, aber jeden Tag würde mir der Kontakt fehlen.",
+     "ru": "Хотели бы вы работать из дома?"
+    },
+    {
+     "q": "Wie hält man im Homeoffice Kontakt zum Team?",
+     "m": "Mit kurzen Videokonferenzen jeden Morgen und mit Chats für schnelle Fragen.",
+     "ru": "Как поддерживать связь с командой из дома?"
+    },
+    {
+     "q": "Was braucht man für einen guten Arbeitsplatz zu Hause?",
+     "m": "Einen ruhigen Raum, einen guten Stuhl, einen großen Bildschirm und schnelles Internet.",
+     "ru": "Что нужно для хорошего рабочего места дома?"
+    },
+    {
+     "q": "Sollte der Arbeitgeber die Kosten zu Hause bezahlen?",
+     "m": "Ich finde, er sollte sich zumindest an den Kosten für Möbel und Internet beteiligen.",
+     "ru": "Должен ли работодатель оплачивать расходы дома?"
+    }
+   ]
+  },
+  {
+   "id": "qbj07",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Ausbildung",
+   "fragen": [
+    {
+     "q": "Haben Sie in Ihrem Heimatland eine Ausbildung gemacht?",
+     "m": "Ja, ich habe eine Ausbildung als Krankenschwester gemacht, sie hat drei Jahre gedauert.",
+     "ru": "Вы получали профобразование на родине?"
+    },
+    {
+     "q": "Würden Sie in Deutschland noch einmal eine Ausbildung machen?",
+     "m": "Vielleicht, aber nur in Teilzeit, weil ich Kinder habe und Geld verdienen muss.",
+     "ru": "Стали бы вы снова учиться профессии в Германии?"
+    },
+    {
+     "q": "Was ist wichtiger: Theorie oder Praxis?",
+     "m": "Beides ist wichtig, aber ohne Praxis versteht man die Theorie nicht richtig.",
+     "ru": "Что важнее: теория или практика?"
+    },
+    {
+     "q": "Wie können Firmen Azubis finden?",
+     "m": "Mit Praktika für Schüler, auf Ausbildungsmessen und über soziale Medien.",
+     "ru": "Как фирмам найти учеников?"
+    }
+   ]
+  },
+  {
+   "id": "qbj08",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Umweltschutz",
+   "fragen": [
+    {
+     "q": "Was tun Sie privat für die Umwelt?",
+     "m": "Ich fahre mit dem Fahrrad zur Arbeit, trenne den Müll und kaufe weniger Plastik.",
+     "ru": "Что вы лично делаете для окружающей среды?"
+    },
+    {
+     "q": "Sollten Firmen Dienstwagen abschaffen?",
+     "m": "Nicht ganz, aber sie sollten mehr Elektroautos und Jobtickets anbieten.",
+     "ru": "Должны ли фирмы отказаться от служебных машин?"
+    },
+    {
+     "q": "Was kostet Umweltschutz die Firmen?",
+     "m": "Am Anfang viel, zum Beispiel für Solaranlagen. Später spart man aber Energie und Geld.",
+     "ru": "Сколько стоит экология для фирм?"
+    },
+    {
+     "q": "Wer ist verantwortlich: Politik, Firmen oder Menschen?",
+     "m": "Alle zusammen. Die Politik macht Regeln, aber jeder muss auch selbst etwas tun.",
+     "ru": "Кто отвечает: политика, фирмы или люди?"
+    }
+   ]
+  },
+  {
+   "id": "qbj09",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Kundenservice",
+   "fragen": [
+    {
+     "q": "Wie reagieren Sie, wenn ein Kunde unfreundlich ist?",
+     "m": "Ich bleibe ruhig und freundlich und versuche, das Problem zu verstehen. Wenn er beleidigend wird, hole ich meine Chefin.",
+     "ru": "Как вы реагируете на грубого клиента?"
+    },
+    {
+     "q": "Was war Ihr schönstes Erlebnis mit einem Kunden?",
+     "m": "Eine ältere Dame hat mir eine Karte geschrieben, weil ich ihr beim Einkaufen geholfen habe.",
+     "ru": "Ваш самый приятный случай с клиентом?"
+    },
+    {
+     "q": "Ist der Kunde immer König?",
+     "m": "Nicht immer. Man muss freundlich sein, aber man darf sich auch nicht alles gefallen lassen.",
+     "ru": "Всегда ли клиент — король?"
+    },
+    {
+     "q": "Wie wichtig ist der Online-Service?",
+     "m": "Sehr wichtig. Viele Kunden schreiben heute lieber eine E-Mail oder einen Chat als anzurufen.",
+     "ru": "Насколько важен онлайн-сервис?"
+    }
+   ]
+  },
+  {
+   "id": "qbj10",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Schichtarbeit",
+   "fragen": [
+    {
+     "q": "Welche Schicht mögen Sie am liebsten?",
+     "m": "Die Frühschicht, weil ich dann am Nachmittag Zeit für meine Kinder habe.",
+     "ru": "Какую смену вы любите больше всего?"
+    },
+    {
+     "q": "Wie schlafen Sie nach der Nachtschicht?",
+     "m": "Ich verdunkle das Zimmer und schalte das Handy aus. Trotzdem schlafe ich oft nur fünf Stunden.",
+     "ru": "Как вы спите после ночной смены?"
+    },
+    {
+     "q": "Was sagt Ihre Familie zur Schichtarbeit?",
+     "m": "Am Anfang war es schwierig, aber wir haben einen Kalender, damit alle wissen, wann ich arbeite.",
+     "ru": "Что говорит семья о сменной работе?"
+    },
+    {
+     "q": "Sollte man für Nachtarbeit mehr bezahlen?",
+     "m": "Ja, unbedingt. Nachtarbeit ist schlecht für die Gesundheit, das muss man ausgleichen.",
+     "ru": "Нужно ли больше платить за ночную работу?"
+    }
+   ]
+  },
+  {
+   "id": "qbj11",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Integration",
+   "fragen": [
+    {
+     "q": "Wer hat Ihnen am Anfang am meisten geholfen?",
+     "m": "Meine Patin bei der Arbeit, eine Kollegin, die selbst aus Polen kommt und alles gut kannte.",
+     "ru": "Кто вам больше всего помог в начале?"
+    },
+    {
+     "q": "Was war für Sie am Anfang am schwierigsten?",
+     "m": "Die vielen Briefe von den Ämtern und das schnelle Sprechen am Telefon.",
+     "ru": "Что было самым трудным в начале?"
+    },
+    {
+     "q": "Sprechen Sie bei der Arbeit manchmal Ihre Muttersprache?",
+     "m": "In der Pause mit einer Kollegin ja, aber bei der Arbeit immer Deutsch.",
+     "ru": "Говорите ли вы на работе на родном языке?"
+    },
+    {
+     "q": "Was können deutsche Kollegen besser machen?",
+     "m": "Sie könnten langsamer sprechen und neue Kollegen öfter zum Mittagessen einladen.",
+     "ru": "Что могут делать лучше немецкие коллеги?"
+    }
+   ]
+  },
+  {
+   "id": "qbj12",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Gesundheit",
+   "fragen": [
+    {
+     "q": "Was macht Ihre Firma für die Gesundheit?",
+     "m": "Es gibt einen Betriebsarzt, einen Rückenkurs und kostenloses Obst in der Kantine.",
+     "ru": "Что делает ваша фирма для здоровья?"
+    },
+    {
+     "q": "Welche Belastungen gibt es in Ihrem Beruf?",
+     "m": "Im Lager trage ich schwere Kisten, deshalb habe ich manchmal Rückenschmerzen.",
+     "ru": "Какие нагрузки в вашей профессии?"
+    },
+    {
+     "q": "Gehen Sie krank zur Arbeit?",
+     "m": "Mit einer leichten Erkältung manchmal schon, aber mit Fieber nie, weil ich die Kollegen anstecken würde.",
+     "ru": "Ходите ли вы на работу больным?"
+    },
+    {
+     "q": "Wie wichtig ist Bewegung für Sie?",
+     "m": "Sehr wichtig. Ich gehe zweimal pro Woche schwimmen, dann fühle ich mich viel besser.",
+     "ru": "Насколько важно для вас движение?"
+    }
+   ]
+  },
+  {
+   "id": "qbj13",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Bewerbung",
+   "fragen": [
+    {
+     "q": "Wie viele Bewerbungen haben Sie geschrieben?",
+     "m": "Ungefähr zwanzig. Ich hatte drei Vorstellungsgespräche, dann habe ich die Stelle bekommen.",
+     "ru": "Сколько заявок вы написали?"
+    },
+    {
+     "q": "Was ist im Vorstellungsgespräch am wichtigsten?",
+     "m": "Dass man freundlich und gut vorbereitet ist und ehrlich über seine Erfahrungen spricht.",
+     "ru": "Что важнее всего на собеседовании?"
+    },
+    {
+     "q": "Sollte man ein Foto in die Bewerbung legen?",
+     "m": "In Deutschland ist es nicht Pflicht. Ich finde, ohne Foto ist es fairer.",
+     "ru": "Нужна ли фотография в заявке?"
+    },
+    {
+     "q": "Wie bereiten Sie sich auf ein Gespräch vor?",
+     "m": "Ich lese die Internetseite der Firma und übe typische Fragen mit einer Freundin.",
+     "ru": "Как вы готовитесь к собеседованию?"
+    }
+   ]
+  },
+  {
+   "id": "qbj14",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Pendeln",
+   "fragen": [
+    {
+     "q": "Wie kommen Sie zur Arbeit?",
+     "m": "Mit der S-Bahn und dann noch zehn Minuten zu Fuß.",
+     "ru": "Как вы добираетесь до работы?"
+    },
+    {
+     "q": "Was machen Sie auf dem Weg zur Arbeit?",
+     "m": "Ich lerne Deutsch mit einer App oder höre Podcasts.",
+     "ru": "Что вы делаете по дороге на работу?"
+    },
+    {
+     "q": "Würden Sie für eine bessere Stelle umziehen?",
+     "m": "Für eine sehr gute Stelle vielleicht, aber meine Kinder gehen hier zur Schule, das ist schwierig.",
+     "ru": "Переехали бы вы ради лучшей работы?"
+    },
+    {
+     "q": "Bekommen Sie ein Jobticket?",
+     "m": "Ja, die Firma zahlt einen Zuschuss für das Deutschlandticket.",
+     "ru": "Получаете ли вы проездной от работы?"
+    }
+   ]
+  },
+  {
+   "id": "qbj15",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Künstliche Intelligenz",
+   "fragen": [
+    {
+     "q": "Haben Sie schon KI benutzt?",
+     "m": "Ja, ich benutze manchmal ein Programm, das mir hilft, E-Mails auf Deutsch zu schreiben.",
+     "ru": "Вы уже пользовались ИИ?"
+    },
+    {
+     "q": "Kann KI einen Arzt ersetzen?",
+     "m": "Nein. Sie kann bei der Diagnose helfen, aber Patienten brauchen einen Menschen, der mit ihnen spricht.",
+     "ru": "Может ли ИИ заменить врача?"
+    },
+    {
+     "q": "Was ist das größte Risiko?",
+     "m": "Dass man den Ergebnissen blind vertraut und Fehler nicht bemerkt. Auch der Datenschutz ist ein Problem.",
+     "ru": "Какой самый большой риск?"
+    },
+    {
+     "q": "Sollten Kinder in der Schule KI lernen?",
+     "m": "Ja, sie sollten lernen, wie man sie richtig und kritisch benutzt.",
+     "ru": "Должны ли дети изучать ИИ в школе?"
+    }
+   ]
+  },
+  {
+   "id": "qbj16",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Ehrenamt",
+   "fragen": [
+    {
+     "q": "Engagieren Sie sich ehrenamtlich?",
+     "m": "Ja, ich helfe einmal im Monat bei der Tafel und manchmal als Dolmetscherin für Russisch.",
+     "ru": "Занимаетесь ли вы волонтёрством?"
+    },
+    {
+     "q": "Warum machen Sie das?",
+     "m": "Weil mir am Anfang in Deutschland auch viele Menschen geholfen haben. Das möchte ich zurückgeben.",
+     "ru": "Почему вы это делаете?"
+    },
+    {
+     "q": "Wie viel Zeit sollte man dafür investieren?",
+     "m": "Das muss jeder selbst entscheiden. Schon zwei Stunden im Monat helfen.",
+     "ru": "Сколько времени стоит тратить?"
+    },
+    {
+     "q": "Sollte das Ehrenamt bezahlt werden?",
+     "m": "Eine kleine Aufwandsentschädigung finde ich gut, aber dann ist es kein echtes Ehrenamt mehr.",
+     "ru": "Должно ли волонтёрство оплачиваться?"
+    }
+   ]
+  },
+  {
+   "id": "qbj17",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Lohn",
+   "fragen": [
+    {
+     "q": "Sprechen Sie mit Kollegen über Ihr Gehalt?",
+     "m": "Mit guten Kolleginnen manchmal, aber in Deutschland ist das eher ein Tabuthema.",
+     "ru": "Говорите ли вы с коллегами о зарплате?"
+    },
+    {
+     "q": "Welcher Beruf sollte mehr verdienen?",
+     "m": "Pflegekräfte und Erzieherinnen, weil sie eine sehr wichtige Arbeit für die Gesellschaft machen.",
+     "ru": "Какая профессия должна получать больше?"
+    },
+    {
+     "q": "Haben Sie schon einmal nach mehr Geld gefragt?",
+     "m": "Ja, nach zwei Jahren. Ich habe eine kleine Erhöhung bekommen.",
+     "ru": "Вы когда-нибудь просили прибавку?"
+    },
+    {
+     "q": "Ist Geld das Wichtigste bei der Arbeit?",
+     "m": "Nein, ein gutes Team und sichere Arbeitszeiten sind mir genauso wichtig.",
+     "ru": "Деньги — самое важное в работе?"
+    }
+   ]
+  },
+  {
+   "id": "qbj18",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Sprache im Beruf",
+   "fragen": [
+    {
+     "q": "Wie haben Sie Deutsch gelernt?",
+     "m": "Zuerst im Integrationskurs, dann im Berufssprachkurs und jeden Tag bei der Arbeit.",
+     "ru": "Как вы учили немецкий?"
+    },
+    {
+     "q": "Was ist für Sie am schwierigsten?",
+     "m": "Telefonieren und Dialekt. Wenn Kollegen Sächsisch sprechen, verstehe ich manchmal nichts.",
+     "ru": "Что для вас самое трудное?"
+    },
+    {
+     "q": "Korrigieren Sie Ihre Kollegen?",
+     "m": "Ja, wenn ich darum bitte. Das hilft mir sehr.",
+     "ru": "Поправляют ли вас коллеги?"
+    },
+    {
+     "q": "Welches Niveau braucht man für Ihren Beruf?",
+     "m": "Für die Pflege braucht man mindestens B2, weil man viel dokumentieren muss.",
+     "ru": "Какой уровень нужен в вашей профессии?"
+    }
+   ]
+  },
+  {
+   "id": "qbj19",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Arbeitsschutz",
+   "fragen": [
+    {
+     "q": "Hatten Sie schon einmal einen Unfall bei der Arbeit?",
+     "m": "Zum Glück nur einen kleinen. Ich habe mich an einer Kiste geschnitten und es ins Verbandbuch eingetragen.",
+     "ru": "Был ли у вас несчастный случай на работе?"
+    },
+    {
+     "q": "Welche Schutzkleidung tragen Sie?",
+     "m": "Sicherheitsschuhe, Handschuhe und eine Warnweste.",
+     "ru": "Какую защитную одежду вы носите?"
+    },
+    {
+     "q": "Wer kontrolliert den Arbeitsschutz?",
+     "m": "In meiner Firma die Fachkraft für Arbeitssicherheit und manchmal die Berufsgenossenschaft.",
+     "ru": "Кто контролирует охрану труда?"
+    },
+    {
+     "q": "Was machen Sie, wenn ein Kollege die Regeln nicht beachtet?",
+     "m": "Ich sage es ihm freundlich. Wenn es gefährlich ist, informiere ich die Schichtleitung.",
+     "ru": "Что вы делаете, если коллега нарушает правила?"
+    }
+   ]
+  },
+  {
+   "id": "qbj20",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Generationen",
+   "fragen": [
+    {
+     "q": "Was können Sie von älteren Kollegen lernen?",
+     "m": "Viel Erfahrung und Ruhe. Sie wissen, wie man schwierige Situationen löst.",
+     "ru": "Чему можно научиться у старших коллег?"
+    },
+    {
+     "q": "Was können Jüngere den Älteren zeigen?",
+     "m": "Neue Programme und Apps, zum Beispiel für die Zeiterfassung.",
+     "ru": "Что молодые могут показать старшим?"
+    },
+    {
+     "q": "Gibt es in Ihrem Team Konflikte zwischen Alt und Jung?",
+     "m": "Manchmal bei der Arbeitsweise, aber meistens finden wir einen Kompromiss.",
+     "ru": "Есть ли конфликты между молодыми и старшими?"
+    },
+    {
+     "q": "Bis wann möchten Sie arbeiten?",
+     "m": "Bis zur Rente mit 67, wenn ich gesund bleibe. Vielleicht am Ende in Teilzeit.",
+     "ru": "До какого возраста вы хотите работать?"
+    }
+   ]
+  },
+  {
+   "id": "qbj21",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Kommunikation",
+   "fragen": [
+    {
+     "q": "Was ist für Sie typisch deutsch bei der Arbeit?",
+     "m": "Pünktlichkeit und dass man Probleme direkt anspricht.",
+     "ru": "Что для вас типично немецкое на работе?"
+    },
+    {
+     "q": "Wie geben Sie Kritik?",
+     "m": "Unter vier Augen, freundlich und mit einem Vorschlag, wie man es besser machen kann.",
+     "ru": "Как вы высказываете критику?"
+    },
+    {
+     "q": "Schreiben Sie lieber E-Mails oder telefonieren Sie?",
+     "m": "Lieber E-Mails, weil ich dann in Ruhe nachdenken und Wörter nachschlagen kann.",
+     "ru": "Вы предпочитаете писать или звонить?"
+    },
+    {
+     "q": "Duzen oder siezen Sie Ihre Kollegen?",
+     "m": "Die meisten duze ich, meine Chefin sieze ich.",
+     "ru": "Вы на ты или на вы с коллегами?"
+    }
+   ]
+  },
+  {
+   "id": "qbj22",
+   "ex": [
+    "DTB"
+   ],
+   "t": "Fragen zum Vortrag: Gastronomie",
+   "fragen": [
+    {
+     "q": "Warum ist es schwer, Personal für Restaurants zu finden?",
+     "m": "Wegen der Arbeit am Abend und am Wochenende und weil der Lohn oft niedrig ist.",
+     "ru": "Почему трудно найти персонал для ресторанов?"
+    },
+    {
+     "q": "Würden Sie gern in einem Hotel arbeiten?",
+     "m": "Ja, an der Rezeption, weil ich gern Sprachen spreche und Menschen kennenlerne.",
+     "ru": "Хотели бы вы работать в гостинице?"
+    },
+    {
+     "q": "Ist Trinkgeld in Ihrem Heimatland üblich?",
+     "m": "In Restaurants gibt man etwa zehn Prozent, aber nicht überall.",
+     "ru": "Принято ли у вас давать чаевые?"
+    },
+    {
+     "q": "Wie wichtig sind Fremdsprachen im Tourismus?",
+     "m": "Sehr wichtig. Englisch ist fast Pflicht, und jede weitere Sprache ist ein Vorteil.",
+     "ru": "Насколько важны иностранные языки в туризме?"
+    }
+   ]
+  }
+ ]
+}
