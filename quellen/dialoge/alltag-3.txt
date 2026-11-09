@@ -1,0 +1,438 @@
+# Dialoge Alltag – Teil 3 (J7)
+
+=== dlg-a31 | DTZ+DTB | Wohnung besichtigen | Vermieter | Sie besichtigen eine Wohnung und haben Fragen. | Вы осматриваете квартиру и задаёте вопросы.
+P: Guten Tag, kommen Sie herein. Das ist die Wohnung.
+A: Begrüße ihn und sag, dass die Wohnung hell ist. | Поздоровайся и скажи, что квартира светлая.
+M: Guten Tag. Die Wohnung *ist* sehr hell. || Guten Tag, die Wohnung ist schön hell.
+K: hell
+P: Ja, sie hat Fenster nach Süden. Haben Sie Fragen?
+A: Frag, wie hoch die Nebenkosten sind. | Спроси, сколько коммунальные платежи.
+M: Wie hoch *sind* die Nebenkosten? || Wie viel kosten die Nebenkosten?
+K: Nebenkosten
+P: Etwa 180 Euro im Monat, mit Heizung.
+A: Frag, ob Haustiere erlaubt sind. | Спроси, можно ли держать животных.
+M: *Sind* Haustiere erlaubt? || Darf man hier Haustiere haben?
+K: Haustiere
+P: Eine Katze ist kein Problem. Ab wann möchten Sie einziehen?
+A: Sag, dass du ab dem 1. März einziehen möchtest. | Скажи, что хочешь въехать с 1 марта.
+M: Ich *möchte* ab dem 1. März einziehen.
+K: März
+P: Gut. Dann schicke ich Ihnen den Vertrag.
+A: Bedanke dich und sag, dass du ihn gründlich lesen wirst. | Поблагодари и скажи, что внимательно прочитаешь.
+M: Vielen Dank, ich *lese* ihn gründlich. || Danke, ich werde ihn genau lesen.
+K: lese
+ENDE: Sehr gern. Auf Wiedersehen!
+
+=== dlg-a32 | DTZ+DTB | Paket abholen | Postangestellte | Sie holen ein Paket in der Postfiliale ab. | Вы забираете посылку на почте.
+P: Guten Tag, was kann ich für Sie tun?
+A: Sag, dass du ein Paket abholen möchtest. | Скажи, что хочешь забрать посылку.
+M: Ich *möchte* ein Paket abholen.
+K: Paket
+P: Haben Sie die Benachrichtigungskarte dabei?
+A: Sag ja und gib sie ihr. | Скажи «да» и отдай её.
+M: Ja, hier *ist* die Karte. || Ja, bitte schön.
+K: Karte
+P: Und Ihren Ausweis, bitte.
+A: Sag, dass das Paket für deinen Mann ist und du eine Vollmacht hast. | Скажи, что посылка для мужа и у тебя доверенность.
+M: Das Paket *ist* für meinen Mann. Ich habe eine Vollmacht.
+K: Vollmacht
+P: Gut, das passt. Hier ist Ihr Paket.
+A: Frag, ob du hier auch Briefmarken kaufen kannst. | Спроси, можно ли здесь купить марки.
+M: *Kann* ich hier auch Briefmarken kaufen?
+K: Briefmarken
+P: Ja, natürlich. Wie viele brauchen Sie?
+A: Sag, dass du fünf Briefmarken für Briefe nach Deutschland brauchst. | Скажи, что нужно пять марок для писем по Германии.
+M: Ich *brauche* fünf Briefmarken für Briefe in Deutschland.
+K: fünf
+ENDE: Das macht 4,75 Euro. Schönen Tag noch!
+
+=== dlg-a33 | DTZ+DTB | Im Bürgeramt anmelden | Sachbearbeiterin | Sie melden Ihre neue Adresse im Bürgeramt an. | Вы регистрируете новый адрес в бюро граждан.
+P: Guten Morgen. Worum geht es?
+A: Sag, dass du umgezogen bist und dich ummelden möchtest. | Скажи, что переехала и хочешь перерегистрироваться.
+M: Ich *bin* umgezogen und möchte mich ummelden.
+K: ummelden
+P: Haben Sie die Wohnungsgeberbestätigung?
+A: Sag ja, vom Vermieter unterschrieben. | Скажи «да», подписана арендодателем.
+M: Ja, mein Vermieter *hat* sie unterschrieben.
+K: unterschrieben
+P: Wann sind Sie eingezogen?
+A: Sag: vor einer Woche, am 3. Oktober. | Скажи: неделю назад, 3 октября.
+M: Ich *bin* vor einer Woche eingezogen, am 3. Oktober.
+K: Oktober
+P: Gut. Möchten Sie auch Ihre Kinder ummelden?
+A: Sag ja, deine zwei Kinder wohnen mit dir zusammen. | Скажи «да», двое детей живут с тобой.
+M: Ja, meine zwei Kinder *wohnen* mit mir zusammen.
+K: Kinder
+P: Dann brauche ich auch ihre Ausweise.
+A: Gib die Ausweise und frag, ob die Ummeldung etwas kostet. | Отдай паспорта и спроси, платно ли это.
+M: Hier *sind* die Ausweise. Kostet die Ummeldung etwas?
+K: kostet
+ENDE: Nein, die Ummeldung ist kostenlos.
+
+=== dlg-a34 | DTZ+DTB | Elterngespräch in der Schule | Lehrerin | Sie sprechen mit der Lehrerin Ihres Sohnes. | Вы разговариваете с учительницей сына.
+P: Schön, dass Sie gekommen sind. Wie geht es Ihrem Sohn zu Hause?
+A: Sag, dass er gern in die Schule geht, aber Mathe schwer findet. | Скажи, что он любит школу, но математика трудная.
+M: Er *geht* gern in die Schule, aber Mathe findet er schwer.
+K: Mathe
+P: Ja, das sehe ich auch. Er braucht mehr Übung.
+A: Frag, wie du ihm zu Hause helfen kannst. | Спроси, как ты можешь помочь дома.
+M: Wie *kann* ich ihm zu Hause helfen?
+K: helfen
+P: Üben Sie jeden Tag zehn Minuten das Einmaleins.
+A: Sag, dass ihr das ab heute macht. | Скажи, что вы будете делать это с сегодняшнего дня.
+M: Das *machen* wir ab heute. || Ab heute üben wir jeden Tag.
+K: ab heute
+P: Und in Deutsch ist er schon sehr gut.
+A: Sag, dass dich das freut, und frag nach einer Nachhilfe. | Скажи, что рада, и спроси о репетиторе.
+M: Das *freut* mich. Gibt es an der Schule eine Nachhilfe?
+K: Nachhilfe
+P: Ja, dienstags gibt es eine Hausaufgabenhilfe.
+A: Bedanke dich und sag, dass du ihn anmeldest. | Поблагодари и скажи, что запишешь его.
+M: Danke, ich *melde* ihn an.
+K: anmelden
+ENDE: Sehr gut. Auf Wiedersehen!
+
+=== dlg-a35 | DTZ+DTB | Fahrrad in der Werkstatt | Mechaniker | Ihr Fahrrad ist kaputt. | Ваш велосипед сломался.
+P: Hallo, was ist mit dem Fahrrad?
+A: Sag, dass die Bremse hinten nicht funktioniert. | Скажи, что задний тормоз не работает.
+M: Die Bremse hinten *funktioniert* nicht.
+K: Bremse
+P: Ich schaue mal. Ja, die Bremsbeläge sind alt.
+A: Frag, wie viel die Reparatur kostet. | Спроси, сколько стоит ремонт.
+M: Wie viel *kostet* die Reparatur?
+K: kostet
+P: Ungefähr 25 Euro.
+A: Frag, wann das Fahrrad fertig ist. | Спроси, когда велосипед будет готов.
+M: Wann *ist* das Fahrrad fertig?
+K: fertig
+P: Morgen ab 14 Uhr.
+A: Sag, dass du es morgen nach der Arbeit abholst. | Скажи, что заберёшь завтра после работы.
+M: Ich *hole* es morgen nach der Arbeit ab.
+K: abholen
+ENDE: Alles klar, bis morgen!
+
+=== dlg-a36 | DTZ+DTB | Beim Friseur | Friseurin | Sie möchten die Haare schneiden lassen. | Вы хотите подстричься.
+P: Hallo! Was darf es heute sein?
+A: Sag, dass du die Haare schneiden lassen möchtest. | Скажи, что хочешь подстричься.
+M: Ich *möchte* mir die Haare schneiden lassen.
+K: schneiden
+P: Wie kurz denn?
+A: Sag: nur fünf Zentimeter, nicht zu kurz. | Скажи: только пять сантиметров, не слишком коротко.
+M: Nur fünf Zentimeter, bitte. Nicht zu kurz. || Bitte nur fünf Zentimeter.
+K: fünf Zentimeter
+P: Soll ich die Haare auch waschen?
+A: Sag ja, bitte. | Скажи «да, пожалуйста».
+M: Ja, bitte. Waschen *ist* gut.
+K: ja
+P: So, fertig. Gefällt es Ihnen?
+A: Sag, dass es dir sehr gut gefällt, und frag, was es kostet. | Скажи, что очень нравится, и спроси цену.
+M: Es *gefällt* mir sehr gut. Was kostet das?
+K: gefällt
+ENDE: Das macht 32 Euro.
+
+=== dlg-a37 | DTZ+DTB | Reklamation im Geschäft | Verkäufer | Ihr neuer Föhn ist kaputt. | Ваш новый фен сломался.
+P: Guten Tag, kann ich Ihnen helfen?
+A: Sag, dass du den Föhn letzte Woche gekauft hast und er nicht mehr geht. | Скажи, что купила фен на прошлой неделе и он не работает.
+M: Ich *habe* den Föhn letzte Woche gekauft, und er geht nicht mehr.
+K: kaputt, geht nicht
+P: Haben Sie den Kassenbon?
+A: Sag ja und zeig ihn. | Скажи «да» и покажи его.
+M: Ja, hier *ist* der Kassenbon.
+K: Kassenbon
+P: Möchten Sie einen neuen Föhn oder Ihr Geld zurück?
+A: Sag, dass du lieber das Geld zurück möchtest. | Скажи, что лучше вернуть деньги.
+M: Ich *möchte* lieber mein Geld zurück.
+K: Geld zurück
+P: Kein Problem. Ich brauche nur noch Ihre Unterschrift.
+A: Frag, ob das Geld auf die Karte zurückkommt. | Спроси, вернутся ли деньги на карту.
+M: *Kommt* das Geld auf meine Karte zurück?
+K: Karte
+ENDE: Ja, in zwei bis drei Tagen.
+
+=== dlg-a38 | DTZ+DTB | Termin beim Zahnarzt | Arzthelferin | Sie haben Zahnschmerzen und rufen an. | У вас болит зуб, вы звоните.
+P: Zahnarztpraxis Müller, guten Tag.
+A: Sag, dass du starke Zahnschmerzen hast. | Скажи, что у тебя сильно болит зуб.
+M: Guten Tag, ich *habe* starke Zahnschmerzen.
+K: Zahnschmerzen
+P: Seit wann haben Sie die Schmerzen?
+A: Sag: seit gestern Abend, unten links. | Скажи: со вчерашнего вечера, внизу слева.
+M: Seit gestern Abend *tut* es unten links weh.
+K: gestern, links
+P: Können Sie heute um 11 Uhr kommen?
+A: Sag ja, das geht. | Скажи «да, получится».
+M: Ja, das *geht*. || Ja, 11 Uhr passt.
+K: geht
+P: Waren Sie schon bei uns?
+A: Sag nein, du bist zum ersten Mal da. | Скажи «нет, впервые».
+M: Nein, ich *komme* zum ersten Mal.
+K: ersten Mal
+P: Dann bringen Sie bitte Ihre Versichertenkarte mit.
+A: Bedanke dich und verabschiede dich. | Поблагодари и попрощайся.
+M: Das *mache* ich. Vielen Dank, bis später!
+ENDE: Bis später, gute Besserung!
+
+=== dlg-a39 | DTZ+DTB | Nachbarin bittet um Hilfe | Nachbarin | Ihre ältere Nachbarin braucht Hilfe. | Пожилой соседке нужна помощь.
+P: Entschuldigung, können Sie mir kurz helfen?
+A: Sag ja und frag, was los ist. | Скажи «да» и спроси, что случилось.
+M: Ja, natürlich. Was *ist* los?
+K: los
+P: Meine Einkaufstasche ist so schwer. Ich wohne im dritten Stock.
+A: Sag, dass du die Tasche nach oben trägst. | Скажи, что донесёшь сумку наверх.
+M: Ich *trage* Ihnen die Tasche nach oben.
+K: trage
+P: Das ist sehr nett von Ihnen!
+A: Sag, dass du gern hilfst, und frag, ob sie noch etwas braucht. | Скажи, что рада помочь, и спроси, нужно ли ещё что-то.
+M: Ich *helfe* gern. Brauchen Sie noch etwas?
+K: helfe
+P: Nein, danke. Aber kommen Sie doch mal auf einen Kaffee vorbei!
+A: Sag, dass du am Sonntag gern kommst. | Скажи, что с удовольствием придёшь в воскресенье.
+M: Am Sonntag *komme* ich gern vorbei.
+K: Sonntag
+ENDE: Wunderbar, ich backe einen Kuchen.
+
+=== dlg-a40 | DTZ+DTB | Probetraining im Fitnessstudio | Trainer | Sie interessieren sich für ein Fitnessstudio. | Вы интересуетесь фитнес-клубом.
+P: Hallo, willkommen! Kann ich Ihnen helfen?
+A: Sag, dass du ein Probetraining machen möchtest. | Скажи, что хочешь пробную тренировку.
+M: Ich *möchte* gern ein Probetraining machen.
+K: Probetraining
+P: Gern. Haben Sie schon Erfahrung?
+A: Sag, dass du lange keinen Sport gemacht hast. | Скажи, что давно не занималась спортом.
+M: Ich *habe* lange keinen Sport gemacht.
+K: lange
+P: Kein Problem, wir fangen langsam an. Haben Sie Rückenprobleme?
+A: Sag ja, manchmal tut dir der Rücken weh. | Скажи «да», иногда болит спина.
+M: Ja, manchmal *tut* mir der Rücken weh.
+K: Rücken
+P: Dann zeige ich Ihnen gute Übungen. Wann möchten Sie kommen?
+A: Sag: am Donnerstagabend um 18 Uhr. | Скажи: в четверг вечером в 18 часов.
+M: Am Donnerstag um 18 Uhr *passt* es mir gut.
+K: Donnerstag
+ENDE: Super, ich trage Sie ein.
+
+=== dlg-a41 | DTZ+DTB | Konto eröffnen | Bankberater | Sie möchten ein Konto eröffnen. | Вы хотите открыть счёт.
+P: Guten Tag, womit kann ich Ihnen helfen?
+A: Sag, dass du ein Girokonto eröffnen möchtest. | Скажи, что хочешь открыть текущий счёт.
+M: Ich *möchte* ein Girokonto eröffnen.
+K: Girokonto
+P: Haben Sie Ihren Pass und eine Meldebescheinigung?
+A: Sag ja und gib die Dokumente. | Скажи «да» и отдай документы.
+M: Ja, hier *sind* die Dokumente.
+K: Dokumente
+P: Möchten Sie auch Online-Banking?
+A: Sag ja und frag, ob es eine App gibt. | Скажи «да» и спроси, есть ли приложение.
+M: Ja, gern. *Gibt* es auch eine App?
+K: App
+P: Ja, die App ist kostenlos. Das Konto kostet vier Euro im Monat.
+A: Frag, ob es auch ein kostenloses Konto gibt. | Спроси, есть ли бесплатный счёт.
+M: *Gibt* es auch ein kostenloses Konto?
+K: kostenlos
+ENDE: Ja, wenn jeden Monat Ihr Gehalt kommt, ist es kostenlos.
+
+=== dlg-a42 | DTZ+DTB | Kita-Platz anfragen | Kita-Leiterin | Sie suchen einen Kita-Platz für Ihre Tochter. | Вы ищете место в детском саду для дочери.
+P: Kita Sonnenschein, guten Tag.
+A: Sag, dass du einen Platz für deine Tochter suchst. | Скажи, что ищешь место для дочери.
+M: Guten Tag, ich *suche* einen Kita-Platz für meine Tochter.
+K: Kita-Platz
+P: Wie alt ist Ihre Tochter?
+A: Sag, dass sie zwei Jahre alt ist. | Скажи, что ей два года.
+M: Sie *ist* zwei Jahre alt.
+K: zwei
+P: Haben Sie schon einen Kita-Gutschein?
+A: Sag ja, du hast ihn letzte Woche bekommen. | Скажи «да», получила на прошлой неделе.
+M: Ja, ich *habe* ihn letzte Woche bekommen.
+K: Gutschein
+P: Gut. Ab September haben wir einen Platz frei.
+A: Sag, dass das gut passt, und frag nach einem Besuchstermin. | Скажи, что подходит, и спроси о посещении.
+M: Das *passt* gut. Können wir die Kita vorher besuchen?
+K: besuchen
+ENDE: Natürlich, kommen Sie am Dienstag um 10 Uhr.
+
+=== dlg-a43 | DTZ+DTB | Taxi bestellen | Taxizentrale | Sie bestellen ein Taxi zum Bahnhof. | Вы заказываете такси на вокзал.
+P: Taxi Dresden, guten Tag.
+A: Sag, dass du ein Taxi brauchst. | Скажи, что нужно такси.
+M: Guten Tag, ich *brauche* ein Taxi.
+K: Taxi
+P: Wohin soll es gehen?
+A: Sag: zum Hauptbahnhof, dein Zug fährt um 7:30 Uhr. | Скажи: на главный вокзал, поезд в 7:30.
+M: Zum Hauptbahnhof. Mein Zug *fährt* um 7:30 Uhr.
+K: Hauptbahnhof
+P: Und wo sollen wir Sie abholen?
+A: Nenne die Adresse: Lindenstraße 14. | Назови адрес: Линденштрассе 14.
+M: Bitte *holen* Sie mich in der Lindenstraße 14 ab.
+K: Lindenstraße
+P: Um wie viel Uhr?
+A: Sag: um 6:45 Uhr, und du hast einen großen Koffer. | Скажи: в 6:45, у тебя большой чемодан.
+M: Um 6:45 Uhr, bitte. Ich *habe* einen großen Koffer.
+K: Koffer
+ENDE: Alles klar, der Fahrer ist pünktlich da.
+
+=== dlg-a44 | DTZ+DTB | Beim Optiker | Optikerin | Sie brauchen eine neue Brille. | Вам нужны новые очки.
+P: Guten Tag, wie kann ich helfen?
+A: Sag, dass du beim Lesen nicht mehr gut siehst. | Скажи, что плохо видишь при чтении.
+M: Ich *sehe* beim Lesen nicht mehr gut.
+K: Lesen
+P: Dann machen wir einen Sehtest. Haben Sie Zeit?
+A: Sag ja, du hast eine halbe Stunde Zeit. | Скажи «да», у тебя полчаса.
+M: Ja, ich *habe* eine halbe Stunde Zeit.
+K: Zeit
+P: Sie brauchen eine Lesebrille. Welches Gestell gefällt Ihnen?
+A: Sag, dass dir das schwarze Gestell gefällt, und frag nach dem Preis. | Скажи, что нравится чёрная оправа, и спроси цену.
+M: Das schwarze Gestell *gefällt* mir. Was kostet es?
+K: schwarze
+P: Mit Gläsern 120 Euro.
+A: Frag, wann die Brille fertig ist. | Спроси, когда очки будут готовы.
+M: Wann *ist* die Brille fertig?
+K: fertig
+ENDE: In einer Woche. Wir rufen Sie an.
+
+=== dlg-a45 | DTZ+DTB | Nachbarn wegen Lärm | Nachbar | Ihr Nachbar macht nachts Lärm. | Сосед шумит ночью.
+P: Ja, bitte?
+A: Grüß ihn und stell dich als Nachbarin von unten vor. | Поздоровайся и представься соседкой снизу.
+M: Guten Abend, ich *wohne* unter Ihnen.
+K: unter Ihnen
+P: Ah, hallo. Was gibt es?
+A: Sag freundlich, dass die Musik nachts sehr laut ist. | Вежливо скажи, что ночью музыка очень громкая.
+M: Die Musik *ist* in der Nacht leider sehr laut.
+K: laut
+P: Oh, das tut mir leid. Das wusste ich nicht.
+A: Sag, dass deine Kinder nicht schlafen können. | Скажи, что дети не могут спать.
+M: Meine Kinder *können* nicht schlafen.
+K: schlafen
+P: Ich mache die Musik ab 22 Uhr leiser, versprochen.
+A: Bedanke dich und wünsch einen schönen Abend. | Поблагодари и пожелай хорошего вечера.
+M: Vielen Dank! Ich *wünsche* Ihnen einen schönen Abend.
+K: danke
+ENDE: Danke, Ihnen auch.
+
+=== dlg-a46 | DTZ+DTB | Ausflug planen mit Freundin | Freundin | Sie planen mit einer Freundin einen Ausflug. | Вы планируете поездку с подругой.
+P: Was machen wir am Samstag?
+A: Schlag vor, in die Sächsische Schweiz zu fahren. | Предложи поехать в Саксонскую Швейцарию.
+M: Wir *könnten* in die Sächsische Schweiz fahren.
+K: Sächsische Schweiz
+P: Gute Idee! Wie kommen wir hin?
+A: Sag: mit der S-Bahn, das Deutschlandticket gilt. | Скажи: на электричке, действует Deutschlandticket.
+M: Wir *fahren* mit der S-Bahn, das Deutschlandticket gilt.
+K: S-Bahn
+P: Um wie viel Uhr treffen wir uns?
+A: Sag: um 9 Uhr am Hauptbahnhof. | Скажи: в 9 часов на главном вокзале.
+M: Wir *treffen* uns um 9 Uhr am Hauptbahnhof.
+K: 9 Uhr
+P: Und was nehmen wir mit?
+A: Sag, dass du Brote machst und sie Getränke mitbringen soll. | Скажи, что сделаешь бутерброды, а она возьмёт напитки.
+M: Ich *mache* Brote, und du bringst Getränke mit.
+K: Brote, Getränke
+ENDE: Super, ich freue mich!
+
+=== dlg-a47 | DTZ+DTB | Im Restaurant reklamieren | Kellner | Ihr Essen ist kalt. | Ваша еда холодная.
+P: Ist alles in Ordnung?
+A: Sag, dass die Suppe leider kalt ist. | Скажи, что суп, к сожалению, холодный.
+M: Die Suppe *ist* leider kalt.
+K: kalt
+P: Oh, das tut mir leid. Ich bringe Ihnen sofort eine neue.
+A: Bedanke dich. | Поблагодари.
+M: Danke, das *ist* nett.
+K: danke
+P: Möchten Sie noch etwas trinken?
+A: Bestell ein Mineralwasser. | Закажи минеральную воду.
+M: Ich *hätte* gern ein Mineralwasser.
+K: Mineralwasser
+P: So, hier sind die Suppe und das Wasser. Das Wasser geht aufs Haus.
+A: Bedanke dich und sag, dass die Suppe jetzt sehr gut ist. | Поблагодари и скажи, что суп теперь очень хороший.
+M: Vielen Dank! Die Suppe *schmeckt* jetzt sehr gut.
+K: schmeckt
+ENDE: Das freut mich. Guten Appetit!
+
+=== dlg-a48 | DTZ+DTB | Hausmeister anrufen | Hausmeister | Die Heizung ist kalt. | Батарея холодная.
+P: Hausmeisterdienst Kraus, hallo.
+A: Nenne deinen Namen und deine Adresse. | Назови имя и адрес.
+M: Hallo, hier *ist* Iwanowa aus der Parkstraße 8.
+K: Parkstraße
+P: Was kann ich für Sie tun?
+A: Sag, dass die Heizung im Wohnzimmer kalt bleibt. | Скажи, что батарея в гостиной остаётся холодной.
+M: Die Heizung im Wohnzimmer *bleibt* kalt.
+K: Heizung
+P: Seit wann?
+A: Sag: seit zwei Tagen. | Скажи: два дня.
+M: Seit zwei Tagen *ist* sie kalt.
+K: zwei Tagen
+P: Ich komme morgen um 10 Uhr. Sind Sie zu Hause?
+A: Sag, dass du arbeitest, aber die Nachbarin den Schlüssel hat. | Скажи, что работаешь, но ключ у соседки.
+M: Ich *arbeite*, aber meine Nachbarin hat den Schlüssel.
+K: Schlüssel
+ENDE: Gut, dann klingle ich bei ihr.
+
+=== dlg-a49 | DTZ+DTB | Kino-Karten kaufen | Kassiererin | Sie kaufen Kinokarten. | Вы покупаете билеты в кино.
+P: Guten Abend! Für welchen Film?
+A: Sag, dass du zwei Karten für „Familienurlaub“ möchtest. | Скажи, что хочешь два билета на «Семейный отпуск».
+M: Ich *möchte* zwei Karten für „Familienurlaub“.
+K: zwei Karten
+P: Um 18 oder um 20:30 Uhr?
+A: Sag: um 20:30 Uhr. | Скажи: в 20:30.
+M: Um 20:30 Uhr, bitte. || Wir nehmen 20:30 Uhr.
+K: 20:30
+P: Wo möchten Sie sitzen?
+A: Sag: in der Mitte, nicht zu weit vorne. | Скажи: в середине, не слишком близко.
+M: In der Mitte, bitte. Nicht zu weit vorne.
+K: Mitte
+P: Das macht 22 Euro.
+A: Frag, ob es eine Ermäßigung für Studenten gibt. | Спроси, есть ли скидка для студентов.
+M: *Gibt* es eine Ermäßigung für Studenten?
+K: Ermäßigung
+ENDE: Ja, mit Ausweis zahlen Sie 18 Euro.
+
+=== dlg-a50 | DTZ+DTB | Sprachcafé kennenlernen | Teilnehmer | Sie sind zum ersten Mal im Sprachcafé. | Вы впервые в языковом кафе.
+P: Hallo! Bist du neu hier?
+A: Sag ja und stell dich vor. | Скажи «да» и представься.
+M: Ja, ich *bin* neu. Ich heiße Olga.
+K: neu
+P: Woher kommst du?
+A: Sag, dass du aus Russland kommst und seit einem Jahr hier lebst. | Скажи, что из России и живёшь здесь год.
+M: Ich *komme* aus Russland und lebe seit einem Jahr hier.
+K: seit einem Jahr
+P: Und was machst du hier in Dresden?
+A: Sag, dass du einen Deutschkurs machst und Arbeit suchst. | Скажи, что ходишь на курс немецкого и ищешь работу.
+M: Ich *mache* einen Deutschkurs und suche Arbeit.
+K: Deutschkurs
+P: Toll. Kommst du nächste Woche wieder?
+A: Sag ja, gern, weil du hier viel sprechen kannst. | Скажи «да», потому что здесь много говоришь.
+M: Ja, gern, weil ich hier viel sprechen *kann*.
+K: sprechen
+ENDE: Super, bis nächste Woche!
+
+=== dlg-a51 | DTZ+DTB | Arzt: Ergebnis besprechen | Ärztin | Die Ärztin bespricht Ihre Blutwerte. | Врач обсуждает ваши анализы.
+P: Ihre Blutwerte sind da. Das Eisen ist etwas niedrig.
+A: Frag, was das bedeutet. | Спроси, что это значит.
+M: Was *bedeutet* das?
+K: bedeutet
+P: Deshalb sind Sie oft müde. Ich verschreibe Ihnen Tabletten.
+A: Frag, wie oft du sie nehmen musst. | Спроси, как часто их принимать.
+M: Wie oft *muss* ich die Tabletten nehmen?
+K: wie oft
+P: Einmal am Tag, morgens vor dem Frühstück.
+A: Frag, ob du etwas anders essen sollst. | Спроси, нужно ли изменить питание.
+M: *Soll* ich anders essen?
+K: essen
+P: Ja, mehr Gemüse und weniger schwarzen Tee zum Essen.
+A: Bedanke dich und frag, wann du wiederkommen sollst. | Поблагодари и спроси, когда прийти снова.
+M: Danke. Wann *soll* ich wiederkommen?
+K: wiederkommen
+ENDE: In drei Monaten machen wir noch einmal einen Bluttest.
+
+=== dlg-a52 | DTZ+DTB | Termin beim Jobcenter verschieben | Sachbearbeiter | Sie können einen Termin nicht wahrnehmen. | Вы не можете прийти на встречу.
+P: Jobcenter, Herr Wolf, guten Tag.
+A: Sag deinen Namen und dass du am Mittwoch einen Termin hast. | Назови имя и что у тебя встреча в среду.
+M: Guten Tag, hier *ist* Iwanowa. Ich habe am Mittwoch einen Termin.
+K: Mittwoch
+P: Ja, ich sehe ihn. Um 9 Uhr.
+A: Sag, dass du an diesem Tag deine Deutschprüfung hast. | Скажи, что в этот день у тебя экзамен.
+M: An diesem Tag *habe* ich meine Deutschprüfung.
+K: Prüfung
+P: Ah, dann verschieben wir. Geht Freitag um 10 Uhr?
+A: Sag ja, das geht. | Скажи «да, подходит».
+M: Ja, Freitag um 10 Uhr *geht*.
+K: Freitag
+P: Bringen Sie bitte eine Bestätigung von der Prüfung mit.
+A: Sag, dass du die Bestätigung mitbringst. | Скажи, что принесёшь подтверждение.
+M: Ich *bringe* die Bestätigung mit.
+K: Bestätigung
+ENDE: Gut. Viel Erfolg bei der Prüfung!
