@@ -1,0 +1,829 @@
+{
+ "brief": [
+  {
+   "id": "bj01",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kita: Kind wird abgeholt",
+   "situation": "Ihr Kind geht in die Kita. Morgen kann Ihr Kind nicht von Ihnen abgeholt werden. Schreiben Sie an die Erzieherin, Frau Berger.",
+   "punkte": [
+    "Warum schreiben Sie?",
+    "Wer holt Ihr Kind ab?",
+    "Wann?",
+    "Was soll die Erzieherin noch wissen?"
+   ],
+   "ru": "Ребёнка завтра заберёте не вы. Напишите воспитательнице: почему, кто заберёт, когда, что ещё важно.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Liebe Frau Berger,\n\nich schreibe Ihnen, weil ich morgen meinen Sohn Leon nicht selbst abholen kann. Ich muss bis 18 Uhr arbeiten.\n\nMeine Schwester, Frau Natalia Petrova, holt Leon um 16 Uhr ab. Sie hat ihren Ausweis dabei.\n\nBitte geben Sie ihr auch die Gummistiefel mit, die noch in der Garderobe stehen.\n\nVielen Dank!\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj02",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Freund: Umzugshilfe absagen",
+   "situation": "Ein Freund zieht am Samstag um. Sie haben versprochen zu helfen, aber Sie können nicht. Schreiben Sie ihm.",
+   "punkte": [
+    "Entschuldigen Sie sich.",
+    "Warum können Sie nicht?",
+    "Machen Sie einen anderen Vorschlag.",
+    "Wünschen Sie etwas."
+   ],
+   "ru": "Друг переезжает в субботу, вы обещали помочь, но не можете. Извинитесь, объясните, предложите другое, пожелайте что-нибудь.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Lieber Andrej,\n\nes tut mir sehr leid, aber ich kann am Samstag leider nicht beim Umzug helfen.\n\nMeine Chefin hat mich gefragt, ob ich eine Schicht übernehmen kann, weil eine Kollegin krank ist. Ich konnte nicht nein sagen.\n\nAber ich kann am Sonntag kommen und dir beim Auspacken und Aufbauen der Möbel helfen. Ich bringe auch Essen mit.\n\nIch wünsche dir einen guten Umzug und viel Glück in der neuen Wohnung!\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "bj03",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Vermieter: Schimmel im Bad",
+   "situation": "In Ihrem Badezimmer gibt es Schimmel. Schreiben Sie an Ihre Vermieterin, Frau Koch.",
+   "punkte": [
+    "Was ist das Problem?",
+    "Seit wann?",
+    "Was haben Sie schon gemacht?",
+    "Was soll die Vermieterin tun?"
+   ],
+   "ru": "В ванной плесень. Напишите арендодателю: проблема, с какого времени, что вы сделали, что должна сделать хозяйка.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrte Frau Koch,\n\nich wohne in der Ringstraße 14 im 1. Stock. Leider gibt es in meinem Badezimmer an der Wand neben dem Fenster Schimmel.\n\nDas Problem habe ich vor drei Wochen bemerkt. Seitdem wird der Fleck immer größer.\n\nIch lüfte jeden Tag mehrmals und habe die Wand schon geputzt, aber der Schimmel kommt immer wieder.\n\nBitte schicken Sie einen Handwerker, der sich das ansieht. Ich habe kleine Kinder und mache mir Sorgen um ihre Gesundheit.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj04",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kurs: Abmeldung",
+   "situation": "Sie besuchen einen Kochkurs an der Volkshochschule. Sie können nicht mehr teilnehmen. Schreiben Sie an die Volkshochschule.",
+   "punkte": [
+    "Welcher Kurs?",
+    "Warum können Sie nicht mehr kommen?",
+    "Fragen Sie nach dem Geld.",
+    "Fragen Sie nach einem anderen Kurs."
+   ],
+   "ru": "Вы ходите на кулинарные курсы, но больше не можете. Какой курс, почему, спросите о деньгах и о другом курсе.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nich besuche seit zwei Wochen den Kochkurs „Gesund kochen“ am Dienstagabend.\n\nLeider kann ich nicht mehr teilnehmen, weil ich eine neue Arbeit gefunden habe und jetzt abends arbeite.\n\nIst es möglich, dass ich einen Teil der Kursgebühr zurückbekomme? Ich habe 80 Euro bezahlt.\n\nGibt es den Kurs vielleicht auch am Samstagvormittag? Dann würde ich mich gern im nächsten Semester wieder anmelden.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj05",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Freundin: Einladung zum Essen",
+   "situation": "Sie möchten eine Freundin am Wochenende zum Essen einladen. Schreiben Sie ihr eine E-Mail.",
+   "punkte": [
+    "Warum laden Sie ein?",
+    "Wann und wo?",
+    "Was gibt es?",
+    "Was soll sie mitbringen?"
+   ],
+   "ru": "Пригласите подругу на ужин в выходные: повод, когда и где, что будет, что принести.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Liebe Marina,\n\nich habe am Samstag meine B1-Prüfung bestanden! Das möchte ich mit dir feiern.\n\nHast du am Sonntag um 18 Uhr Zeit? Ich lade dich zu mir nach Hause ein, Lindenweg 3.\n\nIch koche Plov und backe einen Honigkuchen, so wie bei meiner Oma.\n\nDu musst nichts mitbringen, nur gute Laune. Wenn du möchtest, kannst du aber deinen Mann mitbringen.\n\nIch freue mich auf dich!\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "bj06",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Arzt: Termin absagen",
+   "situation": "Sie haben morgen einen Termin beim Hautarzt. Sie können nicht kommen. Schreiben Sie an die Praxis.",
+   "punkte": [
+    "Welcher Termin?",
+    "Warum können Sie nicht?",
+    "Bitten Sie um einen neuen Termin.",
+    "Wann haben Sie Zeit?"
+   ],
+   "ru": "Отмените завтрашний приём у дерматолога: какой приём, почему, попросите новый, когда вам удобно.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nich habe morgen, am Donnerstag, um 9:30 Uhr einen Termin bei Frau Dr. Seidel.\n\nLeider kann ich nicht kommen, weil mein Sohn krank ist und ich zu Hause bleiben muss.\n\nKönnten Sie mir bitte einen neuen Termin geben?\n\nIch habe nächste Woche am Montag und Dienstag den ganzen Tag Zeit, an den anderen Tagen nur nachmittags ab 15 Uhr.\n\nEntschuldigen Sie bitte die kurzfristige Absage.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj07",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachbarin: Blumen gießen",
+   "situation": "Sie fahren zwei Wochen in Urlaub. Bitten Sie Ihre Nachbarin, Frau Wolf, um Hilfe.",
+   "punkte": [
+    "Wohin und wie lange fahren Sie?",
+    "Was soll sie machen?",
+    "Wie bekommt sie den Schlüssel?",
+    "Wie bedanken Sie sich?"
+   ],
+   "ru": "Вы уезжаете в отпуск на две недели. Попросите соседку о помощи: куда и как долго, что сделать, ключ, благодарность.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Liebe Frau Wolf,\n\nich fahre vom 3. bis 17. August mit meiner Familie nach Polen zu meinen Eltern.\n\nKönnten Sie in dieser Zeit bitte zweimal pro Woche meine Blumen gießen und den Briefkasten leeren?\n\nDen Schlüssel bringe ich Ihnen am Freitagabend vorbei, wenn Sie zu Hause sind.\n\nAls Dankeschön bringe ich Ihnen etwas Leckeres aus Polen mit. Und natürlich helfe ich Ihnen auch gern, wenn Sie wegfahren.\n\nViele Grüße\nOlga Iwanowa"
+  },
+  {
+   "id": "bj08",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Chef: Urlaub beantragen",
+   "situation": "Sie möchten im Sommer Urlaub nehmen. Schreiben Sie an Ihren Chef, Herrn Fischer.",
+   "punkte": [
+    "Wann möchten Sie Urlaub?",
+    "Warum zu dieser Zeit?",
+    "Wer macht Ihre Arbeit?",
+    "Bitten Sie um eine Antwort."
+   ],
+   "ru": "Попросите у начальника отпуск летом: когда, почему именно тогда, кто заменит, попросите ответ.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrter Herr Fischer,\n\nich möchte vom 14. bis 25. Juli Urlaub nehmen.\n\nIn dieser Zeit haben meine Kinder Schulferien, und wir möchten meine Eltern in Kasachstan besuchen. Die Flüge sind schon günstig zu bekommen.\n\nMeine Kollegin Frau Lang hat gesagt, dass sie meine Aufgaben übernehmen kann. Wir haben schon alles besprochen.\n\nBitte geben Sie mir bis Ende des Monats Bescheid, damit ich die Flüge buchen kann.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj09",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Schule: Klassenfahrt",
+   "situation": "Ihr Kind soll an einer Klassenfahrt teilnehmen. Sie haben Fragen. Schreiben Sie an die Klassenlehrerin, Frau Neumann.",
+   "punkte": [
+    "Danken Sie für die Information.",
+    "Fragen Sie nach den Kosten.",
+    "Fragen Sie nach Hilfe vom Amt.",
+    "Etwas Wichtiges über Ihr Kind."
+   ],
+   "ru": "Ребёнок едет в классную поездку. Поблагодарите, спросите о стоимости, о помощи от ведомства, сообщите важное о ребёнке.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Liebe Frau Neumann,\n\nvielen Dank für die Information über die Klassenfahrt nach Berlin im Juni.\n\nWie viel kostet die Fahrt genau, und bis wann müssen wir bezahlen?\n\nWir bekommen Bürgergeld. Kann ich die Kosten vom Jobcenter bekommen? Brauche ich dafür eine Bescheinigung von der Schule?\n\nNoch etwas Wichtiges: Meine Tochter Sofia hat eine Allergie gegen Nüsse. Bitte sagen Sie das auch der Jugendherberge.\n\nVielen Dank!\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj10",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Freund: Geburtstag vergessen",
+   "situation": "Sie haben den Geburtstag eines Freundes vergessen. Schreiben Sie ihm.",
+   "punkte": [
+    "Entschuldigen Sie sich.",
+    "Erklären Sie, warum.",
+    "Gratulieren Sie.",
+    "Machen Sie einen Vorschlag zum Feiern."
+   ],
+   "ru": "Вы забыли день рождения друга. Извинитесь, объясните, поздравьте, предложите отпраздновать.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Lieber Pawel,\n\nes tut mir so leid, dass ich deinen Geburtstag am Dienstag vergessen habe!\n\nIch hatte in dieser Woche sehr viel Stress, weil wir umgezogen sind. Ich habe einfach nicht auf den Kalender geschaut.\n\nIch gratuliere dir ganz herzlich nachträglich und wünsche dir alles Gute, vor allem Gesundheit und viel Erfolg in deiner neuen Arbeit!\n\nDarf ich dich am Freitagabend zum Essen einladen? Ich kenne ein tolles georgisches Restaurant in der Neustadt.\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "bj11",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Hausverwaltung: Waschmaschine im Keller",
+   "situation": "Die Waschmaschine im Waschkeller Ihres Hauses ist kaputt. Schreiben Sie an die Hausverwaltung.",
+   "punkte": [
+    "Was ist kaputt?",
+    "Seit wann?",
+    "Welche Probleme haben Sie?",
+    "Was soll die Hausverwaltung tun?"
+   ],
+   "ru": "Стиральная машина в подвале сломана. Напишите управляющей компании: что сломано, с каких пор, какие у вас проблемы, что нужно сделать.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nich wohne in der Parkstraße 22. Die Waschmaschine im Waschkeller ist kaputt. Sie startet nicht mehr, und es kommt Wasser heraus.\n\nDas Problem gibt es seit letztem Montag, also schon eine Woche.\n\nWir sind eine Familie mit drei Kindern und müssen jetzt in einen Waschsalon fahren. Das kostet viel Zeit und Geld.\n\nBitte schicken Sie so schnell wie möglich einen Techniker oder stellen Sie eine neue Maschine auf.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj12",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kollegin: Schicht tauschen",
+   "situation": "Sie möchten mit einer Kollegin die Schicht tauschen. Schreiben Sie ihr.",
+   "punkte": [
+    "Welche Schicht möchten Sie tauschen?",
+    "Warum?",
+    "Was bieten Sie an?",
+    "Bitten Sie um eine Antwort."
+   ],
+   "ru": "Попросите коллегу поменяться сменами: какую смену, почему, что предлагаете взамен, попросите ответить.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Liebe Tanja,\n\nkönntest du mit mir die Schicht tauschen? Ich habe am Freitag, dem 12., Frühschicht von 6 bis 14 Uhr.\n\nAn diesem Tag hat meine Tochter einen wichtigen Arzttermin, und ich muss sie begleiten.\n\nDafür übernehme ich gern deine Spätschicht am Montag oder am Mittwoch, wie es dir besser passt.\n\nBitte schreib mir bis morgen, ob das geht, damit ich es der Schichtleitung sagen kann.\n\nDanke dir!\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "bj13",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Bibliothek: Buch verloren",
+   "situation": "Sie haben ein Buch aus der Bibliothek verloren. Schreiben Sie an die Bibliothek.",
+   "punkte": [
+    "Welches Buch?",
+    "Was ist passiert?",
+    "Fragen Sie, was Sie tun müssen.",
+    "Bitten Sie um Entschuldigung."
+   ],
+   "ru": "Вы потеряли библиотечную книгу. Какую, что случилось, что делать, извинитесь.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nich habe vor drei Wochen das Buch „Deutsch im Alltag B1“ ausgeliehen. Meine Ausweisnummer ist 45512.\n\nLeider habe ich das Buch im Bus verloren. Ich habe schon beim Fundbüro gefragt, aber es ist nicht abgegeben worden.\n\nWas muss ich jetzt tun? Kann ich das gleiche Buch neu kaufen und Ihnen bringen, oder muss ich Geld bezahlen?\n\nEs tut mir sehr leid. Bitte entschuldigen Sie.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj14",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Bekannter: Tipp für Arzt",
+   "situation": "Ein Bekannter ist neu in der Stadt und sucht einen Hausarzt. Sie kennen eine gute Praxis. Schreiben Sie ihm.",
+   "punkte": [
+    "Welche Praxis empfehlen Sie?",
+    "Warum ist sie gut?",
+    "Wie kommt man dorthin?",
+    "Was soll er mitnehmen?"
+   ],
+   "ru": "Знакомый ищет врача. Порекомендуйте практику: какую, почему хорошая, как добраться, что взять с собой.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Hallo Sergej,\n\ndu suchst doch einen Hausarzt. Ich kann dir die Praxis von Frau Dr. Braun empfehlen.\n\nSie ist sehr freundlich und nimmt sich viel Zeit. Außerdem spricht eine Arzthelferin Russisch, das hilft am Anfang sehr.\n\nDie Praxis ist in der Hauptstraße 12. Du fährst mit der Straßenbahn 7 bis zur Haltestelle Rathaus, dann sind es nur zwei Minuten zu Fuß.\n\nVergiss nicht deine Versichertenkarte und, wenn du hast, alte Befunde aus deiner Heimat.\n\nGute Besserung, falls du krank bist!\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "bj15",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Stadtwerke: Zu hohe Rechnung",
+   "situation": "Sie haben eine Stromrechnung bekommen. Sie ist viel zu hoch. Schreiben Sie an die Stadtwerke.",
+   "punkte": [
+    "Warum schreiben Sie?",
+    "Was ist falsch?",
+    "Was haben Sie geprüft?",
+    "Was sollen die Stadtwerke tun?"
+   ],
+   "ru": "Счёт за электричество слишком высокий. Напишите в Stadtwerke: почему пишете, что неправильно, что проверили, что нужно сделать.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nich habe heute meine Jahresabrechnung für Strom bekommen. Meine Kundennummer ist 778 455.\n\nIch soll 640 Euro nachzahlen. Das ist viel zu viel, denn letztes Jahr hatten wir keine Nachzahlung.\n\nIch habe den Zähler kontrolliert. Auf der Rechnung steht 18.450, aber auf meinem Zähler steht 15.840. Ich glaube, die Zahlen sind vertauscht.\n\nBitte prüfen Sie die Rechnung noch einmal und schicken Sie mir eine neue. Ein Foto vom Zähler ist im Anhang.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj16",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Freundin: Kinderbetreuung",
+   "situation": "Sie müssen am Samstag arbeiten und haben keine Betreuung für Ihr Kind. Fragen Sie eine Freundin.",
+   "punkte": [
+    "Was ist das Problem?",
+    "Wann brauchen Sie Hilfe?",
+    "Was muss sie tun?",
+    "Was bieten Sie als Dank an?"
+   ],
+   "ru": "В субботу вам нужно работать, а ребёнка не с кем оставить. Попросите подругу: проблема, когда, что делать, чем отблагодарите.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Liebe Aischa,\n\nich habe eine große Bitte. Mein Chef hat gefragt, ob ich am Samstag arbeiten kann, und mein Mann ist auf einer Dienstreise.\n\nKönntest du am Samstag von 8 bis 15 Uhr auf Mila aufpassen?\n\nSie spielt gern mit deinen Kindern. Mittags muss sie etwas essen, ich gebe dir Essen mit. Um 13 Uhr schläft sie meistens eine Stunde.\n\nAls Dank passe ich gern am nächsten Wochenende auf deine Kinder auf, dann hast du einen freien Abend!\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "bj17",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Fitnessstudio: Kündigung",
+   "situation": "Sie möchten Ihren Vertrag im Fitnessstudio kündigen. Schreiben Sie an das Studio.",
+   "punkte": [
+    "Ihre Kundendaten",
+    "Ab wann kündigen Sie?",
+    "Warum?",
+    "Bitten Sie um eine Bestätigung."
+   ],
+   "ru": "Расторгните договор с фитнес-клубом: данные клиента, с какого времени, почему, попросите подтверждение.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nhiermit kündige ich meinen Vertrag. Mein Name ist Olga Iwanowa, meine Mitgliedsnummer ist 2245.\n\nIch kündige zum nächstmöglichen Termin, das ist laut Vertrag der 31. März.\n\nDer Grund ist, dass ich in eine andere Stadt umziehe. Dort gibt es kein Studio von Ihnen.\n\nBitte schicken Sie mir eine schriftliche Bestätigung der Kündigung per E-Mail.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj18",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Lehrer: Kind gemobbt",
+   "situation": "Ihr Kind wird in der Schule von anderen Kindern geärgert. Schreiben Sie an den Klassenlehrer, Herrn Roth.",
+   "punkte": [
+    "Was ist passiert?",
+    "Wie geht es Ihrem Kind?",
+    "Was wünschen Sie sich?",
+    "Bitten Sie um ein Gespräch."
+   ],
+   "ru": "Ребёнка обижают в школе. Напишите учителю: что произошло, как чувствует себя ребёнок, чего вы хотите, попросите о встрече.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrter Herr Roth,\n\nmein Sohn Artem aus der Klasse 3a hat mir erzählt, dass zwei Jungen ihn in der Pause oft auslachen, weil er noch nicht so gut Deutsch spricht. Gestern haben sie seine Mütze weggenommen.\n\nArtem ist sehr traurig und möchte morgens nicht mehr in die Schule gehen.\n\nIch wünsche mir, dass Sie mit den Kindern sprechen und in der Pause etwas mehr aufpassen.\n\nKönnten wir uns diese Woche zu einem Gespräch treffen? Ich habe jeden Tag ab 14 Uhr Zeit.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj19",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Freund: Wohnungstipp",
+   "situation": "Ein Freund sucht eine Wohnung. In Ihrem Haus wird eine Wohnung frei. Schreiben Sie ihm.",
+   "punkte": [
+    "Welche Wohnung?",
+    "Wie ist die Wohnung?",
+    "Was kostet sie?",
+    "Was soll er jetzt machen?"
+   ],
+   "ru": "Друг ищет квартиру, в вашем доме освобождается. Какая квартира, какая она, сколько стоит, что ему делать.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Lieber Viktor,\n\nich habe gute Nachrichten für dich! In unserem Haus wird zum 1. Mai eine Zweizimmerwohnung im dritten Stock frei.\n\nSie hat 58 Quadratmeter, einen Balkon und eine neue Küche. Das Haus ist ruhig und die Nachbarn sind nett.\n\nDie Miete beträgt 610 Euro warm.\n\nRuf am besten schnell bei der Hausverwaltung Elbe an, die Nummer ist 0351 223344. Sag ruhig, dass ich dich empfohlen habe.\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "bj20",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Ausländerbehörde: Termin",
+   "situation": "Ihr Aufenthaltstitel läuft bald ab. Sie haben online keinen Termin gefunden. Schreiben Sie an die Ausländerbehörde.",
+   "punkte": [
+    "Warum schreiben Sie?",
+    "Bis wann ist Ihr Titel gültig?",
+    "Welches Problem haben Sie?",
+    "Bitten Sie um einen Termin."
+   ],
+   "ru": "Срок вида на жительство скоро истекает, онлайн-записи нет. Почему пишете, до какого числа действует, проблема, попросите о записи.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nich möchte meine Aufenthaltserlaubnis verlängern.\n\nMeine Aufenthaltserlaubnis ist nur noch bis zum 30. April gültig.\n\nIch habe in den letzten zwei Wochen jeden Tag auf Ihrer Internetseite nach einem Termin gesucht, aber es gibt keinen freien Termin mehr vor dem 30. April.\n\nBitte geben Sie mir einen Termin oder sagen Sie mir, was ich tun soll. Ich arbeite und brauche eine gültige Erlaubnis für meinen Arbeitgeber.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj21",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Nachbar: Party einladen",
+   "situation": "Sie machen am Samstag eine Feier. Schreiben Sie eine Nachricht an Ihre Nachbarn.",
+   "punkte": [
+    "Was feiern Sie?",
+    "Wann?",
+    "Entschuldigen Sie sich für den Lärm.",
+    "Laden Sie die Nachbarn ein."
+   ],
+   "ru": "У вас в субботу праздник. Напишите соседям: что празднуете, когда, извинитесь за шум, пригласите.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Liebe Nachbarinnen und Nachbarn,\n\nmein Mann wird 40 Jahre alt, und das möchten wir mit Familie und Freunden feiern.\n\nDie Feier ist am Samstag, dem 15. Juni, ab 18 Uhr.\n\nEs kann ein bisschen lauter werden. Bitte entschuldigen Sie das schon jetzt. Um 22 Uhr machen wir die Musik leiser.\n\nSie sind natürlich herzlich eingeladen! Kommen Sie gern auf ein Glas Sekt und ein Stück Torte vorbei.\n\nViele Grüße\nFamilie Iwanowa, 2. Stock links"
+  },
+  {
+   "id": "bj22",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Krankenkasse: Zahnspange",
+   "situation": "Ihr Kind braucht eine Zahnspange. Sie haben Fragen zu den Kosten. Schreiben Sie an Ihre Krankenkasse.",
+   "punkte": [
+    "Warum schreiben Sie?",
+    "Was hat der Zahnarzt gesagt?",
+    "Fragen Sie nach den Kosten.",
+    "Fragen Sie, welche Unterlagen Sie brauchen."
+   ],
+   "ru": "Ребёнку нужны брекеты. Спросите в больничной кассе: почему пишете, что сказал врач, о стоимости, какие документы нужны.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nmeine Tochter Lisa, 11 Jahre, ist bei Ihnen familienversichert. Meine Versichertennummer ist B 882 113 445.\n\nDer Kieferorthopäde hat gesagt, dass Lisa eine feste Zahnspange braucht, weil ihre Zähne sehr schief sind.\n\nWie viel bezahlt die Krankenkasse, und wie viel müssen wir selbst bezahlen?\n\nWelche Unterlagen soll ich Ihnen schicken? Reicht der Behandlungsplan vom Arzt?\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj23",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Kollege: Abschied",
+   "situation": "Ein Kollege verlässt die Firma. Sie können nicht zur Abschiedsfeier kommen. Schreiben Sie ihm.",
+   "punkte": [
+    "Warum können Sie nicht kommen?",
+    "Danken Sie ihm für etwas.",
+    "Wünschen Sie ihm etwas.",
+    "Schlagen Sie ein Treffen vor."
+   ],
+   "ru": "Коллега уходит из фирмы, вы не придёте на прощание. Объясните почему, поблагодарите, пожелайте, предложите встретиться.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Lieber Markus,\n\nleider kann ich am Freitag nicht zu deiner Abschiedsfeier kommen, weil ich an diesem Tag meinen Deutschkurs habe und eine Prüfung schreibe.\n\nIch möchte dir danken. Am Anfang hast du mir alles im Lager gezeigt und mir immer geholfen, wenn ich etwas nicht verstanden habe.\n\nFür deine neue Stelle wünsche ich dir viel Erfolg und nette Kollegen.\n\nVielleicht können wir uns bald auf einen Kaffee treffen? Melde dich einfach!\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "bj24",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Hotel: Reservierung ändern",
+   "situation": "Sie haben ein Hotelzimmer reserviert. Sie möchten die Reservierung ändern. Schreiben Sie an das Hotel.",
+   "punkte": [
+    "Ihre Reservierung",
+    "Was möchten Sie ändern?",
+    "Warum?",
+    "Stellen Sie eine Frage."
+   ],
+   "ru": "Измените бронь в отеле: ваша бронь, что изменить, почему, задайте вопрос.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nich habe bei Ihnen vom 10. bis 12. Juli ein Doppelzimmer reserviert, die Reservierungsnummer ist 55871.\n\nIch möchte die Reservierung ändern: Wir brauchen ein Zimmer für drei Personen und möchten erst am 11. Juli anreisen.\n\nUnsere Tochter fährt jetzt mit, und mein Mann muss am 10. Juli noch arbeiten.\n\nIst das möglich, und wie viel kostet das Zimmer dann? Gibt es auch einen Parkplatz am Hotel?\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj25",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Freundin: Deutschkurs empfehlen",
+   "situation": "Eine Freundin möchte Deutsch lernen. Sie besuchen einen guten Kurs. Schreiben Sie ihr.",
+   "punkte": [
+    "Wo ist der Kurs?",
+    "Wie ist der Kurs?",
+    "Wann ist der Unterricht?",
+    "Wie kann sie sich anmelden?"
+   ],
+   "ru": "Подруга хочет учить немецкий. Расскажите о своём курсе: где, какой, когда, как записаться.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Liebe Alina,\n\ndu hast gefragt, wo man gut Deutsch lernen kann. Ich besuche einen Kurs bei der Sprachschule Lingua in der Bahnhofstraße.\n\nDer Kurs ist sehr gut. Wir sind nur 12 Personen, und die Lehrerin erklärt alles sehr geduldig. Wir sprechen viel und spielen manchmal auch.\n\nDer Unterricht ist von Montag bis Freitag von 8:30 bis 12:45 Uhr. Für Kinder gibt es eine Betreuung im Haus.\n\nDu kannst einfach am Dienstag zur Beratung kommen, dann machst du einen kleinen Test. Ich komme gern mit!\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "bj26",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Hausmeister: Licht im Treppenhaus",
+   "situation": "Im Treppenhaus funktioniert das Licht nicht. Schreiben Sie an den Hausmeister, Herrn Kraus.",
+   "punkte": [
+    "Was ist das Problem?",
+    "Seit wann?",
+    "Warum ist das gefährlich?",
+    "Was soll er tun?"
+   ],
+   "ru": "В подъезде не работает свет. Напишите управдому: проблема, с какого времени, почему опасно, что сделать.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrter Herr Kraus,\n\nim Treppenhaus im Haus 2 funktioniert das Licht zwischen dem zweiten und dritten Stock nicht.\n\nDas Problem gibt es seit Samstag.\n\nAbends ist es dort ganz dunkel, und man sieht die Treppe nicht. Das ist gefährlich, besonders für Frau Meier aus dem dritten Stock, die schlecht laufen kann, und für Kinder.\n\nBitte reparieren Sie das Licht so schnell wie möglich.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj27",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Tante: Besuch planen",
+   "situation": "Ihre Tante möchte Sie in Deutschland besuchen. Schreiben Sie ihr.",
+   "punkte": [
+    "Freuen Sie sich über den Besuch.",
+    "Wann passt es gut?",
+    "Was können Sie zusammen machen?",
+    "Was soll sie mitbringen?"
+   ],
+   "ru": "Тётя хочет приехать к вам в гости. Обрадуйтесь, скажите, когда удобно, что будете делать, что ей привезти.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Liebe Tante Galina,\n\nich freue mich sehr, dass du uns besuchen möchtest! Die Kinder fragen jeden Tag, wann du kommst.\n\nAm besten kommst du im August. Dann habe ich zwei Wochen Urlaub, und die Kinder haben Ferien.\n\nWir können zusammen nach Dresden in die Altstadt fahren, ein Schiff auf der Elbe nehmen und in die Sächsische Schweiz wandern.\n\nBitte bring warme Kleidung für den Abend mit, und wenn es geht, ein Glas von deiner Himbeermarmelade!\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "bj28",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Firma: Bewerbung nachfragen",
+   "situation": "Sie haben sich vor einem Monat bei einer Firma beworben, aber noch keine Antwort bekommen. Schreiben Sie an die Firma.",
+   "punkte": [
+    "Wann und als was haben Sie sich beworben?",
+    "Fragen Sie nach dem Stand.",
+    "Zeigen Sie Ihr Interesse.",
+    "Wie kann man Sie erreichen?"
+   ],
+   "ru": "Вы подали заявку месяц назад и не получили ответа. Когда и на какую должность, спросите о статусе, покажите интерес, как с вами связаться.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nam 3. März habe ich mich bei Ihnen als Verkäuferin in Teilzeit beworben.\n\nLeider habe ich noch keine Antwort bekommen. Ich möchte freundlich fragen, ob meine Bewerbung angekommen ist und wann Sie entscheiden.\n\nIch interessiere mich weiterhin sehr für die Stelle, weil ich gern mit Menschen arbeite und schon fünf Jahre Erfahrung im Verkauf habe.\n\nSie erreichen mich unter 0176 1234567 oder per E-Mail.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj29",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Freund: Hilfe am Computer",
+   "situation": "Sie brauchen Hilfe mit einem Formular am Computer. Ein Freund kennt sich gut aus. Schreiben Sie ihm.",
+   "punkte": [
+    "Was ist das Problem?",
+    "Warum ist es wichtig?",
+    "Wann hat er Zeit?",
+    "Was bieten Sie an?"
+   ],
+   "ru": "Нужна помощь с формой на компьютере. Попросите друга: проблема, почему важно, когда у него есть время, что вы предложите.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Lieber Daniel,\n\nich muss online einen Antrag auf Wohngeld stellen, aber ich verstehe das Formular nicht. Außerdem weiß ich nicht, wie ich die Dokumente hochladen kann.\n\nDer Antrag ist wichtig, weil ich ihn bis Ende des Monats abschicken muss.\n\nHättest du am Wochenende eine Stunde Zeit? Ich kann zu dir kommen, oder du kommst zu mir.\n\nAls Dank koche ich für dich – du magst doch meine Pelmeni so gern!\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "bj30",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Vermieterin: Haustier",
+   "situation": "Sie möchten eine Katze haben. Fragen Sie Ihre Vermieterin, Frau Engel.",
+   "punkte": [
+    "Warum schreiben Sie?",
+    "Was für ein Tier?",
+    "Warum ist es kein Problem?",
+    "Bitten Sie um eine Antwort."
+   ],
+   "ru": "Вы хотите завести кошку. Спросите хозяйку квартиры: почему пишете, какое животное, почему это не проблема, попросите ответ.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrte Frau Engel,\n\nich möchte Sie fragen, ob ich in meiner Wohnung eine Katze halten darf.\n\nEs ist eine junge Katze von meiner Kollegin, sie ist zehn Wochen alt und sehr ruhig.\n\nDie Katze bleibt nur in der Wohnung, sie macht keinen Lärm, und ich achte darauf, dass nichts kaputtgeht.\n\nBitte geben Sie mir bis nächste Woche Bescheid. Wenn Sie möchten, gebe ich Ihnen die Erlaubnis gern auch schriftlich zum Unterschreiben.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj31",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Schule: Elterngespräch absagen",
+   "situation": "Sie haben einen Termin für ein Gespräch in der Schule. Sie können nicht kommen. Schreiben Sie an die Lehrerin.",
+   "punkte": [
+    "Welcher Termin?",
+    "Warum können Sie nicht?",
+    "Schlagen Sie einen neuen Termin vor.",
+    "Stellen Sie eine Frage."
+   ],
+   "ru": "Отмените встречу в школе: какая встреча, почему не можете, предложите новое время, задайте вопрос.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Liebe Frau Hoffmann,\n\nwir haben am Mittwoch um 16 Uhr ein Gespräch über meinen Sohn David.\n\nLeider kann ich nicht kommen, weil ich eine Spätschicht übernehmen muss.\n\nGeht es vielleicht am Donnerstag oder Freitag nach 14 Uhr? Oder wir telefonieren, wenn das für Sie einfacher ist.\n\nIch möchte gern wissen: Macht David seine Hausaufgaben jetzt regelmäßig?\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  },
+  {
+   "id": "bj32",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Freundin: Gratulation zum Baby",
+   "situation": "Ihre Freundin hat ein Baby bekommen. Schreiben Sie ihr.",
+   "punkte": [
+    "Gratulieren Sie.",
+    "Fragen Sie nach dem Baby.",
+    "Bieten Sie Hilfe an.",
+    "Wann möchten Sie zu Besuch kommen?"
+   ],
+   "ru": "Подруга родила ребёнка. Поздравьте, спросите о малыше, предложите помощь, когда хотите прийти.",
+   "w": 30,
+   "rm": [
+    "Liebe … / Lieber …,",
+    "danke für deine Nachricht.",
+    "Leider kann ich nicht …, weil …",
+    "Hast du Lust, …?",
+    "Ich freue mich auf …",
+    "Viele Grüße"
+   ],
+   "m": "Liebe Julia,\n\nherzlichen Glückwunsch zur Geburt eurer kleinen Emma! Ich habe mich so sehr gefreut, als ich die Nachricht bekommen habe.\n\nWie geht es euch beiden? Schläft Emma schon ein bisschen in der Nacht?\n\nWenn du Hilfe brauchst, sag einfach Bescheid. Ich kann für euch einkaufen oder kochen.\n\nWann darf ich euch besuchen? Vielleicht nächste Woche am Wochenende? Ich bringe ein kleines Geschenk mit.\n\nViele Grüße\nOlga"
+  },
+  {
+   "id": "bj33",
+   "ex": [
+    "DTZ"
+   ],
+   "t": "Firma: Bescheinigung für Vermieter",
+   "situation": "Ihr neuer Vermieter braucht eine Gehaltsbescheinigung. Schreiben Sie an die Personalabteilung Ihrer Firma.",
+   "punkte": [
+    "Warum schreiben Sie?",
+    "Was brauchen Sie genau?",
+    "Bis wann?",
+    "Wie bekommen Sie das Dokument?"
+   ],
+   "ru": "Новому арендодателю нужна справка о зарплате. Напишите в отдел кадров: почему, что именно нужно, до какого срока, как получите документ.",
+   "w": 30,
+   "rm": [
+    "Sehr geehrte Damen und Herren, / Sehr geehrte Frau …,",
+    "ich schreibe Ihnen, weil …",
+    "Könnten Sie bitte …?",
+    "Ich würde gern wissen, …",
+    "Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen"
+   ],
+   "m": "Sehr geehrte Damen und Herren,\n\nich ziehe bald in eine neue Wohnung, und der Vermieter möchte eine Bescheinigung von meinem Arbeitgeber.\n\nIch brauche eine Bescheinigung über mein Einkommen und darüber, dass ich einen unbefristeten Vertrag habe.\n\nKönnten Sie mir die Bescheinigung bitte bis Freitag geben? Am Montag unterschreibe ich den Mietvertrag.\n\nAm liebsten hole ich sie selbst in Ihrem Büro ab. Eine E-Mail ist aber auch in Ordnung.\n\nMit freundlichen Grüßen\nOlga Iwanowa"
+  }
+ ]
+}
