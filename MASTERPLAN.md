@@ -200,6 +200,10 @@ Mario (09.11.2026): „Wir ändern die App ja sowieso als nächstes.“ Alles, w
 | A9 | Fortschritt ist heute an Aufgaben-IDs gebunden – beim Umbau IDs nie ändern, sonst geht Fortschritt verloren (`dl-prog`, `dl-stats`, `dl-set`, `dl-log`) | CLAUDE.md | Regel |
 | A10 | Niveauwahl A2–C2 (Phase 3) gleich im neuen Datenmodell vorsehen (`lv`-Feld überall vorhanden) | 2b | ⬜ |
 | A11 | Android-Hülle nur dann neu ausliefern, wenn Mikrofon/Aufnahme dazukommen – Nutzerin muss sonst nicht neu installieren | CLAUDE.md | Regel |
+| A12 | **Lernstand automatisch an den Server** (Mario, 10.11.2026): Die App schickt nach jeder Übungseinheit eine kurze Zusammenfassung (geübte Bereiche, richtig/falsch, schwächste Themen, Simulationen). Dazu eine **Übersicht für Mario** mit Login: pro Lernendem Lerntage, Trefferquote, Schwächen, Fortschritt. Datenschutz: Zustimmung in der App (ein/aus), Datenschutzerklärung, nur Kurzname/Code statt echter Namen. Läuft über die Webseite, keine neue APK nötig. | Mario | ⬜ wartet auf Server |
+| A13 | **Webseite zur App** – „mehr als nur professionell“ (Mario, 10.11.2026): Startseite, Vorstellung der App, Prüfungen (DTB/DTZ), Sprachen, Preise/Abo, Datenschutz und Impressum, später Login für Lernende und Betreuer. | Mario | ⬜ wartet auf Server |
+
+**Reihenfolge (Mario, 10.11.2026):** Der eigene Server (VPS mit Coolify) wird gerade eingerichtet. Erst wenn er läuft, beginnt der Umbau der App (A1–A13) und die Webseite.
 
 ---
 
