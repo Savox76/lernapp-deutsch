@@ -203,7 +203,7 @@ Mario (09.11.2026): „Wir ändern die App ja sowieso als nächstes.“ Alles, w
 | A12 | **Lernstand automatisch an den Server** (Mario, 10.11.2026): Die App schickt nach jeder Übungseinheit eine kurze Zusammenfassung (geübte Bereiche, richtig/falsch, schwächste Themen, Simulationen). Dazu eine **Übersicht für Mario** mit Login: pro Lernendem Lerntage, Trefferquote, Schwächen, Fortschritt. Datenschutz: Zustimmung in der App (ein/aus), Datenschutzerklärung, nur Kurzname/Code statt echter Namen. Läuft über die Webseite, keine neue APK nötig. | Mario | ⬜ wartet auf Server |
 | A13 | **Webseite zur App** – „mehr als nur professionell“ (Mario, 10.11.2026): Startseite, Vorstellung der App, Prüfungen (DTB/DTZ), Sprachen, Preise/Abo, Datenschutz und Impressum, später Login für Lernende und Betreuer. | Mario | ⬜ wartet auf Server |
 
-| A14 | **Gastmodus, 7 Tage Probe, Abo, mehrere Geräte** (Idee Mario, 10.11.2026 – Entwurf, Entscheidung Mario ❓): (1) Jede Installation meldet sich beim Server mit einer Geräte-Kennung (Android-ID, nur als Hash gespeichert) – die bleibt bei Neuinstallation gleich und ändert sich erst nach Zurücksetzen des Geräts. Der Server merkt sich Probebeginn pro Gerät → Neuinstallieren startet keine neue Probe. (2) Im Play Store das Abo mit Probezeit über Google Play Billing (für digitale Abos in Play-Apps vorgeschrieben); Google gibt die Probe nur einmal pro Google-Konto → zweite Sperre gegen Umgehung. (3) Optional Konto (E-Mail oder Google-Login): Fortschritt vom Gerät wird ins Konto übernommen, dann auf Tablet, zweitem Handy und im Browser nutzbar. (4) Web-Version: Probe nur mit bestätigtem Konto, Bezahlung über eigenen Zahlungsanbieter (z. B. Stripe). (5) Play Integrity API prüft, dass Anfragen wirklich von der echten App kommen. (6) Nach der Probe: Gastmodus eingeschränkt weiter (z. B. Grundkurs, wenige Aufgaben pro Tag). Braucht neue APK (Billing + Geräte-ID). Datenschutzerklärung und rechtliche Prüfung nötig. | Mario | ❓ |
+| A14 | **Gastmodus, 7 Tage Probe, Abo, mehrere Geräte** (Idee Mario, 10.11.2026 – Entwurf, Entscheidung Mario ❓): (1) Jede Installation meldet sich beim Server mit einer Geräte-Kennung (Android-ID, nur als Hash gespeichert) – die bleibt bei Neuinstallation gleich und ändert sich erst nach Zurücksetzen des Geräts. Der Server merkt sich Probebeginn pro Gerät → Neuinstallieren startet keine neue Probe. (2) Im Play Store das Abo mit Probezeit über Google Play Billing (für digitale Abos in Play-Apps vorgeschrieben); Google gibt die Probe nur einmal pro Google-Konto → zweite Sperre gegen Umgehung. (3) Optional Konto (E-Mail oder Google-Login): Fortschritt vom Gerät wird ins Konto übernommen, dann auf Tablet, zweitem Handy und im Browser nutzbar. (4) Web-Version: Probe nur mit bestätigtem Konto, Bezahlung über eigenen Zahlungsanbieter (z. B. Stripe). (5) Play Integrity API prüft, dass Anfragen wirklich von der echten App kommen. (6) Nach der Probe: Gastmodus eingeschränkt weiter (z. B. Grundkurs, wenige Aufgaben pro Tag). Braucht neue APK (Billing + Geräte-ID). Datenschutzerklärung und rechtliche Prüfung nötig. | Mario | ❓ → ausgearbeitet in **9.6** |
 
 **Reihenfolge (Mario, 10.11.2026):** Der eigene Server (VPS mit Coolify) wird gerade eingerichtet. Erst wenn er läuft, beginnt der Umbau der App (A1–A13) und die Webseite.
 
@@ -395,11 +395,52 @@ Zusätzlich **7 Tage Premium kostenlos** testen. Die bisherige Lernerin behält 
 | G5 | Start | Play-Store-Eintrag auf Deutsch und Russisch, Werbung in Telegram- und Facebook-Gruppen für Zuwanderer, Lehrkräfte von Integrations- und Berufssprachkursen ansprechen | erste 50 zahlende Abos | ⬜ offen |
 | G6 | Ausbau | weitere Hilfssprachen (siehe Phase 2, Abschnitt 2b), Jahresabo, Sprechen mit Aufnahme | Wachstum je nach Zahlen aus G5 | ⬜ offen |
 
+### 9.6 Bester Weg: Gast, Probe, Konto, Abo und Abo-Prüfung (Vorschlag Claude, 10.11.2026)
+
+**Grundidee:** Der **eigene Server ist die einzige Stelle, die entscheidet**, ob jemand Premium hat („Berechtigung“). Die App bezahlt nie selbst „frei“, sondern fragt immer den Server. Google Play oder der Web-Zahlungsanbieter melden dem Server, ob bezahlt wurde – der Server trägt das ein.
+
+**Empfehlung in Kürze**
+| Frage | Empfehlung | Warum |
+|---|---|---|
+| Probe | **7 Tage App-eigene Probe ohne Zahlungsdaten**, startet beim ersten Öffnen. Der Server merkt sich den Beginn pro Gerät (Android-ID als Hash) und prüft mit der **Play Integrity API**, dass die Anfrage von der echten App kommt. | Niedrige Hürde für die Zielgruppe (viele haben keine Kreditkarte). Neuinstallieren startet keine neue Probe, weil die Android-ID gleich bleibt. |
+| Nach der Probe | **Eingeschränkter Gastmodus** (Gratis-Umfang aus 9.2) + Hinweis „Premium freischalten“ | Wer täglich lernt, bleibt in der App und schließt eher ab. |
+| Abo in der Android-App | **Nur Google Play Billing** (Monatsabo 4,99 €, keine zweite Google-Probe) | Für digitale Abos in Play-Apps vorgeschrieben. Google kassiert, kümmert sich um Umsatzsteuer und Kündigungen. |
+| Konto | Vor der Probe **optional**, beim Abschluss des Abos **Pflicht** (Mit Google anmelden oder E-Mail mit Bestätigung). Der Fortschritt vom Gerät wird ins Konto übernommen. | Nur mit Konto funktioniert das Abo auch auf Tablet, zweitem Handy und im Browser. |
+| Abo im Browser | **Später** (nach dem Play-Start) über einen Zahlungsanbieter, der die Umsatzsteuer übernimmt („Merchant of Record“, z. B. Paddle oder Lemon Squeezy). Probe im Browser nur mit bestätigtem Konto. | Mit Stripe direkt müsste Mario die EU-Umsatzsteuer selbst abrechnen. |
+| Ausnahmen | **Freischaltcodes** auf dem Server (z. B. Victoria dauerhaft, Lehrkräfte, Testgruppe, Aktionen) | Unabhängig von Google, jederzeit vergeb- und widerrufbar. |
+| Inhalte schützen | Premium-Inhalte liefert der Server **nur mit gültiger Berechtigung** aus (siehe 9.1) | Sonst wäre das Abo umgehbar. |
+
+**Wie die App prüft, ob ein Abo noch läuft** (einfach erklärt)
+1. **Kauf:** Die Nutzerin tippt „Premium kaufen“, Google zeigt das Bezahlfenster. Nach dem Kauf bekommt die App von Google einen **Kaufbeleg** („Purchase-Token“) und schickt ihn an unseren Server. Beim Kauf geben wir Google zusätzlich die (verschlüsselte) Konto-Nummer mit, damit der Kauf eindeutig zum Konto gehört.
+2. **Server fragt Google:** Der Server fragt mit dem Beleg bei Google nach (Google Play Developer API, `purchases.subscriptionsv2.get`) – nur Googles Antwort zählt. Ist das Abo aktiv, trägt der Server „Premium bis <Datum>“ ein und **bestätigt den Kauf innerhalb von 3 Tagen** bei Google (sonst erstattet Google automatisch).
+3. **Google meldet Änderungen von selbst:** Über „Echtzeit-Benachrichtigungen“ (RTDN, Google Cloud Pub/Sub) schickt Google dem Server eine Nachricht bei Verlängerung, Kündigung, Zahlungsproblem oder Erstattung. Der Server fragt dann jedes Mal erneut bei Google nach und aktualisiert das Datum. **Mario muss nichts von Hand prüfen.**
+4. **Zustände:** aktiv → Premium · Zahlung fehlgeschlagen, Kulanzzeit → Premium bleibt vorerst · gekündigt → Premium bis Laufzeitende · abgelaufen/erstattet → zurück zum Gastmodus.
+5. **Die App fragt nur noch den Server:** beim Start und einmal täglich „Habe ich Premium? Bis wann?“. Die Antwort wird gespeichert, sodass **offline** weiter gelernt werden kann – bis zum Ablaufdatum plus 3 Tage Kulanz.
+6. **Web-Zahlungen** funktionieren genauso: Der Zahlungsanbieter ruft bei jeder Zahlung/Kündigung eine Adresse auf unserem Server auf („Webhook“), der Server trägt die Berechtigung ein.
+
+**Umsetzung in Schritten** (startet, sobald der Server läuft)
+| # | Schritt | Inhalt | Status |
+|---|---|---|---|
+| S1 | Server-Grundlage | Coolify auf dem VPS, eigene Domain mit HTTPS, Datenbank (PostgreSQL), kleiner API-Dienst, tägliche Sicherung | ⬜ wartet auf Server |
+| S2 | Geräte und Lernstand | App meldet sich mit Geräte-Hash + Play-Integrity-Prüfung an, Server speichert Probebeginn; Lernstand wird übertragen; Übersicht für Mario (A12) | ⬜ |
+| S3 | Konten | Mit Google anmelden + E-Mail-Login, Fortschritt vom Gerät ins Konto übernehmen, Web-Version mit Login | ⬜ |
+| S4 | Berechtigung | Tabelle „Premium bis“, Abfrage für die App, Offline-Kulanz, Gastmodus-Grenzen, Freischaltcodes, Premium-Inhalte nur mit Berechtigung | ⬜ |
+| S5 | Google Play vorbereiten | Entwicklerkonto (einmalig 25 $), Zahlungsprofil, Abo-Produkt 4,99 €/Monat anlegen, Lizenztester für Testkäufe | ⬜ |
+| S6 | Neue Android-App | Play Billing, Android-ID, Play Integrity, Mikrofon und Aufnahme (A3/A6) – alles in **einer** neuen Version | ⬜ |
+| S7 | Abo-Prüfung | Server prüft Kaufbelege bei Google, bestätigt Käufe, empfängt Echtzeit-Benachrichtigungen | ⬜ |
+| S8 | Rechtliches | Gewerbe, Impressum, Datenschutzerklärung (inkl. Geräte-ID und Lernstand), AGB mit Widerruf, Steuerfrage klären (siehe G3) | ⬜ |
+| S9 | Geschlossener Test | Pflicht bei neuen privaten Play-Konten: **mindestens 12 Tester, 14 Tage am Stück** im geschlossenen Test, erst dann ist die Veröffentlichung möglich. Gleichzeitig Testgruppe G2. | ⬜ |
+| S10 | Web-Abo (später) | Zahlungsanbieter mit Umsatzsteuer-Übernahme, Webhooks, Probe nur mit Konto | ⬜ |
+
+**Quellen:** [Google Play: Testanforderungen für neue private Konten](https://support.google.com/googleplay/android-developer/answer/14151465) · [Android Developers: Abo-Lebenszyklus und Prüfung im Backend](https://developer.android.com/google/play/billing/lifecycle/subscriptions) · [Google Play Developer API](https://developer.android.com/google/play/developer-api)
+
 ### 9.5 Offene Entscheidungen (Mario)
 
 - ❓ Preis: nur Monatsabo 4,99 € oder zusätzlich ein günstigeres Jahresabo?
 - ❓ Name der App für den Play Store
-- ❓ Online-Speicher: Supabase oder Firebase (Claude macht vor G4 einen Vorschlag)
+- ❓ Online-Speicher: **Vorschlag Claude (10.11.2026): eigener Server** (VPS mit Coolify, PostgreSQL) statt Supabase/Firebase – siehe 9.6
+- ❓ Probe ohne Zahlungsdaten (Vorschlag) oder mit hinterlegter Zahlungsart?
+- ❓ Genauer Umfang des Gastmodus nach der Probe (Vorschlag: Gratis-Spalte aus 9.2)
 - ❓ Wann startet G2? Vorschlag war: sobald M10 fertig ist → **M10 ist fertig**, die Entscheidung liegt bei Mario
 
 Neue Aufgabentypen und Änderungen an `android/` werden auch hier erst nach Rücksprache gebaut.
