@@ -267,6 +267,42 @@ Entscheidung Mario: Sobald Android läuft, muss es die App genauso für Apple ge
 | Bauen | iOS-Builds brauchen macOS → Cloud-Build (z. B. GitHub Actions mit macOS oder Codemagic), kein eigener Mac nötig. Testen über TestFlight. |
 | Reihenfolge | Erst Android stabil, dann iOS mit demselben Stand. Beide Stores bekommen danach immer gleichzeitig Updates. |
 
+### Store-Regeln: so muss die App gebaut sein, damit sie angenommen wird (Mario, 22.11.2026)
+
+Grundsatz: Diese Punkte gelten **von Anfang an** beim Bau der neuen App, nicht erst vor der Einreichung. Vor jeder Einreichung die Liste abhaken. (Stand der Regeln: November 2026 – vor dem Start erneut prüfen, Apple und Google ändern sie laufend.)
+
+**Beide Stores**
+
+| # | Regel | Was wir tun | Status |
+|---|---|---|---|
+| R1 | Keine reine Website-Hülle | Echte App-Funktionen: offline lernen, Spracherkennung, Aufnahme, Erinnerungen, Kauf im Store | ⬜ |
+| R2 | Abo nur über den Store | Google Play Billing bzw. Apple In-App-Kauf; in der App kein Link/Hinweis auf günstigeres Bezahlen woanders | ⬜ |
+| R3 | Abo klar erklären | Vor dem Kauf: Preis, Laufzeit, Probezeit, automatische Verlängerung, Kündigung; Links zu AGB und Datenschutz auf der Kaufseite; Knopf „Käufe wiederherstellen“ | ⬜ |
+| R4 | Konto löschen in der App | Wer ein Konto anlegen kann, muss es in der App (Einstellungen) selbst löschen können – inkl. Daten; zusätzlich Lösch-Link auf der Webseite (Google verlangt das) | ⬜ |
+| R5 | Datenschutz | Datenschutzerklärung (Webseite + Link in der App), Google „Datensicherheit“-Formular und Apple „Datenschutz-Angaben“ genau ausfüllen | ⬜ |
+| R6 | KI nur mit Zustimmung | Bevor Daten (Text, Sprache, Brieffoto) an einen KI-Dienst gehen: eigener Zustimmungs-Bildschirm, der sagt **was** gesendet wird und **an wen** (Apple 5.1.2(i)). Ein Satz in der Datenschutzerklärung reicht nicht. | ⬜ |
+| R7 | KI-Antworten melden | Bei KI-Gesprächen und Brief-Hilfe ein „Antwort melden“-Knopf; Hinweis, dass der Partner eine KI ist und Fehler machen kann | ⬜ |
+| R8 | Berechtigungen erklären | Mikrofon/Spracherkennung erst abfragen, wenn man die Funktion nutzt, mit kurzer Erklärung warum; iOS-Texte `NSMicrophoneUsageDescription` und `NSSpeechRecognitionUsageDescription` | ⬜ |
+| R9 | Altersfreigabe | Fragebogen in beiden Stores ausfüllen; App ab 16 (Konto), keine Kinder-Zielgruppe | ⬜ |
+| R10 | Keine offiziellen Prüfungsinhalte | Nur eigene Aufgaben; klarer Hinweis „nicht offiziell, nicht mit BAMF/telc/Goethe verbunden“; Markennamen nur beschreibend | ✅ Regel gilt schon (CLAUDE.md) |
+| R11 | Test-Zugang für die Prüfer | Für die Store-Prüfung ein Demo-Konto mit vollem Zugang mitgeben | ⬜ |
+| R12 | Händler-Angaben (EU, DSA) | Wer Geld verdient, gilt als „Händler“: Adresse, Telefon, E-Mail werden im Store öffentlich angezeigt → Geschäftsadresse/-telefon besorgen (nicht die Privatadresse), passt zu G3 | ❓ Mario |
+
+**Nur Google Play**
+
+| # | Regel | Was wir tun | Status |
+|---|---|---|---|
+| R13 | Ziel-API aktuell | Seit 31.08.2026: neue Apps und Updates müssen Android 16 (API 36) als Ziel haben. **Heute: `targetSdk 34`** → beim Umbau auf 36 anheben | ⬜ |
+| R14 | Geschlossener Test vorher | Neues privates Entwicklerkonto: mindestens 12 Tester, 14 Tage am Stück im geschlossenen Test, bevor die App öffentlich darf. Passt zur Testgruppe G2 (10–20 Lernende) → mind. 15 einplanen. Alternative: Konto als Organisation (braucht D-U-N-S-Nummer, dann entfällt die Pflicht) | ⬜ |
+
+**Nur Apple**
+
+| # | Regel | Was wir tun | Status |
+|---|---|---|---|
+| R15 | Anmeldung mit Apple | Wenn es „Mit Google anmelden“ gibt, muss es auch eine gleichwertige Apple-Anmeldung geben (oder nur E-Mail-Anmeldung) | ⬜ |
+| R16 | Small Business Program | Gleich nach Kontoeröffnung beantragen → 15 % statt höherer Provision | ⬜ |
+| R17 | Qualität | Keine Platzhalter, keine toten Knöpfe, alles fertig; Screenshots zeigen die echte App | ⬜ |
+
 ### Reihenfolge
 
 1. Server fertig (läuft gerade).
