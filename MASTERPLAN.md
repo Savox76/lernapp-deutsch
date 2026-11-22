@@ -202,8 +202,8 @@ Mario (09.11.2026): „Wir ändern die App ja sowieso als nächstes.“ Alles, w
 | A11 | Android-Hülle nur dann neu ausliefern, wenn Mikrofon/Aufnahme dazukommen – Nutzerin muss sonst nicht neu installieren | CLAUDE.md | Regel |
 | A12 | **Lernstand automatisch an den Server** (Mario, 10.11.2026): Die App schickt nach jeder Übungseinheit eine kurze Zusammenfassung (geübte Bereiche, richtig/falsch, schwächste Themen, Simulationen). Dazu eine **Übersicht für Mario** mit Login: pro Lernendem Lerntage, Trefferquote, Schwächen, Fortschritt. Datenschutz: Zustimmung in der App (ein/aus), Datenschutzerklärung, nur Kurzname/Code statt echter Namen. Läuft über die Webseite, keine neue APK nötig. | Mario | ⬜ wartet auf Server |
 | A13 | **Webseite zur App** – „mehr als nur professionell“ (Mario, 10.11.2026): Startseite, Vorstellung der App, Prüfungen (DTB/DTZ), Sprachen, Preise/Abo, Datenschutz und Impressum, später Login für Lernende und Betreuer. | Mario | ⬜ wartet auf Server |
-
 | A14 | **Gastmodus, 7 Tage Probe, Abo, mehrere Geräte** (Idee Mario, 10.11.2026 – Entwurf, Entscheidung Mario ❓): (1) Jede Installation meldet sich beim Server mit einer Geräte-Kennung (Android-ID, nur als Hash gespeichert) – die bleibt bei Neuinstallation gleich und ändert sich erst nach Zurücksetzen des Geräts. Der Server merkt sich Probebeginn pro Gerät → Neuinstallieren startet keine neue Probe. (2) Im Play Store das Abo mit Probezeit über Google Play Billing (für digitale Abos in Play-Apps vorgeschrieben); Google gibt die Probe nur einmal pro Google-Konto → zweite Sperre gegen Umgehung. (3) Optional Konto (E-Mail oder Google-Login): Fortschritt vom Gerät wird ins Konto übernommen, dann auf Tablet, zweitem Handy und im Browser nutzbar. (4) Web-Version: Probe nur mit bestätigtem Konto, Bezahlung über eigenen Zahlungsanbieter (z. B. Stripe). (5) Play Integrity API prüft, dass Anfragen wirklich von der echten App kommen. (6) Nach der Probe: Gastmodus eingeschränkt weiter (z. B. Grundkurs, wenige Aufgaben pro Tag). Braucht neue APK (Billing + Geräte-ID). Datenschutzerklärung und rechtliche Prüfung nötig. | Mario | ✅ entschieden (10.11.2026), Umsetzung nach Plan **9.6** |
+| A15 | **iPhone-Version** (Mario, 22.11.2026): Android und iOS aus einer Codebasis (Capacitor), Abo über App Store und Google Play – Details in 2f „Plattformen“ | Mario | ⬜ nach Android |
 
 **Reihenfolge (Mario, 10.11.2026):** Der eigene Server (VPS mit Coolify) wird gerade eingerichtet. Erst wenn er läuft, beginnt der Umbau der App (A1–A13) und die Webseite.
 
@@ -253,6 +253,20 @@ Sprechfehler fließen genauso in Prüfungsreife und Fehleranalyse ein wie Schrei
 
 ⭐ = größter Effekt (Top 3). **Nicht gewollt:** kindische Spielelemente (Edelsteine, Maskottchen-Druck) – Zielgruppe sind Erwachsene mit echtem Ziel.
 
+### Plattformen: Android **und** iPhone (Mario, 22.11.2026)
+
+Entscheidung Mario: Sobald Android läuft, muss es die App genauso für Apple geben, um jeden zu erreichen.
+
+| Punkt | Lösung |
+|---|---|
+| Eine Codebasis | Die Web-App bleibt der Kern. Statt der eigenen WebView-Hülle kommt **Capacitor** als Hülle für Android und iOS – derselbe Code, zwei Stores. Inhalte weiter ohne App-Update. |
+| Sprechen | Spracherkennung + Mikrofon über ein Capacitor-Plugin (Android `SpeechRecognizer`, iOS Speech-Framework). Ersetzt den AndroidBridge-Weg aus A3. iOS braucht Berechtigungstexte für Mikrofon und Spracherkennung. |
+| Abo | Apple verlangt In-App-Kauf (StoreKit), Google Play Billing. Beides über **ein** Plugin (z. B. RevenueCat oder ein natives Purchases-Plugin); der Server prüft das Abo für alle Plattformen gleich. |
+| Apple-Prüfung | Reine Website-Hüllen lehnt Apple ab → die App braucht echte App-Funktionen (offline lernen, Sprechen, Aufnahme, Erinnerungen). Mit dem neuen Konzept erfüllt. |
+| Kosten | Apple-Entwicklerkonto 99 $/Jahr. Provision im Small Business Program 15 % (wie Google). |
+| Bauen | iOS-Builds brauchen macOS → Cloud-Build (z. B. GitHub Actions mit macOS oder Codemagic), kein eigener Mac nötig. Testen über TestFlight. |
+| Reihenfolge | Erst Android stabil, dann iOS mit demselben Stand. Beide Stores bekommen danach immer gleichzeitig Updates. |
+
 ### Reihenfolge
 
 1. Server fertig (läuft gerade).
@@ -260,7 +274,8 @@ Sprechfehler fließen genauso in Prüfungsreife und Fehleranalyse ein wie Schrei
 3. Kern: B1–B3, B6, Statistik → Lernerin testet.
 4. Sprechen S1 + S2 (APK-Update mit Mikrofon, A3/A6), L1, L2, L4, L5.
 5. Konten, Abo, Gast + 7 Tage Probe (9.6), Betreuer-Ansicht (A12), B4, B5, L8.
-6. Weitere Ausgangssprachen, S3 (KI-Gespräche), L3 (Behördenbrief), L6, L7.
+6. **iPhone-Version** (gleicher Stand wie Android, App Store, TestFlight-Test).
+7. Weitere Ausgangssprachen, S3 (KI-Gespräche), L3 (Behördenbrief), L6, L7.
 
 ---
 
