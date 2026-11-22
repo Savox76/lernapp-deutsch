@@ -468,7 +468,7 @@ Zuerst mit einer Lernerin testen, dann mit 3–5 weiteren Lernenden. Nötig wär
 
 | Heute | Problem für ein Abo | Lösung |
 |---|---|---|
-| Inhalte liegen öffentlich (Repo und GitHub Pages) | Jeder kann alles kostenlos abrufen, ein Abo wäre wertlos | Bezahlinhalte in ein **privates Repo** und auf einen Server, der sie nur nach Anmeldung ausliefert |
+| Inhalte liegen öffentlich (Repo und GitHub Pages) | Jeder kann alles kostenlos abrufen, ein Abo wäre wertlos | Bezahlinhalte in ein **privates Repo** und auf einen Server, der sie nur nach Anmeldung ausliefert <br>**Entscheidung Mario (22.11.2026):** Das Repo wird privat, GitHub nur noch zum Programmieren. Coolify holt den Code aus dem privaten Repo (GitHub-App) und baut automatisch. Inhalte kommen vom eigenen Server (nur nach Anmeldung, auf dem Handy zwischengespeichert für offline). **Achtung:** Repo erst privat schalten, wenn die heutige App nicht mehr von `savox76.github.io` lädt – sonst ist die App der Lernerin sofort leer (GitHub Pages bei privaten Repos nur mit Bezahl-Plan). |
 | Fortschritt nur im localStorage | Neues Handy oder Daten gelöscht heißt Fortschritt weg. Für zahlende Kunden ist das nicht akzeptabel | **Konto und Online-Speicher**, z. B. Supabase oder Firebase; localStorage bleibt als Offline-Zwischenspeicher |
 | Android-App ist nur eine WebView-Hülle | Google Play lehnt reine Website-Hüllen oft ab. Digitale Abos in der App müssen über **Google Play Billing** laufen | App bekommt eigene Funktionen (offline lernen, Vorlesen, Sprechen aufnehmen) und Play Billing |
 | Oberfläche auf Deutsch | Neue Nutzer verstehen die Bedienung nicht sofort | Menüs und Hilfe zusätzlich auf Russisch, später weitere Sprachen (Phase 2, M18) |
