@@ -1,6 +1,6 @@
 # Masterplan – Deutsch lernen A2 · B1 · B2 (DTB und DTZ)
 
-Stand: 08.11.2026 · Verantwortlich: Mario · Umsetzung: Claude
+Stand: 22.11.2026 (Konzept 2f ergänzt) · Verantwortlich: Mario · Umsetzung: Claude
 
 **Zuletzt komplett geprüft:** 09.11.2026 nach J7 (Code, Inhalte und Veröffentlichung abgeglichen).
 Zeichen: ✅ eingebaut/fertig · 🟡 teilweise · ⏳ in Arbeit · ⬜ offen · ❓ Entscheidung von Mario nötig
@@ -206,6 +206,61 @@ Mario (09.11.2026): „Wir ändern die App ja sowieso als nächstes.“ Alles, w
 | A14 | **Gastmodus, 7 Tage Probe, Abo, mehrere Geräte** (Idee Mario, 10.11.2026 – Entwurf, Entscheidung Mario ❓): (1) Jede Installation meldet sich beim Server mit einer Geräte-Kennung (Android-ID, nur als Hash gespeichert) – die bleibt bei Neuinstallation gleich und ändert sich erst nach Zurücksetzen des Geräts. Der Server merkt sich Probebeginn pro Gerät → Neuinstallieren startet keine neue Probe. (2) Im Play Store das Abo mit Probezeit über Google Play Billing (für digitale Abos in Play-Apps vorgeschrieben); Google gibt die Probe nur einmal pro Google-Konto → zweite Sperre gegen Umgehung. (3) Optional Konto (E-Mail oder Google-Login): Fortschritt vom Gerät wird ins Konto übernommen, dann auf Tablet, zweitem Handy und im Browser nutzbar. (4) Web-Version: Probe nur mit bestätigtem Konto, Bezahlung über eigenen Zahlungsanbieter (z. B. Stripe). (5) Play Integrity API prüft, dass Anfragen wirklich von der echten App kommen. (6) Nach der Probe: Gastmodus eingeschränkt weiter (z. B. Grundkurs, wenige Aufgaben pro Tag). Braucht neue APK (Billing + Geräte-ID). Datenschutzerklärung und rechtliche Prüfung nötig. | Mario | ✅ entschieden (10.11.2026), Umsetzung nach Plan **9.6** |
 
 **Reihenfolge (Mario, 10.11.2026):** Der eigene Server (VPS mit Coolify) wird gerade eingerichtet. Erst wenn er läuft, beginnt der Umbau der App (A1–A13) und die Webseite.
+
+## 2f. Neue App: Lernstrategie, Sprechen und Motivation (Mario, 22.11.2026)
+
+**Anlass:** Konkurrenz-App „Deutsch mit Udi“ (Google Play, eu.udlis.deutsch) gefunden. Udi hat einen Kurs A0–B2 (kostenlos), DTZ-/B1-/B2-Beruf-Übungen, Erklärungen nur auf EN/UK/RU und ein **KI-Abo für 19,99 €/Monat** (Gesprächsminuten).
+
+**Entscheidung Mario:** Teure KI-Gespräche nutzen wenige. Unser Kernwert ist eine **Lernstrategie, die fesselt und bei der man dranbleibt**. Dafür zahlt man eher 4,99 € als 19,99 €. Dialoge und Sprechen bleiben trotzdem wichtig („lesen oder schreiben kann man viel, sprechen lernen ist aber auch wichtig“).
+
+**Positionierung:** Ein persönlicher Prüfungsplan, der die eigenen Fehler kennt. Abgrenzung zu Udi: mehr Ausgangssprachen (Arabisch, Türkisch, Dari, Französisch …), Satzbau als Kern, Betreuer-Ansicht, DTB-Tiefe mit Berufs-Wortschatz.
+
+**Umsetzung:** als neue App-Version (Umbau laut 2e). Alle Inhalte aus `quellen/` werden übernommen und zusätzlich mit Fehlertypen markiert. Fortschritts-IDs bleiben gleich (A9). Die heutige App läuft weiter, bis die neue fertig ist.
+
+### Bausteine
+
+| # | Baustein | Was | Heute schon vorhanden | Status |
+|---|---|---|---|---|
+| B1 | **Prüfungsziel + Tagesplan** | Beim Start Prüfung und Termin wählen → App rechnet den Tagesplan. Startbildschirm zeigt **„Prüfungsreife in %“** statt Level/Punkte. | Prüfungswahl DTB/DTZ, Tagesmix | ⬜ |
+| B2 | **Feste Tagesportion** | 10–15 Min., danach „Heute erledigt ✓“; freiwillig mehr möglich. | Tagesmix (20 Aufgaben) | ⬜ |
+| B3 | **Fehleranalyse als Herzstück** | Fehlermuster erkennen (z. B. „Verb nach *weil* falsch, 7×“), gezielte Übungen dazu, Wiederholung nach Fehlern statt festem Rhythmus (was sitzt, kommt seltener). Wochenmeldung „besser geworden / noch schwach“. | Fehleranalyse nach 12 Grammatik-Themen, Tagesmix aus schwächsten Themen | 🟡 |
+| B4 | **Dranbleiben ohne Druck** | Serie mit 1–2 Joker-Tagen pro Woche; Erinnerung zur Wunschzeit mit Vorschau („Heute: 5 Wörter Arbeitsamt + Satzbau“); Betreuer-Ansicht mit Knopf „Lob schicken“. | Serie, Pausentage | 🟡 |
+| B5 | **Guter Start** | Einstufungstest am ersten Tag; nach 3 Tagen ein sichtbares Ergebnis („40 Wörter für Behörden gelernt“). | – | ⬜ |
+| B6 | **Nie zu schwer, nie zu leicht** | Schwierigkeit passt sich an (Ziel ≈ 80 % richtig); Formate wechseln, nie zehnmal dasselbe hintereinander. | Grundkurs-Freischaltung ab 80 % | 🟡 |
+
+### Sprechen (eigener Strang, ergänzt 4a)
+
+| Stufe | Was | Kosten | Status |
+|---|---|---|---|
+| S1 | **Nachsprechen:** Satz anhören, nachsprechen, Android-Spracherkennung prüft Wörter **und Wortstellung** (= Satzbau-Training). | keine | ⬜ (braucht A3) |
+| S2 | **Szenen-Dialoge mit freier Sprachantwort:** Arzt, Jobcenter, Arbeit, Prüfungsgespräch; Antwort wird mit mehreren richtigen Varianten verglichen, Dialog verzweigt je nach Antwort. Baut auf den vorhandenen geführten Dialogen (Stufe 1, 4a) auf. | keine im Betrieb | ⬜ (braucht A3) |
+| S3 | **Freies KI-Gespräch**, kontingentiert (z. B. 2–3 kurze Gespräche pro Woche im Abo), damit 4,99 € tragbar bleiben. | wenige Cent pro Gespräch | ⬜ = A4 |
+
+Sprechfehler fließen genauso in Prüfungsreife und Fehleranalyse ein wie Schreibfehler.
+
+### Motivation: Lust am Weitermachen
+
+| # | Idee | Was | Status |
+|---|---|---|---|
+| L1 | **Geschichte als Serie** ⭐ | Feste Figuren (z. B. eine Familie kommt nach Deutschland: Wohnung, Jobcenter, erster Arbeitstag …). Jede Lektion ist eine Folge mit offenem Ende; die Figuren tauchen auch in den Dialogen auf. | ⬜ |
+| L2 | **Vorher/Nachher-Stimme** ⭐ | Tag 1 einen Satz aufnehmen, nach 30 Tagen denselben → beide anhören. | ⬜ (braucht A6) |
+| L3 | **Behördenbrief-Hilfe** ⭐ | Brief fotografieren → einfache Erklärung, schwierige Wörter kommen in den Wortschatz. Kontingentiert (wenige Briefe pro Monat). | ⬜ (braucht Server/KI) |
+| L4 | Monatliche Mini-Prüfung | Kurze Prüfung im echten Format, Prüfungsreife springt sichtbar. | 🟡 Simulation vorhanden |
+| L5 | „Das kannst du jetzt“-Liste | Greifbare Fähigkeiten statt Punkte („Arzttermin vereinbaren ✓“). | ⬜ |
+| L6 | Alltagsmissionen | Echte Aufgaben im Alltag („Frag im Supermarkt nach einem Produkt“), in der App abhaken. | ⬜ |
+| L7 | Eigener Beruf | Berufswahl (Pflege, Lager, Handwerk …) → passender Wortschatz und Dialoge. | 🟡 Branchen-Wortschatz vorhanden |
+| L8 | Lernpartner + Wochenliga | Zwei Lernende sehen gegenseitig ihre Tagesserie; Liga nur mit Gleichstarken. | ⬜ (braucht Konten) |
+
+⭐ = größter Effekt (Top 3). **Nicht gewollt:** kindische Spielelemente (Edelsteine, Maskottchen-Druck) – Zielgruppe sind Erwachsene mit echtem Ziel.
+
+### Reihenfolge
+
+1. Server fertig (läuft gerade).
+2. Neues Inhaltsformat (IDs, Sprachpakete laut 2e, Fehlertypen) + Migration der alten Inhalte.
+3. Kern: B1–B3, B6, Statistik → Lernerin testet.
+4. Sprechen S1 + S2 (APK-Update mit Mikrofon, A3/A6), L1, L2, L4, L5.
+5. Konten, Abo, Gast + 7 Tage Probe (9.6), Betreuer-Ansicht (A12), B4, B5, L8.
+6. Weitere Ausgangssprachen, S3 (KI-Gespräche), L3 (Behördenbrief), L6, L7.
 
 ---
 
