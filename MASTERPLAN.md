@@ -227,6 +227,8 @@ Mario (09.11.2026): „Wir ändern die App ja sowieso als nächstes.“ Alles, w
 | B4 | **Dranbleiben ohne Druck** | Serie mit 1–2 Joker-Tagen pro Woche; Erinnerung zur Wunschzeit mit Vorschau („Heute: 5 Wörter Arbeitsamt + Satzbau“); Betreuer-Ansicht mit Knopf „Lob schicken“. | Serie, Pausentage | 🟡 |
 | B5 | **Guter Start** | Einstufungstest am ersten Tag; nach 3 Tagen ein sichtbares Ergebnis („40 Wörter für Behörden gelernt“). | – | ⬜ |
 | B6 | **Nie zu schwer, nie zu leicht** | Schwierigkeit passt sich an (Ziel ≈ 80 % richtig); Formate wechseln, nie zehnmal dasselbe hintereinander. | Grundkurs-Freischaltung ab 80 % | 🟡 |
+| B7 | **Fehler je Muttersprache** ⭐ | Fehler aller Lernenden (anonym) nach Ausgangssprache auswerten → typische Fehler je Sprache („typisch für Türkischsprachige: …“) als eigene Übungen. Wird mit jedem Nutzer besser, schwer zu kopieren = unser Vorsprung. Braucht A12 (Lernstand an Server) und Zustimmung zur anonymen Auswertung. | Fehleranalyse pro Person | ⬜ |
+| B8 | **Wenig Datenvolumen** | Inhalte einmal laden (gern im WLAN), danach komplett offline lernen; Größe der Pakete klein halten (A7). Verkaufsargument für Nutzer mit knappem Handytarif. | offline-fähig (Service Worker) | 🟡 |
 
 ### Sprechen (eigener Strang, ergänzt 4a)
 
@@ -250,6 +252,8 @@ Sprechfehler fließen genauso in Prüfungsreife und Fehleranalyse ein wie Schrei
 | L6 | Alltagsmissionen | Echte Aufgaben im Alltag („Frag im Supermarkt nach einem Produkt“), in der App abhaken. | ⬜ |
 | L7 | Eigener Beruf | Berufswahl (Pflege, Lager, Handwerk …) → passender Wortschatz und Dialoge. | 🟡 Branchen-Wortschatz vorhanden |
 | L8 | Lernpartner + Wochenliga | Zwei Lernende sehen gegenseitig ihre Tagesserie; Liga nur mit Gleichstarken. | ⬜ (braucht Konten) |
+| L9 | „Bestanden!“-Erfolge | Nach der Prüfung Ergebnis eintragen (freiwillig) → Glückwunsch in der App; mit Zustimmung als Erfolgsgeschichte für Store und Webseite; echte Bestehensquote als Werbeargument. | ⬜ |
+| L10 | Prüfungs-Infos | Wo kann ich in der Nähe die Prüfung ablegen, was kostet sie, was muss ich mitbringen, wann kommt das Ergebnis – kurz und in der eigenen Sprache. | ⬜ |
 
 ⭐ = größter Effekt (Top 3). **Nicht gewollt:** kindische Spielelemente (Edelsteine, Maskottchen-Druck) – Zielgruppe sind Erwachsene mit echtem Ziel.
 
@@ -309,9 +313,9 @@ Grundsatz: Diese Punkte gelten **von Anfang an** beim Bau der neuen App, nicht e
 2. Neues Inhaltsformat (IDs, Sprachpakete laut 2e, Fehlertypen) + Migration der alten Inhalte.
 3. Kern: B1–B3, B6, Statistik → Lernerin testet.
 4. Sprechen S1 + S2 (APK-Update mit Mikrofon, A3/A6), L1, L2, L4, L5.
-5. Konten, Abo, Gast + 7 Tage Probe (9.6), Betreuer-Ansicht (A12), B4, B5, L8.
+5. Konten, Abo, Gast + 7 Tage Probe (9.6), Betreuer-Ansicht (A12), B4, B5, B8, L8, L9, L10, **Empfehlungsprogramm W1**, Jahresabo W4. Ab der Testgruppe parallel: Kurzvideos W2.
 6. **iPhone-Version** (gleicher Stand wie Android, App Store, TestFlight-Test).
-7. Weitere Ausgangssprachen, S3 (KI-Gespräche), L3 (Behördenbrief), L6, L7.
+7. Weitere Ausgangssprachen, B7 (Fehler je Muttersprache – lohnt sich ab mehreren Sprachen), S3 (KI-Gespräche), L3 (Behördenbrief), L6, L7, Firmenlizenzen W3.
 
 ---
 
@@ -542,7 +546,7 @@ Zusätzlich **7 Tage Premium kostenlos** testen. Die bisherige Lernerin behält 
 
 ### 9.5 Offene Entscheidungen (Mario)
 
-- ❓ Preis: nur Monatsabo 4,99 € oder zusätzlich ein günstigeres Jahresabo?
+- ❓ Preis: nur Monatsabo 4,99 € oder zusätzlich ein günstigeres Jahresabo? → Vorschlag 22.11.2026: Jahresabo ca. 39 € und Familienabo, siehe 9.7
 - ❓ Name der App für den Play Store
 - ✅ Online-Speicher: **eigener Server** (VPS mit Coolify, PostgreSQL) – entschieden von Mario am 10.11.2026, siehe 9.6
 - ✅ Probe: **7 Tage ohne Zahlungsdaten**, Sperre über Geräte-ID + Play Integrity (Mario, 10.11.2026)
@@ -550,6 +554,32 @@ Zusätzlich **7 Tage Premium kostenlos** testen. Die bisherige Lernerin behält 
 - ❓ Wann startet G2? Vorschlag war: sobald M10 fertig ist → **M10 ist fertig**, die Entscheidung liegt bei Mario
 
 Neue Aufgabentypen und Änderungen an `android/` werden auch hier erst nach Rücksprache gebaut.
+
+### 9.7 Wachstum und Einnahmen (Ideen Mario/Claude, 22.11.2026 – von Mario angenommen)
+
+| # | Idee | Was | Wann | Status |
+|---|---|---|---|---|
+| W1 | **Empfehlungsprogramm** | Jeder Nutzer hat einen eigenen Code + Einladungslink. Technik siehe unten. | mit Konten/Abo (G4) | ⬜ |
+| W2 | **Kurzvideos aus den eigenen Inhalten** | „Satzbau in 30 Sekunden“ auf Russisch, Ukrainisch, Arabisch … für TikTok, Reels, Telegram. Sätze und Regeln sind schon da → Videos weitgehend automatisch erzeugen (Text + Vorlesestimme + Animation). Kostenlose Reichweite. | ab Testgruppe (G2) | ⬜ |
+| W3 | **Lizenzen für Firmen und Kursträger** | Pflegeheime, Logistik, Sprachschulen, Integrationskurse: Paket für z. B. 20 Lernende + Betreuer-Übersicht (A12) + Rechnung statt Store-Abo (Bezahlung über Webseite, da nicht in der App gekauft). | nach Start (G5/G6) | ⬜ |
+| W4 | **Jahres- und Familienabo** | Jahresabo ca. 39 € (mehr Geld vorab, weniger Kündigungen); Familienabo für mehrere Lernende in einem Haushalt (Google: mehrere Konten im eigenen System; Apple: Familienfreigabe für Abos einschaltbar). | mit Abo (G4) | ❓ Mario |
+
+**W1 – Empfehlungsprogramm: so funktioniert es mit dem automatischen Monatsabo**
+
+Grundidee: Die Belohnung wird **nicht** vom Nutzer bezahlt oder gutgeschrieben, sondern unser Server verschiebt den nächsten Abbuchungstermin bzw. gibt ein Gratis-Angebot frei. Das Abo läuft danach ganz normal weiter.
+
+1. **Code:** Bei der Registrierung bekommt jeder Nutzer einen festen, kurzen Code (z. B. `OLGA-7K3P`) und einen Link `…/e/OLGA-7K3P`. Gespeichert in der Datenbank auf dem Server (Tabelle `empfehlungen`: Werber, Geworbener, Datum, Status).
+2. **Einlösen:** Der neue Nutzer öffnet den Link (Code wird übernommen) oder tippt den Code bei der Anmeldung ein. Nur einmal pro Konto und Gerät (Geräte-Hash aus 9.6), nicht der eigene Code.
+3. **Belohnung für den Neuen:** 14 statt 7 Tage Probe. Einfach, weil die Probe ohnehin über unseren Server läuft (9.6).
+4. **Belohnung für den Werber erst, wenn der Neue wirklich zahlt** (erste echte Abbuchung nach der Probe). So bringt Missbrauch mit Fake-Konten nichts. Der Server erfährt die Zahlung automatisch über die Store-Benachrichtigungen (Google Real-time Developer Notifications, Apple App Store Server Notifications) bzw. über RevenueCat-Webhooks.
+5. **Gratis-Monat gutschreiben – je nach Plattform des Werbers:**
+   - **Google Play:** Server ruft `subscriptionsv2.defer` auf → nächster Abbuchungstermin rückt 1 Monat nach hinten, Zugang bleibt. Läuft vollautomatisch, der Nutzer muss nichts tun.
+   - **Apple:** Es gibt keine Funktion, um den Termin für Belohnungen einfach zu verschieben. Lösung: **Werbeangebot (Promotional Offer) „1 Monat gratis“**. Die App zeigt „🎁 Du hast 1 Gratis-Monat – jetzt einlösen“, der Nutzer bestätigt einmal im Apple-Fenster, der nächste Monat kostet nichts. Das Angebot signiert unser Server, damit nur echte Werber es bekommen.
+   - **Web/Firmen (Stripe):** Gutschrift auf die nächste Rechnung.
+   - **Werber ohne Abo:** Guthaben wird gespeichert und beim ersten Abo eingelöst.
+6. **Grenzen:** z. B. höchstens 12 Gratis-Monate pro Jahr; mehrere Belohnungen stapeln sich (Google: mehrfach `defer`; Apple: nacheinander einlösen).
+7. **Anzeige in der App:** „Freunde einladen“ mit Code, Teilen-Knopf (WhatsApp/Telegram), Liste „3 eingeladen · 2 zahlen · 2 Gratis-Monate erhalten“.
+8. **Regeln:** Belohnung nie für Bewertungen im Store (verboten), nur für Einladungen. Bedingungen kurz in AGB und in der App erklären (R3).
 
 ---
 
